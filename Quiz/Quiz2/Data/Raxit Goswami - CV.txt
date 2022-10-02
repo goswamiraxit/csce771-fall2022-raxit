@@ -1,0 +1,60 @@
+﻿Raxit Goswami
+Email Id: goswamiraxit@gmail.com                                                         M: +91 9898575075
+________________
+
+
+
+
+Career Objective: Experienced data science professional with excellent leadership and interpersonal skills. Seeking to learn new methodologies around Deep learning and build most accurate Deep Learning models in clinical domain which result into saving human lives
+
+
+Education:
+Bachelor's degree in Technology (B.Tech), Computer Engineering, 71.25%                June 2007 to June 2011
+U. V Patel College of Engineering, Ganpat University 
+
+
+Professional Experience:
+Research Engineer, ezDI Solution India LLP, Ahmedabad                                June 2011 to May 2013
+* Worked with Java, and semantic web technologies to build deep clinical knowledge graph
+* Designed OWL schema for semantic search engine to find contextual information of patient 
+
+
+Sr. Research Engineer, ezDI Solution India LLP, Ahmedabad                                June 2013 to May 2015
+* Worked with Annotation team to design annotation guidelines for multiple modules of NLP
+* Worked on NLP and ML to develop accurate Clinical NLP
+
+
+Research Lead, ezDI Solution India LLP, Ahmedabad                                        June 2015 to Nov 2020
+* Worked on building a knowledge graph for various medical coding systems and created ML model to recommend medical codes to user (medical coders)
+* Worked on designing Clinical Documentation Improvements templates using core knowledge graph and build ML model to recommend CDI query to user
+ 
+Sr. Manager - R&D, ezDI Solution India LLP, Ahmedabad                                Nov 2020 to Present
+* Finalize Deep learning approach for Protected health information identification and led team to build accurate PHI model
+* Working on NLP and Knowledge graph APIs to be available for other technical users
+
+
+Patents:
+* Data Processing System and Method for Computer-Assisted Coding of Natural Language Medical Text (US20160132648A1)                                                                                
+Publications:
+* CRF-based Clinical Named Entity Recognition using clinical NLP Features - International Conference on Natural Language Processing                                                                        2013
+* ezDI's Semantics-Enhanced Linguistic, NLP, and ML Approach for Health Informatics - 14th International Semantic Web Conference                                                                        2015
+* Creation of Unambiguous Centralized Knowledge Base from UMLS Metathesaurus - IEEE International Conference on Bioinformatics and Biomedicine                                                        2018
+* Automated Clinical Documentation Improvement - IEEE International Conference on Bioinformatics and Biomedicine                                                                                        2018
+* Ontological Approach for Knowledge Extraction From Clinical Documents - 2019 IEEE International Conference on Bioinformatics and Biomedicine                                                        2019
+
+
+Skills and Expertise:
+* Technical Skills : Machine Learning, Deep Learning, Natural Language Processing, Java, Python, Virtuoso, Neo4j, Mysql
+* Organization Skills : Public Speaking, Teamwork, Delegation, Planning, Prioritizing
+* Languages Known : English, Hindi, Gujarati
+Extracurricular Activities
+* Coordinator of Postal presentation in Annual Events of my college. Handled registration and other administration works.                                                                        2010
+* Organized an event named “Mock Interview” in the Annual function of my college.        2010
+* Participated in a dance competition in the Annual function of my college.                        2009
+
+
+Honors and Awards
+* Runner Up in “Eloquence competition” - School Competition                         1999
+* Got the first Rank in “Student Talent Search Test” in my district                        2004
+* Recognized as a “Employee of the year” - ezDI solutions india LLP                 2012
+* Recognized as a “Employee of the year” - ezDI solutions india LLP                2013
