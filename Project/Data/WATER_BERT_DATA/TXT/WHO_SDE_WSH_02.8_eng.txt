@@ -1,0 +1,1724 @@
+                                   WHO/SDE/WSH/02.08
+                                        Distr.: Limited
+                                         English only
+
+
+
+
+   Evaluation of the H2S Method for
+  Detection of Fecal Contamination of
+            Drinking Water
+
+
+
+
+            Water, Sanitation and Health
+Department of Protection and the Human Environment
+             World Health Organization
+                       Geneva
+ World Health Organization 2002
+
+The illustration of the cover page is extracted from Rescue Mission: Planet Earth,  Peace Child
+International 1994; used by permission
+
+This document is not issued to the general public and all rights are reserved by the World Health
+Organization. The document may not be reviewed, abstracted, quoted, reproduced or translated, in part
+or in whole, without the prior written permission of WHO. No part of this document may be stored in a
+retrieval system or transmitted in any form or by any means – electronic, mechanical or other without
+the prior written permission of WHO.
+
+The views expressed in documents by named authors are solely the responsibility of those authors.
+                                    WHO/SDE/WSH/02.08
+                                         Distr.: Limited
+                                          English only
+
+
+
+
+ Evaluation of the H2S Method for
+Detection of Fecal Contamination of
+          Drinking Water
+
+
+
+
+                   Prepared by
+
+
+    Mark D. Sobsey and Frederic K. Pfaender
+   Department of Environmental Sciences and
+       Engineering, School of Public Health
+University of North Carolina, Chapel Hill, NC 27599
+                                        TABLE OF CONTENTS
+
+                                                                                                                                                              Page
+
+          Foreword ..................................................................................................................................................... i
+
+1.        Introduction................................................................................................................................................. 1
+
+2.        Fecal Indicator Detection and Testing in Drinking Water: Context, Purposes, Needs
+          and Criteria ................................................................................................................................................. 2
+          2.1     Drinking Water Safety Plans and Detecting fecal indicators in drinking water ........................ 2
+          2.2     Purposes and Needs for Detecting Indicators of Fecal Contamination in Drinking
+                  Water............................................................................................................................................... 2
+          2.3     Criteria for detecting fecal contamination of drinking water using indicators .......................... 3
+          2.4     Microbiological presence-absence tests and their use in detecting and quantifying
+                  fecal contamination........................................................................................................................ 4
+          2.5     Advantages, disadvantages and limitations of tests for bacterial indicators of fecal
+                  contamination................................................................................................................................. 5
+          2.6     Needs for and benefits of alternative tests to detect fecal contamination of drinking
+                  water................................................................................................................................................ 5
+
+3.        Basis and Historical Development H2S Tests ......................................................................................... 7
+          3.1     What H2S Tests Measure and How They Measure It .................................................................. 7
+          3.2     Hydrogen Sulfide and the Biogeochemistry of Sulfur ................................................................. 8
+          3.3     Sulfate reducing bacteria and H2S tests ....................................................................................... 14
+          3.4     Other possible limitations or sources of misinterpretation in the H2S test ................................ 15
+          3.5     H2S Test Procedures: Media, Formats and Test Conditions ...................................................... 16
+          3.6     Comparison of H2S Tests to Other Tests for Detecting Fecal Contamination of Water .......... 20
+          3.7     Determination if H2S Tests Meet the Criteria of an Ideal or Preferred Indicator of
+                  Fecal Contamination ..................................................................................................................... 25
+          3.8     Potential modifications of the H2S test to improve specificity for H2S-producing
+                  bacteria of fecal origin................................................................................................................... 27
+          3.9     Costs of H2S Tests ......................................................................................................................... 27
+
+4.        Summary and Conclusions ....................................................................................................................... 29
+
+5.        Literature Cited ......................................................................................................................................... 32
+
+
+Tables
+
+Table 1   Microbial sources of hydrogen sulfide in water and other envi ronmental media..................................... 9
+Table 2   Microorganisms capable of producing hydrogen sulfide .......................................................................... 12
+Table 3   Comparisons of Media, Materials and Methods for the H2S Test in Different Reported Studies ........... 17
+Table 4   Comparison of H2S and Standard Bacteriological Tests Applied to Various Samples ........................... 21
+Table 5   Fecal Indicator Criteria for Fecal Contamination and the Extent to Which they are Met in
+          Reported Studies of H2S Tests .................................................................................................................. 26
+FOREWORD
+
+Around 2.2 million die of basic hygiene related diseases, like diarrhoea, every year.
+The great majority are children in developing countries. Interventions in hygiene,
+sanitation and water supply make proven contributors to controlling this disease
+burden. For decades, universal access to safe water and sanitation has been promoted
+as an essential step in reducing this preventable disease burden
+
+Nevertheless the target of “universal access” to improved water sources and basic
+sanitation remains elusive. The “Millenium Declaration” established the lesser but
+still ambitious goal of halving the proportion of people without access to safe water
+by 2015.
+
+The provision of drinking water of acceptable microbiological quality and low
+infectious disease risk requires a number of essential elements within a Water Safety
+Plan. Within any water safety plan emphasis is placed on controlling and detecting
+fecal contamination of drinking water and its sources. Traditionally, this measure of
+fecal contamination has been a bacterium or group of bacteria considered indicative of
+fecal contamination.      The measurement of such indicator bacteria of fecal
+contamination requires trained analysts, media and other supporting materials and
+facilities available only in a microbiology laboratory or the use of a water
+microbiology field analysis kit.
+
+Lack of access to laboratories or field analysis kits is an obstacle to the provision of
+microbiologically safe drinking water to many communities and people worldwide. In
+an effort to overcome this problem, a number of alternative indicators and tests to
+detect fecal contamination of drinking water have been proposed and developed.
+Some of these proposed fecal indicators and their tests are simple, low cost and do not
+require a microbiology laboratory or bacteriological field test kit. Some of these
+simple, low cost fecal indicator tests have come into use in actual drinking water
+supply practice. Prominent among these is the so-called hydrogen sulfide or H2S test,
+which is intended to detect or quantify hydrogen sulfide-producing bacteria,
+considered to be associated with fecal contamination.
+
+The purpose of this report is to review the basis of the hydrogen sulfide test as a
+measure of fecal contamination of drinking water and the available scientific and
+empirical evidence for and against the test as a valid, useful and reliable measure of
+fecal contamination and drinking water quality. The report addresses the fundamental
+microbiological considerations of the test, including its chemical and biochemical
+basis, what organisms it detects and how it detects and quantifies them and the
+reported experiences with its practical application to assessing water quality.
+
+In developing this report many sources of data and supporting information were
+generously provided by developers and users of the test and others who also have
+attempted to modify, improve, validate and apply it. We are grateful to these many
+individual and organizations for their assistance. In particular, we gratefully thank the
+following for providing reports and other supporting information:
+Rajiv Gandhi National Drinking Water Mission, Ministry of Rural Development,
+Department of Drinking Water Supply, Government of India
+UNICEF, New Delhi
+
+
+                                           6
+Ms. Bettina Genthe, Division of Water Environment and Forestry, CSIR,
+Stellenbosch, South Africa
+
+This report has been prepared as part of a programme of activity towards the updating
+of WHO’s Guidelines for Drinking-water Quality. Following a process of
+development and review it is released in draft form.
+
+This document represents “work in progress” and further information concerning the
+H2S test and experience with its application would be welcome. Such information
+should be forwarded to:
+
+Dr Jamie Bartram
+Coordinator
+Water, Sanitation and Health Programme
+World Health Organization
+20 avenue Appia
+1211 Geneva 27
+Switzerland
+
+
+
+
+                                         7
+1. INTRODUCTION AND BACKGROUND
+
+This report critically reviews the scientific basis, validity, available data and other
+evidence for and against H 2S tests as measures or indicators of fecal contamination in
+drinking water. The test was originally developed to detect in a volume of water the
+production of H2S by enteric bacteria associated with fecal contamination by the
+formation of a black precipitate from the reaction of the H2S with iron in the medium.
+This relatively simple, low cost test has been studied, modified in various ways, tested
+and used to some extent in many parts of the world as an indicator of fecal
+contamination of drinking water.
+
+Since the initial report of the H2S test 20 years ago (Manja et al., 1982), many
+versions or modifications of it have been described in the published literature. Hence,
+there are now many versions of the H2S test and these differ in medium composition,
+the preparation of the medium and supporting materials, test format and sample
+volumes, incubation time, incubation temperature and scoring of results. The test is
+not standardized worldwide and only some versions of it have been subjected to
+collaborative testing or comparison with other bacteriological tests for fecal
+contamination. The plethora of different H2S test versions and the variety of ways
+they have been evaluated in laboratory and filed studies make it difficult to compare
+them. The essential criteria of any test to detect and quantify fecal contamination of
+drinking water and other waters are used as the basis for evaluating the validity and
+performance of various versions of the H2S test and the quality of the data available
+for evaluation and validation purposes.
+
+
+
+
+                                           8
+2.    FECAL INDICATOR DETECTION AND TESTING IN DRINKING
+      WATER: CONTEXT, PURPOSES, NEEDS AND CRITERIA
+
+2.1 Drinking Water Safety Plans and Detecting fecal indicators in drinking
+water
+
+An essential goal for the provision of safe drinking water is that it be essentially free
+of (at low risk of containing) disease-causing microorganisms. Since the beginning of
+the 20th century, the detection of fecal indicator bacteria in drinking water has been
+used as the basis of criteria, guidelines and standards for acceptable limits of fecal
+contamination and as the basis for judging or predicting the possible presence or
+absence of pathogenic (disease-causing) microorganisms. The WHO Guidelines for
+Drinking-water Quality (GDWQ) and many other authorities continue to support the
+use of bacterial indicator levels and their measurement as a basis for judging and
+verifying drinking water quality. However, such fecal indicator analysis of drinking
+water as a measure of end-product quality and determinant of microbial disease risk is
+only one of many measures and activities in an overall system for providing safe
+drinking water. In the updating of the WHO GDWQ, the goal of providing safe
+drinking water will be promoted through the development and use of a Water Safety
+Plan. This plan includes risk assessment, water system assessment and process
+control that examines all aspects of drinking water from its source, through treatment
+and distribution (or collection and storage) to the consumer. It uses a management
+plan that incorporates Hazard Analysis-Critical Control Points (HACCP). In such a
+plan the measurement of fecal indicator presence or levels in water is only one of
+several management tools and not always among the most critical ones for process
+control or overall collection, production and delivery of drinking water of acceptable
+microbial quality. Nevertheless, measures or indicators of water quality, particularly
+those measuring or indicating fecal contamination, are useful if not essential tools in
+the provision of safe drinking water. The ability to easily, rapidly and affordably
+detect fecal contamination in drinking water is still a desirable goal and worthy
+endeavor in the overall effort to provide microbiologically safe (low risk) drinking
+water.
+
+2.2   Purposes and Needs for Detecting Indicators of Fecal Contamination in
+      Drinking Water
+
+Determining the microbial quality of drinking water by measuring the presence,
+absence or concentrations of indicator bacteria continues to be widely practiced
+worldwide to: (1) meet water quality standards and guidelines, (2) to determine source
+water quality, treatment system efficacy and distribution system integrity, and (3) to
+inform Water Safety Plans, risk assessments and management systems. In some
+countries and regions and for international commerce (commercial bottled water) and
+transportation (airplane, rail and other travel conveyances), such analysis of drinking
+water may be required by law or governance.
+
+In addition to these purposes and needs, measuring the microbial quality of water for
+presence of fecal contamination can be and is now being done for other beneficial
+purposes. One such purpose is for community involvement and empowerment in the
+provision, management and monitoring of drinking water, including its sources and
+treatment. Great efforts are being made to encourage local participation in the
+
+
+                                           9
+provision of safe drinking water and in the oversight or monitoring of its provision by
+other responsible parties (governments, privatized water companies, water supply
+contractors, water vendors, etc). The ability to test drinking water for fecal
+contamination is a powerful and empowering tool for these purposes.
+
+Another useful purpose for measuring the microbial quality of water is educational.
+Teaching people about the microbial quality of water and the fundamentals of germ
+theory within the context of education and outreach programs for water, sanitation
+and hygiene at the individual, household, community and regional levels is a
+continuing and long-term goal in the global health initiative. In delivering these
+educational messages the availability of simple, practical, accessible and affordable
+tests for fecal contamination of drinking water are extremely useful and potentially
+powerful tools. In some situations the best tests to accomplish these goals are those
+that are the simplest to use, understand, visualize and interpret. This is because such
+tests can be widely disseminated both directly by the primary educators and then
+subsequently via communications within households, families, schools and
+communities and by other means (educational materials such as leaflets, signs and
+labels). For these purposes the H2S tests and other simple and affordable tests have
+great value and even greater potential use for drinking water supply management and
+health education in the water and sanitation sectors.
+
+However, meeting these needs and purposes is served only if the tests are reliable and
+provide the correct information. If they are unreliable and if they provide incorrect
+information (false positives and false negatives), their potential uses and benefits will
+be undermined. Therefore, H2S tests and other simple tests to detect and quantify
+fecal contamination of drinking water must be evaluated and judged on the basis of
+their reliability and predictability as well as their accessibility, practicality and
+affordability.
+
+2.3 Criteria for detecting fecal contamination of drinking water using
+indicators
+
+For more than 100 years, bacteriological tests have been used to detect fecal
+contamination of drinking water, other waters and other media, such as wastewater
+and foods. During this time, there has been an evolution in the bacterial indicators
+used and the articulation of the criteria for an ideal or reliable indicator of fecal
+contamination in drinking water and other waters (Olivieri, 1983; Sinton et al., 1998).
+The current criteria of an ideal or preferred indicator of fecal contamination have been
+defined and stated by WHO and other authorities. According to these authorities the
+essential criteria of a fecal indicator are the following (WHO, 2002):
+
+•  The indicator should be absent in unpolluted water and present when the source
+    of pathogenic microorganisms of concern (fecal contamination) is present.
+• The indicator should be present in greater numbers than the pathogenic
+microorganisms.
+• The indicator should respond to natural environmental conditions and water
+    treatment processes in a manner similar to the pathogens of concern.
+• The indicator should be easy to isolate, identify and enumerate.
+• The test should be inexpensive thereby permitting numerous analyses to be taken.
+
+
+
+                                           10
+•     The indicator should not be a pathogenic microorganism (to minimise the health
+      risk to analysts).
+
+Authorities have identified at least one additional criterion for indicators of fecal
+contamination (as distinct from indicators of other sources of microbial
+contamination) (Olivieri, 1983). This fecal indicator criterion is:
+
+•     The indicator should not multiply in the environment
+
+The rationale for this last criterion is that the presence and concentration of fecal
+indicators should be in proportion to the level of fecal contamination. Hence,
+microbial proliferation in the environment could result in the microbe being present at
+high concentrations when no fecal contamination (and its pathogens) or very low
+levels of fecal contamination are actually present.
+Therefore, any indicator of fecal contamination of drinking water and its sources is
+best judged according to these essential criteria and perhaps other criteria that may be
+relevant for or specific to a particular indicator and type of test for it.
+
+2.4     Microbiological presence-absence tests and their use in detecting and
+        quantifying fecal contamination
+
+In addition to the criteria described above, some microbial tests for fecal
+contamination of water are based on the presence (P) or absence (A) of the microbial
+indicator in a specified volume of water, a so-called P-A test. In the application of P-
+A tests to detecting bacterial indicators of fecal contamination in drinking water the
+tested sample volume is 100 ml. According to some standards and guidelines, the
+fecal indicator is expected or required to be absent (A) in all of (zero tolerance) or
+most of (e.g., 95%) the 100-ml sample volumes successively tested over time. In
+other (i.e. non – P/A) formats of fecal indicator analysis of water, the concentration of
+the target microbe is determined by using multiple and varying sample volumes, each
+of which is scored as positive or negative for the test microbe. These data are then
+used to estimate microbial concentration by a quantal method typically the Most
+Probable Number (a maximum likelihood analysis method). Alternatively, the water
+is analyzed for the fecal indicator microbe or microbe group by an enumerative
+method in which the concentration of bacteria per unit volume of water can be
+expressed as colony forming units (CFU) per unit volume.
+
+The use of the P-A concept and P-A tests for fecal indicator bacteria, primarily
+coliforms, fecal coliforms and E. coli, has a history of development that goes back
+more than four decades (Clark, 1968). Considerable effort in the form of expert
+analysis and judgement went into the development and implementation of P-A tests
+for these microbes in drinking water. Much of this effort included consideration of
+the wealth of available historical data on the occurrence of these indicator bacteria in
+municipal drinking water, based on the frequency of positive results (fecal indicator
+presence) in 100-ml volumes of drinking water and the acceptability (or risk) of
+drinking waters based on these observed frequencies. These analyses led to current
+guidelines and standards for the microbial quality of drinking water based on positive
+P-A test results. There appears to be no corresponding analyses and expert judgement
+that went into the development of H2S test as a P-A test. Instead, results of P-A H2S
+tests have been compared to results for various fecal indicator microbe tests to
+
+
+                                           11
+determine the extent to which the results give the same outcome when scored as
+positive or negative results. In the initial report of the H2S test by Manja et al. (1982)
+the test was applied to various drinking water samples of several cities in India.
+Water samples containing 10 or more coliform bacteria by MPN were subjected to the
+new H2S test using a 20-ml sample volume in a P-A format. On this basis, positive
+H2S tests were considered unsatisfactory as drinking water because they contained 10
+or more total coliforms and were positive for H2S. Since then, others have compared
+H2S tests to tests for fecal indictor bacteria using either these or other criteria.
+
+The use of this comparative approach in determining the validity of the H2S test has
+never been subject to review of its scientific merit and validity. Considering the
+differences in the target bacteria being detected, absent any consideration of pathogen
+presence in water, and without formal efforts to determine how well they fulfill the
+essential criteria of an ideal or acceptable indicator of fecal contamination, the
+validity of H2S tests, the meaning and reliability of interpretation of their results, and
+their ability to predict microbial health risks is a matter of concern. Because the basis
+of the WHO GDWQ are now becoming risk-based, the absence of a microbial risk
+basis for H2S tests raises concerns about their validity and interpretation in judging
+the acceptability of drinking water quality. Hence, the application of P-A criteria or
+various quantitative criteria to H2S tests as fecal indicator tests is an important but still
+unresolved issue. There are no fully articulated public health or risk-based criteria for
+specifying the volume of water to be tested in a P-A test format or the acceptable (or
+unacceptable) concentrations of H2S bacteria as measured in a quantitative test. In
+this report, the use of P-A tests and criteria for H2S tests will be considered in terms of
+the validity and reliability of this test format to detect and quality fecal contamination
+in drinking water and its sources.
+
+2.5   Advantages, disadvantages and limitations of tests for bacterial indicators
+      of fecal contamination
+
+Fecal indicator bacteria generally are present in much higher numbers than the frank
+waterborne pathogens of fecal origin, they are easier to detect relatively rapidly by
+standard culture methods and the costs of analysis are far less than the costs of
+analyses for pathogens. A number of well-developed and extensively tested methods
+are widely available for the detection of various fecal indicator bacteria such as
+thermotolerant (fecal) coliforms and E. coli in drinking water and its sources. The
+historical basis, uses and interpretations of these tests are described in detail
+elsewhere (WHO, 2002). Suffice it to say that testing for these bacterial indicators of
+fecal contamination of drinking water is still encouraged and widely used worldwide.
+
+Despite their advantages and value, the use of bacterial indicators of fecal
+contamination and the methods for them have limitations. In addition, because of the
+previously noted lack of accessibility or availability in many settings in many parts of
+the world, it has become apparent that there are other limitations to and problems with
+the use of the usual bacterial indicators of fecal contamination of drinking water
+(thermotolerant coliforms and E. coli). It has been well documented that waters
+considered bacteriologically safe (less than 1 bacterial fecal indicator per 100 ml), can
+contain sufficient pathogenic enteric viruses and protozoans to cause disease
+outbreaks (Berry and Noton, 1976; Craun and Gunn, 1979; MacKenzie et al., 1994).
+Other fecal indicator microbes, such as enterococci, spores of Clostridium perfringens
+
+
+                                             12
+and coliphages, can be detected in drinking water when the usual coliform bacteria
+(total or thermotolerant) or E. coli are not detectable. Furthermore, there is some
+evidence that coliforms possibly including E. coli can proliferate in tropical and sub-
+tropical waters. Warmer water temperatures may contribute to the growth of
+coliforms, thermotolerant coliforms and E. coli and the greater survival of some
+enteric bacteria, notably Salmonella, compared to coliforms (Hazen, 1988; Iverson
+and Fleay, 1991; Jimenez et al., 1989; Townsend, 1992). For these reasons,
+coliforms, thermotolerant coliforms and E. coli are not ideal indicators of fecal
+contamination and alternative indicators of fecal contamination continue to be
+considered, evaluated and applied (Sinton, 1998; Sobsey, 2001; WHO 2002).
+
+2.6    Needs for and benefits of alternative tests to detect fecal contamination of
+       drinking water
+
+The requirements for laboratory resources or field analysis kits for standard
+bacteriological tests for fecal contamination of drinking water are major barriers to
+their accessibility in many parts of the world. The need for sterilized bacteriological
+materials (media, sample bottles, sterile diluent, culture tubes, bottle or plates,
+membrane filters, pipettes or other volumetric dispensing devices, etc), controlled
+temperature incubators, the required use of aseptic technique by trained individuals,
+and relatively high costs make it difficult, impractical or impossible to perform these
+tests in many places. The resources and infrastructure are simply not available to
+allow for routine bacteriological testing of drinking water using the standardized
+methods for fecal indicator bacteria analysis.
+
+The lack of availability of standard bacteriological tests for drinking water quality
+highlights the great need for a rapid, simple, inexpensive test for the microbial quality
+of drinking water. This need is especially great for small community and household
+water supplies that lack access to and can not afford conventional bacteriological
+testing of drinking water. On-site testing using portable equipment and use of
+simplified tests, such as the H2S tests, may both contribute to overcoming these
+constraints.
+
+H2S tests deserve evaluation as accessible alternatives to conventional bacteriological
+tests for fecal contamination of drinking water. Therefore, the potential merits and
+beneficial uses of H2S tests deserve consideration, as does the determination of their
+reliability and predictability in detecting fecal contamination of drinking water. Key
+issues to be addressed are whether H2S tests are sufficiently reliable and adequately
+developed as tests of fecal contamination of drinking water to be recommended for
+widespread and routine use, and if, so what caveats and cautions should be applied
+and under what conditions.
+
+This report addresses the key aspects of H2S tests as indicators of fecal contamination
+of drinking water. The aspects to be addressed are as follows:
+
+•     what organisms the tests actually measure;
+•     the extent to which test measurements are or are not indicative of fecal
+      contamination; and under what conditions;
+•     the basis for and likelihood of false positive and negative results;
+
+
+
+                                           13
+•   the current state of the methodology with respect to reliability, uniformity,
+    practicality, availability and cost and
+•   the extent to which the tests fulfill the ideal criteria of an indicator of fecal
+    contamination; and recommendations for future actions and their directions.
+
+
+
+
+                                         14
+3. BASIS AND HISTORICAL DEVELOPMENT H2S TESTS
+
+In 1982 Manja et al. reported the development of a simple method for detecting
+evidence of fecal contamination in drinking water. The test was intended to meet the
+"…need for a simple, reliable field test for use by village public health workers" to
+detect fecal contamination in drinking water. They observed that the presence of
+coliform bacteria in drinking water was consistently associated with organisms that
+produce hydrogen sulfide (H2S). The test is based on the readily observable formation
+of an iron sulfide precipitate on a paper strip (or in the water sample liquid) in a bottle
+or test tube, as a result of the reaction of H2S with iron. The test is intended to detect
+bacteria associated with fecal contamination due to the activity of these
+microorganisms in reducing organic sulfur to the sulfide oxidation state (as H2S gas)
+which then reacts rapidly with iron to form a black, iron sulfide precipitate (Allen and
+Geldreich, 1975). The advantage of the method is its simplicity, low cost and ability
+to be performed in the absence of a typical microbiology laboratory or field laboratory
+test kit. Tubes or other containers holding the test materials are prepared in a central
+laboratory to be used in the field by minimally trained personnel.
+
+Over the last two decades, various investigators have tested this method and various
+modifications of it in different tropic and temperate regions, including Indonesia,
+Peru, Paraguay, and Chile, Nepal, and South Africa (Ratto et. al., 1989; Kromoredjo
+and Fujioka, 1991, Kaspar et al., 1992; Castillo et. al., 1994; Venkobachar et al.,
+1994; Martins et. al., 1997; Rijal and Fujioka, 1998; Genthe and Franck, 1999), and
+compared it to traditional bacterial indicators of fecal contamination of water. As will
+be described in more detail in a later section of this report, the results of these studies
+generally indicate that the method gives results comparable to the test for traditional
+bacterial indicators of fecal contamination and is sometimes superior to these test in
+detecting fecal contamination, based on other criteria for evidence of fecal
+contamination. Furthermore, some studies indicate method worked well as a
+presumptive test for the detection of Salmonella (Gawthorne et. al., 1996).
+
+3.1   What H2S Tests Measure and How They Measure It
+
+The H2S method also, commonly called the paper strip method, and the various
+modifications of it do not consistently measure the presence of either total coliform
+bacteria, specific groups of fecal bacteria (e.g., fecal coliforms) or a specific fecal
+bacterium (E. coli). The test is based on measuring bacteria that produce hydrogen
+sulfide under the test conditions employed. However, some coliform bacteria (e.g.,
+Citrobacter spp.), some other enteric bacteria (e.g., Clostridium perfringens) as well
+as many other types of bacteria produce H2S. The test measures the production
+(actually, the presence) of H2S by its reaction with iron to form an insoluble, black
+precipitate of iron sulfide. Given the low solubility product of iron sulfide, the test
+can detect even small amounts of sulfide formation or presence. Any source of H 2S in
+the sample can lead to a positive result. Sulfides also can be formed by abiotic
+chemical reactions. Many different bacteria, from a variety of habitats, including
+many of enteric origin, can release sulfide from proteins, amino acids and other
+reduced sulfur compounds by reduction reactions. Therefore, there are many possible
+sources of a positive result in the H2S test.
+
+
+
+
+                                            15
+In evaluations of the H2S test, several investigators have attempted to identify by
+speciation, the bacteria present in positive H2S tests. Castillo et al., (1994) found a
+large variety of bacteria, primarily various Enterobacteriaceae and Clostridium
+perfringens, in samples giving positive reactions in the H2S test: Enterobacter,
+clostridia, Klebsiella, Escherichia, Salmonella, Acinetobacter, Aeromonas,
+Morganella. Ratto et al. (1989) found Citrobacter to be a common organism in
+positive H2S tests. This suggests that while the test organisms many not be all
+coliforms they are organisms typically associated with the intestinal tracts of warm-
+blooded animals.       Because some of these microbes may arise from fecal
+contamination of non-human origin, the test is not specific for human fecal
+contamination. In many settings domestic and agricultural animals and humans live
+in intimate contact and therefore, distinguishing the contributions of human and
+animal sources to fecal contamination of water is not possible and perhaps not
+necessary. Because animal fecal contamination also contains a variety of human
+pathogens, such contamination also poses risks to human health if present in drinking
+water. Although the intent of H2S tests is to detect bacteria associated with fecal
+contamination, there is considerable concern that the test also may detect bacteria not
+associated with fecal contamination and its attendant pathogens. Therefore, an
+examination of the sources, sinks and transformation of sulfur and the role of
+microbes in its cycling is important to understanding the applicability of this test.
+
+3.2   Hydrogen Sulfide and the Biogeochemistry of Sulfur
+
+The sulfur cycle and the role of H2S and bacteria in it. Sulfur is one of the ten
+most abundant elements on earth and its various elemental, oxidized and reduced
+forms is driven by a biogeochemical cycle, the sulfur cycle, involving bacteria and
+other microbes. The key pathways and constituents of this biogeochemical cycle are
+shown in Figure 1.
+
+
+
+
+                                          16
+As shown in Figure 1, hydrogen sulfide is a key compound in the sulfur cycle and one
+of the most abundant forms of sulfur in the environment. Four fundamental types of
+reactions are involved in the sulfur cycle: (a) mineralization or decomposition of
+organic sulfur (from living cells or of synthetic origin), (b) microbial assimilation of
+simple sulfur compounds into biomass, (c) oxidation of elemental sulfur and inorganic
+compounds such as sulfides and thiosulfate and (d) reduction of sulfate and other
+anions to sulfide. H2S is a direct intermediate in three of these reactions:
+mineralization, sulfur oxidation and sulfate reduction, all of which can be mediated by
+various microbes.
+
+Of particular interest for H2S production are the reductive sulfur reactions mediated
+by various anaerobic bacteria and the decomposition reactions on sulfur amino acids
+and other forms of sulfur in biomass. As shown in Table 1, elemental sulfur can be
+anaerobically reduced by bacteria growing on acetate, such as Desulfuromonas
+acetoxidans, which occurs in anaerobic sediments rich in sulfide and elemental sulfur.
+Sulfate reduction occurs in many anaerobic environments by the activity of
+Desulfovibrio, other strict anaerobes and by some Bacillus and Pseudomonas species.
+H2S also is produced by sulfur respiration with molecular hydrogen, and this reaction
+occurs in surface and subsurface geohydrothermal environments (e.g., hot springs,
+subsurface and submarine hydrothermal vents, etc.). H2S also is produced by
+mineralization or decomposition of amino acids and other organic forms of sulfur in
+biomass. This is a widespread phenomenon in many environments and is produced by
+many different kinds of bacteria.
+
+Table 1.    Microbial sources of hydrogen sulfide in water and other
+environmental media
+
+ Reaction             Conditions      Typical Locations        Bacteria              Comments
+ Reduction of         Anaerobic       Anaerobic sediments      Desulfuromonas        Occurs in
+ elemental sulfur                                              acetoxidans           fresh waters
+ Sulfur respiration   Anaerobic       Submarine                Thermophilic          Occurs in
+ with molecular                       hydrothermal vents       archaebacteria        fresh waters
+ hydrogen
+ Sulfate reduction    Anaerobic       Many: water logged       Desulfovibrio,        Occurs in
+                                      soils, sediments and     Desulfomonile,        fresh waters
+                                      other anaerobic          Desulfovibrio,        under a
+                                      conditions where         Desulfobacter,        wide range
+                                      sulfate is present       Desulfuromonasan      of
+                                                               d others, including   conditions
+                                                               some Bacillus and
+                                                               Pseudomonas
+                                                               species
+ Decomposition of     Anaerobic or    Many but wherever        Many; includes        Occurs in
+ organic sulfur in    aerobic         there are dead plants    desulfhydration of    fresh waters
+ biomass                              and animals              cystiene to yield     under a
+                                                               H2S, ammonia and      wide range
+                                                               pyruvic acid          of
+                                                                                     conditions
+
+As indicated above, many bacteria can produce H2S in water and in media (soils,
+sediments, etc.) in contact with and containing water under a variety of environmental
+conditions unrelated to the presence of fecal contamination of water. Therefore, it is
+
+
+                                           17
+possible that false positive results for fecal contamination in H2S tests can come from
+a number of sources, including the presence of sulfides of non-biological origin and
+from the activities of microbes of non-fecal origin. Because of these possibilities,
+care must be taken in interpreting positive results from H2S tests. The water source
+and its environmental conditions, especially geohydrological conditions, must be
+considered carefully in order to reliably interpret a positive result as being indicative
+of fecal contamination.
+
+Table 2 represents an attempt to list and summarize the properties of bacteria capable
+of producing H2S. This list is, which was compiled in part from the 8th edition
+Bergey's Manual of Determinative Microbiology, is not comprehensive because
+hydrogen sulfide production information is not available for all genera or species
+within genera (Buchanan and Gibbons, 1974). It is also clear that these cultured
+organisms represent a very small fraction of all the microorganisms that occur in
+natural waters, soil and in association with plants and animals. They may represent as
+little as 1% of the total bacterial population. Because it is well known and generally
+accepted that only a small portion of the bacteria in water and other media have
+actually been isolated and characterized, it is likely that many other H2S producers
+exist that have not been described (Altas and Bartha, 1993). Indeed, new H2S
+producers continue to be discovered, characterized and taxonomized (Fukui et al.,
+1999).
+
+The list in Table 2 is based on genera that contain members that can produce
+hydrogen sulfide. In most cases not all species in a genera have this ability.
+However, it makes little sense to expand the list to species because there is still great
+confusion about species names and relationships within genera. Furthermore, there
+continue to be issues in bacterial taxonomy based on classifications using phenotypic
+criteria and those using genetic (nucleotide sequence) data. Additionally, only a small
+fraction of the species in most genera has been described. Despite these limitations in
+the criteria for listing them, it is clear that many organisms have the potential to give a
+positive              response               in          the          H2S              test.
+
+
+
+
+                                            18
+Table 2. Microorganisms capable of producing hydrogen sulfide
+Name                                       Common Source or Habitat                  Pathogens                                     Capable of Giving Positive
+                                                                                                                                   Test1
+     Phototrophic Bacteria Gram negative
+   Rhodospirillum                          Water- strict anaerobic                   None reported                                 Unlikely- slow growth
+        Myxobacteria Gram negative
+  Flexibacteria                            Water, soil                               None reported                                 Possible
+  Simonsiella                              Mammal oral saprophytes                   None reported                                 Possible
+  Alysiella                                Mammal oral saprophytes                   None reported                                 Possible
+Budding or Appendaged- Gram negative
+  Hypomicrobium                            Soil, water                               None reported                                 Unlikely- slow growth
+Spirochaetes and Spirals- Gram negative
+  Treponema                                Animals                                   Several                                       Unlikely- fastidious
+  Spirillum                                Fresh and salt water                      None reported                                 Possible
+   Campylobacter                           Man and animals                           Several                                       Possible
+Gram negative Rod and Cocci
+  Xanthomonas                              Soil, water                               Plant pathogens                               Possible
+  Agrobacterium                            Soil, plant tissues                       Plant saprophytes and pathogens               Possible
+  Halobacterium- Archebacteria             Water                                     None reported                                 Not possible - require 12%
+                                                                                                                                   NaCl
+    Halococcus- Archebacteria              Water                                     None reported                                 Not possible – require 12%
+                                                                                                                                   NaCl
+    Brucella                               Animal bodies                             Many human and animal                         Unlikely- require CO2 to
+                                                                                                                                   grow
+  Francisella                              Water                                     Human and animal parasites                    Unlikely- fastidious
+Gram negative Facultative Rods- Enterics
+  Edwardsiella                             Water, human & animal intestines          Possible                                      Likely +
+  Citrobacter                              Water, food, animal feces, urine          None reported                                 Likely +
+  Salmonella                               Water, food, animals                      Many pathogens                                Likely +
+  Proteus                                  Soil, water, animal feces                 Possible, none reported                       Likely +
+  Yersinia                                 Human and animal intestines               Yes                                           Likely +
+  Klebsiella                               Widely distributed                        Unlikely                                      Likely +
+  Erwinia                                  Plant                                     Plant pathogens                               Unlikely- rarely in water
+  Aeromonas                                Animals                                   Possible                                      Likely +
+  Zymomonas                                Beer, fermenting fruit                    None reported                                 Possible
+  Flavobacterium                           Water                                     Rodent pathogen                               Possible- H2S rare
+  Pasteurella                              Animals                                   Many animal pathogens                         Unlikely- fastidious
+  Actinobacillus                           Animal membranes and tissues              Animal pathogens                              Likely +
+  Cardiobacterium                          Human nose and throat                     Possible                                      Unlikely- fastidious
+  Streptobacillus                          Mammal intestines                         Animal parasites and pathogens                Unlikely- fastidious
+Gram negative Anaerobic
+  Bacteroides                              Intestinal, oral cavity animals           Rumen bacteria- unlikely                      Unlikely- fastidious
+
+1
+ Fastidious means microbes require blood, serum, sterols, etc; slow growth = not able to produce response in the incubation period of the test; no
+substrates means the needed nutrients are not in the test medium
+
+
+                                                                              19
+  Fusobacterium                   Animal mucus membranes                    Several                Likely + but rare in water
+  Desulfovibrio                   Soil, water, sediment                     None reported          Unlikely- no substrates
+
+  Desulfomonas                    Human intestinal tract                    None reported          Unlikely – fastidious
+  Desulfobacter                   Soil, water, sediment                                            Possible
+  Desulfococcus                   Soil, water, sediment                     None reported          Possible
+  Desulfuromonas                  Soil, water, sediment                                            Possible
+  Desulfosarcina                  Soil, water, sediment                                            Possible
+  Butyrivibrio                    Rumen                                     None reported          Unlikely- fastidious
+  Selenomonas                     Animal intestines                         None reported          Possible
+Gram negative Cocci
+  Neisseria                       Animals- many tissues                     Many                   Unlikely- fastidious
+  Veillonella                     Mouth, intestinal track of animals        Possible               Unlikely- slow growth
+  Megasphaera                     Rumen, sheep intestine                    None reported          Unlikely- slow growth
+Gram positive Cocci
+  Staphylococcus                  Human skin, membranes, air, dust          Many                   Likely +
+  Peptococcus                     Animals- mostly humans                    Possible               Likely +
+  Peptostreptococcus              Animal respiratory and UG tract           Several                Possible
+
+Gram positive Endospore Formers
+  Clostridium                     Soil, water, sediment                     Some                   Possible
+  Desulfotomaculum                Soil, water                               None reported          Unlikely- no substrates
+Gram positive Non-Spore Formers
+  Erysipelothrix                  Soil, water, fish, animals                Some                   Likely +
+Actinomycetes- Gram positive
+  Eubacterium                     Cavities of man and animals               Some                   Possible
+  Actinomycetes                   Soil, water                               Both man and animals   Unlikely- slow growth
+ Arachnia                         Soil, humans, animals                     Some                   Likely +
+  Rothia                          Soil, animals                             None reported          Unlikely- slow growth
+  Actinoplanes                    Plants, soil, animal skin                 None reported          Unlikely- slow growth
+  Planobispora                    Soil                                      None reported          Possible
+  Dactylosporangium               Soil                                      None reported          Possible
+  Streptoverticillium             Soil- antibiotic producers                None reported          Unlikely- slow growth
+  Thermomonospora                 Soil, animal wastes                       None reported          Unlikely- Thermophilic
+Mycoplasmas Gram negative
+  Mycoplasma                      Parasites of man                          Several                Unlikely- fastidious
+
+
+
+
+                                                                       20
+It is highly likely that almost any water will contain a mixture of organisms of both fecal and non-
+fecal origin that can, under some set of conditions, give a positive result in H2S tests. There appears
+to be no reasonable way to preclude all of them from being the sources of false positive reactions.
+Organisms of fecal origin tend to grow more rapidly than many environmental isolates and are
+therefore favored under the incubation conditions of the test. The longer incubation times required
+for the sulfate reducers to be important and for most non-fecal heterotrophs to grow would argue for
+care to be exercised to keep the incubation times as short as possible, probably no more than 48
+hours. However, even shorter incubation times may not prevent the growth and detection of these
+bacteria in H2S tests, as will be further documented below. Additional suggestions are made below
+for modifications to the H2S media and incubation procedures that may reduce the likelihood of false
+positive results from environmental H 2S-forming organisms.
+
+3.3   Sulfate reducing bacteria and H2S tests
+
+Hydrogen sulfide producing bacteria
+To adequately evaluate the usefulness of H 2S tests for fecal contamination it is necessary to examine
+which bacteria are likely to be important because they produce hydrogen sulfide. As shown in Table
+2, many bacteria are capable of producing hydrogen sulfide from organic materials. Some of these
+are unique to or strongly associated with fecal contamination and many others are not. A major
+group of environmental bacteria producing H2S is the sulfate reducing bacteria group. Sulfate
+reducing bacteria (SRB) are key players in the global sulfur cycle. They represent a heterogeneous
+group of Bacteria and Archaea physiologically unified by their ability to perform dissimilatory
+sulfate reduction for energy-generating processes. In contrast to assimilatory sulfate reduction the use
+of sulfate as electron acceptor and its reduction to hydrogen sulfide is restricted to this group. These
+bacteria are ubiquitous and occur in a variety of habitats, including marine and freshwaters and their
+sediments, soils, biofilms, microbial mats, intestinal contents, termite guts, walls of "black smokers"
+and in association with marine worms. Based on 16S rRNA sequences the SRB can be
+phylogenetically divided into five distinct lineages: (1) Gram-negative mesophilic SRB (delta-
+Proteobacteria), (2) Gram-positive sporeforming SRP (Low G+C Gram-positive Bacteria), (3)
+thermophilic bacterial SRB (Nitrospira pyhlum), (4) thermophilic bacterial SRB
+(Thermodesulfobacterium group), and (5) thermophilic archaeal SRB (Euryarchaeota).
+
+It might be assumed that anaerobic sulfate reducers are unlikely to be able to produce a positive
+reaction in this test. Sulfate reducers occur in freshwater environments, but they are rarely present in
+high numbers and usually are associated with the sediments and with geothermal and hydrothermal
+environments (Widdel, 1988). However, at least some SRBs are microaerophilic and not strictly
+anaerobic, and these bacteria are now known to be capable of degrading a wide variety of substrates,
+including saturated hydrocarbons and a variety of aromatic substrates. If the concentrations of
+sulfate in freshwater are very low, there will be little substrate for these bacteria to use (Wetzel,
+2001). However, where sulfate concentrations in water are high, such as geothermal environments,
+sulfate-reducing bacteria could give a positive results in H2S tests. It might be assumed that because
+sulfate reducers do not metabolize complex organic compounds, such as those included as substrates
+in the test medium, instead requiring short chain organic acids, and other products of fermentation,
+they would not grow and give positive results in H2S tests (Kelly and Smith, 1990, Widdel, 1988).
+For a positive reaction to occur there would need to be time the system to become highly anaerobic,
+time for fermentative bacteria to produce these products and then allow for the growth of the sulfate
+reducers. It might be assumed that these conditions are not likely to be achieved in the incubation
+times typically employed in H 2S tests (1-2 days). However, it is likely that they could be achieved in
+longer in incubation times of 5 to 7 days, which have been employed in some versions of H2S tests
+(Widdel, 1988).
+
+
+
+
+                                                  21
+Studies on non-fecal, environmental bacteria in an H2S test
+
+Experiments were conducted in the laboratory of Mark Sobsey to determine if mixed populations of
+sulfate reducing bacteria (SRBs) would give a positive result in an H 2S test. Sixteen samples of SRBs
+were obtained from the microbial ecology laboratory of Terry Hazen, Lawrence Berkeley
+Laboratory. The bacteria were soil isolates from a pristine geothermal region in Kanchatka, Russia,
+where studies are being done to isolate bacteria of potential value for commercial biogeochemical
+enterprises. These bacteria were grown in SIM medium and then tested using a commercial H2S test,
+the HACH Pathoscreen Field Kit, which is designed to detect hydrogen sulfide-producing enteric
+bacteria. The HACH test cultures were incubated at 29° to 32°, and examined after 24 hours and 48
+hours for darkening of the medium or formation of a black precipitate. Of the sixteen isolates, four
+produced hydrogen sulfide by the HACH H2S assay, which is a false positive rate of 25%. These
+results suggest that H2S tests may give false positive results for fecal contamination by give positive
+results for H2S-producing bacteria (primarily sulfate reducing bacteria) unrelated to and not
+originating from fecal contamination.
+
+3.4   Other possible limitations or sources of misinterpretation in the H2S test
+
+Another issue to consider in relation to H2S tests is the use of thiosulfate and cystine in the medium
+as a possible dechlorinating agent. Thiosulfate, like sulfate, could serve as a source of sulfur for
+microbial reduction and H2S production, and cystine can be degraded, releasing H2S. The same
+considerations discussed for sulfate reducers also apply to these obligate anaerobes that degrade
+amino acids ands other carbon compounds containing sulfur.
+
+Only some of the research conducted to date on the H2S test has addressed groundwater specifically,
+and when it has, apparently false positive results have been observed (Kaspar et al., 1992). In ground
+waters, particularly those contaminated with human or animal wastes, fecal or otherwise, or those
+containing reduced sulfur from natural or anthropogenic sources, there is a high potential for
+anaerobic aquifers and the formation of sulfides by bacteria of non-human or non-animal origin. In
+many rural areas small-scale industry, animal husbandry, and human dwellings are all contiguous,
+which offers the potential for sulfide formation from sediment-derived degradation of organic wastes
+from these sources, only some of which are fecal sources.. The rapid reaction of the iron with sulfide
+already present in a water sample could produce a darkening in an H2S test almost immediately upon
+addition of the sample. For this reason, it is very important that the test procedure include visual
+checking for a quick or early positive reaction, after perhaps a few minutes to one-hour of
+incubation. A positive result so quickly is likely to mean that the sample already contained sulfides.
+Such a result is not readily interpretable as either positive or negative for fecal contamination
+because it is not useable as evidence of microbially mediated H2S activity likely to be associated
+with fecal bacteria.
+
+Because a black precipitate is the experimental end point of the H2S test, there may be concern for
+formation of other dark colored metal salts from constituents present in a water sample. The
+Handbook of Chemistry and Physics identifies relatively few iron salts that are black besides FeS.
+Some of the oxides of iron can form black precipitates but they are unlikely to form in water samples
+as a result of microbial activity and should be visible immediately at the onset of the test if present.
+Other metals can react with sulfide to produce a black or dark precipitate, but such precipitates, if
+produced after a time period consistent with microbial activity also would be evidence of H2S
+production.
+
+Microbially induced corrosion as a source of H2S-producing bacteria in water
+Another concern with the H 2S test and its susceptibility to detecting organisms of non-fecal origin is
+microbially-induced corrosion of iron, steel and other metals associated with water sources,
+
+                                                  22
+treatment systems, conveyances and storage facilities. Microbially-induced metal corrosion is
+caused by a number of naturally occurring bacteria and fungi in microbial communities that include
+sulfate reducing bacteria, acid producing bacteria and other types of bacteria involved in the
+corrosion process (Pope and Morris, 1995; Yasushi, 1998). Microbially induced corrosion as a
+source of H2S and H2S producing (sulfate reducing) bacteria is a widespread problem in drinking
+water supplies. In terms of vulnerability, small, rural groundwater supplies may be at particular risk
+because of their construction and materials, the presence of iron, steel and perhaps other metals at
+air-water interfaces, and the presence of risers that are particularly prone to bacterial colonization and
+corrosion (Tyrell et al., 1996).
+
+3.5   H2S Test Procedures: Media, Formats and Test Conditions
+
+In the initial development of the H2S test by Manja et al. (1982) the test was applied to various
+drinking water samples of several cities in India . Water samples containing 10 or more coliform
+bacteria by MPN were subjected to the new H2S test using a 20-ml sample volume in a P-A format.
+On this basis positive H2S tests were considered unsatisfactory as drinking water. Since this original
+description of the H2S test, several investigators have reported modifications of the test intended to
+improve its performance. Such modifications have included: test medium, medium preparation
+(dried at elevated temperature, lyophilized, autoclaved only, etc.) sample volume (20 ml,, 100 ml,
+etc.), paper use, paper type and paper size to which the medium is absorbed, incubation times and
+temperatures, and test formats (presence-absence, quantitative MPN and membrane filter
+enumeration). The H2S test conditions used in the original study and some of the various
+modifications reported in the literature are summarized in Table 3 below, including some
+information on how they were tested.
+
+
+
+
+                                                   23
+Table 3. Comparisons of Media, Materials and Methods for the H2S Test in Different Reported Studies
+Medium Composition             Paper and Size       Preparation         Dried?/ Conditions             Format/Use Procedures       Samples Tested and             Comments                         Reference
+                                                                                                                                   Other Tests
+1) 20g peptone, 1.5 g          Tissue paper, 80     Absorb 1 ml,        Yes/50o C                      P-A, 20 ml sample;          S and G, MPN coliform          First reported development       Manja et al., 1982
+dipotassium hydrogen           cm2 , folded         place in bottle;                                   Ambient (30-37o C)          tests for samples with 10 or   and use of the H2S test
+phosphate, 0.75g ferric                             sterilize                                          incubation; 12-18 hrs.      more TC/100 ml
+ammonium citrate, 1g
+sodium thiosulfate, 1 ml
+Teepol, 50 ml water
+2) Ditto 1) above              Ditto 1) above       Ditto 1) above      Ditto 1) above                 P-A, 20-ml sample;          Potable water samples,         Compared to MPN and P-A          Ratto et al., 1989
+                                                                                                       incubate at 22 and 35o C    Lima, Peru                     tests for coliforms and fecal
+                                                                                                                                                                  coliforms
+3) Ditto 1) above              Ditto 1 above        Ditto 1 above       Not reported                   P-A; 20-ml sample;          S (Rx and Cl2); Colilert       Compared to E. coli tests in     Kromoredjo and
+                                                                                                       Ambient 26-30oC             and LTB-MUG                    municipal water                  Fujioka, 1991
+                                                                                                       incubation; 12-15 hrs.
+4) Ditto 1) above, except      None                 2 ml medium in      No/lyophilize instead of       P-A, 20 ml sample;          S , G and mineral waters;      Slightly modified medium         Kaspar et al., 1992
+specified only certain                              bottle; sterilize   heat, after autoclaving        Ambient (22-37oC)           compare to TC and FC           and its preparation and test
+peptones                                                                                                                           MPN tests                      format (no tissue paper)
+5) Per Liter: 400 g peptone,                         1 microliter        Yes/at 50o C for 3-4 hours,   Q, 5 bottles of 20-ml       Various, S and G,              Improved test using cystine      Venkobachar et al.,
+30 g K2 HPO4 , 15 g ferric     Same as above        added to folded     after autoclaving              sample volumes each         sometimes diluted; MPN         in medium and a paper strip      1994
+ammonium citrate, 20 g                              tissue paper,                                                                  coliforms and fecal            in a quantitative, 5-bottle
+sodium thiosulfate, 20 mL                           dried, added to                                                                coliform tests                 (MPN) format
+Teepol and 0.25 g/L L-                              bottle,
+cystine, pH = 6.9                                   autoclaved
+6) Ditto 1) above              Not reported         Not reported        Not reported                   P-A, 100 ml                 Various treated and            Applied to Chilean waters;       Castillo et al., 1994
+                                                                                                                                   untreated waters; total        isolated and speciated
+                                                                                                                                   coliforms and coliphages       bacteria from positive H2S
+                                                                                                                                                                  tests
+7) Ditto 1) above              Paper towel, 80      Ditto 1) above      No                             P-A, 20 ml sample,          Distilled water seeded with    Optimized as presumptive         Gawthorne et al.,
+                               cm2 , folded                                                                                        Salmonella                     Salmonella Test                  1996
+8) Ditto 1) above              Not reported         Not reported        Not reported                   P-A, 100 ml                 Various S and G; total         Tested for comparative           Martins et al., 1997
+                                                                                                                                   coliform bacteria and          detection in treated and
+                                                                                                                                   coliphages                     untreated Chilean drinking
+                                                                                                                                                                  waters
+9) Ditto 5) above              Paper towel 50 cm2   1 ml aliquots       No                             P-A, 20 ml sample           Various S and G; Total and     Tested for sensitivity and       Genthe and Franck,
+                                                    added to folded                                                                fecal coliforms by MF          specificity with pos. and neg.   1999
+                                                    paper towel,                                                                   methods                        controls and in presence of
+                                                    autoclaved;                                                                                                   high levels of other bacteria;
+                                                    placed in sterile                                                                                             also field tested
+                                                    plastic 40-ml
+                                                    sample bottles
+10) Ditto 1) above             Ditto 1) above       Ditto 1) above      Ditto 1) above                 P-A, 20 ml                  Ground waters                  Isolated and speciated           Naraju and Sastri,
+                                                                                                                                                                  bacteria from pos. samples       1999
+11) Tested 3 media:            same as above        Add 5 ml            No                             P-A, 100 ml sample,         Feces diluted in sterile       optimize medium, incubation      Pillai et al., 1999
+ditto 1) above;                                     medium, place                                      multiple temperatures       distilled water; 100-ml H 2S   time and temperature on
+ditto 1) above + 0.125g; -                          in bottle,                                         from 0-47o C, incubate up   test vs. fecal coliforms       samples of feces, but not
+ditto 1) above+5 g yeast                            autoclave                                          to 5 days                                                  water
+extract and only 15g
+peptone
+12) 10 g peptone, 1.5 g        None                 Prepare agar        No                             Filter sample thru 47-      Cistern, ground and stream     Compared H 2S MPN to H2 S        Rijal et al., 2000
+dipotassium hydrogen                                medium,                                            mm diameter membrane        waters; total and fecal        MF to TC and E. coli.
+phosphate, 1.5 g ferric                             autoclave and                                      filter; place on agar       coliforms and E. coli
+
+                                                                                                       24
+ammonium citrate, 1 g                                pour into 60x15                                    medium; incubate
+sodium thiosulfate,, 15 g                            mm plates                                          anaerobically at RT (25-
+agar and 1 L deionized                                                                                  30o C) , 24 hrs.
+water, pH 7
+13) ditto 1) above; ditto 1) "1)above                "1)above; or      Yes for original                 P-A, 20 ml sample;                                          Compare original liquid and   Manja et al, 2001,
+above, except 15g peptone                            single-strength   medium/60o C for 2 days.         35oC; 18, 24 and 48                                         commercial spray dried        2001
+and 1g yeast extract;                                powder media,                                      hour incubations times                                      media on Citrobacter and
+"1above except 250mg L-                              radiation                                                                                                      Salmonella
+cystiene, "1)above except                            sterilization; no
+15g peptone and 250mg L-                             tissue
+cystiene
+Abbreviations: G = groundwater, S = surface water, P-A = presence-absence test, Q = quantitative test, TC = total coliforms, FC = fecal or thermotolerant coliforms, Ec = E. coli
+
+
+
+
+                                                                                                       25
+As shown by the data summarized in Table 3 above, various modifications of the H2S test have been
+reported. Besides the use of different modifications of the original test in the various studies, the
+modifications were developed and evaluated using different samples in the various studies. Some
+studies used diluted feces, others used laboratory cultures of specific bacteria, such as Salmonella and
+others used field samples of water of varying quality.
+
+Pillai et al. (1999) used feces diluted in distilled water to evaluate medium composition, incubation
+time, incubation temperature and fecal coliform bacteria concentration to optimize conditions for a
+100-ml sample volume H2S test. They found that lower concentrations of bacteria required longer
+incubation times and higher temperatures for H2S detection, results did not require an incubator if room
+temperature was between 20-44oC, and the presence of L-cystine in the medium improved detection.
+The test was not applied to field samples of water.
+
+Gawthorne et al. (1996) evaluated the H 2S test for Salmonella detection using four species grown in the
+laboratory and then seeded into water. They found that detection of as little 5 CFU/100 ml was
+possible, longer incubation times (48 hours) increased detection of low Salmonella levels, and the
+presence of other bacteria has no effect on Salmonella detection. The H2S test was recommended as a
+presumptive test for Salmonella in drinking water in conjunction with coliform testing.
+
+Venkobachar and colleagues (1994) incorporated cystine into the H2S medium and compared the
+original H2S test to the one with the modified medium containing cystine using different water sources.
+Correlation analyses indicated that the cystine-modified test was more sensitive and less time-
+consuming than the original test.
+
+Rijal and colleagues (2001) developed and evaluated two modifications of the H2S test: (1) a MPN
+version using replicate sample volumes of 1, 10 and 100 ml and an enumerative version for H2S
+colonies on membrane filters in using an agar medium. When both H2S tests were compared to each
+other and to coliforms and E. coli in rainwater cisterns of drinking water, both H2S methods gave
+results comparable to E. coli.
+
+In studies by Manja et al. (2001) the following media were compared for the H2S test: (1) original H2S
+medium, (2) original medium with 250mg L-cystiene, (3) original medium with decreased peptone at
+15g and added yeast extract at 2 g, and (4) medium 3 with 250 mg L-cystiene and a the lower peptone
+concentration of 15 g Based on detecting low levels of Citrobacter freundii and Salmonella
+typhimurium type strains seeded into sterile distilled water at about 5 CFU per sample, medium
+formulation 3 (original medium plus 250 mg/L cystiene) was judged to give the best results based on
+the numbers of positive samples obtained. In addition, the commercial powder form of the medium
+gave better results than the strip medium (liquid medium applied to paper and dried in the lab). It was
+concluded that as few as 1 Salmonella was detectable in 20 ml of sample.
+
+As summarized in Table 3, the results of several studies indicate that various forms of H2S test have
+been evaluated and are being used. The various forms of the H2S test differ in the following ways: the
+medium and its preparation procedures, media format (dried onto paper strip, use as powder, and agar
+medium), test format (presence-absence, MPN, and membrane filter), sample volumes, incubation
+times and incubation temperatures. If the results of these studies are taken together, it appears that the
+
+
+
+                                                   27
+addition of cystine or cystiene, longer incubation times (24-48 hours) and incubation temperatures in
+the range of 25-35oC give the best results in terms of detecting low levels of H2S producing bacteria.
+However, there has been no systematic comparison of the various forms of H2S tests used by different
+investigators and no effort to achieve a standard test procedure. Until recently, all of the H2S tests
+required the use of media formulated from scratch and applied to paper strips manually. Therefore, the
+test media or materials were was not readily available from commercial sources. In India, there have
+been efforts to have the medium made commercially and to implement performance criteria for the
+commercially prepared medium. In the United States of America one Company has marketed an H2S
+test kit for use by small labs and consumers. However, this commercial test is probably too complex,
+too inaccessible and too costly to be used in the developing world in response to the constraints in
+section 2.6. Research and development studies have been done in India by UNICEF (United Nations
+Children's Fund)-India and its partners (Rajiv Gandhi National Drinking Water Mission, Department of
+Drinking Water Supply, Ministry of Rural Development, Government of India) to develop, evaluate
+and disseminate the specifications for a H2S test and field kit for use in drinking water (Manja et al.,
+2001). The test is not advocated as a replacement for conventional coliform and other bacteriological
+testing. It is recommended for use by community workers to monitor water supply sources. At the
+present time there remain considerable obstacles to the widespread use of the H2S tests because of their
+lack of uniformity and lack of availability in a ready-to-use form. Greater efforts to determine the
+optimum properties for and test conditions of H2S tests are recommended. Also recommended are
+further efforts to evaluate their validity, reliability and predictability as fecal indicators before
+widespread production, dissemination and use of either commercial or made-from-scratch H2S tests.
+
+3.6   Comparison of H2S Tests to Other Tests for Detecting Fecal Contamination of Water
+
+In evaluating the performance of the H2S test for detecting bacteriological evidence of fecal
+contamination of water, it is necessary to have a basis or reference point ("benchmark") for determining
+efficacy. In some studies the basis for determining efficacy has been the use of sterile water seeded
+with known quantities of specific H2S-producing bacteria or mixed populations of H2S bacteria in the
+form of diluted feces. However, such testing does not address the variability of water matrices in terms
+of their chemical and microbiological quality. Testing of natural waters containing fecal contamination
+also is necessary. Therefore, many evaluations of the H2S test have been based on performance
+comparisons with other, conventional bacteriological tests for fecal contamination of drinking water
+when applied concurrently to field samples of water. Tests for fecal contamination of water against
+which the H2S test has been compared includes: coliforms, thermotolerant (fecal) coliforms, E. coli,
+Clostridium perfringens, Salmonella and coliphages. Because none of these other tests are ideal at
+detecting fecal contamination of water, the results of such comparisons are open to interpretation.
+However, most investigators assume that if the H2S test gives positive results similar to or greater than
+the reference test, its performance is acceptable. The results of a number of comparative studies of the
+H2S test against other bacteriological tests for fecal contamination are summarized in Table 4 below.
+
+
+
+
+                                                   28
+Table 4. Comparisons of H2S and Standard Bacteriological Tests Applied to Various
+         Samples
+Water Samples   Bacterial            Bacterial Results     H2S test Results      Agree-   % Disagreement   Reference
+                Indicator(s)         Suitable/Unsuitable   Suitable/Unsuitable   ment,
+                Compared to H2S                                                  %
+                test
+Various S and   Coliforms (+ E.      332/337               332/337               88.3     13% and 13%      Manja et al.,
+G Waters;       coli in one set of   (coliforms)                                                           1982
+India           samples)
+Tap water,      Total and fecal      11/9 (TC); 11/9       11/9                  95       5%               Ratto et al.,
+Peru            coliforms            FC                                                                    1989
+Tap (Rx S),     Coliforms and        1/24 Colilert         2/24                  96       4                Kromoredjo
+Banjarmasin,    E. coli              3/24 LTB-MUG                                                          and Fujioka,
+Indonesia                                                                                                  1991
+Various S and   Total and fecal      Not Reported;         Nor reported;         TC:      11               Venkobachar
+G, India        coliform MPN         see % agreement       see %                 89                        et al., 1992
+                and original         and                   agreement and         FC:      9
+                H2S test             disagreement          disagreement          91
+                                                                                 Orig     6
+                                                                                 H2S:
+                                                                                 94
+Undisinfected                        49/170 (TC)           36-40/179-183*        90-92    10-12%           Castillo et al.,
+water, Chile                                                                                               1994
+Disinfected                          290/113               254-278/125-          71-      23-29%           Castillo et al.,
+water, Chile                                               149*                  77%                       1994
+Raw waters,                          42/12                 42/12                 100      0                Martins et al.,
+Chile                                                                                                      1997
+Treated                              50/4                  43/9                  81       19               Martins et al.,
+water, Chile                                                                                               1997
+Mysore, India   Not Done             Not Done              14/37                 No       No data          Nagaraju and
+                                                                                 Data                      Sastri, 1999
+Various,        Total and fecal      189/224               150/263               82%      18%              Genthe and
+South Africa    coliform MF                                                                                Franck, 1999
+Feces diluted   Fecal coliform       Tested but            Tested but            Not      Not reported     Pillai et al.,
+in distilled                         reported results      reported results      report                    1999
+water                                not quantified        not quantified        ed
+Cistern                              0/25 (TC), 8/17       8/17 H2S agar         68       0 TC             Rijal et al.,
+rainwater                            (E. coli)             9/16 H2S MPN          TC       32 E. coli       2000
+                                                                                 100
+                                                                                 E.
+                                                                                 coli
+Municipal       Fecal coliform       294/392               296/390               90%      10%              Manja et al.,
+drinking        MPN                                                              (92%                      2001
+water                                                                            for
+supplies                                                                         (+)iv
+                                                                                 e;
+                                                                                 88%
+                                                                                 for
+                                                                                 (-)ive
+
+As shown in Table 4, when applied to water samples having 10 or more total coliform MPN per 100-
+ml, Manja et al. (1982) scored the same numbers of samples suitable and suitable by both MPN
+coliform tests (#10/100 ml = suitable >10/100 ml = unsuitable) and the H2S test (not black in 20 ml =
+suitable and black in 20 ml = unsuitable). When the water samples were divided into ranges of
+
+
+
+                                                                  29
+coliform concentrations, the H 2S test gave positive reactions for all samples with 41 or more coliforms
+per 100 ml, 25/34 H2S positive for samples with 21-40 coliforms per 100 ml, and 37/44 positive with
+11-20 coliforms per 100 ml. H2S positive-samples contained Citrobacter freundii (23 samples),
+Salmonella species (6 samples), Proteus mirabilis (2 samples), Arizona species (2 samples) , Klebsiella
+(1 sample) and E. coli (3 sample). Only 1 type of H2S-producing organisms was isolated from each
+separate sample and the methods of isolation were not specified. No tests were done for the presence of
+absence of other, environmental H2S-producing bacteria. No specific tests were done to determine the
+presence of viral, bacterial or parasitic pathogens, although Salmonella were detected in some samples.
+The authors considered the test reliable, simple to perform and useful for screening purposes where
+resources, time, manpower and laboratory facilities are limited.
+
+Ratto et al. (1989) evaluated the original H2S test at incubation temperatures of 22 and 35°C and
+compared it to MPN and P-A total coliform (TC) and fecal coliform (FC) tests on 20 potable water
+samples from Lima, Peru. The frequency of positive (unsuitable) samples was similar but not identical
+for all tests: 9/20 by P-A, 9/20 by H 2S at 35oC, 6/20 by H2S at 22oC, 8/20 by TC MPN and 6/20 by FC
+MPN. It was concluded that the H2S test was an equally or more sensitive test than TC and FC tests
+and was an ideal procedure for isolated water supplies where laboratory facilities do not exist.
+
+Kaspar et al. (1992) evaluated a modified version of the original H2S test (no tissue paper and
+lyophilizing rather than heat drying of the medium) and applied it to 101 water samples. They
+concluded that the test was not suitable for control of surface water and dug well water due to the
+frequent presence of non-fecal (total) coliforms presumed to arise from degradation of plant tissues and
+poikilothermic animals. Dug wells nearly always gave positive results in the H2S test and in the
+coliform test, but not fecal coliforms. They concluded that the test was useful for qualitative screening
+of piped or treated water systems. However, it was concluded that positive H2S test results must be
+confirmed by standard bacteriological tests. The test was considered valuable as an educational and
+motivational tool for improved water sanitation, because of the color change and foul smell from
+positive samples.
+
+Venkobachar et al. (1994) developed a modified H2S test that included cystine in the medium and was
+used in an MPN test with five 20-ml samples. The modified test reduced the test time from 23 to 17
+hours, was more sensitive than the original H 2S test, and was well correlated with total coliform (89%)
+and fecal coliform (91%) tests when applied to 101 water samples. It was concluded to be simple,
+requiring little laboratory support and well suited for routine quality assessment of rural water sources.
+
+Sivaborvorn (1988) tested 705 samples from a variety of waters in Thailand (shallow and deep wells,
+rainwater, pond water) by the original H2S test and by coliform MPN. Based on agreement between a
+positive H2S test and 10 MPN/100 ml as a coliform or fecal coliform positive, the two tests agreed 85%
+and 88% of the time, respectively. It was concluded that the H2S test can be used to screen water for
+fecal contamination in the field where laboratory facilities are limited.
+
+Castillo et al. (1994) reported that for 622 water samples tested by the H2S and coliform tests, 168
+samples were positive by both tests and 179 samples were negative by both tests. The H2S test
+produced about 10% more positive samples than the coliform test but included samples that were
+positive for Clostridium spp. The H2S test gave similar results at both 32 and 35°C, indicating that
+temperatures in this range are not critical. Bacteria detected from H2S positive samples included
+
+
+
+                                                    30
+Klebsiella spp., Enterobacter spp., E. coli, Citrobacter spp., Aeromonas spp., Clostridium spp., Hafnia
+spp., Salmonella spp., Acinetobacter spp., Morganella spp.. It was concluded that the simplicity and
+low cost of the H2S test was applicable to tropical and subtropical potable waters.
+
+In studies of 54 complete conventionally treated drinking waters and their corresponding raw source
+waters Martins et al. (1997) found 100% agreement between total coliform and H2S results for raw
+waters and 81% agreement for treated waters (Table 3). The H2S test was modified by increasing the
+sample size to 100 ml. In treated waters more samples were positive by the H2S test (9) than by the
+coliform test (7), which was attributed to the presence of Clostridium perfringens in the H2S-positive
+but TC-negative samples. In treated waters the H2S and TC results were significantly positively
+correlated (P< 0.0001) Spearman rank correlation test) but in raw waters they were significantly
+negatively correlated (P = 0.0008). The authors concluded that the H2S test was a suitable indicator of
+potable water quality and treatment and provided greater protection than the total coliform test.
+
+Nagaraju and Sastri (1999) tested ground water wells of Mysore city, India for H2S bacteria using the
+methods of Manja et al. (1982) and 24-hour incubation at 37oC. 37 of 51 ground water samples were
+positive. From these H2S-positive samples the following 63 bacteria were isolated: Proteus mirabilis
+(19), Proteus vulgaris (14), Citrobacter freundi (13), Salmonella spp. (8), Klebsiella pneumoniae (5)
+and Klebsiella ozaene (4) were isolated.
+
+Genthe and Franck (1999) evaluated the H2S test of Venkobachar et al. (1994) for specificity,
+sensitivity and interference by non-target bacteria using seeded positive and negative samples and
+reported favorable results. When applied to 413 water samples from various sources, including ground
+and surface water, the H2S test showed 82% and 86% agreement with fecal coliform results when
+applied to higher quality (so-called level 1) waters with test incubation temperatures of 35 and 22oC,
+respectively. It was concluded that the H2S test was sensitive and correlated with traditional indicator
+bacteria, especially fecal coliforms. The test was considered useful for on-site field use, light, easy to
+use and portable. The test was recommended for use in addition to current water quality indicators of
+microbial quality, and especially where testing would otherwise not normally be done.
+
+Pillai et al. (1999) evaluated various modifications of H2S tests for detection of fecal contamination
+using 100-ml volumes of feces diluted in distilled water to contain different levels of fecal coliform
+bacteria. The presence of cystine in the medium and higher incubation temperatures 28-44oC vs. 22oC)
+improved detection, with lower levels fecal contamination (fewer fecal coliforms) detected faster.
+
+Rijal et al. (2000) compared two versions of the H2S test, a paper strip MPN and a membrane filter
+enumeration on agar medium, to each other and to the occurrence of total coliforms and E. coli in
+samples of cistern rainwater, ground water and stream water. Similar detection of bacterial
+contamination was achieved by the MPN, MF version of the H2S test and E. coli, although total
+coliforms were detected in more samples than were either E. coli or H2S bacteria. The H2S test was
+compared to total and fecal coliform and E. coli tests to determine efficacy of a solar disinfection
+system. Similar results for indicator reductions were achieved by all fecal indicator tests used. The
+authors concluded that the H 2S test was a reliable method to measure the hygienic quality of water.
+
+Manja et al. (2001) compared the H2S test (with cystiene in the medium, different sample volumes,
+different incubation times and incubation at different temperatures) to MPN tests for coliforms for
+
+
+
+                                                   31
+detecting fecal contamination in 686 water samples in India. The H2S test gave results comparable to
+the MPN test (not significantly different), with concordance in 620 (90%) samples, negative H2S test
+and positive MPN test (false negative) in 34 samples (4.9%), and positive H2S test and negative MPN
+test (false positive) in 32 samples (4.7%). However, 21 of 23 "false positive" (negative coliform MPN)
+samples had coliforms in H2S bottles. Agreement of H2S-positive and coliform- positive samples
+increased from 91% at 48 hours to 95% at 72 hours. The H2S test results were comparable (not
+significantly different) for sample volumes of 20, 55 and 100 ml. Positive H2S results were generally
+obtained in 18-48 hours of incubation at 25-44oC. Use of an incubation temperature below 25oC was
+not recommended.
+
+As shown in Table 4, The H2S method has been extensively studied by a number of investigators in
+different parts of the world. Such studies include evaluations of the original method, studies on
+modifications of the method and field testing, usually with side-by-side comparison to other water
+quality tests. In some of these comparison studies the data are limited or have not been subjected to
+rigorous statistical analysis. However, the results of most studies suggest that the H2S method detects
+fecally contaminated water with about the same frequency and magnitude as the traditional methods to
+which it was compared. In general, the sensitivity of the H2S test appears about the same as other tests
+for fecal contamination of water, although as already noted, this aspect of the test has not been
+rigorously tested in some of the reported studies. Testing conditions and format, sample size,
+incubation temperature and incubation time influences test sensitivity. Because these conditions have
+differed among the different studies reported in the literature, it is difficult to make consistent
+comparisons and draw overall conclusions. However when comparisons with other methods of
+detecting fecal contamination were done, the H2S method appeared to have sensitivity similar to the
+other methods, based on finding contaminated samples.
+
+In most comparative studies there were always samples that yield positive results for other
+microbiological tests and negative H 2S tests, and vice versa. However, such results are not unexpected.
+For one, the various tests measure different things and do not always employ the same sample volumes.
+Furthermore, when the levels of microbial contamination are low, it is statistically possible for one
+sample volume to contain bacteria of interest and for another to not contain them. Where study data
+were subjected to statistic analysis most studies found high associations (e.g., correlation) between
+fecal indicator bacteria (e.g., E. coli) and positive H2S results. Given the previously discussed ability
+of a large variety of heterotrophic bacteria to produce a positive H2S test and therefore a false positive
+the observed correlations suggest that in most natural and treated waters the majority of the H2S
+producers come from organisms associated with the human or animal digestive tract. A false positive
+is less likely to lead to a risk of disease because it would result in the suspect water either not being
+used or subject to additional testing.
+Of great concern with the H2S test as with other fecal indicator tests is the potential for false negatives;
+that is, not detecting fecal contamination when it is present. In this case the test does not identify water
+that is unsafe and the water could be consumed, leading to pathogen ingestion and to disease. The
+method, as with the various bacteriological tests, does not detect viruses or parasites. Testing of
+drinking water for the many viruses and parasites of concern is still impractical and unaffordable and
+still not done on a routine basis in most countries and regions. However, the H2S test detects bacteria
+other than coliforms that are associated with fecal contamination, including Clostridium perfringens.
+Clostridium perfringens is one of the more resistant indicators of fecal contamination and can be found
+in drinking waters when no coliforms can be found. Therefore, it is possible for the H2S test to give a
+
+
+
+                                                    32
+positive result when fecal contamination is present even if no coliforms are present. Such findings have
+been observed in some comparative studies between the H 2S test and other bacteriological tests.
+
+3.7   Determination if H2S Tests Meet the Criteria of an Ideal or Preferred Indicator of Fecal
+      Contamination
+
+In Table 5 below are listed the essential criteria of an ideal or preferred indicator of fecal contamination
+of drinking water and other waters and the extent to which these criteria were addressed and fulfilled in
+previously published studies on the H2S test as a method to detect fecal contamination. It is apparent
+from this compilation of data that most of the key criteria for fecal indicators of water quality were not
+investigated in the studies reported in the literature to date. This lack of data on the extent to which
+H2S tests fulfill the essential criteria of an indicator is a major concern. This is because the test has
+been in existence for two decades, it has been repeatedly modified, tested and field applied in many
+parts of the world, it is now widely promoted by some scientists and other authorities, and yet it has
+never been subjected to critical testing for its ability to fulfill or meet the essential criteria of a fecal
+indicator of drinking water quality.
+
+
+
+
+                                                     33
+ Table 5. Fecal Indicator Criteria for Fecal Contamination and The Extent to Which they are Met in Reported Studies of H2S Tests
+
+Reference                     Absent in non-fecally        Present in fecally contaminated            Outnumber               Detects Non-patho-genic Bacteria   Respond to environ-   Respond to       Ease   Cost         No envir-
+                              contaminated water           water                                      pathogens                                                  mental condi-tions    treatment        of     (Inex-pen-   onmen-
+                                                                                                                                                                 like patho-gens       like             Use    sive?)       Tal multi-
+                                                                                                                                                                                       pathogens                            Plica-
+                                                                                                                                                                                                                            Tiom
+Manja et al., 1982            T/ by comparison to other    T/ by comparison to other indicators of fecalNT
+                                                                                                         contamination        T/Some detected are non-           NT                    NT               NT     NT           NT/
+                              indicators of fecal                                                                             pathogenic                                                                                    M for some
+                              contamination
+Ratto et al., 1989            T/Yes, by comparison to      T/Yes,                                     NT                      T/Some detected are non-           NT                    NT               NT     NT           NT
+                              other indicators of fecal    By comparison to other indicators of                               pathogenic
+                              contamination                fecal contamination
+Kromoredjo and Fujioka,       T, Yes, by comparison to     T/ by comparison to other indicators of    NT                      NT                                 NT                    NT               NT     T/ by cost   NT
+1991                          other indicators of fecal    fecal contamination                                                                                                                                 compariso
+                              contamination                                                                                                                                                                    n
+Kaspar et al., 1992           T/ by comparison to other    T/Yes, by comparison to other              NT                      T/Some are                         NT                    NT               T/     NT           NT/
+                              indicators of fecal          indicators of fecal contamination                                                                                                            Yes*
+                              contamination
+Venkobachar, 1994             T/Yes, by comparison to      T/Yes, by comparison to other              NT                      T/Some detect-ed are non-          NT                    NT               T/     NT           NT
+                              other indicators of fecal    indicators of fecal contamination                                  pathogenic bacteria                                                       Yes
+                              contamination
+
+Castillo et al., 1994         T/Yes, by comparison to      T/Yes, by comparison to other              NT                      NT                                 NT                    NT               NT     NT           NT
+                              other indicators of fecal    indicators of fecal contamination
+                              contamination
+Gawthorne et al., 1997        NT/                          T/Yes, by comparison to levels of          NT                      NT                                 NT                    NT               NT     NT           NT
+                              Lab studies on seeded        Salmonella in seeded waters
+                              water
+Martins et al., 1997          T/Yes, by comparison to      T/Yes,                                     NT                      NT                                 NT                    Y, Indirect T;   NT     NT           NT
+                              other indicators of fecal    By comparison to other indicators of                                                                                        results
+                              contamination                fecal contamination                                                                                                         compared for
+                                                                                                                                                                                       Rx'd and
+                                                                                                                                                                                       UnRx'ed
+                                                                                                                                                                                       water
+Genthe and Franck, 1999       T/                           T/                                         NT                      NT                                 NT                    NT               T/     T/           NT
+                              Yes, by comparison to        Yes, by comparison to other indicators                                                                                                       Yes    Yes, by
+                              other indicators of fecal    of fecal contamination                                                                                                                              cost
+                              contamination                                                                                                                                                                    compariso
+                                                                                                                                                                                                               n
+Nagaraju and Sastri, 1999     NT                           NT                                         NT                      T/                                 T/                    NY               Yes    NT           NT
+                                                                                                                              Yes                                Yes
+Rijal et al., 2000            T/yes, by comparison to      T/yes, by comparison to other              NT                      T/Some detected are non-           NT                    T/ Yes,          NT     NT           NY
+                              other indicators of fecal    indicators of fecal contamination                                  pathogenic                                               compared
+                              contamination                                                                                                                                            H2S, TC and
+                                                                                                                                                                                       FC tests on
+                                                                                                                                                                                       solar
+                                                                                                                                                                                       pasteurized
+                                                                                                                                                                                       waters
+Manja et al., 2001            T/                           T/                                         NT                      NT                                 NT                    NT               NT     NT           NT
+                              Yes, comparison to other     Yes, by comparison to other indicators
+                              indicators of fecal          of fecal contamination
+                              contamination
+
+ Abbreviations: T = tested; NT = not tested by objective or specified measures or methods
+
+
+
+
+                                                                                                                         34
+3.8    Potential modifications of the H2S test to improve specificity for H2S-
+      producing bacteria of fecal origin
+
+There are several modifications to the H 2S test that could be considered in an effort to
+make it more specific for organisms of fecal origin and to reduce the probability of
+organisms of non-fecal origin giving a positive response. These modifications fall
+into two main categories: modifications of the medium itself and modifications of the
+incubation conditions.
+
+The inclusion of bile salts such as sodium deoxycholate or taurocholate in the medium
+is a common method for inhibiting the growth of many microorganisms. These
+surfactants can cause the lysis of sensitive cells. Because human and animal intestinal
+flora has to tolerate these materials in the intestine they tend to be less sensitive to
+them. Indeed, the use of bile salts is common in bacteriological media to detect
+Enterobacteriaeceae. Archebacteria and many eubacteria are sensitive, while
+Salmonella and E. coli are not (Gerhardt et al., 1994; Kamekura et al., 1988). Gram
+negative organisms are generally insensitive, while gram positives other than Group D
+streptococci are sensitive. Therefore, the inclusion of bile salts at 0.5% would
+eliminate the bacilli, the archebacteria and most other soil organisms and prevent
+them from producing a positive result. However, this modification also may decrease
+the detection of Clostridium perfringens, which can be of fecal origin and is
+detectable by current versions of the medium. The extent to which the addition of a
+bile salt would inhibit C. perfringens detection by its H2S production is uncertain and
+would have to be investigated.
+
+Several modifications of the incubation procedure are suggested in an effort to
+increase specificity for bacteria of fecal origin. One modification to consider is
+aeration of the medium by vigorous shaking prior to incubation in an effort to make
+the system aerobic. This would slow or preclude the growth of many anaerobic or
+microaerophilic organisms, some of which (e.g., the sulfate reducing bacteria) may
+give false positives. Additionally, elevated incubation temperatures would be
+advantageous in reducing the growth of some soil and water organisms of natural
+origin. Some of these environmental bacteria generally do not grow as well at
+temperature above 30o C, in contrast to bacteria of human or animal origins.
+However, elevated incubation temperature may not be an effective way to control the
+growth of thermotolerant or thermophilic bacteria of natural origin, such as those
+from geohydrothermal environments because these bacteria are adapted to higher
+temperatures. Furthermore, higher incubation temperatures such as 35o C will make
+the test potentially more difficult to apply in the field and in settings other than
+microbiology laboratories because an incubator may be required.
+
+3.9    Costs of H2S Tests
+
+It was not possible to find detailed breakdowns of estimated costs for H 2S tests, but all
+reports indicate lower costs than conventional bacteriological tests for fecal
+contamination. Several investigators have listed the costs of H2S tests and compared
+them to the costs of standard bacteriological tests for fecal contamination of water.
+
+Kromoredjo and Fujioka (1991) reported that the cost to analyze one sample by a 5-
+tube MPN test was: US$6.50 by commercially available, defined substrate
+
+
+                                           35
+technology test, US$1.60 by fecal coliform test using lauryl tryptose broth (LTB) plus
+4-methylumbelliferryl-Beta-D-glucuronide (MUG) and $US0.62 using the H2S test.
+They noted that the relative costs for the commercially available tests would be even
+higher because its high shipping costs were not included and the tubs would be
+discarded after their use, while the shipping costs for LTB-MUG fecal coliform and
+H2S tests would be comparatively low and the tubes used in these tests would be
+reused up to five times. Kaspar et al. (1992) indicated that the cost of the H2S test
+was much lower than the costs of common microbiological tests, such as those for
+coliforms, but detailed costs estimates and comparisons were not provided. However,
+they indicated that the costs of materials for an H2S test were about US$0.25 per unit.
+Genthe and Franck (1999) stated that the cost of the H2S test was inexpensive. They
+listed the approximate costs of the H2S test at <5.00 South African Rand or ZAR
+<US$0.44). The estimated costs of materials for the membrane filter (MF) fecal
+coliform test were about 7.00 ZAR or about US$0.61 and for the defined substrate
+technology tests, they were about 30-50 ZAR or US$2.60-4.35). The costs for the
+H2S test did not include material preparation time and the costs for the fecal coliform
+MF test did not include media preparation and carrying our filtration.
+
+Overall, these data indicate that the H2S test costs are relatively low compared to
+those for standard bacteriological tests, either prepared in one's lab or commercially
+purchased as ready to use. However, a more formal analysis of H2S test costs listing
+all of the cost elements and methods of cost calculation is recommended. It should be
+recalled that the costs of analyses may represent a small fraction of total costs if staff
+time and travel costs are taken into account.
+
+
+
+
+                                           36
+4. SUMMARY AND CONCLUSIONS
+
+The H2S method in various modifications has been tested in many places in different
+waters and produced results reported as indicating it to be a reasonable approach for
+testing treated and untreated waters for fecal contamination. It offers advantages
+including low cost (estimated at 20% of the cost of coliform assays), simplicity and
+ease of application to environmental samples.
+
+It has not been suggested as a replacement for other testing procedures for fecal
+contamination of water.
+
+Because it has not been adequately tested in regions with temperate and cold climates
+nothing can be said about its applicability in those regions.
+
+Because it offers the potential for testing water in places where other testing methods
+are not feasible, its promotion, dissemination and use have been encouraged by many
+developers and evaluators. However, as is apparent from the review and analyses
+presented here, H2S tests have not been evaluated and judged according to the
+generally accepted criteria of an indicator of fecal contamination, except perhaps
+indirectly and by comparison. That is, no systematic efforts have been made to
+determine directly if H2S tests fulfill the essential criteria for an indicator of fecal
+contamination in treated and untreated drinking water and its sources. Instead,
+previous studies have attempted to validate and evaluate the test against on the basis
+of the detection of established fecal indicator bacteria and certain pathogens, notably
+Salmonella, in experimentally seeded and in field samples of treated and untreated
+water. If there is adequate agreement (correlation, concordance, etc.) in the
+classification or quality determination of water based on a standard or generally
+accepted fecal indicator and an H2S test, the H2S test is taken to be an acceptable
+indicator of fecal contamination. In some studies these measures of agreement have
+been further supported by the isolation and identification of bacteria of fecal origin
+from H2S-positive cultures. The criteria for determining agreement between
+outcomes for H2S and fecal indicator bacteria tests in comparison studies are not
+uniform among the various studies reported and often have not been explicitly stated.
+In some studies these comparisons are supported by statistical analyses for
+correlations or other associations and in other studies they are not. In some studies,
+the comparative criteria include efforts to determine sensitivity (lower limit of
+detection) and specificity (ability to detect specific bacteria or bacterial groups). In all
+of the reported studies, no efforts have been made to determine if the H2S tests detect
+non-fecal bacteria capable of producing hydrogen sulfide, such as sulfate reducing
+bacteria. A preliminary study conducted in the laboratory of one of us (Mark Sobsey)
+showed that a standard, commercially available H2S test detects sulfate-reducing
+bacteria of non-fecal origin in 25% of the samples tested.
+
+Because of these deficiencies, it is not possible to widely and unequivocally
+recommend H2S tests for the determination of fecal contamination in drinking water.
+There remain too many uncertainties about the reliability, specificity and sensitivity of
+the test for detecting fecal contamination of drinking water and its sources.
+
+Despite this lack of formal analytical support for and validation or verification of H2S
+tests, there are many studies reporting relatively good agreement in the classification
+
+
+                                            37
+of drinking waters as suitable or unsuitable based on the results of H2S tests in
+comparison with fecal indicator bacteria tests. Hence, there is substantial empirical
+evidence showing that H2S tests and fecal indicator bacteria tests may provide
+information on the suitability or unsuitability of drinking water with respect to fecal
+contamination. For this reason, there are good reasons to support the further
+investigation and use of H2S tests under certain circumstances and in certain settings.
+In particular, if the alternative to H 2S testing is no water quality testing at all for fecal
+contamination, the H2S test is recommended for use, with caution. The caution
+concerns possible false positive results due to H2S presence or formation in water
+from sources other than fecal contamination. In addition, H2S testing also is
+recommended with caution for educational and motivational purposes to promote
+water sanitation and hygiene education in outreach and dissemination programs.
+Again, it must be established or verified that the test will give correct results with
+respect to water classification as suitable or unsuitable when applied to the treated or
+untreated drinking waters being tested.
+
+Before its adoption for widespread use standardization of the H2S test procedure as
+well as conditions and precautions for its use and interpretation based on an improved
+evidence base will be necessary. The studies conducted to date have used a variety of
+different media compositions, test strips in some cases, general darkening of the
+medium in others and even membrane filters and agar media in yet others. A variety
+of different incubation times and temperatures have also been used. A number of
+investigators have addressed incubation time and temperature issues that can result in
+false negatives if the appropriate choices are not made (temperatures too low or
+incubation times too short). Some have suggested the addition of cystine or cysteine
+to the medium and supplementing the medium with yeast extract and deoxycholate.
+There is likely to be merit in many of these suggestions.
+
+Empirically, the test appears to detect mostly organisms of fecal origin (human or
+animal), and therefore, it may have value. There is no reasonable way, however, to
+preclude a false positive in samples containing other H2S producers, nor is there an
+easy and expedient way to determine what those organisms may be. The ability to
+form H2S is too widely distributed within the microbial world for it to be an
+unequivocal test of fecal contamination in water. It also cannot discriminate between
+organisms of human or animal origin, as long as they produce H2S. Most of the
+problems likely to be encountered with H2S tests are false positives rather than false
+negatives.    Such misclassification of drinking water errs on the side of safety.
+However, it can result in the rejection of water that is acceptable with respect to fecal
+contamination, and it may prompt efforts to seek or provide alternative or further
+improved drinking waters. Such efforts in effect increase the costs of providing safe
+water. If a false positive leads to more testing or the rejection for use of the water for
+drinking, than alternative sources must be sought and this may be more expensive.
+
+Inadequate attention has been given to the use and reliability of the method for testing
+ground waters. In many parts of the developing world ground water is the only source
+of drinking water. In groundwater, there is the strong possibility of sulfides being
+present due to natural geohydrological sources and to anthropogenic impacts other
+than fecal contamination, both of which are false positive results. The use of the H2S
+test in ground waters needs to be further assessed, as does modification of the
+
+
+
+                                             38
+procedure, as suggested above, to allow determination of false positives due to sulfide
+and non-fecal sulfide-producing bacteria in the sample water.
+
+In assessing the applicability of the H2S test in presence/absence format,
+the limitations of P/A testing should be recalled. P/A testing was
+developed for and is applicable where most tests provide a negative result.
+Where a significant proportion of tests provide a positive reaction
+quantitative testing is preferred in order to determine relative health risk
+and therefore relative priority of need for correction, such as by improved
+or greater treatment or by finding a higher quality source water for
+supply.
+
+Water quality testing alone is an inadequate response to the challenges of
+ ensuring water safety. Occasional tests conducted on a water supply may
+    provide a false sense of security as water quality can vary widely and
+rapidly. For these reasons water quality testing should be accompanied by
+  verification of the state of the source or supply, for instance, by sanitary
+     inspection as described in the WHO Guidelines for Drinking-water
+   Quality Volume 3. As previously indicated, end-product testing is now
+only one of several key management tools in the provision of safe drinking
+  water under the forthcoming Guidelines from Drinking Water Quality.
+   The development, implementation and use of a Water Safety Plan that
+   considers the quality and overall management of drinking water from
+ source to consumer is the goal for all water supplies. In such a plan, now
+  including hazard analysis-critical control points (HACCP), endproduct
+                  testing is not a critical control point (CCP).
+
+
+
+
+                                          39
+                       5. LITERATURE CITED
+
+Allen, M.J., E.E. Geldreich. 1975. Bacteriological criteria for ground water quality.
+Ground Water 13:5-52.
+
+Atlas, R.M. and R. Bartha (1993) Microbial Ecology. Fundamentals and Applications,
+Benjamin/Cummings Publishing Company, Redwood City
+
+Buchanan, R.E. and N.E. Gibbons (1974) Bergey's Manual of Determinative
+Bacteriology, 8th edition, Williams and Wilkins, Baltimore.
+
+Berry, S.A., and B.G. Noton. 1976. Survival of bacteriophages in seawater. Water
+Res. 10:323- 327.
+
+Castillo, G., R. Duarte, Z. Ruiz, M.T. Marucic, B. Honorato, R. Mercado, V. Coloma,
+V. Lorca, M.T. Martins, and B.J. Dutka. 1994. Evaluation of disinfected and
+untreated drinking water supplies in Chile by the H2S paper strip test. Water
+Research 28:1765-1770.
+
+Clark, J.A. (1968) A presence-absence (P/A) test providing sensitive and inexpensive
+detection of coliforms, fecal coliforms and faecal streptococci in municipal drinking
+water supplies. Can. J. Microbiol., 14:13-18.
+
+Craun, G.F., and R.A. Gunn. 1979. Outbreaks of waterborne disease in the United
+States 1975-1976. JAWWA. 71:422-428.
+
+Fukui M, Teske A, Assmus B, Muyzer G, Widdel F. (1999) Physiology, phylogenetic
+relationships, and ecology of filamentous sulfate-reducing bacteria (genus
+Desulfonema)
+Archives of Microbiology. 172(4):193-203.
+
+Gawthorne, T., R. Gibbs, K Mathew, and G. Ho. H2S papers as presumptive tests for
+Salmonella contamination in tropical drinking water. Water Sci. Technol. 34:187-
+194.
+
+Gerhardt, P., R.G.E. Murray, W.A. Woods, and N.R. Krieg. 1994. Methods for
+General and Molecular Bacteriology. ASM Press, Washington, D.C.
+
+Genthe, B. and M. Franck (1999) A tool for Assessing Microbial Quality in Small
+Community Water Supplies: An H2S Strip Test. WRC Report No. 961/1/99, 33
+pages. to: Water Research Commission. by: Division of Water, Environment and
+Forestry Technology, CSIR, Stellenbosch, South Africa.
+
+Hazen, T.C. (1988) Fecal coliforms as indicators in topical waters: a review. Tox.
+Assess., 3:461-477.
+
+Iverson, J.B., and B.J Fleay. 1991. Serovars of Salmonella isolated from humans,
+animals, waters and effluents in natural and disturbed environments in western
+Australia. Proceedings of the 14th Federal Convention, Australian Water and
+Wastewater 2:435-441.
+
+
+                                         40
+Jimenez, L, I. Munoz, T. Toranzos, and T.C. Hazen. 1989. Survival and activity of
+Salmonella typhimurium and Escherichia coli in tropical freshwater. J. Appl.
+Bacteriol. 67:61-69.
+
+Kaspar, P, I. Guillen, D. Revelli, T. Meza, G. Velazquez, H. Mino de Kaspar, L.
+Pozolli, C. Nunez and G. Zoulek (1992) Evaluation of a simple screening test for the
+quality of drinking water systems. Trop. Med. Parasitol., 43: 124-127.
+
+Kamekura, M., D. Oesterhelt, R. Wallace, P. Anderson, and D.J. Kushner. 1988.
+Lysis of halobacteria in Bacto-Peptone by bile acids. Appl. Environ. Microbiol.
+54:990-995.
+
+
+Kaspar, P, I. Guillen, D. Rivelli, G. Valasquez, H.M. De Kaspar, L. Pozzoli, C. Nunez
+and G. Zoulek (1992) Evaluation of a simple screening test for the quality of drinking
+water systems. Tropical Medicine and Parasitology, 43(2): 124-127.
+
+Kelly, D.P., and N.A. Smith. 1988. Organic sulfur compounds in the environment:
+biogeochemistry, microbiology, and ecological aspects. Adv. Microbiol Ecol.
+11:345-386.
+
+Kromoredjo, P., and R. Fujioka. 1991. Evaluating three simple methods to assess the
+microbial quality of drinking water in Indonesia. Environmental Technol and Water
+Quality 6:259-270.
+
+MacKenzie, W.R., N.J. Hoxie, M.E. Proctor, M.S. Gradus, K.A.Blair, D.E. Peterson,
+J.J. Kazmierczak, D.G. Addis, K.R. Fox, J.B. Rose, and J.P. Davis. 1994. A massive
+outbreak in Milwaukee of Cryptosporidium infection transmitted through the public
+water supply. The New England J. Medicine 331:161-167.
+
+Manja, K.S., M.S. Maurya, and K.M. Rao. 1982. A simple field test for the detection
+of faecal pollution in drinking water. Bulletin of the World Health Organization.
+60:797-801.
+
+Manja, K.S., R. Sambasiva, K.V. Chandrashekhara, K.J. Nath, S. Dutta, K. Gopal, L.
+Iyengar S.S. Dhindsa and S.C. Parija (2001) Report of Study on H2S Test for
+Drinking Water, 96 Pages, UNICEF, New Delhi.
+
+Martins, M., G. Castillo, and B.J. Dutka. 1997. Evaluation of drinking water
+treatment plant efficiency in microorganism removal by the coliphage, total coliform
+and H 2S paper strip tests. Water Sci. Technol. 35:403-407.
+
+Nagaraju. D and J.C.V. Sastri (1999) Confirmed faecal pollution to bore well waters
+of Mysore city. Environmental Geology, 38(4): 322-326.
+
+Olivieri, VP. (1983) Measurement of microbial quality. In: Assessment of
+Microbiology and Turbidity Standards for Drinking Water. P.S. Berger and Y.
+Argaman, Eds., EPA Report No. EPA 570-9-83-001. Office of Drinking Water.
+Washington, D.C.
+
+
+                                         41
+Pillai, J. K Mathew, R. Gibbs, and G. Ho. 1999. H2S paper strip method- A
+bacteriological test for faecal coliforms in drinking water at various temperatures.
+Water Sci. Technol. 40:85-90.
+
+Popp, D.H. and E.A. Morris (1995) Some experiences with microbially influenced
+corrosion of pipelines. Materials Performance, pages 23-28, May.
+
+Ratto, A., B.J. Dutka, C. Vega, C. Lopez, A. El-Shaarawi (1989) Potable water
+safety assessed by coliphage and bacterial tests. Water Research 23:253-255.
+
+Rijal, G.K., R.S. Fujioka and C.A. Ziel (2000) Evaluation of the hydrogen sulfide
+bacteria test: A simple test to determine the hygienic quality of drinking water.
+Abstracts of the General Meeting of the American Society for Microbiology. Poster
+Presentation (unpublished) Abstract Q354, Page 622. Amer. Soc. Microbiol.,
+Washington, DC.
+
+Sinton, L.W., R.K. Finlay and D.J. Hannah (1998) Distinguishing human from
+animal faecal contamination in water: A review. New Zealand Journal of Marine &
+Freshwater Research. 32(2): 323-348
+
+Sivaborvorn (1988) On Development of Simple Tests for Bacteriological Quality of
+Drinking Water (Water Quality Control Southeast Asia), Department of Sanitary
+Engineering, Mahidol University.       Thailand Centre File 3-P-83-0317-03.
+International        Development        Research        Centre,         Canada
+(www.idrc.ca/library/document/008918/.
+
+Sivaborvorn, K. and B.J. Dutka (1989) Coliphage presence in various types of potable
+water in Thailand, Water Pollution Research Journal of Canada, 24(4): 583-588.
+
+Sobsey, M.D. (2001) Microbial detection: implications for exposure, health effects,
+and control. In: Safety of Water Disinfection: Balancing Chemical and Microbial
+Risks, 2nd Edition, G.F. Craun (ed.) ILSI Press, Washington, D.C.
+
+Townsend. S.A. 1992. The relationships between salmonellas and faecal indicator
+bacteria concentrations in two pool in the Australia wet/dry tropics. J. Appl.
+Bacteriol. 73:182-188.
+
+Tyrell, S., Gardner, S., Howsam, P. and Carter, R. (1996) Biological removal of iron
+from well-handpump water supplies. (Manuscript).
+
+Venkobachar, C., D. Kumar, K. Talreja, A. Kumar and I. Iyengar (1994) Assessment
+of bacteriological quality using a modified H-2S strip test. Aqua (Oxford), 43(6):
+311-314.
+
+Wetzel, R.G. 2001. Limnology, 3 rd Ed., Academic Press, San Diego, CA
+
+Widdel, F. 1988. Microbiology and ecology of sulfate- and sulfur-reducing bacteria,
+pp 469-586. In: Biology of Anaerobic Organisms, A.J.B. Zehnder (ed.), Wiley-Liss,
+NY, NY.
+
+
+                                         42
+WHO (2002) Indicators (draft document). OECD, World Health Organization,
+Geneva.
+
+Yasushi, K. (1998) Microbially induced corrosion and biodegradation, Corrosion
+Engineering,                                                       47:909-913.
+
+
+
+
+                                      43
+44
+

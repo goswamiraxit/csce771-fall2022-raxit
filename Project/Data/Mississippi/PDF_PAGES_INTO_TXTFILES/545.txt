@@ -1,0 +1,197 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Tombigbee
+River
+
+Hollis Creek
+
+812211
+
+Oktibbeha
+
+Aquatic Life
+Use Support
+
+Total
+Nitrogen
+
+Near Starkville from headwaters to the Noxubee
+River
+
+Tombigbee
+River
+
+Hollis Creek
+
+812211
+
+Oktibbeha
+
+Aquatic Life
+Use Support
+
+Total
+Phosphorus
+
+Near Starkville from headwaters to the Noxubee
+River
+
+Tombigbee
+River
+
+Howard Creek
+
+810011
+
+Lowndes
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From Unnamed Trib near Mount Pleasant Church to
+mouth at Luxapallila Creek
+
+Tombigbee
+River
+
+Leeper Creek
+
+805112
+
+Lee
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Plantersville from headwaters to mouth at Town
+Creek
+
+Tombigbee
+River
+
+Little Wolf Creek
+
+818812
+
+Prentiss
+
+Aquatic Life
+Use Support
+
+Tombigbee
+River
+
+Loakfoma Lake
+
+812914
+
+Noxubee
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+Organic
+Enrichment /
+Low
+Dissolved
+Oxygen
+
+Tombigbee
+River
+
+Loakfoma Lake
+
+812914
+
+Noxubee
+
+Aquatic Life
+Use Support
+
+pH
+
+Near Oktoc near dam
+
+Tombigbee
+River
+
+Long Branch
+
+808312
+
+Clay
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Mhoons Valley from headwaters to mouth at
+Line Creek
+
+Tombigbee
+River
+
+Long Branch
+
+808512
+
+Oktibbeha
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Starkville from headwaters to Trim Cane Creek
+
+Tombigbee
+River
+
+Long Creek
+
+807612
+
+Chickasaw,
+Clay
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Houlka Creek
+
+40
+
+From headwaters to confluence with Wolf Creek
+
+Near Oktoc near dam
+
+

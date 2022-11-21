@@ -1,0 +1,648 @@
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+Chapter 857: HAZARDOUS WASTE MANIFEST REQUIREMENTS
+
+SUMMARY: This rule establishes requirements for the use of manifests to
+track the movement of hazardous waste from the point of generation to any
+intermediate points and finally to its ultimate disposition and establishes
+related responsibilities and liabilities of generators, transporters and owners
+and operators of waste facilities for hazardous waste.
+
+l. Legal Authority. This rule is authorized by and adopted under 38
+M.R.S.A., Section 1301, et seq.
+
+2. Preamble. It is the purpose of the Department of Environmental
+Protection, consistent with legislative policy, to provide effective controls for
+the management of hazardous waste in order to protect public health, safety
+and welfare and the environment. This rule provides one such control by
+requiring the use of a manifest to track the movement of hazardous waste
+from the point of generation to any intermediate points and finally to its
+ultimate disposition and by establishing related responsibilities and
+liabilities of generators, transporters, and owners and operators of waste
+facilities for hazardous waste.
+
+Portions of this rule refer to federal regulations of the United States
+Environmental Protection Agency (EPA). Unless otherwise specified, the
+federal regulations referenced are those interim final or final regulations
+revised as of July 1, 1988, as they appeared in volume 40 of the Code of
+Federal Regulations (CFR). Where specifically stated, the terms of a
+referenced federal regulation are hereby adopted as terms of this rule,
+except that in regulations incorporated thereby, "EPA" shall mean "the
+Maine Department of Environmental Protection (DEP)" except for
+references to 40 CFR 262, subpart E which means just "EPA";
+"Administrator", "Regional Administrator" and "Director" shall mean "the
+Maine Board of Environmental Protection or its designated representative";
+and the phrase "treat, store, and/or dispose" shall mean "handle." In
+addition, where the terms of federal regulations hereby incorporated by
+reference differ from or are inconsistent with other terms of this Chapter or
+Chapters 850-860, the more stringent of the requirements shall apply.
+Other changes to regulations incorporated hereby are as expressly made in
+this rule.
+
+3. Definitions
+
+A. Board. "Board" means the Board of Environmental Protection.
+
+B. Department. "Department" means the Department of Environmental
+Protection.
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+C. Generator. "Generator" means a person whose act or process produces
+a waste which is or may be hazardous.
+
+D. Handle. "Handle" means to store, transfer, collect, separate, salvage,
+process, reduce, recover, incinerate, treat or dispose of.
+
+E. Site. "Site" means the same or geographically contiguous property which
+may be divided by a public or private right-of-way, provided that the
+entrance and exit between the properties is at a crossroads intersection and
+access is by crossing as opposed to going along the right-of-way.
+Noncontiguous properties owned by the same person but connected by a
+right-of-way which he controls and to which the public does not have access
+is also considered site property.
+
+F. Transport. "Transport" means the movement of hazardous waste from
+the point of generation to any intermediate points and finally to the point of
+ultimate disposition. Movement of hazardous waste on the site where it is
+generated or on the site of a licensed waste facility for hazardous waste is not
+"transport."
+
+G. Transporter. "Transporter" means a person who transports hazardous
+waste in any quantity within, into or through the State of Maine.
+
+H. Waste. "Waste" means any useless, unwanted or discarded substance or
+material, whether or not such substance or material has any other or future
+use and includes any substance or material that is spilled, leaked, pumped,
+poured, emitted, emptied, or dumped onto the land or into the water or
+ambient air.
+
+4. Manifest Form. The hazardous waste manifest and recyclable
+hazardous material uniform bill of lading form approved by the Board and
+instructions related to the form are hereby incorporated as provisions of this
+rule. All information required on the form and all related instructions are
+requirements of this rule, to which penalties for non-compliance attach. The
+Department may authorize an alternative form to the uniform bill of lading
+for the transport of universal wastes if it contains the information required
+to meet the needs of the Department.
+
+NOTE: The Department has approved an alternative form entitled "Maine
+Recyclable Material Uniform Bill of Lading" in place of the Recyclable
+Hazardous Material Uniform Bill of Lading. For shipments of universal
+wastes, this alternative form should be used in place of the Recyclable
+Hazardous Material Uniform Bill of Lading. This alternative form is
+designed to be utilized for those Maine universal wastes which are not DOT
+regulated hazardous materials, as well as for any universal wastes that are
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+hazardous materials. Since the new form is an approved alternative to the
+Recyclable Hazardous Material Uniform Bill of Lading, use of the alternative
+form will satisfy all requirements set out in the State of Maine Hazardous
+Waste Management Rules regarding use of the Recyclable Hazardous
+Material Uniform Bill of Lading.
+
+5. General Requirements
+
+A. A generator who transports, or offers for transportation, hazardous waste
+for handling shall prepare a manifest before the waste is transported.
+
+B. A generator shall comply with the manifest requirements of 40 CFR Parts
+262.20(a), 262.21, and the Appendix to 40 CFR Part 262, including the use
+of a uniform hazardous waste manifest, which are hereby adopted and
+incorporated by reference.
+
+NOTE: Federal regulations require that a generator obtain and use the
+manifest provided by or authorized by the state to which the hazardous
+waste is destined and in which the licensed hazardous waste facility is
+located.
+
+C. A generator whose waste is to be transported to a waste facility for
+hazardous waste in Maine shall, in addition to all other manifest
+requirements, use the manifest form(s) adopted by the Board and shall fully
+complete all state-optional information required by the manifest form.
+
+D. Each generator, transporter and owner or operator of a waste facility for
+hazardous waste shall comply with all the requirements and instructions
+which are specified on the manifest.
+
+E. If the transporter is unable to deliver the hazardous waste to the
+designated facility or to the alternate facility, the generator must either
+designate another facility or instruct the transporter to return the waste.
+
+6. Exceptions
+
+A. A person may transport PCBs which are contained in a totally enclosed
+manner in PCB equipment without using a manifest provided that the PCBs
+are not discarded or intended to be discarded. In addition, a person who
+discharges or suffers a discharge of PCBs or who generates PCB
+contaminated material as a result of routine servicing of off-site PCB
+containing equipment may transport that PCB waste to a facility with an
+approved PCB management plan or to a Maine hazardous waste storage
+facility licensed to handle PCBs without using a manifest provided that the
+facility is under the control of the entity who has care or custody of or who
+owns the PCBs waste.
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+NOTE: The generator controlled facility which first accepts the waste shall
+be the site of generation.
+
+B. A person may transport universal wastes without using a manifest,
+provided that the Uniform Bill of Lading referenced in Section 4 or an
+alternative form approved by the Department, or for small universal waste
+generators and central accumulation facilities the log requirements of
+Section 13, are utilized. For the purposes of administering this Section,
+where the rule in Sections 5, 7, 8, and 9 states "manifest" it shall be replaced
+with "Manifest or Uniform Bill of Lading".
+
+NOTE: The Department has approved an alternative form entitled "Maine
+Recyclable Material Uniform Bill of Lading." For shipments of universal
+wastes, this alternative form should be used in place of the Recyclable
+Hazardous Material Uniform Bill of Lading. This alternative form is
+designed to be utilized for those Maine universal wastes which are not DOT
+regulated hazardous materials, as well as for any universal wastes that are
+hazardous materials. Since the new form is an approved alternative to the
+Recyclable Hazardous Material Uniform Bill of Lading, use of the alternative
+form will satisfy all requirements set out in the State of Maine Hazardous
+Waste Management Rules regarding use of the Recyclable Hazardous
+Material Uniform Bill of Lading.
+
+7. Manifest Requirements for Generators
+
+NOTE: Additional requirements for generators appear in other rules of the
+Board dealing with specific aspects of hazardous waste management. See,
+for example, Chapter 851, Standards for Generators of Hazardous Waste;
+Chapter 852, Land Disposal Restrictions; Chapter 854, Standards for
+Hazardous Waste Facilities; and Chapter 856, Licensing of Hazardous
+Waste Facilities.
+
+A. A generator of hazardous waste who transports, or offers for transport,
+hazardous waste for handling shall:
+
+(l) Complete the generator portion of the manifest, including his
+handwritten signature.
+
+(a) A generator shall designate on the manifest one waste facility for
+hazardous waste authorized to handle the waste covered by the manifest
+under a State hazardous waste program approved by the United States
+Environmental Protection Agency or under the Federal hazardous waste
+program.
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+(b) A generator may also designate on the manifest one alternate waste
+facility for hazardous waste authorized to handle the waste covered by the
+manifest under a State hazardous waste program approved by the United
+States Environmental Protection Agency or under the Federal hazardous
+waste program. The waste may be delivered to the alternate facility in the
+event that an emergency prevents its delivery to the primary designated
+facility.
+
+(c) If the generator is also the transporter for all or part of the waste's
+transport, he shall also complete the appropriate transporter portion of the
+manifest.
+
+(d) A generator shall identify and list each waste separately on the manifest.
+
+NOTE: Lab packs containing hazardous wastes are not exempted from this
+requirement.
+
+(2) After having obtained the transporter's handwritten acceptance
+signature and date of acceptance thereon, remove the Generator copy (copy
+#8), the Generator State copy (copy #7) and the Destination State copy
+(copy #6) and give the remaining copies of the manifest to the transporter.
+
+NOTE: If a continuing Transporter is used, the Generator is responsible for
+supplying him with a legible photocopy of the manifest which must contain
+signatures where required.
+
+(3) Send the Destination State copy (copy #6) of the manifest to the State
+where the designated facility (hazardous waste facility) is located within 7
+days of the date the waste is accepted by the initial licensed transporter.
+
+(4) Send the Generator State copy (copy #7) of the manifest to the State
+where the waste was generated within 7 days of the date the waste is
+accepted by the initial licensed transporter.
+
+(5) A generator who completes a manifest other than a Maine manifest,
+which does not include a Generator State copy and/or a Destination State
+copy shall produce a photocopy(ies) of the Generator copy and send the
+copy(ies) to the appropriate State agency(ies) in the destination and/or
+generator state within seven (7) days of acceptance of the waste by a licensed
+transporter.
+
+(6) Retain the signed generator copy (copy #8) of the manifest for at least
+three (3) years or until the signed generator-completed copy (copy #3) is
+returned to him by the designated facility which received the waste. The
+generator-completed copy (copy #3) shall be retained by the generator for at
+least three (3) years.
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+NOTE: The generator-completed copy (copy #3) of the manifest is the copy
+signed by the generator, all transporters and the owner or operator of the
+designated facility which received the waste.
+
+(7) A generator who completes a manifest other than a Maine manifest,
+which does not include a Generator State completed copy and/or a for
+Destination State completed copy shall produce a photocopy(ies) of the
+Generator completed copy and send the copy(ies) to the appropriate state
+agency(ies) in the destination and/or generator state within seven (7) days
+of the generator's receipt of the completed manifest.
+
+B. A generator, by generating hazardous waste and initiating its transport,
+agrees to its return to him. Upon return of the hazardous waste, he shall
+accept any of the waste which cannot be delivered to a designated facility.
+Thereafter, he shall meet all the generator requirements for the waste as if
+he had generated the waste on the date of its return to him.
+
+C. Generators who ship hazardous waste within the United States solely by
+rail or water shall comply with the requirements of 40 CFR Part 262.23(c)
+and (d), which are hereby adopted and incorporated by reference, and in
+addition shall send copy #7 of the manifest to the Department and copy #6
+of the manifest to the State where the designated hazardous waste facility is
+located, at the same time as the manifest is sent to the designated waste
+facility.
+
+D. Generators who import hazardous waste from or export hazardous waste
+to a foreign country shall comply with the requirements of 40 CFR Part 262
+Subparts E and F, and shall obtain and use a Maine manifest. Copies of all
+notices, reports, manifests and other documents filed with the United States
+Environmental Protection Agency in accordance with the requirements of
+these subparts shall be filed with the Department.
+
+E. A generator who does not receive the generator-completed copy (copy
+#3) from the designated waste facility within thirty-five (35) days from the
+date waste was accepted by the initial transporter shall immediately notify
+the Department and shall immediately undertake to track and locate the
+waste, contacting the transporter(s) of the waste and the designated
+facility(ies) and keeping the Department advised.
+
+F. A generator who transports or offers for transport, hazardous waste to a
+designated facility located in another state and who does not receive the
+generator-completed copy (copy #3) of the manifest from the designated
+facility within thirty-five (35) days from the date the waste was accepted by
+the initial transporter shall, in addition to the requirements of Section 7(E)
+of this rule, notify the governmental agency responsible for administering
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+the manifest system in: l) the state in which the designated facility is located
+and in 2) the state in which the waste may have been delivered, or notify the
+
+United States Environmental Protection Agency where either or both states
+do not have a State hazardous waste program approved by the United States
+Environmental Protection Agency.
+
+NOTE: The names and addresses of State and Federal agencies may be
+obtained by calling the Department at (207) 287-2651.
+
+G. A generator who has not received the generator-completed copy (copy
+#3) of the manifest from the designated facility within forty-five (45) days
+from the date the waste was accepted by the initial transporter shall file a
+written Exception Report with the Department. The Exception Report shall
+include:
+
+(l) A legible copy of the manifest for which the generator has not received
+the generator-completed copy (copy #3); and
+
+(2) A cover letter signed by the generator or his authorized representative
+explaining the efforts that have been and are being taken to locate the waste
+and the results of those efforts.
+
+NOTE: For generators using a UBOL, the Department will initially identify
+discrepancies in shipments, it is however the generator's responsibility to
+resolve the discrepancies.
+
+H. For any hazardous waste rejected at the designated and alternate facility
+if designated, the generator must provide to the Department within 20 days
+of such rejection a Rejection Report indicating:
+
+(1) Uniform Hazardous Waste Manifest number(s) for the rejected waste
+shipments;
+
+(2) The disposition of the rejected waste; and
+
+(3) Any changes in the information previously supplied by the generator on
+the Uniform Hazardous Waste Manifest.
+
+Copies of the Rejection Report shall be provided to the transporter(s), the
+facility(s) that rejected the waste, and the appropriate regulatory agencies of
+the Generator and Destination State(s).
+
+8. Manifest Requirements for Transporters
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+NOTE: Other requirements for transporters appear in other rules of the
+Board dealing with specific aspects of hazardous waste management See, for
+example, Chapter 853, Licensing of Transporters of Hazardous Waste and
+Chapter 854, Standards for Hazardous Waste Facilities. It should be noted
+that manifest requirements are in effect for transporters as of the effective
+date of this rule with- out regard to the dates established in Chapter 853 for
+licensing.
+
+A. A transporter of hazardous waste shall:
+
+(1) Not accept hazardous waste from a generator or from another
+transporter unless the waste is accompanied by its manifest, properly
+completed by the generator and/or prior transporter(s), including signature
+and identification numbers;
+
+(2) Ensure that the manifest accompanies the hazardous waste;
+
+(3) In the presence of the generator or, for subsequent transporters, the
+prior transporter, complete the appropriate transporter portion of the
+manifest, including handwritten acceptance signature and date of
+acceptance, and immediately give a signed copy of the manifest to the
+generator or prior transporter, noting any discrepancies in manifest
+information;
+
+(4) Upon delivery of the hazardous waste to another transporter or to the
+designated facility:
+
+(a) complete delivery information section of transporter portion of manifest;
+
+(b) obtain the subsequent transporter's or the facility owner's or operator's
+handwritten acceptance signature and date of acceptance on the manifest;
+
+(c) if a particular shipment of hazardous waste is delivered to a continuing
+transporter, the original transporter must, within seven (7) days, submit a
+photocopy of the transporter copy (copy #5) of the manifest to the
+Department. Such photocopy must be signed and dated by the continuing
+transporter, indicating acceptance of the hazardous waste;
+
+(d) give the original and remaining copies of the manifest to the subsequent
+transporter or to the facility owner or operator;
+
+(e) retain, for at least three (3) years from the date the hazardous waste was
+accepted by him, the transporter copy (copy #5) of the manifest signed by
+the generator, prior transporters, himself, and subsequent transporters or
+the owner or operator of the designated hazardous waste facility. If more
+than one transporter is involved, and the generator has not provided a
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+photocopy of the Transporter copy (copy #5) of the manifest, the original
+transporter shall make photocopies so that each transporter retains copy #5
+of the manifest.
+
+B. The requirements of Sections 8(A)(2), (3), and (4) of this rule do not
+apply to rail or water (bulk shipment) transporters if such a transporter
+complies with requirements of 40 CFR Part 263.20(e)(1)-(5) and (f)(1)-(5),
+and 40 CFR 263.22(b) and (c), which are hereby adopted and incorporated
+by reference, except that a copy of the manifest or shipping paper shall also
+be sent to the Department by each delivering transporter upon delivery to
+any other transporter or to the designated facility within seven (7) days of
+delivery.
+
+C. Transporters who transport hazardous waste out of the United States
+shall comply with the applicable requirements of 40 CFR Part 263.20; and
+in addition, shall send a photocopy of manifest copy #5 to the Department
+within seven (7) days after the hazardous waste left the United States.
+
+D. A transporter shall deliver the entire quantity of hazardous waste which
+he has accepted from a generator or a prior transporter to:
+
+(l) The subsequent transporter;
+
+(2) The waste facility designated on the manifest;
+
+(3) The alternate designated facility, if an emergency prevents delivery to the
+primary designated facility; or
+
+(4) The place outside the United States designated by the generator.
+
+E. If the hazardous waste cannot be delivered in accordance with Section
+7(D) of this rule, the transporter shall contact the generator for further
+instructions and shall revise the manifest according to the generator's
+instructions, or shall return the waste to the generator.
+
+F. If hazardous waste in any amount is discharged during transportation,
+the transporter shall:
+
+(l) Take immediate appropriate action to protect public health and safety
+and the environment;
+
+(2) Immediately notify the Maine Department of Public Safety by calling 1-
+800-452-4664 or (207) 624-7000.
+
+NOTE: The Maine Department of Public Safety (State Police) will
+immediately notify the Department.
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+(3) Immediately notify, if required by 49 CFR 171.15, the National Response
+Center at 1-800-424-8802 or (202) 426-2675;
+
+(4) Immediately notify the local public safety agency;
+
+(5) Report in writing as required by 49 CFR 171.16 to the Director, Office of
+Hazardous Materials Regulation, Department of Transportation,
+Washington, DC 20590; and
+
+(6) If the transporter is a water (bulk shipment) transporter, give the same
+notice as required by 33 CFR 153.023 for oil and hazardous substances.
+
+Compliance with this subsection does not relieve a transporter of any
+obligations or liabilities for such discharges imposed by statute or other
+rules.
+
+NOTE: For further information and guidance, refer to Chapter 801 of the
+Department's rules, Discharge of Hazardous Matter; Removal and Written
+Reporting Procedures.
+
+9. Manifest Requirements for Owners or Operators of Hazardous
+Waste Facilities
+
+NOTE: Other requirements for owners and operators of waste facilities for
+hazardous waste appear in other rules of the Board dealing with specific
+aspects of hazardous waste management. See, for example, Chapters 852,
+Land Disposal Restrictions; 855, Interim Licenses for Waste Facilities for
+Hazardous Waste; and 854, Standards for Hazardous Waste Facilities.
+
+A. The owner or operator of a hazardous waste facility shall:
+
+(1) Not accept hazardous waste from a generator or transporter unless the
+waste is accompanied by its manifest, properly completed by the generator
+and all transporters;
+
+(2) Not accept any hazardous waste for which his facility is not licensed;
+
+(3) Upon acceptance of a shipment of hazardous waste:
+
+(a) complete the facility owner or operator portion of the manifest including
+his handwritten signature and date of acceptance, noting any discrepancy in
+manifest information and attempts made to reconcile the discrepancy. If a
+discrepancy in a manifest is discovered, he shall attempt to reconcile the
+discrepancy. If not resolved within 15 days, he shall submit a letter report
+including a copy of the manifest to the Department.
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+(b) send the Destination State completed copy (copy #1) of the manifest to
+the State in which his facility is located within seven (7) days of acceptance;
+
+(c) send the Generator State completed copy (copy #2) to the State in which
+the waste was generated within seven (7) days of acceptance;
+
+NOTE: If the waste was generated out-of-state an owner or operator can
+obtain the name and address of the appropriate out-of-state agency by
+calling the Department at 207/287-2651.
+
+(d) send the signed generator-completed copy (copy #3) of the manifest to
+the generator within seven (7) days of acceptance;
+
+(e) immediately give the transporter copy (copy #5) of the manifest to the
+transporter, and
+
+(f) retain the hazardous waste facility copy (copy #4) of the manifest signed
+by the generator, all transporters and himself for at least three (3) years
+from the date of his acceptance of the waste, except that if the waste facility
+for hazardous waste is the point of ultimate disposition of the waste, the
+owner or operator shall retain the copy of the manifest for the life of the
+facility or until he establishes to the satisfaction of the Commissioner that
+the waste is no longer hazardous;
+
+(i) when the waste facility is no longer in operation, the owner's or operator's
+copies of manifests shall be returned or disposed of as the Commissioner
+may direct.
+
+B. An owner or operator of a hazardous waste facility which accepts a bulk
+shipment of hazardous waste by rail or water shall comply with the
+requirements of 40 CFR Part 264.71(b), which are hereby adopted and
+incorporated by reference, and in addition shall send a copy of the manifest
+or shipping paper to the Department within seven (7) days of acceptance.
+
+C. If hazardous waste accepted by a facility is subsequently to be moved to
+another facility, for whatever reason, the owner or operator of the waste
+facility from which the waste is to be moved becomes the generator of the
+waste and is subject to the generator requirements of this rule and other
+related rules.
+
+10. Permission to Move Hazardous Waste in Exceptional
+Circumstances. In exceptional circumstances, where required to protect
+public health or safety or the environment, the Commissioner may give
+permission to a generator or transporter of hazardous waste or to an owner
+or operator of a waste facility for hazardous waste to deliver, transport or
+accept hazardous waste without a manifest. In all such cases, each
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+generator, transporter and owner or operator who deals with the waste shall
+file a written report with the Department giving such information as the
+Department may require.
+
+11. Retention of Records. The periods of retention of records established
+in this rule are extended automatically during the course of any unresolved
+enforcement action regarding the regulated activity or as requested by the
+Commissioner of the Department of Environmental Protection or by the
+Regional Administrator or Administrator of the United States
+Environmental Protection Agency.
+
+12. Department's Hazardous Waste Manifest and Uniform Bill of
+Lading for Hazardous Recyclable Material Copies: Where to
+Send. Generators, transporters and owners and operators of waste facilities
+for hazardous waste shall send copies of the manifest or Uniform Bill of
+Lading or other form approved for use by the Department as required by
+this rule to the Department at:
+
+Hazardous Waste Manifest
+
+Bureau of Remediation and Waste Management
+
+Department of Environmental Protection
+
+State House Station #l7
+
+Augusta, Maine 04333
+
+13. Log Requirements. In lieu of a manifest or Uniform Bill of Lading, an
+instate small universal waste generator or instate central accumulation
+facility operator may utilize a log system of tracking provided the following
+requirements are met:
+
+A. For a small universal waste generator:
+
+(1) the waste is sent to either an instate central accumulation facility or
+instate consolidation facility;
+
+(2) all the required universal waste information pursuant to Section 13(B)(4)
+below is recorded on the log sheet upon the generator's arrival at the facility;
+and
+
+(3) the instate consolidation facility submits the quarterly waste tracking
+information to the Department on a timely basis.
+
+B. For a central accumulation facility:
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+(1) the waste is sent to an instate consolidation facility;
+
+(2) in the case of transfer stations and recycling centers the operator ensures
+that all the universal waste information is recorded on the log sheet;
+
+(3) the log sheet accompanies the universal waste to the instate
+consolidation facility;
+
+(4) the log sheet contains at a minimum the following information:
+
+(a) name, address and phone number of generator or in the case of a
+household, the notation that it is from a household in lieu of a specific name,
+address and phone number;
+
+(b) date universal waste was delivered to facility; and
+
+(c) type and quantity of universal waste delivered; and
+
+(5) the consolidator submits the quarterly waste tracking information to the
+Department on a timely basis.
+
+C. For the instate consolidation facility:
+
+(1) the facility ensures that the log sheets are accurately completed;
+
+(2) on a quarterly basis, a waste tracking document will be submitted to the
+Department in a format specified by the Department.
+
+AUTHORITY: 38 M.R.S.A., Section 1301, et seq.
+
+EFFECTIVE DATE: November 24, 1980
+
+AMENDED March 23, 1983
+
+February 10, l985
+
+November 30, 1986
+
+March 16, 1994
+
+EFFECTIVE DATE
+
+(ELECTRONIC CONVERSION): May 4, 1996
+
+AMENDED: January 23, 2001
+
+MINOR CORRECTIONS: March 5, 2001
+      06 096 Me. Code R. Ch. 857 Hazardous Waste Manifest
+       Requirements (Code of Maine Rules (2021 Edition))
+
+
+July 23, 2008 - informational notes added to Sections 4 and 6
+

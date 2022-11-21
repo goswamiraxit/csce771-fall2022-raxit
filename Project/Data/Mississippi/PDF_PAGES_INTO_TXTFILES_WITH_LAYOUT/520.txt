@@ -1,0 +1,52 @@
+C. Alternative Action Plans (Category 5 alt, Category 4B, Category 4C)
+
+EPA’s current vision for the Clean Water Act 303(d) program provides a more updated and
+collaborative framework for implementation of the program. In particular, it encourages focusing
+attention on priority waters and acknowledges states have flexibility in using available tools
+beyond TMDLs to attain water quality restoration and protection. In the Integrated Reporting
+Guidance (IRG) issued in 2016, EPA acknowledged the most effective method for achieving
+water quality restoration or protection may be through controls developed and implemented in
+advance of a TMDL. The IRG specifically defined the sub-category 5-alt in which actions are
+taken in advance of a TMDL may be more effective than a TMDL in achieving the goal of
+attaining water quality necessary to support a designated use for impaired waters. If an
+alternative approach does not show progress in achieving water quality improvement the
+impaired segment will be reprioritized for TMDL development. The waters listed as 5-Alt in
+Table 5 below have been the focus of a collaborative effort between MDEQ and the Natural
+Resources Conservation Service (NRCS) as part of the National Water Quality Initiative that
+assess sources, loadings, and success measures necessary to achieve water quality standards.
+
+IRG also provides and explanation of Category 4C. A water may be placed in Category 4C if
+data indicate that at least one designated use is not being met, but the impairment is not caused
+by a pollutant, but by pollution. For example, aquatic life use is not supported due to hydrologic
+alteration or habitat alteration. Turkey Creek is being assigned to Category 4C due to hydrologic
+alteration that has resulted in a drastically reduced drainage area. More information is available
+in delisting package that can be found at the link listed above.
+
+
+
+Table 5. Alternative Action Plans (5-Alt, 4C)
+            Water     Water
+ Basin
+             Body     Body     County       Pollutant   Category                   Location
+            Name       ID
+Yazoo     Clear                                                    From Headwaters to confluence with
+River     Creek      904611    Lafayette   Sediment      5-Alt     Hudson Creek
+Yazoo     Hudson                                                   Near Sardis from Headwaters to mouth at
+River     Creek      904612    Lafayette   Sediment      5-Alt     Clear Creek
+
+Yazoo     Medlock                                                  From Headwaters to Mouth at North Tippah
+River     Branch     902514    Tippah      Sediment      5-Alt     Creek
+          North                                                    From Headwaters to confluence with
+Yazoo     Tippah     902512,                                       Medlock Branch, From Medlock Branch to
+River     Creek      902515    Tippah      Sediment      5-Alt     mouth at Tippah River
+          South
+Yazoo     Tippah
+River     Creek      902513    Tippah      Sediment      5-Alt     From headwaters to mouth at Tippah River
+Coastal   Turkey                           Biological              From confluence with Canal Number 2 to
+Streams   Creek      202211    Harrison    Impairment     4C       HWY 49 bridge
+
+The 2008 IRG provided additional guidance on assigning waters to Category 4B. This guidance
+recognized that alternative pollution control measures may obviate the need for a TMDL.
+Specifically, segments are not required to be included on the 303(d) List if “other pollution
+                                                 15
+

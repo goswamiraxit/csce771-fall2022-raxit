@@ -1,0 +1,215 @@
+Basin
+
+Water Body
+Name
+
+Tombigbee
+River
+
+Browning Creek
+
+Tombigbee
+River
+
+Buttahatchee
+River
+
+Tombigbee
+River
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Oktibbeha,
+Noxubee
+
+Aquatic Life
+Use Support
+
+806711
+
+Cane Creek
+
+Tombigbee
+River
+
+Pollutant
+
+Location
+
+Biological
+Impairment
+
+From headwaters to mouth at Noxubee River
+
+Monroe
+
+Aquatic Life
+Use Support
+
+pH
+
+Near Greenwood Springs from confluence with
+Sipsey Creek to MWS 8068 boundary near
+confluence with Alsup Creek
+
+807411
+
+Chickasaw,
+Clay
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Houlka Creek
+
+Casey Creek
+
+800812
+
+Prentiss
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Donivan Creek
+
+Tombigbee
+River
+
+Chico Creek
+
+820912
+
+Chickasaw
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Houston from headwaters to mouth at Houlka
+Creek
+
+Tombigbee
+River
+
+Chinchahoma
+Creek
+
+812811
+
+Oktibbeha
+
+Aquatic Life
+Use Support
+
+Sediment
+
+From headwaters to mouth at Noxubee River
+
+Tombigbee
+River
+
+Coonewah Creek
+
+805311
+
+Lee
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Little Coonewah Creek to
+mouth at Town Creek
+
+Tombigbee
+River
+
+Dry Creek
+
+804214
+
+Clay, Monroe
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Town Creek
+
+Tombigbee
+River
+
+Fuller Creek
+
+804112
+
+Monroe, Clay
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near West Point from headwaters to mouth at Town
+Creek
+
+Tombigbee
+River
+
+Goodfood Creek
+
+807012
+
+Chickasaw,
+Pontotoc
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Chuquatonchee Creek
+
+Tombigbee
+River
+
+Greens Creek
+
+810312
+
+Lowndes
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth of Tombigbee River
+
+812913
+
+39
+
+

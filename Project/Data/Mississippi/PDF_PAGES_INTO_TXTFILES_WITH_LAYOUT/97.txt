@@ -1,0 +1,56 @@
+12.   Spatial flow will be included at equal increments over the length of a given stream
+segment.
+
+B.     7Q2 Flow Values
+
+The 7Q2 flow in unregulated, natural streams will be used in conjunction with the other
+assumptions contained herein for establishing permit limitations for storm water permits. The
+7Q2 flow will be determined from Low-Flow and Flow-Duration Characteristics of Mississippi
+Streams, U.S.G.S., Report 90-4087 or the most recent update of this publication. In cases in
+which either (1) the data is indefinite or inconclusive, or (2) the 7-day, 2-year minimum flow
+and/or the 7-day, 10-year minimum flow are inappropriate because of the hydrology of the area,
+other appropriate State and federal agencies will be consulted in establishing the applicable
+stream flow.
+
+C.     Temperature
+
+The criteria for temperature selection are as follows:
+
+1.      For streams for which sufficient temperature data is available, the design temperature will
+be the average daily maximum temperature for the months of July and August.
+
+2.     For streams with insufficient or no temperature data, the following will be assumed:
+
+          Stream Size                 Annual          Summer (May-Oct)      Winter (Nov-April)
+ Streams with minimum low
+                                       30°C                    30°C                 20°C
+ flows > 300 cfs
+ Streams with minimum low
+                                       28°C                    28°C                 20°C
+ flows > 50 cfs and < 300 cfs
+ Streams with minimum low
+                                       26°C                    26°C                 20°C
+ flows < 50 cfs
+
+D.     Velocity
+
+Time-of-travel measurements will be used when available. Average reach velocity can be
+determined by completion of a dye tracer study. A minimum velocity of 0.1 fps will be used.
+
+Estimation Procedures:
+                                                            S 0.1
+                                      V = 0.127 * QAct
+                                                   0.69
+                                                        *    0.24
+                                                            QAvg
+
+where:                          V = (0.144 * Q   0.4
+                                                 Act   * S 0.2 ) − 0.19
+V      = velocity in fps
+QAct = 7Q10 + discharge flow in cfs
+S      = stream slope in ft./mile
+QAvg = the average stream flow in cfs
+
+
+                                                 97
+

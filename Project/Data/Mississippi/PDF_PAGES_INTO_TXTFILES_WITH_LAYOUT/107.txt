@@ -1,0 +1,48 @@
+                    EXHIBIT C to Chapter 1, Subchapters 1 and 2
+                     VALUES OF RUNOFF COEFFICIENT C
+
+TYPE OF DRAINAGE AREA RUNOFF COEFFICIENT, C
+
+LAWNS:
+SANDY SOIL, FLAT 2%                                0.05-0.10
+SANDY SOIL, AVERAGE, 2-7%                          0.10-0.15
+SANDY SOIL, STEEP, 7%                              0.15-0.20
+HEAVY SOIL, FLAT, 2%                               0.13-0.17
+HEAVY SOIL, AVERAGE, 2-7%                          0.18-0.22
+HEAVY SOIL, STEEP, 7%                              0.25-0.35
+
+BUSINESS:
+DOWNTOWN AREAS                                     0.70-0.95
+NEIGHBORHOOD AREAS                                 0.50-0.70
+
+RESIDENTIAL:
+SINGLE FAMILY AREAS                                0.30-0.50
+MULTI UNITS, DETACHED                              0.40-0.60
+MULTI UNITS, ATTACHED                              0.60-0.75
+SUBURBAN                                           0.25-0.40
+APARTMENT DWELLING AREAS                           0.50-0.70
+
+INDUSTRIAL:
+LIGHT AREAS                                        0.50-0.80
+HEAVY AREAS                                        0.60-0.90
+
+PARKS, CEMETERIES                                  0.10-0.25
+PLAYGROUNDS                                        0.20-0.35
+RAILROAD YARD AREAS                                0.20-0.40
+UNIMPROVED AREAS                                   0.10-0.30
+
+STREETS:
+ASPHALTIC                                          0.70-0.95
+CONCRETE                                           0.80-0.95
+BRICK                                              0.70-0.85
+DRIVES AND WALKS                                   0.75-0.85
+ROOFS                                              0.75-0.95
+
+SOURCE: CHOW, V.T. 1964 Handbook of Applied Hydrology, McGraw Hill, Inc., New York,
+N.Y.
+
+
+
+
+                                       107
+

@@ -1,0 +1,40 @@
+               Water Body      Water                   Impaired
+     Basin                                 County                         Pollutant                        Location
+                 Name         Body Id                    Use
+
+Pascagoula                                            Aquatic Life
+River        Beaver Lake      418913    Lamar         Use Support     pH              Near Purvis
+
+Pascagoula                                            Aquatic Life    Biological
+River        Big Creek        409911    Jones         Use Support     Impairment      From MWS 4098 boundary to mouth at Leaf River
+                                        Jefferson
+                                        Davis,
+Pascagoula                              Marion,       Aquatic Life    Biological
+River        Black Creek      418412    Lamar         Use Support     Impairment      From headwaters to confluence with Monroe Creek
+
+Pascagoula                              Newton,       Aquatic Life    Biological
+River        Cedar Creek      408611    Jasper        Use Support     Impairment      From headwaters to mouth at Quarterliah Creek
+
+Pascagoula                                            Aquatic Life    Biological
+River        Chunky Creek     401511    Newton        Use Support     Impairment      From headwaters near Union to MWS boundary 4018
+
+Pascagoula                              Lauderdale,   Aquatic Life    Biological      From confluence with Possum Creek to mouth at
+River        Chunky River     402611    Clarke        Use Support     Impairment      Chickasawhay River
+
+Pascagoula                              Newton,       Aquatic Life    Biological      From confluence with Chunky Creek and Potterchitto
+River        Chunky River     402312    Lauderdale    Use Support     Impairment      Creek to the MWS 4026 boundary
+
+Pascagoula                                            Aquatic Life    Biological
+River        Clear Creek      409013    Smith         Use Support     Impairment      From headwaters to mouth at Oakohay Creek
+
+Pascagoula                                            Aquatic Life    Biological
+River        Crawford Creek   406612    Wayne         Use Support     Impairment      From headwaters to mouth at Big Creek
+
+Pascagoula                                            Aquatic Life    Biological      Near Terrell from headwaters to mouth at Bowie
+River        Dry Creek        411111    Covington     Use Support     Impairment      Creek
+
+Pascagoula                                            Aquatic Life    Biological
+River        Dry Creek        406613    Wayne         Use Support     Impairment      From headwaters to mouth at Big Creek
+
+                                                                     28
+

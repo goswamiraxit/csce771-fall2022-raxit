@@ -1,0 +1,2638 @@
+                   Results of Round I
+                   of the WHO International
+                   Scheme to Evaluate Household
+                   Water Treatment Technologies
+
+
+
+
+                                                                  chlo                                        chlo
+                                                                  rine                                        rine
+
+
+
+
+                                                       chlo                                          chlo
+                                                       rine                                          rine
+
+
+
+
+                                    Pictogram 01 / Chemical disinfection
+
+
+
+                                                                         Pictogram 06 / UV disinfection
+Pictogram 04 / Ceramic filtration
+
+
+
+
+                                        tnaluccolf                                             tnaluccolf
+                                        tnatcefnisid                                           tnatcefnisid
+Results of Round I
+of the WHO International
+Scheme to Evaluate Household
+Water Treatment Technologies
+WHO Library Cataloguing-in-Publication Data
+Results of Round I of the WHO International Scheme to Evaluate Household Water Treatment Technologies.
+1.Drinking Water. 2.Water Purification - instrumentation. 3.Water Quality. 4.Water Supply. I.World Health Organization.
+ISBN 978 92 4 150994 7                            (NLM classification: WA 675)
+
+
+© World Health Organization 2016
+All rights reserved. Publications of the World Health Organization are available on the WHO website (www.who.int) or can be purchased from WHO
+Press, World Health Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland (tel.: +41 22 791 3264; fax: +41 22 791 4857; email: bookorders@who.int).
+Requests for permission to reproduce or translate WHO publications – whether for sale or for non-commercial distribution – should be addressed to
+WHO Press through the WHO website (www.who.int/about/licensing/copyright_form/en/index.html).
+The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part
+of the World Health Organization concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of
+its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines for which there may not yet be full agreement.
+Reference to any company or product in this report, particularly those listed in any of the figures and tables, does not constitute an endorsement,
+certification or warranty of fitness by WHO of such company or product for any purpose, and does not imply any preference over companies or
+products of a similar nature that are not mentioned.
+WHO does not furthermore warrant that: any products included in the figures and tables are of acceptable quality, have obtained regulatory approval
+in any country, or that their use is otherwise in accordance with the national laws and regulations of any country, including but not limited to patent
+laws. Inclusion of any products in this report, particularly in any of the figures and tables, does not furthermore imply any approval by WHO of these
+products (which is the sole prerogative of national authorities).
+The results in this report reflect whether the products which were evaluated in Round I of the WHO International Scheme to Evaluate Household
+Water Treatment Technologies (“the Scheme”) were found to meet any of the WHO recommended performance levels for such products, and if so
+what performance level they were found to meet at the time of testing. WHO cannot represent that the products which were found to meet a stated
+performance level will continue to do so.
+The figures and tables included in this report do not provide an exhaustive overview of available HWT products. They reflect those products which have
+been submitted to WHO for evaluation in Round I of the Scheme, were found to meet the eligibility criteria for such evaluation, and were subsequently
+evaluated. The fact that certain products are not mentioned in this report and are not included in the figures and tables does not mean that if eligible
+for evaluation, and if evaluated, they would not be found to meet any of the WHO recommended performance levels.
+WHO disclaims any and all liability and responsibility whatsoever for any injury, death, loss, damage, or other prejudice of any kind that may arise as
+a result of or in connection with the procurement, distribution and use of any product included in this report.
+This report, and the testing results, findings and other information contained herein, may not be used by manufacturers, suppliers or any other parties
+for commercial or promotional purposes.
+
+
+Design and layout by L’IV Com Sàrl, Villars-sous-Yens, Switzerland.
+Printed in France.
+Contents
+Abbreviations and acronyms. .                  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   3
+
+
+Acknowledgements. .              . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   4
+
+
+Executive summary.             . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   6
+
+
+Background.        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     10
+
+
+1. Round I of the Scheme. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .              . . . . . . . . . . . . . . . . . . . . . .   13
+   1.1 An overview of the Scheme. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                . . . . . . . . . . . . . . . . . . . . . .   13
+       1.1.1 HWT performance targets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                . . . . . . . . . . . . . . . . . . . . . .   14
+       1.1.2 The Scheme evaluation procedure. . . . . . . . . . . . . . . . . . . . . . . . . . .                    . . . . . . . . . . . . . . . . . . . . . .   15
+       1.1.3 Quality assurance. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          . . . . . . . . . . . . . . . . . . . . . .   16
+       1.1.4 Overview of the product testing. . . . . . . . . . . . . . . . . . . . . . . . . . . .                  . . . . . . . . . . . . . . . . . . . . . .   17
+   1.2 HWT products evaluated in Round I. . . . . . . . . . . . . . . . . . . . . . . . . . . .                      . . . . . . . . . . . . . . . . . . . . . .   19
+   1.3 Results.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     . . . . . . . . . . . . . . . . . . . . . .   35
+       1.3.1 Microbiological performance of HWT products. . . . . . . . . . . . . . . . .                            . . . . . . . . . . . . . . . . . . . . . .   35
+       1.3.2 Findings from the reviews of product information and existing data. .                                   . . . . . . . . . . . . . . . . . . . . . .   37
+       1.3.3 Interpretation of evaluation results. . . . . . . . . . . . . . . . . . . . . . . . . .                 . . . . . . . . . . . . . . . . . . . . . .   38
+       1.3.4 Use of results in selecting HWT products. . . . . . . . . . . . . . . . . . . . .                       . . . . . . . . . . . . . . . . . . . . . .   38
+   1.4 Global distribution of products evaluated. . . . . . . . . . . . . . . . . . . . . . . .                      . . . . . . . . . . . . . . . . . . . . . .   39
+
+
+2. Implications: supporting availability and scaling up of quality HWT and safe storage. .                                               . . . . . . . . . . . .   41
+   2.1 Rapid market assessment.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 . . . . . . . . . . . .   41
+      2.1.1 Sub-Saharan Africa: Estimated use and regulation of HWT.. . . . . . . . . . . . . . . . . .                                  . . . . . . . . . . . .   42
+      2.1.2 Asia: Estimated use and regulation of HWT. . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           . . . . . . . . . . . .   43
+   2.2 Scaling up use of quality assured HWT products. . . . . . . . . . . . . . . . . . . . . . . . . . . .                             . . . . . . . . . . . .   43
+      2.2.1 Strengthening regulations.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                . . . . . . . . . . . .   44
+      2.2.2 Increasing availability of quality HWT products. . . . . . . . . . . . . . . . . . . . . . . . . .                           . . . . . . . . . . . .   44
+      2.2.3 Supporting the broader enabling environment. . . . . . . . . . . . . . . . . . . . . . . . . . .                             . . . . . . . . . . . .   45
+
+
+3. Conclusion and lessons learned.                   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   47
+
+
+References. .      . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   48
+
+
+Annexes. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     . . . . . .   50
+Annex 1: The Scheme evaluation procedure.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                         . . . . . .   50
+Annex 2: Overview of reported use of HWT in selected countries in Sub-Saharan Africa and Asia. .                                                     . . . . . .   54
+Annex 3: Overview of the regulatory environment for HWT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                                   . . . . . .   55
+
+
+
+
+                                                                                                                                                                          1
+    List of figures
+    Figure 1. Estimated reductions in diarrhoeal disease from household water treatment. .                                          . . . . . . . . . . . . . . .     10
+    Figure 2. The Scheme components. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  . . . . . . . . . . . . . . .     13
+    Figure 3. Overview of the Scheme evaluation procedure. . . . . . . . . . . . . . . . . . . . . . . .                            . . . . . . . . . . . . . . .     16
+    Figure 4. Performance classification of HWT technologies evaluated in Round I. . . . . .                                        . . . . . . . . . . . . . . .     35
+    Figure 5. Log10 reduction of bacteria, viruses and protozoa met or exceeded
+    by products evaluated in Round I. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               . . . . . . . . . . . . . . .     36
+    Figure 6. Global reach of the HWT products evaluated in Round I. . . . . . . . . . . . . . . . .                                . . . . . . . . . . . . . . .     39
+    Figure 7. Percentage of the population reporting HWT, by WHO region. . . . . . . . . . . . .                                    . . . . . . . . . . . . . . .     41
+    Figure A.1 Overview of the Scheme testing protocols. . . . . . . . . . . . . . . . . . . . . . . . . . .                        . . . . . . . . . . . . . . .     52
+
+
+    List of tables
+    Table 1. Performance classification of products found to meet WHO performance criteria
+    in Round I. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   . . . . . . . . . . . . .   7
+    Table 2. WHO recommended microbiological performance criteria for HWT technology
+    performance classification. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .             . . . . . . . . . . . .   14
+    Table 3. Products evaluated in Round I of the Scheme. . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           . . . . . . . . . . . .   19
+    Table A.1 Test organisms of the Scheme. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                     . . . . . . . . . . . .   52
+    Table A.2 Characteristics of general and challenge test waters. . . . . . . . . . . . . . . . . . . . . .                               . . . . . . . . . . . .   53
+    Table A.3 Use of HWT in selected countries – Sub-Saharan Africa.. . . . . . . . . . . . . . . . . . .                                   . . . . . . . . . . . .   54
+    Table A.4 Use of HWT in selected Asian countries. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                           . . . . . . . . . . . .   54
+    Table A.5 Overview of the regulatory environment for HWT in selected countries
+    in Sub-Saharan Africa. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          . . . . . . . . . . . .   55
+    Table A.6 Overview of the regulatory environment for HWT in selected countries in Asia. .                                               . . . . . . . . . . . .   56
+
+
+    List of boxes
+    Box 1. Boiling remains the most commonly reported method of household water treatment. . . . . .                                                  . . . . . . . .  9
+    Box 2. Importance of safe storage. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                . . . . . . .    11
+    Box 3. Quantitative microbial risk assessment. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                      . . . . . . .   14
+    Box 4. Log10 reduction. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         . . . . . . .   14
+    Box 5. Technologies providing ‘targeted protection’ and the multi-barrier approach.. . . . . . . . . . .                                          . . . . . . .   15
+    Box 6. Reliability of testing between the designated laboratories. . . . . . . . . . . . . . . . . . . . . . . . . .                              . . . . . . .   17
+    Box 7. Household water treatment in emergencies. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                            . . . . . . .   38
+    Box 8. Selecting HWT products. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                  . . . . . . .   39
+    Box 9. Strengthening regulation in Ethiopia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                    . . . . . . .   42
+    Box 10. Supporting implementation of a national HWT Strategy in Ghana. . . . . . . . . . . . . . . . . . .                                        . . . . . . .   42
+    Box 11 . Rising filter markets and public-private partnerships in Viet Nam. . . . . . . . . . . . . . . . . . .                                   . . . . . . .   43
+    Box 12. Consumer demand for HWT regulation in India. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                              . . . . . . .   43
+    Box 13. WHO/UNICEF International Network on Household Water Treatment and Safe Storage:
+    working to increase health gains from HWTS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                         . . . . . . .   44
+    Box 14. Strengthening testing of local products in Ethiopia. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                            . . . . . . .   44
+    Box 15. Strengthening manufacture of quality local products. . . . . . . . . . . . . . . . . . . . . . . . . . . . .                              . . . . . . .   45
+    Box 16. Smart subsidies in HWT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 . . . . . . .   45
+    Box 17. Supporting countries in creating enabling environments for HWT and safe storage.                                                . . . . . . . . . . . .   46
+
+
+
+
+2   WHO International Scheme to Evaluate Household Water Treatment Technologies
+Abbreviations and acronyms
+
+
+ATCC     American Type Culture Collection
+BSF      biosand filter
+EOI      expression of interest
+GDWQ     Guidelines for Drinking-water Quality
+HWT      household water treatment
+IAC      independent advisory committee
+ISO      International Organization for Standardization
+KWR      KWR Watercycle Institute
+L        litre
+NSF      NSF International
+PET      polyethylene terephthalate
+QMRA     quantitative microbial risk assessment
+Scheme   WHO International Scheme To Evaluate Household Water Treatment Technologies
+UN       United Nations
+UNICEF   United Nations Children’s Fund
+UV       ultraviolet
+WASH     water, sanitation and hygiene
+WHO      World Health Organization
+WSP      water safety plan
+
+
+
+
+                                                                                       3
+    Acknowledgements
+
+
+
+    T
+            he results reported in this document would not have been possible without the participation of manufacturers
+            who submitted products for evaluation, as well as the collaboration of the designated testing laboratories;
+            KWR Watercycle Research Institute (the Netherlands) and NSF International (United States of America).
+
+    Technical advice on the product evaluation, testing protocols and results received from the following members
+    of the Scheme’s Independent Advisory Committee (IAC) is gratefully acknowledged:
+
+         Professor Nicholas Ashbolt, University of Alberta, Canada
+         Professor Joe Brown, Georgia Institute of Technology, USA
+         Professor Charles Gerba, University of Arizona, USA
+         Professor Tamar Kohn, Ecole Polytechnique Fédérale de Lausanne, Switzerland
+         Dr Pawan Labhasetwar, National Environmental Engineering Research Institute, India
+
+    All members of the IAC have completed the WHO Declaration of Interest form and declare: Professor Gerba has
+    been paid to conduct testing on two of the products included in this report prior to the establishment of the Scheme.
+    Since taking up his responsibilities as a member of the IAC, Professor Gerba has ceased to provide services to the
+    manufacturers in question, and did not formally comment on the results of their two products ensuing from the
+    Scheme evaluations.
+
+    The report was prepared by Dr Batsirai Majuru, Ms Nicole Beetsch and Dr Margaret Montgomery at WHO.
+    Strategic direction was provided by Mr Bruce Gordon (Coordinator: Water, Sanitation, Hygiene and Health Unit).
+    The market assessment was conducted by Ms Roshini George, Sera Global Health Practice. Dr Lorna Fewtrell edited
+    the report and Miss Lesley Robinson provided secretarial and administrative support throughout the evaluation
+    and report development process. An international group of over 20 practitioners contributed to discussions on
+    the interpretation and application of the Scheme results, through participation at a strategic meeting, peer review
+    and provision of insights. These include:
+
+         Dr Andrew Bastable, Oxfam, UK
+         Ms Fanny Boulloud, Antenna Technologies, Switzerland
+         Mr Kelvin Chitumbo, National Water Supply and Sanitation Council, Zambia
+         Mr Chris Cormency, UNICEF Supply Division, Denmark
+         Mr Sjef Ernes, Aqua for All, Netherlands
+         Dr Bettina Genthe, Council for Scientific and Industrial Research, South Africa
+         Ms Fiona Gyamfi, Ghana Standards Authority, Ghana
+         Ms Le Thai Ha, National Institute for Environmental and Occupational Health, Viet Nam
+         Ms Ha Thanh Hang, Ministry of Agriculture and Rural Development, Viet Nam
+         Mr Jan Heeger, Netherlands Red Cross, Netherlands
+         Mr Henk Holtslag, Connect International, Netherlands
+         Professor Paul Hunter, University of East Anglia, UK
+         Dr John Kariuki, Mount Kenya University (formerly Ministry of Health), Kenya
+
+
+
+
+4   WHO International Scheme to Evaluate Household Water Treatment Technologies
+   Mr Waltaji Kutane, WHO Country Office, Ethiopia
+   Mrs Akosua Kwakye, WHO Country Office, Ghana
+   Dr Daniele Lantagne, Tufts University, USA
+   Professor Maggy Momba, Tshwane University of Technology, South Africa
+   Ms Hien Thanh Nguyen, UNICEF, Viet Nam
+   Ms Payden, WHO South-East Asia Regional Office, India
+   Professor Natasha Potgieter, University of Venda, South Africa
+   Mr Kweku Quansah, Ministry of Local Government & Rural Development, Ghana
+   Mr Oliver Schmoll, WHO European Regional Office, Germany
+   Mr Ton Schouten, IRC International Water and Sanitation Centre, Netherlands
+   Ms Jo Smet, IRC International Water and Sanitation Centre, Netherlands
+   Professor Mark Sobsey, University of North Carolina at Chapel Hill, USA
+   Ms Jeske Verhoeven, IRC International Water and Sanitation Centre, Netherlands
+
+WHO gratefully acknowledges the financial support provided by the Ministry of Foreign Affairs of the Kingdom
+of the Netherlands towards the coordination of the WHO International Scheme to Evaluate Household Water
+Treatment Technologies and supporting relevant capacity building activities.
+
+
+
+
+                                                                                                               5
+    Executive summary
+
+    G
+         lobally, an estimated 1.9 billion people use either an unimproved water source or an improved source1 that
+         is faecally-contaminated. Furthermore, 502,000 diarrhoeal deaths in low- and middle-income countries
+         can be attributed to insufficient and unsafe drinking-water (WHO, 2014a). The vast majority of these
+    deaths occur in Africa and South-East Asia, mainly among vulnerable populations, including young children, the
+    malnourished and people living with the human immunodeficiency virus.
+
+    The 2030 Sustainable Development Agenda agreed by United Nations (UN) Member States in 2015 calls for
+    universal access to safe drinking water, and the proposed indicator of ‘safely managed drinking-water services’
+    will require direct measurement of drinking-water quality (WHO/UNICEF, 2015a). Improved protection
+    and management of drinking-water supplies, including at the household level, will therefore gain increasing
+    importance for achieving the new Sustainable Development Goal targets. Long-term, this can be achieved
+    through increased use of risk management approaches like Water Safety Planning, but in the short and medium
+    term household water treatment (HWT) and safe storage can play an important role.
+
+
+
+
+    1 Unimproved sources of drinking-water include surface water, unprotected springs and unprotected dug wells. Full definitions of improved and unimproved sources can
+      be found at: http://www.wssinfo.org/definitions-methods/watsan-categories/
+
+
+
+
+6   WHO International Scheme to Evaluate Household Water Treatment Technologies
+                          TABLE 1
+                          Performance classification of products found to meet WHO performance criteria in Round I
+
+                           Technology                         Product                           Manufacturer                        Performance   Performance classification
+                                                                                                                                    target met    (assuming correct and consistent use)
+                           Membrane ultrafiltration LifeStraw Family 1.0                        LifeStraw SA                                      Comprehensive protection:
+                                                                                                                                                  very high removal of bacteria, viruses
+                           Membrane ultrafiltration LifeStraw Community                         LifeStraw SA                                      and protozoa
+                           Membrane ultrafiltration LifeStraw Family 2.0                        LifeStraw SA                                      Comprehensive protection:
+                                                                                                                                                  high removal of bacteria, viruses and
+                           Flocculation-disinfection P&G Purifier of Water                      The Procter & Gamble                              protozoa
+                                                                                                Company
+                           UV disinfection                    Waterlogic Hybrid /               Qingdao Waterlogic
+                                                              Edge Purifier                     Manufacturing Company
+                           Chemical disinfection              Aquatabs                          Medentech Limited                                 Targeted protection:
+                                                                                                                                                  high removal of bacteria and viruses;
+                           Chemical disinfection              H2gO Purifier                     Aqua Research LLC                                 no/limited removal of protozoa
+                           Solar disinfection                 WADI                              Helioz GmbH                                       Targeted protection:
+                                                                                                                                                  high removal of bacteria and protozoa;
+                                                                                                                                                  some removal of viruses
+                          : removes at least 4 log10 of bacteria, at least 5 log10 of viruses and at least 4 log10 of protozoa
+                          : removes at least 2 log10 of bacteria, at least 3 log10 of viruses and at least 2 log10 of protozoa
+                          : meets the performance targets for at least 2-star () for only two classes of pathogens
+
+
+
+
+                          HWT and safe storage is an important public health intervention to improve the quality of drinking-water and
+                          prevent waterborne disease. However, achieving health gains associated with HWT relies on two important
+                          factors. HWT technologies need to sufficiently reduce pathogens to protect health and also to be used correctly
+                          and consistently by those who are exposed to contaminated water. The first of these conditions – microbiological
+                          performance – is critical, and is the primary focus of this report.
+
+                          The International Scheme to Evaluate Household Water Treatment Technologies (the Scheme) was established by
+                          the World Health Organization (WHO) in 2014 to evaluate the microbiological performance of HWT technologies
+                          against WHO health-based criteria. The results of the Scheme evaluation are intended to guide HWT product
+                          selection by Member States and procuring UN agencies. In this regard, the Scheme fills an important global
+                          and national need for independent health-based evaluation of HWT, especially considering the large number of
+                          product manufacturers and product claims, and the limited capacity of low-income countries to conduct testing
+                          to verify these claims.
+
+                          This Round I Report of the Scheme is the first ever global assessment of HWT performance, and details the
+                          results from a range of HWT technologies including solar, chemical, filtration and ultraviolet (UV). In addition,
+                          the report draws on the findings from a rapid assessment of the HWT product market and enabling environment
+                          in Africa and South-East Asia. The report:
+
+                          • highlights that performance is a fundamental criterion in HWT product selection, and a number of products
+                            are available that were found to meet WHO recommended performance targets;
+
+                          • draws attention to the fact that, despite the significant need for effective HWT solutions among vulnerable
+                            populations, product evaluation and regulation is generally weak; and
+
+                          • recommends specific actions at the national level needed to ensure that health gains from HWT are realized;
+                            these include strengthening product regulation and enabling environments for HWT, understanding market
+                            development and user needs and motivations for sustained use.
+
+
+
+
+                                                                                                                                                                                                  7
+
+
+
+
+v.9_Final_15255_Water, Sanitation, Hygiene and Health Report.indd 7                                                                                                                        07/02/2016 13:18
+    The report is divided into two main sections. Section 1 summarizes the results of Round I of the Scheme
+    evaluations, performed in 2014/2015, with data on the performance of ten HWT products. The performance
+    of HWT products is classified as 3-star (); 2-star (); and 1-star (), denoting descending order of
+    performance, based on log10 reductions of bacteria, viruses and protozoa from drinking-water. Performance that
+    does not meet the minimum target is given no stars. The results of the performance testing and review of existing
+    data and product information highlight that:
+
+    • A variety of HWT products are available that were found to meet WHO recommended performance targets.
+      Of the ten products evaluated, five were found to provide comprehensive protection against all three classes
+      of pathogens (3-star or 2-star), while three were found to provide targeted protection against two of the three
+      classes of pathogens (1-star). The eight products found to meet WHO recommended performance targets
+      are listed in Table 1.
+
+    • Some products fail to meet the Scheme’s minimum standard of health protection.
+      Two of the products evaluated do not meet the Scheme’s minimum microbiological performance criteria.
+      Identifying such products is crucial to inform appropriate HWT product selection and procurement and to
+      promote use of better performing alternatives. Information on these products is provided in Section 1.3.1 of
+      this report.
+
+    • Awareness of the key considerations in HWT performance evaluation is limited.
+      Three main findings arising from the review of existing testing data and discussions with HWT stakeholders
+      are that:
+      –– Performance is often overlooked in selecting products. Both products that did not meet the performance
+         criteria were being distributed or sold on the market at the time of testing. While WHO recognizes that
+         microbiological performance is only one of many factors to consider, this performance is a prerequisite
+         for health gains.
+      –– Testing conducted outside the Scheme is undertaken with varying methods and often under “ideal”
+         conditions such as using non-turbid water, high doses and long contact times, and only against a limited
+         set of parameters. This results in data which only reflect “part of” HWT performance, rather than
+         comprehensive data under all conditions, thus rendering interpretation of tests difficult and comparability
+         between tests even more so.
+      –– Product information, including use instructions and labelling can be unclear, and deciphering information
+         that is pertinent to product performance is difficult. Without sufficient product information, the ability of
+         users to correctly and consistently use HWT and ultimately achieve health gains is compromised.
+
+    Section 2 outlines the main findings from the rapid market assessment of HWT in Africa and Asia, and discusses
+    key scaling up efforts required to better monitor, target and understand the use of quality HWT. While the limited
+    scope of the assessment precludes making definitive statements about the HWT market in these regions, the
+    available data from selected countries provide some useful insights on the HWT environment. The findings
+    highlight that:
+
+    • There is a strong growth in filter markets in parts of Asia.
+      While boiling remains the most commonly reported method of HWT (Box 1), filtration is increasingly common
+      in Asia. Findings from India, Viet Nam, China and South Korea highlight that the growth in the filter markets
+      is likely attributed to growing consumer awareness of a number of factors, including the quality of supplied
+      water, the potential health gains from using HWT, the wide availability of HWT products and also the ability
+      of middle-income households to pay.
+
+
+
+
+8   WHO International Scheme to Evaluate Household Water Treatment Technologies
+   BOX 1
+   Boiling remains the most commonly reported method of household water treatment
+
+   Boiling is reported by approximately one fifth of households in low- and middle-income countries. It is very effective in inactivating
+   waterborne pathogens, including bacteria, viruses and protozoa. However, an important limitation is that the treated water may be
+   susceptible to recontamination due to unsafe storage and handling after boiling (WHO, 2015a). In addition, use of certain fuels and
+   stoves has adverse environmental consequences, including contributing to climate change. As with other household water treatment
+   methods, actual use of boiling may be lower than self-reported use, and consequently its health impact may be limited in practice
+   (Brown and Sobsey, 2012; Rosa et al., 2014).
+
+
+
+
+• Behavioural interventions and understanding of consumer preferences are necessary to realize sustained
+  use of HWT.
+  The vast majority of those without improved water sources live in sub-Saharan Africa, and an estimated
+  53% of the population in the region are exposed to water that is faecally-contaminated (WHO, 2014a). Yet,
+  reported HWT use in the region remains relatively low (20 %, on average). Implementation of HWT is largely
+  project-based and is often focused on emergency relief efforts or cholera outbreaks, highlighting the need for
+  approaches that promote more sustained, ongoing use and develop the mechanisms and systems to ensure
+  availability, user support and effective supply chains.
+
+• Regulation of HWT is weak and fragmented.
+  Findings from Ethiopia, Ghana and Viet Nam highlight that regulatory frameworks for HWT products are
+  weak, and often fragmented. Overall, few countries regulate HWT products based on their microbiological
+  performance, and among those that do, such regulation is often limited to chemical disinfectants and
+  performance testing, at best, only includes faecal indicator bacteria, rather than all three classes of pathogens.
+
+The section concludes with three main priorities to support scaling up of quality assured HWT products. These
+priorities are:
+
+• Strengthening the regulatory capacity of national governments, through increasing awareness of the WHO
+  HWT performance criteria, and strengthening the capacity of national regulatory institutions to conduct
+  complimentary evaluations of HWT and evaluate product efficacy data and certifications.
+
+• Strengthening local manufacturing of quality HWT products, by supporting implementation of best
+  manufacturing practices tools. This includes developing a better understanding of the key variants affecting
+  performance of locally manufactured HWT products, and strengthening quality assurance and quality control
+  at local manufacturing plants through implementation of best manufacturing practices tools.
+
+• Strengthening implementation of HWT to ensure that effective HWT products reach, and are used correctly
+  and consistently by, those most at risk of waterborne disease. This requires effective targeting of market
+  development, understanding of consumer preferences, behavioural interventions and monitoring and evaluating
+  ongoing use and smarter HWT implementation for better health impact.
+
+
+
+
+                                                                                                                                            9
+     Background
+
+     A
+           n estimated 842,000 deaths each year are attributable to inadequate water, sanitation and hygiene;
+           representing 58% of the total diarrhoeal deaths in low- and middle-income countries. Furthermore, unsafe
+           and insufficient drinking-water account for an estimated 502,000 diarrhoea deaths in low and middle-
+     income countries (WHO, 2014a). Many of these deaths could be prevented by improving the quality of drinking-
+     water. In particular, the use of a comprehensive risk assessment and management approach, known as a water
+     safety plan (WSP) will support consistent good quality water (WHO, 2009). Household water treatment (HWT)
+     and safe storage is one particular control option within a broader WSP to make water safer to drink (WHO, 2011b).
+
+     HWT and safe storage is not a substitute for sustainable access to safe drinking-water, but does serve as an
+     important interim measure for removing pathogens from drinking-water and reducing disease risk, particularly for
+     the 663 million individuals (WHO/UNICEF, 2015b) who do not have access to improved supplies. Furthermore,
+     when safety (as defined by faecal contamination) is considered, the number of individuals in need of safer water
+     increases to 1.9 billion (WHO, 2014a).
+
+     Achieving health gains associated                                      FIGURE 1
+     with HWT and safe storage depends                                      Estimated reductions in diarrhoeal disease from household water
+     on two key requirements. First, HWT                                    treatment (WHO, 2014a)
+     technologies must be microbiologically
+     effective; i.e. they must sufficiently
+     reduce pathogens to protect health.                                                      UNIMPROVED SOURCE OF DRINKING-WATER                                    HIGH
+     Second, such technologies must reach,
+                                                                                                        11%
+
+
+
+                                                                                                                                                                     R I S K T O H E A LT H
+     and be consistently and correctly used
+     by, the groups most at risk for waterborne
+                                                                                                        IMPROVED POINT SOURCE
+     disease. This requires consideration of a                                                            OF DRINKING-WATER
+     number of key factors such as effective                                   23%                                                                       45%
+     supply chains, affordability, user                                                                  14%
+     preferences and changing and sustaining
+     user behaviour. When effective methods                                                                BASIC PIPED WATER                     38%
+     are used correctly and consistently, HWT                                                                ON PREMISES
+     and safe storage can reduce diarrhoeal
+                                                                                                        73%*                              28%
+     disease by as much as 45 % (Figure 1).
+     While the focus of this report is on water                                                                                       WATER EFFICIENTLY
+     treatment technologies and thus the use                                             PIPED WATER,                                TREATED AND SAFELY
+                                                                                        SYSTEMATICALLY                                 STORED IN THE
+     of HWT, it is important to note that safe                                             MANAGED                                       HOUSEHOLD
+     storage is critical to keeping water safe                                                                                                                        LOW
+     after collection and or treatment (Box 2).
+                                                                            * The estimates are based on limited evidence and should therefore be considered as preliminary
+
+
+
+
+10   WHO International Scheme to Evaluate Household Water Treatment Technologies
+     BOX 2
+     Importance of safe storage
+
+     Studies have shown that safe storage alone can significantly reduce diarrhoeal disease (Roberts et al., 2001) which highlights the
+     importance and the cost-effectiveness of this measure. Increasingly a number of HWT products incorporate safe storage into their
+     design (as is often the case for filters) or through the presence of a chlorine residual. With climate change and increasing fluctuations
+     in water supply and the resulting need to store water in the household, safe storage is likely to become even more important in
+     the future. Furthermore, safe storage is also associated with other health benefits beyond diarrhoeal disease reduction, such as
+     decreasing the risk of dengue by reducing breeding grounds for the mosquito vector.
+
+
+
+There are a number of different HWT methods. The main types include chemical disinfection, disinfection
+with heat or ultraviolet (UV), filtration and flocculation-disinfection. In order to comprehensively assess
+effectiveness, the World Health Organization (WHO) has recommended health-based performance targets
+for HWT products based on the removal of enteric bacteria, viruses, and protozoa1 (WHO, 2011a). However,
+many low- and middle-income countries have neither the capacity, nor the resources to evaluate technologies
+based on WHO recommendations. Concurrently, these same governments – mainly located in Sub-Saharan
+Africa, South-East Asia and parts of Central and South America – are increasingly being approached by
+manufacturers to buy and allow the sale of their products within the respective countries. To this end, in
+2014 WHO established the International Scheme to Evaluate Household Water Treatment Technologies (the
+Scheme) to independently and consistently evaluate HWT products based on specific performance criteria
+that address the removal of viruses, bacteria and protozoa (WHO, 2011a). The objectives of the Scheme are to:
+
+• promote and coordinate independent and consistent evaluation of HWT based on WHO recommended
+  criteria and, in so doing, guide WHO Member States and procuring United Nations agencies in the selection
+  of HWT; and
+
+• support governments in a number of evaluation-related functions, including building technical capacity of
+  research institutions, conducting complimentary national assessments of HWT in the field, and strengthening
+  national regulation of HWT.
+
+Together, these two objectives and the associated activities serve the ultimate aim of the Scheme, which is to
+reduce the burden of disease associated with unsafe drinking-water.
+
+
+
+
+1 Performance testing of HWT technologies under the Scheme currently does not specifically address non-enteric pathogens that may grow in household water systems
+  when warm water is stored (Ashbolt, 2015), nor non-microbial contaminants such as arsenic and fluoride.
+
+
+
+
+                                                                                                                                                                    11
+12   WHO International Scheme to Evaluate Household Water Treatment Technologies
+1. Round I of the Scheme
+
+1.1 An overview of the Scheme
+The Scheme is coordinated by the Water, Sanitation, Hygiene and Health Unit at the WHO. In this role, WHO
+reviews and designates testing laboratories, develops testing protocols and report templates, coordinates the
+testing of technologies, reviews testing results and communicates the test results to Member States (Figure 2).
+
+WHO works with an independent advisory committee (IAC) of experts in drinking-water treatment, microbiology
+and epidemiology1, and designated testing laboratories to independently evaluate the performance of submitted
+HWT products. The highly specialized technical nature of evaluating HWT technologies necessitates testing in
+laboratories with advanced capabilities. Thus, laboratories need to have systems in place to ensure the integrity
+of testing and the results, including compliance with the quality management requirements of the International
+Organization for Standardization (ISO) 17025. There are currently two laboratories that have been designated to
+conduct testing2. These are KWR Watercycle Research Institute (KWR) in the Netherlands and NSF International
+(NSF) in the United States of America.
+
+
+
+
+FIGURE 2
+The Scheme components
+
+
+        WHO                                                                                             INDEPENDENT ADVISORY COMMITTEE
+        Coordination of testing, including:                                                             Advice on:
+        • Review and designation of testing                                                             • Criteria for the selection of the testing
+          laboratories                                                                                    laboratories
+        • Development of test protocols and reports                                                     • Evaluation and testing procedure
+        • Review of test results                                                                        • Harmonized testing protocols
+        • Communication of results to Member                                                            • Test results and interpretation
+          States and UN agencies
+        • Capacity building and country support
+                                                                                                         DESIGNATED TESTING LABORATORIES
+                                                                                                         • Development of product-specific testing
+                                                                                                           protocols in line with WHO harmonized
+                                                                                                           testing protocols
+                                                                                                         • Testing of HWT products
+
+
+        MANUFACTURERS                                                                                    MEMBER STATES, PROCURING UN
+        • Submission of products for testing                                                             AGENCIES
+        • Review of test results and agreement with                                                      Use of Scheme results in selecting HWT
+          classification                                                                                 products
+
+
+
+
+1 Terms of reference for the IAC can be found at: http://www.who.int/household_water/scheme/IAC/en/
+2 The criteria applied in the selection of the testing laboratories can be found at: http://www.who.int/household_water/scheme/laboratories/en/
+
+
+
+
+                                                                                                                                                      13
+     1.1.1 HWT performance targets
+     The evaluation of HWT technologies is based on the recommended performance criteria set out in Evaluating
+     household water treatment options: health-based targets and microbiological performance specifications (WHO,
+     2011a). These criteria were determined by applying the concept of tolerable burden of disease (acceptable risk)
+     as outlined in the fourth edition of the GDWQ (WHO, 2011b). Using quantitative microbial risk assessment
+     (QMRA) methods described in the GDWQ (Box 3), and assuming background levels of reference pathogens in
+     untreated water, reductions of pathogens were calculated to meet risk-based targets.
+
+
+
+          BOX 3
+          Quantitative microbial risk assessment
+
+          Quantitative microbial risk assessment (QMRA) is the process of estimating the risk posed to human health from exposure to microbial
+          pathogens. The process uses data on source water quality, effectiveness of treatment and characteristics of microbial pathogens,
+          to estimate the disease burden associated with exposure to pathogens in drinking-water.
+
+
+
+     From this, three categories of recommended performance: 3-star (           ); 2-star (   ); and 1-star ( ), were
+     developed, denoting descending order of performance1. The performance targets pertain to three main classes of
+     pathogens which cause enteric infections and disease, namely bacteria, viruses and protozoa. The log10 reductions
+     required to achieve the performance targets for each pathogen class are presented in Table 2, and a description
+     of a log reductions is provided in Box 4.
+
+
+     TABLE 2
+     WHO recommended microbiological performance criteria for HWT technology performance classification
+
+      Performance                   Bacteria                      Viruses                   Protozoa                              Interpretation
+      classification             (log10 reduction             (log10 reduction           (log10 reduction               (assuming correct and consistent use)
+                                    required)                    required)                  required)
+                                                                                                                               Comprehensive protection
+                                        ≥4                           ≥5                         ≥4                           (very high pathogen removal)
+                                                                                                                               Comprehensive protection
+                                        ≥2                           ≥3                         ≥2                              (high pathogen removal)
+                                 Meets at least 2-star (         ) criteria for two classes of pathogens                           Targeted protection
+               —                                Fails to meet WHO performance criteria                                           Little or no protection
+
+
+
+
+          BOX 4
+          Log10 reduction
+
+          The microbiological performance of HWT technologies is often presented as a comparison of the concentration of pathogens in water
+          before, and after treatment, on a logarithmic basis. A 1-log reduction stands for a ten-fold or 90% reduction in the concentration
+          of pathogens in water.
+          • 1 log10 reduction = 90% reduction
+          • 2 log10 reduction = 99% reduction
+          • 3 log10 reduction = 99.9% reduction, etc.
+
+
+
+     1 The performance targets were originally labelled as Highly protective, Protective and Interim (WHO, 2011a). While the log reduction requirements remain the same, the
+       nomenclature has been subsequently revised to the star rating, based on feedback from a strategic meeting held in March 2015, to be more universally understood.
+
+
+
+
+14   WHO International Scheme to Evaluate Household Water Treatment Technologies
+These three pathogen classes occur widely in drinking-water supplies impacted by animal and/or human excreta.
+For example, in a recent global study involving over 20,000 children in seven developing countries, rotavirus,
+Cryptosporidium protozoa and some toxin-producing strains of the bacterium Escherichia coli (E. coli) were among
+the top pathogens associated with moderate to severe diarrhoea (Kotloff et al., 2013). In addition, increased E.
+coli contamination in household water has been associated with an increase in child diarrhoea (Luby et al., 2015).
+Thus, in many faecally-contaminated drinking-water sources it is important that HWT technologies sufficiently
+reduce all three classes of pathogens. Where such technologies are not available a multi-barrier approach is
+advised (Box 5). Within each class of pathogen, there are many different organisms associated with waterborne
+diseases and it is neither feasible nor practical to evaluate the performance of HWT technologies against each of
+them. Instead, reference organisms have been selected to represent the three classes. These reference organisms
+are: E. coli (bacteria), coliphages MS2 and phiX174 (viruses) and Cryptosporidium parvum (protozoa). An overview
+of the key considerations in selecting these reference organisms is given in Annex 1.
+
+
+
+   BOX 5
+   Technologies providing ‘targeted protection’ and the multi-barrier approach
+
+   The WHO recommends a multi-barrier approach to water safety, where combinations of technologies can be used to treat water.
+   While technologies that provide targeted protection such as chlorine disinfectants are effective against only bacteria and viruses,
+   they can be combined with a method that is effective against protozoa (such as filtration) to achieve comprehensive protection.
+
+
+
+
+1.1.2 The Scheme evaluation procedure
+Evaluation under the Scheme is based on the voluntary submission of an expression of interest (EOI) from
+manufacturers. Priority products for evaluation are those that are:
+
+• low cost;
+
+• appropriate for low-income settings;
+
+• generally ‘free-standing’ and do not need to be plumbed in; and
+
+• which only treat sufficient water to serve a limited number of individuals a day, as would be typically used in
+  households or small public facilities such as tertiary healthcare centres.
+
+Each EOI that meets these initial screening criteria is selected for review by the Scheme Secretariat at WHO with
+input and advice from the IAC. In its role as coordinator, WHO works with the IAC to review these submissions,
+develop testing protocols and manage communications and reporting with the designated testing laboratories and
+manufacturers (further details on the screening and evaluation criteria are outlined in Annex 1). The results of the
+evaluation are published on the WHO website. An overview of the Scheme evaluation procedure is shown in Figure 3.
+Evaluations are conducted according to standardized protocols in line with the above-mentioned performance
+criteria. The evaluation may consider existing data and abbreviated testing, in lieu of full testing, provided that
+such data have been generated by independent, highly qualified testing laboratories using quality assurance
+protocols that are similar to those of the Scheme
+
+
+
+
+                                                                                                                                         15
+     FIGURE 3
+     Overview of the Scheme evaluation procedure
+
+
+                                                                          EOI SCREENING                                                  NO
+                                                     Do the manufacturer and product meet criteria for
+                                                     evaluation under the Scheme?
+
+                                                                                       YES
+                                                                                                                                        REJECT
+
+                                                                         DOSSIER REVIEW
+                                                     Do the existing data, test methods and testing laboratories
+                                                     meet the requirements of the Scheme?
+
+           PARTIALLY                                                                   NO                                                YES
+
+
+                     ABBREVIATED                                        FULL LABORATORY TESTING                    IN-DEPTH DESK REVIEW OF
+                  LABORATORY TESTING                                                                                    EXISTING DATA
+
+
+
+                                                                     REVIEW OF TEST RESULTS
+                                                     • WHO and IAC review test results and where appropriate
+                                                       assign a product performance classification
+                                                     • WHO shares tests results and / or summary report with
+                                                       manufacturer for comment
+
+
+
+                         PUBLICATION AND DISSEMINATION                                         ON-GOING MAINTENANCE OF
+                                        OF RESULTS                                                   EVALUATION STATUS
+                     Publication on the WHO website of the report                       Manufacturer to report any changes that
+                     and the list of products which at the time of                      may affect the product performance, including
+                     testing were found to meet one of the WHO                          in manufacturing processes, raw materials,
+                     recommended performance levels                                     design, etc.
+
+
+
+
+     1.1.3 Quality assurance
+     Quality assurance elements in place to provide appropriate and consistent evaluation of HWT technologies
+     include harmonized testing protocols, ongoing learning exchange and site visits between highly qualified
+     laboratories and regular review of evidence to ensure testing is in line with latest science.
+
+     The testing procedures
+     To ensure appropriate and consistent evaluation across products and technologies, product testing follows a
+     harmonized testing protocol, based on internationally recognized performance approaches and recommendations
+     by the IAC. The protocol is intentionally prescriptive to ensure consistency in evaluation and it outlines:
+
+     • the specifications for each test water characteristic, the adjustment materials to be used and the published
+       methods of analysis to be used to verify and report compliance with the specifications; and
+
+     • the Scheme reference target organisms to be used, which are well documented as laboratory test
+       microorganisms. Where appropriate, internationally recognized identifications are used such as the American
+       Type Culture Collection (ATCC), and testing utilizes the production and assay procedures outlined in the
+       harmonized testing protocol. Collection procedures, including neutralization details, storage conditions and
+       hold times are all clearly defined.
+
+16   WHO International Scheme to Evaluate Household Water Treatment Technologies
+     BOX 6
+     Reliability of testing between the designated laboratories
+
+     To assess the consistency between the designated laboratories, two products were tested at both KWR and NSF. Each laboratory
+     independently developed product-specific testing protocols for the two products. At both laboratories three sampling units each
+     of the two products were tested, with influent concentrations for all organisms sufficient to meet 3-star performance targets. The
+     results from the laboratories were consistent for both products: one product met the 2-star target, limited by its virus performance,
+     while the other product fully met the 3-star performance targets for all three pathogen classes. Given viruses are the most difficult
+     class of pathogen to manipulate, the consistency between labs for this class of organism in particular, demonstrates quality measures
+     are being met.
+
+
+
+
+Designated testing laboratories
+The WHO designated laboratories, KWR and NSF, were selected based on expertise, capabilities and
+independence. These laboratories are accredited to ISO 17025, demonstrating their competence in testing and
+calibration and providing quality assurance that includes both management and technical requirements:
+
+• Management requirements relate to the operation and effectiveness of the quality management system within
+  the laboratory, including defined responsibilities and tasks of staff, procedures for ensuring the quality of test
+  results and clear document control/ reporting procedures.
+
+• Technical requirements include factors which determine the correctness and reliability of the tests and
+  calibrations performed in laboratory (Box 6). These include staff competence, environment control, testing
+  methodology, equipment and measurement traceability, and reporting of test and calibration results.
+
+In addition to demonstrated technical capability, KWR and NSF are independent of industry and the head of
+each institution and the staff responsible for the testing activities are required to disclose potential conflicts of
+interest. The institutions also have adequate mechanisms in place to address and manage potential conflicts
+and safeguards to ensure the integrity of testing and the results.
+
+Laboratory learning exchanges
+Communication between designated testing facilities also helps to ensure consistent evaluation. KWR and
+NSF, both WHO Collaborating Centres, have met and maintain regular communication to produce a common
+understanding of all the evaluations and subsequent reporting and conduct testing on a not-for profit basis as
+part of Collaborating Centre activities.
+
+
+1.1.4 Overview of the product testing
+For each of the products that undergo laboratory testing, manufacturers are required to provide three production
+units for devices, and sufficient samples for triplicate replicates in three production lots for chemical disinfectants.1
+Each of the products is tested against the protocols specific to the technology class that they represent. Further
+information on these technology-specific protocols can be found in Annex 1. The actual setup employed during
+testing follows the manufacturer’s instructions for use, including doses to be applied, contact times, requirements
+for pre-conditioning, etc. Supporting information submitted by manufacturers describing their product and its
+operation and maintenance is also reviewed.
+
+
+
+
+1 Each unit from the three lots is required to meet or exceed the performance requirements set out in Table 2. However, a maximum deviation of 10% in the sample points
+  is allowed, provided that the variance is not greater than 1 log10.
+
+
+
+
+                                                                                                                                                                          17
+18   WHO International Scheme to Evaluate Household Water Treatment Technologies
+1.2 HWT products evaluated in Round I
+In 2014, WHO issued the first call to HWT manufacturers to submit EOIs. A total of 29 EOIs were received from
+26 manufacturers. After the initial screening, 12 products did not meet the eligibility criteria and thus did not
+proceed to the full evaluation. Details of the screening criteria and EOI reviews are provided in Annex 1. Some
+manufacturers withdrew from the evaluation for various reasons, including uncertainty about the readiness of
+their product for testing and concerns about the testing costs.1 In total, ten products from eight manufacturers
+proceeded to evaluation under the Scheme (Table 3).
+
+Of the ten products that were evaluated, six underwent full laboratory testing and four underwent abbreviated
+evaluations. These products represent filtration, solar, UV, chemical and combination technologies. A brief
+description of these products and the technology class they represent is provided in the following sections.
+
+
+TABLE 3
+Products evaluated in Round I of the Scheme
+
+ Technology                                 Product                                     Manufacturer                               Evaluation procedure
+ Membrane ultrafiltration                   LifeStraw Family 1.0                        LifeStraw SA                               Abbreviated procedure: Desk review
+                                                                                                                                   of existing data
+ Membrane ultrafiltration                   LifeStraw Family 2.0                                                                   Full laboratory testing
+ Membrane ultrafiltration                   LifeStraw Community                                                                    Full laboratory testing
+ Ceramic filtration                         TEMBO Filter Pot                            Upendo Women’s Group MSABI                 Full laboratory testing
+ Flocculation-disinfection                  P&G Purifier of Water                       The Procter & Gamble Company               Abbreviated procedure: Desk review
+                                                                                                                                   of existing data
+ UV disinfection                            Waterlogic Hybrid / Edge Purifier           Qingdao Waterlogic Manufacturing           Full laboratory testing
+                                                                                        Company
+ Solar disinfection                         WADI                                        Helioz GmbH                                Full laboratory testing
+ Chemical disinfection                      H2gO Purifier                               Aqua Research LLC                          Abbreviated procedure: Desk review
+                                                                                                                                   of existing data
+ Chemical disinfection                      Aquatabs                                    Medentech Limited                          Abbreviated laboratory testing and
+                                                                                                                                   desk review of existing data
+ Chemical disinfection                      Silverdyne                                  World Health Alliance International        Full laboratory testing
+                                                                                        Inc.
+
+
+
+
+1 The full cost of evaluation depends on the technology and evaluation protocol to be followed. Subject to the availability of funds, WHO may, at its sole discretion,
+  decide to waive part of the cost for applicants, and in Round II, more funds will be made available for this purpose.
+
+
+
+
+                                                                                                                                                                         19
+           MEMBRANE FILTRATION (ULTRAFILTRATION)
+           In general, filters reduce microbial contaminants from drinking-water by a combination of physical and chemical
+           processes, including size exclusion and adsorption. A key determinant of their performance is the pore size of the
+           filter, and not all membrane types are effective against small microorganisms such as viruses. A brief overview
+           of the microbial performance, limitations and advantages of ultrafiltration membranes (and not membranes in
+           general) is provided below.
+
+
+           Microbial performance                     • Effective against viruses (depending on the integrity of the membrane), bacteria
+                                                       and protozoa
+           Advantages                                • Visual improvement in treated water
+           Limitations                               • Regular cleaning of filters required
+                                                     • Requires reliable supply chain for spare parts
+                                                     • Does not provide residual protection against recontamination unless treated
+                                                       water is safely stored
+                                                     • Membrane fouling
+           Application                               • Most appropriate in areas where:
+                                                     • There is external funding or microfinance schemes to support the initial cost of
+                                                       the filter
+                                                     • There is a distribution network for replacement of broken parts
+                                                     • User training on how to correctly maintain and use the filter is feasible
+           Adapted from: WHO/UNICEF, 2012a and Lantagne and Clasen, 2009
+
+
+
+
+on-disinfection
+      20   WHO International Scheme to Evaluate Household Water Treatment Technologies
+                                                                         MEMBRANE FILTRATION (ULTRAFILTRATION)
+
+
+
+LIFESTRAW FAMILY 1.0, LIFESTRAW FAMILY 2.0 AND LIFESTRAW
+COMMUNITY
+Countries of manufacture
+The filter membranes and cartridge are manufactured in Korea. The plastic moulding for LifeStraw Family
+2.0 and LifeStraw Community is manufactured in China.
+
+Treatment technology
+Membrane ultrafiltration
+
+Product description
+The LifeStraw filters are available in three versions, namely LifeStraw Family 1.0, 2.0 and Community. During
+filtration, microorganisms such as bacteria, viruses and protozoa are physically removed from water as it is
+forced through hollow fibre membranes under gravitational pressure.
+
+The LifeStraw Family 1.0 comprises a 2 L reservoir containing a pre-filter to remove coarse particles, which
+is attached to a hose that connects to the ultrafiltration hollow fibre membrane1 cartridge and a tap. When
+the tap is turned on, water in the reservoir travels down the hose and is forced through the filter cartridge
+and released through the tap. The filter does not come with a safe storage container, and has to be hung or
+suspended above the storage container to be filled. The estimated flow rate of the filter when new is 12 L/hour.
+
+The LifeStraw Family 2.0 and LifeStraw Community are based on the same ultrafiltration membrane
+technology as the LifeStraw Family 1.0. The 2.0 is a table top version of the LifeStraw range, and comprises
+a 6.0 L raw water tank and a built-in 5.5 L safe storage water tank with a tap. The estimated flow rate of the
+filter when new is at least 2.5 L/hour. The LifeStraw Community is a high-volume version designed for use
+in community and institutional settings. It has a total fill capacity of 50 L, with raw water and safe storage
+tanks of 25 L each. The estimated flow rate of the filter when new is at least 12 L/hour. The full product
+descriptions and use instructions can be found at the product webpage: http://www.vestergaard.com/our-
+products/lifestraw
+
+Product specifications
+            Version                   Power              Maintenance and lifespan              Other features        Estimated number of units
+                                   requirements                                                                       distributed/ procured in
+                                                                                                                             2013/2014a
+    LifeStraw Family 1.0         None                   Daily backwash and pre-filter   Can be hung on a wall;               1,000,000
+                                                        cleaning is recommended         Does not include a safe
+                                                                                        storage container
+                                                        Reusable: estimated lifespan
+    LifeStraw Family 2.0                                of up to 5 years                Table top;                             150,000
+                                                                                        Includes a safe storage
+                                                                                        container
+    LifeStraw Community                                                                 Table top or free-standing              15,000
+                                                                                        Includes a safe storage
+                                                                                        container
+a
+    Based on information provided by the manufacturer
+
+Product evaluation
+The evaluation of the LifeStraw filters consisted of a desk review of existing data of the Family 1.0 and
+laboratory testing of the Family 2.0 and Community versions. Testing followed requirements of the
+technology-specific protocol for gravity-fed membrane filters. Following the manufacturer’s use instructions,
+three lots of the products, run in triplicate, were evaluated to determine their reduction performance against
+bacteria and viruses. Testing against Cryptosporidium parvum was not required, as filtration devices with a
+pore size of less than 1 micron would be capable of removing oocysts (size ranging between 2 to 50 microns),
+and if the membrane was compromised, the presence of smaller viruses or bacteria in the treated water
+would clearly demonstrate a fault in the filter.
+
+1 The hollow fibre membrane can filter particles down to 0.02 microns.
+                                                                                                                                                 21
+            POROUS CERAMIC FILTRATION
+            Ceramic filtration relies on the physical removal of contaminants from water by a combination of size exclusion
+            and adsorption. The most common ceramic filter shapes are pots and candles, although discs are also available.
+            The filters may also be enhanced by impregnating or coating with a bacteriostatic agent such as silver nitrate
+            solution or colloidal suspensions of silver. A brief overview of the microbial performance, limitations and
+            advantages of porous ceramic filters is provided below.
+
+
+            Microbial performance                     • Effective against bacteria and protozoa
+                                                      • Limited effectiveness against viruses
+            Advantages                                •   Simple to use
+                                                      •   Visual improvement in treated water
+                                                      •   One-time capital cost
+                                                      •   Possibility of local production benefits economy
+            Limitations                               • Lack of residual protection presents potential for recontamination if no
+                                                        attached safe storage container is provided
+                                                      • Variability in quality of locally produced filters
+                                                      • Filter breakage requires reliable supply chain
+                                                      • Need to regularly clean filters and receptacles
+                                                      • Low flow rate of 1–3 litres per hour (slower in turbid waters)
+            Application                               Most appropriate in areas where:
+                                                      • There is capacity for quality ceramic filter production / quality management
+                                                        processes in place
+                                                      • There is a distribution network for replacement of broken parts
+                                                      • There is external funding or microfinance schemes to support the initial cost of
+                                                        the filter
+                                                      • Educational messages can reach the target population to encourage correct
+                                                        and consistent use
+            Adapted from: WHO/UNICEF, 2012a and Lantagne and Clasen, 2009
+
+
+
+
+      22    WHO International Scheme to Evaluate Household Water Treatment Technologies
+
+
+
+
+amic filtration
+                                                                                                 POROUS CERAMIC FILTRATION
+
+
+
+TEMBO FILTER POT
+Country of manufacture
+Tanzania
+
+Treatment technology
+Ceramic pot filter
+
+Product description
+The TEMBO Filter Pot is made from a mix of clay and rice husk, which is pressed in a mould and fired in a
+kiln that reaches temperatures of 700°C. A layer of a colloidal silver solution is painted over the internal
+surface of the filter. The filter is sold as a separate unit, or set in a 20 or 30 L plastic bucket equipped with a
+spigot. Water poured into the ceramic pot filters through the pores under gravity and is collected in the plastic
+bucket. According to the manufacturer, the flow rate ranges between 1 and 5 L per hour. The full product
+description, illustrations and use instructions can be found on the manufacturer’s webpage: www.msabi.org
+
+Product specifications
+           Power requirements                 Maintenance and lifespan                   Other features   Estimated number of units
+                                                                                                           distributed/ procured in
+                                                                                                                  2013/2014a
+    None                                   Once a year the pot should be     Table top                             2,000
+                                           cleaned inside with water, soap
+                                           and a brush (provided to the
+                                           consumer) to remove build-up of
+                                           solids;
+                                           Reusable: estimated lifespan of
+                                           2–3 years
+a
+    Based on information provided by the manufacturer
+
+
+Product evaluation
+The evaluation of the TEMBO Filter Pot consisted of laboratory testing to provide independent data on the
+product’s microbiological performance. Testing followed requirements of the technology-specific protocol
+for ceramic pot filters. Following the manufacturer’s use instructions, including conditioning, three units
+(triplicate replicates) were tested for all three classes of pathogens in general and challenge test waters.
+Testing was stopped prior to full test capacity due to very low flow of the test waters in the pots. According
+to the information provided by the manufacturer, the average flow rate for the TEMBO Filter Pots is 1-5 L/
+hour. However, during testing it took more than 24 hours to filter an 8 L of sample water, indicating a flow
+rate of less than 0.5 L/hour.
+
+
+
+
+                                                                                                                                      23
+                     FLOCCULATION-DISINFECTION
+                     Flocculant-disinfectants employ a multi-barrier approach to water treatment. The flocculant encourages
+                     suspended and larger microorganisms such as protozoa to bind to each other and settle to the bottom of the water
+                     container, while the disinfectant inactivates the smaller microorganisms such as bacteria and viruses. A brief
+                     overview of the microbial performance, limitations and advantages of flocculant-disinfectants is provided below.
+
+
+                     Microbial performance                     • Effective against viruses, bacteria and protozoa
+                     Advantages                                • Residual protection against recontamination
+                                                               • Reduction of some heavy metals (e.g. arsenic) and particle-associated
+                                                                 pesticides
+                                                               • Visual improvement in treated water
+                                                               • Typically available in small sachets which are easily transported
+                                                               • Non-hazardous classification, long shelf-life
+                     Limitations                               •   Need for multiple steps to use the product, requires additional user support
+                                                               •   Requires reliable supply chain
+                                                               •   High relative cost per litre treated
+                                                               •   Potential user taste and odour objections
+                     Application                               Most appropriate in areas where:
+                                                               • Water is of relatively high turbidity
+                                                               • There is a consistent supply chain
+                                                               • Educational messages can reach the target population to encourage correct
+                                                                 and consistent use
+                     Adapted from: WHO/UNICEF, 2012a and Lantagne and Clasen, 2009
+
+
+
+
+           flocculant                                                                              flocculant
+           disinfectant                                                                            disinfectant
+
+
+
+
+cculation-disinfection
+
+
+
+
+      24             WHO International Scheme to Evaluate Household Water Treatment Technologies
+                                                                                                FLOCCULATION-DISINFECTION
+
+
+
+P&G PURIFIER OF WATER
+Country of manufacture
+Singapore
+
+Treatment technology
+Flocculant-disinfectant
+
+Product description
+The P&G Purifier of Water is a sachet containing powdered ferric sulfate and calcium hypochlorite. The
+ferric sulfate acts as a coagulant which aggregates suspended particulates and microorganisms in water.
+The coagulation results in the creation of larger floccules that then settle in the base of the water vessel.
+The calcium hypochlorite acts as a disinfectant. It is available in 4 gram sachets that can each treat 10 L of
+water. The full product description, illustrations and use instructions can be found on the product webpage:
+www.pghsi.com/pghsi/safewater/development.shtml
+
+Product specifications
+           Power requirements                 Maintenance and lifespan                 Other features           Estimated number of units
+                                                                                                                 distributed/ procured in
+                                                                                                                        2013/2014a
+    None                                   No maintenance required.           Available as single use sachets         130,000,000
+                                           Consumable: estimated shelf-life
+                                           of 3 years
+a
+    Based on information provided by the manufacturer
+
+
+
+Product evaluation
+Given the extensive evidence base on flocculants-disinfectants in general and the previously conducted
+rigorous testing, the evaluation of P&G Purifier of Water consisted only of a desk review of existing data
+on performance against viruses, bacteria and protozoa. Supporting information submitted by the Procter &
+Gamble Company describing the product and its use was also reviewed.
+
+
+
+
+                                                                                                                                            25
+         UV DISINFECTION
+         UV radiation inactivates microbial organisms by altering their nucleic acids and proteins, which impairs their cell
+         binding and/or ability to be replicate. A brief overview of the microbial performance, limitations and advantages
+         of UV technologies is provided below.
+
+
+         Microbial performance                     • Effective against viruses, bacteria and protozoa
+         Advantages                                • Simple to use
+                                                   • Minimal change in taste of the water
+         Limitations                               • Need for pre-treatment (filtration or flocculation) of waters of higher turbidity
+                                                   • Does not provide residual protection against recontamination unless treated
+                                                     water is safely stored
+                                                   • Requires a power source and clean UV lamp to operate effectively
+                                                   • Requires reliable supply chain and professional maintenance
+                                                   • High relative cost per litre treated
+         Application                               Most appropriate in areas where:
+                                                   • Electricity or other power source is available
+         Adapted from: WHO/UNICEF, 2012a and Lantagne and Clasen, 2009
+
+
+
+
+n
+
+
+
+
+    26   WHO International Scheme to Evaluate Household Water Treatment Technologies
+                                                                                                         UV DISINFECTION
+
+
+
+WATERLOGIC HYBRID / WATERLOGIC EDGE PURIFIER
+Country of manufacture
+China
+
+Treatment technology
+UV disinfection with pre-filtration
+
+Product description
+The Waterlogic Hybrid / Edge Purifier is an electric water treatment device fitted with a carbon pre-filter
+and UV lamp. The device has a detachable 1.5 L reservoir that holds the raw water. Water passes the pre-
+filter and UV lamp and is dispensed through a spout. The filter does not include an attached safe storage
+container. The full product description, illustrations and use instructions can be found on the manufacturer’s
+webpage: www.waterlogic.com
+
+Product specifications
+          Power requirements                  Maintenance and lifespan                 Other features   Estimated number of units
+                                                                                                         distributed/ procured in
+                                                                                                                2013/2014a
+    Continuous electric power supply       UV lamp and carbon filter require   Counter top                       15,000
+                                           replacement every 6-12 months,
+                                           depending on local water quality.
+                                           Reusable: estimated lifespan of
+                                           5 years
+a
+    Based on information provided by the manufacturer
+
+
+
+Product evaluation
+The evaluation of the Waterlogic Hybrid / Edge Water Purifier consisted of laboratory testing of the product’s
+performance against all three classes of pathogens. Testing followed requirements of the technology-specific
+protocol for UV disinfectants. Following the manufacturer’s use instructions, three units (triplicate replicates)
+were evaluated in general and challenge test waters. The testing was concluded on Test Day 8, prior to full
+sample collection, due to reduced flow. The product’s performance was evaluated based on the data collected.
+
+
+
+
+                                                                                                                                    27
+              SOLAR DISINFECTION
+              Solar disinfection inactivates microbial organisms through a combination of UV radiation, oxidative activity
+              associated with dissolved oxygen products and heat. Transparent containers are filled with water and exposed
+              to sunlight. In general, polyethylene terephthalate (PET) bottles are considered most practical and ideal for solar
+              disinfection. A brief overview of the microbial performance, limitations and advantages of solar technologies is
+              provided below.
+
+
+              Microbial performance                     • Potentially effective against viruses, bacteria, and protozoa depending on the
+                                                          container material and climatic and weather conditions
+              Advantages                                •   Simple to use
+                                                        •   No cost to the user after obtaining the PET bottles
+                                                        •   Minimal change in taste of the water
+                                                        •   Minimal likelihood of recontamination when held in disinfecting container
+              Limitations                               • Need for pre-treatment (filtration or flocculation) of waters of higher turbidity
+                                                        • Volume to treat dependent on availability of clean, intact PET bottles
+                                                        • Lack of visual improvement in water aesthetics to reinforce benefits of
+                                                          treatment
+                                                        • Relatively long time to treat water and variability depending on sun intensity
+                                                        • Effectiveness of treatment depends on the specific water matrix and
+                                                          temperature reached
+              Application                               Most appropriate in areas where:
+                                                        • Bottles for treatment are available
+                                                        • Educational messages can reach the target population to encourage correct
+                                                          and consistent use
+              Adapted from: WHO/UNICEF, 2012a and Lantagne and Clasen, 2009
+
+
+
+
+      28      WHO International Scheme to Evaluate Household Water Treatment Technologies
+isinfection
+                                                                                                     SOLAR DISINFECTION
+
+
+
+WADI
+Country of manufacture
+Austria
+
+Treatment technology
+UV measurement device
+
+Product description
+WADI is a solar powered UV measurement device that is used to indicate sufficient treatment via solar
+disinfection. According to the information provided by the manufacturer, it can be placed next to an unlimited
+number of PET plastic bottles (maximum single bottle volume of 3 L) and shows a happy smiley face
+when sufficient UV radiation has made the water in the PET plastic bottles safe to drink. The full product
+description, illustrations and use instructions can be found on the manufacturer’s webpage: www.helioz.org
+
+Product specifications
+          Power requirements                  Maintenance and lifespan              Other features     Estimated number of units
+                                                                                                        distributed/ procured in
+                                                                                                               2013/2014a
+    Solar power                            No maintenance required.          Handheld                           5,000
+                                           Reusable: estimated lifespan of
+                                           3 years
+a
+    Based on information provided by the manufacturer
+
+
+
+
+Product evaluation
+The evaluation of the WADI consisted of laboratory testing of the product’s performance against all three
+classes of pathogens. Testing followed requirements of the solar (UV and heat) technology-specific protocol.
+Following the manufacturer’s use instructions, three units (triplicate replicates) were evaluated for all three
+classes of pathogens in general and challenge test waters. A solar lamp was used to provide 550W/m2 of
+simulated outdoor solar radiation in a laboratory setting. This irradiance corresponds to what would likely
+be observed between latitude 15°N and 35°N as well as 15°S and 35°S, where the majority of developing
+countries are located.
+
+
+
+
+                                                                                                                                   29
+          CHEMICAL DISINFECTION (CHLORINATION)
+          Chemical disinfectants primarily act against microorganisms by chemically altering (often oxidizing) their
+          biochemical building blocks and disrupting surface attachment molecules and vital cell functions. The most
+          common disinfectants are chlorine based, although iodine based or metallic disinfectants such as ionized
+          copper and/or silver are available. A brief overview of the microbial performance, limitations and advantages of
+          chlorination is provided below.
+
+
+          Microbial performance                     • Effective against bacteria and some viruses
+                                                    • Ineffective against protozoan cysts such as Cryptosporidium parvum1
+          Advantages                                •   Residual protection against recontamination
+                                                    •   Simple to use
+                                                    •   Possibility of local production may benefit economy
+                                                    •   Low cost
+          Limitations                               •   Less effective in turbid or organic-rich waters2
+                                                    •   Potential user taste and odour objections
+                                                    •   Requires reliable supply chain
+                                                    •   Necessity of ensuring quality control of product
+          Application                               Chlorination products are widely used in emergencies, due to their ease of use
+                                                    and transport, and affordability, among other factors. It should be noted that
+                                                    chlorination products are most appropriate in areas where:
+                                                    • The pathogen of concern is known (e.g. Vibrio cholerae), as chlorine does not
+                                                      provide protection against some protozoa
+                                                    • There is a consistent supply chain or there are quality management procedures
+                                                      in place for onsite production
+                                                    • Water is of relatively low turbidity and colour
+                                                    • Educational messages can reach the target population to encourage correct
+                                                      and consistent use
+          Adapted from: WHO/UNICEF, 2012a and Lantagne and Clasen, 2009
+
+          The chemical disinfectants evaluated in Round I and the evaluation procedure followed are outlined in the
+          sections that follow.
+
+
+
+
+                                    disinf-                                                  disinf-
+                                    ectant                                                   ectant
+
+
+
+
+                     disinf-                                                   chlo
+                                                                               disinf-
+                     ectant                                                    rine
+                                                                               ectant
+
+
+
+
+Pictogram
+        1 01 / Chemical
+          Because   of this limitation, products based on simple chlorination alone are unlikely to achieve a performance target higher than 1-star ( ).
+                              disinfection
+        2 High levels of dissolved organic carbon in water can react with chlorine to form potentially hazardous by-products. However, the health risks from these by-products at
+          the levels at which they occur in drinking-water are relatively small in comparison with the risks associated with inadequate disinfection. As such, disinfection should
+          not be compromised in attempting to control such by-products (WHO, 2011b).
+
+30        WHO International Scheme to Evaluate Household Water Treatment Technologies
+                                                                             CHEMICAL DISINFECTION (CHLORINATION)
+
+
+
+H2gO PURIFIER
+Country of manufacture
+China
+
+Treatment technology
+Electrolytic chlorine generator
+
+Product description
+The H2gO Purifier is a handheld device that produces a mix of sodium hypochlorite and hydrogen peroxide
+solution from salt and water through an electrolytic process. The resulting disinfectant solution is then
+added to the water to be treated. The H2gO Purifier produces sufficient disinfectant to treat water volumes
+of 1, 2, 5, 10, or 20 L. The full product description, illustrations and use instructions can be found on the
+manufacturer’s webpage: www.h2gopurifier.com
+
+Product specifications
+          Power requirements                  Maintenance and lifespan                Other features   Estimated number of units
+                                                                                                        distributed/ procured in
+                                                                                                               2013/2014a
+    Energy source (either the sun or       No maintenance required.            Handheld                         3,000
+    power supplied via USB) required       Reusable: estimated lifespan of
+    for battery recharge                   10 years
+a
+    Based on information provided by the manufacturer
+
+
+
+
+Product evaluation
+The evaluation of H2gO Purifier consisted of a desk review of existing data on its performance against
+bacteria and viruses only. The submitted data on performance against viruses and bacteria were reviewed
+as an abbreviated procedure against the technology-specific protocol for chlorine disinfectants. In general,
+the existing evidence suggests that disinfection by chlorine alone or mixed oxidants is ineffective against
+Cryptosporidium oocysts at concentrations that would be within taste and odour thresholds and contact
+times reasonably reflective of field use. Although some experimental data were submitted on the product’s
+performance against protozoan cysts including Cryptosporidium oocysts, they were based on high doses
+and long contact times (up to four hours). These data were therefore not considered in the review as in
+practice the recommended contact time is 30 min and achieving longer times would require considerable
+user education.
+
+
+
+
+                                                                                                                                   31
+     CHEMICAL DISINFECTION (CHLORINATION)
+
+
+
+        AQUATABS
+        Country of manufacture
+        Ireland
+
+        Treatment technology
+        Chlorine disinfectant
+
+        Product description
+        Aquatabs are effervescent chlorine tablets with sodium dichloroisocyanurate (NaDCC) as the active
+        ingredient (NaDCC is also known as sodium dichloro-s-triazinetrione or sodium triclosene). The tablets
+        are available as foil-wrapped strips of various strengths, according to the volume (1 to 20 L) and nature
+        of water to be treated. The full product description, illustrations and use instructions can be found on the
+        manufacturer’s webpage: www.medentech.com
+
+        Product specifications
+                  Power requirements                  Maintenance and shelf-life               Other features           Estimated number of units
+                                                                                                                         distributed/ procured in
+                                                                                                                                2013/2014a
+            Energy source (either the sun or       No maintenance required;           Available as single use tablets         750,000,000
+            power supplied via USB) required       Consumable: estimated shelf-life
+            for battery recharge                   of 3 years
+        a
+            Based on information provided by the manufacturer
+
+
+
+
+        Product evaluation
+        The evaluation of Aquatabs consisted of abbreviated laboratory testing to determine their performance
+        against protozoa, and a desk review of existing data on their performance against viruses and bacteria.
+        Testing followed requirements of the technology-specific protocol for chlorine disinfectants. Following the
+        manufacturer’s use instructions, three lots of the product, run in triplicate, were evaluated to determine their
+        inactivation performance against Cryptosporidium oocysts. The product disinfectant residual as free available
+        chlorine in the finished water was also measured.
+
+
+
+
+32   WHO International Scheme to Evaluate Household Water Treatment Technologies
+                                                                                                           CHEMICAL DISINFECTION
+
+
+
+SILVERDYNE
+Country of manufacture
+United States of America (USA)
+
+Treatment technology
+Colloidal silver disinfectant
+
+Product description
+Silverdyne is a liquid colloidal silver suspension that is available in 30 and 60 mL bottles. According to the
+information provided by the manufacturer, each 30 mL bottle treats approximately 1,200 L of water. The full
+product description, illustrations and use instructions can be found on the product webpage: http://www.
+whaintl.com/index.php/silverdyne
+
+Product specifications
+           Power requirements                 Maintenance and shelf-life               Other features           Estimated number of units
+                                                                                                                 distributed/ procured in
+                                                                                                                        2013/2014a
+    None                                   No maintenance required;           Available as small bottles                300,000
+                                           Consumable: estimated shelf-life
+                                           of 3 years
+a
+    Based on information provided by the manufacturer
+
+
+
+
+Product evaluation
+The evaluation of Silverdyne consisted of laboratory testing to determine the product’s performance against
+viruses and bacteria. In general, the evidence suggests silver is not effective against Cryptosporidium.
+Therefore, the product’s performance against this pathogen class was not evaluated. Testing followed
+requirements of the technology-specific protocol for silver disinfectants. Following the manufacturer’s
+use instructions, three lots of the product, run in triplicate, were evaluated to determine their inactivation
+performance against bacteria and viruses in general and challenge test waters. The product disinfectant
+residual in the finished water was also measured.
+
+
+
+
+                                                                                                                                            33
+34   WHO International Scheme to Evaluate Household Water Treatment Technologies
+1.3 Results
+The results are summarized in two sub-sections, based on the performance evaluation and review of product
+information.
+
+
+1.3.1 Microbiological performance of HWT products
+Products classified as providing comprehensive protection with very high removal (                 ) are those that
+demonstrate at least 4 log10 reduction against bacteria and protozoa, and at least 5 log10 reduction against viruses.
+Products classified as providing comprehensive protection with high removal ( ) are those that demonstrate
+at least 2 log10 reduction against bacteria and protozoa, and at least 3 log10 reduction against viruses. As shown
+in Figure 4, there is some variability in performance and some of the products evaluated do not meet any of the
+performance targets.
+
+
+
+FIGURE 4
+Performance classification of HWT technologies evaluated in Round I
+      Membrane ultrafiltration                    Ceramic filtration   Chemical disinfection   Flocculation-disinfection   UV disinfection     Solar disinfection
+
+                                4
+
+
+
+
+                                3
+ Number of products evaluated
+
+
+
+
+                                2
+
+
+
+
+                                1
+
+
+
+
+                                0
+                                             —
+                                    Little or no protection             Targeted protection             Comprehensive protection:            Comprehensive protection:
+                                                                                                          high pathogen removal              very high pathogen removal
+
+                                                                                      Increasing performance
+
+
+
+
+                                                                                                                                                                          35
+                Of the six classes of technologies evaluated, three were found to meet performance targets for either 3-star or
+                2-star classification. These technologies are membrane ultrafiltration devices, a flocculant-disinfectant and a
+                UV disinfection device. The mean log reductions for each of the evaluated products are presented in Figure 5.
+
+                FIGURE 5
+                Log10 reduction of bacteria, viruses and protozoa met or exceeded by products evaluated in Round I
+                                   Viruses                     Bacteria      Protozoa
+
+
+
+                                                        7
+
+                                                        6
+                Log10 reduction fully met or exceeded
+
+
+
+
+                                                        5
+
+                                                        4
+
+                                                        3
+
+                                                        2
+
+                                                        1
+                                                                                                                                                                            (performance
+                                                                                                                                                                           undetermined)
+                                                        0
+                                                             LifeStraw     LifeStraw    LifeStraw    P&G Purifier Waterlogic   WADI    H2gO       Aquatabs*   Silverdyne      TEMBO
+                                                            Family 1.0*   Community     Family 2.0    of Water* Hybrid/Edge           Purifier*                              Filter Pot
+                                                                                                                   Purifier
+
+                                                                                                                         Product
+                Notes:
+                Evaluation based on existing data; test organisms may differ from those used under the Scheme
+                LifeStraw Family 2.0 and LifeStraw Community: Performance against protozoan cysts based on existing data
+                LifeStraw Family 2.0: Overall the mean log reductions demonstrated meet performance targets for 3-star (      ), but the performance target for viruses was not consistently
+                met across all samples, and therefore product was classified as 2-star ( )
+                WADI: Overall the mean log reductions demonstrated meet performance targets for 2-star ( ), but the performance target for viruses was not consistently met across all
+                samples, and therefore product was classified as 1-star ( )
+                H2gO Purifier: Performance against protozoan cysts was not evaluated due to the previously mentioned limitations of chlorination
+                Aquatabs: Abbreviated evaluation against protozoan cysts demonstrated no reduction
+                Silverdyne: Evaluation against viruses demonstrated no log reduction, and no evaluation against protozoan cysts was conducted due to limited evidence of effectiveness
+                TEMBO Filter Pot: Performance was undetermined due to low flow in the filter
+
+
+
+
+                The results of the evaluation reveal the following key findings:
+
+                Half of the ten products evaluated were found to provide comprehensive protection against all three pathogen
+                classes. These are: the three membrane ultra-filters, the flocculant-disinfectant, and the UV disinfectant. These
+                products were found to meet the performance targets for either 3-star (        ) or 2-star ( ), and are classified
+                as providing Comprehensive protection, with very high or high removal of three classes of pathogens, respectively.
+
+                Three of the products evaluated were found to provide targeted protection against two of three classes of
+                pathogens. These are the chlorine tablets, the electrolytic chlorine generator and the solar disinfection indicator.
+                The chlorination products were found to be effective against and bacteria and viruses only – achieving at least
+                6- and 3-log10 respectively – but were found not to be effective against Cryptosporidium oocysts. Therefore,
+                these chlorination products meet the performance targets for 1-star ( ), and are classified as providing Targeted
+
+                1 This refers only to the treatment technologies represented by the products evaluated under the Scheme and found to meet the performance targets, and not all such
+                  technologies.
+
+
+
+
+      36        WHO International Scheme to Evaluate Household Water Treatment Technologies
+
+
+
+
+v.9_Final_15255_Water, Sanitation, Hygiene and Health Report.indd 36                                                                                                                           07/02/2016 13:17
+protection against bacteria and viruses only. The solar disinfection device was found to be effective against
+bacteria and protozoa, and also demonstrated reasonable performance against viruses. However, it did not
+consistently meet the performance target for viruses across all samples and is therefore classified as providing
+Targeted protection against bacteria and protozoa only.
+
+Not all products were found to be effective in reducing pathogens from drinking-water. Two of the products
+evaluated were found to not meet the minimum performance targets (1-star). This underscores the importance of
+rigorous, consistent and independent evaluation of HWT products, as distribution of underperforming products
+will not result in expected health gains, regardless of consistency and correctness of use.
+
+Other selected findings include:
+
+Product performance may vary significantly between production units. Two of the products evaluated (a
+membrane ultrafiltration device and a solar disinfection indicator) did not consistently meet the required
+performance targets across all samples. For these products, the mean log10 reduction for the viral surrogates MS2
+and/ or phiX174 varied by more than 1 log10 across the samples. Therefore, although the mean log10 reductions
+against the viral surrogates of these devices met or exceeded the performance targets, more than 10 % of the
+samples did not meet the target log reductions and therefore the performance targets were not fully met. Such
+variation in performance among product units highlights the importance of performing replicate analyses and
+testing multiple lots to evaluate the consistency in manufacture. Variation in performance among units may
+suggest variability in production highlighting a need to identify gaps in quality product manufacturing, especially
+for filters where there are several parts which must be fit together. It is worth noting that although the membrane
+ultrafiltration device did not consistently meet the 5 log10 reduction for viruses, the average removal was higher
+than 5 log and the performance of membrane filters has been shown to progressively improve over time, with
+increased clogging of the filter pores (Madsen et al., 2010).
+
+Special consideration may need to be given to quality management of local products. It was not possible
+to classify the performance of the ceramic pot filter, due to the very low flow rate that was observed during
+testing. Thus, without being able to filter water, testing was concluded prematurely and the performance was
+undetermined. This suggests poor quality control in manufacturing, as locally manufactured products have been
+shown to be especially susceptible to inconsistencies in performance (the Ceramics Manufacturing Working
+Group, 2011).
+
+
+1.3.2 Findings from the reviews of product information and existing data
+In addition to the laboratory testing, supporting information for each product was reviewed, including the product
+labels, instructions for use and existing performance-related information. Selected findings from this review are:
+
+Manufacturer testing, in some cases, is insufficient to support claims as testing does not cover all three
+classes of pathogens, and is largely limited to faecal coliforms and physico-chemical parameters. Communication
+and facilitating the understanding of the need to demonstrate comprehensive evaluation results to decision-
+makers who are responsible for procuring HWT products (such as national governments, donors and non-
+governmental organizations) is vital in order to identify limitations in various technologies and decipher claims
+about product performance.
+
+Existing testing is often conducted under ideal conditions that are not reasonably reflective of actual use in
+the field. In particular, the existing evidence suggests that chemical disinfectants alone are ineffective against
+protozoan oocysts such as Cryptosporidium at concentrations that would be within taste and odour thresholds, and
+at contact times that would be reasonably reflective of field use. Among the existing performance data reviewed,
+two disinfection products demonstrated at least 2 log10 reduction against Cryptosporidium oocysts, but used doses
+2 to 4 times higher than that recommended on the product label and contact times ranging from 2 to 4 hours.
+
+
+
+
+                                                                                                                      37
+     Unclear product labelling and use instructions. Consistent with the findings of Murray et al. (2014), unclear use
+     instructions and product labelling were observed in two products. This may lead to confusion, possible misuse
+     and underperformance of products.
+     1.3.3 Interpretation of evaluation results
+     Products that meet 3-star (       ) or 2-star ( ) performance targets are classified as providing Comprehensive
+     protection against the three main classes of pathogens which cause diarrhoeal disease in humans. The use of
+     these products is encouraged where there is no information on the specific pathogens in drinking-water or where
+     piped supplies exist but are not safely managed.
+
+     Products that meet that meet the performance targets for at least 2-star ( ) for only two of the three classes
+     of pathogen are given one star ( ) and are classified as providing Targeted protection. In general, the use of these
+     products may be appropriate in targeted situations where the burden of diarrhoeal disease is high due to known
+     classes of pathogens. For instance, although chlorination is ineffective against protozoa, it is known to be effective
+     against bacteria and viruses. Thus, in a situation where the causative agent of disease is known, such as Vibrio
+     cholerae, chlorination can play an important role in improving the quality of water, and is widely used in cholera
+     outbreaks and other emergencies (Box 7). Given that cholera outbreaks are still frequent in many countries and
+     that there were an estimated 190,500 cases and 2,200 deaths in 2014 (WHO, 2015b), chlorine will continue to
+     serve an important role in such situations.
+
+
+
+          BOX 7
+          Household water treatment in emergencies
+
+          Safe drinking-water is an immediate priority in most
+          emergencies, and HWT can be an effective emergency
+          response intervention. Common water treatment options in
+          emergencies include chlorine tablets and solutions, boiling
+          promotion and safe storage. However, a number of key
+          elements should be considered when implementing HWT
+          in emergencies. These include having a selection of HWT
+          options available, user training and materials necessary
+          to use the treatment options, obtaining local registration
+          of HWT products and user knowledge and acceptability of
+          chlorine dosage.
+          Lantagne and Clasen (2009)
+
+
+
+
+     1.3.4 Use of results in selecting HWT products
+     The results of the evaluation are intended to assist procurers in making informed purchases of these products.
+     It must be noted that the evaluation results presented in this report represent an initial step in decision-making.
+
+     In addition to microbiological performance, supply chains, cost, user preferences as well as user compliance
+     (correct and consistent use) are extremely important (Box 8). Regardless of the star rating, products need to
+     be used correctly and consistently in order to achieve health gains. Evidence suggests that products need to be
+     used at least 90 % of the time in order to achieve health gains from HWT (Brown and Clasen, 2012). A slightly
+     lower performing (e.g. 2-star) product that is used at least 90 % of the time to treat faecally-contaminated
+     water can provide several times more protection than a higher performing (e.g. 3-star) product that is used less
+     consistently (Brown and Clasen, 2012). Thus, given a choice between a product whose performance is classified
+     as 3-star versus one whose performance is classified as 2-star, the existing evidence points to the product with
+     the higher user compliance as the better choice.
+
+
+
+
+38   WHO International Scheme to Evaluate Household Water Treatment Technologies
+       BOX 8
+       Selecting HWT products
+
+       There is no single HWT product that is appropriate for all contexts. However, microbiological performance should be the first
+       consideration in product selection, followed by local contextual factors that influence correct and consistent use. These factors
+       include availability, cost, user preferences and behaviour. WHO is working with partners to develop specific resources and tools to
+       further guide product selection in this regard.
+
+
+
+
+1.4 Global distribution of products evaluated
+
+FIGURE 6
+Global reach of the HWT products evaluated in Round Ia
+
+
+
+
+a
+    Based on information provided by the manufacturer
+
+
+
+
+products evaluated                                      consumable                                      durable products
+in round i of the                                       disinfectant products                           including filters,
+scheme have a global                                    evaluated in round i of                         uv and solar
+reach, spanning                                         the scheme translate                            technologies translate
+close to                                                to close to                                     to close to
+
+60 countries
+(Figure 6)
+                                                        900 million
+                                                        individual tablets, sachets
+                                                                                                        1.7 million
+                                                                                                        individual tablets,
+                                                        and bottles distributed/                        sachets units distributed/
+                                                        procured in 2013/2014.                          procured in 2013/2014.
+
+
+
+
+                                                                                                                                             39
+40   WHO International Scheme to Evaluate Household Water Treatment Technologies
+2. Implications: supporting
+availability and scaling up of
+quality HWT and safe storage
+Globally, an estimated 1.1 billion people (30 % of households) in low- and middle-income countries report using
+household water treatment (HWT) and safe storage (WHO, 2014a). As Figure 7 shows, the practice is particularly
+common in the regions of the Western Pacific and South-East Asia.
+
+Boiling is the most commonly used method. Figure 7 also highlights that filtration is fairly common in the South-
+East Asian and Western Pacific regions, while chlorination is more common in the regions of the Americas and
+Africa (WHO, 2014a).
+
+A number of complimentary areas of work are necessary to ensure that quality HWT products are available and
+used by populations with unsafe drinking-water. The following section presents the findings of a rapid market
+assessment to understand use of HWT in key countries, including growth of particular technologies and national
+regulatory structures. This is followed by a discussion of key scaling up efforts to better monitor, target and
+understand the use of quality HWT.
+
+
+FIGURE 7
+Percentage of the population reporting HWT, by WHO region (WHO, 2014a)
+        Boiling       Filtration     Chlorination    Solar disinfection
+
+                 60
+
+
+
+
+                 40
+Percentage (%)
+
+
+
+
+                 20
+
+
+
+
+                 0
+                            Africa              Americas      Eastern Mediterranean   Europe   South-East Asia   Western Pacific   World
+
+
+
+2.1 Rapid market assessment
+In early 2015, WHO commissioned a rapid market assessment to identify HWT products that are currently
+on the market and could potentially be evaluated in Round II of the Scheme, and investigate the regulatory
+environment surrounding these products. Due to resource constraints, the market assessment was limited to
+the WHO regions of Africa, South-East Asia and the Western Pacific. The market assessment was based on a
+literature review and interviews with manufacturers of HWT products, implementing agencies (including non-
+governmental organizations) and national regulatory officials. In addition, field visits took place in three countries
+where there was an expressed need and capacity to strengthen HWT regulation and evaluation (Ethiopia, Ghana
+and Viet Nam).
+
+
+                                                                                                                                           41
+     2.1.1 Sub-Saharan Africa: Estimated use and regulation of HWT
+     The findings indicate that there is wide variation in HWT use among countries in the African region, ranging
+     from 4 % in the Democratic Republic of Congo to 49 % of the population in Rwanda (Annex 2). Consistent with
+     previous reports on HWT use (Rosa & Clasen 2010; WHO, 2014a), apart from boiling, chlorination remains the
+     most common method of treatment in Sub-Saharan Africa. Such chlorination is often associated with emergencies
+     and disease outbreaks. In areas where HWT use (typically chlorination) has been sustained this has been
+     largely as a result of focused social marketing efforts or driven by non-governmental organization intervention
+     programs. While both imported and locally manufactured filters are available, their use is not widespread. The
+     former are typically membrane, siphon1 or combination filters, while the local filters mainly comprise biosand2
+     and ceramic pot filters.
+
+
+
+          BOX 9
+          Strengthening regulation in Ethiopia
+
+          Under the umbrella of the ‘One WASH Programme’, which aims to achieve universal access to water, sanitation and hygiene (WASH),
+          the Government of Ethiopia has set a target to increase access to HWT and safe storage to 77 %, by 2015. However, with only an
+          estimated 9.1 % of the population reporting using HWT and safe storage, this target will not be achieved. Part of such efforts will
+          necessitate strengthening regulation which does not include performance testing and is limited in scope to assessing the constituents
+          of chlorine-based products. Other key areas that need addressing include product labelling, clear responsibilities among the different
+          Government laboratories, ministries and regulatory bodies, lessening the time and burden of registering new products and support
+          for use and evaluation of HWT in the field. WHO seeks to support Ethiopia in addressing a number of these issues and has started
+          with technical training of laboratories to assess performance.
+
+
+
+
+     The regulatory environment
+     The data reviewed for some of the countries suggests that while HWT products are regulated in some form, such
+     regulation is limited in scope. These findings confirm an earlier WHO survey of HWT policies and regulations
+     which found that of the 22 African countries that responded, only 50 % regulated HWT in any way and only 40 %
+     did any kind of microbiological testing (WHO, 2012). Among the countries that do regulate HWT technologies in
+     some form, such regulation is largely limited to chemical disinfectants and focused on the chemical constituents
+     rather than on performance and ability to remove pathogens of concern (Box 9 and 10).
+
+
+
+          BOX 10
+          Supporting implementation of a national HWT Strategy in Ghana
+
+          The Ghana National Strategy for Household Water Treatment and Safe Storage was launched in 2014, and seeks to reduce waterborne
+          disease and achieve health for all by 2025. To achieve this, the Strategy seeks to increase awareness and practice of HWT and safe
+          storage and facilitate use of appropriate and effective technologies (Republic of Ghana, 2014). A national HWT and safe storage
+          taskforce has been established to implement the strategy and facilitate the development of HWT performance standards, as well
+          as to develop certification and product labelling system to aid users in making informed purchasing choices. Currently, there is no
+          comprehensive microbiological performance testing and, like Ethiopia, chlorine regulation is done by the national food and drug
+          authority, while filters are reviewed by the national standards authority. WHO is working on developing a plan of action to support
+          Ghana on the identified priorities.
+
+
+
+     1 Siphon filters rely on gravity to force water through a ceramic filter element. The ceramic filter element is typically attached to a plastic tube or hose, and the siphoning
+       action pulls contaminated water through the filter and tube into a collection vessel.
+     2 Biosand filters use a combination of physical and biological mechanisms to remove microorganisms from drinking-water. The filter media comprises layers of sand and
+       gravel and a biological layer (schmutzdecke) through which contaminated water passes.
+
+
+
+
+42   WHO International Scheme to Evaluate Household Water Treatment Technologies
+2.1.2 Asia: Estimated use and regulation of HWT
+Of the eight countries reviewed within the South-East Asian and Western Pacific regions, HWT use ranges from
+8 % in Bangladesh to 87 % in Viet Nam (Annex 2). Boiling is, by far, the most common method of HWT, followed
+by filtration. The filter market has grown significantly in China, Vietnam (Box 11) and India (Box 12) in particular.
+
+
+
+     BOX 11
+     Rising filter markets and public-private partnerships in Viet Nam
+
+     While boiling is reportedly practiced by over 80% of the population, the use of filters has tripled over the past four years and is now
+     reportedly used in 17 % of households. The growth in the use of filters is attributed, in part, to an increased awareness and desire
+     by consumers for safer water through use of HWT. Additionally, the waiving of import taxes for products from certain South Asian
+     countries under the Regional Free Trade Agreement allows imported filters from countries like South Korea and China to be highly
+     competitive. In turn, filters are widely available in supermarkets and trade shops in urban and peri-urban areas. Key challenges are
+     the weak markets in remote areas, and achieving correct and consistent use of HWT. To address these challenges, the government
+     is working with key partners and stakeholders including UNICEF to promote Public Private Partnerships for HWT and safe storage
+     in remote rural Viet Nam.
+
+
+
+
+The regulatory environment
+As with the African countries reviewed, HWT regulation in Asian countries is generally weak. Among the
+seven countries reviewed, only two have a vetted and funded regulatory mechanism that is in place or is being
+established (Annex 3). There are some encouraging examples, however, where there is growing recognition of
+the need for regulation of products.
+
+
+
+     BOX 12
+     Consumer demand for HWT regulation in India
+
+     With the growth of the filter market in India, consumers are also demanding greater product safety and regulation. India recently
+     developed harmonized national HWT evaluation protocols, although product testing under these protocols is currently voluntary.
+     However, there is increasing pressure from consumer advocate groups that testing become mandatory to protect consumers from
+     spurious product claims.
+
+
+
+
+2.2 Scaling up use of quality assured HWT products
+Beyond verifying the microbiological performance of HWT products, a number of parallel efforts at the national
+level are necessary to ensure that potential health gains from HWT are realized. The three main priorities to
+support scaling up of quality assured HWT products are:
+
+• stronger and more comprehensive regulations;
+
+• increasing availability of quality HWT products; and
+
+• broader enabling environment support including use of targeted market approaches, smart subsidies, and
+  consumer understanding and behaviour change1.
+
+1 These priorities were discussed and agreed to at a WHO HWT and safe storage strategic meeting held in March 2015 in Netherlands. The meeting report can be
+  downloaded here: http://www.who.int/household_water/scheme/applicant/en/
+
+
+
+
+                                                                                                                                                               43
+     Much of this work is being undertaken in partnership with a range of stakeholders, including the participating
+     organizations of the WHO/UNICEF International Network on Household Water Treatment and Safe Storage
+     (Box 13).
+
+
+
+          BOX 13
+          WHO/UNICEF International Network on Household Water Treatment and Safe Storage: working to increase health
+          gains from HWTS
+
+          The Network brings together over 140 implementing agencies, donors, academics and governmental organizations in working
+          towards the common goal of protecting health through safe water. Among the many activities of the Network is communication
+          and knowledge exchange through webinars and online courses. One such course has been developed by the Swiss Federal Institute
+          of Aquatic Science and Technology with support from various Network partners, including WHO. The course can be accessed at:
+          www.coursera.org/course/hwts
+
+
+
+
+     2.2.1 Strengthening regulation
+     WHO is encouraging all Member States to fast-track certification of products that have been tested under the
+     Scheme. In addition, WHO is developing training packages and piloting their use with national laboratories in
+     conducting complimentary testing of HWT products, especially local ones that would not be tested under the
+     international Scheme (Box 14). Finally, WHO is working to develop best practice tools for assisting countries
+     in strengthening their regulatory structures, including improving the labelling of products to enable more
+     informed choice.
+
+
+
+          BOX 14
+          Strengthening testing of local products in Ethiopia
+
+          WHO is working with national laboratories in Ethiopia to strengthen the technical
+          capacity of laboratory staff in testing local HWT products, including testing against a
+          wider range of pathogens and exploring a variety of candidate microbes under different
+          environmental conditions and technologies to support simple protocol development.
+          The first of these training workshops was conducted in August 2015, and the modules
+          can be accessed at: http://www.who.int/household_water/scheme/en/
+
+
+
+
+     2.2.2 Increasing availability of quality HWT products
+     Increasing access to quality HWT products involves both reducing the costs and time of importing internationally
+     recognized products and improving the quality of locally manufactured products. In some situations, such as
+     conflict zones or after natural disasters, locally procured products may be the only option. Such products are
+     largely filters (ceramic, mineral pot and biosand) but may also include others such as flocculant-disinfectants
+     and sodium hypochlorite solutions. The performance of such local products can vary widely depending on the
+     manufacturing process (Box 15). Thus, WHO is working to understand the key variants affecting performance
+     and strengthening quality assurance and quality control at local manufacturing plants through implementation
+     of best manufacturing practices checklists and frequent spot-check testing of products. This involves working
+     with partners such as the Ceramics Manufacturing Working Group and the Centre for Affordable Water and
+     Sanitation Technology and its partners.
+
+
+
+
+44   WHO International Scheme to Evaluate Household Water Treatment Technologies
+Increasing access also involves understanding where, and by whom, HWT is used and better targeting of
+resources. To support field monitoring and use of monitoring data to improve programme implementation,
+WHO and UNICEF developed a toolkit which provides an overall framework for planning, conducting, and
+utilizing monitoring and evaluation to inform smarter HWT and safe storage implementation. The focus of the
+toolkit (WHO/UNICEF, 2012a) is on easily assessed measures of use that can be done through observation and
+chlorine residual assessments. WHO is working with partners in the aforementioned Network to implement
+and share results from use of the toolkit. In addition, WHO is exploring how to establish national consumer
+feedback mechanisms to facilitate collection and action on information regarding the ongoing performance of
+HWT products.
+
+
+
+   BOX 15
+   Strengthening manufacture of quality local products
+
+   Locally manufactured technologies are often difficult to evaluate in a global scheme
+   because of variability in manufacturing processes, materials used, etc. Evaluating the
+   performance of biosand filters (BSFs) presents a particular challenge due to the relatively
+   long period required for pre-conditioning prior to testing. Therefore, while BSFs have not
+   been evaluated in Round I of the Scheme, they are an important HWT option to consider.
+   Health impact studies have found that BSFs generally reduce diarrhoea (Fabiszewski de
+   Aceituno et al., 2012; Stauber et al., 2011; Tiwari et al., 2009; Sobsey et al., 2008). WHO is
+   working with the Centre for Affordable Water and Sanitation Technology and its partners
+   to develop a quality management process for the local production and installation of BSFs
+   worldwide. Some of the activities include developing a process to validate the competency
+   of filter technicians, standardizing sand selection through sand sieve analysis and flow
+   rate control (Davis et al., 2013).
+
+
+
+
+2.2.3 Supporting the broader enabling environment
+WHO is engaging with partners who continue to innovate and learn about how to segment the market to reach
+particular groups, when and where to provide subsidies (defined in Box 16), and how to better understand consumer
+needs and reflect this understanding through improved design, user support and communication of HWT benefits.
+
+Among the key partners in this area are Antenna Technologies and Aqua for All, who are working on mechanisms
+to provide safe water to the poor in a sustainable and affordable manner through innovative HWT and safe
+storage products, and building on user experiences and satisfying user aspirations for convenience, status and
+aesthetics. Such market innovation starts with suitable products whose effectiveness has been verified and relies,
+also, on market creation (from sales, retail and sustainable supply chain) that would serve poor populations and
+promote consistent and correct use of the products. For example, in Conakry in the Republic of Guinea, Antenna
+Technologies has been supporting widespread production of sodium hypochlorite flasks in both urban and rural
+areas. Collaboration with last mile delivery companies has enabled access to fairly remote areas and, through
+social marketing, approximately 3.5 million flasks are delivered to five provinces each year.
+
+
+
+   BOX 16
+   Smart subsidies in HWT
+
+   Smart subsidies are all subsidies that enhance the markets and do not undercut the profitability of the supply chain – especially the
+   last mile delivery. They include financing through public-private partnership, social marketing campaigns that create markets but
+   do not hamper them, support for research and development, micro-credits, etc.
+
+
+
+
+                                                                                                                                           45
+     At a business level, support and innovative financing are important in increasing access to treatment products,
+     e.g. through research and development support, field studies, and social marketing and smart subsidies. Strong
+     enabling environments are critical in order for these approaches to successfully reach significant scale. This
+     requires engagement and clear division of roles between governments and key partners (Heierli and Osborn,
+     2014) to ensure that effective, affordable and appropriate HWT options become available and that solutions
+     are delivered and used sustainably.
+
+     Governments can play a key role in developing and implementing national HWT and safe storage policies and
+     programmes, which are vital for raising awareness and providing the impetus to take action and induce behaviour
+     change (Box 17). The private sector and implementing agencies are critical for delivering the solutions, be it
+     through sale of water treatment products or the last mile delivery in the poorest most disadvantaged households.
+
+
+
+          BOX 17
+          Supporting countries in creating enabling environments for HWT and safe storage
+
+          Supporting countries in developing and
+          implementing national HWT and safe
+          storage policies and programmes is critical
+          for raising government awareness and
+          providing the impetus to take action. The
+          Network has been assisting in such efforts
+          through regional integration and policy
+          strengthening workshops. Since Phase II
+          of the Network (2011 to date), five regional
+          workshops have been held in East, West
+          and Southern Africa, and South and South-
+          East Asia, involving almost 20 countries.
+          These workshops bring together officials
+          from the ministries of health and water as
+          well as implementers, manufacturers and researchers to exchange ideas and solutions for scaling-up and sustaining HWT and safe
+          storage. One notable outcome from these workshops has been the establishment of national policies on HWT and safe storage by
+          various countries, including Ghana, Kenya and Tanzania.
+
+
+
+
+46   WHO International Scheme to Evaluate Household Water Treatment Technologies
+3. Conclusion and lessons
+learned
+T
+      he findings of Round I highlight three important points. First, a number of products were found to meet WHO
+      recommended performance criteria. Second, not all products perform equally and there are several instances
+      of overstatement of claims and unclear use instructions which may mean such products have limited or
+no public health benefit. Third, many low-income countries have limited capacity to verify performance claims
+or effectively regulate the sale and distribution of products. However, as highlighted from findings of the market
+assessment, there are countries such as Ghana, Ethiopia and Viet Nam showing strong interest in strengthening
+regulation, In addition, many HWT partners are working to support enabling environment issues on market
+development, smart subsidies, consumer understanding and behaviour change to ensure HWT products reach
+and are used by those that need them the most. Only once all the elements of effective HWT are achieved will
+the ultimate goal of significantly reducing the burden of disease attributable to unsafe drinking–water be met.
+
+Lessons learned from Round I of the Scheme include balancing the goals of technical rigour, programme efficiency
+and financial viability. In response, WHO has worked to simplify the testing protocols, to reduce testing costs
+and better support use of similar protocols in developing countries, all with the view to allow more products to
+be tested. At the national level, WHO is focusing on sensitizing governments to the broader goals of reducing
+health risks associated with drinking-water and translating the recommendations in the WHO GDWQ into
+actionable strategies, targets and community efforts.
+
+
+
+
+                                                                                                                     47
+     References
+     Ashbolt NJ (2015). Microbial contamination of drinking water and human health from community water systems.
+     Current Environ. Health Rep. 2: 95-106 (http://link.springer.com/article/10.1007/s40572-014-0037-5 accessed 25
+     November 2015).
+     Brown J, Clasen T (2012). High adherence is necessary to realize health gains from water quality interventions. PLoS
+     ONE. 7:5, e36735. doi:10.1371/journal.pone.0036735
+     Brown J, Sobsey MD (2012). Boiling as household water treatment in Cambodia: a longitudinal study of boiling practice
+     and microbiological effectiveness. Am J Trop Med Hyg. 87:394-8.
+     Davis S, Cantwell R, Ngai TKK, Foran M, Baker D, Mills O (2013). Biosand Filters – The Importance of Flow Rate and
+     Sand Size on Filter Performance. Proceedings: the 36th WEDC International Conference. Nakuru, Kenya. July 1-5, 2013.
+     Fabiszewski de Aceituno AM, Stauber CE, Walters AR, Meza Sanchez RE, Sobsey MD (2012). A randomized controlled
+     trial of the plastic-housing BioSand filter and its impact on diarrheal disease in Copan, Honduras. Am J Trop Med Hyg.
+     86: 913-21.
+     Heierli U, Osborn P (2014). Going to scale with safe water – what changes are needed to remove the barriers to scale?
+     Discussion paper for 300 in 6 (http://www.300in6.org/wp-content/uploads/2014/06/Going-to-scale-with-safe-
+     water_Urs-Heierli_Paul-Osborn.pdf, accessed 30 September 2015).
+     Kotloff KL, Nataro JP, Blackwelder WC, Nasrin D, Farag TH, Panchalingam S et al. (2013). Burden and aetiology of
+     diarrhoeal disease in infants and young children in developing countries (the Global Enteric Multicenter Study, GEMS):
+     a prospective, case-control study. Lancet. 382: 209-222.
+     Lantagne D, Clasen T (2009). Point of use water treatment in emergency response. London School of Hygiene and
+     Tropical Medicine: London (http://pdf.usaid.gov/pdf_docs/PNADS134.pdf, accessed 30 September 2015).
+     Luby SP, Halder AK, Huda TM, Unicomb L, Islam MS, Arnold BF, Johnston RP (2015). Microbiological contamination
+     of drinking water associated with subsequent child diarrhea.Am J Trop Med Hyg. 93(5), 904-911.
+     Madsen RE, Meltzer TH, Jornitz MW. (2010). How pore and fibrous interstice structure influence filter performance.
+     BioProcess International.
+     Malawi Bureau of Standards (2015). Catalogue of Malawi Standards. Blantyre: Malawi Bureau of Standards (http://
+     www.mbsmw.org/index.php/mbs-publications/25-malawi-standards-catalogue-2015, accessed 2 October 2015).
+     Murray A, Pierre-Louis J, Joseph F, Sylvain G, Patrick M, Lantagne D. (2014). Need for certification of household water
+     treatment products: Examples from Haiti. Trop Med Int Health. 20: 462-470.
+     Olokun A (2013). HWTS implementation in Nigeria. Presentation at the Regional workshop on household
+     water treatment and safe storage in West Africa. Accra, Ghana; 2013 (http://www.who.int/household_water/
+     resources/2013AccraReport_Final_forposting.pdf?ua=1, accessed 30 September 2015).
+     Republic of Ghana (2014). National Strategy for Household Water Treatment and Safe Storage. Accra: Ministry of
+     Local Government and Rural Development.
+     Roberts L, Chartier Y, Chartier O, Malenga G, Toole M, Rodka, H (2001). Keeping clean water clean in a Malawi refugee
+     camp: a randomized intervention trial. Bull World Health Organ.79: 280-287
+     Rosa G, Clasen T (2010). Estimating the scope of household water treatment in low- and medium-income countries.
+     Am J Trop Med Hyg. 82: 289–300.
+     Rosa G, Huaylinos ML, Gil A, Lanata C, Clasen T (2014). Assessing the consistency and microbiological effectiveness
+     of household water treatment practices by urban and rural populations claiming to treat their water at home: a case
+     study in Peru. PLoS One. 9(12): e114997 (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0114997,
+     accessed 30september 2015)
+     Rosenboom JW (2010). HWTS technologies performance verification, Cambodia. Presentation at Water and Health
+     Conference, UNC, Chapel Hill, USA.
+     Rowe R (2012). Household water treatment and safe storage in Malawi: A preliminary consultative study (http://
+     www.300in6.org/wp-content/uploads/2014/06/Rowe-Malawi-HWTS-Preliminary-Consultative-Study-Final.pdf,
+     accessed 30 September 2015).
+
+48   WHO International Scheme to Evaluate Household Water Treatment Technologies
+Sobsey MD, Stauber CE, Casanova LM, Brown JM, Elliott MA (2008). Point of use household drinking water filtration:
+A practical, effective solution for providing sustained access to safe drinking water in the developing world. Environ
+Sci Technol. 42: 4261-4267.
+South African Bureau of Standards (2006). South African National Standard: Point of use drinking water treatment
+units. Pretoria: Standards South Africa SANS 1865:2006 (https://law.resource.org/pub/za/ibr/za.sans.1865.2006.
+pdf, accessed 30 September 2015).
+Stauber CE, Printy ER, McCarty FA, Liang KR, Sobsey MD (2011). Cluster randomized controlled trial of the plastic
+BioSand water filter in Cambodia. Environ Sci Technol. 46: 722–728.
+The Ceramics Manufacturing Working Group (2011). Best practice recommendations for local manufacturing of ceramic
+pot filters for household water treatment, Ed. 1. Atlanta, GA, USA: CDC.
+Tiwari S-SK, Schmidt W-P, Darby J, Kariuki ZG, Jenkins, MW (2009). Intermittent slow sand filtration for preventing
+diarrhoea among children in Kenyan households using unimproved water sources: randomized controlled trial. Trop
+Med Int Health. 14: 1374-1382.
+Wen XH (2011). Household water filter: choose the right price and use a good cartridge. Quality Exploration 7: 48.
+WHO (2009).Water safety plan manual: Step-by-step risk management for drinking-water suppliers. Geneva: World
+Health Organization (http://apps.who.int/iris/bitstream/10665/75141/1/9789241562638_eng.pdf, accessed 30
+September 2015).
+WHO (2011a). Evaluating household water treatment options: health-based targets and microbiological performance
+specifications. Geneva: World Health Organization (http://www.who.int/water_sanitation_health/publications/2011/
+household_water/en/, accessed 30 September 2015).
+WHO (2011b). Guidelines for drinking-water quality, fourth edition. Geneva: World Health Organization (http://www.
+who.int/water_sanitation_health/publications/2011/dwq_guidelines/en/, accessed 30 September 2015).
+WHO (2012). Status of national household water treatment and safe storage policies in selected countries: Results
+of global survey and policy readiness for scaling up. Geneva: World Health Organization (http://www.who.int/
+household_water/WHOGlobalsurveyofHWTSPolicies_Final.pdf?ua=1, accessed 30 September 2015).
+WHO (2014a). Preventing diarrhoea through better water, sanitation and hygiene: Exposures and impacts in low-
+and middle-income countries. Geneva: World Health Organization; (http://www.who.int/water_sanitation_health/
+gbd_poor_water/en/, accessed 16 February 2015).
+WHO (2014b). Scheme harmonized testing protocol (July, 2014). Geneva: World Health Organization (http://www.
+who.int/household_water/scheme/HarmonizedTestProtocol.pdf?ua=1, accessed 30 September 2015).
+WHO (2014c). Procedure for evaluation: WHO International Scheme To Evaluate Household Water Treatment (HWT)
+technologies. Geneva: World Health Organization (http://www.who.int/household_water/scheme/HWT_Scheme_
+Procedure.pdf?ua=1, accessed 30 September 2015).
+WHO (2015a). Technical brief: boil water. Geneva: World Health Organization (http://www.who.int/water_sanitation_
+health/dwq/Boiling_water_01_15.pdf, accessed 30 September 2015).
+WHO (2015b). Weekly epidemiological record: cholera, 2014. Geneva: World Health Organization (http://www.who.
+int/wer/2015/wer9040.pdf?ua=1, accessed 13 November 2015).
+WHO/UNICEF (2012a). Toolkit to Monitor and Evaluate Household Water Treatment and Safe Storage. Geneva
+(http://www.who.int/household_water/resources/toolkit_monitoring_evaluating/en/, accessed 30 September 2015).
+WHO/UNICEF (2012b). Regional workshop for southern Africa on household water treatment and safe storage and
+integrated household-based environmental health interventions. Geneva (http://www.who.int/household_water/
+resources/2012MaputoReportFinalV2.pdf?ua=1, accessed 30 September 2015).
+WHO/UNICEF (2015a). WASH Post-2015. Geneva (http://www.who.int/water_sanitation_health/monitoring/
+coverage/wash-post-2015-rev.pdf?ua=1/, accessed 30 September 2015).
+WHO/UNICEF (2015b). Progress on sanitation and drinking-water: 2015 update and MDG assessment. Geneva
+(http://www.who.int/water_sanitation_health/publications/jmp-2015-update/en/, accessed 30 September 2015).
+Zambian Bureau of Standards (2014). Catalogue of Zambian Standards 2014. Lusaka: Zambian Bureau of Standards
+(http://www.zabs.org.zm/downloads/CatalogueofZambianStandards2014.pdf, accessed 30 September 2015).
+Zhang R, Li HX, Wu XF, Fan FC, Sun BY, Wang ZS et al. (2009). Current situation analysis on China rural drinking
+water quality. J Environ Health 26: 3–5.
+
+
+
+
+                                                                                                                         49
+     Annexes
+
+     Annex 1: The Scheme evaluation procedure
+     Evaluation of HWT technologies under the Scheme is done according to harmonized protocols. The evaluation
+     may consider existing data, providing that such data have been generated by independent testing laboratories
+     using quality assurance protocols that are similar to those of the Scheme.
+
+
+     Initial screening of dossiers
+     Evaluation of HWT products under the Scheme is based on a voluntary submission of an EOI and product dossier
+     by manufacturers to WHO. The dossier contains supporting documents and information describing the product
+     and its specifications, its operation and maintenance, evidence of user uptake and strategies for reaching the
+     underserved and those most in need. Invitations to interested manufacturers to submit EOIs are published on
+     the WHO website and through various listservs. The criteria for manufacturers to be eligible to submit an EOI
+     are as follows:
+
+     • have an established manufacturing process for market-ready HWT products;
+
+     • provide evidence of compliance with ISO 9001:28 Quality management systems;
+
+     • use materials in their products for which the properties are well described in regards to their safety and
+       composition; and
+
+     • have developed robust and tested operation and use instructions, which are used as the basis for developing
+       product specific test plans.
+
+     Evaluation under the Scheme is fee-based, but with subsidies awarded by WHO subject to the availability of
+     funds. The criteria for determining whether a manufacturer is eligible for a subsidy are outlined in the Procedure
+     for Evaluation (WHO, 2014c). Priority products for evaluation under the Scheme are those that are low cost,
+     appropriate for low-income settings, generally ‘free-standing’ and do not require installation and which only
+     treat sufficient water to serve a limited number of individuals a day (as would be typically used in a household
+     or small public facility such as a tertiary healthcare centre). EOIs that meet these initial screening criteria are
+     selected for review by the Scheme Secretariat at WHO with input and advice from the IAC.
+
+
+     Dossier review
+     The dossier review seeks to determine whether HWT products meet the WHO performance recommendations,
+     and considers product data and information on safety, performance and user testing, as well as production and
+     quality control processes of their manufacture. Key criteria under consideration include the following:
+
+     • Do the existing laboratory data demonstrate that the product meets WHO microbiological performance
+       criteria for all three classes of pathogens?
+
+
+
+
+50   WHO International Scheme to Evaluate Household Water Treatment Technologies
+• Are the details of testing protocols used, and test methods comparable to those of the Scheme?
+
+• Is there sufficient evidence to demonstrate the independence of the testing laboratory and quality management
+  procedures employed?
+
+• Is there demonstrated uptake of the product (e.g. through field studies of acceptability or reported sales
+  volumes)?
+
+Depending on the extent to which the above-mentioned criteria are met, three possible recommendations on
+how a product will be evaluated may be made:
+
+1. full laboratory testing: criteria are not met, and testing against all three pathogen classes at one of the designated
+   testing laboratories of the Scheme is required; or
+
+2. abbreviated laboratory testing and desk review of existing data: criteria are partially met, and a combination of
+   testing against one or two of the pathogen classes at one of the designated testing laboratories of the Scheme
+   and review of existing data is required; or
+
+3. desk review of existing data only: the criteria are fully met, and no laboratory testing under the Scheme is
+   required1.
+
+WHO has developed technology-specific test protocols which are then adapted by the laboratories to create
+specific product needs and use requirements. WHO reviews these product specific protocols and shares them
+with the manufacturer for comment before testing commences.
+
+Considering the advice of the IAC, WHO communicates the outcome of the evaluation to the manufacturer. A
+list of all evaluated products and their performance level is published on the WHO website, including the relevant
+test protocols for each of the technology classes.
+
+
+The Scheme evaluation protocols
+The Evaluating household water treatment options: health-based targets and microbiological performance specifications
+(WHO, 2011a) provides guidance on the development of testing protocols for HWT. It is from this document
+that the Scheme harmonized and technology-specific testing protocols were developed (Figure A.1).
+
+The harmonized protocol outlines the general testing methods, including number of samples, characteristics
+of test waters, microbiological organisms, sampling points and reporting formats. However, a wide range of
+HWT technologies exist (e.g. chemical disinfectants; filtration devices, UV and solar disinfectants) and various
+parameters such as turbidity, temperature and contact time may influence their microbiological performance
+(WHO, 2011a). Therefore, based on this harmonized testing protocol, additional protocols that are specific to
+the various HWT technologies have been developed that take such factors into account2. Finally, from these
+technology-specific testing protocols, the testing protocol for products within the respective technology classes
+are developed in accordance with the product use instructions.
+
+
+
+
+1 Several products evaluated in Round I have been on the market for some time and had already undergone extensive testing. Thus, evaluation of these products consisted
+  of reviews of existing data only. It is however anticipated that future evaluations of other products will require some testing.
+2 The harmonized and technology-specific testing protocols can be found on: http://www.who.int/household_water/scheme/applicant/en/
+
+
+
+
+                                                                                                                                                                          51
+     FIGURE A.1
+     Overview of the Scheme testing protocols
+
+
+
+
+                                    100
+
+
+                                    95
+                                             EVALUATING
+                                    75
+                                             HOUSEHOLD WATER
+                                    25       TREATMENT OPTIONS:
+                                    5
+
+
+                                    0
+                                             Health-based targets and
+                                             microbiological performance
+                                             specifications
+
+
+
+
+                                                                                        Harmonized testing
+                                                                                             protocol:
+                                                                                       Non-technology specific
+
+
+
+
+                                                                                        Technology specific                                Technology specific
+                       Technology specific
+                                                                                          testing protocol:                                  testing protocol:
+                         testing protocol:
+                                                                                        Gravity-fed membrane                                Solar (UV and heat)
+                       Chemical disinfectants
+                                                                                                filters                                        disinfectants
+
+
+
+
+                         Testing protocol:                                                Testing protocol:                                  Testing protocol:
+                            Product A                                                        Product B                                          Product C
+
+
+
+
+     Test organisms
+     The reference organisms of the Scheme were selected on the basis of a number of key technical and practical
+     considerations (Table A.1), including evidence of their role and significance in disease prevalence, availability
+     of QMRA data on dose-response relationships in humans and disease burden, sensitivity to HWT treatment
+     processes, cost of purchasing the pathogens for laboratory testing and ease of handling of the pathogens by
+     laboratory staff.
+
+     TABLE A.1
+     Test organisms of the Scheme
+
+      Pathogen class                      Organism                                                        Key considerations in HWT evaluation
+      Viruses                    MS2 and phiX174                           • Extensively used surrogates for human viruses
+                              (human viral surrogates)                     • Wide variety of characteristics, resulting in varying susceptibilities to treatment
+                                                                           • Susceptibility to different disinfectants is well characterized
+      Bacteria                     Escherichia coli                        • Well characterized indicator of faecal contamination; frequently found in untreated source waters
+                             (faecal indicator organism)                   • Microbial class most sensitive to disinfection
+      Protozoa                Cryptosporidium parvum                       • Relatively resistant to chemical disinfectants such as chlorine, but sensitive to UV irradiation
+                                oocysts (pathogen)                         • Readily removed by physical processes such as filtration
+
+
+
+52   WHO International Scheme to Evaluate Household Water Treatment Technologies
+In choosing the two virus surrogates, MS2 and phiX174, consideration was given to the wide variety of different
+viruses’ resistance to potential treatment processes (given that viruses vary greatly in terms of size), isoelectric
+points, type of nucleic acid, presence of lipids and the structure of the proteins in the capsid. Additionally, some
+treatment systems have more than one mechanism that would remove/inactivate viruses. For example, a filtration
+system (activated carbon) may be combined with a UV light system. Some viruses may be more easily removed
+by adsorption to the activated carbon than others, and others may be more resistant to the UV light. For these
+reasons and as non-pathogenic microorganisms are preferred, two bacteriophages with differing characteristics
+and responses to treatment processes are used in the assessment of the performance of HWT products, and
+the virus performance claim is based on the poorest log reduction of the two.
+
+Ideally, surrogates would be chosen for all classes as they are easier and cheaper to use and can more easily be
+applied to capacity building efforts; two important considerations for making the protocol accessible to range of
+laboratories. However, at this time, there is insufficient evidence to support selecting surrogates for all classes
+of pathogens. WHO will continue to review the evidence with the aim of simplifying the testing protocols.
+
+
+Test waters
+Testing under the Scheme is intended to model, as far as possible, the variety of conditions under which HWT
+products are used, including the quality of source waters. Products are evaluated are against two types of test
+waters: general test water representing high quality groundwater or rainwater and the non-aggressive phase of
+testing; and challenge test water with more aggressive water specifications generally representative of surface
+water (Table A.2).
+
+The distinguishing characteristics for these two waters are the specifications for total residual chlorine, pH,
+turbidity, temperature, total dissolved solids, total organic carbon and alkalinity1. The general test water is not
+technology-specific, and is the same for all products. The challenge test water, however, is based on the product’s
+technology.
+
+
+TABLE A.2
+Characteristics of general and challenge test waters
+                                                                                                    Specification
+ Constituent                                                           General test water                                    Challenge test water
+ Chlorine (mg/L)                                                              < 0.05                                                < 0.05
+ pH                                                                          7.0 ± 0.5                                      Technology dependent
+ Total organic carbon (mg/L)                                            1.05 ± 0.95 mg/L                                          15 ± 5 mg/L
+ Turbidity (NTU)                                                             < 1 NTU                                             40 ± 10 NTU
+ Temp (°C)                                                                   20 ± 3 C
+                                                                                    o
+                                                                                                                            Technology dependent
+ Total dissolved solids (mg/L)                                           275 ± 225 mg/L                                        1500 ± 150 mg/L
+ Alkalinity (mg/L as CaCO3)                                              100 ± 20 mg/L                                          100 ± 20 mg/L
+Adapted from the Scheme Harmonized Testing Protocol (WHO, 2014b)
+
+
+
+
+1 Details of the test water specifications for each technology can be found on: http://www.who.int/household_water/scheme/applicant/en/
+
+                                                                                                                                                    53
+     Annex 2: Overview of reported use of HWT in selected countries
+     in Sub-Saharan Africa and Asia
+
+     TABLE A.3
+     Use of HWT in selected countries – Sub-Saharan Africa
+      Country                                   Proportion of households reporting HWT use              Estimated population reporting HWT use (in thousands)
+      Democratic Republic of Congo                                        4%                                                          2,488
+      Ethiopia                                                            9%                                                          7,926
+      Ghana                                                               9%                                                            2,111
+      Kenya                                                             45 %                                                         18,205
+      Malawi                                                            28 %                                                          3,348
+      Mozambique                                                          11 %                                                        2,684
+      Nigeria                                                             5%                                                          7,826
+      Rwanda                                                            49 %                                                          5,277
+      Sudan                                                               4%                                                          1,462
+      Uganda                                                            47 %                                                         15,906
+      Tanzania                                                          36 %                                                         16,235
+      Zambia                                                            34 %                                                         4,520
+     Data taken from the most recent country-level multiple indicator cluster survey or demographic and health survey.
+
+
+
+
+     TABLE A.4
+     Use of HWT in selected Asian countries
+
+      Country                                   Proportion of households reporting HWT use              Estimated population reporting HWT use (in thousands)
+      Bangladesh                                                          8%                                                          11,637
+      Cambodia                                                           74 %                                                        10,673
+      China                                            85 % of the rural population boil and                                   1,155,848 (boiling)
+                                                     3–5 % of the urban population use filters                                67,991 (5 % filter use)
+      India                                                              33 %                                                      397,856
+      Indonesia                                                         70 %                                                        168,714
+      Myanmar                                                            35 %                                                         17,916
+      Nepal                                                              14 %                                                          2,134
+      Viet Nam                                                           87 %                                                        77,382
+     Data taken from the most recent country-level multiple indicator cluster survey or demographic and health survey, Zhang et al. 2009 and Wen, 2011.
+
+
+
+
+54   WHO International Scheme to Evaluate Household Water Treatment Technologies
+Annex 3: Overview of the regulatory environment for HWT
+This annex outlines provides an overview of HWT reported use and the policy and regulatory environment for
+countries reviewed in Sub-Saharan Africa (Table A.5) and Asia (Table A.6). Countries were assessed along five
+key policy and regulation elements that included:
+
+• inclusion of HWT and safe storage in national policies;
+
+• mandatory regulation of chlorine based HWT technologies;
+
+• mandatory regulation of non-chlorine based HWT technologies (e.g. filters);
+
+• availability of HWT standards and/or certification of HWT technologies; and
+
+• committee/ structure in place at the national level to guide HWT coordination within the country.
+
+These criteria were drawn from a global survey report (WHO, 2012) that assessed countries based on criteria
+for policy readiness in scaling up HWT. Countries were categorized into three tiers: those with four to five of the
+above-mentioned elements in place were considered in tier 1, those with three elements were categorized as
+tier 2, and those with less than three elements were categorized as tier 3.
+
+
+TABLE A.5
+Overview of the regulatory environment for HWT in selected countries in Sub-Saharan Africa
+ Country                                                                       HWT Regulation
+                                                                                     Tier 1
+ Democratic Republic of   HWT and safe storage is included in national policies and products are regulated. There is a committee/ structure in place
+ Congo                    for HWT coordination (WHO, 2012).
+ Ethiopia                 Chemicals are regulated by the Ethiopian Food, Medicine, Health Care Administration, while filters are unregulated. HWT
+                          and safe storage is included in national policies and a committee/ structure is in place for HWT coordination (WHO, 2012).
+ Ghana                    A HWT strategy has been published with government and private partner roles defined. Ghanaian law does not include
+                          regulation of HWT products, however, chemicals are regulated by the Food & Drug Administration. A working group is in
+                          place to develop a comprehensive regulatory approach for HWT.
+ Kenya                    HWT and safe storage is included in national policies and products are regulated (WHO, 2012) by Kenya Bureau of Standards
+                          (KEBS). However, KEBS’s capacity to test and regulate products is limited, given the volume of products coming into the
+                          country (Kariuki, personal interview, 2015a). Due to porous borders, there are unaccredited HWT products on the market. A
+                          HWT and safe storage technical working group is in place to develop a regulatory approach for HWT and to draft monitoring
+                          and evaluation guidelines.
+ Tanzania                 HWT and safe storage is included in national policies, and a committee/ structure is in place for HWT coordination (WHO,
+                          2012). Tanzania Standards Bureau certifies HWT and safe storage products and technologies (voluntary standards). Proctor
+                          & Gamble and Population Services International note a requirement for registration of products before distribution.
+ Uganda                   HWT and safe storage is included in national policies, and a committee/ structure is in place for HWT coordination
+                          (WHO, 2012). Mandatory standards (US 201:2008) for water treated by conventional methods (filtration, chlorination,
+                          sedimentation) are provided by the Uganda National Bureau of Standards.
+                                                                                     Tier 2
+ Mozambique               HWT and safe storage is included in national policies (WHO, 2012) and all products coming into the country are noted as
+                          being evaluated by the Ministry of Health (WHO/UNICEF, 2012b).
+ Nigeria                  HWT products are reported as being regulated by the Federal Ministry of Health (Olokun, 2013). Standards/ certification are
+                          available and a committee/ structure is in place for HWT coordination (WHO, 2012).
+ Rwanda                   HWT and safe storage is included in national policies, with HWT standards/ certification and a committee/ structure in place
+                          for HWT coordination (WHO, 2012).
+ Sudan                    HWT and safe storage is included in national policies, with HWT standards/ certification and a committee/ structure in place
+                          for HWT coordination (WHO, 2012).
+ Zambia                   Zambia Bureau of Standards (2014) has specifications for chlorine disinfectants for household water treatment. HWT and
+                          safe storage is included in national policies with a committee/ structure in place for HWT coordination (WHO, 2012).
+
+
+                                                                                                                                                         55
+         Country                                                                                   HWT Regulation
+                                                                                                          Tier 3
+         Malawi                             HWT is implied by national policies though not explicitly stated (Rowe, 2012). The Catalogue of Standards developed by the
+                                            Malawi Bureau of Standards includes standards regarding control and surveillance of drinking-water networks and bottled
+                                            water but does not include criteria for water treatment products (Rowe, 2012, Malawi Bureau of Standards, 2015).
+         South Africa                       HWT and safe storage is not included in national policies and there is no standing committee in place for coordination
+                                            of HWT (WHO, 2012). Requirements for drinking-water treatment units to meet microbiological and other standards are
+                                            specified (South African Bureau of Standards, 2006).
+     a
+         John Kariuki, Chief Public Health Officer, Ministry of Health, Kenya (retired)
+
+
+
+
+     TABLE A.6
+     Overview of the regulatory environment for HWT in selected countries in Asia
+         Country                                                                                   HWT Regulation
+                                                                                                          Tier 1
+         India                              HWT specific testing standards for chemicals and filters were issued February, 2015. Currently, standards are voluntary,
+                                            though advocacy groups and WASH stakeholders are working towards making testing and certification mandatory
+                                            (Labhastewara, personal interview, 2015). The Bureau of Indian Standards provides product certification.
+         Viet Nam                           HWT and safe storage is included in national policies. Chemical disinfectants are regulated by Ministry of Health. Standards/
+                                            certification are available for HWT and safe storage technologies, and a committee/ structure is in place for HWT
+                                            coordination.
+                                                                                                          Tier 2
+         Bangladesh                         HWT and safe storage is included in Bangladesh WSP. The Bangladesh Standards and Testing Institution provides voluntary
+                                            certification and a committee/ structure is in place for HWT coordination (WHO, 2012).
+         Cambodia                           Cambodia reports that HWT policies are included in national policies and a committee/ structure is in place for HWT
+                                            coordination. There is no mandatory regulation of HWT products or certification standards (WHO, 2012) but standards are in
+                                            the process of being finalized for HWT and safe storage technologies (Rosenboom, 2010).
+         Indonesia                          HWT and safe storage is included in national policies with a committee/ structure in place for HWT coordination (WHO,
+                                            2012). Flocculant-disinfectants such as P&G Purifier of Water are registered with the government.
+                                                                                                          Tier 3
+         Myanmar                            No information on regulation of HWT products, inclusion in national policies, or standards for HWT technologies could be
+                                            found.
+         Nepal                              Nepal reports HWT policies are included in national policies and a committee/ structure is in place for HWT coordination.
+                                            There is no mandatory regulation of HWT products or certification standards (WHO, 2012).
+     a
+         Pawan Labhastewar, Principal Scientist, National Environmental Engineering Research Institute, India
+
+
+
+
+56   WHO International Scheme to Evaluate Household Water Treatment Technologies
+ILLUSTRATION AND PHOTO CREDITS
+Illustrations on pages 14, 16, 18, 20, 22, 24: Margot Steiner
+Page viii: WaterAid/ Tom Greenwood
+Page 6: KWR WaterCycle Research Institute
+Page 12: KWR WaterCycle Research Institute
+Page 28: Wendy Stone
+Page 32: © UNICEF/UNI187625/Khuzaie
+Page 34: WaterAid/Ravi Mishra
+Page 38: WHO Ethiopia
+Page 39: Centre for Affordable Water and Sanitation Technology (CAWST)
+Page 40: WHO Ghana
+Page 41: © UNICEF/UNI182440/Schermbrucke
+
+
+
+
+                                                                         57
+For more information, contact:
+Water, Sanitation, Hygiene and Health Unit
+Department of Public Health, Environmental
+and Social Determinants of Health
+World Health Organization
+20, avenue Appia                                 ISBN 978 92 4 150994 7
+1211 Geneva 27
+Switzerland
+http://www.who.int/water_sanitation_health/en/
+http://www.who.int/household_water/scheme/en/
+hhwater@who.int
+

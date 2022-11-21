@@ -1,0 +1,22 @@
+                                               Fresh Water            Salt Water           Human Health
+ CAS j               Parameter             Acute      Chronic      Acute     Chronic   Organisms    Water &
+                                                                                         Only      Organisms
+  58899   gamma-BHC (Lindane)              0.95          0.08      0.16                   1.8        0.98
+7439921   Lead, Total Dissolved            30 b,e      1.18 b,e    210          8.1                   15
+7439976   Mercury (II), Total Dissolved    2.1e         0.012       1.8        0.025
+7439976   Mercury                                                                        0.153       0.151
+                                               b,e           b,e
+7440020   Nickel, Total Dissolved          260          29          75          8.3       4600        610
+ 108952   Phenol                             300         102       300          58      860000       10000
+  87865   Pentachlorophenol                 8.7 c       6.7 c      13 c        7.9 c       3.0        0.27
+          Total PCB                         0.02k      0.014k      1.0k        0.03k   0.000064k   0.000064k
+7782492   Selenium, Total Dissolved       11.8 a,e      4.6 e      290 e        71 e      4200        170
+7440224   Silver, Total Dissolved          0.98 b,f                 1.9                               100
+8001352   Toxaphene                         0.73       0.0002      0.21       0.0002    0.00028     0.00028
+7440666   Zinc, Total Dissolved             65 b,e      65 b,e      90          81       26,000      7,400
+
+
+
+
+                                                      174
+

@@ -1,0 +1,321 @@
+Basin
+
+Water
+Body
+Name
+
+Water
+Body
+Id
+
+County
+
+From Temple Rd to mouth at Leaf River
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+From headwaters to confluence with
+Monroe Creek
+
+Lamar
+
+Recreation
+
+Pathogens
+
+From headwaters to mouth at Black Creek
+
+Jefferson
+Davis
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+From confluence with Little White Sand
+Creek (Jaybird Creek) to mouth at Pearl
+River
+
+Wilkinson
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Homochitto
+River
+
+Franklin
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+Near Rosetta from headwaters to mouth at
+Homochitto River
+
+Lowndes
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+From headwaters to end near MWS 8207
+boundary
+
+Lowndes
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+From headwaters to mouth of Tombigbee
+River
+
+Prentiss
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Wolf
+Creek
+
+Kemper
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+From headwaters to mouth of Blackwater
+Creek
+
+Monroe
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Mill
+Creek
+
+Pontotoc
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+From headwaters to confluence with
+Chiwapa Creek
+
+Monroe
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+From headwaters to Aberdeen Lake
+
+Oktibbeha
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+From headwaters to MWS 8128 boundary
+
+Carroll
+
+Aquatic
+Life Use
+Support
+
+Biological
+Impairment
+
+From headwaters to MWS 9192 boundary
+
+Pascagoula
+River
+
+Black
+Creek
+
+418412
+
+Forest
+Jefferson
+Davis,
+Marion,
+Lamar
+
+Pascagoula
+River
+
+Sandy
+Run
+
+418613
+
+Pearl River
+
+White
+Sand
+Creek
+
+516111
+
+South
+Independent
+
+Beaver
+Creek
+
+South
+Independent
+
+Zeigler
+Creek
+
+Tombigbee
+River
+
+Black
+Creek
+
+Tombigbee
+River
+
+Greens
+Creek
+
+Tombigbee
+River
+
+Little
+Wolf
+Creek
+
+Tombigbee
+River
+
+Mineral
+Springs
+Branch
+
+Tombigbee
+River
+
+Minga
+Branch
+
+Tombigbee
+River
+
+Mubby
+Creek
+
+Tombigbee
+River
+
+Tadpole
+Creek
+
+Tombigbee
+River
+
+Talking
+Warrior
+Creek
+
+Yazoo
+River
+
+Pelucia
+Creek
+
+607811
+
+810013
+
+810312
+
+818812
+
+817312
+
+806612
+
+820011
+
+803112
+
+812711
+
+919311
+
+Location
+
+Biological
+Impairment
+
+Reese
+Creek
+
+608312
+
+Pollutant
+
+Aquatic
+Life Use
+Support
+
+Pascagoula
+River
+
+416212
+
+Impaired
+Use
+
+17
+
+

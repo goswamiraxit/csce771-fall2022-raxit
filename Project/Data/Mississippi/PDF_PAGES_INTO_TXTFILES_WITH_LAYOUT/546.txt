@@ -1,0 +1,40 @@
+              Water Body         Water                     Impaired
+    Basin                                    County                           Pollutant                        Location
+                Name            Body Id                      Use
+
+Tombigbee                                                 Aquatic Life                    At Steens from Alabama state line (including
+River       Luxapallila Creek   821611    Lowndes         Use Support     pH              tributary) to confluence with Yellow Creek
+
+Tombigbee                                 Lee,            Aquatic Life    Biological
+River       Mantachie Creek     801611    Itawamba        Use Support     Impairment      At Mantachie from headwaters to Hwy 371
+
+Tombigbee                                                 Aquatic Life    Biological
+River       Mcgee Creek         808913    Clay, Monroe    Use Support     Impairment      From headwaters to mouth at Tibbee Creek
+
+Tombigbee   Mineral Springs                               Aquatic Life    Biological
+River       Branch              817312    Kemper          Use Support     Impairment      From headwaters to mouth of Blackwater Creek
+
+Tombigbee                                                 Aquatic Life    Biological
+River       Minga Branch        806612    Monroe          Use Support     Impairment      From headwaters to confluence with Mill Creek
+
+Tombigbee                                                 Aquatic Life    Biological      At Columbus from headwaters to the Tombigbee
+River       Moore Creek         819611    Lowndes         Use Support     Impairment      River
+
+Tombigbee                                                 Aquatic Life    Biological
+River       Mubby Creek         820011    Pontotoc        Use Support     Impairment      From headwaters to confluence with Chiwapa Creek
+
+Tombigbee                                                 Aquatic Life    Biological      Near Columbus from headwaters to the Ten-Tom
+River       Oak Slush Creek     819612    Lowndes         Use Support     Impairment      Waterway
+
+Tombigbee                                                 Aquatic Life    Biological
+River       Okeelala Creek      801011    Prentiss, Lee   Use Support     Impairment      From headwaters to mouth at Twentymile Creek
+
+Tombigbee                                                 Aquatic Life    Biological
+River       Osborne Creek       800912    Prentiss        Use Support     Impairment      From headwaters to mouth at Twentymile Creek
+
+Tombigbee                                 Lee,            Aquatic Life    Biological      Near Mantachie from headwaters to mouth at
+River       Puncheon Creek      801613    Itawamba        Use Support     Impairment      Mantachie Creek
+
+
+                                                                         41
+

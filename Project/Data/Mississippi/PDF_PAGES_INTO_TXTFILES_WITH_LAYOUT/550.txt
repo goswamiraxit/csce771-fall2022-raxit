@@ -1,0 +1,40 @@
+                Water Body        Water                    Impaired
+    Basin                                     County                          Pollutant                        Location
+                  Name           Body Id                     Use
+
+              Fannegusha                                  Aquatic Life    Biological      Near Ituma from Carroll/ Holmes County line To
+Yazoo River   Creek              920911    Holmes         Use Support     Impairment      MWS 9211 boundary
+
+                                                          Aquatic Life    Biological      Near Oxford from headwaters to mouth at Yellow
+Yazoo River   Fourmile Branch    907211    Lafayette      Use Support     Impairment      Leaf Creek
+
+                                                          Aquatic Life    Biological
+Yazoo River   Hubbard Creek      933711    Tallahatchie   Use Support     Impairment      Near Tandy from headwaters to Southlake Bayou
+
+              James Wolf                                  Aquatic Life    Biological      From MWS 9106 boundary at Hwy 4 to mouth at
+Yazoo River   Creek              910512    Tate           Use Support     Impairment      Hickahala Creek
+
+              James Wolf                                  Aquatic Life    Biological
+Yazoo River   Creek              910611    Tate           Use Support     Impairment      From headwaters to MWS 9105 boundary at Hwy 4
+                                                                          Organic
+                                                          Aquatic Life    Enrichment/
+Yazoo River   Lake Beulah        990411    Bolivar        Use Support     Low DO          Entire lake near Beulah
+                                                                          Chlorides,
+                                                                          Organic
+                                                          Aquatic Life    Enrichment/
+Yazoo River   Lake Henry         938312    Leflore        Use Support     Low DO          Just South of Belzoni off Hwy 49W
+
+                                           Montgomery,    Aquatic Life    Biological      Near Duckworth from headwaters to confluence with
+Yazoo River   Little Bogue       916911    Webster        Use Support     Impairment      Caffee Branch
+
+                                                          Aquatic Life    Biological      From confluence with Caggee Branch to confluence
+Yazoo River   Little Bogue       917011    Montgomery     Use Support     Impairment      with Powell Creek
+
+                                           Montgomery,    Aquatic Life    Biological      From confluence with Powell Creek to Batapan
+Yazoo River   Little Bogue       917111    Grenada        Use Support     Impairment      Bogue
+
+              Little Coldwater                            Aquatic Life    Biological
+Yazoo River   Creek              909112    Marshall       Use Support     Impairment      From headwaters to confluence with Coldwater River
+
+                                                                         45
+

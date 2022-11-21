@@ -1,0 +1,60 @@
+           Water      Water
+                                               Impaired                                             Listing
+  Basin    Body       Body       County                       Pollutant          Location
+                                                 Use                                                Change
+           Name        Id
+                                                                                                  TMDL
+                                                                                                  developed by
+                                                                                                  MDEQ and
+                                                                                                  approved by
+                                                                            From headwaters to    EPA
+Yazoo     Ascalmore                           Aquatic Life   Biological     confluence of Shook   4/17/2008
+River     Creek       918411   Tallahatchie   Use Support    Impairment     Creek                 (908041701)
+                                                                            Near Water Valley
+                                                                            from headwaters to
+Yazoo     Bynum                               Aquatic Life   Biological     Enid Lake Flood       Waterbody
+River     Creek       907711   Panola         Use Support    Impairment     Pool                  Attaining Use
+                                                                                                  TMDL
+                                                                                                  developed by
+                                                                                                  MDEQ and
+                                                             Organic                              approved by
+                                                             Enrichment/                          EPA
+                                                             Low            From headwaters to    3/20/2020
+Yazoo     Beaver               Bolivar,       Aquatic Life   Dissolved      MWS 9360              (MS_Beaver_
+River     Bayou       935312   Sunflower      Use Support    Oxygen         Boundary              Bayou_DO)
+                                                                                                  TMDL
+                                                                                                  developed by
+                                                                                                  MDEQ and
+                                                             Organic                              approved by
+                                                             Enrichment/                          EPA
+                                                             Low            From MWS              3/20/2020
+Yazoo     Beaver               Bolivar,       Aquatic Life   Dissolved      Boundary 9020 to      (MS_Beaver_
+River     Bayou       936012   Sunflower      Use Support    Oxygen         MWS 9019              Bayou_DO)
+                                                                                                  TMDL
+                                                                                                  developed by
+                                                                                                  MDEQ and
+                                                                                                  approved by
+                                                                            Near Etta from        EPA
+Yazoo     Cypress                             Aquatic Life   Biological     MWS boundary          4/17/2008
+River     Creek       902111   Lafayette      Use Support    Impairment     9020 to MWS 9019      (908041701)
+                                                             Organic
+                                                             Enrichment /
+                                                             Low
+Yazoo     Eagle                               Aquatic Life   Dissolved      Entire lake near      Waterbody
+River     Lake        948812   Warren         Use Support    Oxygen         Eagle Bend            Attaining Use
+
+Yazoo     Eagle                               Aquatic Life   Total          Entire lake near      Waterbody
+River     Lake        948812   Warren         Use Support    Phosphorus     Eagle Bend            Attaining Use
+                                                                            From headwaters to
+Yazoo     Greasy               Lafayette,     Aquatic Life   Biological     mouth at Sardis       Waterbody
+River     Creek       904511   Panola, Tate   Use Support    Impairment     Lake                  Attaining Use
+                                                                                                  TMDL
+                                                                                                  developed by
+                                                                                                  MDEQ and
+                                                                                                  approved by
+          Skuna       914811                                                                      EPA
+Yazoo     River       914911                  Aquatic Life   Biological     From headwaters to    4/17/2008
+River     Canal       915011   Calhoun        Use Support    Impairment     MWS333                (908041701)
+
+                                               14
+

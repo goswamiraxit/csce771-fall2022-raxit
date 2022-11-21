@@ -1,0 +1,64 @@
+1.
+In the STREAM Model, sediment oxygen demand ("SOD") (mg/l/day) will be assumed
+to be 0.0. In WASP and other dynamic models, SOD rates may be used to calibrate the model.
+All values used for SOD rates will be within normal ranges found in the ecoregion being
+modeled.
+2.
+Where SOD rates have been determined or sludge blankets are known to exist, SOD will
+be incorporated in models.
+3.
+
+SOD rates in g/m2/day will be converted to mg/l/day according to the following equation:
+SOD =
+
+B(1000 mg / g )
+H (0.3048 meters / ft.) * (1000 liters / meter 3 )
+
+where:
+S
+= SOD rate in mg/l/day @ 20°C
+B
+= SOD rate in g/m2/day @ 20°C
+H
+= average reach depth in feet
+M.
+
+Wastewater Inputs
+
+1.
+The Department’s water quality model, STREAM uses first order kinetics to characterize
+ultimate CBOD decay. Once effluent limits are set using this model, CBOD5 will be determined
+for inclusion in the permit.
+2.
+The following ultimate CBOD to CBOD5 ratios will be used when actual data are not
+available.
+Wastewater
+Sanitary (mechanical secondary)
+Sanitary (advanced)
+Food Processing
+Meat/Poultry Processing
+Pulp/Paper
+Tannery
+Textile
+
+Ratio
+1.5
+2.3
+3.0
+2.5
+5.0
+3.0
+3.0
+
+3.
+Industries will be encouraged to provide actual ultimate CBODU and NBODU values for
+the wastewater under evaluation. The method of choice for determining these values will be the
+method outlined by NCASI in Ultimate Oxygen Demand (Biochemical), NE87-03.
+4.
+The model uses first order kinetics to characterize oxidizable nitrogen or NBODU decay.
+Wastewater inputs/outputs are NH3-N (as nitrogen). The value is converted to oxygen demand
+using the factor 4.57.
+
+101
+
+

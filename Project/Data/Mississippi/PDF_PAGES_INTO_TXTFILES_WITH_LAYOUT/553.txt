@@ -1,0 +1,26 @@
+                Water Body     Water                 Impaired
+    Basin                                  County                       Pollutant                       Location
+                  Name        Body Id                  Use
+
+              South Tippah                          Aquatic Life    Biological
+Yazoo River   Creek           902513    Tippah      Use Support     Impairment      From headwaters to mouth at Tippah River
+
+                                                    Aquatic Life    Biological
+Yazoo River   Spring Branch   941411    Holmes      Use Support     Impairment      From headwaters to mouth at Millstone Bayou
+              Unnamed
+              Tributary To
+              Little                                                                Near Pinedale from headwaters to confluence with
+              Tallahatchie                          Aquatic Life    Biological      Unnamed Tributary just downstream of County Road
+Yazoo River   River           901713    Union       Use Support     Impairment      46
+
+                                        De Soto,    Aquatic Life    Biological      Near Prichard from headwaters to Lake Comorant
+Yazoo River   Whites Creek    930111    Tunica      Use Support     Impairment      Bayou
+
+                                                    Aquatic Life    Biological
+Yazoo River   Yoda Creek      915414    Calhoun     Use Support     Impairment      From headwaters to mouth at Skuna River
+
+
+
+
+                                                                   48
+

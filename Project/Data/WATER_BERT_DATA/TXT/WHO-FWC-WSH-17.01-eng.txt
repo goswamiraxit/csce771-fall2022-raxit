@@ -1,0 +1,615 @@
+TECHNICAL BRIEF
+                                                                                                     WHO/FWC/WSH/17.01
+
+
+
+
+                  WATER QUALITY AND HEALTH -
+                  REVIEW OF TURBIDITY:
+                  Information for regulators
+                  and water suppliers
+1. Summary
+This technical brief provides information on the uses and significance of turbidity in drinking-water and is intended for regulators
+and operators of drinking-water supplies.
+
+Turbidity is an extremely useful indicator that can yield valuable information quickly, relatively cheaply and on an ongoing basis.
+Measurement of turbidity is applicable in a variety of settings, from low-resource small systems all the way through to large and
+sophisticated water treatment plants.
+
+Turbidity, which is caused by suspended chemical and biological particles, can have both water safety and aesthetic implications
+for drinking-water supplies. Turbidity itself does not always represent a direct risk to public health; however, it can indicate the
+presence of pathogenic microorganisms and be an effective indicator of hazardous events throughout the water supply system,
+from catchment to point of use. For example, high turbidity in source waters can harbour microbial pathogens, which can be
+attached to particles and impair disinfection; high turbidity in filtered water can indicate poor removal of pathogens; and an
+increase in turbidity in distribution systems can indicate sloughing of biofilms and oxide scales or ingress of contaminants through
+faults such as mains breaks.
+
+Turbidity can be easily, accurately and rapidly measured, and is commonly used for operational monitoring of control measures
+included in water safety plans (WSPs), the recommended approach to managing drinking-water quality in the WHO Guidelines
+for Drinking-water Quality (WHO, 2017). It can be used as a basis for choosing between alternative source waters and for assessing
+the performance of a number of control measures, including coagulation and clarification, filtration, disinfection and management
+of distribution systems.
+
+Turbidity is also an important aesthetic parameter, with turbidities of 4 nephelometric turbidity units (NTU) and above being visible,
+and affecting the appearance and acceptability of drinking-water to consumers.
+
+Although turbidity can be used in multiple ways within WSPs, this versatility can cause confusion and misinterpretation. Each of
+the relationships between turbidity and drinking-water quality is different and needs to be considered separately.
+                                                                                                                   Table 1. Summary of turbidity targets
+
+                                                                                                                    Location or process        Turbidity targets or
+                                                                                                                    step                       indicators of contamination       Notes                                                Monitoring frequency
+                                                                                                                    Source water
+                                                                                                                                               Rapid changes in source           May be an indication of pollution triggered by       The frequency of turbidity monitoring depends
+                                                                                                                                               water turbidity.                  environmental events (e.g. storms or fires) or       on variability in source water quality and
+                                                                                                                                                                                 anthropogenic activities (in both groundwater        flow (e.g. more variable source water should
+                                                                                                                                                                                 and surface-water catchments), or ingress            be monitored more frequently). Increased
+                                                                                                                                                                                 of contamination through groundwater                 monitoring is suggested in extreme events
+                                                                                                                                                                                 infrastructure.                                      such as heavy rainfall, to inform appropriate
+                                                                                                                                                                                                                                      corrective actions because turbidity can change
+                                                                                                                                                                                  Appropriate responses and corrective actions        very rapidly.
+                                                                                                                                                                                  should be identified in water safety plans
+                                                                                                                                                                                  (WSPs) for foreseeable events (e.g. adjust
+                                                                                                                                                                                  operation of treatment and disinfection
+                                                                                                                                                                                  processes, abstraction depth management,
+                                                                                                                                                                                  and diversion or avoidance of affected source
+                                                                                                                                                                                  waters). Unpredicted turbidity changes should
+                                                                                                                                                                                  be investigated to determine causes.
+                                                                                                                                               Turbidity changes over longer May indicate changes in the catchment which
+                                                                                                                                               time periods.                      should be investigated to inform appropriate
+                                                                                                                                                                                  corrective actions.
+                                                                                                                    Water treatment: The turbidity targets for large well-run municipal supplies in the disinfection section apply irrespective of the type of treatment processes
+                                                                                                                    applied. Technology-specific targets apply where filtration is used to achieve defined pathogen reductions (see below).
+                                                                                                                    Filtration (see Table 4    Direct and conventional            Consistent with:                                    In higher resource settings, the turbidity of
+                                                                                                                    for more details)          filtration: 0.3 nephelometric        1–2 log removal of viruses                      filtered water should typically be monitored
+                                                                                                                                               turbidity units (NTU) in 95%         2.5–3 log removal of Cryptosporidium and        continuously online, and the performance of
+                                                                                                                                               of measurements taken each             Giardia                                         individual filters should be monitored to optimize
+                                                                                                                                               month from combined filter                                                             filter performance. Where continuous monitoring
+                                                                                                                                               effluent, with none to exceed                                                          is not practised (e.g. in lower resource settings),
+                                                                                                                                               1 NTU.                                                                                 turbidity of filtered water should be monitored at
+                                                                                                                                               Diatomaceous earth and             Consistent with:                                    a frequency that will allow filtrate quality issues
+                                                                                                                                               slow sand filtration: ≤1 NTU         1–2 log removal of viruses                      to be detected in a timely fashion (e.g. minimum
+WATER QUALITY AND HEALTH - REVIEW OF TURBIDITY: INFORMATION FOR REGULATORS AND WATER SUPPLIERS • TECHNICAL BRIEF
+
+
+
+
+                                                                                                                                               in 95% of measurements               3 log removal of Cryptosporidium and            daily, but more frequent monitoring may be
+                                                                                                                                               of filtered water taken each           Giardia                                         required depending on the specific conditions –
+                                                                                                                                               month.                                                                                 for example, variability of source water quality
+                                                                                                                                                                                  Log10 removal values based on meeting defined and flow – and available resources). Periods
+                                                                                                                                                                                  operational turbidity targets                       of vulnerable operation (e.g. filter start-up,
+                                                                                                                                                                                                                                      ripening after backwash and end-of-filter
+                                                                                                                                                                                                                                      run) should be considered when developing
+                                                                                                                                                                                                                                      monitoring plans.
+                                                                                                                                               Membrane filtration                Can achieve 4–7 log removal of Cryptosporidium Typically monitored continuously online.
+                                                                                                                                               (microfiltration and               and Giardia, and 1–6 log reductions of viruses,
+                                                                                                                                               ultrafiltration): <0.1 NTU.        all depending on pore sizes. However, log
+                                                                                                                                                                                  reduction credits are limited by the sensitivity of
+                                                                                                                                                                                  turbidity monitoring.
+                                                                                                                    Disinfection               Ideally below 1 NTU.               At turbidities of >1 NTU, higher disinfection       In higher resource settings, the turbidity of
+                                                                                                                                               Large well-run municipal           doses or contact times will be required to ensure water for disinfection should typically be
+                                                                                                                                               supplies should be able to         that adequate Ct (i.e. product of disinfectant      monitored continuously online (particularly
+                                                                                                                                               achieve turbidities of <0.5        concentration and contact time) or ultraviolet      for surface water supplies). Where continuous
+                                                                                                                                               NTU at all times, and should (UV) light intensity is achieved.                         monitoring is not practised (e.g. in lower
+                                                                                                                                               be able to average turbidities                                                         resource settings), the turbidity of water for
+                                                                                                                                               of ≤0.2 NTU.                                                                           disinfection should be monitored at a frequency
+                                                                                                                                                                                                                                      that will allow any turbidity issues that may
+                                                                                                                                               In lower resource settings                                                             impact the effectiveness of disinfection to be
+                                                                                                                                               including small supplies                                                               detected in a timely fashion (e.g. minimum daily
+                                                                                                                                               the aim should be to keep                                                              monitoring, but more frequent monitoring may
+                                                                                                                                               turbidities below 5 NTU.                                                               be required, depending on the specific situation
+                                                                                                                                                                                                                                      and available resources).
+                                                                                                                    Distribution systems and storage
+                                                                                                                                               Unexpected increases in           Can be caused by a range of faults and events        Turbidity should be measured in conjunction
+                                                                                                                                               turbidity.                        (e.g. mains breaks, resuspension of sediments,       with measuring chlorine residuals (in
+                                                                                                                                                                                 detachment of biofilms or oxide scales, backflow,    disinfected supplies) and collecting samples for
+                                                                                                                                                                                 cross connections). Increased turbidity should       Escherichia coli testing. This could vary from
+                                                                                                                                                                                 be immediately investigated and corrective           daily to weekly samples, depending on multiple
+                                                                                                                                                                                 actions implemented.                                 factors (e.g. resource availability, intermittency
+                                                                                                                                                                                                                                      of supply, and variations in hydraulic conditions
+                                                                                                                                                                                 Where “booster” chlorination is applied during       and population served). Increased monitoring
+                                                                                                                                                                                 storage or distribution, consider the guidance       is suggested in association with operational
+                                                                                                                                                                                 provided under ‘disinfection’ above.                 incidents such as mains breaks, to inform
+                                                                                                                                                                                 Distribution system monitoring should be             appropriate corrective action.
+                                                                                                                                                                                 undertaken at key points within the network
+                                                                                                                                                                                 including after treated water storages (and at
+                                                                                                                                                                                 consumer taps).
+
+
+
+
+                    2
+Table 1. Summary of turbidity targets (continued)
+
+    Location or process          Turbidity targets or
+    step                         indicators of contamination          Notes                                                     Monitoring frequency
+    Point of use
+    Aesthetic aspects            Ideally <1 NTU.                      “Crystal-clear” water has a turbidity of <1 NTU;
+                                                                      at 4 NTU and above, water becomes visibly
+                                                                      cloudy. Although turbidity may be caused
+                                                                      by particles with little health significance,
+                                                                      complaints about unexpected turbidity
+                                                                      should always be investigated because they
+                                                                      could reflect significant faults or breaches in
+                                                                      distribution systems, or may result in consumers
+                                                                      seeking out alternative, potentially less safe
+                                                                      sources of water.
+    Household water              Ideally <1 NTU, although             At turbidities of >1 NTU, higher disinfection
+    treatment and storage        this may be difficult in many        doses or contact times will be required.
+                                 supplies where household             Increases in turbidity of stored household water,
+                                 water treatment is necessary         such as harvested rainwater, can indicate water
+                                 to ensure the safety of              quality deterioration.
+                                 drinking-water. In such
+                                 cases, the aim should be
+                                 to keep turbidities below 5
+                                 NTU. Disinfection should still
+                                 be practised even if 5 NTU
+                                 cannot be achieved.
+
+
+
+
+2. General description
+Turbidity describes the cloudiness of water caused by suspended particles such as clay and silts, chemical precipitates such as
+manganese and iron, and organic particles such as plant debris and organisms (APHA/AWWA/WEF, 2012; Health Canada, 2012).
+As turbidity increases, it reduces the clarity of water to transmitted light by causing light to be scattered and adsorbed. Typically
+expressed in NTU, turbidity is a practical parameter that can be measured using online devices, and benchtop and portable
+meters or turbidity tubes (e.g. in small communities where resources are limited). Turbidities below 4 NTU can only be detected by
+instruments; however, at 4 NTU and above, a milky-white,1 muddy, red-brown or black suspension can be visible and can reduce
+the acceptability of drinking-water.
+
+The sources of turbidity are diverse, and many of the constituent particles (e.g. clays, soils and natural organic matter) are harmless.
+However, turbidity can also indicate the presence of hazardous chemical and microbial contaminants, and have significant
+implications for water quality (Table 2). The implications will vary depending on the characteristics of the turbidity. In addition, as
+indicated in Table 2, the point of detection is important in considering potential impacts. Elevated turbidity in source waters can
+signal pollution events in the catchment (e.g. heavy rain, spills or contamination of groundwater), and can challenge the effectiveness
+of coagulation and clarification, filtration and disinfection. Failure to meet turbidity targets for filtered water can indicate the possible
+presence of pathogens in drinking-water, and increased turbidity in distribution systems can represent detachment of biofilms and
+oxide scales or entry of external sources of contamination. Each source needs to be considered in context because the treatment
+and management implications will vary (Table 2).
+
+
+
+
+1
+    Milky-white suspensions can also be caused by supersaturated air being released from water. Unlike turbidity, suspensions of air clear from the bottom of a glass upward. The air
+    could have been introduced during pipe repair or could have been released following changes in water pressure.
+
+                                                                                                                                                                                        3
+                                                                                                                   Table 2. Sources of turbidity, and water quality and treatment implications
+
+
+                                                                                                                    Location                    Source of turbidity             Water quality implications                        Treatment and management implications
+                                                                                                                    Source water                Inorganic particles released      Impacts on pH, alkalinity and hardness          Need to adjust coagulation, flocculation and
+                                                                                                                                                by weathering of rocks, soils     Source of metals and metal oxides                 sedimentation
+                                                                                                                                                and clays                         Poor appearance and taste of water              Increased demand on operational resources
+                                                                                                                                                                                                                                      (e.g. filter backwashing and chemical usage)
+                                                                                                                                                                                                                                    Increased disinfectant demand and
+                                                                                                                                                                                                                                      decreased penetration of ultraviolet (UV)
+                                                                                                                                                                                                                                      light
+                                                                                                                                                Human and livestock waste         Source of pathogenic microorganisms             Increased treatment requirements
+                                                                                                                                                                                                                                    Increased demand on operational resources
+                                                                                                                                                                                                                                      (e.g. filter backwashing and chemical usage)
+                                                                                                                                                                                                                                    Increased disinfectant demand and
+                                                                                                                                                                                                                                      decreased penetration of UV light
+                                                                                                                                                Industrial waste                  Source of metals and metal oxides               Increased or modified treatment
+                                                                                                                                                                                  Poor appearance and taste of water                requirements
+                                                                                                                                                                                                                                    Increased demand on operational resources
+                                                                                                                                                                                                                                      (e.g. filter backwashing and chemical usage)
+                                                                                                                                                Biological growth (e.g.           Cyanobacteria can be a source of toxins and     Increased or modified treatment
+                                                                                                                                                algae, zooplankton and              tastes and odour compounds                        requirements
+                                                                                                                                                cyanobacteria) in source          Poor appearance of water                        Increased demand on operational resources
+                                                                                                                                                waters                                                                                (e.g. filter backwashing and chemical usage)
+                                                                                                                                                                                                                                    Increased disinfectant demand and
+                                                                                                                                                                                                                                      decreased penetration of UV light
+                                                                                                                                                Natural organic matter            Poor appearance of water                        Increased disinfectant demand and
+                                                                                                                                                including decomposing plant       Nutrients supporting biological growth in         decreased penetration of UV light
+                                                                                                                                                material                            distribution systems                            Increased demand on operational resources
+                                                                                                                                                                                                                                      (e.g. filter backwashing and chemical usage)
+                                                                                                                                                                                                                                    Precursors of disinfection by-products
+                                                                                                                    Treatment                   Poor control of treatment         Poor appearance of water                        Inefficient treatment
+                                                                                                                                                chemical dosing (e.g.             Increase dissolved chemicals (e.g.              Increased operational costs (chemical
+                                                                                                                                                coagulants, settling aids and       aluminium)                                        usage)
+WATER QUALITY AND HEALTH - REVIEW OF TURBIDITY: INFORMATION FOR REGULATORS AND WATER SUPPLIERS • TECHNICAL BRIEF
+
+
+
+
+                                                                                                                                                pH adjustment chemicals)                                                            Failure to meet treatment turbidity targets
+                                                                                                                                                Precipitates from insoluble       Poor appearance of water                        Inefficient treatment
+                                                                                                                                                components of treatment                                                             Failure to meet treatment turbidity targets
+                                                                                                                                                chemicals, or formed during
+                                                                                                                                                processes such as pH
+                                                                                                                                                correction
+                                                                                                                                                Oxidation products of natural     Source of metal oxides                          Need for removal processes
+                                                                                                                                                chemicals such as arsenic,        Poor appearance (e.g. brown or black water)     Increased distribution system maintenance
+                                                                                                                                                iron and manganese                  and taste of water                                requirements
+                                                                                                                    Distribution                Intrusion of soils and sewage     Source of hazardous chemical and microbial      Need for review and enhancement of
+                                                                                                                                                through mains breaks                contaminants                                      standard repair procedures to minimize
+                                                                                                                                                                                  Source of silt and organic matter favouring       intrusion
+                                                                                                                                                                                    regrowth                                        Need for increased proactive replacement
+                                                                                                                                                                                  Poor appearance and taste of water                programme for ageing mains
+                                                                                                                                                                                                                                    Need to clean and flush mains with
+                                                                                                                                                                                                                                      disinfectant
+                                                                                                                                                                                                                                    Need to maintain or boost residual
+                                                                                                                                                                                                                                      disinfectant
+                                                                                                                                                External contamination from       Source of hazardous chemical and microbial      Need for backflow or cross connection
+                                                                                                                                                backflow or cross connections       contaminants                                      inspection programme
+                                                                                                                                                Resuspension of accumulated       Source of metals and metal oxides               Need for review of mains cleaning
+                                                                                                                                                silts and sediments, or           Poor appearance and taste of water                programme
+                                                                                                                                                detachment of corrosion                                                             Need for improved system operation to avoid
+                                                                                                                                                chemicals and scales                                                                  rapid surges and reversals of flow
+                                                                                                                                                                                                                                    Increased disinfectant demand
+                                                                                                                                                Detachment of biofilms            Release of opportunistic pathogens (e.g.        Increased disinfectant demand
+                                                                                                                                                                                    Legionella, Naegleria and mycobacteria) and     Need to maintain or boost residual
+                                                                                                                                                                                    embedded enteric pathogens                        disinfectant
+                                                                                                                                                                                  Poor appearance and taste of water              Need for routine mains hygiene programme
+                                                                                                                    Source: Adapted from Health Canada, 2012
+
+
+
+
+                    4
+3. Measurement of turbidity
+One of the advantages of turbidity is that it can be measured easily using simple, low-cost manual comparators, and portable,
+benchtop and online automated meters. These devices measure scattering or attenuation of light from a range of sources
+(e.g. natural light, tungsten lamps or light-emitting diodes), with the results being expressed in units that reflect the method
+of measurement (Table 3). The nephelometric method is the most common, with turbidity being expressed as NTU. Other
+units include formazin nephelometric units,1 formazin attenuation units, Jackson turbidity units and turbidity units. The various
+turbidity units are related, and often similar, but not always equivalent. This is particularly true for Jackson turbidity units and
+turbidity units which are based on visual assessments while the other units are meter readings. Standardized methods –
+including guidance on sample collection and calibration standards – have been established for various types of turbidity meters
+(APHA/AWWA/WEF, 2012; Health Canada, 2012; ISO, 2016). As turbidity measured in collected samples can change as a result of
+temperature variations, particle flocculation and sedimentation, samples should be analysed as soon as possible using online
+or onsite meters at treatment plants and portable meters in the field (APHA/AWWA/WEF, 2012; Health Canada, 2012; ISO, 2016).
+
+
+Table 3. Relative comparison of technology options for turbidity measurement
+
+
+    Method                    Units                      Basis                                     Advantages                               Disadvantages
+    Nephelometric or          Nephelometric                 Measures the intensity of               Accurate                              Higher cost
+    formazin method,          turbidity unit                  scattered light at a detector           Sensitive (0.01–5 NTU                 More complex technology
+    Using portable,           (NTU) or formazin               typically positioned at 90                spectrum)                             Requires power source
+    benchtop or online        nephelometric unit              degrees to an incident light            Suitable for field testing            Requires maintenance and
+    instruments               (FNU)                           beam (white light in the case           Suitable for operational                calibration
+                              NTU and FNU are                 of NTU and infrared in the case           monitoring of water treatment         Requires consumable materials
+                              considered to be                of FNU)                                   plant performance                       (e.g. calibration standards)
+                              equivalent                    Both are calibrated using                                                       Requires technical proficiency
+                                                              formazin standards
+    Turbidimetric method      Formazin attenuation          Measures the attenuation of             Accurate above 40 FAU                 Not as sensitive as the
+                              units (FAU)                     light at a detector positioned          Suitable for use in highly turbid       nephelometric method
+                                                              in line with an incident light            waters (typically in the range        Other disadvantages as above
+                                                              beam                                      40–4000 FAU)
+                                                            Calibrated using formazin
+                                                              standards
+    Jackson candle            Jackson turbidity unit        Turbidity present in a water            Low cost                              Not suitable for field testing
+    (original standard        (JTU)                           sample obscures a lighted               Low technology                        Result open to individual
+    instrument)                                               candle viewed through a                                                           interpretation
+                                                              specialized sample column                                                       Limited sensitivity (limit of
+                                                                                                                                                detection 4 JTU)
+    Turbidity tube            Turbidity unit (TU)           Water added to sample tube              Low cost                              Limited sensitivity (limit of
+                                                              obscures a visual marker at the         Low technology                          detection 5 TU)
+                                                              base of cylinder                        Robust                                Result open to individual
+                                                            Level of water in the tube              Simple to use                           interpretation
+                                                              corresponds to an approximate           Appropriate for field testing
+                                                              turbidly value                            and use by community
+                                                                                                        members
+                                                                                                      May measure up to 2000 TU
+
+
+Electronic meters are in common use; however, in smaller rural and remote communities, issues can include cost, sources of
+electricity, and availability of technical and servicing support and replacement parts. The whole-of-life costs – including cost of
+replacement parts as well as consumable items such as calibration standards and batteries – must be carefully considered when
+selecting an appropriate technology for turbidity measurement in low-resource settings. Turbidity tubes represent simpler, lower
+cost alternatives but sensitivity is a limitation, with a lower limit of 5 TU (WHO, 2008). This limits the effectiveness of turbidity tubes
+for operational monitoring of processes such as filtration; nevertheless, turbidity tubes remain among the most appropriate means
+of turbidity measurement in lower resource settings. Despite more recent developments in the application of smart-phone optical
+sensors for turbidity measurement, a significant technology gap remains with respect to durable, low-cost, low-technology turbidity
+meters that are sensitive below 1 NTU.
+
+Accuracy and sensitivity are always important, but are usually more critical when measuring turbidities below 1 NTU; for example,
+when used to measure the operation of filtration technologies, where acceptable performance is determined by meeting targets
+of 0.3 NTU or below (USEPA, 2006; Health Canada, 2012). Online, benchtop or portable instruments are available that can reliably
+measure turbidities below 0.1 NTU. Although different instruments can produce some degree of variability, turbidity meters can
+deliver consistent and reliable results, provided that careful calibration and maintenance, standard operating procedures and analyst
+training are implemented (Health Canada, 2012).
+
+1
+    Formazin polymer is used as a standardized suspension to calibrate turbidity meters (USEPA, 2003; ISO, 2016).
+
+                                                                                                                                                                                 5
+                                                                                                                   The frequency of turbidity monitoring will depend on variability (e.g. in source water), and whether it is being used to measure
+                                                                                                                   performance of an essential control measure such as filtration or disinfection. In high-resource settings, turbidity is often monitored
+                                                                                                                   continuously online (particularly where filtration is practised), whereas in low-resource settings where continuous monitoring is not
+                                                                                                                   feasible, turbidity should be monitored at a frequency that will allow issues to be detected in a timely fashion (e.g. minimum daily,
+                                                                                                                   but more frequent monitoring may be required depending on the specific situation and available resources). In distribution systems,
+                                                                                                                   turbidity monitoring could vary from daily to weekly samples, depending on factors such as resource availability, intermittency of
+                                                                                                                   supply, variations in hydraulic conditions and population served. Increased monitoring is suggested during extreme events such
+                                                                                                                   as heavy rainfall or in association with incidents such as mains breaks, to inform appropriate corrective action.
+
+
+
+                                                                                                                   4. Turbidity and drinking-water safety
+                                                                                                                   4.1 Turbidity and disease
+
+                                                                                                                   Achieving low turbidities in drinking-water is a proven indicator of pathogen removal and hence of drinking-water safety. Incidents
+                                                                                                                   of elevated turbidity have been associated with several outbreaks of disease (Hrudey and Hrudey, 2004; Mann et al., 2007). However,
+                                                                                                                   a direct proportional relationship between removal of turbidity and pathogens has not been demonstrated (Health Canada, 2012).
+                                                                                                                   Similarly, investigations of potential links between levels of turbidity in drinking-water and rates of endemic gastrointestinal disease
+                                                                                                                   in communities have produced mixed results. Some studies have reported a relationship between turbidity and endemic disease
+                                                                                                                   but others have not (Mann et al., 2007; Tinker et al., 2010; Beaudeau, 2014); thus, although correlations may exist in individual
+                                                                                                                   drinking-water supplies, a uniform relationship has not been established.
+
+
+                                                                                                                   4.2 Operational monitoring
+
+                                                                                                                   4.2.1 Source waters
+WATER QUALITY AND HEALTH - REVIEW OF TURBIDITY: INFORMATION FOR REGULATORS AND WATER SUPPLIERS • TECHNICAL BRIEF
+
+
+
+
+                                                                                                                   Turbidity can be used to monitor source water quality. Rapid changes in turbidity can be an indication of substantial pollution
+                                                                                                                   events in surface water and groundwater catchments (e.g. triggered by storms, thaws, fires or spills, which may be coupled with
+                                                                                                                   anthropogenic activities such as clearing of forests), or ingress of contamination through groundwater infrastructure. Turbidity
+                                                                                                                   changes over intervals that are longer than historical results may indicate changes in the catchment that require attention. Changes
+                                                                                                                   in turbidity should be investigated to determine causes and to identify appropriate corrective actions.
+
+                                                                                                                   Turbidity in surface waters tends to be more variable than in groundwater, and regular turbidity measurements of surface source
+                                                                                                                   waters can be used to adjust treatment and disinfection processes (e.g. adjustment of coagulant and disinfectant doses), intake
+                                                                                                                   depth management (e.g. in reservoirs and river intakes), and diversion or avoidance of particular raw water sources.
+
+                                                                                                                   4.2.2 Filtration
+                                                                                                                   Turbidity is a practical indicator of coagulation and flocculation, and of filter (individual and combined) performance. One of the
+                                                                                                                   strengths of turbidity is that it can be monitored continuously, with results linked to automatic alarm systems that allow rapid
+                                                                                                                   responses and, where necessary, remedial action if deviations from required performance are detected. Achieving specified
+                                                                                                                   turbidity targets at well-designed filtration plants that have been optimized to achieve particle removal is a critical component of
+                                                                                                                   demonstrating pathogen reductions (Table 4). Turbidity targets and associated pathogen reductions vary, depending on the type
+                                                                                                                   of treatment process (Emelko et al., 2005; USEPA, 2006; Health Canada, 2012).
+
+                                                                                                                   The turbidity targets shown in Table 4 provide 95% and maximum targets, which allow short-term performance spikes of limited
+                                                                                                                   magnitude during normal operation. The occurrence of such spikes during activities such as plant start-up, filter ripening and
+                                                                                                                   end-of run operation should be minimized and ideally eliminated by applying recognized good practices (USEPA, 1999; USEPA,
+                                                                                                                   2006; Health Canada, 2012). Significant incidents such as coagulation faults, pH changes, flow surges and rapid changes in source
+                                                                                                                   water quality can lead to exceedances of the turbidity targets and can decrease removal of pathogens such as Cryptosporidium
+                                                                                                                   and Giardia (Nieminski and Ongerth, 1995; Patania et al., 1995; Huck et al., 2001; Emelko et al., 2005). Immediate responses should
+                                                                                                                   be implemented to any exceedance of turbidity targets; for example, automatic plant shut down or discharging of filtered water
+                                                                                                                   to waste until compliance is restored.
+
+                                                                                                                   Membrane filtration, including microfiltration and ultrafiltration, typically produces water with turbidities of below 0.1 NTU, and
+                                                                                                                   achieves from 4 to greater than 7 log reduction of Cryptosporidium and Giardia, and from 1 to greater than 6 log reduction of
+                                                                                                                   viruses, depending on membrane pore size (Health Canada, 2012). Online monitoring of turbidity can be used to detect losses
+                                                                                                                   of membrane integrity and reduced performance. However, turbidity can be relatively insensitive as a means of detecting minor
+
+
+                    6
+Table 4. Turbidity targets and associated Cryptosporidium and virus removals by media filtration
+
+                                                                                                                                             Pathogen reduction (log10)
+    Treatment type                                               Turbidity target                                                   Cryptosporidium                    Viruses
+    Conventional filtration                                      ≤0.3 nephelometric turbidity units (NTU) in 95% of                         3.0                          2.0
+    Coagulation, flocculation and sedimentation                  measurements taken each month of combined filter
+    followed by media filtration                                 effluent, with no measurements to exceed 1 NTU
+    Dissolved air flotation and filtration (DAFF)
+    Coagulation, flocculation and flotation followed by
+    media filtration
+    Direct filtration                                            ≤0.3 NTU in 95% of measurements taken                                      2.5                          1.0
+    Coagulation, flocculation without sedimentation              each month of combined filter effluent, with no
+    followed by media filtration                                 measurements to exceed 1 NTU
+    Slow sand                                                    ≤1 NTU in 95% of measurements taken each month                             3.0                          2.0
+                                                                 of filtered water, with no measurement to exceed 5
+                                                                 NTU
+    Diatomaceous earth                                           ≤1 NTU in 95% of measurements taken each month                             3.0                          1.0
+                                                                 of filtered water, with no measurements to exceed
+                                                                 5 NTU
+    Source: Values from USEPA (2003, 2006)
+
+
+
+
+defects in membrane structure that may allow passage of pathogens. It has been suggested that laser turbidity meters, although
+more costly, are more sensitive and could detect smaller membrane breaches than conventional turbidity meters (USEPA, 2005;
+Health Canada, 2012). An alternative that can provide greater assurance about membrane integrity and performance is to augment
+turbidity monitoring with less frequent (e.g. daily) but more sensitive direct integrity monitoring, such as pressure decay testing
+(USEPA, 2005; 2006).
+
+4.2.3 Disinfection
+Turbidity can be used as an operational parameter to assess the likely effectiveness of disinfection, and as a basis for setting
+disinfectant doses and modifying contact times (where such modification is possible).
+
+Turbidity above 1–2 NTU reduces the efficacy of chlorination by increasing chlorine demand and potentially shielding
+microorganisms from inactivation (LeChevallier et al., 1981; Keegan et al., 2012). While there is evidence that disinfection can be
+achieved at higher turbidities, chlorine doses or contact times need to be increased to ensure that adequate Cts1 are achieved
+(Keegan et al., 2012). Similarly, turbidity can reduce the effectiveness of ultraviolet (UV) light disinfection by reducing UV light
+transmission or by shielding microorganisms from inactivation (Christensen and Linden, 2003; Batch et al., 2004; Passantino et al.,
+2004; Amoah et al., 2005; Templeton et al., 2007; Cantwell et al., 2008; Kollu and Ormeci, 2012).
+
+Turbidity should ideally be kept below 1 NTU because of the recorded impacts on disinfection. This is achievable in large well-run
+municipal supplies, which should be able to achieve less than 0.5 NTU before disinfection at all times and an average of 0.2 NTU or
+less, irrespective of source water type and quality. However, keeping turbidity below 1 NTU is not always possible in low-resource
+settings including small supplies; in such cases, the aim should be to keep turbidities below 5 NTU. At turbidities above 1 NTU,
+higher disinfection doses or contact times will be required to ensure that adequate Ct or UV light intensity is achieved.
+
+
+4.3 Distribution systems
+
+Turbidity can be included in operational monitoring of water quality in distribution systems as an indicator of integrity, and of good
+operation and maintenance of the network (Health Canada, 2012; WHO, 2014). The level of turbidity in distribution systems will vary
+depending on the source of supply; the type of treatment; the operating conditions (e.g. pressure fluctuations, and continuous or
+intermittent supply); and the characteristics, condition, complexity and integrity of the distribution network. Turbidity targets can
+be identified by determining background levels throughout the system when water treatment is functioning effectively and there
+are no known faults in the distribution system. Any substantial and unexpected increases above background values should be
+immediately investigated to determine cause and significance. This should include investigating customer complaints of increased
+turbidity, which may provide an early indication of more serious and widespread public health issues.
+
+
+
+1
+    The effectiveness of a disinfectant is based on the combination of dose and contact time with target micro-organisms. Ct is the product of the concentration of a disinfectant in
+    water (C in mg/L) and contact time (t in minutes) with water and entrained microorganisms.
+
+                                                                                                                                                                                        7
+                                                                                                                   Increased turbidity can be caused by a range of faults and events that may give rise to public health or aesthetic concerns (Table 2).
+                                                                                                                   Such faults and events can include elevated turbidity in water entering the system, loss of integrity (e.g. due to mains breaks),
+                                                                                                                   resuspension of sediments and scale, and detachment of biofilms or oxide scales. These events can lead to entry of external
+                                                                                                                   contamination, release of pathogens from biofilms, and impacts on appearance and taste of drinking-water (Table 2).
+
+                                                                                                                   Water utilities should have standard operating procedures included in WSPs to (WHO, 2014):
+                                                                                                                     • minimize ingress through mains breaks, and to flush and disinfect parts of systems potentially affected by faults and new
+                                                                                                                       installations;
+                                                                                                                      • minimize resuspension of sediments, biofilms and oxide scales during normal operation and when undertaking planned
+                                                                                                                        activities such as mains cleaning, system maintenance and cleaning of water storage systems (impacts of cleaning and
+                                                                                                                        maintenance activities can be reduced by implementing targeted flushing strategies to remove turbidity generated by
+                                                                                                                        planned activities); and
+                                                                                                                      • prevent cross connections.
+
+                                                                                                                   Biofilms occur naturally in water systems, and their extent and thickness is influenced by factors such as flow, disinfectant residuals
+                                                                                                                   and nutrients in drinking-water. Opportunistic pathogens such as Legionella, Pseudomonas and mycobacteria can grow and survive
+                                                                                                                   in biofilms, but most biofilm organisms are not pathogenic. In addition, enteric pathogens that contaminate water systems through
+                                                                                                                   poor treatment, mains breaks and other faults may be deposited in biofilms and survive for longer periods (WHO, 2014). Although
+                                                                                                                   biofilms generally have limited public health significance, resuspension can cause increased turbidity and discolouration, and
+                                                                                                                   produce distinctive tastes and odours; also, biofilms will increase disinfectant demands.
+
+                                                                                                                   When the source of elevated turbidity is unknown, immediate action should be taken to identify the cause and to institute
+                                                                                                                   appropriate corrective actions. This can include additional testing to determine the characteristics of turbidity (e.g. is it biological
+                                                                                                                   or does it represent the presence of manganese or iron oxides?) and the extent and persistence of the problem.
+
+                                                                                                                   Further information on turbidity in distribution systems is available in Water Safety in Distribution Systems (WHO, 2014).
+WATER QUALITY AND HEALTH - REVIEW OF TURBIDITY: INFORMATION FOR REGULATORS AND WATER SUPPLIERS • TECHNICAL BRIEF
+
+
+
+
+                                                                                                                   4.4 Household water treatment and storage
+
+                                                                                                                   Turbidity can be used in operational monitoring of treatment processes and performance of clarification chemicals used in household
+                                                                                                                   and small drinking-water supplies (Elliott et al., 2008; Preston et al., 2008; Koltarz et al., 2009; WHO, 2011; Mwabi et al., 2012; WHO/
+                                                                                                                   UNICEF, 2012). Turbidity can also be used to measure the performance of some treatment processes in reducing chlorine demand or
+                                                                                                                   the performance of barriers designed to remove pathogens and microbial indicators (Elliott et al., 2008; Mwabi et al., 2012).
+
+                                                                                                                   High levels of turbidity in source water may limit the effectiveness of household treatment methods; for example, by overloading
+                                                                                                                   and clogging filters, or reducing the effectiveness of chlorination or solar disinfection (WHO, 2011). While high turbidity is not
+                                                                                                                   desirable, chlorination can still provide benefits. Free chlorine residuals can be produced in the presence of turbidities ranging from
+                                                                                                                   above 1 NTU to above 100 NTU (Crump et al., 2005; Lantagne, 2008; Mohamed et al., 2015), resulting in inactivation of bacterial
+                                                                                                                   indicators and reductions in diarrhoeal disease (Crump et al., 2005; Elmaksoud et al., 2014). Based on the available evidence, while
+                                                                                                                   water should ideally be chlorinated at turbidities less than 1 NTU, if this cannot be achieved (e.g. through pre-treatment or settling),
+                                                                                                                   disinfection should still be practiced with higher disinfection doses or contact times (Table 1).
+
+                                                                                                                   Increases in turbidity of stored household water, such as harvested rainwater, can indicate deterioration in water quality.
+
+
+
+                                                                                                                   5. Turbidity and aesthetic quality of drinking-water
+                                                                                                                   Visible turbidity reduces the aesthetic acceptability of drinking-water. Turbidity can vary in colour and appearance, ranging from
+                                                                                                                   milky-white clay-based particles to muddiness from sediments and soils, red-brown iron-based particles and black manganese-
+                                                                                                                   based particles. At high levels, turbidity can lead to staining of materials, fittings and clothes exposed during washing.
+
+                                                                                                                   Many consumers equate turbidity with safety, and consider turbid water as being unsafe to drink. This response is exacerbated when
+                                                                                                                   consumers have been accustomed to receiving high-quality water. As a guide, “crystal-clear” water has a turbidity below 1 NTU, and
+                                                                                                                   water becomes visibly cloudy at 4 NTU and above. This is well above the levels expected in well-maintained and treated surface
+                                                                                                                   water supplies, and in most groundwater supplies. Although turbidity may be caused by particles with little health significance,
+                                                                                                                   complaints about unexpected turbidity should always be investigated because they could reflect significant faults or breaches in
+                                                                                                                   distribution systems.
+
+
+                    8
+Aesthetic impacts can lead to indirect health impacts if consumers lose confidence in a drinking-water supply and drink less water,
+or choose to use lower turbidity alternatives that may not be safe.
+
+
+
+6. Conclusions
+Turbidity is an important and versatile operational parameter that should be included in WSPs to support water quality management
+from catchment to consumer. It can be used to monitor source water quality, the effectiveness of coagulation and clarification,
+filtration and disinfection performance in a water treatment plant, and the effectiveness of distribution system management. At
+the household level, it can also be used to assess the appearance and acceptability of drinking-water supplied to consumers as
+well as the effectiveness of household water treatment and safe storage.
+
+
+
+References
+Amoah K, Craik S, Smith DW, Belosevic M (2005). Inactivation of Cryptosporidium oocysts and Giardia cysts by ultraviolet light in the presence of natural particulate
+matter. J Water Supply Res. 54(3):165–78.
+APHA/AWWA/WEF (2012). Standard method 2130: turbidity. Standard methods for the examination of water and wastewater, 22nd edition. Washington, DC:
+American Public Health Association, American Water Works Association and Water Environment Federation.
+Batch LF, Schulz CR, Linden KG (2004). Evaluating water quality effects on UV disinfection of MS2coliphage. J Am Water Works Ass. 96(7):75–87.
+Beaudeau P, Schwartz J, Levin R (2014). Drinking water quality and hospital admissions of elderly people for gastrointestinal illness in Eastern Massachusetts,
+1998–2008. Water Res. 52:188–98.
+Cantwell RE, Hofmann R, Templeton MR (2008). Interactions between humic matter and bacteria when disinfecting water with UV light. J Appl Microbiol.
+105(1):25–35.
+Christensen J, Linden KG (2003). How particles affect UV light in the UV disinfection of unfiltered drinking water. J Am Water Works Ass. 95(4):179–89.
+Crump JA, Otieno PO, Slutsker L, Keswick BH, Rosen DH, Hoekstra RM et al. (2005). Household based treatment of drinking water with flocculant-disinfectant for
+preventing diarrhoea in areas with turbid source water in rural western Kenya: cluster randomised controlled trial. BMJ. 331(7515):478.
+Elliott MA, Stauber CE, Koksal F, DiGiano FA, Sobsey MD (2008). Reductions of E. coli, echovirus type 12 and bacteriophages in an intermittently operated household-
+scale slow sand filter. Water Res. 42(10–11):2662–70.
+Elmaksoud SA, Patel N, Maxwell SL, Sifuentes LY, Gerba CP (2014). Use of household bleach for emergency disinfection of drinking water. J Environ Health. 76(9):22–5.
+Emelko MB, Huck PM, Coffey BM (2005). A review of Cryptosporidium removal by granular media filtration. J Am Water Works Ass. 97(12):101–15.
+Health Canada (2012). Guidelines for Canadian drinking water quality: guideline technical document – turbidity. Ottawa, Ontario: Water, Air and Climate Change
+Bureau, Healthy Environments and Consumer Safety Branch, Health Canada (www.hc-sc.gc.ca/ewh-semt/pubs/water-eau/turbidity/index-eng.php, accessed 27
+September 2016).
+ISO (2016). International Standard ISO 7027–1:2016(E): Water quality – determination of turbidity. Part 1: quantitative methods. Geneva: International Organization
+for Standardization.
+Keegan A, Wati S, Robinson B (2012). Chlor(am)ine disinfection of human pathogenic viruses in recycled waters (SWF 62M-2114). Smart Water Fund (https://www.
+clearwater.asn.au/user-data/research-projects/swf-files/62m---2114-chlorine-disinfection-of-human-pathogenic-viruses-_final_report.pdf, accessed 27 September
+2016).
+Kollu K, Ormeci B (2012). Effect of particles and bioflocculation on ultraviolet disinfection of Escherichia coli. Water Res. 46(3):750–60.
+Kotlarz N, Lantagne D, Preston K, Jellison K (2009). Turbidity and chlorine demand reduction using locally available physical water clarification mechanisms before
+household chlorination in developing countries. J Water Health. 7(3):497–506.
+Lantange D (2008). Sodium hypochlorite dosage for household and emergency water treatment. J Am Water Works Ass. 100(8):106–19.
+LeChevallier MW, Au K-K (2004). Water treatment and pathogen control. London: IWA Publishing (on behalf of the World Health Organization).
+LeChevallier MW, Evans TM, Seidler RJ (1981). Effect of turbidity on chlorination efficiency and bacterial persistence in drinking water. Appl Environ Microb.
+42(1):159–67.
+Liu G, Slawson RM, Huck P (2007). Impact of flocculated particles on low pressure UV inactivation of E.coli in drinking water. J Water Supply Res. 56(3):153–62.
+Mann AG, Tam CC, Higgins CD, Rodrigues LC (2007). The association between drinking water turbidity and gastrointestinal illness: a systematic review. BMC Publ
+Health. 7(1):256.
+Mohamed H, Brown J, Njee RM, Clasen T, Malebo HM, Mbuligwe S (2015). Point-of-use chlorination of turbid water: results from a field study in Tanzania. J Water
+Health. 13(2):544–52.
+Mwabi JK, Mamba BB, Momba MNB (2012). Removal of Escherichia coli and faecal coliforms from surface water and groundwater by household water treatment
+devices/systems: a sustainable solution for improving water quality in rural communities of the Southern African development community region. Int J Environ Res
+Publ Health. 9(1):139–70.
+Passantino L, Malley J, Knudson M, Ward R, Kim J (2004). Effect of low turbidity and algae on UV disinfection performance. J Am Water Works Ass. 96(6):128–37.
+
+
+
+
+                                                                                                                                                                        9
+                                                                                                                   Preston K, Lantagne D, Kotlarz N, Jellison K (2010). Turbidity and chlorine demand reduction using alum and moringa flocculation before household chlorination in
+                                                                                                                   developing countries. J Water Health. 8(1):60–70.
+                                                                                                                   Templeton MR, Andrews RC, Hofmann R (2007). Removal of particle-associated bacteriophages by dual-media filtration at different filter cycle stages and impacts on
+                                                                                                                   subsequent UV disinfection. Water Res. 41(11):2393–406.
+                                                                                                                   Tinker SC, Moe CL, Klein M, Flanders WD, Uber J, Amirtharajah A et al. (2010). Drinking water turbidity and emergency department visits for gastrointestinal illness in
+                                                                                                                   Atlanta, 1993–2004. J Expo Sci Environ Epidemiol. 20(1):19–28.
+                                                                                                                   USEPA (1999). Guidance manual for compliance with the interim enhanced surface water treatment rule: turbidity provisions (EPA 815-R-99-010). Washington, DC:
+                                                                                                                   Office of Water, US Environmental Protection Agency.
+                                                                                                                   USEPA (2003). LT1ESTWR disinfection profiling and benchmarking technical guidance manual. Washington, DC: Office of Water, US Environmental Protection Agency.
+                                                                                                                   USEPA (2005). Membrane filtration guidance manual (EPA 815-R-06–009). Fed Reg 71(3):653–702.
+                                                                                                                   USEPA (2006). National primary drinking water regulations: long term 2 enhanced surface water treatment rule. Final rule. 3, Washington, DC: US Environmental
+                                                                                                                   Protection Agency, Federal Register.
+                                                                                                                   USEPA (2008). Analytical methods approved for compliance monitoring under the long term 2 enhanced surface water treatment rule. Washington, DC: US
+                                                                                                                   Environmental Protection Agency.
+                                                                                                                   WHO (2008). Turbidity measurement: the importance of measuring turbidity: Fact sheet 2.33. Geneva: World Health Organization (http://www.who.int/water_
+                                                                                                                   sanitation_health/hygiene/emergencies/fs2_33.pdf, accessed 27 September 2016).
+                                                                                                                   WHO (2011). Evaluating household water treatment options. Geneva: World Health Organization (http://www.who.int/water_sanitation_health/publications/2011/
+                                                                                                                   household_water/en/, accessed 27 September 2016).
+                                                                                                                   WHO (2014). Water safety in distribution systems. Geneva: World Health Organization (http://www.who.int/water_sanitation_health/publications/water-safety-in-
+                                                                                                                   distribution-system/en/, accessed 27 September 2016).
+                                                                                                                   WHO/UNICEF (2012). A toolkit for monitoring and evaluating household water treatment and safe storage systems. Geneva: World Health Organization, United
+                                                                                                                   Nations Children’s Fund (UNICEF) (http://www.who.int/water_sanitation_health/publications/toolkit_monitoring_evaluating/en/, accessed 27 September 2016).
+                                                                                                                   WHO (2017). Guidelines for drinking-water quality, fourth edition incorporating the first addendum. Geneva: World Health Organization (http://www.who.int/
+                                                                                                                   water_sanitation_health/water-quality/guidelines/en/).
+                                                                                                                   Wobma PC, Bellamy WD, Malley JP, Reckhow DA (2004). UV disinfection and disinfection by-product characteristics of unfiltered water. Denver, Colorado: AWWA
+                                                                                                                   Research Foundation.
+WATER QUALITY AND HEALTH - REVIEW OF TURBIDITY: INFORMATION FOR REGULATORS AND WATER SUPPLIERS • TECHNICAL BRIEF
+
+
+
+
+                                                                                                                    © World Health Organization 2017. Some rights reserved. This work is available under the CC BY-NC-SA 3.0 IGO. licence. All reasonable precautions have been taken by WHO
+                                                                                                                    to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The
+                                                                                                                    responsibility for the interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising from its use.
+
+
+10
+

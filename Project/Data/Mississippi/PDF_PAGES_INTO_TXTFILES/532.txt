@@ -1,0 +1,222 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+North
+Independent
+Streams
+
+Hinkle Creek
+
+300412
+
+Alcorn
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Rienzi from headwaters to mouth at Tuscumbia
+River Canal
+
+North
+Independent
+Streams
+
+Little Cane Creek
+
+301213
+
+Alcorn
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Tuscumbia River Canal
+
+North
+Independent
+Streams
+
+Mcelroy Creek
+
+301113
+
+Alcorn
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Tuscumbia River Canal
+
+North
+Independent
+Streams
+
+Owl Creek
+
+301412
+
+Tippah
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Little Hatchie River
+
+North
+Independent
+Streams
+
+Tarebreeches
+Creek
+
+301212
+
+Alcorn
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Tuscumbia River Canal
+
+North
+Independent
+Streams
+
+Turkey Creek
+
+302112
+
+Tippah
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Falkner from headwaters to mouth at Muddy
+Creek
+
+North
+Independent
+Streams
+
+UNT North Prong
+Muddy Creek
+
+302013
+
+Tippah
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Muddy Creek
+
+North
+Independent
+Streams
+
+West Prong
+Muddy Creek
+
+302011
+
+Tippah
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Falkner from headwaters to mouth at Muddy
+Creek
+
+Pascagoula
+River
+
+Anderson Branch
+
+401711
+
+Newton
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Okahatta Creek
+
+Pascagoula
+River
+
+Archusa Creek
+
+405111
+
+Clarke
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters at Unnamed Impoundment to MWS
+4052 boundary.
+
+Pascagoula
+River
+
+Beaver Creek
+
+421212
+
+Perry
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Hickory Creek
+
+27
+
+

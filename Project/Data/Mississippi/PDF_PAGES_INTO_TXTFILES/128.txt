@@ -1,0 +1,75 @@
+Calculation of Total Annualized Project Costs
+This form must be completed for the chosen alternative. All figures presented must be supported
+with documentation.
+Capital Costs
+Alternative
+
+Chosen Alternative
+_________________________________________________________________
+
+Capital Cost of Project (show a breakout of costs on a separate sheet)
+
+$________________
+
+Other One-Time Costs of Project
+(Please List, if any):
+_________________________________________________
+
+$________________
+
+_________________________________________________
+
+$________________
+
+_________________________________________________
+
+$________________
+
+Total Capital Costs (Sum columns)
+
+$________________
+
+Interest Rate Used (expressed as decimal)
+
+(i)_____________
+
+Time Period of Financing (in years)
+
+(n)_____________
+
+Annualization Factor
+(or see Table of
+Annualization Factors)
+
+i (1 + i) n
+(1 + i )n − 1
+
+(af)____________
+
+Annualized Capital Cost [(Total Capital Cost) x (af)]
+
+(acc)$__________
+
+Operating and Maintenance Costs
+List Annual Costs of Operation and Maintenance (O&M) (including but not limited to:
+monitoring, inspection, permitting fees, waste disposal charges, repair, administration and
+replacement.)
+________________________________________________
+
+$________________
+
+_________________________________________________
+
+$________________
+
+Total Annual O & M Costs (Sum column)
+
+$________________
+
+Total Annual Cost of Project
+
+$________________
+
+128
+
+

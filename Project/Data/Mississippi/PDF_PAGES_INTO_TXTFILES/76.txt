@@ -1,0 +1,60 @@
+(5)
+
+Sanitary sewage shall be disinfected in accordance with the requirements set forth
+in Exhibit "B" to this Subchapter which is attached hereto and incorporated herein
+by reference.
+
+(6)
+
+For determining TBELS, contaminants in intake water shall be handled in
+accordance with 40 CFR 122.45(g).
+
+(7)
+
+In all cases, the Department shall be responsible for setting final WLAs, LAs,
+TMDLs, and permit limits and requirements.
+
+Source: Miss. Code Ann. §§ 49-2-1, et seq. and 49-17-1, et seq.
+Rule 1.2.3 WQBEL Process.
+A.
+
+Water Quality Based Effluent Limits
+
+The WQBEL process is a means of determining the available assimilative capacity of a water
+body and setting WQBELs utilizing appropriate procedures for simulation and prediction of
+water quality impacts. This process will be used unless the Department determines there are
+adequate data to support a determination that the receiving water body currently meets water
+quality standards and will continue to meet water quality standards with the discharge.
+Computer models utilized include those approved and supported by the Commission and/or
+EPA. The methodologies used for the WQBEL process are found in Exhibit A to this
+Subchapter and in Rule 1.2.4 of this chapter. In the event the receiving water body's minimum
+flow value used for allocation purposes is zero, permit limitations shall be modeled with the flow
+equal to the effluent for conventional pollutants unless otherwise provided in these regulations.
+The minimum CBOD model input for WQBEL permit limit determination will be equivalent to
+the estimated background conditions for streams (2.0 CBODu) as indicated in Exhibit A.I.J.2.
+The permittee may provide the necessary scientific information to support a less stringent limit.
+B.
+
+Modeling
+
+Unless actual data or circumstances indicate otherwise, computer modeling is suitable for
+developing effluent limitations in water bodies for the cases that follow:
+(1)
+
+sanitary wastewater having an effluent CBOD5 limitation of 30 mg/l to 45 mg/l
+and/or an effluent CBOD5 limitation as defined secondary or equivalent
+secondary requirements;
+
+(2)
+
+sanitary wastewater having an effluent CBOD5 limitation of less than 30 mg/l but
+greater than or equal to 2 mg/l;
+
+(3)
+
+all effluent limits developed because of the threat of, or potential for, water
+quality impacts due to toxicants;
+
+76
+
+

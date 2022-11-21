@@ -1,0 +1,3856 @@
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+Chapter 854: Standards for Hazardous Waste Facilities
+
+SUMMARY: This rule specifies the standards applicable to the
+establishment, construction, alteration and operation of waste facilities for
+hazardous waste in Maine.
+
+1. Legal Authority. This rule is promulgated under 38 M.R.S.A. Section
+1301, et seq., which prohibits the establishment, construction, alteration or
+operation of a waste facility for hazardous waste without a license and
+authorizes the Board of Environmental Protection to adopt rules
+establishing standards for the licensing of these facilities.
+
+2. Preamble. It is the purpose of the Department of Environmental
+Protection, consistent with legislative policy, to provide necessary controls
+over hazardous waste facilities so as to ensure the protection of public
+health, safety, welfare and the environment.
+
+The Board of Environmental Protection will administer this rule in a
+conservative fashion because it recognizes that many unknowns remain
+about the short-term and long-term impacts of hazardous waste to public
+health and natural ecosystems. The intent of this rule is to protect the public
+health, safety, and general welfare and the environment; the burden of proof
+shall rest with each applicant seeking a license for a waste facility for
+hazardous waste to affirmatively demonstrate that the intent of this rule will
+be met at all times.
+
+3. Definitions. For purposes of this rule, terms not defined in this section
+shall have the meaning given them in 38 M.R.S.A., Sections 361-A and 1303-
+C. The following terms as used in this rule shall have the following meaning
+unless the context indicates otherwise.
+
+A. Aboveground tank. "Aboveground tank" means a device meeting the
+definition of "tank" which is situated in such a way that the entire surface
+area of the tank is completely above the plane of the adjacent surrounding
+surface and the entire surface area of the tank (including the tank bottom)
+can be visually inspected.
+
+B. Active Life. "Active life" means the period from the initial receipt of
+hazardous waste at the facility until the Department receives certification of
+final closure.
+
+C. Ancillary equipment. "Ancillary equipment" means any device
+including, but not limited to, such devices as piping, fittings, flanges, valves,
+and pumps, that is used to distribute, meter, or control the flow of
+hazardous waste from its point of generation to a storage or treatment
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+tank(s), between hazardous waste storage or treatment tanks to a point of
+disposal on-site, or to a point of shipment for disposal offsite.
+
+E. Claims made policy. "Claims made policy" means an insurance policy
+that provides coverage for an occurrence for which a claim arising out of the
+occurrence is made during the term of the policy or any extension thereof.
+
+E. Component. "Component" means either the tank or ancillary
+equipment of a tank system.
+
+F. Container. "Container" means any portable device in which a material is
+stored, transported, treated, disposed of, or otherwise handled.
+
+G. Corrosion expert. "Corrosion expert" means a person who, by reason
+of his knowledge of the physical sciences and the principles of engineering
+and mathematics acquired by a professional education and related practical
+experience is qualified to engage in the practice of corrosion control on
+buried or submerged metal piping systems and metal tanks. Such a person
+must be certified as being qualified by the National Association of Corrosion
+Engineers (NACE) or a registered professional engineer who has
+certification or licensing that includes education and experience in corrosion
+control on buried or submerged metal piping systems and metal tanks.
+
+H. Dike. "Dike" means a berm, embankment or ridge of either natural or
+man-made materials used to prevent the lateral movement of liquids,
+sludges, solids or other materials.
+
+I. Existing tank system. "Existing tank system" or "existing component"
+means a tank system or component used for the storage or treatment of
+hazardous waste that is in operation, or which installation has commenced
+on or prior to July 14, 1986. Installation will be considered to have
+commenced if the owner or operator has obtained all Federal, State, and
+local approvals or permits necessary to begin physical construction of the
+site or installation of the tank system and if either (1) a continuous on-site
+physical construction or installation program has begun, or (2) the owner or
+operator has entered into contractual obligations, which cannot be canceled
+or modified without substantial loss, for physical construction of the site or
+installation of the tank system to be completed within a reasonable time.
+
+J. Final Closure. "Final closure" means the closure of all hazardous waste
+management units at the facility in accordance with all applicable
+requirements so that hazardous waste management activities are no longer
+conducted, except as provided in Chapter 851, Section 8(B).
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+K. Food chain crops. "Food chain crops" means tobacco, crops grown for
+human consumption, and crops grown for feed for animals whose products
+are consumed by humans.
+
+L. Freeboard. "Freeboard" means the vertical distance between the top
+edge of a tank or surface impoundment dike and the surface of the waste
+contained therein.
+
+M. Hazardous waste incinerator. "Hazardous waste incinerator" means
+an enclosed device using controlled flame combustion, a purpose of which is
+to thermally break down hazardous waste. Examples of incinerators are
+rotary kiln, fluidized bed, and liquid injection incinerators, cement kilns and
+boilers used to thermally treat hazardous waste.
+
+N. Hazardous Waste Management Unit. "Hazardous waste
+management unit" as is defined in 40 CFR 260.10.
+
+O. Hydraulic conductivity. "Hydraulic conductivity" means a recognized
+measure of water permeability under standard conditions of hydraulic head.
+
+P. Inground tank. "Inground tank" means a device meeting the definition
+of tank whereby a portion of the tank wall is situated to any degree within
+the ground, thereby preventing visual inspection of that external surface
+area of the tank that is in the ground.
+
+Q. Installation inspector. Installation inspector means a person who by
+reason of his knowledge of the physical sciences and the principles of
+engineering, acquired by a professional education and related practical
+experience, is qualified to supervise the installation of tank systems.
+
+R. Landfill. "Landfill" is defined as is defined in 40 CFR 260.10.
+
+S. Land treatment. "Land treatment" means the treatment of hazardous
+waste by application onto or incorporation into the soil surface so that the
+waste is rendered nonhazardous by soil processes. A land treatment facility
+is a disposal facility if the waste will remain after use of the facility ceases.
+
+T. Leachate. "Leachate" means any liquid or semi-liquid, including any
+suspended components therein, that has percolated through or drained from
+hazardous waste.
+
+U. Leak detection system. "Leak detection system" means a system
+capable of detecting the failure of either the primary or secondary
+containment structure or the presence of a release of hazardous waste or
+accumulated liquid in the secondary containment structure. Such a system
+must employ operational controls (e.g., daily visual inspections) or consist of
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+an interstitial monitoring device designed to detect continuously and
+automatically the failure of the primary or secondary containment structure
+or the presence of a release of hazardous waste into the secondary
+containment structure.
+
+V. Abbreviated License. "Abbreviated License" means authorization to
+establish, construct, alter or operate a facility upon and for so long as the
+facility is in compliance with requirements established by Chapter 856,
+Section 11.
+
+W. Miscellaneous unit. "Miscellaneous unit" means a hazardous waste
+management unit where hazardous waste is treated, stored, or disposed of
+and that is not a container, tank, surface impoundment, waste pile, land
+treatment unit, landfill, incinerator (including boiler or industrial furnace),
+or underground injection well.
+
+X. Mobile treatment facility. "Mobile treatment facility" means a facility
+or unit capable of being moved and operated at hazardous waste sites for a
+limited period of time at a generator's site. In order to qualify as a "mobile
+treatment facility" units located at generator sites must be operational at
+more than one site in a calendar year.
+
+Y. New tank system. "New tank system" means a tank system or
+component that will be used for the storage or treatment of hazardous waste
+and for which installation has commenced after July 14, 1986.
+
+Z. On ground tank. "On ground tank" means a device meeting the
+definition of tank which is situated in such a way that the bottom of the tank
+is on the same level as the adjacent surrounding surface so that the external
+tank bottom cannot be visually inspected.
+
+AA. Partial Closure. "Partial closure" means the closure of a hazardous
+waste management unit in accordance with the applicable closure
+requirements of Chapters 855 and 856 at a facility that contains other active
+hazardous waste management units.
+
+BB. Principal hazardous constituents (PHC). "Principal hazardous
+constituents" (PHC) means the hazardous constituents identified in Chapter
+850, Appendix VIII.
+
+CC. Representative sample. "Representative sample" means a sample of
+a universe or whole which can be expected and demonstrated to exhibit the
+average properties of the universe or whole.
+
+DD. Run-off. "Run-off" means any rainwater, leachate or other liquid that
+drains from any part of the facility property over land, including land which
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+is part of the facility property as defined in Chapter 856, Section 3 and land
+which is not.
+
+EE. Run-on. "Run-on" means any rainwater, leachate or other liquid that
+drains onto any part of the facility property over land, including land which
+is part of the facility property as defined in Chapter 856, Section 3 and land
+which is not.
+
+FF. Seepage lagoon. "Seepage lagoon" means any lagoon in which
+seepage of liquid hazardous waste or leachate through its base or sides is the
+intended method of disposal of liquids from the lagoon.
+
+GG. Storage. "Storage" means the containment of hazardous waste, either
+on a temporary basis or for a period of years, in such a manner as not to
+constitute disposal of the hazardous waste.
+
+HH. Sump. "Sump" means any pit or reservoir that meets the definition of
+tank and those troughs/trenches connected to it that serve to collect
+hazardous waste for transport to hazardous waste storage, treatment, or
+disposal facilities.
+
+II. Surface impoundment. "Surface impoundment" means a facility or
+part of a facility which is a natural topographic depression, man-made
+excavation or diked area formed primarily of earthen materials, although it
+may be lined with man-made materials, which is designed to hold or holds
+an accumulation of liquid wastes or wastes containing free liquids, and
+which is not an injection well. Examples of surface impoundments are
+holding, storage, treatment, settling and aeration pits, ponds and lagoons.
+
+JJ. Tank. "Tank" means a stationary device designed to contain an
+accumulation of hazardous waste which is constructed primarily of
+non-earthen materials which provide structural support.
+
+KK. "Tank system" means a hazardous waste storage or treatment tank
+and its associated ancillary equipment and containment system.
+
+LL. Thermal treatment. "Thermal treatment" means the treatment of
+hazardous waste in a device which uses elevated temperatures as the
+primary means to change the chemical, physical or biological character or
+composition of the hazardous waste. Examples of thermal treatment
+processes are incineration, molten salt, pyrolysis, calcination, wet air
+oxidation and microwave discharge.
+
+MM. Treatment. "Treatment" means any method, technique, or process,
+including neutralization, designed to change the physical, chemical, or
+biological character or composition of any hazardous waste so as to
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+neutralize such waste, or so as to recover energy or material resources from
+the waste, or so as to render such waste non-hazardous, or less hazardous;
+safer to handle; or amenable for recovery, amenable for storage, or reduced
+in volume.
+
+NN. Trust fund. "Trust fund" means a trust, established by the owner or
+operator of a hazardous waste facility and administered by a financial
+institution with fiduciary responsibility to carry out the terms of the trust, in
+which funds are held for the purpose of assuring proper closure and/or post-
+closure care of the facility.
+
+OO. Underground injection. "Underground injection" means the
+subsurface emplacement of fluids through a bored, dug, drilled or driven
+well, or a subsurface waste disposal system including, but not limited to, a
+septic tank, cesspool, drainage field, seepage lagoon, salt dome formation,
+salt bed formation, underground mine or cave.
+
+PP. Underground tank. "Underground tank" means a device meeting the
+definition of tank whose entire surface area is totally below the surface of
+and covered by the ground.
+
+QQ. Unfit for use tank system. "Unfit for use tank system" means a tank
+system that has been determined through an integrity assessment or other
+inspection to be no longer capable of storing or treating hazardous waste
+without posing a threat of release of hazardous waste to the environment.
+
+RR. Waste pile. "Waste pile" means any non-containerized accumulation
+of solid, nonflowing hazardous waste that is used for storage of the waste
+prior to treatment or disposal.
+
+SS. Zone of saturation. "Zone of saturation" means that part of the
+earth's crust in which all voids are filled with water.
+
+4. References to Federal Regulations. Portions of this rule refer to
+federal regulations of the United States Environmental Protection Agency
+(EPA). Unless otherwise specified, the federal regulations referenced are
+those interim final or final regulations revised as of July 1, 1988, as they
+appeared in volume 40 of the Code of Federal Regulations (CFR). Where
+specifically stated, the terms of a referenced federal regulation are hereby
+adopted as terms of this rule, except that in regulations incorporated
+thereby, "EPA" shall mean "the Maine Department of Environmental
+Protection (DEP)"; "Administrator", "Regional Administrator" and
+"Director" shall mean "the Maine Board of Environmental Protection or its
+designated representative", and the phrase "treat, store, and/or dispose"
+shall mean "handle". In addition, where the terms of federal regulations
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+hereby incorporated by reference differ from or are inconsistent with other
+terms of this Chapter or Chapters 850-860, the more stringent of the
+requirements shall apply. Other changes to regulations incorporated hereby
+are as expressly made in this rule.
+
+5. Environmental Performance Standards
+
+A. All hazardous waste facilities shall be located, designed, constructed,
+altered, operated, maintained and closed in a manner that will assure
+protection of human health and welfare and the environment. Protection of
+human health and welfare and the environment shall include, but not be
+limited to:
+
+(1) Prevention of adverse effects on ground water quality considering:
+
+(a) The volume and physical and chemical characteristics of the waste in the
+facility, including its potential for migration through soil or through
+synthetic liner materials;
+
+(b) The hydrogeological characteristics of the facility and surrounding land;
+
+(c) The quantity, quality and directions of ground water flow;
+
+(d) The proximity and withdrawal rates of ground water users;
+
+(e) The existing quality of ground water, including other sources of
+contamination and their cumulative impact on the ground water;
+
+(f) The potential for health risks caused by human exposure to waste
+constituents;
+
+(g) The potential damage to wildlife, crops, vegetation and physical
+structures caused by exposure to waste constituents;
+
+(h) The persistence and permanence of the potential adverse effects; and
+
+(2) Prevention of adverse effects on surface water quality considering:
+
+(a) The volume and physical and chemical characteristics of the waste in the
+facility;
+
+(b) The hydrogeological characteristics of the facility and surrounding land,
+including the topography of the area around the facility;
+
+(c) The quantity, quality and directions of ground water flow;
+
+(d) The patterns of rainfall in the region;
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(e) The proximity of the facility to surface waters;
+
+(f) The uses of nearby surface waters and any water quality standards
+established for those surface waters;
+
+(g) The existing quality of surface water, including other sources of
+contamination and their cumulative impact on surface water;
+
+(h) The potential for health risks caused by human exposure to waste
+constituents;
+
+(i) The potential damage to wildlife, crops, vegetation and physical
+structures caused by exposure to waste constituents;
+
+(j) The persistence and permanence of the potential adverse effects; and
+
+(3) Prevention of adverse effects on air quality, considering:
+
+(a) The volume and physical and chemical characteristics of the waste in the
+facility, including its potential for volatilization and wind dispersal;
+
+(b) The existing quality of the air, including other sources of contamination
+and their cumulative impact on the air;
+
+(c) The potential for health risks caused by human exposure to waste
+constituents;
+
+(d) The potential damage to wildlife, crops, vegetation and physical
+structures caused by exposure to waste constituents;
+
+(e) The persistence and permanence of the potential adverse effects; and
+
+(4) Prevention of adverse effects due to migration of waste constituents in
+the subsurface environment, considering:
+
+(a) The volume and physical and chemical characteristics of the waste in the
+facility, including its potential for migration through soil;
+
+(b) The geologic characteristics of the facility and surrounding land;
+
+(c) The patterns of land use in the region;
+
+(d) The potential for migration of waste constituents into subsurface
+physical structures;
+
+(e) The potential for migration of waste constituents into the root zone of
+food chain crops and other vegetation;
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(f) The potential for health risks caused by human exposure to waste
+constituents;
+
+(g) The potential damage to wildlife, crops, vegetation and physical
+structures caused by exposure to waste constituents; and
+
+(h) The persistence and permanence of the potential adverse effects.
+
+B. The treatment or disposal of hazardous waste at a facility by means of
+evaporation is prohibited.
+
+C. The burning of hazardous waste in a cast iron and fire-tube boiler or in a
+boiler having a capacity level of less than 25 million Btu per hour is
+prohibited.
+
+D. The disposal of hazardous waste within the coastal waters of this State is
+prohibited. In addition, the disposal of hazardous waste in any ocean waters
+by a resident of this state is prohibited except that this prohibition shall not
+apply to ocean waters which are within the jurisdiction of another state.
+
+E. The placement of any hazardous waste into any salt dome formation, salt
+bed formation, underground mine or cave, and the underground injection of
+hazardous waste, is prohibited.
+
+6. General Standards
+
+A. The standards set forth in this section are applicable to all waste facilities
+for hazardous waste, except as specifically provided otherwise in this rule or
+in Chapter 856. An applicant for a license must demonstrate in his
+application that the facility has been designed, will be established,
+constructed or altered and will operate in compliance with these standards.
+A licensee must operate the facility so as to comply with these standards.
+
+B. The plans, specifications, descriptions and other documentation
+submitted by the applicant in support of his application and approved by the
+Board in issuing the license constitute terms of the license which must be
+complied with by the licensee. These plans, specifications, descriptions and
+other documentation include, without limitation, those required by Chapter
+856, Section 10 and this rule.
+
+C. The facility must be established, constructed, altered and operated in
+compliance with the following requirements:
+
+(1) this rule;
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(2) 40 CFR 264.12. Required Notices, which is hereby adopted and
+incorporated by reference, provided, however, that the phrase "of this Part
+and Part 270 of this chapter" in 40 CFR 264.12(c) shall mean "of this
+Chapter and Chapter 856";
+
+(3) 40 CFR 264.13 as revised on August 17, 1988 (53 FR 31211), Waste
+Analysis, which is hereby adopted and incorporated by reference, provided,
+however, that all references to 40 CFR Part 268 or sections or subparts
+thereof shall mean "Chapter 852", all references to "this part" shall mean
+"this Chapter", the phrase "Part 270 and Part 124 of this chapter" in 40 CFR
+264.13(a)(1) shall mean "Chapter 856", all references to "Part 261" shall
+mean "Chapter 850", the reference to "Sections 264.17, 264.314, 264.341
+and 268.2 of this Chapter" shall mean "this Chapter and Chapter 852", and
+the phrase "Section 260.22 of this Chapter" in 40 CFR 264.13(b)(7)(iii) shall
+mean "Chapter 850";
+
+(4) 40 CFR 264.14, Security, which is hereby adopted and incorporated by
+reference;
+
+(5) The daily inspection requirements of Chapter 856, Section 10B(3) and 40
+CFR 264.15, General Inspection Requirements, which is hereby adopted and
+incorporated by reference, provided, however, that any references to
+sections of 40 CFR Part 264 shall mean "this Chapter";
+
+(6) 40 CFR 264.16, Personnel Training, which is hereby adopted and
+incorporated by reference. In addition, the training program must be
+approved by the Department prior to operation of the facility;
+
+(7) 40 CFR 264.17, 264.31-264.37, Preparedness and Prevention, which are
+hereby adopted and incorporated by reference, provided, however, that
+references to "Section 264.13" shall mean "subsection (3) above". In
+addition, the precautions required to be taken by 40 CFR 264.17 must meet
+applicable requirements of codes, standards and rules of the Department of
+Public Safety (State Fire Marshal's Office); the aid agreements required by
+264.37 must be in writing, on file with each party to the agreement and with
+the Department, readily accessible to facility personnel, and reviewed and
+updated annually; and the facility owner or operator shall provide copies of
+the agreement to all parties thereto and shall file a copy with the
+Department prior to the commencement of operation of the facility and
+upon each update of the agreement;
+
+(8) 40 CFR 264.51-264.56, Contingency Plan and Emergency Procedures,
+which are hereby adopted and incorporated by reference, provided,
+however, that the reference in 40 CFR 264.52(b) to "Part 112 of this chapter,
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+or Part 1510 of Chapter V" shall read "Part 112 or Part 1510 of EPA
+regulations";
+
+NOTE: Applicable facilities must also comply with Chapter 856, Section
+13(A)(14).
+
+(9) The owner or operator must keep a written record at the facility. The
+following information must be recorded, as it becomes available, and
+maintained in the operating record until closure of the facility:
+
+(a) A description and the quantity of each hazardous waste received, and the
+method(s) and date(s) of its treatment, storage, or disposal at the facility as
+required by Appendix I to 40 CFR Part 264, which is hereby adopted and
+incorporated by reference, provided that references to Section 264.73 shall
+mean "this subsection", and references to "Part 261 of this chapter" or
+sections or subparts thereof shall mean "Chapter 850";
+
+(b) The information specified in 40 CFR 264.73(b)(2)-(16) as revised on
+August 17, 1988 (53 FR 31211), which is hereby adopted and incorporated by
+reference, provided, however, that all references to Part 264 or subparts or
+sections thereof shall mean "applicable provisions of Chapter 852";
+
+(10) 40 CFR 264.74, Availability, Retention, and Disposition of Records,
+which is hereby adopted and incorporated by reference, provided, however,
+that the reference to "section 264.73(b)(2)" shall mean "subsection (9)(b)
+above".
+
+(11) 40 CFR 264.75, Annual Report, which is hereby adopted and
+incorporated by reference, provided, however, that references to sections
+within 40 CFR Part 264 shall mean "Chapter 854", other comparable forms
+may be required by the Department, and the report must be prepared and
+submitted annually no later than March 1st for the preceding calendar year;
+
+(12) 40 CFR 264.76, Unmanifested Waste Report, which is hereby adopted
+and incorporated by reference, provided, however, that the reference to
+"Section 263.20(e)(2)" shall mean "Section 7B of Chapter 857", and the
+reference to 40 CFR 261.5 shall mean "Section 3(A)(5) of Chapter 850";
+
+(13) In addition to submitting annual reports and unmanifested waste
+reports as specified in subsections (11) and (12) above, the owner/operator
+must also report to the Department releases, fires, and explosions as
+specified in subsection (8) above, facility closures, reports as mandated in
+other provisions of this Chapter; and other reports, concerning quantities
+and handling of hazardous waste, as deemed necessary by the Department
+for effective management of wastes.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(14) Chapter 857, Manifest Requirements;
+
+(15) 40 CFR 264.111-264.115, closure for all facilities, and 40 CFR
+264.116-264.120 post closure requirements for all disposal facilities, and
+waste piles, surface impoundments, and tanks closing as landfills as those
+provisions were revised on September 2, 1988 (53 FR 34086), Closure and
+Post Closure Care, which are hereby adopted and incorporated by reference,
+provided, however, that:
+
+(a) references to other sections or subparts of 40 CFR 264 shall mean "this
+Chapter";
+
+(b) references to 40 CFR Part 270 or Part 124, or sections or subparts
+thereof, shall mean "Chapter 856";
+
+(c) references to 40 CFR Part 262 shall mean "Chapter 851";
+
+(d) 40 CFR 264.112(e) shall be deleted;
+
+(e) certification of closure of any unit (not just land disposal units as
+provided in 40 CFR 264.115) used to handle hazardous wastes shall be
+required within 60 days of completion of closure; and
+
+(f) the notification of closure required by 40 CFR 264.112(d) shall be
+provided at least 180 days prior to the date on which closure is expected to
+begin.
+
+(16) The financial requirements of 40 CFR 264.141-264.143 and
+264.147-264.151 for all facilities, and 40 CFR 264.144-264.146 for all
+facilities subject to post-closure requirements, as those provisions were
+revised on September 1, 1988 (53 FR 33950), which are hereby adopted and
+incorporated by reference, provided, however that:
+
+(a) references to other sections or subparts of 40 CFR 264 shall mean "this
+Chapter";
+
+(b) references to sections or subparts of 40 CFR Part 265 shall mean
+"Chapter 855";
+
+(c) references to "section 3008 of RCRA" shall mean "applicable Board or
+Department procedures";
+
+(d) references to sections or subparts of 40 CFR Parts 124 or 270 shall mean
+"Chapter 856"; and
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(e) liability coverage shall not be demonstrated through a financial test or
+corporate guarantee, therefore 40 CFR 264.147(a)(2), (b)(2) and (3),(f), and
+(g); and 40 CFR 151(g) and (h)(2) shall be deleted; and combinations of
+coverage shall not include the financial test or corporate guarantee.
+
+(f) when a financial test is selected as the method of providing closure or
+post-closure assurance, the applicant must include in the application the
+most current copy of Form 10K as filed with the Securities and Exchange
+Commission or equivalent financial information. A current copy of Form
+10K or equivalent financial information must be submitted to the
+Department with the annual fee each year for the term of the license.
+
+(g) any trust agreement must provide that the trustee is prohibited from
+investing trust funds in Commodities, Real Estate Investment Trusts
+(REITs), Corporate or Municipal Bonds which have not received the highest
+rating by Moody's Investment Service or Standard & Poor's, equity shares of
+firms which are not subject to regulation by the Securities and Exchange
+Commission, Foreign Currency speculation or in any other investment
+vehicle that is not consistent with the "Prudent Man" concept as it would
+apply to assuring that funds are available for carrying out a future activity
+with vital public interest. The agreement must also provide that primary
+consideration in making investments must be given to prompt liquidity and
+face value of assets held in trust.
+
+(h) the owner or operator must pay into a closure or post-closure trust fund
+according to the following requirements:
+
+(i) The owner or operator shall deposit 25 percent of the sum required into
+the trust fund on the date his facility license is issued. The license is not
+effective until the deposit is made.
+
+(ii) The remaining 75 percent of the sum required, adjusted for inflation,
+must be deposited in the trust fund in equal installments on or prior to the
+anniversary of the date upon which the license was issued, in each
+remaining year of the term of the license. The license remains in effect only
+if each deposit is made. The obligation to make deposits ceases only upon an
+approved transfer of the license or upon full payment.
+
+(iii) After the last annual deposit to the trust fund, subsequent annual
+deposits to account for inflation must be made over the life of the facility.
+The license remains in effect only if these deposits are made. The obligation
+to make deposits ceases only upon an approved transfer of the license or
+upon accomplishment of closure.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(iv) If the Board determines that the costs of closure or post-closure are
+increased, it may require the owner or operator to deposit additional funds
+into the trust fund by single deposit or according to a schedule. If according
+to a schedule, adjustment for inflation must be made for each deposit after
+the first. The license remains in effect only if the additional deposits are
+made. The obligation to make deposits ceases only upon an approved
+transfer of the license or full payment or upon accomplishment of closure or
+termination of the post-closure care period.
+
+(v) If a license is suspended or revoked, the Board may require deposits to
+be made according to (i), (ii), (iii), and (iv) above or may impose an
+accelerated schedule or may require immediate full payment, with
+adjustment for estimated inflation.
+
+(vi) When computing the annual inflation adjustment for closure or
+post-closure trust funds, the owner or operator must use the Implicit Price
+Deflator for Gross National Product as published by the Department of
+Commerce in "Survey of Current Business."
+
+NOTE: Sample Computation:
+
+1980 Implicit Price Deflator 177.36= 1.09*
+
+1979 Implicit Price Deflator 162.77
+
+* Adjustment Factor
+
+Assuming that the initial closure cost estimate, prepared in 1979, was
+$25,000, then $25,000 x 1.09= $27,250 (new adjusted closure cost
+requirement). The licensee would then be required to adjust the monetary
+value of the funding instrument to reflect the new adjusted monetary
+amount, or portion thereof.
+
+(i) The owner or operator must submit with his application and must submit
+annually thereafter proof of liability insurance for the facility for sudden and
+accidental occurrences. Coverage must be provided during active life and
+closure and, where wastes will remain on the facility property after closure,
+during the post-closure period. The level of coverage must be at least one
+million dollars per occurrence and two million dollars annual aggregate,
+unless because of a greater risk a higher minimum is required by the Board
+for a particular facility.
+
+(j) The owner or operator of a facility that utilizes a landfill, land treatment,
+surface impoundment or underground storage in tanks to handle hazardous
+waste or of a facility where hazardous waste will or is likely to remain on the
+facility property after closure must submit with his application and must
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+submit annually thereafter proof of liability insurance for the facility for
+non-sudden and accidental occurrences. Coverage must be provided during
+active life and for so long as any waste remains on the facility property but
+for no longer than the post-closure period. The level of coverage must be at
+least three million dollars per occurrence and six million dollars annual
+aggregate, unless because of a greater risk a higher minimum is required by
+the Board for a particular facility.
+
+(k) Wording of liability insurance endorsements must be identical to the
+wording contained in 40 CFR 264.151(i) except that subparagraph 2(b) shall
+read: "The Insurer is liable for the payment of amounts within any
+deductible applicable to the policy, with a right of reimbursement by the
+insured for any such payment made by the Insurer."
+
+(l) All liability insurance coverage amounts must be exclusive of legal
+defense costs.
+
+(m) A financial test may not be utilized in lieu of liability insurance nor may
+an owner or operator self-insure. If liability insurance is unavailable, a
+$2,000,000 letter of credit drawn on a reputable bank, the terms of which
+the Board must approve, may be utilized in lieu of liability insurance for
+sudden and accidental occurrences.
+
+(n) If a liability insurance policy is written as a "claims made" policy, an
+endorsement must provide for a discovery period of at least twelve (12)
+months beyond the date of expiration or cancellation of the policy. The
+endorsement must also provide that the underwriter will notify the public
+according to the requirements below:
+
+(i) At least sixty (60) days prior to the date upon which the policy will expire
+or be canceled, give written notification to all owners of property abutting
+the facility and to the chief elected official in the municipality in which the
+facility is located and in each of the municipalities immediately abutting the
+municipality in which the facility is located, that insurance for the facility
+will expire or be canceled, giving date of expiration or cancellation, and that
+claims against the insured must be filed within twelve (12) months from the
+date of expiration or cancellation, specifying where and how claims can be
+filed;
+
+(ii) During the first, third, sixth and ninth month subsequent to the date of
+expiration or cancellation, place in each of the State's major newspapers
+(Portland Press Herald, Bangor Daily News, Lewiston Sun, Kennebec
+Journal, and Waterville Sentinel) and in all local newspapers published or
+widely distributed in the municipality where the facility is located an
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+advertisement designed to attract notice and containing the information
+specified in i. above.
+
+(17) Chapter 851, Section 8 A & B, Pre-Transport Requirements.
+
+(18) 40 CFR 264.101, Corrective Action for Solid Waste Management Units,
+which is hereby adopted and incorporated by reference.
+
+D. No person shall own or operate a waste facility for hazardous waste
+without having obtained a hazardous waste facility identification number
+specific to the site.
+
+(1) The identification number shall be comprised of the identification
+number assigned to the facility by the U.S. Environmental Protection Agency
+(EPA) and/or any identifying number or letter as may be assigned by the
+Department.
+
+NOTE: An owner or operator must apply to EPA for an identification
+number in accordance with the EPA notification procedures described in 45
+Federal Register 12746.
+
+E. An applicant must demonstrate in his application sufficient financial
+capacity, including projections of utilization of the facility by hazardous
+waste generators, to construct, operate and maintain all aspects of the
+facility in accordance with requirements of statute and rules. A licensee
+must maintain sufficient financial capacity for the term of the license,
+including any renewal license, and at the time of renewal must demonstrate
+sufficient current financial capacity including current projections of
+utilization of the facility during the renewal term.
+
+F. For a facility at which hazardous waste will be disposed, the applicant
+must demonstrate that the volume of waste and the risks related to its
+handling will have been reduced to the maximum practical extent. For an
+on-site facility, the applicant shall comply with this requirement first by
+toxics use reduction, as described in 38 MRSA section 2302, subsection 1,
+then by waste reduction, as defined in 38 MRSA section 2302, subsection 3,
+then by treatment and volume reduction prior to disposal.
+
+NOTE: Pursuant to 38 M.R.S.A. 2304, Subsection 3(B)(1)(d), hazardous
+waste generated as a result of remedial/corrective actions or facility closures
+required by law or undertaken to protect employee health and safety, public
+health and safety, or the environment, is exempt from this requirement.
+
+A licensee must operate the facility to meet this requirement during the term
+of the license, including renewal thereof, and at time of renewal must
+provide a current demonstration that the requirement is met.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+G. An application for a mobile treatment facility may consist of two phases:
+
+(1) The first consisting of general operational, structural features, and
+generic siting criteria.
+
+(2) The second consisting of site specific operating and siting features.
+
+7. Facility Location in Certain Areas
+
+A. Prohibition. No person shall establish, construct, alter, or operate a
+waste facility for hazardous waste, except as noted, where the facility is or
+would be located:
+
+(1) On land defined as a wetland under statutes or regulations administered
+by the Department, Department of Conservation, Department of Inland
+Fisheries & Wildlife, Department of Marine Resources, or the State Planning
+Office; or
+
+(2) Within any 100 year flood plain so designated by the Federal Insurance
+Agency or within the level of any documented flood of a greater magnitude.
+This prohibition shall not apply to a facility where hazardous waste is not
+handled in a landfill, land treatment unit, miscellaneous unit, surface
+impoundment or waste pile or to any interimly-licensed (under Chapter
+855) storage or treatment facility in use on the effective date of this rule; or
+
+(3) So that it overlies any portion of a surface or subsurface sand and gravel
+aquifer or a high yield bedrock aquifer. This prohibition shall apply to a
+facility where hazardous waste is handled in a surface impoundment,
+landfill, underground tank, or waste pile or a facility where hazardous waste
+is treated utilizing land treatment techniques; or
+
+NOTE: Maps prepared by the Department of Conservation (Maine
+Geological Survey) may provide guidance as to the location of sand and
+gravel and bedrock aquifers within the State of Maine.
+
+(4) Within the boundaries of a state or federal park or designated wilderness
+area. This prohibition shall not apply to a storage facility (Section 12 of this
+rule);
+
+B. Rebuttable Presumption. A waste facility for hazardous waste located
+as set forth below is presumed to pose serious threats to public health or
+welfare or to the environment such that a license for a facility cannot be
+issued. The presumption applies if:
+
+(1) The facility property is located on land defined as a wetland under
+statutes or regulations administered by the Department, Department of
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+Conservation, Department of Inland Fisheries & Wildlife, Department of
+Marine Resources, or the State Planning Office; or
+
+(2) The facility or facility property is located within 300 feet of any 100 year
+flood plain so designated by the Federal Insurance Agency or within 300 feet
+of the level of any documented flood of a greater magnitude. Evidence that
+the facility will be constructed or operated in compliance with the special
+requirements for facilities located in a flood plain is not an adequate basis
+for rebutting the presumption against such siting. However, the
+presumption may not be rebutted unless the applicant demonstrates along
+with its other offer of evidence rebutting the presumption that the facility
+will meet all applicable standards; or
+
+(3) The facility or facility property overlies any portion of a surface or
+subsurface sand and gravel aquifer or its primary recharge zone or a high
+yield bedrock aquifer; or
+
+(4) The facility or facility property is located within one mile upgradient of
+any underground source of public drinking water, or within the watershed of
+a surface water source of public drinking water, or within 1,000 feet of any
+source of potable water for humans or livestock; or
+
+(5) The facility or facility property is located such that it may pose a threat to
+fisheries or wildlife or other natural resources in an area including a
+sanctuary, refuge, or preserve designated as such under statutes or
+regulations administered by the Departments of Inland Fisheries & Wildlife
+or Marine Resources; a state or federal park, sanctuary, or designated
+wilderness area, or a critical area identified as such under statutes or
+regulations administered by the State Planning Office, or to fish in a fish
+hatchery; or
+
+(6) The facility property is located within the boundaries of a state or federal
+park or designated wilderness area.
+
+An applicant seeking a license to establish, construct, alter, or operate a
+facility in such a location must overcome this presumption by persuasive
+evidence that the facility is unique in some way that allows for compliance
+with the intent of this rule.
+
+8. Additional Standards Applicable to Hazardous Waste Landfills
+
+A. Performance Standards
+
+(1) Landfills are regarded by the Board as the least preferable method of
+hazardous waste handling. While it is expected that the expense of
+landfilling will discourage its use, the Board, prior to approval of any
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+application for a hazardous waste landfill, will consider whether alternative
+preferred method(s) exist for handling a waste proposed to be landfilled.
+
+(2) A hazardous waste landfill must be designed, constructed, and installed
+to prevent any migration of wastes out of the landfill to adjacent subsurface
+soil or ground water or surface water at any time during the life, including
+the post-closure period, of the landfill.
+
+(3) A hazardous waste landfill must be established, constructed, altered and
+operated to meet the following performance standards:
+
+(a) No landfilled hazardous waste or constituent or derivative thereof shall
+appear in ground or surface waters at a concentration above background
+level, or above current public health drinking water standards for Maine,
+including the Maximum Exposure Guidelines, or standards for aquatic
+toxicity, whichever is most stringent. Background levels shall be those
+established by the pre-construction analysis required by Chapter 856,
+Section 10C(11)(g) or of the upgradient monitoring well required by Section
+8D(1) below, whichever is lower.
+
+NOTE: Drinking water and aquatic toxicity standards are obtained from
+current manuals including but not limited to: State of Maine Rules of the
+Department of Human Services relating to Drinking Water; "Drinking Water
+and Health" published by the National Academy of Sciences; "Suggested
+No-Adverse Response Levels" as determined by the Environmental
+Protection Agency; "Ambient Water Quality Criteria" manuals, published by
+the Environmental Protection Agency.
+
+(b) No landfilled hazardous waste or constituent or derivative thereof, shall
+appear in the atmosphere in concentrations significantly above the
+background level nor exceed current ambient air quality standards for
+Maine at any time. Background levels shall be established by monitoring or
+demonstrated to have been previously established by monitoring.
+
+B. Design. The provisions of 40 CFR 264.301(a), (c), and (f)-(j) are hereby
+adopted and incorporated by reference, provided however, that:
+
+(1) All new, replacement, or expanded portions of a landfill established in
+the State of Maine must be at least double-lined. The two liners are referred
+to below as
+
+(a) the bottom liner, which lies adjacent to subsoil deposits; and
+
+(b) the top liner, which is in contact with the landfilled waste.
+
+(2) A landfill must have two impervious liners of or equivalent to:
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(a) a synthetic topliner, and a bottom liner of recompacted clay of a
+minimum of five (5) feet thick, with a hydraulic conductivity of 1 x10-7
+cm/sec. or less, and, in addition, have a minimum of ten (10) feet of similar
+deposits beneath the bottom liner.
+
+If a suitably low permeability clay liner cannot be produced by
+recompaction, its permeability must be decreased by addition of bentonite
+or other approved sealing compounds; or,
+
+(b) a synthetic top and bottom liner and, in addition, have a minimum of ten
+(10) feet of similar clay deposits as specified in (a) above, beneath it.
+
+NOTE: Proper siting on low permeability deposits is the single most
+important design criterion. Siting in a favorable hydrologic setting is also an
+important design criterion, ground water discharge zones being considered
+the most favorable.
+
+(3) Where the landfill is located in a ground water discharge zone, the
+applicant must evaluate the potential for upward rupture of the liner or
+basal layer and design the landfill so as to prevent such a rupture.
+
+(4) Any synthetic liner approved by the Board and installed after December
+31, 1993 must be a minimum thickness of 80 mil's, and be able to meet the
+following criteria:
+
+(a) Meet National Sanitary Foundation (NSF) Standard #54 specifications, if
+one exists for the proposed material; and
+
+(b) Meet required performance specifications for the proposed project
+application.
+
+(5) At a minimum, synthetic liners must be used in lieu of clay liners if the
+clay cannot be made sufficiently impermeable or if organic solvents are to be
+handled in the landfill.
+
+(6) Any synthetic liner proposed for use shall meet all of the following
+criteria. A synthetic liner must:
+
+(a) Be of adequate strength and durability to ensure mechanical integrity
+during emplacement, freeze-thaw cycles in the underlying soils and
+operation of the facility; and
+
+(b) Be of uniform thickness and free from thin spots, cracks, tears, blisters
+and foreign particles; and
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(c) Be resistant to attack from soil bacteria, fungus, burrowing animals and
+birds; and
+
+(d) Be resistant to ozone cracking, sun weathering and stiffening in frosty
+conditions; and
+
+(e) Be able to withstand extreme heat either by itself or in combination with
+a protective layer of earthen material; and
+
+(f) Be compatible with and unaffected by hazardous waste(s) which may be
+landfilled at the facility and any constituents or derivatives thereof; and
+
+(g) Be impermeably sealed in the field, without defects in the seams between
+sections or in the parent material itself; and
+
+(h) Be properly installed on a base which is both smooth and structurally
+capable of supporting the entire landfill; and
+
+(i) Be covered by a sufficient layer of well-graded fine soil material (not less
+than six inches in depth) so as to prevent damage to the liner due to facility
+operation, such as the movement of heavy equipment used at the site.
+
+(j) Be installed to cover all surrounding earth likely to be in contact with a
+waste or leachate; and
+
+(k) Be able to generate sufficient friction force between itself and the
+surrounding materials in order to maintain a short term factor of safety of
+1.25 and a long term factor of safety of 1.50; and
+
+(l) Be able to meet the manufacturer's minimum specifications for the
+material being proposed for use.
+
+Manufacturers' specifications on the standard leak rate of the liner must be
+specified in the application.
+
+(7) The applicant must develop a Quality Assurance Plan (QAP) in order to
+ensure that design specifications and performance requirements for all
+hazardous waste facility components are met during construction. The QAP
+shall clearly describe the Construction Quality Control (CQC) and
+Construction Quality Assurance (CQA) measures to be implemented during
+construction. The QAP shall include, but not be limited to, the following:
+
+(a) A description of the responsibility and authority of organizations and
+personnel involved in permitting, designing, and constructing the facility;
+
+(b) The qualifications of the CQC/CQA personnel;
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(c) The observations and tests to be used to ensure that the construction or
+installation meets or exceeds all design criteria, plans, and specifications for
+each hazardous waste facility component;
+
+(d) The sampling activities, sample size, methods for determining sample
+locations, frequency of sampling, acceptance and rejection criteria, and
+methods for ensuring that corrective measures are implemented;
+
+(e) Recordkeeping and reporting requirements for CQC/CQA activities;
+
+(f) An assessment of construction equipment and manpower skills necessary
+to achieve design specifications and performance requirements; and
+
+(g) A list and description of required manufacturers' product certification,
+installation certifications, and warranties.
+
+(8) A leachate detection, collection, and removal system must be installed
+immediately above the top liner to assure that leachate is collected and
+removed. In addition, a leachate detection, collection and removal system
+must be installed between the top and bottom liners.
+
+(9) The leachate collection system must be constructed such that:
+
+(a) the system immediately above the top liner must be designed,
+constructed, maintained, and operated to collect and remove leachate from
+the landfill during the active life and post closure care period. The design of
+the collection and removal system shall be such that no more than 30 cm (1
+foot) of leachate shall accumulate on the top liner at any one time.
+
+(b) the leachate collection system between the liners must be designed,
+constructed, maintained, and operated to detect, collect, and remove liquids
+that may leak through the topliner during the active life and post closure
+care period.
+
+(c) the leachate collection systems must be constructed of materials that are
+chemically resistant to the waste managed in the landfill and the leachate
+expected to be generated and of sufficient strength and thickness to prevent
+collapse under the pressures exerted by overlying wastes, waste cover
+materials, and by any equipment used at the landfill; and designed and
+operated to function without clogging during the active life and post-closure
+care period.
+
+(10) The applicant must evaluate the potential for generation of gas within
+buried wastes. If a potential for build up or explosion of gases exists, a gas
+discharge system capable of collecting gases must be designed into the
+landfill cover system.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(11) The applicant must evaluate the compaction and consolidation of
+materials placed within the landfill. If compaction could result in ponding of
+drainage on the final cover system, an impermeable plastic cap or cover liner
+must be used to prevent infiltration. Otherwise, the final cover may be a
+layer of re-compacted clay at least 2 feet thick with a hydraulic conductivity
+of less than 1 x 10-7 cm/sec.
+
+NOTE: Design of the closure cap/final cover system is integral to the design
+of a landfill.
+
+(12) A sand and gravel drain layer must be placed over the final cover
+system.
+
+(13) Final cover must be protected from disruption. Disruption due to frost
+heaving and penetration by burrowing rodents must be prevented by
+grading the site with soil material and at least six inches of topsoil.
+Disruption by plant roots must be prevented by the planting of
+shallow-rooted vegetation and its maintenance in perpetuity. The final grade
+of the landfill surface must be between two and ten percent grade.
+
+(14) The applicant must evaluate the earthquake risk. The applicant must
+show that the facility is designed so that any disruption due to earthquake
+will not cause any performance standard to be violated.
+
+(15) A buffer zone of at least 200 feet must be designed and maintained
+between the boundaries of the facility property and the boundaries of the
+landfill and of any other area of the property where hazardous waste will be
+handled.
+
+(16) Fugitive emissions, including volatile organic compounds, from the
+facility must be controlled in accordance with a plan approved by the Board.
+
+C. Operation. The provisions of 40 CFR 264.303, 264.312, 254.313,
+264.316 and 264.317 are hereby adopted and incorporated by reference,
+provided however, that:
+
+(1) Run-on must be diverted away from the facility.
+
+(2) Run-off from the facility must be collected, analyzed and managed
+according to a design and plan approved by the Board.
+
+(3) Cover material, sufficient to control odors, dispersion by wind and
+excessive water infiltration into a hazardous landfill cell, must be placed
+daily or after the landfill has received new wastes, whichever is the longer
+period.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(4) Access to active portions of the facility must be restricted to facility
+personnel needed for operation or management and to authorized federal,
+state and local officials while in performance of their official duties.
+
+(5) No liquid waste shall be placed in a landfill except in accordance with the
+following:
+
+(a) Bulk or non-containerized liquid hazardous or nonhazardous waste, or
+hazardous or nonhazardous waste containing free liquids, must not be
+placed in a landfill unless, before disposal, the liquid waste or waste
+containing free liquids is treated or stabilized, chemically or physically, so
+that free liquids are no longer present and that the wastes are altered in such
+a way so that the materials that have absorbed the liquids will not
+biodegrade or release liquids when compressed.
+
+NOTE: The paint filter method specified in Chapter 850, Appendix XI will
+generally be used to determine liquid content for the purposes of this
+section.
+
+(b) Containers holding free liquids must not be placed in a landfill unless:
+
+(i) all free liquid has been removed by decanting or other methods, or
+solidified so that no free liquid is present, or otherwise eliminated in such a
+way that the materials that have absorbed the liquids will not biodegrade or
+release liquids when compressed; or
+
+(ii) the container is a lab pack as defined in 40 CFR 264.316 and is disposed
+of in accordance with 40 CFR 264.316.
+
+(c) To demonstrate the absence or presence of free liquids in either a
+containerized or a bulk waste, the test method referenced in 850, Appendix
+XI of the Department's rules shall apply.
+
+(6) Incompatible wastes must be separated horizontally by such barriers as
+will prevent any mixing of them in accordance with a plan approved by the
+Department. Vertical landfilling of incompatible wastes is prohibited.
+
+(7) Containers placed in landfills must be:
+
+(a) at least 90 percent full; or
+
+(b) crushed, shredded, or similarly reduced in volume to the maximum
+practical extent before burial.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+D. Ground Water Protection. Ground water beneath and adjacent to the
+facility shall be protected and monitored in accordance with the
+requirements of:
+
+(1) this rule, including the following:
+
+(a) A minimum of four wells, sampled at levels specified or approved by the
+Department, are required to monitor ground water quality. At least one
+monitoring well shall be located hydraulically upgradient from the landfill
+and three downgradient. The downgradient wells shall be located as close to
+the landfill as possible without disturbing the design or operational systems.
+
+(b) Monitor wells must, at a minimum, be packed and cased through
+surficial deposits and screened where appropriate flow zones exist. The top
+of the well casing must be sealed to prevent contamination of ground water
+by run-off. Materials used in construction must not affect water quality.
+
+(c) Water level measurements must be taken and sampling and analysis
+must be performed by the operator according to a schedule specified or
+approved by the Department. Additional sampling may be required if the
+performance standards are not being met. Water levels and results of
+analyses must be sent to the Department within ten working days of being
+taken or performed.
+
+(d) Analysis of samples must be performed by a laboratory certified by the
+State of Maine or the U.S. Environmental Protection Agency.
+
+(e) A final set of monitor well specifications must be sent to the Department
+upon completion of well installation, showing:
+
+(i) exact location of monitor wells;
+
+(ii) elevation of the land surface and the top of the well casing to the nearest
+tenth of a foot;
+
+(iii) depth to the bottom of the well;
+
+(iv) screened interval (depth to top and bottom of well screen);
+
+(v) type and size of casing;
+
+(vi) type and size of screen;
+
+(vii) type and grain size of packing, grouting and other sealing materials, and
+fluids used in drilling.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(2) 40 CFR 264.93 and 264.95-264.100 as those provisions were on October
+11, 1988 (53 FR 39720), which are hereby adopted and incorporated by
+reference, provided, however, that references to 40 CFR 264.92 or 264.94 or
+portions thereof shall mean the performance standards of Section 8A of this
+rule and no variance from these standards shall be allowed, references to 40
+CFR Part 261 shall mean Chapter 850, the reference to "Section 144.8 of this
+chapter" in 40 CFR 264.93(c) shall mean "40 CFR 144.8", and references to
+Appendix IX of Part 264 shall mean Appendix IX of this Chapter.
+
+(3) Assurance of financial responsibility for corrective action must be
+provided in accordance with Section 6(C)(16) of this rule.
+
+(4) For the purposes of this section, "detection" is defined as statistically
+significant evidence of contamination, and "exceedence" is defined as
+statistically significant evidence of increased contamination.
+
+E. Surface Water Monitoring. The Board may require surface waters
+within or adjacent to a facility or facility property to be monitored in
+accordance with a plan approved by the Board.
+
+F. Air Monitoring
+
+(1) Emissions, including fugitive emissions, from the facility shall be
+monitored in accordance with a plan approved by the Board.
+
+(2) If, at any time during operation, closure or post-closure of the facility,
+the monitoring demonstrates that the performance standards are not being
+met, a corrective action program must be implemented, details of which
+must be specified or approved by the Department.
+
+G. Surveying and Recordkeeping
+
+(1) The owner or operator of a hazardous waste landfill facility must prepare
+and keep current a map showing the exact location and dimensions,
+including depth, of each cell with respect to permanently surveyed
+benchmarks, the contents of each cell and the total amount and location of
+each type of hazardous waste within each cell. In addition, the owner or
+operator must keep a record of all repairs, accidents and abatement
+measures taken.
+
+(2) The map and record must be maintained in the facility operating record
+and kept current for as long as the facility is operated and must be kept at
+the facility. The Department may require that a current copy of the map and
+record be kept on file with the Department. Upon closure the map and the
+record must be delivered to the Department.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+H. Closure and Post Closure Requirements. The requirements of 40
+CFR 264.310 are hereby adopted and incorporated by reference, provided
+however, that references to other sections or subparts of 40 CFR Part 264
+shall mean "this Chapter". Furthermore, in the closure and post-closure
+plans, the owner or operator must address the following objectives and
+indicate how they will be achieved:
+
+(1) Control of pollutant migration from the facility via ground water, surface
+water, and air;
+
+(2) Control of surface water infiltration, including prevention of pooling;
+and
+
+(3) Prevention of erosion.
+
+The owner or operator must consider at least the following factors in
+addressing the closure and post-closure care objectives of this section:
+
+(1) Type and amount of hazardous waste and hazardous waste constituents
+in the landfill;
+
+(2) The mobility and the expected rate of migration of the hazardous waste
+and hazardous waste constituents;
+
+(3) Site location, topography, and surrounding land use, with respect to the
+potential effects of pollutant migration (e.g., proximity to ground water,
+surface water, and drinking water sources);
+
+(4) Climate, including amount, frequency, and pH of precipitation;
+
+(5) Characteristics of the cover including material, final surface contours,
+thickness, porosity and permeability, slope, length of run of slope, and type
+of vegetation on the cover; and
+
+(6) Geological and soil profiles and surface and subsurface hydrology of the
+site.
+
+During the post-closure care period, the owner or operator of a hazardous
+waste landfill must, at a minimum:
+
+(1) Maintain the function and integrity of the final cover as specified in the
+approved closure plan;
+
+(2) Maintain and monitor the leachate collection, removal, and treatment
+system (if there is one present in the landfill) to prevent excess accumulation
+of leachate in the system.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+NOTE: If the collected leachate is a hazardous waste under Chapter 850, it
+must be managed as a hazardous waste in accordance with all applicable
+requirements of these rules.
+
+9. Additional Standards for Hazardous Waste Surface
+Impoundments
+
+A. Performance Standards. A hazardous waste surface impoundment
+which is existing, new or laterally expanded must be established,
+constructed, altered and operated to meet the following performance
+standards:
+
+(1) A surface impoundment must be designed, constructed, and installed to
+prevent any migration of wastes out of the impoundment to the adjacent
+subsurface soil or ground water or surface water at any time during the life,
+including the post-closure period, of the impoundment.
+
+(2) No impounded hazardous waste or constituent or derivative thereof shall
+appear in ground water or surface water at a concentration above
+background level, or above current public health drinking water standards
+for Maine, including the Maximum Exposure Guidelines, or standards for
+aquatic toxicity, whichever is most stringent. Background levels shall be
+those established by the preconstruction analysis required by Chapter 856,
+Section 10C(11)(g) or of the upgradient monitoring well required by Section
+8D(1) of this rule, whichever is lower.
+
+NOTE: Drinking water and aquatic toxicity standards are obtained from
+current manuals including but not limited to: State of Maine Rules of the
+Department of Human Services relating to Drinking Water; "Drinking Water
+and Health" published by the National Academy of Sciences; "Suggested
+No-Adverse Response Levels" as determined by the Environmental Agency;
+"Ambient Water Quality Criteria" manuals, published by the Environmental
+Protection Agency.
+
+(3) No impounded hazardous waste or constituent or derivative thereof shall
+appear in the atmosphere in concentrations significantly above the
+background level nor exceed current ambient air quality standards for
+Maine at any time. Background levels shall be established by monitoring or
+demonstrated to have been previously established by monitoring.
+
+(4) An applicant seeking a license to treat hazardous waste in a surface
+impoundment must demonstrate to the satisfaction of the Board that:
+
+(a) the waste is capable of being treated in a surface impoundment using the
+process proposed, based upon a trial test (a bench or small-scale pilot test)
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+that determines the treatment technique, its effectiveness, and any limiting
+factors;
+
+(b) the design measures and operating procedures will maximize the success
+of the treatment;
+
+(c) the facility design and components are compatible with the hazardous
+waste and the treatment process; and
+
+(d) the treatment process can and will be controlled at all times so as to
+prevent uncontrolled releases of hazardous waste or its constituents or
+derivatives and to protect the public health and safety and the environment.
+
+B. Design
+
+(1) The provisions of 40 CFR 264-221(c), and (f)-(h) are hereby adopted and
+incorporated by reference provided however, that all new, replacement or
+expanded portions of a surface impoundment established in the State of
+Maine must be at least double-lined. The two liners are referred to below as
+a) the bottom liner, which lies adjacent to subsoil deposits, and b) the top
+liner, which is in contact with the impounded waste.
+
+(2) A surface impoundment must have an impervious bottom liner of, or
+equivalent to, a recompacted clay layer of a minimum of 5 feet thick, with a
+hydraulic conductivity of 1 x 10-7 cm/sec or less and, in addition, have a
+minimum of 10 feet of similar deposits beneath it. If a suitably low
+permeability clay bottom liner cannot be produced by recompaction, its
+permeability must be decreased by addition of bentonite or other approved
+sealing compounds.
+
+NOTE: Proper siting on low permeability deposits is the single most
+important design criterion for hazardous waste surface impoundments.
+Siting in a favorable hydrologic setting is also an important design criterion,
+ground water discharge zones being considered most favorable.
+
+(3) Where the surface impoundment is located in a ground water discharge
+zone, an applicant must evaluate the possibility of upward rupture of the
+liners and design the impoundment so as to prevent such a rupture.
+
+(4) At a minimum, a synthetic liner must be used in lieu of a clay liner if the
+clay cannot be made sufficiently impermeable or if organic solvents are to be
+handled in the surface impoundment. Any synthetic liner used as part of a
+surface impoundment must conform to the requirements of Section 8B(4),
+(6) and (7) of this rule.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(5) A leachate detection, collection and removal system must be installed,
+constructed, maintained, and operated immediately above a clay or
+synthetic bottom liner to assure that leachate is detected, collected and
+removed. The system must be designed so that the leachate can flow out
+freely, without a pressure head of leachate developing within the system.
+
+In addition, a leachate detection system must be installed immediately
+beneath the clay or synthetic bottom liner.
+
+The leachate collection system must be:
+
+(a) constructed of materials that are chemically resistant to the waste
+managed in the surface impoundment and the leachate expected to be
+generated and of sufficient strength and thickness to prevent collapse under
+the pressures exerted by overlying wastes, waste cover materials, and by any
+equipment used at the surface impoundment; and
+
+(b) designed and operated to function without clogging during the active life
+and post-closure care period.
+
+(6) The liner system in contact with the impounded waste must be:
+
+(a) compatible with the waste;
+
+(b) sufficiently impermeable to the waste under maximum operating
+conditions of hydraulic head so that the leachate system would not be filled
+in a period of less than one year;
+
+(c) of sufficient strength to outlast the design lifetime of the impoundment;
+and
+
+(d) constructed on a foundation capable of supporting the liner and the
+pressure head of the impoundment when full.
+
+(7) Dikes must be designed with sufficient structural integrity to prevent
+failure when saturated, without dependence on any liner system for support.
+
+(8) Earthen dikes must have a protective cover such as grass, shale or rock to
+minimize wind and water erosion and to preserve their structural integrity.
+
+(9) Run-on must be diverted away from the surface impoundment.
+
+(10) At least two feet of freeboard must be assured at all times.
+
+(11) An automatic shutoff or automatic diversion system must be installed in
+the waste feed so that flow of waste into the impoundment will stop when
+there is less than 2 feet of freeboard or any failure of the base or liners.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(12) An automatic alarm system to alert the operator to abnormal operations
+and to malfunctions must be installed.
+
+(13) A backup containment system must be provided to contain 20% of the
+volume of the impoundment or 4 hours maximum flow from the influent
+pipe(s), whichever is the larger amount.
+
+(14) The applicant must evaluate the earthquake risk and must demonstrate
+that the facility is designed so that any disruption due to earthquake will not
+cause any performance standard to be violated.
+
+(15) The applicant must evaluate the compaction and settlement beneath the
+liners and must demonstrate that the liners will not crack or rupture under
+full potential load.
+
+(16) A ground water monitoring system which meets the requirements of
+Section 8D of this rule must be operational before any waste is placed in the
+impoundment.
+
+(17) Fugitive emissions, including volatile organic compounds, from the
+surface impoundment, must be controlled in accordance with a plan
+approved by the Board.
+
+(18) Requirements other or less stringent than those established by Section
+9B(1)-(13) above may be imposed on a surface impoundment which is
+interimly licensed and being used for handling hazardous waste on the
+effective date of this rule, if the applicant demonstrates to the Board's
+satisfaction that the surface impoundment has not in the past violated the
+performance standards established herein and that the risk that it will
+violate the performance standards is no greater than that risk for a surface
+impoundment which meets the above requirements.
+
+C. Operation
+
+(1) A surface impoundment must have at all times sufficient freeboard to
+prevent overtopping by overfilling, wave action or a storm. At no time shall
+there be less than 2 feet of such freeboard.
+
+(2) Leachate must be removed from the leachate collection system either
+continuously or with sufficient regularity that no hydraulic head builds up
+within it.
+
+(3) Earthen dikes must be kept free of perennial woody plants and
+burrowing animals and maintained so as to prevent any erosion of the dikes.
+
+D. Containment System Repairs: Contingency Plans
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(1) Whenever there is any indication of a possible failure of the base, liner,
+dike, leachate collection system or backup containment system, that part or
+system must be inspected in accordance with the requirements of Section
+9D(4) below. Indications of possible failure include:
+
+(a) an unplanned non-sudden drop in liquid level in the impoundment;
+
+(b) liquid detected in the leachate detection system above the quantity to be
+expected from the design permeability of the liner;
+
+(c) evidence of leakage or the potential for leakage in the dike;
+
+(d) erosion of the dike;
+
+(e) apparent or potential deterioration of the liner(s) based on observation
+or test samples of the liner materials;
+
+(f) any mishandling of wastes placed in the impoundment; and
+
+(g) foreign objects in the impoundment.
+
+(2) Whenever there is an indication of a failure of the base, liner, dike or
+leachate collection system, the surface impoundment must be removed from
+service. Indications of failure of the containment system include but are not
+limited to:
+
+(a) an unplanned sudden drop in liquid level in the impoundment;
+
+(b) quantities of waste detected in the leachate detection system in excess of
+three times the normal daily quantities;
+
+(c) leakage through the dike; or
+
+(d) a breach (e.g., a hole, tear, crack, or separation) in the base, liner, dike,
+leachate collection or backup containment system.
+
+(3) If the surface impoundment must be removed from service the owner or
+operator must:
+
+(a) immediately shut off the flow of or stop the addition of wastes into the
+impoundment;
+
+(b) immediately contain any leakage which has occurred or is occurring;
+
+(c) immediately stop any leakage; and
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(d) if the leak cannot be stopped by any other means, empty the
+impoundment into secure containers or the backup containment system.
+
+(e) Take any other steps necessary to stop or prevent catastrophic failure.
+
+(f) Notify the Department of the problem verbally within 24 hours and in
+writing within seven days after detecting the problem.
+
+NOTE: To report this situation, call the Department response phone
+number, 1-800-482-0777.
+
+(4) The owner or operator must include as part of the contingency plan that
+is required to be filed with his application:
+
+(a) a procedure for complying with the requirements of Section 9D(3) above;
+and
+
+(b) a method for base, liner, dike, leachate collection and backup
+containment system evaluation and repair including:
+
+(i) testing and monitoring techniques;
+
+(ii) procedures to be followed to evaluate the integrity of the base, liner,
+dike, leachate collection system and backup containment system in the event
+of a possible failure;
+
+(iii) actions to be taken in the event of a possible failure; and
+
+(iv) specification of the repair techniques to be used in the event of leakage
+which does not require the impoundment to be removed from service.
+
+(5) No surface impoundment that has been removed from service in
+accordance with Section 9D(3) above may be restored to service unless:
+
+(a) repairs have been made; and
+
+(b) repairs have been certified by a qualified engineer to ensure that the
+failure will not recur.
+
+(6) A surface impoundment which has been removed from service and
+which is not being repaired must be closed in accordance with closure and
+post-closure requirements of this rule.
+
+E. Inspection, Surveying and Recordkeeping. The provisions of 40
+CFR 264.226 and 40 CFR 264.229-264.231 are hereby adopted and
+incorporated by reference, provided however, that the reference to "40 CFR
+264.221(a)" shall be deleted, references to sections of 40 CFR Part 261 shall
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+mean Chapter 850, and references to "40 CFR 264.17(b)" shall mean
+"Section 6(C)(7) above." Furthermore, the following requirements shall
+apply:
+
+(1) The owner or operator of a surface impoundment must inspect:
+
+(a) the freeboard level at least daily to ensure that two feet of freeboard is
+being maintained; and
+
+(b) the surface impoundment area, including dikes and vegetation thereon,
+at least weekly to check for any leaks or discharges and for signs of erosion,
+deterioration or failure of the impoundment.
+
+(2) Where insufficient freeboard is noted, remedial action must be taken at
+once.
+
+(3) The owner or operator must maintain, and keep current for as long as
+the facility is operated, a record of all hazardous waste handled in the
+impoundment by type, volume and date, all methods and times of
+treatment, all inspections and all records of repair, accidents and abatement
+measures taken. The record must be kept at the facility during its operating
+life and upon closure must be delivered to the Department. The Department
+may require that a current copy of that record be kept on file with the
+Department.
+
+F. Air, Ground Water and Surface Water Monitoring
+
+(1) Emissions, including fugitive emissions, from the facility shall be
+monitored in accordance with Section 8F of this rule.
+
+(2) Ground water shall be monitored in accordance with Section 8D of this
+rule.
+
+(3) The Board may require surface waters within or adjacent to a facility or
+facility property to be monitored in accordance with a plan approved by the
+Board.
+
+G. Closure and Post-Closure
+
+(1) The owner or operator of a surface impoundment that does not meet the
+liner requirements of Section 9(B) of Chapter 854 shall:
+
+(a) include in the closure plan for the surface impoundment both a plan for
+complying with paragraph (2) below and a contingent plan for complying
+with paragraph (3) below in case not all contaminated subsoils can be
+practicably removed at closure;
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(b) prepare a contingent post-closure plan for complying with paragraph (3)
+below in case not all contaminated subsoils can be practicably removed at
+closure; and
+
+(c) base the cost estimates for closure and post-closure care required under
+subsection 6C(15) above on the cost of complying with the more expensive of
+the two closure and post closure scenarios.
+
+(2) The owner or operator must remove or decontaminate all waste residues,
+contaminated containment system components (liners, etc.), contaminated
+subsoils, and structures and equipment contaminated with waste and
+leachate, and manage them as hazardous waste unless Section 3(A)(3)(d) of
+Chapter 850 applies; or
+
+(3) If, after removing or decontaminating all residues and making all
+reasonable efforts to effect removal or decontamination of contaminated
+components, subsoils, structures and equipment as required in paragraph
+(2) above, the owner or operator finds that not all contaminated subsoils can
+be practicably removed or decontaminated, he must close the facility in
+accordance with the closure and post-closure requirements that apply to
+landfills.
+
+(4) After closure, hazardous waste surface impoundments must continue to
+meet the performance standards.
+
+(5) The Department may grant a variance to paragraph (2) of this subsection
+if the owner or operator demonstrates that the hazardous constituents in the
+waste will not migrate into ground water, surface water and air in violation
+of the performance standards in this Chapter for as long as the waste and
+other materials will remain on-site. Facilities receiving a variance to
+paragraph (2) shall close the facility in accordance with the closure and post
+closure requirements that apply to landfills.
+
+10. Additional Standards Applicable to Hazardous Waste Land
+Treatment Facilities
+
+NOTE: The management of hazardous waste utilizing land treatment is a
+technique still in its infancy and many unknowns remain regarding its
+efficacy. The Board, consequently, will consider approving applications for
+such treatment only if there is compelling evidence provided by the
+applicant that the waste in question can and will be rendered nonhazardous
+in natural soils under the proposed conditions.
+
+A. Performance Standards
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(1) The land treatment of hazardous waste must meet the following
+performance standards:
+
+(a) A land treatment facility must be designed and operated to ensure that
+hazardous waste placed in or on the treatment zone will not migrate beyond
+the zone and will be degraded, transformed, or otherwise made
+nonhazardous within the treatment zone within six months from the date of
+waste placement.
+
+(b) No land treated waste or constituent or derivative thereof shall appear in
+ground or surface waters at a concentration above background level, or
+above current public health drinking water standards for Maine, including
+the Maximum Exposure Guidelines, or standards for aquatic toxicity,
+whichever is most stringent. Background levels shall be those established by
+the pre-construction analysis required by Chapter 856, Section 10C(11)(g) or
+of the upgradient monitoring well required by Section 8D(1), whichever is
+lower.
+
+NOTE: Drinking water and aquatic toxicity standards are obtained from
+current manuals including but not limited to: State of Maine Rules of the
+Department of Human Services relating to Drinking Water; "Drinking Water
+and Health" published by the National Academy of Sciences; "Suggested
+No-Adverse Response Levels" as determined by the Environmental
+Protection Agency; "Ambient Water Quality Criteria" manuals, published by
+the Environmental Protection Agency.
+
+(c) No land treated waste or derivative or constituent thereof shall appear in
+the atmosphere in concentrations significantly above the background level
+nor exceed current ambient air quality standards for Maine at any time.
+Background levels shall be established by monitoring or demonstrated to
+have been previously established by monitoring.
+
+(2) An applicant seeking a license to land treat hazardous waste must
+demonstrate to the satisfaction of the Board that:
+
+(a) The waste will be rendered nonhazardous using the processes or
+methods proposed;
+
+(b) The design measures and operating procedures will maximize the
+success of the treatment;
+
+(c) The facility design and components including the soils, are compatible
+with the hazardous waste and the treatment process; and
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(d) The treatment process can and will be controlled at all times so as to
+prevent any uncontrolled releases of hazardous waste or its constituents or
+derivatives and to protect the public health and safety and the environment.
+
+B. Design
+
+(1) The performance standards can be met by a variety of methods, including
+but not limited to:
+
+(a) Proper siting of the facility on suitable soils, and with suitable subsoil
+deposits, and under suitable hydrologic conditions;
+
+(b) Appropriate application of the waste, together with nutrients, soil
+buffers, and special bacterial strains as necessary;
+
+(c) Cultivation and aeration of the waste/soil layer as necessary;
+
+(d) Collection and treatment of runoff.
+
+(2) Demonstration that the performance standards will be met must be by
+small-scale pilot studies in which each waste has been rendered
+nonhazardous in less than six months. Such a demonstration must comply
+with Chapter 856, Section 10G.
+
+(3) Surface slopes of an active portion of a land treatment facility must not
+be greater than 5 percent so as to minimize erosion, but must be greater
+than 0 percent so as to prevent ponding for periods that will cause the
+treated area to become anaerobic.
+
+(4) The distance from any natural soils barrier to the seasonal high water
+table at the site must be at least 5 feet.
+
+(5) Fugitive emissions, including volatile organic compounds, from the land
+treatment facility must be controlled in accordance with a plan approved by
+the Board.
+
+(6) The requirements of 40 CFR 264.271-264.273 are hereby adopted and
+incorporated by reference, provided however, that references to 40 CFR
+264.278 shall mean subsection 10(D) below, references to Part 261 shall
+mean Chapter 850, and references to sections of 40 CFR Part 270 shall
+mean Chapter 856.
+
+C. Operation
+
+(1) Hazardous waste shall not be land treated unless the waste will be made
+nonhazardous by soil-related biological degradation or chemical reaction
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+within six months from the date of application of the waste to the treatment
+area.
+
+(2) Incompatible wastes must not be treated upslope or downslope of one
+another, nor placed in the same treatment area.
+
+(3) Run-off from active portions of a land treatment facility must be diverted
+and collected. If the runoff is hazardous, it must be handled as a hazardous
+waste.
+
+(4) Waste shall not be applied to the soil when it is saturated or snow
+covered or when the soil surface or subsurface is frozen.
+
+(5) Wells (other than active monitoring wells) and other direct connections
+to the subsurface environment within the treatment area of the land
+treatment facility or within l00 feet therefrom, shall be sealed with cement
+grout or another suitable material prior to any land treatment activity.
+
+(6) The provisions of 40 CFR 264.276 are hereby adopted and incorporated
+by reference, provided however, that references to 40 CFR Part 261 shall
+mean Chapter 850. In addition, food chain crops must not be grown on a
+treated area or within 300 feet of a treated area of a land treatment facility
+unless the owner or operator demonstrates to the Board that hazardous
+waste(s) treated thereon:
+
+(a) Will not be transferred to the food portion of the crop by plant uptake or
+direct contact and will not otherwise be ingested by food chain animals, or
+
+(b) Will not occur in greater concentrations in the crops grown on or within
+300 feet of the treatment area than in the same crops grown on untreated
+soils under similar conditions elsewhere in the same region.
+
+(7) Waste application and incorporation practices shall prevent the zone of
+incorporation from becoming anaerobic.
+
+(8) The pH of the soil-waste mixture in the zone of incorporation shall be
+equal to or greater than 6.5 and maintained until the facility is closed.
+
+(9) Supplemental nitrogen and phosphorous added to the soil of the treated
+area for the purpose of increasing the rate of waste biodegradation shall not
+exceed the rates of application recommended for agricultural purposes by
+the United States Department of Agriculture (USDA) or the State
+Department of Agriculture (DOA).
+
+(10) The provisions of 40 CFR 264.281-264.283 are hereby adopted and
+incorporated by reference, provided however, that references to 40 CFR
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+261.21 or 261.23 shall mean "Chapter 850", and references to 40 CFR
+264.17(b) shall mean "Section 6(C)(7) above".
+
+D. Air, Ground Water, Surface Water and Soil Monitoring. The
+provisions of 40 CFR 264.278 are hereby adopted and incorporated by
+reference, provided however, that references to 40 CFR 264.271(b) shall
+refer to Section 10(B)(6) above.
+
+(1) An unsaturated zone monitoring system must be operational before the
+placement of waste on the land. The system must:
+
+(a) Detect the vertical migration of hazardous waste(s) and constituents
+thereof beneath the treatment area of the facility, and
+
+(b) Provide information on the background concentrations of the hazardous
+waste(s) and constituents thereof in similar but untreated soils nearby (at
+least 300 feet from the active treatment zone), and
+
+(c) Monitor soils using soil cores, and
+
+(d) Monitor soil-pore water using devices such as lysimeters.
+
+The system must be approved by the Department prior to licensing.
+
+(2) A ground water monitoring system, in accordance with Section 8D of this
+rule, must be operational prior to the placement of waste on the land.
+
+(3) The Board may require surface waters within or adjacent to a facility or
+facility property to be monitored in accordance with a plan approved by the
+Board.
+
+(4) Emissions, including fugitive emissions, from the facility must be
+monitored in accordance with Section 8F of this rule.
+
+E. Surveying and Recordkeeping. The owner or operator of a land
+treatment facility must maintain and keep current, in the facility operating
+record for as long as the facility is operated, a record of types and quantities
+of hazardous waste (s) treated, application dates, rates, and location, repairs,
+accidents and abatement measures taken within the treatment facility for
+the entire life of the facility. The Department may require that a current
+copy of that record be kept on file with the Department. Upon facility
+closure, such records shall be delivered to the Department.
+
+F. Special Closure Requirement. The provisions of 40 CFR 264.280 are
+hereby adopted and incorporated by reference, provided however, that
+references to other sections of 40 CFR Part 264 shall mean "this Chapter".
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+11. Additional Standards Applicable to Hazardous Waste Piles
+
+A. Performance Standards. A waste pile must be established,
+constructed, altered and operated to meet the following performance
+standards:
+
+(1) A waste pile must be designed and operated such that there is no
+migration of wastes out of the pile into adjacent subsurface soil or ground
+water or surface water at any time and that any particulate matter which
+may be subject to wind dispersal is controlled at all times.
+
+(2) No hazardous waste or constituent or derivative thereof shall appear in
+ground or surface waters at a concentration above background level, or
+above current public health drinking water standards for Maine, including
+the Maximum Exposure Guidelines, or standards for aquatic toxicity,
+whichever is most stringent. Background levels shall be those established by
+the pre-construction analysis required by Chapter 856, Section 10C(11)(g) or
+of the upgradient monitoring well required by Section 8D(1), whichever is
+lower.
+
+NOTE: Drinking water and aquatic toxicity standards are obtained from
+current manuals including but not limited to: State of Maine Rules of the
+Department of Human Services relating to Drinking Water; "Drinking Water
+and Health" published by the National Academy of Sciences; "Suggested
+No-Adverse Response Levels" as determined by the Environmental
+Protection Agency; "Ambient Water Quality Criteria" manuals, published by
+the Environmental Protection Agency.
+
+(3) No hazardous waste or constituent or derivative thereof shall appear in
+the atmosphere in concentrations significantly above the background level
+nor exceed current ambient air quality standards for Maine at any time.
+Background levels shall be established by monitoring or demonstrated to
+have been previously established by monitoring.
+
+(4) No hazardous waste may be treated in a waste pile.
+
+B. Design and Operating Requirements
+
+(1) The provisions of 40 CFR 264.251 and 264.259 are hereby adopted and
+incorporated by reference. A natural clay liner meeting the design and
+operation requirements of Section 8B(2) or a synthetic liner which meets the
+design and operation requirements of Section 8B(4), (5), (6) and (7) must
+underlie the waste pile. The liner must be intact beneath the waste pile and
+must be constructed with a raised berm around the entire waste pile.
+
+(2) No ignitable or reactive wastes may be stored in a waste pile.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(3) Storage of incompatible wastes in a waste pile must be in accordance
+with the requirements of 40 CFR 264.257, which is hereby adopted and
+incorporated by reference, provided, however, that the references 40 CFR
+264.17(b) shall mean "Section 6(C)(7) above".
+
+(4) No waste may remain in a pile for longer than 180 days.
+
+(5) Fugitive emissions from the waste pile must be controlled in accordance
+with a plan approved by the Board.
+
+C. Monitoring
+
+(1) Monitoring of the structure of the waste pile during construction and
+operation shall meet the requirements of 40 CFR 264.254, which is hereby
+adopted and incorporated by reference, provided however, that the
+reference to 40 CFR 264.251(a) shall mean "subsection (B)(1) above."
+
+(2) Ground water shall be monitored in accordance with Section 8D of this
+rule.
+
+(3) Emissions, including fugitive emissions, from the facility shall be
+monitored in accordance with Section 8F of this rule.
+
+(4) The Board may require surface waters within or adjacent to a facility or
+facility property to be monitored in accordance with a plan approved by the
+Board.
+
+D. Closure Requirements. The provisions of 40 CFR 264.258 are hereby
+adopted and incorporated by reference provided however, that references to
+Sections of 40 CFR Part 261 shall mean "Chapter 850", and references to
+other sections or subparts of 40 CFR Part 264 shall mean "this Chapter."
+
+12. Additional Standards Applicable to Hazardous Waste Tank
+and Container Storage Facilities
+
+A. Performance Standards
+
+(1) A hazardous waste storage facility must be established, constructed,
+altered and operated to meet the following performance standards:
+
+(a) No hazardous waste or derivative thereof shall escape from the facility to
+ground or surface waters or to adjacent subsurface soil at any time during
+the life of the facility.
+
+(b) No hazardous waste or constituent or derivative thereof shall appear in
+the atmosphere in concentrations significantly above the background level
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+nor exceed current ambient air quality standards for Maine at any time.
+Background levels shall be established by monitoring or demonstrated to
+have been previously established by monitoring.
+
+(2) The storage of hazardous waste in an underground or inground tank is
+prohibited unless that tank is interimly-licensed under Chapter 855 and in
+use on the effective date of this rule and is not prohibited under Section
+7A(3).
+
+B. Design
+
+(1) The provisions of 40 CFR 264.175, 264.190(a) and (b), 264.192, and
+264.193(a)-(f)(3) and (i) as revised on September 2, 1988 (53 FR 34086),
+are hereby adopted and incorporated by reference, provided however, that
+references to sections of 40 CFR Part 270 shall mean "Chapter 856", and
+references to other sections or subparts of 40 CFR Part 264 shall mean "this
+Chapter".
+
+(2) A container storage facility must have a base which is a firm working
+surface, such as asphalt or concrete, which is impervious and which must be
+kept entire. A natural clay liner meeting the design and operation
+requirements of Section 8B(2) or a synthetic liner which meets the design
+and operation requirements of Section 8B(4), (5), (6) and (7) must underlie
+the working surface. The liner must be intact beneath the storage facility and
+must be constructed with a raised berm around the entire storage facility.
+
+(3) An interimly licensed container storage facility for hazardous waste
+which is being used as such on the effective date of this rule may be
+exempted from the requirement of a liner beneath the existing base if the
+applicant demonstrates to the Board's satisfaction that the facility has not in
+the past violated the performance standards established herein and that the
+facility design will provide full compliance with the performance standards
+at all times.
+
+(4) Each building or separate container storage area must have a
+containment and collection system the capacity of which must exceed 20%
+of the total capacity of all containers and tanks used to store wastes or 110%
+of the capacity of the largest container or tank, whichever is greater. This
+system must also provide for sufficient freeboard to allow for containment
+and collection of precipitation resulting from a 24 hour, 25 year storm,
+unless the storage facility is enclosed.
+
+(5) A tank must be designed and installed so that it can be fully inspected for
+structural integrity, deterioration, and leaks except that a tank whose base
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+cannot be fully inspected must be designed and installed to meet the
+standards of 40 CFR 264.193 (e)(3) for double-walled tanks.
+
+(6) Uncovered tanks must be designed to assure at least 2 feet of freeboard
+at all times.
+
+(7) Overtopping of tanks during continuous feed must be prevented by a
+system of automatic shutoff or by automatic diversion of the waste feed into
+a tank having at least 30 percent of the volume of the primary tank.
+
+(8) A building or other structure used as a hazardous waste storage facility
+must meet all requirements, codes and standards of the Department of
+Public Safety (State Fire Marshal's Office).
+
+(9) The date of manufacture of a tank must be painted in a prominent
+location on the tank.
+
+C. Operation
+
+(1) A container must not be used for the storage of hazardous waste for a
+period of time exceeding the design life of the container.
+
+(2) The requirements of 40 CFR 264.191 are hereby adopted and
+incorporated by reference, provided however, that references to 40 CFR
+264.193 shall mean "Subsection (B) above", references to sections in 40 CFR
+Part 270 shall mean "Chapter 856", and references to 40 CFR Part 264.196
+shall mean "subsection (E) below." In addition, any pipeline and pipeline
+valves that transfers hazardous waste to or from a tank used to store
+hazardous waste must be inspected and pressure tested at least annually or
+tested at least annually by a method approved by the Board or Department,
+to determine structural integrity. A pipeline that fails the test or a pipeline or
+tank is determined as a result of the inspection to be unsafe shall not
+thereafter be used to store or transfer hazardous waste. A tank, its piping
+and valves must be tested at least annually to determine the thickness and
+corrosion rate utilizing a method approved by the Board. In addition all
+piping valves must be internally inspected at least annually to determine
+fitness for use. The date of the most recent inspection and testing of a tank
+must be painted in a prominent location on the tank. Results of all tank and
+pipe testing shall be submitted to the Department within 10 days of taking
+place.
+
+(3) An underground tank that is not prohibited by Section 12A(2) of this rule
+must be tested at least semi-annually by the method(s) recommended in
+Chapter 691. An underground tank that fails the test or leaks shall be
+removed and may not be replaced. Underground hazardous waste storage
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+systems (tanks and piping) with secondary containment, and continuous
+interstitial space monitoring, need not be tested annually except to insure
+that the leak detection equipment is operating properly in accordance with
+the testing and calibration requirements of Chapter 691, Section 7(C)2 of the
+Regulations for Registration, Installation, Operation and Closure of
+Underground Oil Storage Facilities.
+
+(4) Hazardous waste must not be stored in containers or tanks which are
+rusted, bulging or leaking. The requirements of 40 CFR 264.171 are hereby
+adopted and incorporated by reference.
+
+(5) Containers or tanks must be compatible with the type of waste stored
+therein. The requirements of 40 CFR 264.172 and 40 CFR 264.194(a) are
+hereby adopted and incorporated by reference.
+
+(6) Containers or tanks used to store hazardous waste must not be used to
+store foodstuffs or animal feed or any substance likely to come into contact
+with foodstuffs or animal feed.
+
+(7) Containers or tanks holding incompatible hazardous wastes must not be
+stored in the same enclosure, building or structure unless they are
+segregated in a manner that prevents the wastes from coming into contact
+with one another under any circumstances, including leakage or failure of a
+container or tank. The requirements of 40 CFR 264.177 and 264.199 and
+adopted and incorporated by reference, provided however, that the
+references to 40 CFR 264.17(b) shall mean "Section 6(C)(7)" above."
+
+(8) All hazardous waste containers must be stored in a manner that allows
+access for inspection and for remedial action if any container is found to be
+rusting, bulging or leaking or waste is spilled or discharged. In any event:
+
+(a) Containers with a capacity of l0 gallons or more must not be stacked in
+rows in excess of 4 wide and 2 high.
+
+(b) Aisle space between rows of containers must be sufficient to allow the
+unobstructed movement of personnel, fire protection equipment, spill
+control equipment and decontamination equipment to any area of facility
+operation in any emergency but in no event shall the aisle space be less than
+36 inches wide. Rows not exceeding a single container in width and two (2)
+high may be stacked adjacent to walls or other components of the storage
+facility.
+
+(9) Storage of hazardous waste in open containers or in open tanks not
+meeting the requirements of Section 12B(5)-(7) above is prohibited. The
+requirements of 40 CFR 264.173 and 264.194(b) and (c) are hereby adopted
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+and incorporated by reference provided, however, that references to 40 CFR
+264.196 shall mean "subsection (E) below".
+
+(10) Wastes not already so labeled must, on arrival at the facility, be clearly
+and permanently labeled with the words "Hazardous Waste" and labeled to
+identify type of waste, generator and date of arrival.
+
+(11) For any hazardous waste stored for longer than l80 days, the owner or
+operator of the facility must:
+
+(a) Pay the fee as required by 38 M.R.S.A., Section 1319-I;
+
+(b) Prepare a written inventory of all wastes stored for l80 days and submit a
+copy to the Department on the 181st day, indicating when these wastes will
+be removed from storage for further handling and how they will be handled.
+
+(c) Segregate and label these wastes with the date of the 180th day.
+
+(12) The storage of any hazardous waste for longer than 360 days is
+prohibited unless the owner or operator of a storage facility applies for, in
+writing, and receives approval to do so from the Commissioner. Any
+extension shall be for a period of time not exceeding 90 days, after which a
+new extension may be requested. In seeking approval, the owner or operator
+must demonstrate the maintenance of a segregated area for such waste, the
+continuing integrity of containers or tanks, the quantification and control of
+fugitive emissions, continuing security and continuing efforts to move the
+waste out of storage to other handling. If an approval for storage for longer
+than 360 days is not granted or if any request for extension is denied,
+continued storage of that waste is a violation of the license of the facility and,
+in addition, constitutes unlicensed disposal of the waste.
+
+NOTE: For guidance on classifying residues of hazardous waste in empty
+tanks, refer to Section 3(A)(7) of Chapter 850.
+
+(13) Containers holding ignitable or reactive waste must be located at least
+15 meters (50 feet) from the facility's property line. Tanks holding ignitable
+or reactive waste are subject to the requirements of 40 CFR 264.198, which
+are hereby adopted and incorporated by reference, provided, however, that
+references to 40 CFR 261.21 or 261.23 shall mean "Chapter 850" and
+references to 40 CFR 264.17(b) shall mean "Section 6(C)(7) above."
+
+D. Inspection, Surveying and Recordkeeping. The requirements of
+40 CFR 264.174 and 264.195 are hereby adopted and incorporated by
+reference. In addition:
+
+(1) Daily inspections shall be made to ensure that:
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(a) Two feet of freeboard is maintained at all times in uncovered tanks,
+
+(b) No containers, tanks, pipelines or valves are rusting, bulging or leaking.
+
+(2) Weekly inspections shall be made to ensure that:
+
+(a) The working surface and the containment and collection system are in
+good order and free from cracks and leaks.
+
+(b) All safety devices, valves, spill and overfill equipment and fire
+extinguishing equipment are structurally sound and properly functioning.
+
+(3) Monthly inspections shall be made to ensure that:
+
+(a) All tank welds, rivets, bolts, foundation supports for both tanks and
+piping are in good condition,
+
+(b) All sources of cathodic protection are tested and in good working order,
+
+(c) All pressure relief valves are functioning properly.
+
+(4) Every ten years, beginning on January 1, 1994, all aboveground vertical
+tanks with a capacity of 31,500 gallons or more must be inspected and
+deemed suitable for service in accordance with the standards published by
+the American Petroleum Institute (API) - #653.
+
+(5) The owner or operator of a hazardous waste storage facility must
+maintain and keep current a written record and/or diagram showing:
+
+(a) The layout of the facility and where each type of hazardous waste is
+stored within the facility;
+
+(b) The length of time each waste has been at the facility;
+
+(c) Details of all inspections of and repairs to the base, liners and
+containment and collection systems;
+
+(d) Details of all accidents and spills, including date and time of discharge or
+discovery and spill reporting, volume of spill and method of clean up;
+
+(e) Dates of repair or removal of rusted, bulging or leaking containers.
+
+This record/diagram must be maintained at the facility during operation
+and closure and must be delivered to the Department upon closure. The
+Department may require that a current copy of that record be kept on file
+with the Department.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(6) The results of annual tank and pipe testing shall be recorded at the
+facility.
+
+E. Repairs and Response to Leaks or Spills
+
+(1) Breaks in the liner(s) shall be repaired immediately.
+
+(2) In the event any container is found to be rusted, bulging, leaking or
+otherwise unsafe, the wastes contained therein shall be transferred
+immediately to another container that does meet the standards provided in
+49 CFR 173. If the unsuitable container is repaired so that it meets the
+specifications in 49 CFR 173, it may be reused.
+
+(3) The requirements of 40 CFR 264.196 are hereby adopted and
+incorporated by reference, provided however, that references to other
+sections in 40 CFR Part 264 shall mean "this Chapter", and references to
+sections in 40 CFR Part 270 shall mean "Chapter 856."
+
+(4) The liquids must be removed from the containment structure of a
+storage facility which is not enclosed as soon as practicable, but in no case
+later than 24 hours or at another time approved by the Department after
+detection of the leak. Upon request by the owner or operator, the
+Department may extend the 24 hour time limit if the owner or operator
+demonstrates further removal is not necessary to prevent further harm to
+human health or the environment. An evaluation shall be performed as to
+whether such liquids are a hazardous waste prior to treatment or disposal of
+the liquids.
+
+(5) If, at any time during operation, closure, or post-closure of the facility,
+the performance standards of this section are not being met, a corrective
+action program must be implemented, details of which must be specified or
+approved by the Department.
+
+F. Air, Ground Water and Surface Water Monitoring. The Board
+may require ground water, surface water and air quality monitoring in
+accordance with the requirements of Sections 8D, 8E, and 8F of this rule if it
+determines that such monitoring is necessary to ensure protection of public
+health and safety or of the environment.
+
+G. Closure. The requirements of 40 CFR 264.178 and 264.197 are hereby
+adopted and incorporated by reference, provided however, that references to
+other sections of subparts of 40 CFR Part 264 shall mean "this Chapter", and
+references to sections of 40 CFR Part 261 shall mean "Chapter 850", and no
+variance under 40 CFR 264.193(g) shall be allowed.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+13. Additional Standards Applicable to Hazardous Waste
+Incinerators
+
+A. Principal hazardous constituents (PHCs) and hazardous combustion by-
+products must be treated to the extent required by the performance
+standards specified in Section 13B below. For each waste feed to be burned,
+one or more PHCs and hazardous combustion by-products will be specified
+from among those constituents listed in Appendix VIII of Chapter 850. This
+specification will be based on the degree of difficulty of incineration of the
+hazardous constituents of the waste feed and its combustion by-products,
+their concentration or mass, considering the results of waste analyses and
+trial burns or alternative data submitted with the facility's license
+application. Hazardous constituents or by-products which represent the
+greatest degree of difficulty of incineration will be those most likely to be
+designated as PHCs or hazardous combustion by-products. Constituents are
+more likely to be designated as PHCs or hazardous combustion by-products
+if they are present in large quantities or concentrations. Trial PHCs will be
+designated for performance of trial burns in accordance with the procedure
+specified in 40 CFR 270.62 (or Chapter 856 of those rules) for obtaining trial
+burn permits. Trial hazardous combustion by-products will be designated
+under the same procedure.
+
+B. Performance Standards. A hazardous waste incinerator must be
+established, constructed, altered, operated and maintained to meet the
+following performance standards:
+
+(1) No hazardous waste or constituent or derivative thereof shall appear in
+the atmosphere in concentrations significantly above the background level
+nor exceed ambient air quality standards for Maine at any time. Background
+levels shall be established by monitoring or demonstrated to have been
+previously established by monitoring.
+
+(2) An incinerator burning hazardous waste must achieve a Destruction
+Removal Efficiency (DRE) of 99.99 percent or greater (except as noted in (3)
+below) for each Principal Hazardous Constituent (PHC) designated in its
+license for each waste stream to be burned. The following equation is used to
+determine the DRE for each PHC:
+
+DRE= W in - W out x 100
+
+W in
+
+Where: W in= Mass feed rate of one PHC in the waste stream feeding the
+incinerator; and
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+W out= Mass emission rate of the same PHC present in exhaust emissions
+prior to release to the atmosphere.
+
+(3) An incinerator burning hazardous wastes F020, F021, F022, F023,
+F026, or F027 must achieve a destruction and removal efficiency (DRE) of
+99.9999% for each principal hazardous constituent (PHC) designated in its
+license. This performance must be demonstrated on PHCs that are more
+difficult to incinerate than tetra-, penta-, and hexachlorodibenzo-p-dioxins
+and dibenzofurans. In addition, the owner or operator of the incinerator
+must notify the Board of his intent to incinerate hazardous wastes F020,
+F021, F022, F023, F026 or F027.
+
+(4) An incinerator burning hazardous waste containing more than 0.5%
+halogens must remove at least 99% of the hydrogen halides from the exhaust
+gas. The stack emissions of hydrogen chlorides from any hazardous waste
+incinerator shall not exceed 50 parts per million (ppm) by volume, adjusted
+to 7% oxygen by volume.
+
+(5) An incinerator burning hazardous waste must not emit particulate
+matter exceeding 180 milligrams per dry standard cubic meter (0.08 grams
+per dry cubic foot) when corrected for 7% oxygen. Tests may be required, if
+applicable, using the procedures specified by 40 CFR 60.50, Subpart E
+(Clean Air Act Regulations, "Standards for Performance of Incinerators").
+
+(6) No heavy metals shall appear in the atmosphere in concentrations
+significantly above the background level nor exceed ambient air quality
+standards for Maine at any time. Background levels shall be established by
+monitoring or demonstrated to have been previously established by
+monitoring.
+
+(7) An incinerator must destroy hazardous combustion by-products
+designated in its license such that the total mass emission rate of these by-
+products emitted from the stack is 0.01l% or less of the total mass feed rate
+of PHCs fed into the incinerator.
+
+(8) All combustion residues, such as fly ash, must be handled in accordance
+with all Federal and State statutory and regulatory requirements for their
+handling.
+
+C. Operation
+
+(1) An incinerator must be operated in accordance with operating
+requirements specified in the license. These will be specified on a case-by-
+case basis as those demonstrated (in a trial burn or in alternative data) to be
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+sufficient to maintain compliance with the performance standards of Section
+13B above.
+
+(2) Each set of operating requirements will specify the composition of the
+waste feed (including acceptable variations in the physical or chemical
+properties of the waste feed which will not affect compliance with the
+performance standards to which the operating requirements apply.) For
+each such waste feed, the license will specify acceptable operating limits
+including the following conditions:
+
+(a) Carbon monoxide (CO) level in the stack exhaust gas;
+
+(b) Waste feed rate;
+
+(c) Combustion temperature;
+
+(d) An appropriate indicator of combustion gas velocity;
+
+(e) Air feed rate;
+
+(f) Such other operating requirements as are necessary to ensure that the
+performance standards are met.
+
+(3) During start-up and shut-down of an incinerator, hazardous waste must
+not be fed into the incinerator unless the incinerator is operating within the
+conditions of operation (temperature, air feed rate, etc.) specified in the
+license.
+
+(4) Fugitive emissions from the combustion zone must be controlled by:
+
+(a) Keeping the combustion zone totally sealed against fugitive emissions; or
+
+(b) Maintaining a combustion zone pressure lower than atmospheric
+pressure; or
+
+(c) An alternate means of control demonstrated (as part of the permit
+application) to provide fugitive emissions control equivalent to maintenance
+of combustion zone pressure lower than atmospheric pressure.
+
+(5) An incinerator must be operated with a functioning system designed to
+automatically cut off waste feed to the incinerator when operating
+conditions deviate from limits established under this section.
+
+(6) An incinerator must cease operation when changes in waste feed,
+incinerator design or operating conditions exceed limits designated in its
+license.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(7) All hazardous waste incinerators in which halogenated wastes are burned
+must maintain, at a minimum, a combustion temperature of 1,000º C for a 2
+second dwell time with 3% excess oxygen in the stack gas or 1,200º C for a
+l.5 second dwell time with 2% excess oxygen in stack gas or an equivalent
+standard. More stringent operating requirements may be required by the
+Board, depending upon the waste involved, if it is determined by the Board
+to be necessary to protect the public health and safety or the environment.
+
+(8) Hazardous waste incinerators which burn only non-halogenated wastes
+must maintain a combustion temperature of not less than 885º C. Specific
+combustion temperatures will be established in the license and will depend
+on the type of non-halogenated waste, its physical condition and the rate at
+which it is added to the normal fuel feedstock.
+
+D. Monitoring, Inspections, and Recordkeeping
+
+(1) The owner or operator must conduct waste analyses sufficient to verify
+that all waste feed to the incinerator is within the limits specified in his
+license.
+
+(2) The owner or operator must monitor stack emissions to verify that the
+operating requirements established in the license achieve the performance
+standards.
+
+(3) The owner or operator must monitor on a continuous basis:
+
+(a) Combustion temperature, waste feed rate, combustion gas velocity and
+air feed rate;
+
+(b) CO, at a point in the incinerator downstream of the combustion zone and
+prior to release to the atmosphere;
+
+(c) Such other parameters, such as CO, CO2, O2, total hydrocarbons, and
+opacity, that the Board determines to be necessary to be monitored at the
+stack or at other locations in order to demonstrate compliance with the
+standards and requirements of this rule at all times.
+
+(4) The incinerator and associated equipment (pumps, valves, conveyors,
+pipes, etc.) must be subjected to thorough visual inspection, at least daily,
+for leaks, spills, fugitive emissions and signs of tampering.
+
+(5) The emergency waste feed cutoff system and associated alarms must be
+inspected daily and tested at least weekly to verify operability.
+
+(6) The owner or operator of an incinerator must maintain and keep current
+for as long as the facility is operated a record of the types and quantities of
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+hazardous waste incinerated, dates of incineration, repairs, accidents or
+uncontrolled releases and any abatement measures taken.
+
+(7) The monitoring and inspection data must be recorded and all records
+must be placed in the operating log required by Section 6C(9) of this rule.
+The Department may require that a current copy of those records be kept on
+file with the Department. Upon closure, the operating log must be delivered
+to the Department.
+
+E. Closure. At closure, the owner or operator must remove all hazardous
+waste and residues (including, but not limited to, ash, scrubber waters, and
+scrubbers sludges) from the incinerator site.
+
+14. Additional Standards for Treatment in Tanks
+
+A. Performance Standards
+
+(1) Facilities for treatment of hazardous waste in tanks must be constructed,
+altered and operated to meet the following performance standards:
+
+(a) No hazardous waste or constituent or derivative thereof shall escape
+from the treatment facility to ground or surface waters or to adjacent
+subsurface soil at any time during the life of the facility.
+
+(b) No hazardous waste or constituent or derivative thereof shall appear in
+the atmosphere in concentrations significantly above the background level
+nor exceed current ambient air quality standards for Maine at any time.
+
+Background levels shall be established by monitoring or demonstrated to
+have been previously established by monitoring.
+
+(c) The treatment of hazardous waste in an underground tank is prohibited.
+
+(2) An applicant seeking a license to treat hazardous waste in a tank or tanks
+must demonstrate to the satisfaction of the Board that:
+
+(a) The waste is capable of being treated in a tank or tanks using the
+processes proposed, based upon a trial test (a bench or small-scale pilot
+test), that determines the treatment technique, its effectiveness, and any
+limiting factors;
+
+(b) The design measures and operating procedures will maximize the
+success of the treatment;
+
+(c) The facility design and components are compatible with the hazardous
+waste and the treatment process; and
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(d) The treatment process can and will be controlled at all times so as to
+prevent uncontrolled releases of hazardous waste or its constituents or
+derivatives and to protect the public health and safety and the environment.
+
+B. Design. In addition to the requirements applicable to storage of
+hazardous waste in tanks under Section 12B, the following requirements
+apply to treatment in tanks:
+
+(1) Materials used in the construction and operation of all parts of the
+treatment facility must be compatible with the wastes to be treated and with
+any treatment chemicals or reagents utilized in the treatment process.
+
+(2) An alarm system to alert the operator to abnormal operations and to
+malfunctions must be installed prior to operation of the facility.
+
+(3) The facility must have sufficient excess capacity to hold all wastes
+undergoing treatment if an equipment malfunction or breakdown occurs
+during the treatment process. The wastes must be able to be held securely
+until the treatment equipment is repaired.
+
+(4) Fugitive emissions, including volatile organic compounds, from the
+facility must be controlled in accordance with a plan approved by the Board.
+
+C. Operation. In addition to the requirements applicable to the storage of
+hazardous waste in tanks under Section 12C, the following requirement shall
+apply to treatment in tanks.
+
+(1) All hazardous waste must be analyzed immediately prior to treatment, in
+order to ensure that:
+
+(a) The proper treatment technique, feed rates of treatment chemicals and
+reagents, and operating conditions (temperature, pressure, flow rate, etc.)
+are known and will be adhered to;
+
+(b) The treatment technique proposed will not have any detrimental effect
+upon any of the materials used to construct or operate the treatment
+apparatus;
+
+(c) The waste contains no components or contaminants which might
+interfere with or have an adverse impact on the treatment process;
+
+(d) The waste contains no components or contaminants which, when
+treated, may cause an uncontrolled release of wastes or toxic gases or fumes;
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(e) The waste contains no components or contaminants which, when
+treated, would form substances or residues which the facility could not
+handle properly in accordance with State and Federal requirements.
+
+(2) Demonstration of the treatment process must be made by trial test. The
+demonstration, appropriately modified for treatment in tanks, must comply
+with Chapter 856, Section 10G.
+
+(3) All treatment chemicals and reagents must be stored in a manner that
+minimizes the potential for spills, fires, explosions or uncontrolled
+discharges or releases.
+
+D. Inspection, Surveying and Recordkeeping. In addition to the
+requirements applicable to the storage of hazardous waste in tanks under
+Section 12D, the following requirements shall apply to treatment in tanks:
+
+(1) The owner or operator must maintain and keep current a record of:
+
+(a) All hazardous waste(s), by type and volume, received for treatment;
+
+(b) Where at the facility each hazardous waste is being held prior to
+treatment;
+
+(c) Date of treatment of each waste received, the volume treated and the
+method of treatment (if more than one method is permitted);
+
+(d) Details of all accidents and spills at the facility; and
+
+(e) All inspections.
+
+This record must be maintained at the facility during operation and upon
+closure must be delivered to the Department. The Department may require
+that a current copy of that record be kept on file with the Department.
+
+E. Air, Ground Water and Surface Water Monitoring. The
+Department may require ground water, surface water and air quality
+monitoring in accordance with the requirements of Sections 8D, 8E, and 8F
+of this rule if it determines that such monitoring is necessary to ensure
+protection of public health and safety or of the environment.
+
+F. Response to Leaks or Spills and Closure. The requirements of
+Section 12E and 12G applicable to the storage of hazardous waste in tanks
+shall also apply to the treatment of hazardous waste in tanks.
+
+15. Additional Standards Applicable to Miscellaneous Units
+
+A. Performance Standards
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(1) A hazardous waste miscellaneous unit must be established, constructed,
+altered, and operated to meet the following performance standards:
+
+(a) No hazardous waste or constituent or derivative thereof shall appear in
+ground or suffice waters at a concentration above background level, or above
+current public health drinking water standards for Maine, including the
+Maximum Exposure Guidelines, or standards for aquatic toxicity, whichever
+is most stringent.
+
+NOTE: Drinking water and aquatic toxicity standards are obtained from
+current manuals including but not limited to: State of Maine Rules of the
+Department of Health Services relating to Drinking Water; "Drinking Water
+and Health" published by the National Academy of Sciences; "Suggested No
+Adverse Response Levels as determined by the Environmental Protection
+Agency; and "Ambient Water Quality Criteria" manuals published by the
+Environmental Protection Agency.
+
+(b) No hazardous waste or constituent or derivative thereof shall appear in
+the atmosphere in concentrations significantly above the background level
+nor exceed current ambient air quality standards for Maine at any time.
+Background levels shall be established by monitoring or demonstrated to
+have been previously established by monitoring.
+
+(2) A miscellaneous unit shall also meet the appropriate performance
+standards applicable to other hazardous waste management units.
+
+B. Design, Construction, Operation and Closure
+
+(1) A miscellaneous unit must be located, designed, constructed, operated,
+maintained, and closed in a manner that will ensure compliance with the
+performance standards in subsection (A) above. Permits for miscellaneous
+units shall contain such terms and conditions necessary to protect human
+health and the environment and ensure compliance with such performance
+standards, including but not limited to, as appropriate, design and operating
+requirements, detection and monitoring requirements, and requirements for
+responses to releases of hazardous waste or constituents from the unit.
+Permit terms and conditions shall include those requirements of this
+Chapter applicable to other hazardous waste management units that are
+appropriate for the unit being permitted. Protection of human health and
+the environment includes, but is not limited to, the factors specified in 40
+CFR 264.601(a)-(c), which are hereby adopted and incorporated by
+reference.
+
+C. Monitoring, Analysis, Inspection, Response, Reporting, and
+Corrective Action
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(1) Monitoring, testing, analytical data, inspections, response, and reporting
+procedures must ensure compliance with the performance standards of
+subsection (A) above, the general inspection, equipment testing and
+maintenance, annual reporting, unmanifested waste reporting, and
+additional reporting requirements specified in Section 6(C) of this Chapter;
+the corrective action requirements of Section 6(C)(18) of this Chapter; and
+any additional requirements necessary to protect human health and the
+environment as specified in the permit.
+
+(2) The Board may require ground water monitoring, surface water
+monitoring, air monitoring, and/or soils monitoring in accordance with a
+plan approved by the Board. If, at any time during operation, closure, or
+post closure of the facility (where applicable), the monitoring demonstrates
+that the performance standards are not being met by the miscellaneous unit,
+a corrective action program must be implemented, details of which must be
+specified or approved by the Department.
+
+D. Post-Closure Care. A miscellaneous unit that is a disposal unit must
+be maintained in a manner that complies with the performance standards of
+subsection (A) above and protects human health and the environment
+during the post-closure care period. In addition, if a treatment or storage
+unit has contaminated soils, surface waters, or ground water that cannot be
+completely removed or decontaminated during closure, then that unit must
+also meet the performance standards of subsection (A) above and protect
+human health and the environment during post-closure care. The
+post-closure requirements of Section 6(C)(15) of this chapter shall apply and
+the post-closure plan must specify the procedures that will be used to satisfy
+this requirement.
+
+E. Open Burning Units
+
+(1) In addition to the requirements applicable to miscellaneous units, the
+following requirements shall apply to a unit employed for the open burning
+or detonation of hazardous waste:
+
+(a) The unit shall be designed, constructed, operated, and closed in a
+manner intended to prevent the migration of hazardous waste or
+constituents into the environment;
+
+(b) Surface slopes of an active portion of the unit must not be greater than 5
+percent so as to minimize erosion, but must be greater than 0 percent so as
+to prevent ponding for periods that will cause the area to be anaerobic;
+
+(c) The distance from any natural soils barrier to the seasonal high water
+table at the site must be at least 5 feet;
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+(d) Food chain crops must not be grown within 300 feet of the unit unless
+the owner or operator demonstrates to the Board that hazardous waste:
+
+(i) Will not be transferred to the food portion of the crop by plant uptake or
+direct contact and will not otherwise be ingested by food chain animals, or
+
+(ii) Will not occur in greater concentrations in the crops grown within 300
+feet of the unit than in the same crops grown on untreated soils under
+similar conditions elsewhere in the same region;
+
+(e) All hazardous waste must be analyzed immediately prior to burning or
+detonation to ensure that:
+
+(i) The waste contains no components or contaminants which might
+interfere with or have an adverse impact on the burning or detonation
+process,
+
+(ii) The waste contains no components or contaminants which, when burned
+or detonated, may cause an uncontrolled release of waste or toxic gases or
+fumes, and
+
+(iii) The waste contains no components or contaminants which, when
+burned or detonated, would form substances or residues that the facility
+could not handle properly in accordance with State and Federal
+requirements;
+
+(f) Ground water monitoring of the unit shall be conducted in accordance
+with Section 8(D) of this Chapter;
+
+(g) Soil monitoring shall be conducted in accordance with a program
+developed or approved by the Department, and if the presence of hazardous
+waste or constituents is detected at the edge of the unit in excess of
+background levels, corrective action shall be conducted in accordance with a
+program developed or approved by the Department;
+
+(h) Detailed records of burning or detonation activities in the unit, and
+corrective action activities conducted at the site, shall be maintained as
+specified or approved by the Department; and
+
+(i) At closure, the owner or operator shall remove or decontaminate all
+waste residues, contaminated containment system components,
+contaminated subsoils, and structures and equipment contaminated with
+waste and leachate, and manage them as hazardous waste unless Section
+3(A)(3)(d) of Chapter 850 applies or, if after removing or decontaminating
+all residues and making all reasonable efforts to effect removal or
+decontamination of contaminated components, subsoils, structures and
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+equipment, the owner or operator finds that not all contaminated subsoils
+can be practicably removed or decontaminated, he must close the facility in
+accordance with the closure and post-closure requirements that apply to
+landfills.
+
+16. Additional Standards Applicable to Waste Facilities Located in
+a Flood Plain. Any facility located or to be located within 300 feet of a 100
+year flood plain may be constructed, operated or maintained only if the
+applicant:
+
+A. Demonstrates to the satisfaction of the Board by persuasive evidence that
+the rebuttable presumption against constructing, operating, or maintaining
+a facility in such an area has been overcome; and
+
+B. Constructs, operates, and maintains such facility:
+
+(1) To prevent wash-out of any hazardous waste by a 100 year flood; or
+
+(2) Has procedures that will be in effect which will cause the waste to be
+removed to a location where the waste will not be vulnerable to flood waters
+and to a location which is authorized to manage hazardous waste safely
+before flood water can reach the facility; and
+
+(3) Complies with all other applicable facility standards in this Chapter.
+
+17. Additional Standards Applicable to Commercial Facilities. For
+commercial facilities, the exposure information requirements of Chapter
+856, Section 10(C)(13) shall apply.
+
+18. Variance Requests. Consistent with Federal requirements for
+authorization to operate the State hazardous waste management program,
+the Board may, on its own motion or on request, modify or waive one or
+more of the requirements of Sections 8B, 9B, 11B, 12B, and 14B of this rule
+relating to design of a specified type of facility except that no performance
+standard may be made less stringent. Such modification or variance must be
+justified on the basis that greater protection to health, safety, welfare or the
+environment than that provided by the performance standards is required
+and will thereby be provided or on the basis that no less protection than that
+provided by the performance standards will thereby be provided in that the
+design is an alternate but equivalent one.
+
+19. Severability. Should any provision of this rule be declared invalid or
+ineffective by court decision, the decision shall not invalidate any other
+provision of this rule.
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+After a public hearing on August 19, 1993, this rule as amended is adopted
+this 12 day of January, 1994.
+
+AUTHORITY: 38 M.R.S.A., Section 1301, et seq.
+
+EFFECTIVE DATE: March 23, 1983
+
+Amended: February 10, 1985
+
+Amended: November 30, 1986
+
+Amended: March 16, 1994
+
+EFFECTIVE DATE (ELECTRONIC CONVERSION): May 4, 1996
+
+Correction: January 27, 2003 - § 8(B)(11)
+
+Appendix IX of this rule corresponds to Appendix IX of 40 CFR Part 264.
+Additional constituents may be required by the Board or Department based
+upon the waste(s) being handled and the history of the facility.
+
+APPENDIX IX: GROUND-WATER MONITORING LIST1
+
+                                Chemical abstracts service index name4
+
+                                (The following symbols are in use:            Suggested
+Common name2 CAS RN3
+                                a means Greek alpha and                       methods5
+
+                                B means Greek beta)
+
+Acenaphthene............. 83-32-9 Acenaphthylene, 1,2-dihydro......... 8100
+
+8270
+
+Acenaphthylene........... 208-96-8 Acenaphthylene...................... 8100
+
+8270
+
+Acetone.................. 67-64-1 2-Propanone......................... 8240
+
+Acetophenone............. 98-86-2 Ethanone, 1 -phenyl................. 8270
+
+Acetonitrile; Methyl cyanide. 75-05-8 Acetonitrile........................ 8015
+
+2-Acetylaminofluorene-, 2-AAF. 53-96-3 Acetamide, N-9H-fluoren-2-yl....
+8270
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+Acrolein................. 107-02-8 2-Propenal.......................... 8030
+
+8240
+
+Acrylonitrile............ 107-13-1 2-Propenenitrile.................... 8030
+
+8240
+
+Aldrin................... 309-00-2 1,4:5,8-Dimethanonaphthalene, 8080
+
+1,2,3,4,10,10-hexachloro- 1,4,4a,. 8270
+
+5,8,8a-hexahydro-
+
+(1a,4a,4aB,5a,8a,8aB)-*
+
+Allyl chloride........... 107-05-1 1-Propene, 3-chloro............... 8010
+
+8240
+
+4-Aminobiphenyl........... 92-67-1 [l,l'-Biphenyl]-4-amine.......... 8270
+
+Aniline................... 62-53-3 Benzenamine......................... 8270
+
+Anthracene................ 120-12-7 Anthracene.......................... 8100
+
+8270
+
+Antimony.................. (Total) Antimony............................ 6010
+
+7040
+
+7041
+
+Aramite................... 140-57-8 Sulfurous acid, 2-chloroethyl 2-[4-(1,1- 8270
+
+dimethylethyl)phenoxy]-l-methylethyl ester.
+
+Arsenic.................. (Total) Arsenic............................. 6010
+
+7060
+
+7061
+
+Barium................... (Total) Barium.............................. 6010
+
+7080
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+Benzene................... 71-43-2 Benzene............................. 8020
+
+8240
+
+Benzo[a]anthracene;/ ... 56-55-3 Benz[a]anthracene.................. 8100
+
+Benzanthracene. 8270
+
+Benzo[b]fluoranthene...... 205-99-2 Benz[e]acephenanthrylene............ 8100
+
+Benzo[k]fluoranthene...... 207-08-9 Benzo[k]fluoranthene................ 8100
+
+8270
+
+Benzo[ghi]perylene........ 191-24-2 Benzo[ghi]perylene.................. 8100
+
+8270
+
+Benzo[a]pyrene............ 50-32-8 Benzo[a]pyrene...................... 8100
+
+8270
+
+Benzyl alcohol............. 100-51-6 Benzenemethanol..................... 8270
+
+Beryllium.................. (Total) Beryllium........................... 6010
+
+7090
+
+7091
+
+alpha-BHC................. 319-84-6 Cyclohexane, 1,2,3,4,5,6-hexachloro- 8080
+
+(1a,2a,3B,4a,5B,6B)- 8250
+
+beta-BHC.................. 319-85-7 Cyclohexane, 1,2,3,4,5,6-hexachloro- 8080
+
+(1a,2B,3a,4B,5a,6B)- 8250
+
+delta-BHC................. 319-86-8 Cyclohexane, 1,2,3,4,5,6-hexachloro- 8080
+
+(1a,2a,3a,4B,5a,6B)- 8250
+
+gamma-BHC; Lindane........ 58-89-9 Cyclohexane, 1,2,3,4,5,6-hexachloro-
+8080
+
+(la,2a,3B,4a,5a,6B)- 8250
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+Bis(2-chloroethoxy)methane. 111-91-1 Ethane, 1,1'-[methylenebis(oxy)]bis
+8270
+
+[2-chloro-
+
+Bis(2-chloroethyl)ether..... 111-44-4 Ethane, 1,1'-oxybis[2-chloro- 8270
+
+Bis(2-chloro-l- 108-60-1 Propane, 2,2'-oxybis[1-chloro- 8010
+
+methylethyl) ether; 8270
+
+2,2'-Di- chlorodiisopropyl ether.
+
+Bis(2-ethylhexyl) phthalate. 117-81-7 1,2-Benzenedicarboxylic acid, bis(2-
+8060
+
+ethylhexyl)ester. 8270
+
+Bromodichloromethane........ 75-27-4 Methane, bromodichloro..............
+8010
+
+8240
+
+Bromoform; Tribromomethane.. 75-25-2 Methane, tribromo...................
+8010
+
+8240
+
+4-Bromophenyl phenyl ether.. 101-55-3 Benzene, 1-bromo-4-phenoxy.......
+8270
+
+Butyl benzyl phthalate;..... 85-68-7 1,2-Benzenedicarboxylic acid, butyl 8060
+
+Benzyl butyl phthalate. phenylmethylester 8270
+
+Cadmium.................... (Total) Cadmium............................. 6010
+
+7130
+
+7131
+
+Carbon disulfide........... 75-15-0 Carbon disulfide.................... 8240
+
+Carbon tetrachloride....... 56-23-5 Methane, tetrachloro................ 8010
+
+8240
+
+Chlordane.................. 57-74-9 4,7-Methano-1H-indene, 1,2,4,5,6,7, 8080
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+8,8-octach-loro-2,3,3a,4,7,7a-hexahydro. 8250
+
+p-Chloroaniline........... 106-47-8 Benzenamine, 4-chloro............. 8270
+
+Chlorobenzene.............. 108-90-7 Benzene, chloro.................... 8010
+
+8020
+
+8240
+
+Chlorobenzilate............ 510-15-6 Benzeneacetic acid, 4-chloro-a- 8270
+
+(4-chlorophenyl)-a-hydroxy-, ethyl ester.
+
+p-Chloro-m-cresol......... 59-50-7 Phenol, 4-chloro-3-methyl.......... 8040
+
+8270
+
+Chloroethane; Ethyl chloride. 75-00-3 Ethane, chloro.................... 8010
+
+8240
+
+Chloroform................ 67-66-3 Methane, trichloro................ 8010
+
+8240
+
+2-Chloronaphthalene...... 91-58-7 Naphthalene, 2-chloro........... 8120
+
+8270
+
+2-Chlorophenol........... 95-57-8 Phenol, 2-chloro............... 8040
+
+8270
+
+4-Chlorophenyl phenyl ether. 7005-72-3 Benzene, 1-chloro-4-phenoxy..
+8270
+
+Chloroprene................ 126-99-8 1,3-Butadiene, 2-chloro......... 8010
+
+8240
+
+Chromium................... (Total) Chromium....................... 6010
+
+7190
+
+7191
+
+Chrysene.................. 218-01-9 Chrysene...................... 8100
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+8270
+
+Cobalt.................... (Total) Cobalt.............................. 6010
+
+7200
+
+7201
+
+Copper.................... (Total) Copper.......................... 6010
+
+7210
+
+m-Cresol.................. 108-39-4 Phenol, 3-methyl.................. 8270
+
+o-Cresol................. 95-48-7 Phenol, 2-methyl................ 8270
+
+p-Cresol................. 106-44-5 Phenol, 4-methyl................... 8270
+
+Cyanide................... 57-12-5 Cyanide............................. 9010
+
+2,4-D; 2,4-Dichloropheno- 94-75-7 Acetic acid, (2,4-dichlorophenoxy). 8150
+
+xyacetic acid
+
+4,4'-DDD.................. 72-54-8 Benzene 1,1'-(2,2-dichloroethylidene) 8080
+
+bis[4-chloro- 8270
+
+4,4'-DDE.................. 72-55-9 Benzene, 1,1'-(dichloroethenylidene)... 8080
+
+bis[4-chloro- 8270
+
+4,4'-DDT.................. 50-29-3 Benzene,1,1'-(2,2,2-trichloroethylidene) 8080
+
+bis[4- chloro-. 8270
+
+Diallate................... 2303-16-4 Carbamothioic acid, bis(l-methylethyl)-,
+8270
+
+S- (2,3- dichloro-2-propenyl) ester..
+
+Dibenz[a,h]anthracene....... 53-70-3 Dibenz[a,h]anthracene............... 8100
+
+8270
+
+Dibenzofuran............... 132-64-9 Dibenzofuran......................... 8270
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+Dibromochloromethane;.... 124-48-1 Methane, dibromochloro...............
+8010
+
+Chlorodibromomethane 8240
+
+1,2-Dibromo-3-chloropropane;. 96-12-8 Propane, 1,2-dibromo-3-chloro..
+8010
+
+DBCP. 8240
+
+8270
+
+1,2-Dibromoethane; Ethylene 106-93-4 Ethane, 1,2-dibromo................ 8010
+
+dibromide. 8240
+
+Di-n-butyl phthalate..... 84-74-2 1,2-Benzenedicarboxylic acid, dibutyl. 8060
+
+ester 8270
+
+o-Dichlorobenzene......... 95-50-1 Benzene, 1,2-dichloro.............. 8010
+
+8020
+
+8120
+
+8270
+
+m-Dichlorobenzene.......... 541-73-1 Benzene, 1,3-dichloro.............. 8010
+
+8020
+
+8120
+
+8270
+
+p-Dichlorobenzene.......... 106-46-7 Benzene, 1,4-dichloro.............. 8010
+
+8020
+
+8120
+
+8270
+
+3,3'-Dichlorobenzidine..... 91-94-1 [l,l'-Biphenyl]-4,4'-diamine, 3,3' 8270
+
+-dichloro
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+trans-1,4-Dichloro-2-butene. 110-57-6 2-Butene, 1,4-dichloro-, (E)... 8240
+
+Dichlorodifluoromethane..... 75-71-8 Methane, dichlorodifluoro........... 8010
+
+8240
+
+1,1-Dichloroethane......... 75-34-3 Ethane, 1,1-dichloro............... 8010
+
+8240
+
+1,2-Dichloroethane; Ethylene 107-06-2 Ethane, 1,2-dichloro............... 8010
+
+dichloride. 8240
+
+1,1-Dichloroethylene;.... 75-35-4 Ethene, 1,1 -dichloro............. 8010
+
+Vinylidenechloride 8240
+
+trans-1,2-Dichloroethylene.. 156-60-5 Ethene, 1,2-dichloro-, (E)...... 8010
+
+8240
+
+2,4-Dichlorophenol........... 120-83-2 Phenol, 2,4-dichloro............... 8040
+
+8270
+
+2,6-Dichlorophenol......... 87-65-0 Phenol, 2,6-dichloro............... 8270
+
+1,2-Dichloropropane........ 78-87-5 Propane, 1,2-dichloro.............. 8010
+
+8240
+
+cis-1,3-Dichloropropene... 10061-01-5 1-Propene, 1,3-dichloro-, (Z)... 8010
+
+8240
+
+trans-1,3-Dichloropropene. 10061-02-6 1-Propene, 1,3-dichloro-, (E)....
+8010
+
+8240
+
+Dieldrin................... 60-57-1 2,7:3,6-Dimethanonaphth[2,3-b]oxirene,. 8080
+
+3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a- 8270
+
+octahydro-, (laa,2B,2aa,3B,6B,6aa,7B,7aa)-
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+Diethyl phthalate......... 84-66-2 1,2-Benzenedicarboxylic acid, diethyl ester.
+8060
+
+8270
+
+O,O-Diethyl 0-2-pyrazinyl. 297-97-2 Phosphorothioic acid, O,O-diethyl .
+8270
+
+phosphorothioate; Thionazin 0-pyrazinylester.
+
+Dimethoate................ 60-51-5 Phosphorodithioic acid, 0,0-dimethyl 8270
+
+S-[2-(methylamino)-2-oxoethyl] ester.
+
+p-(Dimethylamino)azobenzene. 60-11-7 Benzenamine,
+N,N-dimethyl-4-(phenylazo) 8270
+
+7,12-Dimethylbenz[alanthracene. 57-97-6 Benz[a]anthracene,
+7,12-dimethyl..... 8270
+
+3,3'-Dimethylbenzidine.... 119-93-7 [1,1'-Biphenyl]-4,4'-diamine,
+3,3'-dimethyl. 8270
+
+alpha, alpha-Dimethylphenethyla-. 122-09-8 Benzeneethanamine,
+a,a-dimethyl. 8270
+
+mine.
+
+2,4-Dimethylphenol........ 105-67-9 Phenol, 2,4-dimethyl............... 8040
+
+8270
+
+Dimethyl phthalate.......... 131-11-3 1,2-Benzenedicarboxylic acid, 8060
+
+dimethyl ester.
+
+8270
+
+m-Dinitrobenzene........... 99-65-0 Benzene, 1,3-dinitro............... 8270
+
+4,6-Dinitro-o-cresol..... 534-52-1 Phenol, 2-methyl-4,6-dinitro..... 8040
+
+8270
+
+2,4-Dinitrophenol.......... 51-28-5 Phenol, 2,4-dinitro.............. 8040
+
+8270
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+2,4-Dinitrotoluene......... 121-14-2 Benzene, 1-methyl-2,4-dinitro.. 8090
+
+8270
+
+2,6-Dinitrotoluene......... 606-20-2 Benzene, 2-methyl-1,3-dinitro.... 8090
+
+8270
+
+Dinoseb; DNBP; 2-sec-Butyl-. 88-85-7 Phenol, 2-(1 -methylpropyl)-4,6-
+dinitro. 8150
+
+4,6-dinitrophenol 8270
+
+Di-n-octyl phthalate........ 117-84-0 1,2-Benzenedicarboxylic acid, dioctyl.
+8060
+
+ester 8270
+
+1,4-Dioxane................ 123-91-1 1,4-Dioxane........................ 8015
+
+Diphenylamine............... 122-39-4 Benzenamine, N-phenyl.............. 8270
+
+Disulfoton.................. 298-04-4 Phosphorodithioic acid, O,O-diethyl.. 8140
+
+S-[2-(ethylthio)ethyl]ester 8270
+
+Endosulfan I................ 959-98-8 6,9-Methano-2,4,3-benzodioxathiepin,.
+8080
+
+6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a- 8250
+
+hexahydro-, 3-oxide, (3a,5aB,6a,9a,9aB)-
+
+Endosulfanil................ 33213-65-9 6,9-Methano-2,4,3-benzodioxathiepin,.
+8080
+
+6,7,8,9,10,10-hexachloro- 1,5,5a,6,9,9a-
+
+hexahy dro-, 3-oxide, (3a,5aa,6B,9B,9aa)-
+
+Endosulfan sulfate.......... 1031-07-8 6,9-Methano-2,4,3-benzodioxathiepin,.
+8080
+
+6,7,8,9,10,10-hexachloro- 1,5,5a,6,9,9a
+
+-hexahydro-, 3,3-dioxide. 8270
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+Endrin...................... 72-20-8 2,7:3,6-Dimethanonaphth[2,3-b]oxirene,.
+8080
+
+3,4,5,6,9,9-hexachloro-la,2,2a,3,6,6a,7,7a- 8250
+
+octahydro-, (laa,2B,2aB,3a,6a,6aB,7B,7aa)-
+
+Endrin aldehyde............. 7421-93-4 1,2,4-Methenocyclopenta[cd]pentalene-
+5-.8080
+
+carboxaldehyde, 2,2a,3,3,4,7-hexachlorodeca- 8270
+
+hydro-,(la,2B,2aB,4B,4aB,5B,6aB,6bB,7R*)-
+
+Ethylbenzene................ 100-41-4 Benzene, ethyl...................... 8020
+
+8240
+
+Ethyl methacrylate.......... 97-63-2 2-Propenoic acid, 2-methyl-, ethyl ester.
+8015
+
+8240
+
+8270
+
+Ethyl methanesultonate...... 62-50-0 Methanesulfonic acid, ethyl ester...
+8270
+
+Famphur..................... 52-85-7 Phosphorothioic acid, 0-[4-....... 8270
+
+[(dimethylamino)sulfonyl]phenyl]-0,0-dimethyl
+
+ester.
+
+Fluoranthene................ 206-44-0 Fluoranthene........................ 8100
+
+8270
+
+Fluorene..................... 86-73-7 9H-Fluorene........................ 8100
+
+8270
+
+Heptachlor................. 76-44-8 4,7-Methano-lH-indene, ........ 8080
+
+1,4,5,6,7,8,8-heptachloro
+
+3a,4,7,7a-tetrahydro- 8270
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+Heptachlor epoxide......... 1024-57-3 2,5-Methano-2H-indeno[ 1,2-b]oxirene,
+8080
+
+2,3,4,5,6,7,7-heptachloro-1a,lb,5,5a,6,6a, 8270
+
+hexahydro-, (1aa,lbB,2a,5a,5aB,6B,6aa)
+
+Hexachlorobenzen........... 118-74-1 Benzene, hexachloro................. 8120
+
+8270
+
+Hexachlorobutadiene........ 87-68-3 1,3-Butadiene, 1,1,2,3,4,4-hexachloro.
+8120
+
+8270
+
+Hexachlorocyclopentadiene.. 77-47-4 1,3-Cyclopentadiene, 1,2,3,4,5,5-
+hexachloro. 8120
+
+8270
+
+Hexachloroethane........... 67-72-1 Ethane, hexachloro.................. 8120
+
+8270
+
+Hexachlorophene............ 70-30-4 Phenol, 2,2'-methylenebis[3,4.6-trichloro.
+8270
+
+Hexachloropropene.......... 1888-71-7 1-Propene, 1,1,2,3,3,3-hexachloro. 8270
+
+2-Hexanone................ 591-78-6 2-Hexanone......................... 8240
+
+Indeno(1,2,3-cd)pyrene.... 193-39-5 Indeno[1,2,3-cd]pyrene............. 8100
+
+8270
+
+Isobutyl alcohol............ 78-83-1 1 -Propanol, 2-methyl.............. 8015
+
+lsodrin..................... 465-73-6 1,4,5,8-Dimethanonaphthalene, 1,2,3,4,10,10-
+8270
+
+hexachloro-1,4,4a,5,8,8a hexahydro-.
+
+(1a,4a,4aB,5B,8B,8aB)-.
+
+lsophorone................. 78-59-1 2-Cyclohexen-l-one, 3,5,5-trimethyl. 8090
+
+8270
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+Isosafrole................. 120-58-1 1,3-Benzodioxole, 5-(1-propenyl). 8270
+
+Kepone.................... 143-50-0 1,3,4-Metheno-2H-cyclobuta-
+
+[cd]pentalen-2-one,. 8270
+
+l,la,3,3a,4,5,5,5a,5b,6-decachlorooctahydro-
+
+Lead...................... (Total) Lead................................ 6010
+
+7420
+
+7421
+
+Mercury................... (Total) Mercury............................. 7470
+
+Methacrylonitrile......... 126-98-7 2-Propenenitrile, 2-methyl........ 8015
+
+8240
+
+Methapyrilene............. 91-80-5 1,2,Ethanediamine, N,N-dimethyl-N'-2-.
+8270
+
+pyridinyl-N'- (2-thienylmethyl)-.
+
+Methoxychlor.............. 72-43-5 Benzene,1,1'-(2,2,2,trichloroethylidene)
+8080
+
+bis[4- methoxy- 8270
+
+Methyl bromide; Bromomethane. 74-83-9 Methane, bromo......................
+8010
+
+8240
+
+Methyl chloride; Chloromethane. 74-87-3 Methane, chloro.......................
+8010
+
+8240
+
+3-Methylcholanthrene....... 56-49-5 Benz[j]aceanthrylene,
+1,2-dihydro-3-methyl. 8270
+
+Methylene bromide; Dibromomethane. 74-95-3 Methane, dibromo..............
+8010
+
+8240
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+Methylene chloride; Dichlorometh-. 75-09-2 Methane, dichloro..................
+8010
+
+ane 8240
+
+Methyl ethyl ketone; MEK.. 78-93-3 2-Butanone......................... 8015
+
+8240
+
+Methyl iodide; iodomethane.. 74-88-4 Methane, iodo....................... 8010
+
+8240
+
+Methyl methacrylate......... 80-62-6 2-Propenoic acid, 2-methyl-, methyl
+ester. 8015
+
+8240
+
+Methyl methanesulfonate.... 66-27-3 Methanesulfonic acid, methyl ester..
+8270
+
+2-Methylnaphthalene........ 91-57-6 Naphthalene, 2-methyl.............. 8270
+
+Methyl parathion; Parathion methyl 298-00-0 Phosphorothioic acid,
+0,0-dimethyl . 8140
+
+O-(4-nitro-phenyl) ester 8270
+
+4-Methyl-2-pentanone;.. 108-10-1 2-Pentanone, 4-methyl............. 8015
+
+Methyl isobutyl ketone. 8240
+
+Naphthalene................ 91-20-3 Naphthalene........................ 8100
+
+8270
+
+1,4-Naphthoquinone......... 130-15-4 1,4-Naphthalenedione............. 8270
+
+1-Naphthylamine............ 134-32-7 1 -Naphthalenamine............... 8270
+
+2-Naphthylamine............ 91-59-8 2-Naphthalenamine................. 8270
+
+Nickel...................... (Total) Nickel............................. 6010
+
+7520
+
+o-Nitroaniline.............. 88-74-4 Benzenamine, 2-nitro.............. 8270
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+m-Nitroaniline.............. 99-09-2 Benzenamine, 3-nitro.............. 8270
+
+p-Nitroaniline.............. 100-01-6 Benzenamine, 4-nitro............... 8270
+
+Nitrobenzene............... 98-95-3 Benzene, nitro...................... 8090
+
+8270
+
+o-Nitrophenol............. 88-75-5 Phenol, 2-nitro................... 8040
+
+8270
+
+p-Nitrophenol............. 100-02-7 Phenol, 4-nitro................... 8040
+
+8270
+
+4-Nitroquinoline 1-oxide. 56-57-5 Quinoline, 4-nitro-, 1-oxide.... 8270
+
+N-Nitrosodi-n-butylamine. 924-16-3 1-Butanamine, N-butyl-N-nitroso.
+8270
+
+N-Nitrosodiethylamine.... 55-18-5 Ethanamine, N-ethyl-N-nitroso.. 8270
+
+N-Nitrosodimethylamine... 62-75-9 Methanamine, N-methyl-N-nitroso.
+8270
+
+N-Nitrosodiphenylamine... 86-30-6 Benzenamine, N-nitroso-N-phenyl
+8270
+
+N-Nitrosodipropylamine; Di-n-pro-. 621-64-7 1-Propanamine,
+N-nitroso-N-propyl 8270
+
+pylnitrosamine.
+
+N-Nitrosomethylethylamine. 10595-95-6 Ethanamine,
+N-methyl-N-nitroso... 8270
+
+N-Nitrosomorpholine....... 59-89-2 Morpholine, 4-nitroso............ .. 8270
+
+N-Nitrosopiperidine....... 100-75-4 Piperidine, 1 -nitroso............. 8270
+
+N-Nitrosopyrrolidine...... 930-55-2 Pyrrolidine, 1-nitroso............. 8270
+
+5-Nitro-o-toluidine..... 99-55-8 Benzenamine, 2-methyl-5-nitro.... 8270
+
+Parathion.................. 56-38-2 Phosphorothioic acid, O,O-diethyl-O- 8270
+
+(4-nitro-phenyl) ester
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+Polychlorinated biphenyls; PCBs.See Note 6 1,1'-Biphenyl, chloro
+derivatives.. 8080
+
+8250
+
+Polychlorinated dibenzo-p-dioxins; See Note 7 Dibenzo[b,e][1,4]dioxin,
+chloro derivatives 8280
+
+PCDDs.
+
+Polychlorinated dibenzofurans; See Note 8 Dibenzofuran, chloro
+derivatives.. 8280
+
+PCDFs.
+
+Pentachlorobenzene......... 608-93-5 Benzene, pentachloro............... 8270
+
+Pentachloroethane.......... 76-01-7 Ethane, pentachloro................ 8240
+
+8270
+
+Pentachloronitrobenzene.... 82-68-8 Benzene, pentachloronitro......... 8270
+
+Pentachlorophenol.......... 87-86-5 Phenol, pentachloro................ 8040
+
+8270
+
+Phenacetin.................. 62-44-2 Acetamide, N-(4-ethoxyphenyl)..... 8270
+
+Phenanthrene................ 85-01-8 Phenanthrene........................ 8100
+
+8270
+
+Phenol...................... 108-95-2 Phenol.............................. 8040
+
+8270
+
+p-Phenylenediamine......... 106-50-3 1,4-Benzenediamine.................. 8270
+
+Phorate..................... 298-02-2 Phosphorodithioic acid, O,O-diethyl S- 8140
+
+[(ethylthio)methyl] ester 8270
+
+2-Picoline............... 109-06-8 Pyridine, 2-methyl................. 8240
+
+8270
+
+Pronamide................ 23950-58-5 Benzamide, 3,5-dichloro-N-(1,1 8270
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+-dimethyl-2-pro-pynyl)-.
+
+Propionitrile; Ethyl cyanide. 107-12-0 Propanenitrile..................... 8015
+
+8240
+
+Pyrene.................... 129-00-0 Pyrene............................. 8100
+
+8270
+
+Pyridine................. 110-86-1 Pyridine........................... 8240
+
+8270
+
+Safrole.................. 94-59-7 1,3-Benzodioxole, 5-(2-propenyl). 8270
+
+Selenium................. (Total) Selenium........................... 6010
+
+7740
+
+7741
+
+Silver................... (Total) Silver.............................. 6010
+
+7760
+
+Silvex; 2,4,5-TP........ 93-72-1 Propanoic acid, 2-(2,4,5-trichlorophenoxy)
+8150
+
+Styrene.................. 100-42-5 Benzene, ethenyl-................. 8020
+
+8240
+
+Sulfide.................. 18496-25-8 Sulfide.......................... 9030
+
+2,4,5-T; 2,4,5-Trichlorophenoxyace- 93-76-5 Acetic acid,
+(2,4,5-trichlorophenoxy) 8150
+
+tic acid.
+
+2,3,7,8-TCDD; 2,3,7,8-Tetrachloro- 1746-0 1-6 Dibenzo[b,e][1,4]dioxin, ...
+8280
+
+2,3,7,8-tetrachlorodibenzo-p-dioxin
+
+1,2,4,5-Tetrachlorobenzene 95-94-3 Benzene, 1,2,4,5-tetrachloro..... 8270
+
+1,1,1,2-Tetrachloroethane. 630-20-6 Ethane, 1,1,1,2-tetrachloro...... 8010
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+8240
+
+1,1,2,2-Tetrachloroethane. 79-34-5 Ethane, 1,1,2,2-tetrachloro...... 8010
+
+8240
+
+Tetrachloroethylene; Perchloroeth-. 127-18-4 Ethene, tetrachloro...........
+8010
+
+ylene; Tetrachloroethene. 8240
+
+2,3,4,6-Tetrachlorophenol.. 58-90-2 Phenol, 2,3,4,6-tetrachloro...... 8270
+
+Tetraethyl dithiopyrophosphate;. 3689-24-5 Thiodiphosphoric acid
+([(HO)2P(S)]20), 8270
+
+Sulfotepp tetraethyl ester
+
+Thallium................... (Total) Thallium........................... 6010
+
+7840
+
+7841
+
+Tin........................ (Total) Tin............................... 7870
+
+Toluene................... 108-88-3 Benzene, methyl................... 8020
+
+8240
+
+o-Toluidine............. 95-53-4 Benzenamine, 2-methyl........... 8270
+
+Toxaphene................ 8001-35-2 Toxaphene........................ 8080
+
+8250
+
+1,2,4-Trichlorobenzene.. 120-82-1 Benzene, 1,2,4-trichloro........ 8270
+
+1,1,1-Trichloroethane; Methylchlor- 71-55-6 Ethane, 1,1,1-trichloro...... 8240
+
+oform.
+
+1,1,2-Trichloroethane. 79-00-5 Ethane, 1,1,2-trichloro......... 8010
+
+8240
+
+Trichloroethylene; Trichloroethene 79-01-6 Ethene, trichloro............. 8010
+    06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+          Facilities (Code of Maine Rules (2021 Edition))
+
+
+8240
+
+Trichlorofluoromethane.... 75-69-4 Methane, trichlorofluoro........ 8010
+
+8240
+
+2,4,5-Trichlorophenol..... 95-95-4 Phenol, 2,4,5-trichloro........ 8270
+
+2,4,6-Trichlorophenol..... 88-06-2 Phenol, 2,4,6-trichloro........ 8040
+
+8270
+
+1,2,3-Trichloropropane.... 96-18-4 Propane, 1,2,3-trichloro........ 8010
+
+8240
+
+O,O,O-Triethyl phosphorothioate.. 126-68-1 Phosphorothioic acid,
+0,0,0-triethyl ester 8270
+
+sym-Trinitrobenzene....... 99-35-4 Benzene, 1,3,5-trinitro......... . 8270
+
+Vanadium................... (Total) Vanadium......................... 6010
+
+7910
+
+7911
+
+Vinyl acetate.............. 108-05-4 Acetic acid, ethenyl ester...... 8240
+
+Vinyl chloride............. 75-01-4 Ethene, chloro.................. 8010
+
+8240
+
+Xylene (total)............. 1330-20-7 Benzene, dimethyl............... 8020
+
+8240
+
+Zinc....................... (Total) Zinc............................ 6010
+
+7950
+
+1 The regulatory requirements pertain only to the list of substances; the right
+hand columns (Methods and PQL) are given for informational purposes
+only. See also footnotes 5 and 6.
+
+2 Common names are those widely used in government regulations,
+scientific publications, and commerce; synonyms exist for many chemicals.
+   06 096 Me. Code R. Ch. 854 Standards for Hazardous Waste
+         Facilities (Code of Maine Rules (2021 Edition))
+
+
+3 Chemical Abstracts Service registry number. Where "Total" is entered, all
+species in the ground water that contain this element are included.
+
+4 CAS index names are those used in the 9th Cumulative Index.
+
+5 Suggested Methods refer to analytical procedure numbers used in EPA
+Report SW-846 "Test Methods for Evaluating Solid Waste" third edition,
+November 1986. Analytical details can be found in SW-846 and in
+documentation on file at EPA. CAUTION: The methods listed are
+representative SW-846 procedures and may not always be the most suitable
+method(s) for monitoring an analyte under the regulations.
+
+6 Polychlorinated biphenyls (CAS RN 1336-36-3); this category contains
+congener chemicals, including constituents of Aroclor-1016 (CAS RN
+12674-11-2), Aroclor-1221 (CAS RN 11104-28-2), Aroctor-1232 (CAS RN
+11141-16-5), Aroclor-1242 (CAS RN 53469-21-9), Aroclor-1248 (CAS RN
+12672-29-6), Aroclor-1254 (CAS RN 11097-69-1), and Aroclor-1260 (CAS
+RN 11096-82-5).
+
+7 This category contains congener chemicals, including
+tetrachlorodibenzo-p-dioxins (see also 2,3,7,8-TCDD),
+pentachlorodibenzo-p-dioxins, and hexachlorodibenzo-p-dioxins.
+
+8 This category contains congener chemicals including
+tetrachlorodibenzofurans, pentachlorodibenzofurans, and
+hexachlorodibenzofurans.
+

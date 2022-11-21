@@ -1,0 +1,223 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Coastal Streams
+
+Railroad Creek
+
+201411
+
+Jackson,
+Harrison
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Ramsey Creek
+
+Coastal Streams
+
+Unnamed
+Tributary to
+Bayou Lasalle
+
+204013
+
+Harrison,
+Hancock
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Bayou Lasalle
+
+Coastal Streams
+
+Unnamed
+Tributary to
+Rotten Bayou
+
+204012
+
+Harrison,
+Hancock
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Rotten Bayou
+
+Coastal Streams
+
+Wolf Creek
+
+205312
+
+Hancock,
+Harrison
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Wolf River
+
+North
+Independent
+Streams
+
+Bearman Creek
+
+302412
+
+Tippah
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to N35°
+
+North
+Independent
+Streams
+
+Bell Creek
+
+302012
+
+Tippah
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Bell Creek from headwaters to mouth at West Prong
+Muddy Creek
+
+North
+Independent
+Streams
+
+Bynum Creek
+
+300413
+
+Alcorn
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Rienzi From Headwaters To Mouth At Hinkle
+Creek
+
+North
+Independent
+Streams
+
+Coon Creek
+
+301312
+
+Alcorn
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth of Tuscumbia River Canal
+
+North
+Independent
+Streams
+
+Eastes Creek
+
+301112
+
+Alcorn
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Kossuth from the confluence with Underwood
+Creek to the mouth at Tuscumbia River Canal
+
+North
+Independent
+Streams
+
+Fourth Creek
+
+301913
+
+Tippah,
+Alcorn
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Walnut from headwaters to mouth at Hatchie
+River
+
+North
+Independent
+Streams
+
+Grays Creek
+
+303511
+
+Benton
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to TN state line
+
+26
+
+

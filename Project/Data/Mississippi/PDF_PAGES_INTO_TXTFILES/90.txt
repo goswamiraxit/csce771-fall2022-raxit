@@ -1,0 +1,68 @@
+(a)
+
+Purpose and Scope. The purpose of this rule is to set forth procedures
+used to determine individual storm water permit limits for toxics and
+conventional parameters. Only storm water associated with industrial
+activity is considered. Process wastewaters are addressed elsewhere in
+these regulations. The ultimate goal of setting individual storm water
+permit limits is to reduce pollutants in storm water runoff in order to
+protect receiving stream water quality.
+
+(b)
+
+Methods of Limits Determination. Due to high variability of storm water
+volume, only concentration limits will be determined by one or a
+combination of the procedures which follow:
+
+(c)
+
+(1)
+
+Effluent Limitations Guidelines (ELG);
+
+(2)
+
+Water Quality Standards (WQS); and
+
+(3)
+
+Best Professional Judgment (BPJ).
+
+Wet Weather Flow for Streams with Gaging Stations. For streams with a
+gaging station, the 7Q2 will be used. The value of the 7Q2 is readily
+available in the USGS Water-Resources Investigations Report 90-4087,
+Low-Flow and Flow-Duration Characteristics of Mississippi Streams,
+1991.
+
+Calculation:
+
+Q = Site7Q2 = Gage7Q2 *
+
+SWA
+GWA
+
+Where:
+SWA = Site Watershed Area
+GWA = Gage Watershed Area
+(d)
+
+Wet Weather Flow for Other Streams and Industrial Sites.
+For both small watersheds without gaging data and industrial sites, the
+stream flow and site runoff will be estimated using the Rational Equation,
+assuming the average storm event intensity over the entire area. The
+Rational Equation is:
+
+Q = C*I * A
+Where:
+Q
+= the flow in cfs,
+C
+= the runoff coefficient,
+I
+= the rainfall intensity in inches/hour, and
+A
+= area in acres.
+
+90
+
+

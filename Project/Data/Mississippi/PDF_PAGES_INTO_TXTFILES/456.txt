@@ -1,0 +1,214 @@
+2019
+Median
+HouseHold
+Income
+
+Loan
+Amount
+Requested
+$
+(Millions)
+
+Eligible
+Small/Low
+Income
+Subsidy
+Amount $
+(Millions)
+
+Estimated
+Green
+Project
+Reserve
+Eligibility
+$
+(Millions)
+
+Green Project
+Reserve
+Category/
+Documentation
+
+Statewide
+Cum.
+Loan $
+(Millions)
+
+Project
+Description
+
+Stream
+Class.
+
+Population
+
+Requested
+Funding
+FY
+
+Sarullo Sanitary
+Sewer Improvements
+
+F&W
+
+33,330
+
+2021
+
+$29,421
+
+$ 0.6 M
+
+N/A
+
+N/A
+
+N/A
+
+$399.8M
+
+North Theobald
+Sanitary Sewer
+Improvements
+
+F&W
+
+33,330
+
+2021
+
+$29,421
+
+$ 0.3 M
+
+N/A
+
+N/A
+
+N/A
+
+$400.1M
+
+Sanitary Sewer
+Rehabilitation
+
+F&W
+
+23,402
+
+2021
+
+$31,227
+
+$25.4M
+
+N/A
+
+N/A
+
+N/A
+
+$425.5M
+
+Town of
+Mt Olive/
+MS0020699
+
+Repair/replacement
+of collapsed sewer
+line to eliminate
+bypasses/ overflows,
+and rehabilitation to
+eliminate I & I
+
+F&W
+
+882
+
+2021
+
+$31,239
+
+$ 0.5 M
+
+$ 0.35 M
+
+N/A
+
+N/A
+
+$426.0M
+
+Jackson
+County
+Utility
+Authority/
+MS0045446
+
+Old Fort Bayou
+Road Regional Pump
+Station
+
+F&W
+
+145,073
+
+2021
+
+$49,773
+
+$3.6M
+
+N/A
+
+N/A
+
+N/A
+
+$429.6M
+
+City of
+Jackson/
+
+Repair/replace/rehab
+sewer line to
+eliminate bypasses/
+overflows/I&I
+
+F&W
+
+167,660
+
+2021
+
+$39,057
+
+$29.2M
+
+N/A
+
+N/A
+
+N/A
+
+$458.8M
+
+Project/
+Permit
+Number
+City of
+Greenville/
+MS0020194
+City of
+Greenville/
+MS0020194
+City of
+Vicksburg/
+MS0022381
+
+FISCAL YEAR –2021 AND AFTER PLANNING LIST – Continued
+Category 8: Existing Facilities Upgrade (Meeting Final Limits)
+
+456
+
+

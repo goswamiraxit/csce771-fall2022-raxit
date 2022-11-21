@@ -1,0 +1,217 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+South
+Independent
+
+Storm Creek
+
+602811
+
+Claiborne
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Carlisle from headwaters to mouth at Bayou
+Pierre
+
+South
+Independent
+
+West Fork
+Thompson Creek
+
+611411
+
+Wilkinson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to LA state line
+
+South
+Independent
+
+Willis Creek
+
+603411
+
+Jefferson,
+Claiborne
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Tillman from headwaters to MWS 6035 boundary
+near Tillman Road bridge
+
+South
+Independent
+
+Zeigler Creek
+
+607811
+
+Franklin
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Rosetta from headwaters mouth at Homochitto
+River
+
+Tennessee River
+
+Bear Creek
+
+701111
+
+Tishomingo
+
+Aquatic Life
+Use Support
+
+pH
+
+Near Burnstown from Unnamed Tributary north of
+County Road 86 to Alabama
+
+Tombigbee
+River
+
+Alamuchee Creek
+
+818311
+
+Lauderdale
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Little
+Alamuchee Creek
+
+Tombigbee
+River
+
+Alamuchee Creek
+
+818411
+
+Lauderdale
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From Little Alamuchee Creek to MS/AL state line
+
+Tombigbee
+River
+
+Ash Creek
+
+816012
+
+Noxubee
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Noxubee River
+
+Tombigbee
+River
+
+Black Creek
+
+810013
+
+Lowndes
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to end near MWS 8207 boundary
+
+Tombigbee
+River
+
+Boguefala Creek
+
+819211
+
+Lee,
+Itawamba
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Mooreville from headwaters to confluence with
+Greenwood Creek
+
+802711
+
+Lee,
+Itawamba,
+Monroe
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Richmond from headwaters to mouth at Boguefala
+Creek
+
+Tombigbee
+River
+
+Boguegaba Creek
+
+38
+
+

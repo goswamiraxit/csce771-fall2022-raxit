@@ -1,0 +1,48 @@
+collected each month during the six-month period immediately preceding
+the application submittal deadline date.
+(2)
+
+Whole Effluent Toxicity Application Data Requirements.
+(a)
+
+The Whole Effluent Toxicity (WET) test requirements for an application
+for renewal of applicable NPDES permits are set forth in Rule 1.1.2.D.
+
+(b)
+
+Permittees required to perform WET tests as part of their application
+under Rule 1.2.6.B.2.a shall conduct at least four WET tests in the year
+preceding filing of the application. These tests will include two
+samplings, one during the hot-dry season and one during the cold-wet
+season. If the receiving water salinity is less than 1,000 mg/l then
+freshwater testing organisms shall be used. If the Instream Waste
+Concentration (IWC) at low flow is less than one percent, the permittee
+shall perform 48-hour, static non-renewal, definitive (a control and five
+effluent concentrations) acute WET tests at 25°C using Ceriodaphnia
+dubia (invertebrate) that are less than 24 hours old and a 96-hour, static
+renewal (tests that exceed 48 hours in duration must be renewed),
+definitive acute WET test at 25°C using Pimephales promelas (vertebrate)
+that are less than 24 hours old. If the IWC at low flow is greater than or
+equal to one percent, the permittee shall perform chronic WET tests.
+These shall be definitive static renewal tests at 25°C using Ceriodaphnia
+dubia and Pimephales promelas. Acute tests shall be performed in
+accordance with Methods for Measuring the Acute Toxicity of Effluents to
+Freshwater and Marine Organisms, Fourth Edition, (EPA-600/4-90/027),
+or most recent edition and chronic tests shall be performed in accordance
+with Short-Term Methods for Estimating the Chronic Toxicity of
+Effluents and Receiving Waters to Freshwater Organisms, (EPA/600/489/001) or most recent edition. If the receiving water salinity is greater
+than or equal to 1,000 mg/l, then saltwater organisms shall be used. If the
+IWC at low flow is less than one percent, the permittee shall perform 48hour, static non-renewal, definitive acute WET tests at 25°C using
+Americamysis (invertebrate) that are 1-5 days old and a 96-hour, static
+renewal, definitive acute WET test at 25°C using Menidia beryllina. If the
+IWC at low flow is greater than or equal to one percent and the receiving
+water salinity is greater than or equal to 1,000 mg/l, the permittee shall
+perform short-term chronic WET tests at 25°C using Americamysis and
+Menidia beryllina. Acute tests shall be performed in accordance with
+Methods for Measuring the Acute Toxicity of Effluents to Freshwater and
+Marine Organisms, Fourth Edition, (EPA-600/4-90/027), or most recent
+edition, and chronic tests shall be performed in accordance with ShortTerm Methods for Estimating the Chronic Toxicity of Effluents and
+Receiving Waters to Marine and Estuarine Organisms, (EPA/600/487/028), or most recent edition. All of the above mentioned manuals are
+incorporated herein and adopted by reference. MDEQ will allow a six82
+
+

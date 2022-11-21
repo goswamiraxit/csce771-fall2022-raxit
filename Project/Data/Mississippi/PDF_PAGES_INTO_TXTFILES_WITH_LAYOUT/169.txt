@@ -1,0 +1,48 @@
+amended unless a more recent RfD is issued by the U. S. Environmental
+Protection Agency as listed in the Integrated Risk Information System
+(IRIS) file, in which case the more recent value will be used. Water
+quality standards or criteria used to calculate water quality-based effluent
+limitations (and for all other purposes of water quality criteria under
+Section 303(c) of the Clean Water Act) to protect human health through
+the different exposure routes are determined as follows:
+
+(1)    Fish tissue consumption:
+
+
+       WQC = (RfD) x Body Weight / (FCR x BCF)
+
+
+       where: WQC = water quality criterion
+       RfD = reference dose
+       FCR = fish consumption rate (17.5 gm/person-day)
+       BCF = bioconcentration factor
+
+BCF values are based on U. S. Environmental Protection Agency
+publications pursuant to Section 304(a) of the Clean Water Act. FCR
+values are average consumption rates for a 70 kg adult for a lifetime of the
+population; alternative FCR values may be used when it is considered
+necessary to protect localized populations which may be consuming fish at
+a higher rate.
+
+(2)    Water consumption and fish tissue consumption:
+
+
+       WQC = (RfD) x Body Weight / (WCR + (FCR x BCF))
+
+
+       where: WQC = water quality criterion
+       RfD = reference dose
+       FCR = fish consumption rate (17.5 gm/person-day)
+       BCF = bioconcentration factor
+       WCR = water consumption rate (assumed to be 2 liters/day for
+       adults)
+
+The equations listed in this subparagraph will be used to develop water
+criteria or standards on a case-by-case basis for toxic substances that are
+not presently included in the water quality standards. Alternative FCR
+values may be used when it is considered necessary to protect localized
+populations that may be consuming fish at a higher rate.
+
+
+                        169
+

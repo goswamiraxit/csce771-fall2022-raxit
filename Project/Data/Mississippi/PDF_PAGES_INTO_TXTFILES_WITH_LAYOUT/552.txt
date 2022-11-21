@@ -1,0 +1,40 @@
+                Water Body        Water                     Impaired
+    Basin                                     County                           Pollutant                        Location
+                  Name           Body Id                      Use
+
+              Okachickima                                  Aquatic Life    Biological      Near Hardy from headwaters to Grenada Lake Flood
+Yazoo River   Creek              916211    Yalobusha       Use Support     Impairment      Pool
+
+                                                           Aquatic Life    Biological      At Ecru from confluence with Popular Springs Creek
+Yazoo River   Okannatie Creek    900911    Union           Use Support     Impairment      to MWS 9010 boundary at Highway 15 bridge
+
+                                           Sunflower,      Aquatic Life    Biological      Near Doddsville from headwaters to mouth at Quiver
+Yazoo River   Pecan Bayou        938511    Leflore         Use Support     Impairment      River
+
+                                                           Aquatic Life    Biological
+Yazoo River   Pelucia Creek      919311    Carroll         Use Support     Impairment      From headwaters to MWS 9192 boundary
+
+                                                           Aquatic Life    Biological      Near Oil City from headwaters to mouth at O'Neal
+Yazoo River   Perry Creek        922912    Yazoo           Use Support     Impairment      Creek
+
+                                                           Aquatic Life    Biological      Near Yazoo City from MWS 9223 boundary to
+Yazoo River   Piney Creek        922411    Yazoo           Use Support     Impairment      confluence with Yazoo River
+
+                                           Desoto,         Aquatic Life    Biological      From MWS 9101 boundary to mouth at Pigeon Roost
+Yazoo River   Red Banks Creek    910212    Marshall        Use Support     Impairment      Creek
+
+                                                           Aquatic Life    Biological
+Yazoo River   Savannah Creek     915214    Calhoun         Use Support     Impairment      From headwaters to mouth at Lucknuck Creek
+
+                                           Tallahatchie,   Aquatic Life    Biological
+Yazoo River   Shelton Creek      908411    Panola          Use Support     Impairment      Near Crowder from headwaters to Yocona River
+
+                                           Calhoun,        Aquatic Life    Biological      From headwaters to MWS 9139 boundary at
+Yazoo River   Shutispear Creek   914011    Webster         Use Support     Impairment      Yalobusha River flood plain
+
+                                                           Aquatic Life    Biological      At Bruce from Persimmon Creek to MWS 9156
+Yazoo River   Skuna River        915413    Calhoun         Use Support     Impairment      boundary
+
+
+                                                                          47
+

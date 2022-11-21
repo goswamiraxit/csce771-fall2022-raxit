@@ -1,0 +1,51 @@
+                                    TOXICITY SCREENING MATRIX
+                               Screening Results             Permit Requirements
+     IWC                                               8
+                     CSSA            CSSC        WET     CSL        WETL       WETM
+      All            Pass            Pass        Pass    No           No         No
+     <1%             Pass            Pass         Fail   No          YesA        N/A
+                      Fail           Pass         Fail   Yes         YesA        N/A
+                      Fail           Pass        Pass    Yes          No         No8
+     >1%              Fail           Fail         Fail   Yes         YesC        N/A
+                      Fail           Fail        Pass    Yes          No         No8
+                     Pass            Fail         Fail   Yes         YesC        N/A
+                     Pass            Fail        Pass    Yes          No         No8
+                      Fail           Pass         Fail   Yes         YesC        N/A
+                      Fail           Pass        Pass    Yes          No         No8
+
+Where:
+CSSA = Chemical Specific Screening Acute
+CSSC = Chemical Specific Screening Chronic
+WET = Whole Effluent Toxicity Data
+CSL = Chemical Specific Limits= WQS/(IWC/100)
+WETL = Whole Effluent Toxicity Limits W/Monitoring
+WETM = Whole Effluent Toxicity Monitoring Only
+YesA = Yes/Acute WET Limit = LC50 = 3 * IWC
+YesC = Yes/Chronic WET Limit = IC25 = IWC
+N/A = Not Applicable
+YAM = Yes, Acute WET Monitoring Only
+YCM    = Yes, Chronic Monitoring Only
+Pass = Acute: LC50 > 3 * IWC
+       = Chronic: IC25 > IWC
+Fail = Acute: LC50 < 3 * IWC
+       = Chronic IC25 < IWC
+
+Human health shall be evaluated in accordance with "USEPA, Technical Support Document".
+When a parameter violates the human health criteria either for "water and organisms" or
+"organisms only", as appropriate, numerical limitations shall be placed in the permit.
+
+F.       Screening Storm Water Discharges
+
+         (1)      General
+
+
+
+8
+ Where application form data are reported as "less than" (<) compare the method detection limit (MDL) as defined
+in Appendix B of 40 CFR 136 which is incorporated herein and adopted by reference. MDLs will be utilized in
+determining the reasonable potential of a given pollutant to violate water quality criteria. If a pollutant is reported as
+"non-detectable" above the MDLs as defined in Appendix B of 40 CFR 136, the pollutant will be assumed to be
+present at that reported level of sensitivity.
+
+                                                           89
+

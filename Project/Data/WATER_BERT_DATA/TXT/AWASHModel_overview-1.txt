@@ -1,0 +1,189 @@
+Modeling Overview
+        Overview of the model
+
+
+Contents:
+ Overview of the model
+ Examples of AWASH in action
+ Getting involved
+                   Model objective
+Explore interactions between water, food and energy systems
+from a national perspective
+ In response to specific types of climate changes
+ In response to economic factors
+     GDP growth rate , Global Energy prices, Global Food demand
+     Investment climate – financing, rates, private vs public action
+ In response to demographic factors
+     Migration, Age distribution, income ….
+   In response to property rights models – water rights /others
+   In response to conservation technologies
+   In response to energy policy – renewables, carbon tax, biofuels
+   In response to agricultural policy or diet preferences – crop
+    insurance etc
+                   Model Elements
+
+
+
+
+   Populations: consume water, electricity, food
+   Power plants: consume water, biofuels; produce electricity
+   Agriculture: consume water, energy; produce food, biofuel
+   Water: consume energy
+                     Design decisions
+
+ Modeled at a county-month scale for whole US
+ Multiple networks of interactions
+   Counties to neighboring counties
+   Other transport networks (water, electricity)
+ Treat arbitrary “resources”: water, energy, products
+   Solve for production, imports and exports, storage, prices
+ Interested in spatiotemporal optimization
+   Short-term optimization of production distribution
+   Long-term optimization of capacity expansion
+   Multiple objective functions to consider
+           Basic model scale
+
+ Monthly, 1949 – 2009, and climate futures
+Flow Gauges, Reservoirs,
+   Cross-border canals
+County River Network
+County Transportation Network
+                 Electricity Grid
+
+ County-level representation of TIGER high-voltage lines
+Electricity Grid
+
+
+
+  0.9
+  0.8
+  0.7
+  0.6
+
+
+
+
+        <1000 MW
+        1000 - 2500 MW
+        2500 - 5000 MW
+  0.5
+
+
+
+
+        5000 - 10000 MW
+        10000 - 15000 MW
+        > 15000 MW
+Groundwater Network
+ Implementing environmental flows
+ Unmodified monthly flows from VIC
+ Recommendations follow flow-duration curve
+        An stylized model element
+ A value-of-water optimization
+
+Water                  Production          Revenue
+        Production                     X
+                      Product Price
+
+
+                                       X         -   Surplus     d
+                                                               dWater
+                                                                        MVoW
+
+                     Extraction Cost
+
+
+ Maximize total producer profits, assuming fixed prices and
+  costs, realistic water supply, and an omnipresent market.
+ Adding distribution and demand
+
+ Determine the best locations for production and
+  consumption, given demand.
+    Water
+            Production
+                            Production
+                                           X
+                                               Revenue                           Production
+                          Product Price                                                       Distribution
+                                                             Surplus     d     MVoW
+                                           X             -             dWate
+                                                                         r
+                         Extraction Cost
+
+                                                                                                     Prices
+
+
+                                                                                                Demand
+                   Consumption                                                                   Model
+Model Space and Time
+ An integrated modeling framework
+
+ Component-based framework (Mimi in Julia)
+   Inputs from outside the model:   Weather                    Yields
+   Inputs from other components:    Fertilizer   Agriculture
+                                                                Costs
+   Inputs from optimization:        Irrigation   Component
+
+ Able to validate components individually and swap them out
+  and have multiple variants.
+   Existing Mimi components for climate, biodiversity, disease,
+    conflict, natural disasters
+ Linear programming optimization (Gurobi)
+   Automatic construction of LP matrices
+  Examples of AWASH in action
+
+
+Contents:
+ Overview of the model
+ Examples of AWASH in action
+ Getting involved
+             Current drawdown
+
+ Accounting for surface water and reservoirs
+          Effects of optimization
+
+ Hold all water demands
+  constant
+ Minimize costs to satisfy
+  demands over
+   Where to withdrawal from
+    surface
+   Where to withdrawal from
+    groundwater
+                      Less GW
+   When to release    at state
+     from reservoirs
+                       More GW    USGS GW minus optimal GW
+Allocation of agriculture
+Colorado Case Study
+             Getting involved
+
+
+Contents:
+ Overview of the model
+ Examples of AWASH in action
+ Getting involved
+            Our user interface
+
+
+ (Almost) self-installing interface:
+        Documentation!
+
+Components     Tutorials
+Agriculture    Simulation
+Groundwater    SW optimization
+Allocation     Network data
+WaterNetwork   Unmodified flows
+ReturnFlows    Installation
+Reservoir      Contributing
+               We need help!
+
+
+   Website
+   Electricity Grid
+   Brewery
+   Automatic LP checking
+   Cross-state compacts
+   Biofuels
+   Environmental flows
+

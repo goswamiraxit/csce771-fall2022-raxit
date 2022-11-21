@@ -1,0 +1,59 @@
+Table 4. Delistings this Cycle
+               Water      Water
+                                                Impaired                                            Listing
+  Basin        Body       Body       County                    Pollutant         Location
+                                                  Use                                               Change
+               Name        Id
+                                                                                                  TMDL
+                                                                                                  developed by
+                                                                                                  MDEQ and
+                                                                                                  approved by
+                                                                                                  EPA
+                                                                            Near Mathiston        3/29/2019
+Big Black     Big Black            Webster,    Aquatic Life                 from Headwaters to    (MS_Big_Bla
+River         River       100111   Choctaw     Use Support    Sediment      MWS 1003              ck_Sediment)
+                                                                            Near Hoffman from
+Big Black     Jordan                           Aquatic Life   Biological    headwaters to mouth   Waterbody
+River         Creek       102911   Holmes      Use Support    Impairment    at Big Black River    Attaining Use
+                                                                                                  TMDL
+                                                                                                  developed by
+                                                                                                  MDEQ and
+                                                                                                  approved by
+                                                                            From the              EPA
+              Middle                                                        headwaters to the     3/29/2019
+Big Black     Bywy                             Aquatic Life                 mouth at Big Bywy     (MS_Big_Bla
+River         Creek       10911    Choctaw     Use Support    Sediment      Ditch                 ck_Sediment)
+                                                                                                  TMDL
+                                                                                                  developed by
+                                                                                                  MDEQ and
+              Unnamed                                                                             approved by
+              Tributary                                                                           EPA
+              to Pigeon                                                     From headwaters to    3/29/2019
+Big Black     Roost                            Aquatic Life                 the mouth at Pigeon   (MS_Big_Bla
+River         Creek       100411   Oktibbeha   Use Support    Sediment      Roost Creek           ck_Sediment)
+                                                              Organic       From County Road
+                                                              Enrichment/   East of Orange
+                                                              Low           Grove to mouth at     TMDL
+Coastal       Bayou                            Aquatic Life   Dissolved     Point Aux Chenes      proposed by
+Streams       Cumbest     200311   Jackson     Use Support    Oxygen        Bay                   EPA
+                                                                                                  TMDL not
+                                                                                                  appropriate.
+                                                                                                  No longer
+              Gulf Park                                                     Near Ocean Springs    monitored
+Coastal       Estates                          Aquatic Life   Total         from Pelican Ave to   due to change
+Streams       Beach       250411   Jackson     Use            Nitrogen      Deer Street           in use
+                                                                            At Rio from
+Pascagoula    Houston              Neshoba,    Aquatic Life   Biological    headwaters to mouth   Waterbody
+River         Creek       400312   Kemper      Use Support    Impairment    at Okatibbee Creek    Attaining Use
+                                                                            Near Basin from
+Pascagoula    Indian                           Aquatic Life   Biological    headwaters to mouth   Waterbody
+River         Creek       417612   George      Use Support    Impairment    at Pascagoula River   Attaining Use
+                                                                            Near Centerville
+South         Thompson                         Aquatic Life                 from headwaters to    Waterbody
+Independent   Creek       611311   Wilkinson   Use Support    Sediment      LA state line         Attaining Use
+
+
+
+
+                                                13
+

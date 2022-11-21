@@ -1,0 +1,217 @@
+Water Body
+Name
+
+Water
+Body Id
+
+Pascagoula
+River
+
+Tallahoma Creek
+
+412811
+
+Jones
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Terrapin Creek to confluence
+with Horse Creek
+
+Pascagoula
+River
+
+Tallahoma Creek
+
+412511
+
+Jasper
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Laurel from confluence with Piney Branch to
+MWS 4127 boundary
+
+Pascagoula
+River
+
+Tallahoma Creek
+
+412711
+
+Jasper, Jones
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From MWS 4125 boundary to confluence with
+Terrapin Creek
+
+Pascagoula
+River
+
+Tiger Creek
+
+414512
+
+Jones
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with East Tiger Creek to mouth at
+Bogue Homo
+
+Pascagoula
+River
+
+Twistwood Creek
+
+423811
+
+Jasper, Clarke
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence of North and South Twistwood
+Creek to mouth at Souinlovie Creek
+
+Pascagoula
+River
+
+Unnamed
+Tributary to
+Oakohay Creek
+
+409014
+
+Smith
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Oakohay Creek
+
+Pascagoula
+River
+
+West Bouie
+Creek
+
+411212
+
+Jefferson
+Davis
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Bassfield from headwaters to confluence with
+Bouie River
+
+Pearl River
+
+Ashlog Creek
+
+508313
+
+Rankin
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Pelahatchie from headwaters to mouth at
+Pelahatchie Creek
+
+Pearl River
+
+Bahala Creek
+
+513911
+
+Copiah
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Russell Creek to confluence
+with Little Bahala Creek
+
+Pearl River
+
+Beaver Creek
+
+521413
+
+Pike
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Johnstons Station from outfall of Dixie Springs
+Lake to mouth at Bogue Chitto River
+
+Pearl River
+
+Big Creek
+
+513211
+
+Simpson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Harrisville from MWS 5131 boundary at Heed
+Neely Road bridge to mouth at strong River
+
+Basin
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+32
+
+Location
+
+

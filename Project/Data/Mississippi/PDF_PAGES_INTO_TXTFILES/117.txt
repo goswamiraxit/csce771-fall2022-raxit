@@ -1,0 +1,58 @@
+NPDES Whole Effluent Toxicity Testing Report Form
+Mississippi Office of Pollution Control
+* All blanks on this form are to be filled in. Blanks that are not used should be filled in with
+"N/A" or a line drawn through the blank. Please print.
+Please attach the following items to this report form and indicate with an "X" in the box.
+1. ALL CHAIN OF CUSTODY FORMS
+2. All Reference Toxicant Data for each Organism used in Test and Current Control Charts for each
+Organism.
+3. All Raw Data (Bench Sheets) Pertaining to the Tests (i.e., all physical, chemical and biological
+measurements)
+4. All Result Calculations
+5. Discharge Monitoring Reports (DMRs) when Applicable
+
+Facility/Industry/Client Name:_____________________________________________________
+NPDES Number:________________________________________________________________
+County:_______________________________________________________________________
+Name and Phone Number of Contract Laboratory:_____________________________________
+Date(s) and Time(s) Test(s) Initiated:_____________________End:_______________________
+Name(s) of Person(s) Conducting Test(s) (Printed):____________________________________
+QA/QC Officer/Reviewer Signature:________________________________________________
+Laboratory Report #:_____________________________________________________________
+Sampler's Name (Print):__________________________________________________________
+Samples
+DATE AND
+TIME
+COLLECTED
+
+LAB
+SAMPLE
+#
+
+GRAB
+
+24-H
+COMP.
+
+ARRIVAL
+TEMP. °C
+
+TYPE OF
+REFRIG.
+USED IN
+TRANS.
+
+* If samples are aerated please describe in report.
+
+117
+
+SAMPLE
+DELIVR. BY:
+
+*SAMPLE
+AERATED
+
+SAMPLE
+FILTERED
+
+

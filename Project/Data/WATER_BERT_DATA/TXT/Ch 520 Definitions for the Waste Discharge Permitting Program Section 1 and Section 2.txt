@@ -1,0 +1,432 @@
+       06 096 Me. Code R. Ch. 520 § 1 References to Federal
+        Regulations. (Code of Maine Rules (2021 Edition))
+
+
+Section 1. References to Federal Regulations.
+
+Portions of this rule refer to federal regulations of the United States
+Environmental Protection Agency (EPA). Unless otherwise specified, the
+federal regulations referenced are those regulations effective as of July 1,
+1998, as they appear in volume 40 of the Code of Federal Regulations (CFR).
+06 096 Me. Code R. Ch. 520 § 2 Definitions. (Code of Maine Rules
+                        (2021 Edition))
+
+
+Section 2. Definitions.
+
+The following definitions apply to Chapters 521 through 529. Other terms
+which have specific or limited meaning in the context of a rule are defined in
+that rule. Terms not otherwise defined have the meaning given by State Law,
+Title 38, Chapter 3 or the Federal Clean Water Act. When a defined term
+appears in a definition, the defined term is sometimes placed in quotation
+marks as an aid to readers. The definitions in Chapters 521 through 529 are
+not intended in any way to define or affect the meaning of terms used in
+other rules administered by the Department.
+
+Administrator means the Administrator of the United States Environmental
+Protection Agency, or an authorized representative.
+
+Act means the Federal Water Pollution Control Act, Federal public law 92-
+500 or 33 United States Code, sections 1251, et. seq., and including all
+amendments effective on or before January 1, 1997, of the Clean Water Act.
+
+Applicable standards and limitations means all State, interstate, and federal
+standards and limitations to which a ``discharge,'' a ``sewage sludge use or
+disposal practice,'' or a related activity is subject under the CWA, including
+``effluent limitations,'' water quality standards, standards of performance,
+toxic effluent standards or prohibitions, ``best management practices,''
+pretreatment standards, and ``standards for sewage sludge use or disposal''
+under sections 301, 302, 303, 304, 306, 307, 308, 403 and 405 of CWA.
+
+Application means the forms provided by the Department for applying for a
+permit, including any additions, revisions or modifications to the forms.
+
+Approved program or approved State means a State or interstate program
+which has been approved or authorized by EPA under 40 CFR part 123.
+
+Average monthly discharge limitation means the highest allowable average
+of ``daily discharges'' over a calendar month, calculated as the sum of all
+``daily discharges'' measured during a calendar month divided by the
+number of ``daily discharges'' measured during that month. Except,
+however, bacteriological tests may be calculated as a geometric mean.
+
+Average weekly discharge limitation means the highest allowable average of
+``daily discharges'' over a calendar week, calculated as the sum of all ``daily
+discharges'' measured during a calendar week divided by the number of
+``daily discharges'' measured during that week.
+
+Best management practices (``BMPs'') means schedules of activities,
+prohibitions of practices, maintenance procedures, and other management
+practices to prevent or reduce the pollution of ``waters of the State.'' BMPs
+06 096 Me. Code R. Ch. 520 § 2 Definitions. (Code of Maine Rules
+                        (2021 Edition))
+
+
+also include treatment requirements, operating procedures, and practices to
+control plant site runoff, spillage or leaks, sludge or waste disposal, or
+drainage from raw material storage.
+
+BMPs means ``best management practices.''
+
+Commissioner means the Commissioner of the Department of
+Environmental Protection, or his or her designee.
+
+Contiguous zone means the entire zone established by the United States
+under Article 24 of the Convention on the Territorial Sea and the Contiguous
+Zone.
+
+Continuous discharge means a ``discharge'' which occurs without
+interruption throughout the operating hours of the facility, except for
+infrequent shutdowns for maintenance, process changes, or other similar
+activities.
+
+CWA means the Clean Water Act or the Federal Water Pollution Control Act,
+Federal public law 92-500 or 33 United States Code, sections 1251, et. seq.,
+and including all amendments effective on or before January 1, 1997.
+
+CWA and regulations means the Clean Water Act and applicable regulations
+promulgated thereunder, including State program requirements.
+
+Daily discharge means the ``discharge of a pollutant'' measured during a
+calendar day or any 24-hour period that reasonably represents the calendar
+day for purposes of sampling. For pollutants with limitations expressed in
+units of mass, the ``daily discharge'' is calculated as the total mass of the
+pollutant discharged over the day. For pollutants with limitations expressed
+in other units of measurement, the ``daily discharge'' is calculated as the
+average measurement of the pollutant over the day.
+
+Department means the Department of Environmental Protection, including
+the Board of Environmental Protection and the "Commissioner".
+
+Director means the Regional Administrator or the "Department", as the
+context requires, or an authorized representative. ``Director'' normally
+means the Department. In some circumstances, however, EPA retains the
+authority to take certain actions even when there is an approved State
+program. (For example, when EPA has issued an NPDES permit prior to the
+approval of a State program, EPA may retain jurisdiction over that permit
+after program approval, see 40 CFR 123.1.) In such cases, the term
+"Director'' means the Regional Administrator and not the Department.
+06 096 Me. Code R. Ch. 520 § 2 Definitions. (Code of Maine Rules
+                        (2021 Edition))
+
+
+Discharge means any spilling, leaking, pumping, pouring, emptying,
+dumping, disposing or other addition of any pollutant to "waters of the
+State".
+
+Discharge Monitoring Report (``DMR'') means the EPA uniform national
+form, including any subsequent additions, revisions, or modifications for the
+reporting of self-monitoring results by permittees. DMRs must be used by
+``approved States'' as well as by EPA. EPA will supply DMRs to any
+approved State upon request. The EPA national forms may be modified to
+substitute the State Agency name, address, logo, and other similar
+information, as appropriate, in place of EPA's.
+
+DMR means ``Discharge Monitoring Report.''
+
+Draft permit means a document prepared under Chapter 522 indicating the
+Department's tentative decision to issue or deny, modify, revoke and reissue,
+terminate, or reissue a ``permit.'' A notice of intent to terminate a permit,
+and a notice of intent to deny a permit, as discussed in Chapter 522, are
+types of ``draft permits.'' A denial of a request for modification, revocation
+and reissuance, or termination, as discussed in Chapter 522, is not a ``draft
+permit.'' A ``proposed permit'' is not a ``draft permit.''
+
+Effluent limitation means any restriction imposed by the Department on
+quantities, discharge rates, and concentrations of ``pollutants'' which are
+``discharged'' from ``point sources'' into ``waters of the State,'' the waters
+of the ``contiguous zone,'' or the ocean.
+
+Effluent limitations guidelines means a regulation published by the
+Administrator under section 304(b) of CWA to adopt or revise ``effluent
+limitations.''
+
+Environmental Protection Agency (``EPA'') means the United States
+Environmental Protection Agency.
+
+EPA means the United States Environmental Protection Agency.
+
+Facility or activity means any NPDES ``point source'' or any other facility or
+activity (including land or appurtenances thereto) that is subject to
+regulation under the NPDES program.
+
+Federal Indian reservation means all land within the limits of any Indian
+reservation under the jurisdiction of the United States Government,
+notwithstanding the issuance of any patent, and including rights-of-way
+running through the reservation.
+06 096 Me. Code R. Ch. 520 § 2 Definitions. (Code of Maine Rules
+                        (2021 Edition))
+
+
+General permit means an NPDES ``permit'' issued under Chapter 529
+authorizing a category of discharges under the CWA within a geographical
+area.
+
+Hazardous substance means any substance designated under 40 CFR part
+116 pursuant to section 311 of CWA.
+
+Indian lands means real property the title to which is vested in the United
+States but held in trust for an Indian Tribe. Jurisdiction over environmental
+matters on Indian lands in Maine is as set forth in the Maine Indian Claims
+Settlement Act, 25 USC §§ 1721, et. seq., and the Maine Implementing Act,
+30 MRSA §§ 6201 et. seq.
+
+Indian Tribe means the Passamaquoddy Tribe and the Penobscot Indian
+Nation as defined in 30 MRSA §§ 6203(7) and (10).
+
+Indirect discharger includes, but is not limited to, a non domestic discharger
+introducing ``pollutants'' to a ``publicly owned treatment works.''
+
+Interstate agency means an agency of two or more States established by or
+under an agreement or compact approved by the Congress, or any other
+agency of two or more States having substantial powers or duties pertaining
+to the control of pollution as determined and approved by the Administrator
+under the CWA and regulations.
+
+Major facility means any NPDES ``facility or activity'' classified as such by
+the Regional Administrator, or, in the case of ``approved State programs,''
+the Regional Administrator in conjunction with Department.
+
+Maximum daily discharge limitation means the highest allowable ``daily
+discharge.''
+
+Municipality means a city, town, plantation or unorganized township.
+
+National Pollutant Discharge Elimination System (NPDES) means the
+national program for issuing, modifying, revoking and reissuing,
+terminating, monitoring and enforcing permits, and imposing and enforcing
+pretreatment requirements, under sections 307, 402, 318, and 405 of CWA.
+The term includes an ``approved program.''
+
+New discharger means any building, structure, facility, or installation:
+
+(a) From which there is or may be a ``discharge of pollutants;''
+
+(b) That did not commence the ``discharge of pollutants'' at a particular
+``site'' prior to August 13, 1979;
+06 096 Me. Code R. Ch. 520 § 2 Definitions. (Code of Maine Rules
+                        (2021 Edition))
+
+
+(c) Which is not a ``new source;'' and
+
+(d) Which has never received a finally effective NPDES permit for discharges
+at that ``site.''
+
+This definition includes an ``indirect discharger'' which commences
+discharging into ``waters of the State'' after August 13, 1979. It also includes
+any existing mobile point source (other than an offshore or coastal oil and
+gas exploratory drilling rig or a coastal oil and gas developmental drilling
+rig) such as a seafood processing rig, seafood processing vessel, or aggregate
+plant, that begins discharging at a ``site'' for which it does not have a
+permit; and any offshore or coastal mobile oil and gas exploratory drilling
+rig or coastal mobile oil and gas developmental drilling rig that commences
+the discharge of pollutants after August 13, 1979, at a ``site'' under EPA's
+permitting jurisdiction for which it is not covered by an individual or general
+permit and which is located in an area determined by the Regional
+Administrator in the issuance of a final permit to be an area or biological
+concern. In determining whether an area is an area of biological concern, the
+Regional Administrator shall consider the factors specified in 40 CFR
+125.122(a) (1) through (10).
+
+An offshore or coastal mobile exploratory drilling rig or coastal mobile
+developmental drilling rig will be considered a ``new discharger'' only for
+the duration of its discharge in an area of biological concern.
+
+New source means any building, structure, facility, or installation from
+which there is or may be a ``discharge of pollutants,'' the construction of
+which commenced:
+
+(a) After promulgation of standards of performance under section 306 of
+CWA which are applicable to such source, or
+
+(b) After proposal of standards of performance in accordance with section
+306 of CWA which are applicable to such source, but only if the standards
+are promulgated in accordance with section 306 within 120 days of their
+proposal.
+
+NPDES means ``National Pollutant Discharge Elimination System.''
+
+Owner or operator means the owner or operator of any "facility or activity"
+subject to regulation under the NPDES program. In the case of a publicly
+owned facility or activity, the owner must be included as a licensee in any
+permit issued under the State NPDES program.
+
+Permit means an authorization, license, or equivalent control document
+issued by EPA or an ``approved State'' to implement the requirements of 40
+06 096 Me. Code R. Ch. 520 § 2 Definitions. (Code of Maine Rules
+                        (2021 Edition))
+
+
+CFR parts 122, 123 and 124. ``Permit'' includes an NPDES ``general
+permit'' (Chapter 529). Permit does not include any permit which has not
+yet been the subject of final agency action, such as a ``draft permit'' or a
+``proposed permit.''
+
+Person means an individual, firm, corporation, municipality, quasi-
+municipal corporation, state agency, federal agency or other legal entity.
+
+Point source means any discernible, confined and discrete conveyance,
+including, but not limited to, any pipe, ditch, channel, tunnel, conduit, well,
+discrete fissure, container, rolling stock, concentrated animal feeding
+operation or vessel or other floating craft, from which pollutants are or may
+be discharged.
+
+Pollutant means dredged spoil, solid waste, junk, incinerator residue,
+sewage, refuse, effluent, garbage, sewage sludge, munitions, chemicals,
+biological or radiological materials, oil, petroleum products or byproducts,
+heat, wrecked or discarded equipment, rock, sand, dirt and industrial,
+municipal, domestic, commercial or agricultural wastes of any kind.
+
+POTW means ``publicly owned treatment works.''
+
+Primary industry category means any industry category listed in the NRDC
+settlement agreement (Natural Resources Defense Council et al. v.Train, 8
+E.R.C. 2120 (D.D.C. 1976), modified 12 E.R.C. 1833 (D.D.C.1979)); also
+listed in appendix A of Chapter 521.
+
+Privately owned treatment works means any device or system which is (a)
+used to treat wastes from any facility whose operator is not the operator of
+the treatment works and (b) not a ``POTW.''
+
+Process wastewater means any water which, during manufacturing or
+processing, comes into direct contact with or results from the production or
+use of any raw material, intermediate product, finished product, byproduct,
+or waste product.
+
+Proposed permit means a State NPDES ``permit'' which is sent to EPA for
+review before final issuance by the State. A ``proposed permit'' is not a
+``draft permit.''
+
+Publicly owned treatment works (``POTW'') means any facility for the
+treatment of pollutants owned by the State or any political subdivision
+thereof, any municipality, district, quasi-municipal corporation or other
+public entity.
+06 096 Me. Code R. Ch. 520 § 2 Definitions. (Code of Maine Rules
+                        (2021 Edition))
+
+
+Recommencing discharger means a source which recommences discharge
+after terminating operations.
+
+Regional Administrator means the Regional Administrator of the
+Environmental Protection Agency Region I or the authorized representative
+of the Regional Administrator.
+
+Schedule of compliance means a schedule of remedial measures included in
+a ``permit'', including an enforceable sequence of interim requirements (for
+example, actions, operations, or milestone events) leading to compliance
+with the CWA and regulations.
+
+Secondary industry category means any industry category which is not a
+``primary industry category.''
+
+Secretary means the United States Secretary of the Army, acting through the
+Chief of Engineers.
+
+Sewage Sludge means any solid, semisolid, or liquid residue removed during
+the treatment of municipal waste water or domestic sewage. Sewage sludge
+includes, but is not limited to, solids removed during primary, secondary, or
+advanced waste water treatment, scum, septage, portable toilet pumpings,
+type III marine sanitation device pumpings (33 CFR part 159), and sewage
+sludge products. Sewage sludge does not include grit or screenings, or ash
+generated during the incineration of sewage sludge.
+
+Sewage sludge use or disposal practice means the collection, storage,
+treatment, transportation, processing, monitoring, use, or disposal of
+sewage sludge.
+
+Site means the land or water area where any ``facility or activity is
+physically located or conducted, including adjacent land used in connection
+with the facility or activity.
+
+State means the State of Maine.
+
+State Director means the Department of Environmental Protection, the
+Commissioner or a delegated representative.
+
+State/EPA Agreement means an agreement between the Regional
+Administrator and the State which coordinates EPA and State activities,
+responsibilities and programs including those under the CWA programs.
+
+Total dissolved solids means the total dissolved (filterable) solids as
+determined by use of the method specified in 40 CFR part 136.
+06 096 Me. Code R. Ch. 520 § 2 Definitions. (Code of Maine Rules
+                        (2021 Edition))
+
+
+Toxic pollutant includes any pollutant listed as toxic under section 307(a)(1)
+or, in the case of ``sludge use or disposal practices,'' any pollutant identified
+in regulations implementing section 405(d) of the CWA. Toxic pollutant also
+includes those substances or combination of substances, including disease
+causing agents, which after discharge or upon exposure, ingestion,
+inhalation or assimilation into any organism, including humans either
+directly through the environment or indirectly through ingestion through
+food chains, will, on the basis of information available to the board either
+alone or in combination with other substances already in the receiving
+waters or the discharge, cause death, disease, abnormalities, cancer, genetic
+mutations, physiological malfunctions, including malfunctions in
+reproduction, or physical deformations in such organism or their offspring.
+
+Treatment works treating domestic sewage means a POTW or any other
+sewage sludge or waste water treatment devices or systems, regardless of
+ownership (including federal facilities), used in the storage, treatment,
+recycling, and reclamation of municipal or domestic sewage, including land
+dedicated for the disposal of wastewater or sewage sludge. . For purposes of
+this definition, ``domestic sewage'' includes waste and waste water from
+humans or household operations that are discharged to or otherwise enter a
+treatment works. In States where there is no approved State sludge
+management program under section 405(f) of the CWA, the Regional
+Administrator may designate any person subject to the standards for sewage
+sludge use and disposal in 40 CFR part 503 as a ``treatment works treating
+domestic sewage,'' where he or she finds that there is a potential for adverse
+effects on public health and the environment from poor sludge quality or
+poor sludge handling, use or disposal practices, or where he or she finds that
+such designation is necessary to ensure that such person is in compliance
+with 40 CFR part 503.
+
+Variance means any mechanism or provision under section 301 or 316 of
+CWA or under 40 CFR part 125, or in the applicable ``effluent limitations
+guidelines'' which allows modification to or waiver of the generally
+applicable effluent limitation requirements or time deadlines of CWA. This
+includes provisions which allow the establishment of alternative limitations
+based on fundamentally different factors or on sections 301(c), 301(g),
+301(h), 301(i), or 316(a) of CWA.
+
+Waters of the State means any and all surface and subsurface waters that are
+contained within, flow through, or under or border upon this State or any
+portion of the State, including the marginal and high seas, except such
+waters as are confined and retained completely upon the property of one
+person and do not drain into or connect with any other waters of the State,
+but not excluding waters susceptible to use in interstate or foreign
+06 096 Me. Code R. Ch. 520 § 2 Definitions. (Code of Maine Rules
+                        (2021 Edition))
+
+
+commerce, or whose use, degradation or destruction would affect interstate
+or foreign commerce.
+
+Wetlands means those areas that are inundated or saturated by surface or
+ground water at a frequency and duration sufficient to support, and that
+under normal circumstances do support, a prevalence of vegetation typically
+adapted for life in saturated soil conditions. Wetlands generally include
+swamps, marshes, bogs, and similar areas.
+
+Whole effluent toxicity means the aggregate toxic effect of an effluent
+measured directly by a toxicity test.
+
+AUTHORITY: 38 MRSA § 341-D
+
+APA EFFECTIVE DATE: April 5, 1999
+
+EFFECTIVE DATE: This rule became effective upon the approval of the U.S.
+Environmental Protection Agency of related parts of the State's application
+to administer the National Pollutant Discharge Elimination System program
+of the Federal Clean Water Act, pursuant to 40 CFR part 123. This approval
+was granted through a January 12, 2001 (the presumed effective date) letter
+from Mindy S. Lubber of the United States Environmental Protection
+Agency to Governor Angus S. King, Jr. The APA Office was notified of this
+action through a memo, which included a copy of the Lubber letter, from
+Dennis Merrill of the Department of Environmental Protection dated
+January 23, 2001.
+

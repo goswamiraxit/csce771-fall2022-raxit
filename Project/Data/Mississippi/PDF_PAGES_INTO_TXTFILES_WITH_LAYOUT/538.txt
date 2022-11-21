@@ -1,0 +1,40 @@
+                Water Body       Water                     Impaired
+     Basin                                   County                           Pollutant                        Location
+                  Name          Body Id                      Use
+
+              Bogue Chitto                                Aquatic Life    Biological      From confluence with Boone Creek to confluence
+Pearl River   River             521111    Lincoln         Use Support     Impairment      with Myers Creek
+
+              Bogue Chitto                                Aquatic Life    Biological      From confluence with Myers Creek to Johnson’s
+Pearl River   River             521311    Lincoln         Use Support     Impairment      Station
+
+                                                          Aquatic Life    Biological      Near Brookhaven from headwaters to mouth at
+Pearl River   Boone Creek       521113    Lincoln         Use Support     Impairment      Bogue Chitto
+
+                                                          Aquatic Life    Biological      Near Pulaski from headwaters at W Moore Tower
+Pearl River   Caney Creek       511411    Scott, Smith    Use Support     Impairment      Road to mouth at Strong River
+
+                                                          Aquatic Life    Biological      Near Pelahatchie from headwaters to mouth at
+Pearl River   Clear Creek       508611    Rankin          Use Support     Impairment      Pelahatchie Creek
+
+                                                          Aquatic Life    Biological      Near Carthage from headwaters to mouth at Lobutcha
+Pearl River   Cobbs Creek       504111    Leake           Use Support     Impairment      Creek
+
+                                                          Aquatic Life    Biological      Near French Camp from headwaters to MWS 5059
+Pearl River   Cole Creek        506111    Attala          Use Support     Impairment      boundary
+
+                                                          Aquatic Life    Biological      Near Renfroe from headwaters to mouth at Lobutcha
+Pearl River   Coon Creek        503713    Leake           Use Support     Impairment      Creek
+
+                                          Jefferson       Aquatic Life    Biological      From confluence with Unnamed Tributary at MWS
+Pearl River   Holiday Creek     516311    Davis, Marion   Use Support     Impairment      5162 boundary to mouth at Pearl River
+
+                                                          Aquatic Life    Biological      Near Pelahatchie from headwaters to mouth at Clear
+Pearl River   Hollybush Creek   508612    Rankin          Use Support     Impairment      Creek
+
+                                                          Aquatic Life    Biological
+Pearl River   Hontokalo Creek   504711    Scott           Use Support     Impairment      Near Steel from headwaters to mouth at Little Canal
+
+
+                                                                         33
+

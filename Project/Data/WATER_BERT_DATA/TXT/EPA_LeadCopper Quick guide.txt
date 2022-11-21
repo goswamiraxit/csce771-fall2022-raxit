@@ -1,0 +1,148 @@
+                                    Lead and Copper Rule: A Quick Reference Guide
+                                    Overview of the Rule
+                                    Title1          Lead and Copper Rule (LCR)2, 56 FR 26460 - 26564, June 7, 1991
+                                    Purpose         Protect public health by minimizing lead (Pb) and copper (Cu) levels in drinking water, primarily by reducing
+                                                    water corrosivity. Pb and Cu enter drinking water mainly from corrosion of Pb and Cu containing plumbing
+                                                    materials.
+                                    General         Establishes action level (AL) of 0.015 mg/L for Pb and 1.3 mg/L for Cu based on 90th percentile level of tap
+                                    Description     water samples. An AL exceedance is not a violation but can trigger other requirements that include water
+                                                    quality parameter (WQP) monitoring, corrosion control treatment (CCT), source water monitoring/treatment,
+                                                    public education, and lead service line replacement (LSLR).
+                                    Utilities       All community water systems (CWSs) and non-transient non-community water systems (NTNCWSs) are
+                                    Covered         subject to the LCR requirements.
+
+                                    Public Health Benefits
+                                    Implementation ►       Reduction in risk of exposure to Pb that can cause damage to brain, red blood cells, and kidneys,
+                                    of the LCR has         especially for young children and pregnant women.
+                                    resulted in    ►       Reduction in risk of exposure to Cu that can cause stomach and intestinal distress, liver or kidney
+                                                           damage, and complications of Wilson’s disease in genetically predisposed people.
+
+
+                                    Major Monitoring Provisions
+                                    Lead and Copper Tap
+                                    Applicability   ►► All CWSs and NTNCWSs.
+                                    Standard        ►► CWSs and NTNCWSs must collect first-draw samples at taps in homes/buildings that are at high risk of
+                                                       Pb/Cu contamination as identified in 40 CFR 141.86(a).
+                                                    ►► Number of samples is based on system size (see Table 1).
+                                                    ►► Systems must conduct monitoring every 6 months unless they qualify for reduced monitoring.
+                                    Reduced         ►► See Table 1 for sample number and Table 2 for criteria.
+                                    Water Quality Parameter (WQP)
+                                    Applicability   ►► Systems serving > 50,000 people.
+                                                    ►► Systems serving ≤ 50,000 during monitoring periods in which either AL is exceeded.
+                                    Standard        ►► WQP samples at taps are collected every 6 months.
+                                                    ►► WQPs at entry points to distribution system (EPTDS) are collected every 6 months prior to CCT
+                                                       installation, then every 2 weeks.
+                                    Reduced         ►► See Table 1 for sample number and page 2 for criteria. Does not apply to EPTDS WQP monitoring.
+                                                                         Table 1: Lead and Copper Tap and WQP Tap Monitoring
+                                                                                                                 3
+                                                                             Number of Pb/Cu Tap Sample Sites              Number of WQP Tap Sample Sites4
+                                    Size Category        System Size
+                                                                               Standard               Reduced                Standard               Reduced
+                                                            > 100K                100                    50                     25                     10
+                                          Large
+                                                         50,001 - 100K            60                     30                     10                      7
+                                                         10,001 - 50K             60                     30                     10                      7
+                                         Medium
+                                                          3,301 - 10K             40                     20                      3                      3
+                                                          501 - 3,300             20                     10                      2                      2
+                                          Small            101 - 500              10                      5                      1                      1
+                                                            ≤ 100                  5                      5                      1                      1
+                                    3   With written State approval, PWSs can collect < 5 samples if all taps used for human consumption are sampled.
+                                    4   Two WQP tap samples are collected at each sampling site.
+                                                                           Table 2: Criteria for Reduced Pb/Cu Tap Monitoring
+                                    Annual            1. PWS serves ≤ 50,000 people and is ≤ both ALs for 2 consecutive 6-month monitoring periods; or
+1This  document provides a                            2. Any PWS that meets optimal WQPs (OWQPs) and is ≤ Pb AL for 2 consecutive 6-month monitoring
+summary of federal drinking                              periods.
+water requirements; to ensure       Triennial         1. PWS serves ≤ 50,000 people and is ≤ both ALs for 3 consecutive years of monitoring; or
+full compliance, please consult
+the federal regulations at 40 CFR                     2. Any PWS that meets OWQP specifications and is ≤ Pb AL for 3 consecutive years of monitoring; or
+141 and any approved state                            3. Any PWS with 90th percentile Pb and Cu levels ≤ 0.005 mg/L and ≤ 0.65 mg/L, respectively, for 2
+requirements.                                            consecutive 6-month monitoring periods (i.e., accelerated reduced Pb/Cu tap monitoring).
+2
+  The June 1991 LCR was revised
+with the following Technical        Every 9 years     PWS serves ≤ 3,300 people and meets monitoring waiver criteria found at 40 CFR 141.86(g).
+Amendments: 56 FR 32112, July
+15, 1991; 57 FR 28785, June 29,
+1992; 59 FR 33860, June 30,
+                                    Lead Consumer Notice
+1994.                               Within 30 days of learning the results, all systems must provide individual Pb tap results to people who receive water from
+                                    sites that were sampled, regardless of whether the results exceed the Pb AL, as required by 40 CFR 141.85(d).
+It was subsequently revised by:
+the LCR Minor Revisions, 65 FR      Consumer Confidence Report (CCR)
+1950, January 12, 2000; and the
+LCR Short-Term Revisions, 72 FR     All CWSs, irrespective of their lead levels, must provide an educational statement about lead in drinking water in their
+57782, October 10, 2007.            CCRs as required by 40 CFR 141.154. Must be in 2008 CCR (due July 1, 2009) if EPA is Primacy Agency, State adopts the
+                                    rule by reference automatically, or adopts during 2008. Otherwise, this statement is required in the 2009 CCR (due July 1,
+                                    2010).
+                                    Treatment Technique and Sampling Requirements if the AL is Exceeded5
+                                    5 Based on 90th percentile level. Multiply number of valid samples by 0.9 (e.g., 10 samples x 0.9 = 9; thus, use 9th highest
+                                    Pb and Cu test result to compare to AL). For 5 samples, average 4th and 5th highest results. For < 5 samples, use highest
+                                    result.
+                                    Water Quality Parameter (WQP)
+                                    Applicability       Refer to page 1.
+                                    Parameters          ► pH, alkalinity, calcium (initial only, unless calcium carbonate stabilization is used), conductivity (initial
+                                                           monitoring only), orthophosphate (if inhibitor is phosphate-based); silica (if inhibitor is silicate-based),
+                                                           and temperature (initial monitoring only).
+                                    Frequency           ►   Systems installing CCT, must conduct follow-up monitoring for 2 consecutive 6-month periods.
+                                                        ►   WQP tap monitoring is conducted every 6 months, EPTDS monitoring increases to every 2 weeks.
+                                                        ►   After follow-up monitoring, State sets OWQP specifications that define optimal CCT.
+                                    Reduced Tap         ►   Collect reduced number of sampling sites (see Table 1) if meet OWQPs for 2 consecutive 6-month
+                                    Monitoring              periods.
+                                                        ►   Collect reduced number of sampling sites at reduced frequency if meet OWQPs for:
+                                                               - 6 consecutive 6-month monitoring periods can monitor annually;
+                                                               - 3 consecutive years of annual monitoring can monitor triennially.
+                                    Public Education (PE)
+                                    Applicability       ►   Systems that exceed the Pb AL (not required if only the Cu AL is exceeded).
+                                    Purpose         ►       Educates consumers about lead health effects, sources, and steps to minimize exposure.
+                                    Delivery Method ►       CWSs: deliver materials to bill-paying customers and post lead information on water bills, work in
+                                                            concert with local health agencies to reach at-risk populations (children, pregnant woman), deliver
+                                                            to other organizations serving “at-risk” populations, provide press releases, include new outreach
+                                                            activities from list in 40 CFR 141.85(a)(2)(vi), and post to Web site (CWSs serving > 100,000 only).
+                                                        ►   NTNCWSs: posting and distribution to all consumers (can be electronic with State permission). Can
+                                                            apply to CWSs such as hospitals and prisons where population cannot make improvements.
+                                    Timing              ►   Within 60 days after end of monitoring period in which Pb AL was exceeded if not already delivering
+                                                            PE.6
+                                                        ►   Repeat annually except: water bill inserts - quarterly; press releases - 2x/year, and Web posting -
+                                                            continuous.
+                                                        ►   Can discontinue whenever ≤ Pb AL but must recommence if subsequently exceed Pb AL.
+                                    6State   may allow extension in some situations. Also, State may require approval of message content prior to delivery.
+                                    Source Water Monitoring and Source Water Treatment (SOWT)
+                                    Applicability       ►   Systems that exceed Pb or Cu AL.
+                                    Purpose             ►   Determine contribution from source water to total tap water Pb and Cu levels and need for SOWT.
+                                    Timing              ►   One set of samples at each EPTDS is due within 6 months of first AL exceedance.
+                                                        ►   System has 24 months to install any required SOWT.
+                                                        ►   State sets maximum permissible levels (MPLs) for Pb and Cu in source water based on initial and
+                                                            follow-up source water monitoring.
+                                    Standard            ►   Ground water PWSs monitor once during 3-year compliance periods; surface water PWSs monitor
+                                                            annually.
+                                    Reduced             ►   Monitor every 9 years if MPLs are not exceeded during 3 consecutive compliance periods for ground
+                                                            water PWSs or 3 consecutive years for surface water PWSs.
+                                    Corrosion Control Treatment (CCT)
+                                    Applicability       ►   All large systems except those meeting requirements of 40 CFR 141.81(b)(2) or (b)(3).
+                                                        ►   Medium and small systems that exceed either AL; may stop CCT steps if ≤ both ALs for 2 consecutive
+                                                            6-month periods but must recommence CCT if subsequently exceed either AL.
+                                    Study               ►   All large systems except as noted above.
+                                                        ►   If State requires study for small or medium systems, it must be completed within 18 months.
+                                    Treatment           ►   Once State determines type of CCT to be installed, PWS has 24 months to install.
+                                                        ►   Systems installing CCT must conduct 2 consecutive 6 months of follow-up tap and WQP monitoring.
+                                    OWQPs               ►   After follow-up Pb/Cu tap and WQP monitoring, State sets OWQPs. Refer to WQP section above.
+                                    Lead Service Line Replacement (LSLR)
+   For additional                   Applicability       ►   Systems that continue to exceed the Pb AL after installing CCT and/or SOWT.
+   information on the LCR                               ►   Can discontinue LSLR whenever ≤ Pb AL in tap samples for 2 consecutive 6-month monitoring
+                                                            periods; must recommence if subsequently exceed.
+   Call the Safe Drinking Water
+                                    Monitoring          ►   Optional: Sample from LSL to determine if line must be replaced. If all samples are ≤ 0.015 mg/L,
+   Hotline at 1-800-426-4791;
+                                                            line is considered “replaced through testing”; must reconsider these lines if Pb AL is subsequently
+   visit the EPA Web site at
+                                                            exceeded.
+   http://water.epa.gov/drink;
+   or contact your State drinking                       ►   Required: Sample from any LSLs not completely replaced to determine impact on Pb levels.
+   water representative.            Replacement         ►   Must replace at least 7% of LSLs annually; State can require accelerated schedule.
+                                                        ►   If only portion of LSL is replaced, PWS must:
+                                                                - Notify customers at least 45 days prior to replacement about potential for increased Pb levels.
+                                                                - Collect samples within 72 hours of replacement and provide results within 3 days of receipt.
+
+
+Office of Water (4606M)                   EPA 816-F-08-018                                     http://water.epa.gov/drink                                  June 2008
+

@@ -1,0 +1,40 @@
+              Water Body     Water                  Impaired
+    Basin                               County                         Pollutant                        Location
+                Name        Body Id                   Use
+
+Tombigbee                                          Aquatic Life    Biological      Near County Road 23 from headwaters to mouth at
+River       Ray Branch      801912    Itawamba     Use Support     Impairment      Gum Creek
+
+Tombigbee                             Lee,         Aquatic Life    Biological      Near Mantachie from headwaters to mouth at
+River       Sand Creek      801612    Itawamba     Use Support     Impairment      Mantachie Creek
+
+Tombigbee                                          Aquatic Life    Biological
+River       Sand Creek      804811    Lee          Use Support     Impairment      From headwaters to mouth at Mud Creek
+
+Tombigbee                                          Aquatic Life    Biological
+River       Sand Creek      821212    Clay         Use Support     Impairment      From headwaters to confluence with Old Field Creek
+
+Tombigbee                                          Aquatic Life
+River       Shaw Creek      812313    Oktibbeha    Use Support     Sediment        From headwaters to mouth at Noxubee River
+
+Tombigbee                             Lowndes,     Aquatic Life    Biological
+River       Shotbag Creek   813012    Noxubee      Use Support     Impairment      From headwaters to mouth at Noxubee River
+
+Tombigbee                                          Aquatic Life                    Near Vinton from headwaters to confluence with
+River       Spring Creek    804213    Monroe       Use Support     Sediment        Hang Kettle Creek
+
+Tombigbee                                          Aquatic Life                    Near Westpoint from headwaters to Ten-Tom
+River       Spring Creek    809312    Clay         Use Support     Sediment        Waterway
+
+Tombigbee   Standing Reed             Chickasaw,   Aquatic Life    Biological
+River       Creek           808011    Clay         Use Support     Impairment      From headwaters to mouth at Little Cane Creek
+
+Tombigbee                             Noxubee,     Aquatic Life    Biological
+River       Sun Creek       822011    Winston      Use Support     Impairment      From headwaters to mouth at Noxubee River
+
+Tombigbee                                          Aquatic Life    Biological
+River       Tadpole Creek   803112    Monroe       Use Support     Impairment      From headwaters to Aberdeen Lake
+
+
+                                                                  42
+

@@ -1,0 +1,59 @@
+          Water Body    Water                Impair
+ Basin                            County                 Pollutant           Location            Listing Change
+            Name       Body Id               ed Use
+                                                        Organic
+                                                        Enrichment/
+                                             Aquatic    Low
+Yazoo                  941811/               Life Use   Dissolved                                TMDL Complete
+River    Tchula Lake   941511    Holmes      Support    Oxygen        Entire Tchula Lake         06/17/2008
+
+                                             Aquatic
+Yazoo                  941811/               Life Use   Total                                    TMDL Complete
+River    Tchula Lake   941511    Holmes      Support    Nitrogen      Entire Tchula Lake         06/17/2008
+
+                                             Aquatic
+Yazoo                  941811/               Life Use   Total                                    TMDL Complete
+River    Tchula Lake   941511    Holmes      Support    Phosphorus    Entire Tchula Lake         06/17/2008
+
+                                             Aquatic
+Yazoo                  941811/               Life Use                                            TMDL Complete
+River    Tchula Lake   941511    Holmes      Support    Sediment      Entire Tchula Lake         04/17/2008
+
+                                             Aquatic
+Yazoo    Thompson                            Life Use                 From headwaters to mouth   TMDL Complete
+River    Creek         922811    Yazoo       Support    Toxics        at Perry Creek             06/18/2003
+
+                                             Aquatic
+Yazoo                                        Life Use   Total         Entire Wasp Lake near      TMDL Complete
+River    Wasp Lake     942313    Humphreys   Support    Phosphorus    Belzoni                    06/30/2003
+
+                                             Aquatic
+Yazoo                                        Life Use                 Entire Wasp Lake near      TMDL Complete
+River    Wasp Lake     942313    Humphreys   Support    Sediment      Belzoni                    06/30/2003
+                                                        Organic
+                                                        Enrichment/
+                                             Aquatic    Low
+Yazoo                                        Life Use   Dissolved     Entire Wasp Lake near      TMDL Complete
+River    Wasp Lake     942313    Humphreys   Support    Oxygen        Belzoni                    06/30/2003
+
+
+
+
+RULE 9.7 TMDLs SCHEDULED FOR THE NEXT TWO YEARS
+MDEQ has developed a new collaborative framework for implementing the Clean Water Act in
+compliance with a new national initiative by EPA. The Priority Framework Process is designed
+to help coordinate efforts to advance the effectiveness of the water program. In order to select
+priority watersheds MDEQ used landscape information to characterize and rank watersheds by
+resource value and potential stressors. This new framework does not change regulation, policy
+or issue new mandates. It is intended to provide focus for MDEQ’s water programs so as to
+better manage the activities and promote collaboration to achieve water quality goals. More
+information on the Priority Framework Process can be found here:
+
+http://www.mdeq.ms.gov/water/surface-water/priority-framework/
+
+Table 9 below lists the TMDLs MDEQ has planned for development in 2020 and 2021 based on
+resource availability. These TMDLs are also dependent on completion of stressor identifications
+for the biological listings included.
+
+                                                21
+

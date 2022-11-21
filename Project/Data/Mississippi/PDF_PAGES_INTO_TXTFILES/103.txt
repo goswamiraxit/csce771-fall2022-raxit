@@ -1,0 +1,68 @@
+Fresh
+Estuarine
+
+Acute
+19
+13
+
+QT
+
+= total stream flow in cfs (after mixing)
+
+P.
+
+Instream Waste Concentration
+
+Chronic
+11
+7.5
+
+The instream waste concentration (IWC) is the resulting percentage of effluent after complete
+mixing with the receiving water body at the headwater flow appropriate to the allocation
+procedure, normally the 7Q10. Acute or chronic pollutant target criteria are selected based on the
+resulting IWC.
+IWC =
+
+QE
+*100
+QT
+
+For IWC < 1% use acute criteria; For IWC > 1% use chronic criteria.
+Q.
+
+Ammonia Toxicity
+
+Ammonia must not only be considered due to its effect on dissolved oxygen in a receiving water,
+but also its toxicity potential. It is recognized that effluent ammonia concentrations may be more
+restricted due to toxicity than due to oxidation. Consequently, the modeler of conventional
+pollutants must consider ammonia toxicity.
+Ammonia as nitrogen (NH3-N) allocations for effluents will be developed to meet the water
+quality criteria given in Quality Criteria for Water, 1986, EPA 440/5-86-001. Generally,
+ammonia limits will be placed in permits of municipal facilities utilizing lagoon type treatment.
+To properly select the final in-stream target concentration, the IWC (instream waste
+concentration) must be known and the warm water target values used. Stream temperature and
+pH after mixing must also be known or assumed. For empirical modeling a pH of 7.0 and a
+stream temperature of 25oC are assumed limitations. Once this information is known, allocations
+will be determined using the following dilution mix equation:
+
+CE =
+
+(CT * QT ) − (CH * QH )
+QE
+
+where:
+CE
+= allowable effluent NH3 concentration in mg/l
+QE
+= daily average effluent flow in cfs
+CH
+= headwater ammonia concentration of 0.1 mg/l
+QH
+= headwater flow (7Q10) in cfs
+CT
+= ammonia criteria in mg/l (after mixing)
+QT
+= total stream flow in cfs (after mixing)
+103
+
+

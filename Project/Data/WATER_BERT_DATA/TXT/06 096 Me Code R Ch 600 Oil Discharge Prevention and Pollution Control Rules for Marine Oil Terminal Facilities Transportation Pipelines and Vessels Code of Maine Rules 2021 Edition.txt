@@ -1,0 +1,2674 @@
+    06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+   Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                            Edition))
+Chapter 600: OIL DISCHARGE PREVENTION AND POLLUTION
+CONTROL RULES FOR MARINE OIL TERMINALS, TRANSPORTATION
+PIPELINES AND VESSELS
+
+SUMMARY: This chapter sets forth minimum design and operating
+requirements for marine oil terminals and intrastate pipelines. Separate
+sections are included for vessel operation and navigation, siting
+requirements, design and construction standards for new and existing
+marine oil terminal facilities, staff training and safety, and closure of tanks
+and facilities.
+
+1. Preamble. It is the purpose of this chapter, consistent with legislative
+policy, to provide necessary oil spill prevention and control rules for all
+facilities and operations associated with marine oil terminals, intrastate
+pipelines and vessels, so as to prevent discharges of oil to the waters of the
+State.
+
+2. Definitions. The following terms as used in this chapter have the
+following meanings:
+
+A. Aboveground oil storage tank. "Aboveground oil storage tank", also
+referred to as a "tank", means any stationary container, of which more than
+90% is above the surface of the ground and is used or intended to be used
+for the storage or supply of oil. Included in this definition are any tanks
+situated upon or above the surface of a floor and in such a manner that they
+may be readily inspected. For the purpose of this chapter, aboveground oil
+storage tanks do not include aboveground propane storage tanks.
+
+B. Alter. "Alter" means any enlargement, upgrading, repair or removal of a
+storage tank system or any change in the configuration of the piping, tanks,
+diking or the replacement of any tank. The term "alteration" has the same
+meaning.
+
+C. Approved. "Approved" means approved by the Commissioner or the
+commissioner's designee in writing or orally with written confirmation as
+soon as practicable.
+
+D. Bulk. "Bulk" means material in any quantity that is shipped, stored, or
+handled without benefit of package, label, mark or count and carried in
+integral or fixed independent tanks.
+
+E. Bulk oil or oil carried in bulk or as cargo. "Bulk oil" or "oil carried
+in bulk" or as "cargo" means any oil not carried as fuel for bunkering or
+recovered incident to oil spill response activities.
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                 Edition))
+F. Cathodically protected. "Cathodically protected" means the use of a
+technique, consistent with the National Association of Corrosion Engineers
+publication, "Recommended Practices for Installation of Underground
+Liquid Storage Systems, RP-100-97, 1997 as amended, to prevent the
+corrosion of a metal surface by making that surface the cathode of an
+electrochemical cell.
+
+G. Cathodic protection assessment. "Cathodic protection assessment"
+means an analysis to determine the need for cathodic protection in order to
+protect a tank bottom from corrosion. This assessment will be based upon a
+corrosion survey that includes soil analysis and resistivity measurements,
+operating records, corrosion history, corrosion allowance, prior test results
+with similar tank systems in similar environments and current and future
+plans for the tank.
+
+H. Cathodic protection tester. "Cathodic protection tester" means, at a
+minimum, a person certified as a Senior Corrosion Technologist, Corrosion
+Technologist, or Corrosion Technician by the National Association of
+Corrosion Engineers.
+
+I. Combustible liquid. "Combustible liquid" means a liquid which has a
+flash point at or above 100° F (37.8° C). Combustible liquids are subdivided
+as follows:
+
+(1) Class II liquids include those having flash points at or above 100° F
+(37.8° C) and below 140° F (60° C).
+
+(2) Class III A liquids include those having flash points at or above 140° F
+(60° C) and below 200° F (93° C).
+
+(3) Class IIIB liquids include those having flash points at or above 200° F
+(93° C).
+
+J. Commissioner. "Commissioner" means the Commissioner of
+Environmental Protection.
+
+K. Department. "Department" means the Department of Environmental
+Protection composed of the Board of Environmental Protection and the
+Commissioner.
+
+L. Discharge. "Discharge" means any spilling, leaking, pumping, pouring,
+emitting, emptying, or dumping either directly or indirectly to the waters of
+the State of Maine.
+    06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                Edition))
+M. Emergent vegetation. "Emergent vegetation" means erect, rooted and
+herbaceous plants growing in saturated or permanently flooded areas that
+do not tolerate prolonged inundation of the entire plant.
+
+N. Existing aboveground oil storage tank. "Existing aboveground oil
+storage tank" means an aboveground oil storage tank that was constructed
+before the effective date of this chapter.
+
+O. Existing oil terminal facility. "Existing oil terminal facility" means a
+facility that held a valid oil terminal facility license on the effective date of
+this chapter
+
+P. Existing oil and chemical handling areas. "Existing oil and
+chemical handling areas" are the areas inside the existing footprint of the
+facility. The existing footprint includes the developed areas of the facility
+such as the dike, tank, piping, and loading rack areas.
+
+Q. Facility. "Facility" or "Oil Terminal Facility" means any facility of any
+kind and related appurtenances, located in, on or under the surface of any
+land or water, including submerged lands, which is used or capable of being
+used for the purpose of transferring, processing or refining oil, or for the
+purpose of storing the same, but does not include any facility used or
+capable of being used to store no more than 1,500 barrels (63,000 gallons),
+nor any facility not engaged in the transfer of oil to or from waters of the
+State. A vessel is considered an oil terminal facility only in the event of a
+vessel-to-vessel transfer of oil, but only that vessel going to or coming from
+the place of vessel-to-vessel transfer and a permanent or fixed oil terminal
+facility. The term does not include vessels engaged in oil spill response
+activities.
+
+R. Facility closure. "Facility closure" means closure of a facility in a
+manner prescribed by subsection 12(D) of this chapter.
+
+S. Flammable liquid. A "flammable liquid" is a liquid having a flash point
+below 100° F (37.8° C) and having a vapor pressure not exceeding 40 lbs.
+per sq. inch (absolute) (2,068 mm Hg) at 100° F (37.8° C). Flammable
+(Class I) liquids are subdivided as follows:
+
+(1) Class IA liquids include those having flash points below 73° F (22.8° C)
+and having a boiling point below 100° F (37.8° C).
+
+(2) Class IB liquids include those having flash points below 73° F (22.8° C)
+and having a boiling point at or above 100° F (37.8° C).
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+(3) Class IC liquids include those having flash points at or above 73° F (22.8°
+C) and below 100° F (37.8° C).
+
+T. 100-year Flood plain. "100-year flood plain" means the 100-year flood
+plain as shown on Federal Emergency Management Agency (FEMA) Flood
+Insurance Rate Maps or Flood Hazard Boundary Maps, or the flood of
+record, or in the absence of these, by soil types identified as recent flood
+plain soils.
+
+U. Handling. "Handling" means the storing, transferring, collecting,
+separating, salvaging, processing, reducing, recovering, incinerating,
+treating, disposing or transporting of oil.
+
+V. Internal tank bottom liner. An "internal tank bottom liner" is an
+internal, bonded barrier on the tank bottom as described in American
+Petroleum Institute 652, Recommended Practice, Lining of Aboveground
+Storage Tank Bottoms, 2nd Ed. (December 1997).
+
+W. Intrastate pipeline. "Intrastate pipeline" means a pipeline or that part
+of a pipeline that is used in the transportation of oil used in commerce
+within the State.
+
+X. Monitoring well. "Monitoring well" means a dug or drilled, cased well
+or other device used to detect oil in ground water that can be used for
+detecting the presence of at least one-eighth of an inch of oil.
+
+Y. New oil terminal facility. "New oil terminal facility" means an oil
+terminal facility whose application for a license is received after the effective
+date of this chapter.
+
+Z. New aboveground oil storage tank. "New aboveground oil storage
+tank" means an aboveground oil storage tank permitted for construction
+after the effective date of this chapter.
+
+AA. Oil. "Oil" means oil, petroleum products and their oil by-products of
+any kind and in any form including, but not limited to, petroleum, fuel, oil,
+sludge, oil refuse, oil mixed with other wastes, crude oils, oil additives, and
+all other liquid hydrocarbons regardless of specific gravity.
+
+BB. Oil/water separator. "Oil/water separator" means a device used to
+separate and remove oil and oily wastes from oil and water mixtures.
+
+CC. Owner or operator. "Owner or operator" means any person owning
+or operating an oil terminal facility or pipeline, whether by lease, contract or
+    06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                   Edition))
+any other form of agreement or a person in control of, or having
+responsibility for, the daily operation of an oil storage facility.
+
+DD. Owner. "Owner" means the person who alone or in conjunction with
+others owns an oil terminal facility.
+
+EE. Person. "Person" means any natural person, firm, association,
+partnership, corporation, trust, the State of Maine and any agency thereof,
+governmental entity, quasi-governmental entity, the United States of
+America and any agency thereof and any other legal entity.
+
+FF. Pipelines. "Pipelines" means all parts of an intrastate oil pipeline
+facility including line pipe, valves, and other appurtenances connected to
+line pipe, pumping units, fabricated assemblies associated with pumping
+units, metering and delivery stations and fabricated assemblies therein.
+
+GG. Piping. "Piping" means the piping and accessories within a facility
+used for the conveyance of oil between tanks or between tanks and loading
+and unloading points.
+
+HH. Piping Run. A "piping run" means the piping between a bolted
+flange, valve, or pump.
+
+II. Piping tightness test. "Piping tightness test" means a method to test
+the integrity of systems piping. The integrity of piping systems must be
+assured by one or more of the following: pressure testing, volumetric testing
+or internal instrument inspection devices designed to verify the structural
+integrity of the pipe by measuring pipe wall thickness and indicating
+geometric irregularities of the pipe line.
+
+JJ. Private drinking water supply. "Private drinking water supply"
+means any dug, drilled or other type of well or spring or other source of
+water used for human or livestock consumption and that is not a public
+water supply.
+
+KK. Public drinking water supply. "Public drinking water supply" has
+the same meaning as "public water system" in 22 M.R.S. Section 2601(8).
+
+LL. Qualified person. "Qualified person" means an individual thoroughly
+familiar with the State spill prevention rules, and the specific maintenance
+procedures, inspection schedules, and oil spill response procedures in use at
+the facility where the individual is employed.
+
+MM. Reconstructed tank. "Reconstructed tank" means any tank that has
+been dismantled, relocated to a new location and reassembled.
+      06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                    Edition))
+NN. Related appurtenances. "Related appurtenances" means all items
+pertaining to and making the oil terminal facility function. The term does
+not include day tanks that are not connected to pipelines, racks, or storage
+tanks which receive oil from marine transport. For example, tanks supplying
+start-up fuel for electrical generation and that are not connected to the
+marine oil terminal portions of the facility through pipelines or other means
+of oil transfer, and that are in no way related to the function of an oil
+terminal facility, are not considered "related appurtenances".
+
+OO. Release prevention barriers (RPB). "Release prevention barriers"
+include steel bottoms, synthetic materials, clay liners and all other barriers
+or combination of barriers placed in the bottom of or under an aboveground
+storage tank that have these functions:
+
+(1) preventing the escape of oil, and
+
+(2) containing or channeling released material for leak detection.
+
+This process is covered in detail in American Petroleum Institute Standard
+650, 10th Ed. (October 1998).
+
+PP. Secondary containment. "Secondary containment" means a system
+installed so that any material that is discharged or has discharged from the
+primary containment is prevented from reaching the soil or ground water
+outside the system for the anticipated period of time necessary to detect and
+recover the discharged material. Such a system may include, but is not
+limited to, impervious liners, double-walled tanks and piping, or any other
+method approved by the Commissioner that is technically feasible and
+effective, and meets the requirements of this chapter.
+
+QQ. Significant ground water aquifer. "Significant ground water
+aquifer" means a porous formation of ice-contact and glacial outwash sand
+and gravel or fractured bedrock, as identified by the current Maine
+Geological Survey maps, that contains significant recoverable quantities of
+water which is likely to provide drinking water supplies.
+
+NOTE: Sand and Gravel Aquifer Maps are available from the Maine
+Geological Survey, Department of Conservation, State House Station #22,
+Augusta, Maine 04333.
+
+RR. Tank barge. "Tank barge" means any tank vessel on departure from
+or approach to oil terminal facilities or refineries, not equipped with a
+means of self propulsion.
+      06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                    Edition))
+SS. Tank vessel. "Tank vessel" means any vessel on departure from or
+approach to oil terminal facilities or refineries, that is constructed or
+adapted to carry, or that carries, oil in bulk as cargo or cargo residue. For the
+purpose of this chapter, tank vessel does not include any vessel engaged in
+oil spill response activities, including response-related training.
+
+TT. Temporarily out of service. "Temporarily out of service" means a
+facility or portion thereof no longer in use. Facilities or tanks which are used
+for seasonal storage, for surcharge storage, or for standby storage, are not
+considered out of service.
+
+UU. Thermal relief. "Thermal relief" means the method of relieving the
+excess pressure caused by the heating action of the sun on piping and
+equipment.
+
+VV. Transfer. "Transfer" means both on-loading and off-loading between
+an oil terminal facility and vessel, vessel and vessel, and oil terminal facility
+and vehicle.
+
+WW. Transport. "Transport" means to convey oil in or on a vehicle,
+exclusive of the fuel carried for use in the vehicle.
+
+XX. Transportation pipeline. "Transportation pipeline" means the
+continuous piping systems used for the intrastate conveyance of oil outside
+of the boundaries of an oil terminal.
+
+YY. Underway. As used in this chapter, "underway" means that a vessel is
+not at anchor, or made fast to the shore, or aground.
+
+ZZ. Vehicle. "Vehicle" means a tank truck, stake truck, trailer, semi-trailer,
+tractor or other conveyance and appurtenances thereto designed for or
+capable of transporting oil, other than fuel used in the operation of that
+vehicle.
+
+AAA. Vessel. "Vessel" means every description of water craft or other
+contrivance used or capable of being used as a means of transportation on
+water, whether self propelled or otherwise, including, but not limited to,
+barges and tugs, other than a public vessel.
+
+BBB. Waters of the State. "Waters of the State" means any and all
+surface waters that are contained within, flow through, or border upon this
+State or any portion thereof, including, but not limited to, those portions of
+the Atlantic Ocean within the jurisdiction of the State.
+    06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+ Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                              Edition))
+NOTE: The following acronyms used in this chapter stand for the following
+items:
+
+(1) ANSI. American National Standards Institute
+
+(2) API. American Petroleum Institute
+
+(3) ASME. American Society of Mechanical Engineers
+
+(4) ASTM. American Society of Testing and Materials
+
+(5) CFR. Code of Federal Regulations
+
+(6) GRI. Geosynthetic Research Institute
+
+(7) M.R.S. Maine Revised Statutes
+
+(8) NACE. National Association of Corrosion Engineers
+
+(9) NFPA. National Fire Protection Association
+
+(10) NSF. National Sanitation Foundation
+
+(11) PEI. Petroleum Equipment Institute
+
+(12) POTW. Publicly Owned Treatment Works
+
+(13) STI. Steel Tank Institute
+
+(14) UL. Underwriters Laboratories
+
+(15) OPA 90. Federal Oil Pollution Act of 1990, Public Law 101-380, Section
+4202
+
+3. Applicability. This chapter applies to oil terminal facilities, intrastate
+pipelines, vessels licensed by the Department involved in lightering and
+vessels on departure from or approach to oil terminal facilities and
+refineries.
+
+A. Oil Terminal Facilities. This chapter applies to new or existing marine
+oil terminal facilities used or capable of being used to store more than 1,500
+barrels of oil.
+
+(1) Existing facilities. Existing facilities must comply with this chapter,
+unless otherwise stated in this chapter.
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+(2) Responsibility. The standards set forth in this chapter do not relieve the
+owner or operator from responsibility for compliance with other state and
+federal laws governing the safe storage and handling of oil.
+
+B. Intrastate Pipelines. This chapter applies to intrastate pipelines from
+terminals to remote locations and includes federal facilities.
+
+C. Vessels. This chapter applies to vessels licensed by the Department
+pursuant to 38 M.R.S. Section 545(4) to conduct lightering operations in
+waters of the State of Maine, and tank vessels and tank barges on departure
+from or approach to oil terminal facilities and refineries licensed by the
+Department.
+
+Where provisions of this chapter differ from other regulations, the more
+stringent regulations apply. In the case of any conflict between this chapter
+and Federal law or with a mandatory rule, regulation, or order of the Federal
+Government or its agencies where compliance with both is impossible, such
+Federal law, rule, regulation, or order governs.
+
+4. Oil Discharges
+
+A. Oil Discharge Reporting Procedure. In the event of any discharge
+prohibited by 38 M.R.S. Section 543, the person, firm or corporation
+responsible for the discharge shall immediately undertake to remove such
+discharge as required by 38 M.R.S. Section 548. Responsibility for removal
+remains with the person, firm or corporation responsible for the illegal
+discharge. In addition to the regular procedures, the following actions must
+be taken:
+
+(1) Telephone Report. An initial telephone report of any discharge must be
+made to the Commissioner as soon as practicable but within two hours. The
+report must include:
+
+(a) Time of discharge;
+
+(b) Location of discharge;
+
+(c) Type and amount of oil;
+
+(d) Name and telephone number of person making report; and
+
+(e) Other pertinent information.
+
+(2) Written Reports. Once removal of the discharge has been completed, the
+person, firm or corporation responsible for the discharge shall prepare a
+complete written report of the occurrence and submit that report to the
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+ Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                   Edition))
+Commissioner within 10 days. If circumstances make a complete report
+impossible, a partial report must be submitted. This report must include,
+but not be limited to, the following information:
+
+(a) Date, time, and place of discharge;
+
+(b) Name of parties involved;
+
+(c) Amount and type of oil discharged;
+
+(d) Complete description of circumstances causing discharge;
+
+(e) Procedures, methods and precautions instituted to prevent a similar
+occurrence from recurring;
+
+(f) Recommendations to the Commissioner for changes in rules or operating
+procedures;
+
+(g) Name and address of any person, firm or corporation that may be
+affected by the discharge; and
+
+(h) In the case of any oil discharge into the waters of the State from an
+intrastate pipeline, oil terminal facility, or vessel going to or coming from a
+facility, the person, firm or corporation responsible for the discharge shall
+submit a report, in writing, to the Commissioner, setting forth the amount of
+oil recovered.
+
+(3) Oil Discharge Containment and Clean-up. 38 M.R.S. Section 548
+requires any person discharging oil, or its by-products in a manner
+prohibited by 38 M.R.S. Section 543, to undertake immediately to remove
+the discharge to the Commissioner's satisfaction. Nothing in the rules or
+regulations adopted by the Board is intended to relieve any person from this
+responsibility. Any person who has discharged or caused to be discharged oil
+as prohibited by law shall contain such oil and remove it from the waters of
+the State as quickly and completely as possible.
+
+(4) Delegation of Supervisory Authority. The Commissioner or the
+Commissioner's authorized representative shall receive reports of oil
+discharges and shall supervise or undertake the removal of any oil discharge,
+where such actions by the Commissioner are authorized under 38 M.R.S.
+Section 548, and upon the completion of removal of any discharge the
+Commissioner or the Commissioner's authorized representative may
+indicate satisfaction with such removal.
+
+(5) Notification of the Commissioner in no way should delay the proper
+notification of other authorities such as local and federal agencies
+    06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+ Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+concerned. Protection of life and property by proper notification and action
+is mandatory and should be accomplished in the most expeditious manner
+possible.
+
+B. Vessel Cleanup. Before any vessel involved in a transfer operation may
+leave a land based oil terminal facility, all drip pans, hoses, and other
+transfer equipment must be cleaned and any oil spilled on the deck, topside
+piping or equipment, or the exterior of the hull must be removed.
+
+5. Vessel to Vessel Transfer Areas and Hussey Sound Limitation
+
+A. Hussey Sound Limitation. No tank ship or tank barge containing oil
+cargoes which is actually drawing 40 or more feet shall transit Hussey
+sound, Casco Bay (port of Portland) regardless of visibility, unless it would
+be abeam of Soldier's Ledge Buoy within one-half (½) hour of the time of
+high tide.
+
+B. Vessel to Vessel Transfer Area - Casco Bay. A tank vessel
+anchorage area is established one mile square starting at Hussey Sound
+Buoy 12, Lat. 43° 42' 10" North, Long. 70° 90' 46" West(formerly Little
+Chebeaque Island Shoal Buoy 6)thence one mile true North to Lat. 43° 43'
+10" North, Long. 70° 90' 46" West; thence one mile true West to Lat. 43° 43'
+10" North, Long. 70° 11' 90" West; thence one mile true South to Lat. 43° 42'
+10" North, Long. 70° 11' 90" West; thence one mile true East to the point of
+origin.
+
+C. Vessel to Vessel Transfer Area - Penobscot Bay. The following
+tank vessel anchorage areas are established:
+
+(1) The area designated for vessel-to-vessel transfers of bulk oil in Penobscot
+Bay area is a circle 2 nautical miles in diameter with the center at Latitude
+44° 24' 15" North and Longitude 68° 55' 25" West;
+
+(2) A second area designated for vessel-to-vessel transfers of bulk oil in
+Penobscot Bay area is a circle of one nautical mile in diameter with the
+center at Latitude 44° 25' 00" North and Longitude 68° 50' 45" West;
+
+D. Vessel Transfers While at Anchor. Vessel to vessel transfers may be
+carried on only in anchorage areas designated by the Department.
+
+This paragraph does not apply to the transfer of fuel for a vessel's own use.
+
+6. Siting Requirements
+
+A. New Land Based Oil Terminal Facilities
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+(1) Facility Set-Backs. Every new aboveground oil storage tank operating at
+pressures less than 2.5 psig must be located in accordance with National
+Fire Protection Association 30, 1996 Ed.
+
+Vertical tanks storing liquids must be separated in accordance with NFPA
+30. Tanks used only for storing Class III B liquids (Flash point at or above
+200o F) may be spaced no less than 3 feet apart unless within a diked area
+or a drainage path for a tank storing Class I or II liquid in which case the
+provisions of National Fire Protection Association 30, 1996 Ed. apply.
+
+(2) Facility Location. New oil terminal facilities must not be located within
+the following areas:
+
+(a) Within 3,000 feet of a surface water body intake used as a public
+drinking water supply;
+
+(b) Within 600 feet of an existing private drinking water supply, except a
+facility's own well;
+
+(c) Within 1,000 feet of a significant ground water aquifer; or
+
+(d) Within 1,000 feet of an essential habitat as mapped by the Department
+of Inland Fisheries and Wildlife, or refuge, park, preserve, or similar site
+when such site is state or federally designated.
+
+Undeveloped areas of property and non-oil or non-chemical handling areas
+are not included in the definition of "oil terminal facilities" for the purposes
+of this paragraph.
+
+(3) A new oil terminal facility located as set forth below is presumed to pose
+a serious threat to public health or welfare or to the environment such that a
+license for a facility cannot be issued. The presumption applies if a facility is
+located:
+
+(a) In a 100 year flood plain, unless suitably elevated to prevent flooding
+from the 100 year flood, except for piers and piping from a pier to the
+terminal;
+
+(b) Within 1,000 feet of a freshwater wetland, great pond, or river, stream or
+brook (as defined in 38 M.R.S. Section 480-B) not used as a public drinking
+water supply, except for piers and piping from a pier to the terminal;
+
+(c) Within 1,000 feet of the spring high tide line of coastal wetlands (as
+defined in 38 M.R.S. Section 480-B) with a salt or brackish water regime
+(salinity equal to or greater than 0.5 parts per 1000) that contain emergent
+vegetation tolerant of salt water occurring primarily in a salt water or
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+estuarine habitat including, but not limited to, marshes and salt meadows;
+or
+
+(d) Within 1,000 feet of an eel grass bed.
+
+(4) An applicant seeking a license to establish, construct, alter, or operate a
+facility in such a location listed in paragraph (3) above may overcome the
+presumption in paragraph (3) above by persuasive evidence that either:
+
+(a) the facility is unique in some way that allows for compliance with the
+intent of this chapter through an alternative design, operation, or siting
+proposal which provides an equivalent level of protection as the siting
+provision in this chapter would provide; or
+
+(b) the facility environment is unique in some way such that a valuable
+resource will not be negatively affected by the proposed siting.
+
+B. Existing Land Based Oil Terminal Facilities
+
+(1) Modifications to Existing Facilities. New tanks located inside the existing
+oil and chemical handling areas of existing facilities are not subject to the
+siting criteria of section 6 (A). New tanks located outside the existing oil and
+chemical handling areas are permitted provided they comply with one of the
+following:
+
+(a) are located in compliance with the siting criteria;
+
+(b) cannot meet all the siting criteria, in which case the owner or operator
+demonstrated to the Department that the new tank will be constructed in
+the location which satisfies the greatest number of siting criteria; or
+
+(c) the owner or operator can demonstrate to the Department's satisfaction
+that although contiguous land is available which meets the siting criteria,
+compliance with the siting criteria through use of this location would not be
+economically feasible or would create significant operational problems.
+
+For the purposes of Sections 6(B)(1)(b) and (c) above, land not contiguous to
+the existing oil and chemical handling area where the oil terminal owner or
+operator intends to build on land not already owned by the terminal owner
+or operator would not be included for consideration. A private or public
+right of way shall not by itself be considered as dividing a property into
+separate noncontiguous properties.
+
+(2) Abandoned Facilities. Existing facilities that have been abandoned or
+closed for more than 20 years are prohibited from reuse unless the facility
+siting complies with the rules of Section 6(A) of this chapter.
+    06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                             Edition))
+7. New Land Based Oil Terminal Facility Minimum Design And
+Construction Standards
+
+A. Prior Approval. Prior approval for construction of new facilities is
+required from the Department.
+
+B. Aboveground Oil Storage Tanks
+
+(1) Design and Construction Standards. Aboveground oil storage tanks must
+be constructed of steel and meet or exceed one of the following design and
+manufacturing standards:
+
+(a) UL, Standard for Steel Aboveground Tanks for Flammable and
+Combustible Liquids, No. 142, 1993 Ed. (UL No. 142);
+
+(b) API, Standard No. 650, Welded Steel Tanks for Oil Storage, 10th Ed.
+(October 1998);
+
+(c) API, Standard No. 620, Recommended Rules for Design and
+Construction of Large, Welded, Low-Pressure Storage Tanks, 9th Ed.
+(February 1996).
+
+(2) Prohibited Tanks. Bolted or riveted construction is not acceptable for
+new or reconstructed tanks.
+
+(3) Leak Detection. Facilities must include a system of visual leak
+monitoring for tanks greater than 660 gallons between the tank bottom and
+the impermeable containment as detailed in API Standard 650, Welded
+Steel Tanks for oil storage, 10th Ed. (October 1998).
+
+(4) Corrosion Protection. All tanks must have a cathodic protection system
+for the portion of the tank in contact with the soil or backfill, in accordance
+with API Recommended Practice 651, 2nd Ed. (December 1997), API
+Standard 650, Welded Steel Tanks for Oil Storage, 10th Ed., (October,
+1998) and API Standard 653, Tank Inspection, Repair, Alteration, and
+Reconstruction, 2nd Ed. (December 1995) or NACE Standard RP0169-1996
+unless a cathodic protection assessment indicates that the corrosion rate will
+not reduce the floor thickness below the minimum allowed in API 653
+before the next required internal inspection date.
+
+(5) Painting. Tanks must be painted in accordance with nationally
+recognized industry standards, such as the Steel Structures Painting Council
+publication Steel Structures Painting, Manual, Volume 1 Good Painting
+Practice 3rd Ed. (1993). Insulated tanks are exempt from this requirement.
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+ Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                Edition))
+(6) Tanks on Earthen Base Pads. All tanks on a prepared earthen pad must
+include the following:
+
+(a) Construction of the base pad leak detection system must meet the
+standards of API Standard 650 Welded Steel Tanks for oil storage 10th Ed.
+(October 1, 1998).
+
+(b) A release prevention barrier;
+
+(c) The support base must be constructed of compacted, clean, free-draining
+granular material such as sand, gravel, or crushed stone. The use of cinders
+and organic material are prohibited.
+
+(d) The support base must be constructed so as to provide for positive
+drainage of water away from the base;
+
+(e) The support base must be constructed so as to leave at least 12 inches
+above the general grade (dike floor) after ultimate settlement; and
+
+(f) The surface of the support base must be protected against erosion by
+good engineering practices.
+
+(7) Tank Spacing. New or relocated or reconstructed tanks must be
+separated in accordance with National Fire Protection Association 30 1996
+Ed. Tanks used only for storing Class III B liquids (Flash point 200F and
+above) may be spaced no less than 3 feet apart unless within a diked area or
+a drainage path for a tank storing Class I or II liquid in which case the
+provisions of NFPA 30 1996 Ed. apply.
+
+(8) Highway Curve Locations. Tanks located near a highway curve must be
+protected from vehicular collisions.
+
+C. Piping, Valves and Pumps
+
+(1) Fabrication Code. New and replacement piping must be designed,
+fabricated, tested and maintained in accordance with codes of practice
+developed by nationally recognized associations such as API, ASME, ANSI,
+NFPA, PEI or STI. Installation of piping must meet or exceed current codes
+of practice and be in strict accordance with manufacturer specifications.
+Piping must be tested for tightness and all deficiencies remedied before the
+piping is placed in service. References to be followed include: ANSI, Power
+piping, B31.1, 1998; ANSI, Process Piping, B31.3, 1996; ANSI, Liquid
+Transportation Systems for Hydrocarbons, Liquid Petroleum Gas,
+Anhydrous Ammonia, and Alcohols, B31.4, 1992; API Recommended
+Practice 1615, Installation of Underground Petroleum Storage Systems, 5th
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                               Edition))
+Ed., (March 1996); NFPA, Flammable and Combustible Liquids, Code 30,
+1996; PEI, Recommended Practices for Installation of Underground Liquid
+Storage Systems, RP 100-97, 1997.
+
+(2) Identification. All above ground piping and oil fill ports (into tanks and
+trucks) at multi product oil terminal facilities must be color coded as
+specified in API Pub. 1637, Cloro-symbol System to Mark Equipment and
+Vehicles for Product-Identification at Service stations and Distribution
+Terminals, 2nd ed. (September 1995).
+
+(3) Aboveground Piping. Aboveground piping must be adequately supported
+and be protected from physical damage caused by freezing, frost heaving
+and vehicular traffic . Aboveground piping must be painted or coated
+according to nationally recognized industry standards to prevent corrosion.
+
+(4) Underground Piping. Underground piping must be avoided whenever
+possible. Piping installed after the effective date of this chapter and in
+contact with the soil or an electrolyte must be adequately protected from
+corrosion in accordance with codes of practices developed by nationally
+recognized associations such as NACE or API. Underground lines must have
+secondary containment with interstitial space monitoring, except that runs
+in excess of 100 feet that cannot be run aboveground for operational, safety
+and security reasons may be cathodically protected single walled pipe.
+References to be followed include: ANSI, Chemical Plant and Petroleum
+Refinery Piping, B31.1, 1998; ANSI, Power Plant Piping, B31.3, 1996; ANSI,
+Liquid Transportation Systems for Hydrocarbons, Liquid Petroleum Gas,
+Anhydrous Ammonia and Alcohols, B31.4 1992; API, Recommended
+Practice 1615, Installation of Underground Petroleum Storage Systems ,
+5th Ed, (March 1996), including Addendum 1(December 1994) Addendum 2
+(December 1995) and Addendum 3 (December 1996), NFPA, Flammable
+and Combustible Liquids, Code 30, 1996; PEI, Recommended Practices for
+Installation of Underground Liquid Storage Systems, RP 100-97, 1997;
+API, Cathodic Protection of Aboveground Petroleum Storage Tanks,
+ANSI/API Standard 651-1997 2nd Ed, 1997; NACE, Control of External
+Corrosion on Underground or Submerged Metallic Piping System, RP-
+0169, 1996; NACE, Corrosion Control of Underground Storage Tank
+Systems by Cathodic Protection, Standard RP-0285, 1995; STI,
+Recommended Practice for Corrosion Protection of Underground Piping
+Networks Associated with Liquid Storage and Dispensing System, R892-
+91, 1991.
+
+(5) Tank Valves. Each connection to an aboveground oil storage tank
+through which liquid can normally flow must be provided with a carbon
+steel valve located as close as practical to the shell of the tank. The tank shell
+      06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+ Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                   Edition))
+valve must be kept in the closed position when not in use, except at a staffed
+facility equipped with a functional continuous tank level monitoring system.
+At unstaffed facilities, a normally closed automatic valve must be installed
+immediately downstream of the shell valve on tanks serving a loading rack.
+Asphalt is exempt from Section 7 C(5).
+
+(6) Pump Leaks. Pumps must be equipped with secondary containment to
+catch leaks from bearings, packings and seals.
+
+D. Tank - Secondary Containment
+
+(1) Capacity of Spill Containment Dikes. All oil terminal facilities must have
+diked areas designed, constructed and maintained to prevent oil from
+entering the waters of the State or adjacent property.
+
+Aboveground tanks must be surrounded by a containment dike with a
+minimum height of 24 inches, and constructed as follows:
+
+(a) Where a diked area contains one storage tank, the diked area must retain
+not less than 110% of the capacity of the tank;
+
+(b) Where a diked area contains more than one storage tank, the diked area
+must retain not less than 110% of the capacity of the largest tank, deducting
+the volume of the other tanks in the diked area below the top surface of the
+dike; and
+
+(c) Containment capacity for all facilities must be verified when
+modifications to the diked areas, or the capacity of the storage tank are
+made. If no modifications are made, the containment capacity shall be
+verified every 10 years. Dike walls that have eroded or degraded over time
+must be regraded or repaired.
+
+(2) Dike Configuration. The National Fire Protection Association,
+Flammable and Combustible Liquids, Code 30, 1996 governs dike
+configuration for new facilities.
+
+(3) Dike Impermeability. New facilities must have secondary containment
+with the base and walls designed for a permeability rate to water of 1 x 10-7
+cm/sec, except where asphalt is the only oil stored in the dike area.
+
+(4) Liner Design Specifications. The applicant must submit to the
+Department for review and approval complete design plans and
+specifications for the liner and associated containment structures. The
+documents must be signed and sealed by a Maine Registered Professional
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                 Edition))
+Engineer. The plans and specifications must include, but are not limited to,
+the following:
+
+(a) Liner subgrade and cover materials, placement and compaction;
+
+(b) Liner materials, storage, handling, placement, anchoring, penetrations,
+attachment to structures, and seaming;
+
+(c) The methods of field and laboratory destructive testing as required in
+paragraph (5) below;
+
+(d) Methods of nondestructive testing of 100% of welded, extruded, or
+solvent seams; and
+
+(e) A list and description of the manufacturer's oil certifications, installation
+certifications, and warranties.
+
+(5) Liner Testing. Liner testing must meet the following requirements:
+
+(a) Welded, extruded, or solvent seams for synthetic geomembranes. At a
+minimum, seam testing must be carried out twice daily at the beginning and
+end of days when seaming takes place, or whenever seaming personnel
+change, or when environmental conditions significantly change as
+determined by the liner specifications;
+
+(b) Moisture content, hydraulic conductivity, and mass per unit area for
+every 50,000 square feet or per lot of geocomposite liner delivered;
+
+(c) Construction methods and moisture-density zone of acceptance for soil
+liners to be performed according to a statistically valid method approved by
+the Department and based on the size of the liner; and
+
+(d) All welded, extruded and solvent seams must be tested by an approved
+non-destructive method.
+
+Testing methods must conform to nationally recognized standards. If no
+standards exist, alternative methods must be approved by the Department.
+
+Note: The American Society of Testing and Materials (ASTM), the
+Geosynthetic Research Institute (GRI), and the National Sanitation
+Foundation (NSF) are considered nationally recognized standards.
+
+(6) Liner Quality Assurance (QA) Plan. The applicant must submit to the
+Department for review and approval a liner QA plan which must include, but
+is not limited to, the following:
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+(a) A description of how the liner QA plan interfaces with the overall liner
+and containment structure design plans and specifications;
+
+(b) Qualifications of the construction inspector. The inspector must be fully
+knowledgeable of the QA plan, independent of the liner manufacturer and
+fabricator, and empowered by contract to enforce all provisions in the liner
+QA plan and liner design plans and specifications;
+
+(c) Qualifications of liner fabricator, lead seamer, quality control officer, and
+site supervisor personnel;
+
+(d) Qualifications of the independent testing laboratory;
+
+(e) The environmental conditions at which seaming or placement of the liner
+must be stopped or seaming techniques substantially modified;
+
+(f) Seam inspection, rejection, or repair procedures for faulty seams or
+evidence of a faulty seam, or placement of liner determined through
+destructive testing, nondestructive testing, or inspection; and
+
+(g) Record keeping and reporting requirements for QA activities.
+
+(7) Compatibility of Geomembrane Liner. Geomembrane liners used for
+secondary containment must meet a short term compatibility testing (7-28
+days) before any new oil is put in the tank.
+
+(8) Liner Installation Standards. All new geomembrane liners shall be
+installed in accordance with the manufacturers' recommendations. A
+minimum of 6 inches of fine gravel or sand shall be placed over the liner to
+protect the liner from damage.
+
+(9) Valve Access. Tank shut-off valves must be accessible during a 24-hour,
+25-year rainfall event and under all operating conditions.
+
+(10) Detailed Design. The detailed design of new spill containment dikes
+must be certified by a professional engineer.
+
+(11) Dike Stairways. Permanent fixed stairways must be provided for access
+to diked areas to prevent degradation of the dike walls.
+
+E. Facility Drainage Systems
+
+(1) Design. The water collection, drainage, discharge, and oil/water
+separator system must be designed by a professional engineer and provide
+for operational stress likely to be encountered in Maine, such as frost action,
+and a 24-hour, 25-year rainfall. All buried or partially buried oil/water
+    06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                 Edition))
+separators must be of a design and construction (approved by the
+Department) that will prevent galvanic corrosion.
+
+(2) Oil/Water Separators. In addition oil/water separators must be
+designed, licensed, operated, and maintained according to 38 M.R.S. Section
+413 (Waste Discharge Licenses) if the effluent is discharged directly into the
+waters of the State. If the effluent will be discharged to a publicly owned
+treatment works (POTW), the oil/water separator must also be designed,
+licensed, operated, and maintained according to the local requirements of
+the POTW (in order to meet their state and local license requirements).
+
+(3) Drain Valves. Drain valves must be easily accessible for closing in an
+emergency under all conditions of operations. Flapper valves are not
+acceptable.
+
+(4) Dike Drainage.
+
+(a) Control of drain water from inside a diked area must be from a valve
+outside the dike area, locked in the closed position except at times of
+drainage operations under supervision by personnel trained in the proper
+operations of drains and separators. Drainage control valves may be located
+inside the dike area at existing facilities where No. 6 oil or asphalt is the only
+oil being stored in the dike area, provided that these drainage valves are
+locked in the closed position except during drainage operations under
+supervision by trained personnel and the dike valves are exercised monthly.
+
+(b) All drainage through the oil/water treatment system from a containment
+dike must be locked out from discharge except at times of supervised
+drainage. All drainage must flow through an oil/water separator.
+
+(5) Oil Storage and Handling Area. Facilities must be graded to collect
+surface run-off and discharge it through an oil/water separator to a location
+approved by the Department. Such separators must be designed, installed
+and maintained to handle a 24-hour, 25-year rain fall.
+
+F. Tank Truck and Tank Car Loading and Unloading
+
+(1) Shut-Off Valves. Steel shut-off valves must be provided at the end of all
+loading and unloading points and be maintained in a locked position except
+during properly supervised operations. Such valves must be accessible under
+all conditions of operations.
+
+(2) Hose Spill Preventers. All vehicle loading points must be equipped with
+spill preventers designed to drain the transfer hose at the end of the transfer
+procedure.
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+(a) The spill preventer must be of sufficient size to contain the contents of
+the hose.
+
+(b) A dry break system approved by the Department may be used in lieu of
+the spill preventers.
+
+(3) Automated Equipment. The design of the piping, valves, pumps and
+hoses which convey oil from the above ground storage tanks to the tank
+truck and/or the railcar loading rock must be "fail-safe" engineered so as to
+prevent the spill of oil.
+
+(4) End Capping. Top loading arms at truck and rail loading racks must be
+equipped with a containment device capable of preventing a discharge of oil
+when not in use or in standby service. Piping used for unloading tank cars or
+trucks must be securely capped or blank flanged when not in use.
+
+(5) Spill Containment. Tank truck and rail car loading, and unloading areas,
+except for facilities handling only asphalt, must be provided with impervious
+secondary containment, that is designed, constructed, and maintained to
+contain spills in amounts up to the volume of largest compartment of any
+truck or car vehicle loaded or unloaded at the facility. The secondary
+containment systems in loading and unloading areas must be designed and
+constructed to prevent collection of stormwater runoff and must be
+connected to either a slop tank for removal and disposal or to an oil/water
+separator.
+
+G. Fire Prevention. All facilities must be designed, built, operated, and
+maintained in accordance with the National Fire Protection Association,
+Flammable and Combustible Liquids, Code 30, 1996. A terminal facility
+unable to meet these requirements must file an alternate fire protection plan
+for approval by the Department.
+
+H. Physical Security
+
+(1) Fencing. All facilities must have a security fence surrounding the facility.
+New fencing must be at least 6 feet high. Gates must be provided, that are
+locked except when the facility is in supervised operation or guarded. The
+Department may approve alternative security measures upon deciding that
+the alternative fencing or security guarding meets the intent of this chapter.
+
+(2) Lighting. A minimum illumination standard of 50 lux is required for
+transfer areas, pump areas, and entryways that would likely be the source of
+leaks by accident or by acts of vandalism, adequate lighting must be
+provided in accordance with the Illumination Engineering Society of North
+America Lighting Handbook, 8th Ed., 1993.
+    06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                             Edition))
+I. Dock Facility
+
+(1) Transfer Piping. The connection points of the oil transfer piping to the
+storage tankage, located on the dockside, must have steel shut-off valves and
+check valves installed to prevent back-flow of oil should failure of dock hoses
+or other equipment occur.
+
+(2) Spill Containment. All oil transfer points of connection must be provided
+with a spill containment system designed, constructed, and maintained to
+contain discharges that may occur from a hose or connection point rupture.
+
+The spill containment system must have a storage capacity of at least:
+
+(a) Two barrels if it serves one or more hoses of 6-inch inside diameter or
+smaller, or loading arms of 6-inch nominal pipe size diameter or smaller;
+
+(b) Three barrels if it serves one or more hoses with an inside diameter of
+more than 6 inches, but less than 12 inches, or loading arms with a nominal
+pipe size diameter of more than 6 inches, but less than 12 inches; and
+
+(c) Four barrels if it serves one or more hoses of 12-inch inside diameter or
+larger, or loading arms of 12-inch nominal pipe size diameter or larger.
+
+(d) Spill containment must be properly positioned and adequately
+maintained and an absorber shall be available in case of overflows to
+minimize the loss of oil. At no time shall the spill containment contents be
+allowed to spill in the water or surrounding soil. Spill containment must be
+disposed of in a manner acceptable to the Commissioner.
+
+(3) Requirements for Protection Against Mechanical Damage. Concrete or
+other portions of pier or wharf structures that are exposed to impact or
+abrasion by vessels or are subject to damage by floating ice or debris must be
+protected by an open fender system constructed of wood or other material.
+Provisions must be made to reduce the impact force exerted on the pier with
+such details of construction as will reduce damage from ordinary operations
+to a reasonable minimum.
+
+J. Shop-Fabricated Aboveground Storage Tank Minimum Design
+and Construction Standards
+
+(1) Shop-Fabricated Aboveground Storage Tanks
+
+(a) Design and Construction Standards. Shop-fabricated aboveground
+storage tanks used to store flammable or combustible liquids must be
+constructed of steel and meet or exceed the design requirements of
+Flammable and Combustible Liquids, Code 30, National Fire Protection
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+ Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+Association, 1996. Shop-fabricated aboveground storage tanks used to store
+non-flammable or non-combustible hazardous substance (as defined by 38
+M.R.S. 1362(1)) must be constructed of materials compatible with the
+material to be stored and designed in accordance with good engineering
+practices. All shop-fabricated aboveground storage tanks, including any
+integral secondary containment systems, must be installed according to the
+manufacturer's recommendations.
+
+(b) Prohibited Tanks. Tanks constructed in accordance with Standard for
+Steel Inside Tanks for Oil-Burner Fuel, Underwriters Laboratories 80, can
+only be used to supply fuel to oil-burning equipment.
+
+(c) Secondary Containment. All shop-fabricated aboveground storage tanks
+must be located in diked areas meeting the requirements of Section 7 (D)(4),
+or designed with their own integral secondary containment system meeting
+the standards of one of the following: Standard for Diked Aboveground
+Storage Tanks, Steel Tank Institute F911-93; Standard for Aboveground
+Tanks with Integral Secondary Containment, Steel Tank Institute F921-98;
+or Insulated Aboveground Tanks for Flammable and Combustible Liquids,
+Underwriters Laboratories, Standard 2085, 1st ed., 1994.
+
+(d) Leak Detection. Shop-fabricated aboveground storage tanks must be
+designed so that the space between the bottom of the tank and the secondary
+containment can be either visually or electronically monitored.
+
+(e) Corrosion Control. All shop-fabricated aboveground storage tanks must
+have a cathodic protection system for the portion of the tank in contact with
+the soils or backfill in accordance with API Recommended Practice 651
+Cathodic Protection of Aboveground Petroleum Storage Tanks, 2nd Ed.
+December, 1997. Recommended Practices for Installation of Aboveground
+Storage Systems for Motor Vehicle Fueling, Petroleum Equipment Institute
+Publication RP200-96; Recommended Practices for External Corrosion
+Protection of Shop Fabricated Aboveground Tank Floors, Steel Tank
+Institute STI-R893-89; or Control of External Corrosion on Underground
+or Submerged Metallic Piping System, National Association of Corrosion
+Engineers, RP-0169, 1996.
+
+(f) Overfill Prevention
+
+(i) All shop-fabricated aboveground storage tanks used to store a flammable
+or combustible liquid with a capacity of over 20,000 gallons or with an
+integral secondary containment system must have:
+
+a. A device which sounds an audible alarm when the tank reaches 90% of
+capacity; and
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+b. A person in charge from the terminal receiving the delivery monitoring
+the transfer along with the truck driver.
+
+(ii) All shop-fabricated aboveground storage tanks of 20,000 gallons or less
+used to store a flammable liquid must have one of the following:
+
+a. A device which sounds an audible alarm when the tank reaches 90% of
+capacity; or
+
+b. A device which automatically stops the flow of the liquid into the tank
+when the liquid level of the tank reaches 95% of capacity; or
+
+c. A person in charge from the terminal receiving the delivery monitoring
+the transfer along with the truck driver.
+
+(g) Painting. Tanks must be painted in accordance with the Steel Structures
+Painting Council publication Steel Structures Painting, Manual, Volume 1
+Good Painting Practice (1993). Insulated tanks are exempt from this
+requirement.
+
+(2) Piping, Valves and Pumps
+
+(a) Fabrication Code. All aboveground piping systems must be designed,
+constructed, installed and maintained in accordance with Section 7(C)(1)
+
+(b) Pump and Valve Leaks. Pumps and valves must be equipped with
+secondary containment to catch leaks from bearings, packing and seals.
+
+(c) Tank Valves. All shop-fabricated storage tanks connected to the loading
+rack shall be equipped with a device such as a normally closed solenoid valve
+that will prevent gravity flow from the tank in the event of a piping breach,
+unless tank inventory is reconciled daily. Valves on shop-fabricated storage
+tanks not connected to the loading rack and not in frequent use must be
+maintained in the closed position.
+
+(d) Underground Piping. Underground piping must be avoided whenever
+possible. All underground piping must be designed, constructed, installed
+and maintained in accordance with DEP Chapter 691 or 695.
+
+8. Existing Land Based Oil Terminal Facility Minimum Design
+And Construction Standards
+
+A. Notification of Work The Department must be notified of substantial
+modifications, rehabilitation, and new construction including, but not
+limited to, the installation of new tanks, the construction of new secondary
+containment, new dikes, and new dike floor liners prior to implementation.
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                   Edition))
+Certification of the designs is required by a State of Maine registered
+professional engineer or an engineer otherwise working in compliance with
+Maine's professional regulation statutes.
+
+B. Aboveground Oil Storage Tanks
+
+(1) New Tankage. New aboveground oil storage tanks added to existing
+terminals must meet the rules and construction standards of Section 7(B) of
+this chapter. The new tankage may vary from the spacing requirements if an
+alternate fire plan is approved by the local fire department and the State Fire
+Marshall.
+
+(2) Prohibit Reuse of Tanks. Existing tanks that have been permanently
+closed may be reused only if the following conditions are met:
+
+(a) The existing tank must have an ASME code stamp, API nameplate, or UL
+label; and
+
+(b) The Department shall be provided with satisfactory documentation that
+the tank has been inspected by a qualified professional engineer and found
+to meet the specifications of API Standard 650, 10th Ed. 1998.
+
+(3) Corrosion Protection. All existing tanks must have a cathodic protection
+system for the portion of the tank in contact with the soil or backfill, in
+accordance with API Recommended Practice 651, 2nd Ed. (December 1997),
+API Standard 650, Welded Steel Tanks for Oil Storage, 10th Ed. (October
+1998) and API Standard 653, Tank Inspections, Repair, Alteration, and
+reconstruction, 2nd Ed. (December 1995) or NACE Standard RP0169-1996,
+unless a cathodic protection assessment indicates that the corrosion rate will
+not reduce the floor thickness below the minimum allowed in API 653
+before the next required internal inspection date. The cathodic protection
+system must be installed by November 7, 2004 or when a release prevention
+barrier is installed, whichever is sooner.
+
+(4) Painting. The exterior tank shell on existing tanks must be painted and
+maintained in good condition to prevent excessive rusting and or corrosion
+to the exterior of the tank. Tank painting occurring after November 7, 2000
+must be in accordance with nationally recognized industry standards, such
+as the Steel Structures Painting Council publication Steel structures
+Painting Manual, volume 1 Good Paining Practice 3rd Ed. (1993). Insulated
+tanks are exempt from this requirement.
+
+(5) Upgrade and Repair of Tanks. If an aboveground oil storage tank
+inspection reveals a discharge, excessive corrosion, excessive tank
+settlement, or any other deficiency which could result in a discharge, the
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                Edition))
+tank must be repaired to standards equal to or better than the standards of
+original construction.
+
+(a) Unacceptable levels of corrosion and tank settlement are as defined in
+API Recommended Practice 651. 2nd Ed. (December 1997), API Standard
+650, Welded Steel Tanks for Oil Storage, 10th Ed, (October 1998) and API
+Standard 653, Tank Inspection, Repair, Alteration, and Reconstruction,
+2nd Ed. (December 1995).
+
+(b) All riveted and bolted tanks must have seams, including rivets and bolts
+on the bottoms and first course of shell plates sealed. Heated oil tanks
+storing #6 oil or asphalt are exempt from this requirement.
+
+(i) An oil terminal owner or operator must notify the Department within 3
+days of discovery of a weep. A weep is identified as a film or staining that
+travels down the tank one complete ring from the rivets, bolts, or seams of a
+riveted or bolted above ground oil storage tank. The notification must
+identify the tank and the location of the weep as it appears on the tank.
+Within 14 days of discovery of the weep the oil terminal facility owner or
+operator must either drain the tank below the level of the weep or propose
+an alternate method acceptable to the Department for controlling the weep
+prior to the weep being properly repaired.
+
+(ii) A weep which comes in contact with the ground surface must be reported
+to the Department within two hours of its discovery. The oil terminal owner
+or operator must drain the tank below the level of the weep within 14 days of
+discovery. The tank can not be filled above the level of the weep until the
+Department has received a report from the terminal owner or operator
+demonstrating that the weep has been properly repaired.
+
+(c) Tank liners will not be an acceptable form of tank bottom repair after
+November 7, 1999 unless provision is made for leak detection between the
+liner and the repaired steel bottom.
+
+(6) Release Prevention for Tank Bottoms. Release Prevention Barriers (RPB)
+with leak detection must be provided for all field constructed tank bottoms
+within 20 years of the effective date of this chapter. Fifty percent (50%) of
+the field constructed tanks at a facility must meet this standard by
+November 7, 2009 seventy five (75%), by November 7, 2014 and all tanks by
+November 7, 2019. Existing asphalt and No. 6 fuel oil tanks are exempt from
+the requirement for RPB.
+
+(a) An RPB may include steel double bottom, synthetic liner, geocomposite
+liner, clay liner or existing soils under the tank provided they meet the
+standard in 8(B)(6)(b) or such system as the Commissioner shall determine
+    06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                Edition))
+provides the same protection from oil migration due to leakage and
+equivalent leak detection.
+
+(b) Engineered clay or existing soil liners under a tank may serve as RPB if
+the engineered clay is at least 12 inches thick or the existing soil layer at least
+24 inches thick and meets the following water permeability standards:
+
+Gasoline et al 1 x 10-6 cm/sec
+
+Mid Distillates 1 x 10-5 cm/sec
+
+Crude Oil 1 x 10-5 cm/sec
+
+#4, #5 Fuel Oils 1 x 10-4 cm/sec
+
+Permeability of clay or existing soil RPB's must be determined by a
+professional engineer or certified geologist using a method capable of testing
+both horizontal and vertical permeabilities. A soil survey plan, test method,
+testing location and test protocol must be submitted to the Department for
+approval.
+
+(c) All tanks except existing asphalt and No.6 fuel oil must be fitted with leak
+detection upon installation of an RPB. Acceptable methods of leak detection
+are shown in API Standard 650, Welded Steel Tanks for Oil Storage 10th
+Ed. (October 1998). Tanks using existing soil liners under a tank must have
+leak detection comprised of permeable sand or gravel of adequate thickness
+with collection pipes so that a leak can be detected before passing through
+the existing soil liner, or such system as the Department may find
+acceptable. The Department will consider criteria such as speed of detection,
+reliability of both the system, leak detection method and service life in
+approving an alternate method.
+
+C. Piping, Valves and Pumps
+
+(1) All new piping runs added to, or replacing, existing runs at an existing
+facility must be constructed in accordance with the requirements of Section
+7(C)(1) and 7(C)(4) of this chapter. For purposes of this section, "replacing"
+means 25 or more feet of the piping run.
+
+(2) Underground Piping. All existing underground piping must be surveyed
+and shown on a site plan. The plan shall clearly show the location, material,
+size and estimated burial depth of all underground piping.
+
+(3) Identification. All aboveground piping at multiple oil facilities must be
+marked with an oil product identification. All fill ports (into tanks or trucks)
+must be color coded as specified in API Recommended Practice 1637, Color-
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                 Edition))
+Symbol System to Mark Equipment and Vehicles for Product Identification
+at Service Stations and Distribution Terminals, 2nd Ed. (September 1995).
+
+(4) Pipe Supports. Aboveground piping must be adequately supported and
+protected from physical damage caused by freezing, frost heaving and
+vehicular traffic. Aboveground piping must be painted or coated according
+to nationally recognized industry standards to prevent corrosion.
+
+(5) Pressure Relief Pressure relief valves or an alternate pressure venting
+procedure must be provided on piping that may be blocked in and filled with
+oil.
+
+(6) Corrosion Protection. Aboveground piping must be painted or coated to
+prevent corrosion. Underground piping must be cathodically protected in
+accordance with NACE Standard RP0169-1996.
+
+(7) Tank Valves. Each connection to an aboveground oil storage tank
+through which liquid can normally flow must be provided with a carbon
+steel valve located as close as practical to the shell of the tank. The tank shell
+valve must be kept in the closed position when not in use, except at a staffed
+facility equipped with a functional continuous tank level monitoring system.
+In addition, a normally closed automatic valve must be installed
+immediately downstream of the shell valve on tanks serving a loading rack
+at unstaffed facilities. Asphalt is exempt from Section 8(C)(7).
+
+(8) Impact Protection. Piping must have protective guards where vehicular
+impact or other physical impact is possible.
+
+(9) Pump Leaks. Pumps must be equipped with secondary containment to
+catch leaks from bearings, packings and seals.
+
+D. Tank Secondary Containment
+
+(1) All new, reconstructed, or relocated tankage installed in a new diked area
+at an existing facility must meet the requirements of Section 7(D) of this
+chapter.
+
+(2) A new tank in an existing diked area must have secondary containment
+with leak detection for the tank bottom. This can be accomplished through
+use of a double bottom tank or by providing a new tank base pad that meets
+the permeability standards of Section 7(D)(3) of this chapter. The remainder
+of the diked area must meet the requirements of paragraph (5) of this
+subsection.
+      06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+(3) Capacity of Spill Containment Dikes. All existing oil terminal facilities
+must meet the requirements of Section 7(D)(1) of this chapter. Existing
+facilities where complete diking is prohibited due to space may use an
+alternative partial remote impounding system. This system shall not allow
+overland flow of released tank contents on the ground surface and must
+meet the standards of NFPA, Flammable and Combustible Liquids Code 30,
+1996
+
+(4) Dike Configuration. The standards of the NFPA, Flammable and
+Combustible Liquids, Code 30, 1996, govern dike configuration for existing
+facilities as far as practical.
+
+(5) Dike Impermeability. The base and walls of a diked area surrounding an
+aboveground storage tank must be designed, constructed and maintained in
+a condition that prevents any release of oil within the diked area from
+reaching a surface water body within 72 hours.
+
+(a) A site assessment is required under the following conditions:
+
+(i) Any previous release within the diked area has reached surface water
+within 72 hours; or
+
+(ii) When the documented type and morphology of the soil through which
+the release must flow and the distance from the diked area to the nearest
+down gradient surface water body is less than indicated in the table below:
+
+Soil Type Permeability in centimeters per second Distance (feet)
+
+Clay, silt, silt and clay <5 x 10-4 N/A
+
+Silty sand <4 x 10-3 13
+
+Clean find sand <1 x 10-2 28
+
+Clean medium sand <5 x 10-2 45
+
+Clean course sand <2 x 10-1 72
+
+Sand and gravel <3 x 10-1 101
+
+Clean medium gravel <1.4 246
+
+Shale <5 x 10-6 6
+
+Sandstone <2 x 10-3 11
+    06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+Fractured rock Site-specific evaluation required. Site Assessment Required.
+
+(b) If the site assessment indicates that a release of the specific oil within the
+diked area will not be prevented from reaching surface water within 72
+hours, the diked area must be improved to meet this requirement.
+
+(c) Spill containment dikes at existing facilities must be upgraded if
+necessary by November 7, 2009;
+
+(d) The detailed design of new or modified secondary containment dikes
+must be certified by a professional engineer.
+
+(6) Valve Access. Tank shut-off valves must be accessible under a 24-hour,
+25-year rainfall and under all operating conditions.
+
+(7) Dike Stairways. Permanent fixed stairways must be provided for access
+to diked areas to prevent degradation of dike walls.
+
+E. Leak Monitoring and Detection.
+
+(1) The Department may require monitoring wells and leak detection devices
+at existing facilities known or reasonably suspected as a source of
+contamination.
+
+(2) Existing monitoring wells must be checked for free phase products
+annually or as directed by the Department as a licensing requirement of oil
+terminal facilities.
+
+(3) Monitoring wells must be designed and constructed as described in
+Appendix A. New monitoring wells must be located to avoid penetrations in
+any diked area liner.
+
+F. Existing Tank Truck and Tank Car Loading and Unloading Spill
+Containment
+
+(1) Tank truck loading and unloading areas except for facilities handling
+only asphalt, must be provided with impervious secondary containment,
+that is designed, constructed and maintained to contain spills in amounts up
+to the volume of the largest compartment of any truck loaded or unloaded at
+the facility. The secondary containment systems in loading and unloading
+areas must be designed and constructed to prevent the collection of storm
+water runoff and must be connected to either a slop tank for removal and
+disposal or to an oil water separator.
+
+(2) Rail car loading and unloading areas, except for facilities handling only
+asphalt and #6 oil must be equipped with a device that automatically stops
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+ Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                   Edition))
+the flow of the liquid into the tank when the liquid level of the tank car
+reaches 95% of capacity by January 31, 2002 and; be provided with
+impervious secondary containment designed, constructed and maintained to
+prevent a discharge from coming in contact with soils and ballast associated
+with the rail line by January 31, 2006. The secondary containment must be
+designed to prevent the collection of storm water runoff and must be
+connected to either a slop tank for removal and disposal or an oil water
+separator. Storm water drainage from facilities handling only #6 oil and
+asphalt must be connected to a slop tank or an oil water separator for
+removal and disposal.
+
+G. Reopening a Closed Facility. A facility that has been closed must
+meet the standards for existing facilities if reopening within 20 years of the
+closure date. Any facility reopening after a closure of more than 20 years
+must meet the standards for a new facility, including the siting standards in
+Section 6 of this chapter.
+
+H. Other Requirements. All existing oil terminal facilities must meet the
+requirements of Sections 7 (E), 7(F) (1)-(4), 7(G), 7(H) and 7(I) of this
+chapter.
+
+I. Shop-Fabricated Tanks
+
+(1) New shop-fabricated tanks must meet the requirements of Section 7 (J).
+New tanks may vary from the spacing requirements if an alternate fire plan
+is approved by the local fire department and the State Fire Marshal.
+
+9. Standard Operating Procedures
+
+A. Transfers Between Land Based Oil Terminal Facilities and
+Vessels
+
+(1) Personnel. For transfers at an oil terminal facility, the facility must
+provide the transporter with a written transfer procedure. This procedure
+must be acknowledged in writing by the transporter.
+
+(2) Inspections. Inspections are required at the beginning of each transfer
+and as needed to verify the tightness of the loading and off loading lines,
+valves and other attached apparatus. Inspection logs must be kept at the
+facility for at least 3 years.
+
+(3) Tank Capacity. Persons transferring oil shall assure that the high level
+alarms on the receiving tank are set at such a level that if an alarm should
+occur during the oil transfer there would be sufficient time to shut down the
+oil transfer operation prior to over filling the tank. This must be verified to
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                 Edition))
+the Department's satisfaction by a signed agreement with the local fire
+department or by demonstrating that there is sufficient shut down time to
+the Department.
+
+(4) Fire Main Shore Connection. There must be immediately available
+during any transfer operation at least one international fire main shore
+connection.
+
+(5) Bonding Cable. Pipelines on wharves must be adequately bonded and
+grounded if Class I or Class II liquids are handled. If excessive stray
+electrical currents are encountered, insulating joints must be installed.
+Bonding and grounding connections on all piping must be located on the
+wharf side of the hose riser insulating flanges. The bonding cable must
+incorporate a meter or other suitable positive means of determining a
+ground. Typical methods for protection against stray current hazards at
+wharves are illustrated in API Recommendation Practice, Protection
+Against Ignitions Arising Out of Static, Lighting, and Stray Currents, 6th
+Ed. (September 1998). Any bonding cable employed between the wharf
+piping and the vessel must employ an explosion-proof switch as a method of
+completing the connection.
+
+(6) Safe Transfer Operations. Oil transfer operations are not permitted when
+any of the following conditions arise:
+
+(a) If any weather-related condition develops that, in the opinion of the dock
+watchman, terminal supervisor or watch officer, is too severe for operations
+to be safely continued;
+
+(b) If a fire occurs on the dock, tank vessel, adjacent tank vessel, or in the
+nearby vicinity;
+
+(c) If a tank vessel should break loose or if another vessel should come
+alongside which is not under control or is emitting sparks from its stack or is
+apt to collide or otherwise present a hazard to the tank vessel in berth at the
+terminal;
+
+(d) If an oil spill occurs aboard the tank vessel, an adjacent vessel, or on the
+dock or if a leak develops in joints of hoses or piping which cannot be
+stopped by tightening;
+
+(e) If in the opinion of the terminal supervisor, dock watchman, or watch
+officer a vapor condition develops aboard or around the tank vessel or dock
+which would be too serious to continue operations;
+      06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+      Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                 Edition))
+(f) If any other emergency occurs which, in the opinion of the watch officer,
+terminal supervisor, or dock watchman, constitutes a potential hazard to the
+tank vessel or facilities; or
+
+(g) If at anytime the high level alarm system within the terminal activates to
+warn of a possible or pending overflow.
+
+(7) Illumination. No person may transfer or cause to be transferred or
+consent to the transfer of any bulk oil after dark unless the point of transfer
+is illuminated to a minimum standard of 50 lux.
+
+(8) Open Hatch Transfer. Transfer of oil by means of a hose through an open
+hatch is prohibited. An exception may be made only when an emergency
+arises and this is the only means of moving flammable oil from one vessel
+compartment to another or of unloading oil from the vessel for purposes of
+reducing or preventing pollution, or for preventing foundering and then only
+when all possible precautions to prevent discharge to the waters of the State
+have been taken. The Commissioner or the Commissioner's designee and the
+local fire department must be notified.
+
+(9) Sample Collection. No terminal operator shall transfer or cause to be
+transferred or consent to the transfer of any bulk oil until a sample of the oil
+to be transferred has been collected, identified by proper labeling, and
+stored in a place acceptable to the Department. Oil terminal facilities with
+automatic sampling capabilities are not required to presample. The sample
+must be stored for a minimum of fifteen days. The Department shall
+determine the information to be provided with each sample and may require
+chemical analysis of the sample. Sampling must be done in accordance with
+Appendix B.
+
+(10) Anticipated Transfer. The Department shall be notified at least 12 hours
+in advance of any transfer of bulk oil by the terminal operator. The
+notification must include the following information:
+
+(a) Terminal name and location or anchorage if offshore transfer;
+
+(b) Approximate amount of oil to be transferred;
+
+(c) Oil type;
+
+(d) Vessel name; and
+
+(e) Expected time and date of vessel arrival.
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                   Edition))
+Should unusual circumstances make it impossible to provide 12-hour notice,
+the terminal operator shall notify the Commissioner as soon as possible.
+Notification is not required for transfer of oil for a vessel's own use.
+
+(11) Declaration of Inspection. A copy of any "Declaration of Inspection"
+required by the United States Coast Guard for a tank vessel transferring oil
+at an oil terminal facility must be in the possession of the terminal operator
+or the operator's representative and must be available to the representative
+of the Commissioner who shall on demand, be given the opportunity to
+verify that the condition of the vessel is as stated in the "Declaration of
+Inspection."
+
+(12) Other Reports and Forms. The oil terminal facility operator shall also
+complete such other forms, check lists and reports as the Commissioner
+from time to time may require.
+
+(13) General Safety Provisions
+
+(a) Signs. During the time a tank vessel is in berth, a warning sign carrying
+letters not less than 2 inches high on a contrasting background must be
+displayed on dock and near the gangplank. This sign must read substantially
+as follows: WARNING-NO OPEN LIGHTS, NO SMOKING, NO
+UNAUTHORIZED VISITORS.
+
+(b) Hazardous Vapor. When in the opinion of the terminal operator or the
+Commissioner's representative a hazardous vapor condition develops on the
+dock or on any vessel, all transfer operations involving all such vessels must
+be stopped and all sources of ignition such as smoking, use of matches,
+lighters and open flame except boiler fires must be eliminated and
+prohibited.
+
+(c) Transfer of Sour Crude. An oil terminal facility must take special
+precautions for the transfer of sour crude oil to minimize the release of
+vapors during the transfer period.
+
+(d) Multiple Vessel Mooring. No tank vessel may be secured along side
+another tank vessel at a pier except while taking bunker oil fuel aboard from
+a lighter. A tow boat must stand by alongside or in the notch during the
+transfer of bunker fuel from a lighter to a tank vessel. The bunkering lighter
+must be moved away from the tank vessel immediately after it has pumped
+its load aboard the tank vessel
+
+(14) Vessel Pre-Transfer Conference. No person shall commence or consent
+to the commencement of bulk oil transfer operations at an oil terminal
+      06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                   Edition))
+facility unless the following items have been reviewed, agreed upon and
+complied with by both vessel and facility personnel:
+
+(a) A sufficient number of adequately trained oil terminal facility personnel
+shall be assigned to be constantly on duty during cargo transfer operations
+to keep the transfer operation under constant observation to insure
+immediate action in case of a malfunction;
+
+(b) Cargo sequence for loading or discharging products and the proper pipe
+for each product must have been established;
+
+(c) The handling rate at which oil will be transferred must have been
+established. (Reduced rates are required when commencing transfer,
+changing the lineup, topping off tanks or nearing completion of transfer.)
+The amount of time to be given when the vessel or terminal desires to start,
+or stop, or change the rate of flow must have been determined;
+
+(d) A positive communication and signal system must be operable during
+transfer operations;
+
+(e) The emergency procedures to be followed in order to stop and contain
+any discharge must have been established;
+
+(f) Vessel and facility personnel responsible for transfer shall be clearly
+identifiable at all times. Prior to transfer operations, terminal and vessel
+personnel responsible for transfer shall be made known to each other; and
+
+(g) An oil terminal facility must have written operation guidelines pertaining
+to dock operations for vessels coming to or along side its dock during
+abnormal weather conditions.
+
+(15) Transfer Hoses. No person shall transfer or cause to be transferred or
+consent to the transfer of any oil between an oil carrying vessel and an oil
+terminal facility unless:
+
+(a) All oil terminal facility transfer hoses must be of a type designed
+specifically for the oil transferred. Transfer hoses must be tested annually to
+1.5 times the maximum working pressure.
+
+(b) As provided for below, each oil terminal facility hose must be marked
+with:
+
+(i) The products for which the hose may be used or the words "oil service";
+
+(ii) Maximum allowable working pressure;
+      06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+      Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                               Edition))
+(iii) Date of manufacture; and
+
+(iv) Date of the latest test required.
+
+This information need not be marked on the hose if it is recorded elsewhere
+at the facility and the hose is marked to identify it with that information.
+This log book must be available for inspection by a representative of the
+Commissioner.
+
+(c) Hoses must be supported so as to avoid crushing or excessive strain.
+Flanges, joints, and hoses must be checked visually for cracks and wet spots.
+
+(d) Oil terminal facility hose handling rigs must be of a type which allow
+adjustment for vessel movement and hoses must be long enough so that they
+are not strained by a movement of the vessel.
+
+(e) Hose ends must be blanked tightly when hoses are moved into position
+to be connected and also immediately after they are disconnected and
+drained either into the vessel tanks or into suitable shore receptacles before
+they are moved away from their connections.
+
+(f) Hoses must not be permitted to chafe on the dock or vessel or be in
+contact with hot surfaces such as steam pipes or be exposed to any other
+corrosive sources.
+
+(16) Mooring Lines. Mooring lines must be tended during transfer
+operations to prevent excessive movement of the vessel.
+
+(17) Fire Main Connections. Sufficient serviceable fire hose to reach all parts
+of the vessel and dock with approved combination nozzles attached must be
+connected to the fire main on the vessel and/or on the dock respectively and
+be made ready for instant use during the time a vessel is in berth. The fire
+main must have a master valve at the head of the dock so the fire main can
+be kept dry in winter and wet in summer. The fire main on the dock must be
+at least 6 inches in diameter. The fire main must be charged at all times to
+the master valve. An oil terminal facility not meeting these requirements
+shall file with the Department for approval, an alternate fire protection plan.
+
+(18) Fire Wires. During transfer operations, fore and aft fire wires must be
+rigged on the offshore side of the vessel for use by tugs in removing vessels
+from the pier in event of fire.
+
+(19) Vessel to Shore Transfer. No person may transfer or cause to be
+transferred or consent to the transfer of any bulk oil from any tank vessel to
+a land based oil terminal facility unless:
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                   Edition))
+(a) All cargo risers not intended for use in the transfer are blanked;
+
+(b) Sea valves connected to the cargo piping and stern loading connections
+are tightly closed and sealed with a numbered seal which is logged in the log
+book of the vessel;
+
+(c) Piping and valves in the pump rooms and on deck are checked by the
+master of the vessel, senior deck officer or deck officer on duty, or licensed
+tanker man to see that they are properly set for discharging cargo. An
+additional check must be made for the same purposes each time the setting
+is changed;
+
+(d) Full rate of discharge is not attained until shore lines are proven clear;
+and
+
+(e) On completion of transfer operations, hoses or other connecting devices
+must be drained of the remaining oil. A drip pan must be in place when
+breaking a connection and the end of the hose or other connecting devices
+must be blanked off before being moved.
+
+(20) Shore to Vessel Transfer. No person may transfer or cause to be
+transferred or consent to the transfer of any bulk oil from a land based oil
+terminal facility to any tank vessel unless:
+
+(a) All sea valves connected to the cargo piping, stern discharge and ballast
+discharge valves are closed and sealed with a numbered seal which is to be
+logged in the vessel log book of the vessel and with the responsible vessel
+officer of the vessel;
+
+(b) All hose riser valves not to be used are closed and blank flanged, and all
+air valves on headers are closed;
+
+(c) Special attention is paid during the topping off process to the loading
+rate, the number of tanks open, the danger of air pockets and the inspection
+of tanks already loading. Notice of the slowdown for topping off must be
+given to shore personnel; and
+
+(d) Upon completion of loading, all tank valves and loading valves are
+closed. After draining, hoses must be disconnected and hose risers blanked.
+
+(21) Scuppers. No person may transfer or cause to be transferred or consent
+to the transfer of any bulk oil between a tank vessel and a land based oil
+terminal facility unless the scuppers of any such vessel are plugged
+watertight during the oil transfer operation, except on tank vessels using
+water for deck cooling. However, it is permissible to remove scupper plugs
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+as necessary to allow run-off of water provided a vessel crew member stands
+watch to re-close the scuppers in case of an oil discharge.
+
+(22) Tank Tops and Hatch Covers. When transferring oil, tank tops and
+hatch covers must be closed. Ullage caps or plugs must only be opened on
+tanks that are to be loaded or unloaded and all open ullage holes must be
+covered with flame screens which must be kept in place during the transfer
+except for the minimum time necessary to observe transfer progress, take
+samples or take ullage readings. If a tow boat or other vessel such as a
+bunker barge or lighter is moved along side for the purpose of serving the
+vessel and if that floating equipment is steam propelled or propelled by an
+internal combustion engine, tank tops, tank hatches and ullage plugs or caps
+must be kept open only on those tanks from which oil is being withdrawn
+and may be kept open only with flame screens in place. When there is no
+longer any possibility of sparks or other source of ignition, normal
+procedure may be resumed.
+
+(23) Ports and Doors to Crew Quarters. When loading and unloading oil, all
+ports and doors facing the cargo decks, or facing a breeze bringing vapors
+from another vessel must be closed except when necessary to open for
+passage of personnel.
+
+(24) Blowing of Boiler Tubes. Blowing of boiler tubes or other work on the
+boilers which may cause sparks or soot from the stacks during transfer
+operations is prohibited.
+
+(25) Spillage During Transfer. Transfer must cease if a discharge of oil to the
+waters of the State occurs during such transfer. Transfer may be resumed
+when, in the judgment of the Commissioner's representative after
+consultation, if necessary, with the United States Coast Guard or Local Fire,
+Chief, adequate steps have been taken to control the discharge and to
+prevent further discharge.
+
+(26) Contingency plan. Each owner or operator of an oil terminal facility
+must have available for inspection by the Commissioner or an agent of the
+Commissioner a copy of any oil discharge response plan required to be
+submitted to the President of the United States under the federal Oil
+Pollution Control Action of 1990, Public Law 101-380, Section 4202.
+
+(27) Operations Plans. The owner or operator of each oil terminal facility
+shall have an operations plan available for inspection upon request of the
+Commissioner or representative of the Commissioner. The operations plan
+must describe in detail the equipment and procedures used at that terminal
+for the prevention of oil spills and the protection of the public health, safety,
+welfare, and environment.
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+(28) Spill Prevention Control and Countermeasure (SPCC) Plan. This
+chapter expressly adopts and incorporates by reference all the requirements
+of the Spill Prevention Control and Countermeasures Plan in 40 CFR Part
+112 (July 1, 1998).
+
+B. Booming of Vessels
+
+(1) All tank vessels and tank barges, except those engaged in bunkering
+operations and actually bunkering a vessel, from which and to which oil and
+oil by-products are being transferred, must be protected by an oil boom
+device which must completely enclose the tank vessel and be maintained by
+anchoring with sufficient anchors at a minimum distance of 50 feet from the
+vessel to catch and contain oil discharges, except:
+
+(a) When personnel safety conditions, weather, wind, sea, or ice conditions
+are such that a boom cannot be wholly or partially deployed and the
+terminal operator reports this fact to the Commissioner. Reporting must be
+prior to transfer or whenever conditions develop which require removal of
+the boom. If the Commissioner's offices are closed, reporting must be on the
+next working day following the transfer; or
+
+(b) When a portion of the oil has a flash point of -45 F or less, and an
+ignition temperature of 536 F or more, such as gasoline.
+
+(2) The boom used to enclose the tank vessel must be of a type suited to the
+conditions of wind, currents, and waves found at the transfer site at the time
+the transfer takes place, and must be capable of retaining the maximum
+most probable discharge from the tank vessel under the conditions normally
+found at the transfer site at the time the transfer takes place. Maximum
+most probable discharge means a discharge of (1) 2,500 barrels of oil for
+vessel with an oil cargo capacity equal to or greater than 25,000 barrels; or
+(2) 10% of the vessel's oil cargo capacity for vessel with a capacity of less
+than 25,000.
+
+(3) If a terminal operator believes it is impossible or wholly impracticable to
+implement the booming requirement in whole or in part on a regular basis,
+the operator may apply to the Department for complete or partial exemption
+from this requirement. The application must set forth in detail the reasons
+why such complete or partial exception should be granted. The Department
+may set any reasonable conditions in granting any exemption hereunder.
+
+C. Land Based Oil Terminal Facilities
+
+(1) Inventory Control/Overfill Protection
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+ Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                 Edition))
+(a) Inventory Reconciliation. The liquid level in a tank must be gauged at
+least once every 7 days and the measurements compared to those of the
+previous readings. A record of the measurements must be maintained for
+inspection by the Commissioner or representative of the Commissioner.
+Tank gauging also is required prior to every delivery of oil into a storage
+tank at a facility.
+
+(b) Mandatory Loss Reporting. Any liquid level measurements that, after
+reconciliation of inventory, indicate a loss of liquid of at least 0.5% of
+throughput on a monthly basis, must be immediately investigated and
+reported to the Commissioner.
+
+(c) Overfill Prevention. Tank overfilling must be prevented by the following
+measures, except for asphalt tankages:
+
+(i) High liquid level alarm with audible and visual signals; and
+
+(ii) High-high liquid level alarm with audible and visual signals.
+
+(d) Overfill protection systems must be tested before each transfer or
+monthly, whichever is the least frequent.
+
+(2) Maintenance and Inspection. Prior to operation and as a condition of
+continued operation of an oil terminal facility, an inspection program must
+be implemented by the facility operator as follows:
+
+(a) Daily visual inspection of aboveground tanks, piping, equipment and
+discharge control devices and surrounding areas to detect possible oil and to
+determine and carry out any maintenance necessary to prevent discharges
+from occurring. The operator shall make a list of daily inspection procedures
+and inspection logs available to the Commissioner or representative of the
+Commissioner.
+
+(b) A documented monthly visual inspection of the facility, including but not
+limited to, tanks and all ancillary devices (vents, water drawoff, etc.), valves,
+piping, spill containment dikes and other spill holding areas, oil/water
+separators and equipment.
+
+(c) Monthly visual tank inspection must include, but not be limited to the
+following:
+
+(i) Check exterior surfaces of tanks for discharges and maintenance
+deficiencies;
+      06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+      Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                   Edition))
+(ii) Identify cracks, wear, corrosion, thinning, poor maintenance and
+operating practices, settlement, swelling of tank insulation, malfunctioning
+equipment, structural and foundation weaknesses; and
+
+(iii) Inspect and monitor discharge detection systems, cathodic protection
+monitoring or warning systems.
+
+(d) Tank De-watering. Discharge of water from tank bottoms must be to an
+appropriate onsite or offsite treatment facility. Oil from the tank as part of
+the water bottom drawoff may be returned to the tank.
+
+(e) Cathodic protection system. A monthly inspection must be performed on
+any impressed current cathodic protection system. An annual structure to
+soil and structure to structure potential test must be performed by a
+cathodic protection tester for impressed current systems as well as annual
+structure to soil potentials for galvanic systems. Rectifier voltage and
+current readings must be in the range specified by the manufacturer or
+installer of the system. All readings and repairs must be documented.
+
+(f) All underground oil piping more than 5 years old must be inspected or
+tested to verify the integrity of the piping by November 7, 2001 in
+accordance with API Standard 570, Piping Inspection Code: Inspection,
+Repairs, Alternation and Re-rating of In Service Piping Systems, 1st Ed.
+(June 1993, as supplemented January 1995 and December 1997).
+Verification by pressure testing must consist of holding pressure at 1.5 times
+the maximum operating pressure for a period of one hour on an annual
+basis. Verification by use of internal inspection devices, designed to verify
+the structural integrity of the pipe by measuring the pipe wall thickness and
+indicating geometric irregularities of the piping is an acceptable alternatives
+provided it is by November 7, 2001 and every 5 years thereafter. If the age of
+the piping is unknown, it must be tested within 1 year of by November 7,
+2000. Pressure testing or internal inspection is not required on
+underground piping equipped with secondary containment or a leak
+detection system. The Commissioner may require testing at other times if
+there is reason to suspect a discharge.
+
+(g) Aboveground piping tightness testing. Tightness testing is required for
+aboveground piping 10 years after installation and every 5 years thereafter
+in accordance with API Standard 570. Piping Inspection Code; inspection ,
+repair alternation and rerouting of in-service piping systems 1st Ed, June
+1993, Supplemental 1 January 1995 and Supplemental 2 December 1997.
+Aboveground piping must be hydrostatically pressure tested to 1.5 times the
+maximum operating pressure for a period of one hour. For the purpose of
+this section a hydrostatic pressure test may be performed using hydrocarbon
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+ Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                    Edition))
+product or water. Verification by use of internal inspection devices, designed
+to verify the structural integrity of the pipe by measuring pipe wall thickness
+and indicating geometric irregularities of the piping, is an acceptable
+alternative. If the age of the piping is unknown, it must be tested by
+November 7, 2001 and every 5 years thereafter. If the piping, including
+insulated piping, can be visually inspected 360 degrees around over its
+entire length, then tightness testing is not required.
+
+(h) Internal Tank Inspection. All field constructed tanks must have internal
+inspections as follows:
+
+(i) Tanks without either an RPB or a cathodically protected bottom with an
+internal bottom liner must have an internal inspection by January 1, 2004,
+and at least every 10 years thereafter;
+
+(ii) Tanks with an internal tank bottom liner and cathodically protected
+bottom must have an internal inspection by January 1, 2008, and at least
+every 10 years thereafter;
+
+(iii) Tanks with an RPB that have no internal tank bottom liner and
+cathodically protected bottom must have an internal inspection by January
+1, 2008, or within 15 years after a prior internal inspection, whichever is
+later, and at least every 15 years thereafter;
+
+(iv) Tanks with an RPB, an internal tank bottom liner and cathodically
+protected bottom must have an internal inspection by January 1, 2008, or
+within 20 years after a prior internal inspection, whichever is later, and at
+least every 20 years thereafter;
+
+(v) Tanks containing No. 6 fuel oil must have an internal inspection by
+January 1, 2003, or within 20 years after a prior internal inspection,
+whichever is later, and at least every 20 years thereafter;
+
+(vi) Tanks containing No. 6 fuel oil with a cathodically protected bottom
+must have an internal inspection by January 1, 2008, or within 20 years
+after a prior internal inspection, whichever is later, and at least every 20
+years thereafter;
+
+(vii) Tanks containing asphalt must have an external/internal inspection by
+January 1, 2003, or within 20 years after a prior internal inspection,
+whichever is later, and at least every 20 years thereafter; and
+
+(viii) Tanks containing asphalt with a cathodically protected bottom must
+have an external/internal inspection by January 1, 2008, or within 20 years
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                   Edition))
+after a prior external/internal inspection, whichever is later, and at least
+every 20 years thereafter.
+
+Note: API 653 inspections performed prior to the adoption of this chapter
+and in compliance with all requirements of API 653 including using a
+certified inspector shall count as the first inspection under this chapter.
+
+(i) Internal inspections must be in accordance with API 653, Tank
+Inspection Repair, Alteration and Reconstructions 2nd Ed., December
+1995, with Addendum 1 (Dec. 1996). If, during the inspection, evidence is
+found of a change from the original physical condition of the tank, then the
+suitability of the tank for continued service must be evaluated in accordance
+with API 653. Internal inspections and suitability for service evaluations
+must be conducted by an API certified 653 inspector. Inspection records
+must be kept for review by the Commissioner or representative of the
+Commissioner. Any hole or failure of a tank or piping must be reported to
+the Department.
+
+(j) For asphalt tanks the following inspection requirements will, for the
+purpose of this chapter, meet the intent of API 653, paragraph 4.5,
+Alternative to Internal Inspection to Determine Bottom Thickness.
+
+(i) Inspections for indications of asphalt seepage and stability of the
+foundation, such as erosion or fill migration or settlement, must be
+performed around the exterior perimeter of the tank where the tank floor is
+flush with the ring wall foundation or pad foundation. For the purposes of
+this section, the pad foundation refers to earth or concrete.
+
+(ii) Inspections must also be made around the external shell to floor joint for
+indications of seepage or cracked weld seams.
+
+(iii) If the tank wall or floor is riveted construction, rivets must be inspected
+for indications of seepage or corrosion which could indicate a rivet losing
+strength. Insulation must be temporarily removed to allow inspection of
+rivets at 10 to 16 locations. If the inspection reveals a significant number of
+leaking rivets, then an expanded detailed inspection plan shall be prepared
+and submitted to the Department for approval.
+
+Repair of leaking rivets can be made using the best acceptable industry
+practices at that time. Care must be given to allow for thermal expansion of
+the shell, rivet and hole in determining the proper repair procedure.
+
+(iv) The tank perimeter must be inspected for indications of tank settling
+such as floor or shell deformations. If the exterior of the tank is insulated,
+inspections for shell deformation must be conducted from the interior of the
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+ Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+tank. The exterior floor elevations must be checked at 8 evenly spaced
+locations around the perimeter of the tank using a level. Records of the
+elevations must be kept for comparison with those gathered at subsequent
+inspections to detect any long-term settling.
+
+(v) Floor thickness must be measured at 6 to 8 locations distributed
+throughout the interior bottom. At least one of these points must be within 6
+inches of the shell. Asphalt at these points must be removed to bare metal. If
+there is any evidence of external or internal corrosion of the tank shell or
+floor, the floor thickness must be measured at the suspected point of
+minimal remaining floor thickness. Use the minimum reading floor
+thickness observed as the floor thickness to compare with acceptable
+minimum thicknesses. If corrosion is present, allowances must be made for
+future metal loss in determining whether to replace the tank bottom or
+schedule for the next inspection.
+
+(vi) In the event that local inspections of the tank reveal weld cracks, leaking
+rivets or other indications of joint failure, the entire floor must be cleaned
+and inspected, or replaced with a new floor in accordance with API Standard
+653.
+
+(vii)The inspection of the balance of the tank should be in accordance with
+API Standards 650 and 653, as well as any repairs or modifications made.
+
+(3) Steam or Heating Devices. No person may discharge exhaust steam
+containing oil from any coil or other device used to heat oil directly or
+indirectly into the waters of the State unless all oil has been removed from
+such discharge.
+
+(4) Records. Owners or operators shall maintain records documenting
+required training, inspections, tests, maintenance and repairs. Unless
+otherwise specified, such records must be kept on file at the facility for three
+years, and must be available for inspection upon the request of the
+Commissioner or representative of the Commissioner. In cases involving
+enforcement action, the three-year period for maintaining such records is
+automatically extended until the action is finally resolved.
+
+(5) Financial Responsibility Requirements. The Commissioner requires
+evidence of financial responsibility in the amount of $2 million per facility as
+a condition of an operating license to ensure proper closure of facilities.
+Financial responsibility may be established, subject to the approval of the
+Commissioner, by any one, or by any combination, of the following:
+insurance, guarantee, surety bond, letter of credit, trust fund or qualification
+as self-insurer. In determining the adequacy of evidence of financial
+responsibility, the Commissioner shall consider the criteria in 40 CFR,
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                 Edition))
+Sections 280.95 through 280.99 and 280.102 through 280.103(revised as of
+July 1, 1998). Any bond filed must be issued by a bonding company
+authorized to do business in the United States. The Commissioner may
+change the amount of financial responsibility required if an engineering
+assessment of probable closure costs indicates such a change in the
+requirement would be appropriate.
+
+10. Intrastate Pipelines. This chapter expressly adopts and incorporates
+by reference the regulations concerned with or related to the safety
+standards and accident reporting requirements for intrastate pipeline
+facilities used in the transportation of oil in 49 CFR Part 195 (October 1,
+1998).
+
+11. Land Based Oil Terminal Facility Staff Training
+
+(1) Persons directly involved in the day to day operations of an oil terminal
+facility shall be trained and experienced in the proper operations,
+procedures and required maintenance of the facility, and in procedures to
+respond to discharges of oil. Each facility must appoint an individual who is
+responsible for oil discharge prevention and accountable for any oil
+discharge. This individual shall schedule training sessions for operational
+personnel to ensure a complete understanding of the federal Spill
+Prevention, Control and Countermeasures (SPCC) plan, Oil Pollution Act of
+1990 (OPA 90) plan, and any applicable contingency plan,
+
+(2) Personnel directly involved in the day to day operations of an oil
+terminal facility shall be trained annually on the requirements of this
+chapter
+
+(3) Upon request of the Commissioner, records must be made available
+indicating the titles, job descriptions, and training summaries of those
+employees required to receive the training found in paragraph (1) above. All
+training records shall be kept for a minimum of 3 years.
+
+12. Non-Operating Tanks And Facilities
+
+A. Facility Lockout. When a facility is not in use or under competent
+supervision for 7 consecutive days, the gates and other access ways must be
+closed and locked, and the loading valves, filling and gauging pipes must be
+locked. All tanks, piping, equipment and other devices must be capped or
+blanked in a manner to prevent their use. Valves that isolate tanks, piping
+and equipment or that may permit a discharge must be locked in the closed
+position. Any dedicated electrical or hydraulic control devices serving the
+tank, piping or other equipment must be locked in the closed position.
+    06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+B. Temporarily Out of Service. Storage tanks and oil that are
+temporarily out of service for 12 or more months must be closed as follows:
+
+(1) All oil must be removed from the tank and piping system to the lowest
+drawoff point. Any waste oil from the tank must be disposed of in
+accordance with all applicable state and federal requirements:
+
+(2) Tanks must be protected from flotation in accordance with good
+engineering practices if in a 100-year flood plain;
+
+(3) All openings must be secured and locked. Fill pipes, down loading pipes
+and any other pipes and openings must be capped or secured to prevent
+access to, or accidental or unauthorized use or tampering;
+
+(4) Storage tanks or facilities that are temporarily out of service are subject
+to all requirements of this chapter including, but not limited to, periodic
+testing, inspection, licensing and reporting requirements; and
+
+(5) Tanks or piping that are temporarily out of service for more than 2 years
+must be cleaned and rendered free of oil vapors and certified by a marine
+chemist or a certified industrial hygienist to be gas free. Liquid and sludge
+must be removed from the tank and connecting pipes.
+
+C. Closure of Tanks Permanently Out of Service. A tank or piping is
+permanently out of service when it has been temporarily out of service for
+more than 10 years. Any tank or facility that is permanently out of service
+must comply with the following:
+
+(1) Provisions must be made for natural breathing of the tank to ensure that
+the tank remains vapor-free;
+
+(2) All connecting piping must be disconnected and removed or securely
+capped or plugged. All tank openings must be secured and locked;
+
+(3) Tanks must be marked with the date of when the tank was taken
+permanently out of service;
+
+(4) Aboveground tanks must be protected from flotation in accordance with
+good engineering practice; and
+
+(5) A tank that has been permanently out of service may not be reinstalled
+for petroleum storage unless a suitability for service inspection, in
+accordance with API Standard 653, Tank Inspection, Repair, Alteration
+and Reconstruction, Second Ed., December 1995, with Addendum 1
+(December 1996), has been performed.
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                    Edition))
+D. Facility Closure. At total facility closure, or when a licensee chooses to
+release the facility license, the owner/operator shall comply with the
+following:
+
+(1) Prepare a written facility closure plan and implementation schedule
+within 60 days of the owner/operator's decision to close the oil terminal
+facility and submit it to the Department for approval. The plan must
+provide:
+
+(a) For removal of all oil and oil residuals from tanks, discharge control
+equipment, discharge confinement structures and containment systems.
+Cleaned tanks can remain in place;
+
+(b) For decontamination or removal of all remaining containers, liners,
+bases and soil containing or contaminated with oil or oil residuals;
+
+(c) For removal of underground piping; and
+
+(d) A comprehensive piping survey that shows the location of all former
+pipes, current pipes and abandoned pipes.
+
+(2) In lieu of removal of underground piping, the owner or operator may
+propose an abandonment plan for review and approval of the
+Commissioner. The plan must at a minimum include:
+
+(a) A feasibility analysis for removal of underground piping. This analysis
+must include the rationale for non removal of piping sections including for
+such reasons as the piping is located beneath permanent structures, is
+inaccessible to heavy equipment, or is located in such a manner or is of such
+a great size that it is impractical to remove; and
+
+(b) For piping that is not feasible to remove:
+
+(i) a method for the removal of all product sludges and liquids from the
+piping;
+
+(ii) a method of filling the piping with solid inert material such that the pipes
+will not serve as an avenue for discharges of products stored at the facility in
+the future; and
+
+(iii) a method for capping sections of abandoned piping.
+
+(3) Complete the facility closure plan to the satisfaction of the Department.
+The Commissioner may require soil, ground water and other testing as a
+part of the facility closure plan. A facility must not be put into non-oil service
+without compliance with this requirement. The owner shall not carry out
+      06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                    Edition))
+any facility closure activities until the Commissioner has approved the
+facility closure plan.
+
+(4) File a written facility closure report with the Department, which must
+include a certification from an independent engineer that the facility closure
+was conducted in accordance with the approved facility closure plan and
+that all regulated substances have been removed or cleaned up to the
+satisfaction of the Department.
+
+(5) Following the Commissioner's acceptance of the facility closure report,
+the owner or operator must file an underground piping survey that meets
+the requirements of Section 12 (D)(1)(d) with the county Registry of Deeds.
+
+(6) If a facility is used as a bulk terminal, it must be operated for two years
+or more as a bulk terminal before the facility closure requirements for oil
+terminal facilities no longer apply.
+
+E. Owner Responsibility. When ownership of a facility, or a tank, or
+piping is unknown, the current property operator is responsible for proper
+closure of the facility.
+
+13. Licensing
+
+A. Oil Terminal Facility License. No oil terminal facility may transfer or
+cause to be transferred or consent to the transfer of any oil unless that oil
+terminal facility holds a valid license issued by the Commissioner pursuant
+to 38 M.R.S. Sections 544 and 545 and this chapter, and the facility is
+abiding by all the conditions listed on that license.
+
+After public notice and public hearing November 21, 1977 the above
+regulation is hereby adopted this 21st day of December, 1977.
+
+STATUTORY AUTHORITY: 38 M.R.S. Section 546 (4)
+
+EFFECTIVE DATE:
+
+October 21, 1971
+
+AMENDED:
+
+July 12, 1973
+
+January 15, 1974
+
+October 1, 1974
+    06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                 Edition))
+February 8, 1978 (Filed 8-10-79)
+
+November 7, 1999 - Except that the Effective dates for Existing facilities
+shall be as follows:
+
+Section 7(I) is effective February 5, 2000;
+
+Sections 7(E)(2), 7(H), 7(J)(2)(b); 8(C)(3) 8(C)(8) and 8(C)(9) are effective
+November 7, 2000;
+
+Section 9(C)(1)(c) is effective November 7, 2001; and
+
+Section 7(E)(1), 7(E)(5), 8(F)(1) 8(B)(5)(b), 8(C)(2), 8(C)(6), 8(C)(7) and
+8(I) are effective November 7, 2004.
+
+EFFECTIVE DATE (ELECTRONIC CONVERSION):
+
+May 4, 1996
+
+NON-SUBSTANTIVE CORRECTIONS:
+
+April 12, 1999
+
+AMENDED:
+
+March 24, 2001
+
+NON-SUBSTANTIVE CORRECTIONS:
+
+March 16, 2004 - elimination of out-of-place underlines
+
+AMENDED:
+
+April 3, 2016 - definitions 2(AA, CC); changed M.R.S.A. to M.R.S.
+
+APPENDIX A
+
+SPECIFICATIONS AND REQUIREMENTS
+
+FOR VERTICAL GROUND WATER MONITORING WELLS
+
+1. Monitoring wells must be a minimum of 2 inches in diameter.
+
+2. The screened zone must extend at least 10 feet into the water table and at
+least 5 feet above the ground water surface, as determined at the time of
+installation; or when installed within a secondary containment liner, the
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+ Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                 Edition))
+base of the well screen must extend to within 6 inches of the low point of the
+liner.
+
+3. The screened portion of a well outside a liner must be a minimum of 15
+feet in length and must be factory slotted with a slot size of 0.010 inch.
+
+4. Monitoring wells must be installed with a cap at the bottom of the slotted
+section of the well.
+
+5. Monitoring wells must be constructed of flush joint, threaded schedule 40
+PVC or other types of PVC which have equivalent or greater wall thicknesses.
+
+6. Monitoring wells must be numbered such that all monitoring and testing
+results may be easily correlated to a specific monitoring well location.
+
+7. All monitoring wells must be equipped with liquid-proof lockable caps.
+
+8. Monitoring wells must be properly distinguished from oil piping using
+American Petroleum Institute recommended symbols.
+
+9. The area around the screened portion of the well must be surrounded by a
+porous medium (e.g., sand, gravel, or pea stone).
+
+10. The outside of the well riser must be sealed to the wall of the boring
+using bentonite or a similar product to a depth of 1.5 feet below ground
+surface, or to 0.5 feet above the water table, whichever is shallower.
+
+11. Monitoring wells which are located in traffic areas must be cut off at
+ground level, clearly marked, with a raised limited access cover in
+accordance with PEI Publication RP100-90 (1990) or properly protected
+from vehicles.
+
+12. Any damaged monitoring well must be repaired, replaced or properly
+abandoned as soon as possible after discovery of the damage.
+
+13. Monitoring wells must be installed with a boring rig rather than a
+backhoe if they are not installed within a containment liner.
+
+14. Unless required by the Department, monitoring wells within a diked area
+should be properly abandoned, or completed in such a way to prevent
+leakage of oil via the well should a spill occur within the diked area.
+Monitoring wells should be abandoned in accordance with the "Handbook of
+Suggested Practices for Design and Installation of Ground water Monitoring
+Wells, Aller et al., 1989, EPA document number 600/4-89/034.
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                  Edition))
+15. All wells completed as stick-ups should be completed with a protective
+steel casing.
+
+APPENDIX B
+
+OIL SAMPLING AND STORAGE PROCEDURE
+
+In general, sampling procedures must conform to the following guidelines in
+the API Manual of Petroleum Measurement Standards:
+
+Chapter 8.1, Manual Sampling of Petroleum and Oil, Second Ed., October
+1989 (ANSI/ASTM D4057-88); and
+
+Chapter 8.2, Automatic Sampling of Petroleum and Oil, First Ed., April
+1983; Reaffirmed August 1987 (ANSI/ASTM D4177).
+
+LABELING
+
+A tag or label must be attached to each collected sample. Waterproof and oil
+proof ink or a pencil hard enough to dent the tag must be used. The
+following information must be included on the label:
+
+1. Name of the vessel
+
+2. Home port of the vessel
+
+3. Sample date and time
+
+4. Name and signature of the sampler
+
+5. Tank sampled
+
+6. Oil type
+
+7. Oil origin
+
+8. Terminal
+
+Whenever available, the following information also must be provided:
+
+9. API specific gravity
+
+10. Boiling point
+
+11. Sulfur
+
+12. Viscosity
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                              Edition))
+13. Test date
+
+14. Testing lab
+
+15. Analyst
+
+STORAGE
+
+Samples must be subjected to storage conditions as soon as possible. Storage
+must be in a dark, cool environment. The storage compartment must be
+secured by lock and key with access assigned to designated personnel.
+Samples must be stored under these conditions a minimum of (15) days.
+Due to the potential fire hazard, adequate ventilation and other safety
+precautions should be observed. Samples must be made available to the
+Commissioner upon request.
+
+Appendix C
+
+Reference material may be obtained at the following locations:
+
+Reference                                                                      Address
+                                                                               American
+                                                                               Petroleum
+                                                                               Institute
+Standard 620, Design and Construction of Large, Welded, Low Pressure
+                                                                               1220 L Street,
+Storage Tanks, 9th Edition, February 1996
+                                                                               NW
+
+                                                                               Washington,
+                                                                               DC 20005
+Standard 650, Welded Steel Tanks for Oil Storage 10th Edition, October, 1998   Same as above
+RP 651, Cathodic Protection of Aboveground Storage Tanks 2nd Edition,
+                                                                               Same as above
+December 1997 (ANSI/API Std 651-1991) 25 pages, Order Number C65102
+RP 652, Lining of Aboveground Petroleum Storage Tank Bottoms, 2nd Edition,
+                                                                               Same as above
+December 1997 (ANSI/API Std 652-1991) 10 pages, Order Number C65202
+Std 653, Tank Inspection, Repair, Alteration and Reconstruction 2nd Edition,
+                                                                               Same as above
+December 1995-68 pages, Order Number C65302
+RP 1615, Installation of Underground Petroleum Storage Systems, 5th Edition,
+                                                                               Same as above
+March 1996
+Publication 1637, Using the API Color-Symbol System to Mark Equipment and
+Vehicles for Product Identification at Services Stations and Distribution
+                                                                               Same as above
+Terminals, 2nd edition, September 1995-Includes one 1637A color chart-6
+pages, Order Number A16370
+RP 2003, Protection Against Ignitions Arising out of static, Lightning, and    Same as above
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+     Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                 Edition))
+Stray Currents, 6th Edition, September 1998, 45 pages, Order Number K20036,
+Std 570, Piping Inspection Code: Inspection, Repair, Alteration and Rerouting
+                                                                              Same as above
+of In-Service Piping Systems, 43 pages, Order Number C57000
+                                                                              ASME
+
+                                                                             22 Law Drive,
+ASME B31. 1-1998-Power Piping                                                P.O. Box 2900
+
+                                                                             Fairfield, NJ
+                                                                             07007-2900
+ASME B31.3-1996-Process Piping                                               Same as above
+ASME B31.4-1992-Liquid Transportation Systems for Hydrocarbons, Liquid
+                                                                             Same as above
+Petroleum Gas, Anhydrous Ammonia, and Alcohols
+                                                                             ASTM
+
+                                                                             100 Barr
+                                                                             Harbor Drive
+ASME D4057-95 EI-Manual Sampling of Petroleum and Petroleum Products
+                                                                             West
+                                                                             Conshohocken,
+                                                                             PA 19428
+ASTM D4177-95-Methods for the Automatic Sampling of Petroleum and
+                                                                             Same as above
+Petroleum Products
+                                                                             NACE
+                                                                             International
+NACE Standard RP 0285-95-Standard Recommended Practice: Corrosion
+                                                                             P.O. Box
+control of Underground storage tank systems by cathodic protection. Item #
+                                                                             218340
+21030
+                                                                             Houston,
+                                                                             Texas
+NACE Standard RP 0169-96 Standard Recommended Practice: Control of
+External Corrosion on Underground or Submerged Metallic Piping systems-      Same as above
+Item # 21001
+                                                                             NFPA
+
+                                                                             11 Tracy Drive
+NFPA Standard 30-Flammable and Combustible Liquids Code-1996 Edition
+                                                                             Avon, MA
+                                                                             02322-9910
+                                                                             Petroleum
+RP-200-96-Recommended Practices for Installation of Aboveground Storage      Equipment
+Systems for Motor Vehicle Fueling, 31 pages                                  Institute
+   06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+   Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                            Edition))
+                                                                                P.O. Box 2380
+
+                                                                                Tulsa, OK
+                                                                                74101
+RP 100-97-Recommended Practices for Installation of Underground Liquid
+                                                                                Same as above
+Storage System, 31 pages
+                                                                                Steel Tank
+                                                                                Institute
+
+Publication # R893-89-Recommend Practice for External Corrosion Protection 570 Oakwood
+of Shop Fabricated Aboveground Storage Tank Floors                         Road
+
+                                                                         Lake Zurich,
+                                                                         IL 60047
+Publication #F911-93-Standard for Diked Aboveground Storage Tanks (DAST) Same as above
+Publication F#921-98 Standard for Aboveground Tanks with Integral
+                                                                         Same as above
+Secondary Containment
+                                                                         Underwriters
+                                                                         Laboratories
+
+                                                                                333 Pfingsten
+UL-80 Standard for Steel Inside Tanks for Oil Burner Fuel-1996
+                                                                                Road
+
+                                                                                Northbrook, IL
+                                                                                60062-2096
+UL-142-Standard for Steel Aboveground Tanks for Flammable and
+                                                                          Same as above
+Combustible Liquids-1993
+UL-2085-Standard for Insulated
+Aboveground Tanks for Flammable and        Same as above
+Combustible Liquids-December 1997
+                                           The Illuminating Engineering Society of North
+                                           America
+HB-93-IESNA Lighting Handbook-8th
+Edition, 989 pages, 1993                   120 Wall Street, Fl 17th
+
+                                               New York, NY 10005
+Steel Structures Painting Manual, Volume 1 &
+2
+                                               Society of Protective Coatings
+Volume 1: Good Painting Practice, 3rd
+                                               40 24th Street
+Edition, 1993
+                                               Pittsburgh, PA 15222
+Volume 2: systems and Specification, 7th
+Edition, 1995
+     06 096 Me. Code R. Ch. 600 Oil Discharge Prevention and
+    Pollution Control Rules for Marine Oil Terminal Facilities,
+Transportation Pipelines and Vessels (Code of Maine Rules (2021
+                                Edition))
+Steel Structures Painting Manual          Same as above
+Publication #:T479
+                                          National Ground Water Association
+Handbook of Suggested Practices for the
+                                             601 Dempsey Road
+Design and Installation of Ground-Water
+Monitoring Wells-EPA Document Number:
+                                             Westerville, OH 43081
+EPA 600/6-89/034
+                                             Superintendent of Documents
+
+                                             P.O. Box 371954
+40 CFR Part 112: Spill Prevention Control and
+Countermeasures Plan Revised-1998             Pittsburgh, PA 15250
+
+                                             Also obtained on Internet at
+                                             http://www.access.gpo.gov/nara/rfr/index.html
+49 CFR Part 195 Transportation of Hazardous
+                                            Same as above
+Liquids by Pipeline Revised 1998.
+46 United States Code, Section 2101 (1997)  Same as above
+STI Recommended Practice for Corrosion      Steel Tank Institute
+Protection of Underground Piping Networks
+                                              570 Oakwood Road
+associated with Liquid Storage and Dispensing
+System, R892-91, 1991                         Lake Zurich, IL 60047
+

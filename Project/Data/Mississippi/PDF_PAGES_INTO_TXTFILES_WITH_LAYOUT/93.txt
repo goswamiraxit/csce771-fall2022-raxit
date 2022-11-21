@@ -1,0 +1,49 @@
+                          (2)      Calculate Permit Limits. Using the flows determined under Rule
+                                   1.2.6.F.2.b and the Mississippi, or EPA (when there is no State
+                                   criteria) Water Quality Criteria for Toxic Pollutants, calculate
+                                   maximum allowable concentrations in the storm water runoff for
+                                   all parameters of concern. Since the acute water quality criteria are
+                                   based on 96 hours exposure and the EPA storm water sampling
+                                   protocol requires first 30 minutes of grab and 3 hours of composite
+                                   samples during a storm after 72 hours of dry weather, only the
+                                   acute criterion will be used to establish permit limits. Also, the
+                                   average storm event duration in Mississippi is about 8 hours.
+Calculation:
+
+                                                            QI + QS
+                                            PL = CMC *
+                                                              QI
+Where:
+PL     = Permit Limit
+CMC = Criteria Maximum Concentration (Acute)
+QI     = Flow from industry
+QS     = Flow from stream
+
+        When the model or calculated limit is higher than the maximum concentration reported
+        on the 2F application, the permit will generally only require monitoring.
+
+                 (c)      Best Professional Judgment
+
+When there are no ELG or WQS numeric limitations or standards, BPJ will be used to set permit
+limits or to require Best Management Practices (BMPs) to protect water quality.
+
+G.      Determining Compliance with Non-Detect or Below Detection Limitations.
+
+It is recognized that the calculated limits for specific chemicals may be below the analytical
+minimum quantitation level for the pollutant of concern. However, in this case the permit limit
+will be this calculated value. In such cases, compliance with the permit limits shall be
+determined as follows:
+
+        (1)      The permit will specify the analytical procedure to be used.
+
+        (2)      The guidelines establishing test procedures for the analysis of pollutants set forth
+                 in 40 CFR Part 136 are incorporated herein and adopted by reference and as
+                 hereinafter amended. The weblink to 40 CFR Part 136 follows:
+
+http://ecfr.gpoaccess.gov/cgi/t/text/text-idx?c=ecfr&tpl=/ecfrbrowse/Title40/40cfr136_main_02.tpl
+
+
+
+
+                                                       93
+

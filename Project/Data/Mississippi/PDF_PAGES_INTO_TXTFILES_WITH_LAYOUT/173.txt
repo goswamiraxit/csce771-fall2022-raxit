@@ -1,0 +1,32 @@
+                                                          TABLE 2
+                                             Numeric Criteria for All Waters (µg/l)
+
+
+                                                         Fresh Water                Salt Water             Human Health
+ CAS j               Parameter                    Acute         Chronic      Acute         Chronic     Organisms    Water &
+                                                                                                          Only     Organisms
+ 309002    Aldrin                                  3.0                        1.3                       0.000050    0.000049
+                                                     f                f         f                f
+7664417    Ammonia
+7440382    Arsenic (III), Total Dissolved         340 e           150 e        69                36
+7440382    Arsenic, Total Dissolved                                                                       24h        0.078h
+7440439    Cadmium, Total Dissolved              1.03 b,e        0.15 b,e      40             8.8         168           5
+  57749    Chlordane                               2.4           0.0043       0.09           0.004      0.00081     0.00080
+7782505    Chlorine                                19              11          13             7.5
+18540299   Chromium (Hex), Total                   16 e           11 e       1100                50      1470         98
+           Dissolved
+16065831   Chromium (III), Total Dissolved        323 b,e        42 b,e                                 140468         100
+ 7440508   Copper, Total Dissolved                7.0 b,e        5.0 b,e       4.8            3.1        1000         1300
+   57125   Cyanide                                22.0 g         5.2 g        1.0 g          1.0 g        140          140
+   50293   4,4 DDT                                  1.1          0.001        0.13           0.001      0.00022     0.00022
+   60571   Dieldrin                                0.24          0.056        0.71          0.0019     0.000054    0.000052
+ 1746016   2,3,7,8 TCDD (Dioxin)                                                                       51 x 10-9   50 x 10 -9
+  959988   alpha-Endosulfan                       0.22 i         0.056 i     0.034 i        0.0087 i       89          62j
+33213659   beta-Endosulfan                        0.22 i         0.056 i     0.034 i        0.0087 i       89j          62
+ 1031078   Endosulfan Sulfate                                                                              89j         62j
+   72208   Endrin                                 0.086           0.036      0.037          0.0023       0.060       0.059
+   76448   Heptachlor                              0.52          0.0038      0.053          0.0036     0.000079    00.00079
+
+
+                                                                173
+

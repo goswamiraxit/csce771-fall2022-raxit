@@ -1,0 +1,193 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Coastal Streams
+
+Bayou Casotte
+
+200313
+
+Jackson
+
+Aquatic Life
+Use Support
+
+Coastal Streams
+
+Bayou Casotte
+West Prong
+
+200312
+
+Jackson
+
+Aquatic Life
+Use Support
+
+Organic
+Enrichment /
+Low
+Dissolved
+Oxygen
+Organic
+Enrichment /
+Low
+Dissolved
+Oxygen
+
+Coastal Streams
+
+Bayou La Terre
+
+204112
+
+Hancock
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Unnamed
+Tributary
+
+Coastal Streams
+
+Catahoula Creek
+
+203311
+
+Hancock
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Bernard Bayou
+
+Coastal Streams
+
+Costapia Bayou
+
+201611
+
+Harrison
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Tchoutacabouffa River
+
+Coastal Streams
+
+Dead Tiger Creek
+
+203711
+
+Hancock
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Kiln from headwaters to confluence with
+Catahoula Creek
+
+Coastal Streams
+
+Flat Branch
+
+202111
+
+Harrison
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Gulfport from headwaters to mouth at Bernard
+Bayou
+
+Coastal Streams
+
+Hickory Creek
+
+203411
+
+Hancock,
+Pearl River
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to MWS 2035 boundary
+
+Coastal Streams
+
+Hickory Creek
+
+203511
+
+Hancock
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From MWS 2034 boundary to mouth at Catahoula
+Creek
+
+Coastal Streams
+
+Palmer Creek
+
+200915
+
+Harrison
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Biloxi River
+
+25
+
+From confluence of West Prong and East Prong to
+turning basin
+
+From Louise Street to the confluence of West Prong
+and East Prong
+
+

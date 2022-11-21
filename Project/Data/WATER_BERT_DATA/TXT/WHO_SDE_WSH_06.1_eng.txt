@@ -1,0 +1,1555 @@
+   Review of latest available evidence on potential
+transmission of avian influenza (H5N1) through water
+ and sewage and ways to reduce the risks to human
+                        health
+
+                 Last updated 10/10/2007
+
+
+
+
+             Water, Sanitation and Health
+            Public Health and Environment
+                     Geneva 2006
+
+                           1
+Review of latest available evidence on potential transmission of avian
+influenza (H5N1) through water and sewage and ways to reduce the risks to
+human health
+
+
+WHO/SDE/WSH/06.1
+
+
+      © World Health Organization 2006
+
+      All rights reserved. Publications of the World Health Organization can be obtained from WHO
+      Press, World Health Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland (tel: +41 22 791
+      3264; fax: +41 22 791 4857; email: bookorders@who.int). Requests for permission to reproduce or
+      translate WHO publications – whether for sale or for noncommercial distribution – should be
+      addressed to WHO Press, at the above address (fax: +41 22 791 4806; email:
+      permissions@who.int).
+
+      The designations employed and the presentation of the material in this publication do not imply the
+      expression of any opinion whatsoever on the part of the World Health Organization concerning the
+      legal status of any country, territory, city or area or of its authorities, or concerning the delimitation
+      of its frontiers or boundaries. Dotted lines on maps represent approximate border lines for which
+      there may not yet be full agreement.
+
+      The mention of specific companies or of certain manufacturers’ products does not imply that they
+      are endorsed or recommended by the World Health Organization in preference to others of a
+      similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary
+      products are distinguished by initial capital letters.
+
+     All reasonable precautions have been taken by the World Health Organization to verify the
+     information contained in this publication. However, the published material is being distributed
+     without warranty of any kind, either expressed or implied. The responsibility for the interpretation
+     and use of the material lies with the reader. In no event shall the World Health Organization be
+     liable for damages arising from its use.
+
+     Printed by the WHO Document Production Services, Geneva, Switzerland
+
+
+
+                                                     2
+                                                                 WHO/SDE/WSH/06.1
+
+
+
+
+     Review of latest available evidence on potential
+  transmission of avian influenza (H5N1) through water
+   and sewage and ways to reduce the risks to human
+                          health
+
+                               Last updated 10/10/2007
+
+
+
+This document is periodically revised as more information becomes available. Questions
+and answers are being separately developed and will also be periodically updated. To this
+end, we welcome comments, which can be submitted via email to WSHavianflu@who.int
+
+The most up-to-date version of this document can be accessed at:
+http://www.who.int/water_sanitation_health/emerging/ai review.pdf.
+
+
+
+
+                                           3
+Purpose and Scope
+
+The purpose of this document is to summarize the latest available studies and findings on
+avian influenza pertaining to water resources, water supplies, sanitation (human excreta,
+sewerage systems and health care waste) and hygiene. Based on this information, we
+discuss the evidence of avian influenza-related risks to human health associated with
+these areas of interest. We also lay the groundwork for risk management strategies that
+will evolve as we improve our understanding of the virus. The document is intended to
+serve as the scientific basis to inform technical briefing notes, including questions and
+answers, directed at public health authorities and others involved in pandemic influenza
+planning. Non-technical question and answer reviews also are planned to provide
+information and recommendations that are derived from this document and that are of
+interest to the general public.
+
+Although the “pandemic H5N1” virus does not yet exist, it may behave like avian
+influenza H5N1 virus in many respects. In this paper, information on avian H5N1 virus is
+provided where available, but data on other avian influenza viruses are also provided to
+help fill knowledge gaps until we learn more. As new or revised information is received
+both this document and the questions and answer reviews will be periodically updated.
+For information about the current situation or for answers to frequently asked questions
+about avian influenza and the possible progression to pandemic influenza, please visit
+WHO's website at http://www.who.int/csr/disease/avian_influenza/en/index.html.
+
+
+Background
+
+There are three types of influenza viruses: A, B and C. Influenza A viruses can infect
+humans, birds, pigs, horses, and other animals, but wild birds are the natural hosts for
+these viruses. Influenza A viruses can cause pandemics. Influenza B viruses are usually
+found only in humans and generally are associated with less severe epidemics than
+influenza A viruses. Influenza C viruses cause mild illness in humans and are not a
+significant concern for human health. Only influenza A viruses are discussed in this
+document.
+
+Influenza A viruses have different subtypes, defined by the H (haemagglutinin) and N
+(neuraminidase) proteins on the surface of the virus. The H subtypes are
+epidemiologically most important, as they govern the ability of the virus to bind to and
+enter cells, where multiplication of the virus then occurs. The N subtypes govern the
+release of newly formed virus from the cells. Some subtypes have low pathogenicity (the
+capacity to cause disease) and others that have high pathogenicity.
+
+Human influenza, the seasonal affliction that causes symptoms such as fever, cough, sore
+throat and headaches, is caused by human influenza A viruses. Three human influenza A
+subtypes: H1N1, H1N2 and H3N2 have caused major outbreaks in humans. Avian
+influenza or bird flu is less well known, although it has captured media attention in recent
+years. Avian influenza is an infection caused by avian influenza A viruses, with
+                                              4
+transmission normally occurring between birds. Less commonly, avian influenza A has
+infected pigs, and on rare occasions, humans. The subtype of avian influenza A virus
+known as H5N1 is very contagious among birds and can cause significant mortality in
+some avian species. In the rare instances that the virus is transmitted from birds to
+humans, H5N1 can cause pneumonia, multi-organ failure and often death. As of 12 May
+2006, there have been 208 cases of transmission to humans, with 115 fatalities reported to
+WHO (these statistics are frequently updated by WHO and can be found at
+http://www.who.int/csr/disease/avian_influenza/country/cases_table_2006_03_24/en/ind
+ex.html).
+
+Wild waterfowl are considered the natural reservoir of all avian influenza A viruses. Most
+infected birds exhibit no symptoms, even when they are excreting large quantities of
+infectious virus. These asymptomatic birds act as “silent” reservoirs of the virus,
+perpetuating its transmission to other birds. Domestic waterfowl (e.g., ducks) may also
+act as a two-way intermediary in the transmission pathway of avian influenza between
+wild waterfowl and domestic terrestrial poultry (e.g., chickens). Although usually
+transmitted from wild birds as a virus of low pathogenicity, it may mutate during
+replication in domestic poultry and highly pathogenic avian influenza (HPAI) strains may
+arise.
+
+The overriding concern with respect to the HPAI H5N1 virus is that it may change into a
+form that is highly infectious for humans and that spreads easily from person to person.
+This could mark the start of a global outbreak or pandemic. No one will have immunity
+to the virus, as no one will have been exposed to it or developed antibodies. No vaccine
+with guaranteed efficacy can be prepared in advance of such an outbreak, because the
+causative virus does not yet exist. Potential vaccines are being prepared and stockpiled in
+advance, in the hopes that they may match a pandemic strain.
+
+A pandemic strain also may have characteristics of pathogenicity that will not be
+immediately known. Such changes may have implications for the efficacy of control
+measures established during pre-pandemic planning. However, we do know that some
+actions, such as strengthening personal hygiene practices, will reduce human-to-human
+transmission and help stop or slow the spread of pandemic virus.
+
+Routes of entry into water
+
+Birds infected with avian influenza virus shed large quantities of virus in their faeces as
+well as in their saliva and nasal secretions. Shedding occurs in the first two weeks of
+infection (1). It has been shown that one infected duck excretes up to 1010 EID50 (the
+median egg infective dose) in 24 hours (2). As ducks are known to excrete 7.5–10 kg of
+faeces per year and geese excrete 12.5–15 kg (3), infected waterfowl may be able to
+excrete up to 3 × 109 EID50 per gram faeces.
+
+It is likely that infected droppings or other secretions from both symptomatic and
+asymptomatic migratory waterfowl will enter water environments where the birds gather.
+Avian influenza virus has been isolated from unconcentrated water from six lakes in
+                                          5
+Canada where ducks gathered and deposited large amounts of faeces (4); from lakes in
+the United States (5,6); and from concentrated pond water from Hong Kong (7). There
+are no quantitative data available on levels of H5N1 virus in lake water where waterfowl
+gather, although its detection in unconcentrated water and in small sample volumes
+suggests that levels are relatively high.
+
+Besides direct deposition of faeces into lake water by migratory waterfowl, it has been
+suggested that faecal waste from duck and chicken farms may spread to bodies of water
+via wind, surface runoff or possibly enter groundwater through disposal and composting
+of waste on poultry farms.
+
+Routes of entry into sewage
+
+In addition to birds, avian influenza virus may be shed in the faeces of mammals,
+including infected humans, domestic animals and livestock. The H5N1 virus could
+potentially enter into sewage in urine or faeces excreted by infected humans or in animal
+waste that is combined with human sewage. Information on the excretion of H5N1
+viruses in urine or faeces by mammalian species, including humans, is exceedingly
+limited and unlikely to be representative of a potential future human pandemic strain. The
+isolation of the H5N1 virus from the faeces of a child presenting with diarrhoea followed
+by seizures, coma and death (8) suggests that the virus may be excreted by infected
+humans and can enter sewage in this manner. No virus was detected in the urine of this
+patient (8).
+
+Persistence in water
+
+Avian influenza viruses can persist for extended periods of time in water, although
+quantitative information on the subtype H5N1 is lacking. Data and findings from studies
+on other avian influenza subtypes are presented below and summarized in Annex 1.
+
+One study (2) showed the avian influenza subtype H3N6 resuspended in Mississippi
+River (USA) water was detected for up to 32 days at 4°C and was undetectable after 4
+days at 22°C. The data showed a decrease of about 4 logarithmic units (LU) in 32 days at
+4°C (T90, the time taken to eliminate 90% of the virus in the sample, was estimated to be
+8 days) and of more than 8 LU at 22°C (estimated T90 = 0.5 days). In a second study (9),
+which used five low-pathogenicity avian influenza viruses (H3N8, H4N6, H6N2, H12N5,
+and H10N7), infectivity of virus in distilled water (initial concentration 106 TCID50, or
+median tissue culture infective dose, per ml) was retained for up to 207 days at 17°C and
+102 days at 28°C. The T90 ranged between 21 and 32 days at 17°C and between 5 and 17
+days at 28°C, depending on the strain. In a study that showed a high level of positive
+water samples (23%) for a strain of influenza A virus in a lake where ducks were nesting,
+the proportion of positive samples remained high (14%) in the autumn after the ducks had
+left for migration, indicating that the virus is able to persist in water (6).
+
+Other studies of the persistence of avian influenza viruses in water have shown that these
+viruses persist for different periods of time depending on temperature, pH and salinity.
+                                              6
+For example, one study showed that viruses survived longest (T90 = 17 days) at 17°C,
+with low levels of salinity and a pH of 8.2 (17). The shortest viability was observed when
+virus was exposed to 28°C with 20 ppt salinity and a pH of 8.2 (T90 = 1.5 days) (10).
+
+Persistence in sewage, excreta and animal wastes
+
+Data and findings from studies on persistence of various avian influenza subtypes in
+untreated sewage, waste and animal faeces are summarized in Annex 1. No specific
+information is available on factors affecting the persistence of H5N1 virus in sewage or
+on the effect of waste treatment processes on H5N1 concentrations. Virus concentrations
+are reduced at different rates and to various extents in both human and animal waste
+treatment processes, depending on conditions, but they are not completely eliminated.
+Furthermore, virus concentrations may be enriched in certain treated or separated waste
+fractions (such as waste solids) by sedimentation and solid–liquid separation processes
+(11).
+
+Studies on the survival of viruses in human faecal wastes and agricultural animal wastes
+have indicated that persistence is dependent on several factors, including the virus type,
+waste type, temperature and other environmental conditions and processes (11). The
+period of avian influenza infectivity in bird faeces and secretions depends on pH and
+temperature conditions, but generally four weeks after infection, avian influenza virus
+can no longer be detected (1). Ducks infected with the H5N1 virus have been found to
+shed the virus at high titres from the trachea as well as from the cloacae, with peak levels
+of virus shedding after three days (12,13).
+
+H5N1 virus was isolated from duck faeces on day 3 post-infection (ducks had been
+infected with 106 EID50 of virus in 1 ml volume) at 2.25–3.75 log10 EID50 per gram fresh
+faeces, but became undetectable after the faeces were dried overnight at room
+temperature (20°C). Virus titres declined in wet faeces kept at 25°C but remained
+detectable for 7 days. When the wet faeces were stored at 4°C, the virus remained viable
+when testing ceased at day 20. At 37°C, the viruses remained detectable in wet faeces
+until day 4 (two viruses) and day 6 (two viruses) (14). These results suggest that freshly
+deposited faeces are highly infective (at any temperature), that H5N1 in faecal deposits
+on land may be more rapidly inactivated than H5N1 in water and that the virus’s survival
+decreases at higher temperatures.
+
+H5N1 typically persists in colder temperatures and produces outbreaks during the colder
+months of the year (15). However, recent (unpublished) studies mentioned above have
+shown that current H5N1 strains survive longer in faeces at warmer temperatures than
+previously circulating viruses (14), which may explain how the virus has resurfaced in
+summer months in Asia.
+
+
+
+
+                                             7
+Does the release of antiviral compound into sewers lead to influenza virus resistance in
+nature?
+
+Potential concern has been raised regarding the possibility that an influenza-specific
+antiviral used for treatment and prophylaxis (oseltamivir) is not removed or degraded
+during normal sewage treatment. This may lead to concentrations in natural waters under
+circumstances such as an influenza pandemic, during which the drug will be administered
+to large numbers of population, reaching levels to which influenza viruses in nature may
+develop resistance. This would then increase the risk that influenza viruses being
+introduced to human beings may become resistant.
+
+To date, there is no credible evidence for such concern because levels of this antiviral
+compound in wastewater will be low and probably lower than levels needed for
+biological activity of oseltamivir in waste water (order of uM in vitro). Therefore, it
+should not be concluded that biological events will occur in a virus (an obligate,
+intracellular biological agent) or its host (cells) that will lead to the emergence of viral
+resistance to the therapeutic drug as a result of its presence in wastewater.
+
+The activated sludge process of biological wastewater treatment has a mean residence
+time of 4-8 (conventional) to 24 (extended aeration) hours. The ability of an anti-
+influenza virus chemical as oseltamivir to survive to such a biologically active exposure
+and biodegradation and biotransformation process is uncertain and has not been
+adequately studied.
+
+Exposure of influenza viruses in (waste) water to an antiviral compound may lead to
+chemical reactions between the virus and the antiviral chemical, such that they would
+react and somehow result in a complex that would lead to biological selection of resistant
+mutants. However, in order for biological selection of resistant virus mutants to occur,
+there must be a living virus host (i.e. a mammal or bird) involved in the process. The
+influenza virus and the antiviral compound must be present together in a living host,
+perhaps as a complex, for virus-host interactions to occur that would lead to virus
+mutations resulting in virus resistance to the compound. These genetic selection
+reactions or mutations will not occur de novo in the extracellular environment, such as in
+sewage or water. To assume that such a biological selection event can simply occur
+because the viruses and the chemicals are both present in the water or wastewater
+environment is both hypothetical and inconsistent with the known role of the biological
+host in the needed biological processes that result in selection of resistant mutant viruses.
+
+
+Persistence in other media relevant to hygiene interventions
+
+Knowing the persistence of virus in or on media such as dust, fomites, air and aerosols
+helps inform effective application of hygiene practices intended to minimize transmission
+of pandemic influenza virus, should it arise. Data and findings from studies on
+persistence of various influenza viruses for these media are summarized in Annex 1.
+
+                                             8
+Site(s) of infection
+
+Infection refers to the entry and multiplication of a pathogenic agent in the body of
+humans or animals. Infection does not necessarily result in disease, as is the case with
+asymptomatic wildfowl carrying low pathogenic avian influenza viruses. Additionally,
+the site of replication is not always the same as the point of entry of a pathogen into the
+body, which could have implications for the types of environmental management
+interventions that would be implemented in the event of pandemic influenza. The site of
+virus replication in mammals may vary and it is important to note that both viral and host
+factors may influence tissue tropism (16) (i.e., the types of cells and tissues infected by a
+virus).
+
+In view of the greater number of virus isolations from the cloaca than from the trachea of
+domestic ducks, avian influenza viruses replicate primarily in the gastrointestinal tract of
+infected waterfowl (2,17). However, in recent studies of H5N1 (12), juvenile mallards
+were inoculated with 23 different H5N1 avian influenza viruses isolated in Asia between
+2003 and 2004. Viruses replicated to higher levels in the trachea than in the cloaca of
+both inoculated and contact birds. Based on these findings, the authors suggest that the
+digestive tract may not be the main site of H5N1 influenza virus replication in ducks.
+
+In humans, influenza A virus replicates primarily in the respiratory tract. However, the
+clinical presentation of infection in humans by H5N1 avian influenza virus provides
+additional suggestive evidence concerning site of infection. The frequent occurrence of
+diarrhoea in infected humans and the detection of viral RNA in most faecal samples tested
+(and infectious virus in one faecal sample) suggest that H5N1 virus may replicate in the
+human gastrointestinal tract (8,18,19). Diarrhoea in humans arising from H5N1 avian
+influenza appears to be more common than in influenza due to human influenza viruses
+and may precede respiratory manifestations by up to one week (19). In fact, in the case of
+two children who died from H5N1 infection (8), both presented with diarrhoea without
+apparent respiratory symptoms.
+
+Although symptoms of avian influenza in humans from viruses other than H5N1 include
+eye infections, it should be noted that patients with H5N1 avian influenza have rarely had
+conjunctivitis (19). Thus, the conjunctival mucosa may be a point of entry for H5N1
+infection, but is not likely a site of viral replication.
+
+
+Routes of transmission
+
+In managing environmental risks we need to understand the routes of virus transmission;
+that is, how it moves through the environment and eventually reaches a site of infection.
+For human influenza viruses, transmission occurs primarily by inhalation of infectious
+droplets or airborne droplet nuclei (aerosols), and direct, or possibly indirect (fomite),
+contact followed by transfer to the upper respiratory tract via the nose, mouth or
+                                           9
+conjunctival mucosa (eyes) (19). Bird-to-human transmission of avian influenza virus is
+likely to encompass these routes, as well as others, including ingestion, for example
+ingestion of contaminated water, although there is, as yet, no evidence of this reported
+(18).
+
+Evidence is lacking on the mechanisms by which the avian influenza H5N1 crosses the
+species barrier from birds to infect humans. Most cases of H5N1 infection in humans are
+the result of direct contact with poultry or with objects or surfaces contaminated with
+faeces from infected poultry (with a few cases of suspected human-to-human contact).
+These observations suggest either a respiratory (e.g. inhalation of infectious aerosols or
+droplets) or faecal–oral route of transmission from birds to humans. However, based on
+the findings of the recent studies with H5N1 virus described earlier (12), in which viruses
+replicated to higher levels in the trachea than in the cloaca of both inoculated and contact
+birds, the faecal–oral route may not be the main transmission path for some influenza A
+subtypes including H5N1. A potential faecal-oral route raises the question of whether
+human faeces could be a source of transmission. The observation of virus in the faeces of
+infected humans does not necessarily mean that there is a faecal–oral route of infection
+for humans or even a faecal–respiratory route, but it may have implications for loads in
+sewer systems and aerosol generation where outbreaks in humans occur.
+
+Given the survival of H5N1 in the environment, several modes of environmental
+transmission are theoretically possible (19). Examples include oral ingestion or aspiration
+of contaminated water during swimming, direct intranasal or conjunctival inoculation
+during exposure to contaminated water, and contamination of hands from infected
+fomites with subsequent self-inoculation. Inhalation or contact with self-inoculation of
+untreated poultry faeces used as fertilizer presents other possible routes.
+
+There is very little information on the role of water in the transmission of influenza
+viruses among waterfowl or to other animals, including humans. One study (7) suggests
+that the faecal–water–oral route is probably significant in transmission of the virus
+between birds, in view of the greater number of virus isolations from the cloaca than from
+the trachea of domestic ducks. The authors suggest that a cycle of waterborne
+transmission and maintenance of influenza viruses exists within the duck communities of
+southern China and that it is conceivable that virus transmission could occur in this
+manner to other susceptible animals, including humans. This conclusion was supported
+by another study in which influenza A virus was isolated throughout the year from faeces
+and/or pond water where dabbling ducks nested in Alaska, USA; recurrent faecal
+contamination of pond water led to transmission of the virus to uninfected ducks (6). The
+fact that waterfowl excrete influenza viruses into water does not confirm waterborne
+transmission between birds; nor does it offer an indication of the extent of the risk of
+infection to humans exposed to the water. Some other viruses are likewise excreted into
+water environments but are not known to be transmitted to a meaningful extent via that
+route (Willie Grabow; personal communication, 13 Nov 2005).
+
+Fomites are any inanimate object (e.g., linens, money, clothing, dishes, doorknobs, toys
+etc.) that can transmit infectious agents from one person to another. Transmission of
+                                           10
+influenza viruses by fomites has not been extensively documented but is believed to
+occur. One study (20) observed that the transmission of influenza virus from donors
+shedding large viral loads could occur for 2-8 hr via stainless steel surfaces and for a few
+minutes via paper tissues. Influenza A virus placed on hard, nonporous surfaces (steel
+and plastic) could be cultured from the surfaces at diminishing titres for <24 to 48 hours
+and from cloth, paper, and tissues for <8 to 12 hours at conditions of 35% to 40%
+humidity and a temperature of 28°C. Higher humidity shortened virus survival. Infectious
+virus on nonporous surfaces could be transferred to hands 24 hours after the surface was
+contaminated, while tissues could transfer virus to hands for 15 minutes after the tissue
+was contaminated. On hands, virus concentration fell by 100- to 1,000-fold within 5 min
+after transfer. The authors concluded that transmitting infection from the surfaces tested
+would require a high titre of virus (around 100 TCID50/mL) on the surface; such titres
+can be found in nasal secretions at an early stage of illness. Thus, under conditions of
+heavy environmental contamination, the transmission of influenza virus via fomites may
+be possible.
+
+Minimizing virus transmission: focus on hygiene
+
+To date, human infections with avian influenza viruses in circulation since 1997 have not
+resulted in sustained human-to-human transmission. If the current avian influenza H5N1
+virus changes to produce a strain that is more transmissible among humans, it could
+signal the start of a pandemic. Strengthening personal hygiene practices to reduce human-
+to-human transmission will help stop or slow the spread of pandemic virus. As important
+is the need to keep hospitals safe and protect patients and healthcare workers from
+infection. Given the uncertainty about the exact modes by which avian influenza,
+including the current H5N1 strains, may be transmitted between humans, enhanced
+infection control precautions for patients with suspected or confirmed avian influenza
+infection appear warranted. There is the need to minimize infection opportunities because
+every infection presents a chance of genetic mutation that might give a rise to pandemic
+virus.
+
+Hygiene in domestic and community settings
+
+Personal hygiene includes individual practices that serve to promote or preserve health
+such as habits of cleanliness. In the case of highly contagious diseases such as influenza,
+special attention should be paid to personal behaviour in community settings as well as
+the household. Public education, including public health messages, is an important part of
+national and local planning for pandemic influenza.
+
+WHO has issued guidance on personal hygiene in health care settings (see next section),
+but such guidance is based on general transmission patterns of seasonal human influenza.
+It is not known how effective this guidance would be in slowing the pandemic spread of a
+new virus strain. Thus, any recommendation that WHO provides before a pandemic, and
+even once a pandemic starts, may be modified once more information about the pandemic
+strain (such as its infectivity and pathogenicity) is obtained.
+
+                                            11
+However, there are basic good health habits that will help reduce the spread of influenza
+virus in the home, school or other community setting. These include hand washing, cough
+etiquette and surface cleaning as described in Annex 2. Additionally, there are several
+studies and reports that identify hygienic practices that may prevent infection and reduce
+the transmission of infectious pathogens (21,22,23,24).
+
+Hygiene in healthcare settings
+
+WHO has produced comprehensive guidance pertaining to infection control in healthcare
+settings, with special emphasis on avian influenza issues (available at:
+http://www.who.int/csr/disease/avian_influenza/guidelinestopics/en/index3.html). Strong
+hygiene practices are always a critical component of infection control. The key
+recommendations for hygiene practice during the care of patients with suspected or
+confirmed avian influenza infection are provided in Annex 3. As indicated above, the
+guidance should be used for planning purposes, but may be modified as the epidemiology
+of avian influenza or pandemic influenza evolves.
+
+Assessment and management of environmental risks
+
+If the site(s) of infection and the routes of transmission are known, it is possible to
+identify exposure scenarios that might pose unacceptable risks to human health 1 .
+Combined with estimates of exposure concentrations and knowledge of the dose–
+response relationship (obtained from infectivity studies or by other means), this
+information may be used to develop quantitative risk assessments for these exposure
+pathways. From the limited information available for the current strain of H5N1 virus, it
+appears that the current risk of human infection is small or nonexistent for environmental
+exposure pathways associated with virus transmission through water, sewage or fomites.
+However, should evidence emerge that a highly pathogenic form of the virus is adapting
+better to humans, the risks presented by environmental media might increase.
+
+As a framework for guidance on the management of environmental risks that would be
+needed in the event of pandemic influenza, we identify a general set of potential exposure
+scenarios below. Possible prevention and control measures are discussed with the
+understanding that measures will need to be tailored to the specific settings and
+conditions faced by potentially exposed individuals. These scenarios retain the
+assumption that humans can be infected by respiration, contact (with transfer to eyes,
+nose or mouth) or ingestion of the virus.
+
+Scenario 1: Consumption of virus-contaminated drinking water.
+
+
+
+1
+  Note on infection versus disease: For infectious diseases, an individual may become infected without
+disease symptoms for short or long periods of time. During this time, such individuals still may be
+infectious. When infection without disease is sustained, this is referred to as "carrier state." As yet, no
+information about the carrier state is available for the H5N1 virus. Thus, the current focus of control is on
+preventing exposure leading to infection, thereby controlling the potential for disease.
+                                                      12
+Sources of drinking water that may be susceptible to avian influenza virus contamination
+include surface water bodies (e.g., reservoirs, ponds, lakes and rivers), groundwater
+aquifers and rainwater collection systems. Of these sources, open water bodies where
+infected waterfowl gather are the most likely potential route of entry of virus into the
+drinking water supply. The risk to humans will depend on a variety of factors, including
+the use to which the water is put, the health status of the humans (e.g.
+immunocompromised versus healthy), and whether or not the water is treated.
+
+In open water bodies, many variables will influence the probability of virus
+contamination and the persistence/survival of these viruses, including whether the stored
+water is on a natural flyway for waterfowl, the number of birds stopping over, the
+availability of food for waterfowl in that water, the time of year, temperature, pH and the
+length of time between deposition of faecal material and the draw off of water. The
+probability of having detectable levels of influenza viruses in such bodies of water is
+likely to be higher in the seasons when migratory birds are passing through the area.
+
+There is no available epidemiological evidence associating wildfowl excreta or death in
+storage reservoirs of either treated or untreated drinking water with avian influenza
+disease in humans. Moreover, qualitative and quantitative risk assessments for avian
+influenza infection of humans through consumption of contaminated drinking water in
+France and the Netherlands, respectively, estimated a daily risk of infection to be below
+health-based standards (25,26). Nevertheless, it is theoretically possible that transmission
+of avian influenza could occur in specific local circumstances were a series of factors to
+coincide. These could include wildfowl and domestic poultry contamination of storages,
+distribution of water without treatment (including without disinfection); and household
+use that gave rise to an infectious exposure, possibly through the oral ingestion of
+contaminated water, or conjunctival inoculation through face washing with contaminated
+water or contaminated hands.
+
+Prevention and control measures can be suggested to minimize, if not eliminate, the risk
+from the consumption of contaminated water. Water supplies receiving treatment as
+recommended in the WHO Guidelines for Drinking Water Quality 2 are unlikely to pose a
+significant risk of infection even if infected waterfowl are present in source waters. Due
+to their structure, influenza viruses are relatively susceptible to disinfectants, including
+oxidizing agents such as chlorine and ozone. They are also readily inactivated by heating,
+so boiling would also be effective 3
+
+Authorities charged with managing any potential risk may consider ensuring chlorination
+or alternative disinfectant residuals be maintained throughout distribution. For effective
+disinfection of adequately pre-treated water, there should be a residual concentration of
+2
+  Including, for example, a residual concentration of free chlorine of ≥0.5 mg/litre after at least 30 min
+contact time at pH <8.0. WHO (2004) Guidelines for Drinking Water Quality, Third Edition, p 194;
+Geneva, World Health Organization Available at
+http://www.who.int/water_sanitation_health/dwq/gdwq3/en/index.html
+3
+  WHO Guidelines for Drinking Water Quality recommend bringing water to a rolling boil to assure
+adequate water disinfection.
+                                                      13
+free chlorine of at least 0.5 mg/litre after at least 30 min contact time at pH <8.0.
+Additionally, the residual concentration leaving the treatment plant should be capable of
+maintaining a free chlorine concentration of 0.2 mg/litre throughout the distribution
+system. Where household water safety is suspect, authorities should consider advising
+families to treat their drinking water with available and acceptable household-level
+interventions, including home chlorination (addition of bleach) and boiling, that are
+effective at inactivating viruses. Guidance for household-level interventions is provided
+in Annex 4
+
+Scenario 2: Bathing/Recreational contact with virus-contaminated water bodies.
+
+Potential modes of transmission to humans of avian influenza virus during recreational
+use or bathing in contaminated water include oral ingestion, aspiration of contaminated
+water and direct intranasal or conjunctival inoculation. The potential for exposure is
+greatest in open bodies of water receiving significant waterfowl populations depending,
+in part, on the number of birds and the time of year.
+
+While the majority of human cases of H5N1 have been attributed to close contact with
+infected poultry or poultry faeces, the possibility of developing the disease following
+swimming or bathing in water with high loads of avian influenza virus has been
+suggested in two cases in Vietnam (27). Disease reportedly developed in a 35-year-old
+woman and an unrelated 9-year-old girl following swimming in water. The water in
+which the 35-year-old women bathed had reportedly been used for the disposal of dead
+poultry. However, it is not possible to conclusively attribute the infection to aspiration or
+ingestion of this potentially contaminated water, or to another type of exposure. Another
+potential case occurred in Cambodia where an 8-year-old female may have been exposed
+to the virus through recreational contact with contaminated water, where asymptomatic
+ducks may have shed virus into the pond. However, again, there is no evidence to
+confirm this hypothesis (Dr. Megge Miller, WHO Cambodia; personal communication,
+24 May 2006).
+
+Data on both exposure and effects assessment for avian influenza viruses in recreational
+exposures are lacking. Risk assessments for recreational exposure to other viruses may be
+useful as a model. For example, an assessment of adenoviruses in recreational water (28)
+modeled the risk of infection due to consumption during swimming.
+
+Water bodies used for recreational purposes are almost never treated, and treatment may
+not be feasible. Authorities concerned can manage any potential risk from highly
+contaminated waters by advising the public of this risk, and, where a high degree or risk
+has been identified, by restricting human access to potentially hazardous sites.
+
+Scenario 3: Exposure to poorly managed excreta and wastewater that harbour the virus.
+
+There is some evidence to show that H5N1 is excreted in human faeces (8), and all
+influenza A viruses can be transmitted in the faeces of avian species. Human and animal
+excreta are most often managed separately. However, there are settings and scenarios
+                                            14
+where animal waste may be combined with human waste. If the sewage from poultry
+houses is mixed with human sewage, for example, there could be a risk of transmitting
+influenza through interconnected sewage pipes and non-sealed venting. In such
+situations, prevention and control measures should focus on reducing airborne droplet
+and aerosol transmission. Sewers should never be vented through human living quarters.
+Other means of excreta disposal where aerosol formation is unlikely, such as latrines,
+probably represent an extremely low risk of virus transmission.
+
+Scenario 4: Occupational exposure at sewage treatment facilities.
+
+Under current conditions, where the virus has not adapted to humans, there is no
+significant risk to sewage workers, provided that poultry house discharge is not included
+with human sewage. If human-to-human transmission of HPAI virus increases
+significantly, human excreta in outbreak areas could contain avian influenza viruses shed
+by humans and the exposure risks to sewage workers would need to be reconsidered.
+Based on the epidemiological evidence for this human adapted form of the virus,
+contaminated sewage might need treatment to reduce virus numbers, and measures might
+be needed to reduce aerosol generation and exposure of individuals to aerosols (e.g., use
+of protective clothing, such as masks). As mentioned above, although there is no specific
+information available on the response of H5N1 virus to waste treatment processes, virus
+concentrations are generally reduced at various rates and to various extents in both
+human and animal waste treatment processes, but they are not completely eliminated
+(11). If the human sewage is mixed with contaminated animal waste, similar precautions
+would need to be taken.
+
+Future research directions
+
+The virus that may one day bring about a new influenza pandemic does not yet exist. In
+the absence of virus-specific information, studies of existing potential precursors, such as
+the avian influenza virus H5N1, and related subtypes can shed light on potential risk
+factors and thus aid decision makers in planning and preparedness activities. With respect
+to water, sanitation and hygiene, little is known about the specific risk factors posed by
+H5N1 avian influenza for the human population. There is a paucity of information on the
+presence and stability of the H5N1 virus in water and sewage. Further, the site(s) of
+infection and the route(s) of transmission of H5N1 avian influenza virus that presently
+causes disease in some birds and, in rare instances, humans are likely to change in future
+pandemic strains.
+
+When H5N1 cases in humans arise, the focus is often on collection of specimen samples
+for case management and epidemiological data to trace the origin of disease.
+Opportunities for environmental sample collection that could help fill the knowledge
+gaps described in this report are often overlooked. Additional data on the survival of the
+H5N1 virus in water and sewage under field conditions would improve exposure
+assessment. Quantitative estimates of the range of influenza virus concentrations in bird
+faeces and in waters in which birds have congregated would provide better information
+on the potential viral loads that could be shed into the environment. From this, virus
+                                            15
+concentration could be estimated based on dilution factors of faeces in water resources.
+Thus, there is a need for environmental sampling protocols that can provide investigators
+with well documented, representative samples while recognizing the time-constrained,
+resource-limited conditions faced by the field team.
+
+More information is needed about the inactivation of avian influenza H5N1 viruses in
+water and in avian waste. Specifically, information on the means and methods for
+effective disinfection at all levels of water and wastewater treatment (household,
+healthcare settings, community systems).
+
+In the event a new strain of virus with efficient human-to-human transmission emerges,
+the window of opportunity to intervene could be very small. Rapid response and effective
+infection control in healthcare and community settings will require a number of public
+health intervention strategies. While standard precautions and good hygiene practice have
+been developed for seasonal human influenza, these need to be underpinned by virus-
+specific research on the efficacy and effectiveness of barrier and behavioural approaches
+to infection control.
+
+Acknowledgements
+
+The preparation of an initial draft by Robert Webster and Diane Hulse-Poste, both of St.
+Jude Children's Research Hospital, Memphis, Tennessee is gratefully acknowledged.
+
+Thanks are also due to the following individuals who contributed to the writing or
+provided constructive comments: Albert Bosch, University of Barcelona, Barcelona,
+Spain; Ana Maria de Roda Husman, National Institute of Public Health and the
+Environment (RIVM), Bilthoven, The Netherlands; Christophe Gantzer, Laboratoire de
+Chimie Physique et Microbiologie pour l'Environnement (LCPME), Nancy, France;
+Chuck Gerba, University of Arizona, Tucson, Arizona, USA; Willie Grabow, retired
+(formerly of University of Pretoria, Pretoria, South Africa); Huang Baoxu, China
+Epizootiology Centre Qingdao, China; Gertjan Medema, Kiwa Water Research,
+Nieuwegein, The Netherlands; Pierre Payment, University of Quebec, Montreal, Quebec,
+Canada; Mark Sobsey, University of North Carolina, Chapel Hill, North Carolina, USA;
+Marla Sheffer of Ottawa, Ontario, Canada; Melita Stevens, Melbourne Water,
+Melbourne, Victoria, Australia; Gary Toranzos, University of Puerto Rico, Rio Piedras,
+Puerto Rico; Carl-Henrik von Bonsdorff, Helsinki University, Helsinki, Finland; and
+Peter Wyn-Jones, University of Sunderland, Sunderland, United Kingdom.
+
+This input from the following WHO staff working on influenza-related issues and water
+and sanitation, is also very much appreciated: Houssain Abouzaid, Roger Aertgeerts,
+Lisa August, Jamie Bartram, Yves Chartier, Alice Crosier, Keiji Fukuda, Bruce Gordon,
+Peter Horby, Megge Miller, Michael Perdue, Cristiana Salvi, Suzanne Scheele, Carmem
+Pessoa Da Silva, Hiroko Takasawa, Terrence Thompson, Wenjie Wang.
+
+References and Further Reading
+
+                                           16
+1.    Cardona CJ (undated) Avian influenza. University of California Davis Veterinary
+      Medicine Extension, Davis, California. Available online at
+      http://www.vetmed.ucdavis.edu/vetext/INF-PO_AvianInfluenzaFS.html (accessed 20
+      March 2006).
+2.    Webster RG, Yakhno M, Hinshaw VS, Bean WJ and Murti KG (1978) Intestinal
+      influenza: replication and characterization of influenza viruses in ducks. Virology,
+      84(2):268–278.
+3.    Regional Lead Centre in China Asian-Pacific Regional Research and Training Centre
+      for Integrated Fish Farming Wuxi, China (1985) Chapter III. Pond fertilization and
+      fish feed in: Training manual: Integrated fish farming in China. Network of
+      Aquaculture Centres in Asia (NACA), Bangkok, Thailand, September 1985,
+      (NACA/TR/85/11). Available online at
+      http://www.fao.org/docrep/field/003/AC233E/AC233E03.htm.
+4.    Hinshaw VS, Webster RG and Turner B (1979) Water-borne transmission of
+      influenza A viruses? Intervirology, 11:66–68.
+5.    Halvorson D et al. (1983) Epizootiology of avian influenza — simultaneous
+      monitoring of sentinel ducks and turkeys in Minnesota. Avian Diseases, 27:77–85.
+6.    Ito T, Okazaki K, Kawaoka Y, Takada A, Webster RG and Kida H (1995)
+      Perpetuation of influenza A viruses in Alaskan waterfowl reservoirs. Archives of
+      Virology, 140:1163–1172.
+7.    Markwell DD and Shortridge KF (1982) Possible waterborne transmission and
+      maintenance of influenza viruses in domestic ducks. Applied and Environmental
+      Microbiology, 43(1):110–116. Available online at
+      http://pubmedcentral.gov/pagerender.fcgi?artid=241789&pageindex=1#page
+8.    De Jong MD, Van Cam B, Qui PT, Hien VM, Thanh TT, Hue NB, Beld M, Phuong
+      LT, Khanh TH, Ha DQ and Ferrar J (2005) Fatal avian influenza A (H5N1) in a child
+      presenting with diarrhea followed by coma. The New England Journal of Medicine,
+      352:686–691.
+9.    Stallknecht DE et al. (1990) Persistence of avian influenza viruses in water. Avian
+      Diseases, 34:406–411.
+10.   Stallknecht DE et al. (1990) Effects of pH, temperature, and salinity on persistence
+      of avian influenza viruses in water. Avian Diseases, 34:412–418.
+11.   Sobsey MD and Meschke JS (2003) Virus survival in the environment with special
+      attention to survival in sewage droplets and other environmental media of fecal or
+      respiratory origin. Draft (dated 21 August 2003) prepared for a World Health
+      Organization meeting (International SARS Symposium) held on 23–25 September
+      2003 in Rome, Italy.
+12.   Sturm-Ramirez KM, Hulse-Post DJ, Govorkova EA, Humberd J, Seiler P,
+      Puthavathana P, Buranathai C, Nguyen TD, Chaisingh A, Long HT, Naipospos TSP,
+      Chen H, Ellis TM, Guan Y, Peiris JSM and Webster RG (2005) Are ducks
+      contributing to the endemicity of highly pathogenic H5N1 influenza virus in Asia?
+      Journal of Virology, 79(17):11269–11279.
+13.   Hulse-Post DJ, Sturm-Ramirez KM, Humberd J, Seiler P, Govorkova EA, Krauss S,
+      Scholtissek C, Puthavathana P, Buranathai C, Nguyen TD, Long HT, Naipospos
+      TSP, Chen H, Ellis TM, Guan Y, Peiris JSM and Webster RG (2005) Role of
+      domestic ducks in the propagation and biological evolution of highly pathogenic
+                                               17
+      H5N1 influenza viruses in Asia. Proceedings of the National Academy of Sciences of
+      the United States of America, 102(30):10682–10687.
+14.   Hulse-Post DJ and Webster RG (2005) Unpublished data. Memphis, Tennessee, St.
+      Jude Children’s Research Hospital, Department of Infectious Diseases, Division of
+      Virology.
+15.   Li KS, Guan Y, Wang J, Smith GJD, Xu KM, Duan L, Rahardjo AP, Puthavathana
+      P, Buranathai C, Nguyen TD, Estoepangestie ATS, Chaisingh A, Auewarakul P,
+      Long HT, Hanh NTH, Webby RJ, Poon LLM, Chen H, Shortridge KF, Yuen KY,
+      Webster RG and Peiris JSM (2004) Genesis of a highly pathogenic and potentially
+      pandemic H5N1 influenza virus in eastern Asia. Nature, 430:209–213.
+16.   Kawaoka Y, Bordwell E and Webster RG (1987) Intestinal replication of influenza A
+      viruses in two mammalian species. Archives of Virology, 93:303–308.
+17.   Slemons RD and Easterday BC (1978) Virus replication in the digestive tract of
+      ducks exposed by aerosol to type-A influenza. Avian Diseases, 22:367–377.
+18.   Hayden F and Croisier A (2005) Transmission of avian influenza viruses to and
+      between humans. The Journal of Infectious Diseases, 192(8):1311–1314.
+19.   The Writing Committee of the World Health Organization (WHO) Consultation on
+      Human Influenza A/H5 (2005) Avian influenza A (H5N1) infection in humans. The
+      New England Journal of Medicine, 353(13):1374–1385.
+20.   Bean B, Moore BM, Sterner B, Peterson LR, Gerding DN, Balfour HH Jr. (1982)
+      Survival of influenza viruses on environmental surfaces. The Journal of Infectious
+      Diseases; 146(1):47–51.
+21.   International Scientific Forum on Home Hygiene (2002) Guidelines for prevention of
+      infection and cross-infection in the domestic environment.
+22.   International Scientific Forum on Home Hygiene (2002) Hygiene procedures in the
+      home and their effectiveness: a review of the scientific evidence base.
+23.   International Scientific Forum on Home Hygiene (in press) Home Hygiene in
+      Developing Countries - Prevention of infection in the home and the peri-domestic
+      setting: A training resource on hygiene for teachers, community nurses, community
+      workers and other health professionals in developing countries.
+24.   Barker J, Stevens D, Bloomfield SF (2001) Spread and prevention of some common
+      viral infections in community facilities and domestic homes. Journal of Applied
+      Microbiology, 91:7-21.
+25.   L’Agence française de sécurité sanitaire des aliments (AFSSA) (2006) Avis de
+      l'Afssa en date du 15 Mars 2006 relatif à l'évaluation qualitative du risque sanitaire
+      pour l'homme lié à la présence dans l'eau destinée à la consommation humaine et
+      dans divers effluents aqueux de virus influenza hautement pathogène, dans le cas
+      d'une épizootie ou dans le cas d'une épidémie humaine [AFFSA advice, dated 15
+      March 2006, in relation to the qualitative sanitary risk evaluation associated with
+      highly pathogenic influenza viruses present in water intended for human
+      consumption and in various effluents in the case of an epizooty or human epidemic].
+      Available online at
+      http://www.afssa.fr/Object.asp?IdObj=34669&Pge=0&CCH=060609092515:26:4&cwSID=41
+      BCD42F351B497A866D8D128481C0C9&AID=0.
+
+
+
+                                             18
+26. Schijven JF, Teunis PFM and de Roda Husman AM (2005) Quantitative risk
+    assessment of avian influenza virus infection via water. Report in prepared for the
+    Environmental Inspectorate for the Netherlands (RIVM report 703719012).
+27. Cooperative Research Centre (CRC) (2005) Avian influenza: Is there a risk to water
+    supplies? Health Stream, Issue 40, December 2005. Available online at
+    http://www.waterquality.crc.org.au/hsarch/hs40m.htm (accessed 20 March 2006).
+28. Van Heerden J, Ehlers MM, Vivier JC and Grabow WOK (2005) Risk assessment of
+    adenoviruses detected in treated drinking water and recreational water. Journal of
+    Applied Microbiology, 99:926-933.
+
+Further Reading:
+CDC. Key facts about avian influenza (Bird Flu) and avian influenza A (H5N1) virus.
+Atlanta, Georgia, United States Department of Health and Human Services, Centers for
+Disease Control and Prevention. Available online at http://www.cdc.gov/flu/avian/gen-
+info/facts.htm (updated 7 February 2006; accessed 20 March 2006).
+WHO (2005) Avian influenza. Geneva, World Health Organization. Online at
+http://www.who.int/csr/disease/avian_influenza/en/ (updated 9 February 2006; accessed
+13 February 2006).
+WHO. Guidelines for drinking-water quality (available at
+http://www.who.int/water_sanitation_health/dwq/gdwq3/en/index.html).
+WHO. Guidelines for safe recreational waters Volume 1 - Coastal and fresh waters
+(available at http://www.who.int/water_sanitation_health/bathing/srwe1/en/).
+WHO. Non-pharmaceutical interventions: their role in reducing transmission and spread.
+Available from
+http://www.who.int/csr/disease/avian_influenza/pharmaintervention2005_11_3/en/index.
+html
+World Health Organization Writing Group (2006) Nonpharmaceutical public health
+interventions for pandemic influenza, national and community measures. Emerging
+Infectious Diseases; 12:88–94.
+
+
+
+
+                                          19
+Annex 1
+Studies of virus persistence in various media
+
+
+  Medium       Virus             Reported Finding2                        Reference
+             Category1                                           (see listing following table)
+
+   Water       AIV       Feces diluted in untreated             Webster et al., 1978
+                         Mississippi River water (pH =6.8)
+                         were infective up to 4 days at 22°C.
+
+
+   Water       AIV       Feces diluted in untreated             Webster et al., 1978
+                         Mississippi River water (pH =6.8)
+                         were infective over 30 days at 0°C
+                         (Dt = 8.4 days).
+
+   Water       AIV       Water inoculated with infected duck    Hinshaw et al., 1979
+                         faeces retained infectious virus 4
+                         days at 22°C.
+
+   Water       AIV       Water inoculated with infected duck Hinshaw et al., 1979
+                         faeces retained infectious virus over
+                         30 days at 0°C.
+
+   Water       AIV       Viable up to 32 days.                  Animal Health Australia,
+                                                                Ausvetplan 2005
+
+   Water       AIV       Stable over pH range of 5.5 to 8.      Animal Health Australia,
+                                                                Ausvetplan 2005
+
+   Water       AIV       Estimated infectivity of LPAI viruses Stallknecht et al., 1990a
+                         in distilled water 207d at 17°C (Dt =
+                         21-34.5 days) based on linear
+                         regression.
+
+   Water       AIV       Estimated infectivity of LPAI viruses Stallknecht et al., 1990a
+                         in distilled water 102 days at 28°C
+                         (Dt = 5-17 days) based on linear
+                         regression.
+
+   Water       AIV       Estimated infectivity of H6N1 virus  Stallknecht et al., 1990b
+                         was longest at 17°C (100 days) and
+                         shortest at 28°C (9 days) based on
+                         linear regression in distilled water
+                         system.
+
+   Water       AIV       AIVs are stable at neutral to 8.5 pH   Stallknecht et al., 1990b
+                         and more stable than human IVs
+                         below 6.0 pH.
+
+                                          20
+Medium        Virus             Reported Finding2                        Reference
+            Category1                                           (see listing following table)
+
+ Water        AIV       Modeled and natural systems show       Stallknecht et al., 1990b
+                        duration of infectivity decreasing
+                        with increased salinity and pH
+                        (greatest infectivity with cooler,
+                        freshwater habitats ranging 7.4-7.8
+                        pH).
+
+
+
+ Water        AIV       For solids-associated viruses in       Markwell and Shortridge,
+                        water, no convincing evidence that     1982
+                        pond water temp, bacterial count or
+                        pH of duck faeces had significant
+                        effect on virus occurrence.
+
+
+ Water       General    Viruses are less persistent in natural Sobsey and Meschke, 2003
+                        waters and other media compared
+                        to same media that have been
+                        sterilized (microbes play role in viral
+                        inactivation).
+
+ Water       General    Temperature is the most important Yates et al., 1985
+                        predictor of virus persistence in well
+                        water.
+
+ Water       General    Viruses persisted for longer periods   Yates et al., 1985
+                        in well water than surface water
+                        samples incubated at similar temp.
+
+
+Untreated     AIV       H7N2 mixed with field chicken          Lu et al., 2003
+Sewage/                 manure effectively inactivated in
+ waste                  less than 1 week at ambient (15-
+                        20°C) temp.
+
+Untreated    General    Viruses are not eliminated by          Sobsey and Meschke, 2003
+Sewage/                 conventional treatment and may be
+ waste                  enriched in solids fraction.
+
+Untreated    General    Enveloped viruses are less             Sobsey and Meschke, 2003
+Sewage/                 persistent than nonenveloped
+ waste                  viruses.
+
+ Faeces       AIV       Infective for 7 days at 20°C.          Webster et al., 1978
+
+ Faeces       AIV       Infective over 30 days at 4°C.         Webster et al., 1978
+
+ Faeces       AIV       Viable up to 32 days in waterfowl.     Animal Health Australia,
+                                                               Ausvetplan, 2005
+
+                                          21
+  Medium          Virus              Reported Finding2                       Reference
+                Category1                                           (see listing following table)
+
+   Faeces         AIV       Longer survival in high moisture, low Animal Health Australia,
+                            temperature conditions.               Ausvetplan, 2005
+
+   Faeces         AIV       H5N2 detectable in infective, wet      European Food Safety
+                            manure at ambient temperature          Authority, 2005
+                            after 105 days.
+
+    Birds         H5N1      Ducks inoculated with 2003/2004        Hulse-Post et al., 2005
+                            isolates shed 11-17 days.
+
+    Birds         H5N1      Ducks inoculated with 2002 isolates Sturm-Ramirez et al., 2004
+                            shed up to 10 days from trachea
+                            and up to 4 days from cloaca.
+
+
+    Birds         AIV       Shed in faeces and from respiratory Webster et al., 1978
+                            tract 2 weeks-30 days after
+                            recovery.
+
+    Birds         AIV       Recovered virus after 23 days at       Animal Health Australia,
+                            4°C from wild bird carcasses (other    Ausvetplan, 2005
+                            than waterfowl).
+
+    Birds         AIV       Recovered virus up to 7 days from      Animal Health Australia,
+                            game birds.                            Ausvetplan, 2005
+
+    Birds         AIV       Cloacal shedding more than 30          Animal Health Australia,
+                            days.                                  Ausvetplan, 2005
+
+    Birds         AIV       Virus not detected four weeks after    Cardona (online, no date)
+                            infection.
+
+    Birds         AIV       H7N2 virus not detected in most        Lu et al., 2003
+                            infected chickens after one week,
+                            but up to 31 days for one sample.
+
+
+    Birds         AIV       H7N2 infectivity in chlorioallantoic   Lu et al., 2003
+                            fluid destroyed in less than 30
+                            minutes at pH 2 or by heating at
+                            56°C or by exposure to 70%
+                            ethanol.
+
+Other Animals     AIV       Recovered virus several days post-     Animal Health Australia,
+                            infection in pig, ferrets and cats.    Ausvetplan, 2005
+
+
+   Dust/          AIV       Detected in poultry house 2 weeks      Animal Health Australia,
+  Fomites                   post-depopulation.                     Ausvetplan, 2005
+
+
+                                              22
+    Medium             Virus               Reported Finding2                          Reference
+                     Category1                                               (see listing following table)
+
+     Dust/              IV        Influenza A viruses survived 24-48 Bean et al., 1982
+    Fomites                       hours on hard, nonporous surfaces.
+
+
+     Dust/              IV        Influenza A viruses survived less   Bean et al., 1982
+    Fomites                       than 8-12 hours on paper, cloth and
+                                  tissues.
+
+     Dust/              IV        Influenza A viruses survived on      Bean et al., 1982
+    Fomites                       hands up to 5 minutes after transfer
+                                  from environmental surface.
+
+
+     Dust/              IV        Influenza can survive several weeks Sobsey and Meschke, 2003
+    Fomites                       on dust, cotton sheets and glass
+                                  slides at 22°C.
+
+  Aerosols/Air         AIV        Longer survival in high relative         Animal Health Australia,
+                                  humidity, low temperature                Ausvetplan, 2005
+                                  conditions.
+
+  Aerosols/Air         AIV        Detected virus in air samples only to Animal Health Australia,
+                                  45 metres downwind of infected        Ausvetplan, 2005
+                                  flocks.
+
+  Aerosols/Air          IV        Generally, viruses with lipids in outer Sobsey and Meschke, 2003
+                                  coat are more stable at low relative
+                                  humidity.
+1 AIV: avian influenza virus
+  IV: influenza virus
+  General: multiple virus types
+
+2 Not for citation. Reader should refer to original reference for context and study limitations before using
+  this information.
+
+List of References
+
+   Animal Health Australia (2005) Disease strategy: Avian influenza (Version 3.1). Australian Veterinary
+   Emergency Plan (AUSVETPLAN), Edition 3, Primary Industries Ministerial Council, Canberra, ACT.
+
+   Bean B, Moore BM, Sterner B, Peterson LR, Gerding DN, Balfour HH Jr. (1982) Survival of influenza
+   viruses on environmental surfaces. The Journal of Infectious Diseases; 146(1):47–51.
+
+   Cardona CJ (undated) Avian influenza. University of California Davis Veterinary Medicine Extension,
+   Davis, California. Available online at http://www.vetmed.ucdavis.edu/vetext/INF-
+   PO_AvianInfluenzaFS.html (accessed 20 March 2006).
+
+   European Food Safety Authority (2005) Animal health and welfare aspects of avian influenza. Annex
+   to: The EFSA Journal 266, 1-21; adopted 14-Sep-2005.
+
+                                                    23
+Hinshaw VS, Webster RG and Turner B (1979) Water-borne transmission of influenza A viruses?
+Intervirology, 11:66–68.
+
+Lu H, Castro AE, Pennick K, Liu J, Yang Q, Dunn P, Weinstock D, and Henzler D (2003) Survival of
+avian influenza virus H7N2 in SPF chickens and their environments. Avian Diseases, 47(s3):1015-
+1021.
+
+Markwell DD and Shortridge KF (1982) Possible waterborne transmission and maintenance of
+influenza viruses in domestic ducks. Applied and Environmental Microbiology, 43(1):110-116.
+
+Sobsey MD and Meschke JS (2003) Virus survival in the environment with special attention to survival
+in sewage droplets and other environmental media of fecal or respiratory origin. Draft (dated 21
+August 2003) prepared for a World Health Organization meeting (International SARS Symposium) held
+on 23-25 September 2003 in Rome, Italy.
+
+Stallknecht DE, Shane SM, Kearney MT, and Zwank PJ (1990) Persistence of avian influenza viruses in
+water. Avian Diseases, 34:406-411.
+
+Stallknecht DE, Kearney MT, Shane SM, and Zwank PJ (1990) Effects of pH, temperature, and salinity
+on persistence of avian influenza viruses in water. Avian Diseases, 34:412-418.
+
+Sturm-Ramirez KM, Hulse-Post DJ, Govorkova EA, Humberd J, Seiler P, Puthavathana P, Buranathai
+C, Nguyen TD, Chaisingh A, Long HT, Naipospos TSP, Chen H, Ellis TM, Guan Y, Peiris JSM and
+Webster RG (2005) Are ducks contributing to the endemicity of highly pathogenic H5N1 influenza
+virus in Asia? Journal of Virology, 79(17):11269-11279.
+
+Webster RG, Yakhno M, Hinshaw VS, Bean WJ and Murti KG (1978) Intestinal influenza: replication
+and characterization of influenza viruses in ducks. Virology, 84(2):268-278.
+
+Yates MV, Gerba CP and Kelley LM (1985) Virus persistence in groundwater. Applied and
+Environmental Microbiology, 49(4):778-781.
+
+
+
+
+                                              24
+   Annex 2
+Hygiene in Domestic and Community Settings
+
+Precautions for the home
+
+Basic good health habits that will help reduce the spread of influenza virus in the home
+include:
+• Cover your mouth and nose with a tissue when coughing or sneezing.
+• Wash your hands often, especially:
+   −   Before, during, and after you prepare food
+   −   Before you eat
+   −   After you use the bathroom
+   −   After handling animals or animal waste
+   −   When your hands are dirty, and
+   −   More frequently when someone in your home is sick.
+• Avoid touching your eyes, nose or mouth. Infections are often spread when a person
+   touches something that is contaminated with germs and then touches his or her eyes,
+   nose, or mouth.
+
+Cleaning and disinfection of household surfaces likely to be contaminated by infectious
+secretions appears worthwhile, but no evidence supports the efficacy of widespread
+disinfection of air.
+
+Precautions for schools
+
+As part of pandemic influenza planning, special attention should be given to teaching
+staff, children, and their parents on how to limit the spread of infection. Programs should
+already be teaching these things (for example, use good hand washing; cover the mouth
+when coughing or sneezing; clean toys frequently) to build habits that protect children
+from influenza disease in general.
+
+Handwashing and respiratory hygiene/cough behaviours should be routine for all and
+strongly encouraged in public health messages. Such practices should be facilitated by
+making hand-hygiene facilities available in schools. Keep a good supply of things you
+will need to help control the spread of infection (soap, paper towels, and tissues). Store
+the supplies in easy-to-find places.
+
+
+
+
+                                             25
+Further Reading
+
+Bean B, Moore BM, Sterner B, Peterson LR, Gerding DN, Balfour HH Jr. (1982)
+Survival of influenza viruses on environmental surfaces. Journal of Infectious Disease;
+146:47–51.
+Centers for Disease Control and Prevention; Schools, Childcare Providers, and Parents.
+Available at http://www.cdc.gov/flu/school/.
+World Health Organization Writing Group (2005) Non-pharmaceutical interventions:
+their role in reducing transmission and spread. Available from
+http://www.who.int/csr/disease/avian_influenza/pharmaintervention2005_11_3/en/index.
+html
+World Health Organization Writing Group (2006) Nonpharmaceutical public health
+interventions for pandemic influenza, national and community measures. Emerging
+Infectious Diseases;12(1):88–94.
+
+
+
+
+                                           26
+Annex 3
+Water, Sanitation, Hygiene and Waste management in Health Care
+Settings relevant to Influenza A (H5N1) infection
+
+Drinking water
+
+Avian influenza viruses can persist for extended periods of time in water depending on
+temperature, pH and salinity but information on environmental persistence of H5N1 in
+water is lacking 1. As influenza A (H5N1) infection is frequently accompanied by
+gastrointestinal symptoms, it could indicate that H5N1 may enter the host through a
+faecal-oral route. Based on the little evidence available there is a small but potential risk.
+WHO recommends 2 the following guidelines, applicable to health care settings, which
+may be adapted to national standards.
+1. Microbiological quality
+   E. coli or thermotolerant coliform bacteria must not be detectable in any 100-ml
+   sample
+2. Disinfection
+   Free residual chlorine content at discharge points:
+    -   0.2-0.5mg/l (pH < 8) minimum 30 minutes contact time
+    -   0.4-1.0mg/l (pH > 8) minimum 60 minutes contact time
+3. Chemical and radiological quality
+   Water meets WHO Guidelines for Drinking-Water Quality or national standards
+   concerning chemical and radiological parameters
+4. Turbidity
+   Maximum turbidity is 5 NTU
+5. Acceptability
+   There are no tastes, odours or colours that would discourage consumption of the
+   water
+
+See also Guidelines for drinking-water quality, WHO 3
+
+Hand hygiene
+
+Hand hygiene remains a prerequisite requirement to prevent the transmission of diseases.
+In environments where H5N1 may be present, hand hygiene, which includes hand
+washing and the use of alcohol-based hand rubs, is critical to prevent possible inoculation
+of the nose, mouth, and conjunctivae by contaminated hands. Hand hygiene is also
+necessary to limit the potential for transmission of other nosocomial infections.
+
+
+                                              27
+When visibly dirty or contaminated with proteinaceous material, or visibly soiled with
+blood or other body fluids, wash hands with either a plain or antimicrobial soap and water
+and rub hands together vigorously for at least 30 seconds, covering all surfaces of the
+hands and fingers. Rinse hands with water and dry thoroughly with a disposable towel.
+Use towel to turn off the faucet.4
+
+If hands are not visibly dirty, use an alcohol-based preparation. Many studies have
+demonstrated that influenza, an enveloped virus, is susceptible to alcohols when tested in
+vitro5 and in vivo testing with a 95% ethyl alcohol hand disinfectant reduced influenza
+virus on hands by a log10 reduction > 2.5.6 Ethyl alcohol has greater activity against
+viruses than isopropyl alcohol 7, therefore, ethyl alcohol-based hand disinfection products
+may be preferred over isopropyl alcohol products in settings where transmission of
+influenza H5N1 is of concern.
+
+When decontaminating hands with an alcohol-based hand rub, apply product to palm of
+one hand and rub hands together, covering all surfaces of hands and fingers, until hands
+are dry. Follow the manufacturer's recommendations regarding the volume of product to
+use.4
+
+Soiled surfaces
+
+• Cleaning MUST precede disinfection. Items and surfaces cannot be disinfected if they
+  are not first cleaned of any kind of organic matter (patient's excretions, secretions, dirt,
+  soil, etc). Disinfection is a process of killing microorganisms without complete
+  sterilization. Avian influenza virus is inactivated by a range of disinfectants, including:
+  −   phenolic disinfectants
+  −   quaternary ammonia compounds
+  −   peroxygen compounds
+  −   sodium hypochlorite (household bleach) or calcium hypochlorite, see below
+  −   alcohol (see below)
+  −   germicides with a tuberculocidal claim on the label
+  −   other registered/licensed disinfectants
+• Use manufacturer’s recommendations for use/dilution, contact time, and handling.
+• Because mycobacteria have the highest intrinsic level of resistance among the
+  vegetative bacteria, viruses, and fungi, any germicide with a tuberculocidal claim on
+  the label (i.e., an intermediate-level disinfectant) is considered capable of inactivating
+  influenza.8
+• Patient rooms/areas should be cleaned at least daily and terminally cleaned at
+  discharge. In addition to daily cleaning of floors and other horizontal surfaces, clean
+  frequently touched surfaces (e.g., medical equipment, bed rails, bedside and over-bed
+  tables, TV controls, call buttons, telephones, bathroom surfaces including safety/pull-
+  up bars, doorknobs, commodes, ventilator surfaces and plastic curtains) twice daily, if
+  possible.
+
+                                             28
+• Keep areas around the patient free of unnecessary supplies and equipment to facilitate
+  daily cleaning.
+• Bed curtains should be laundered if visibly soiled and/or at hospital discharge.
+• Paper sheeting that is changed between patients is appropriate for patient examination
+  tables in outpatient areas.
+• Do not spray (i.e., fog) occupied or unoccupied rooms with disinfectant. This is a
+  potentially dangerous practice that has no proven disease control benefit.
+
+ Alcohol
+  Alcohol is effective against influenza virus, however 70% ethyl alcohol is a powerful
+  broad-spectrum germicide and is considered generally superior to isopropyl alcohol.
+  Alcohol is often used to disinfect small surfaces (e.g., rubber stoppers of multiple-
+  dose medication vials, and thermometers) and occasionally external surfaces of
+  equipment (e.g., stethoscopes and ventilators). Because alcohol is flammable, its use
+  as surface disinfectant should be limited to small surface areas and be used in well-
+  ventilated spaces only. Alcohol may also cause discoloration, swelling, hardening,
+  and cracking of rubber and certain plastics after prolonged and repeated use.
+
+ Sodium hypochlorite (bleach)
+  Bleach is a strong and effective disinfectant, but it is readily inactivated in the
+  presence of organic material. Its active ingredient, sodium hypochlorite, is effective in
+  killing bacteria, fungus and viruses, including influenza virus. Diluted household
+  bleach works at variable exposition times (from 10 to 60 min), is widely available at a
+  low cost, and can be recommended for the disinfection of health care facilities.
+  However, bleach irritates mucous membranes, the skin and the airway, decomposes
+  under heat or light, and reacts readily with other chemicals. Therefore, caution is
+  advised when bleach is used. Improper use of bleach may reduce its effectiveness for
+  disinfection and also lead to accidents, which can be harmful to health.
+
+   Procedures for preparing/using diluted bleach
+   •   Use mask, rubber gloves, plastic apron and goggles (recommended).
+   •   Mix and use bleach solutions in well-ventilated areas.
+   •   Mix bleach with cold water because hot water decomposes the active ingredient
+       of bleach and renders it ineffective.
+
+
+
+
+                                            29
+•   Bleach containing 5% sodium hypochlorite should be diluted as follows:
+
+       Disinfectant       Recommended dilution          Available            Uses
+                                                        chlorine
+     Household           Use concentrations          0.05% or 500      Disinfection of
+     bleach              ranging from                parts per         surfaces or
+     (5% sodium          1 part bleach to 99 parts   million           articles
+     hypochlorite        cold tap water (1:100)                        contaminated
+     solution with                                                     with secretions,
+     50,000 parts per                                                  mucous,
+     million available                                                 vomitus, faeces,
+     chlorine)                                                         or blood.
+
+                                                                       Clean with
+                                                                       water first!
+     Bleaching           Use manufacturer’s                            Same as above
+     powder              instructions.
+     (granular
+     chlorine)
+     7g/litre with
+     70% available
+     chlorine
+
+Bleach precautions
+•   Bleach can be corrosive to metals and damage painted surfaces.
+•   Avoid touching the eyes. If bleach gets into the eyes, immediately rinse with
+    water for at least 15 minutes and consult a doctor.
+•   Bleach should not be used together or mixed with other household detergents
+    because this reduces its effectiveness and can cause chemical reactions.
+•   A toxic gas is produced when bleach is mixed with acidic detergents such as those
+    used for toilet cleaning and this gas can cause death or injury. If necessary, use
+    detergents first and rinse thoroughly with water before using bleach for
+    disinfection.
+•   As undiluted bleach liberates a toxic gas when exposed to sunlight, it should be
+    stored in a cool and shaded place out of reach of children.
+•   Sodium hypochlorite decomposes with time. To ensure its effectiveness, it is
+    advised to purchase recently produced bleach and avoid over-stocking.
+•   For effective disinfection, diluted bleach should be used within 24 hours after
+    preparation as decomposition increases with time if unused.
+•   Keep the diluted solution of bleach covered in plastic (metal neutralize chlorine)
+    dark containers and protected from sunlight and heat.
+
+                                         30
+Transmission through aerosol or dust
+
+A potential risk exists through possible direct inoculation (e.g., via inhalation or direct
+impact) into the respiratory (nose/mouth) or conjunctival (eyes) mucosa. To mitigate this
+route of transmission, cleaning methods that do not produce aerosols or resuspended
+particulates should be used. Avoid dusting methods that disperse dust (e.g., feather
+dusting) and wet-dust horizontal surfaces by moistening a cloth with a water.
+
+The optimal combination of PPE for preventing H5N1 transmission during aerosol-
+generating procedures has not been determined, but PPE should cover the torso, arms,
+and hands as well as the eyes, nose, and mouth.
+
+• Respiratory protection for aerosol-generating procedures
+       During aerosol-generating procedures, there must be minimal respirator face-seal
+       leakage to fully protect health care workers from exposure to small-particle
+       aerosols. The following respiratory protection options should be considered:
+       −   Disposable particulate respirators (particulate masks) (e.g., N-95 or
+           equivalent) are the minimum level of respiratory protection required for
+           health care workers performing aerosol-generating procedures.
+       −   To ensure adequate protection, health care workers should be fit tested to the
+           disposable respirator (particulate mask) model that they will wear and know
+           how to perform a user seal check. A user seal check should be performed
+           each time a respirator is put on, before entering the patient room.
+       −   Some factors to consider when choosing respirators in this setting include
+           availability, impact on mobility, impact on patient care, potential for
+           exposure to higher levels of aerosolized respiratory secretions, and potential
+           for reusable respirators (particulate masks) to serve as fomites for
+           transmission.
+
+• Engineering controls for aerosol-generating procedures
+       Perform the procedure in a negative pressure room (if available); if a negative
+       pressure room/area cannot be created 8, 9:
+       −   Perform the procedure in a private room, away from other patients.
+       −   If possible, increase air exchanges, create a negative pressure relative to the
+           hallway, and avoid recirculation of the room air.
+       −   If recirculation of air from such rooms is unavoidable, pass the air through a
+           HEPA filter before recirculation.
+       −   Cleaning devices, such as portable HEPA filtration units, may be used to
+           further reduce the concentration of contaminants in the air.
+
+       Keep doors closed except when entering or leaving the room, and minimize entry
+       and exit during the procedure.
+                                            31
+Linen and laundry of an H5N1 infected patients
+
+Standard precautions are recommended for linen and laundry that might be
+contaminated with respiratory secretions from suspected or confirmed H5N1 infected
+patients:8
+
+Place soiled linen directly into a laundry bag in the patient’s room. Contain linen in a
+manner that prevents the linen bag from opening or bursting during transport and while in
+the soiled linen holding area.
+• Wear gloves and gown and mask when directly handling soiled linen and laundry
+    (e.g., bedding, towels, personal clothing) as per standard precautions.
+• Do not shake or otherwise handle soiled linen and laundry in a manner that might
+    create an opportunity for disease transmission or contamination of the environment.
+• Wear gloves for transporting bagged linen and laundry.
+• Perform hand hygiene after removing gloves that have been in contact with soiled
+    linen and laundry.
+• Wash with soap, rinse then soak in 0.5% chlorine and dry linen according to routine
+    standards and procedures.
+
+Waste management
+
+Standard precautions when working with clinical and nonclinical solid waste ∗ that may
+be contaminated with avian influenza H5N1 virus are required:
+• All waste generated in the isolation room/area should be disposed of in suitable
+    containers or bags.
+• Used patient care supplies that are not likely to be contaminated (e.g., paper wrappers)
+    may be discarded as nonclinical waste.
+• All waste from an isolation room/area that may be contaminated with influenza A
+    (H5N1) should be treated as clinical (infectious) waste and “red or yellow-bagged” or
+    labelled as “biohazard” and should be treated and disposed of as per facility policy and
+    in accordance with national regulations pertaining to such waste.
+• One waste disposal bag is usually adequate, providing waste can be placed in the bag
+    without contaminating the outside of the bag. If that is not possible, two bags are
+    needed (double bagging).
+
+
+
+
+∗
+  Clinical waste includes waste directly associated with blood, body fluids secretions and excretions;
+laboratory waste that is directly associated with specimen processing, human tissues, including material or
+solutions containing free-flowing blood, and animal tissue or carcasses used for research; and also includes
+discarded sharps. Nonclinical waste is routine waste generated during the care and treatment of suspected
+or confirmed HPAI patients.
+                                                    32
+• Currently, there is no evidence to suggest that the presence of H5N1 virus in liquid
+  waste such as urine or faeces requires a change in the protocols used to manage this
+  type of infectious waste.
+• Outside of the isolation room/area, gloves should be worn when handling waste and
+  hand hygiene should be performed after glove removal.
+
+Dishes and eating utensils
+Use standard precautions for handling dishes and eating utensils used by patients with
+suspected or confirmed influenza A (H5N1) infection:
+• Wear gloves when handling patient trays, dishes, and utensils.
+• Clean reusable items first by washing with soap and water either manually or in a
+  dishwasher at the recommended water temperature. Then disinfect items by either
+  boiling in water or soaking in chlorine.
+• Disposable items or left over from food should be discarded with other infectious
+  waste.
+
+References:
+   1. Department of Population Health College of Veterinary Medicine, University of
+      Georgia (2005) Highly Pathogenic Avian Influenza Virus H5N1 and Wild Birds.
+   2. WHO. Guidelines to be used for producing minimum standards for water,
+      sanitation, hygiene and waste management in health-care settings, with specific
+      reference to developing countries, draft under progress.
+   3. WHO (2004) Guidelines for Drinking-water Quality, third edition.
+   4. Buxton Bridges CB, Kuehnert MJ, Hall CB (2003) Transmission of influenza:
+      implications for control in health care settings. Clinical Infectious Diseases;
+      37(8):1094-1101.
+   5. WHO (2005) Consensus document on the epidemiology of severe acute
+      respiratory syndrome (SARS) WHO/CDS/CSR/GAR/2003. Available at:
+      http://www.who.int/csr/sars/en/WHOconsensus.pdf. Accessed 14 November.
+   6. CDC (2002) Guideline for Hand Hygiene in Health-Care Settings. Morbidity and
+      Mortality Weekly Report; 51(RR16):1-44.
+   7. Ali J, Dolan M, Fendler E, Larson E (2000) Alcohols. In: Block S, ed.
+      Disinfection, sterilization and preservation. 5 ed. Philadelphia: Lippincott,
+      Williams, and Wilkins; 229-253.
+   8. Schurmann W, Eggers H (1983) Antiviral activity of an alcoholic hand
+      disinfectant: comparison of the in vitro suspension test with in vivo experiments
+      on hands, and on individual fingertips. Antiviral Research; 3:25-41.
+   9. Rosenbaum R, Benyo J, O'Connor R, et al (2004) Use of a portable forced air
+      system to convert existing hospital space into a mass casualty isolation area.
+      Annals of Emergency Medicine; 44(6):628-634.
+
+
+                                           33
+Additional Reading:
+   Bean B, Moore B, Sterner B, Peterson L, Gerding D, Balfour HJ (1982) Survival of
+   influenza viruses on environmental surfaces. Journal of Infectious Diseases;
+   46(1):47-51.
+   Buxton Bridges C, Katz JM, Seto WH, et al. (2000) Risk of influenza A (H5N1)
+   infection among health care workers exposed to patients with influenza A (H5N1),
+   Hong Kong. Journal Infectious Diseases; 181(1):344-348.
+   CDC (2003) Guidelines for Environmental Infection Control in Health-Care
+   Facilities. Morbidity and Mortality Weekly Report; 52(RR10):1-42.
+   Fowler R, Guest C, Lapinsky SE, et al. (2004) Transmission of Severe Acute
+   Respiratory Syndrome during Intubation and Mechanical Ventilation. American
+   Journal of Respiratory and Critical Care Medicine; 169:1198-1202.
+   Goldmann D (2000) Transmission of viral respiratory infections in the home.
+   Pediatric Infections Disease Journal; 19(10 Suppl):S97-102.
+   Healing TD, Hoffman PN, Young SEJ (1995) The infection hazards of human
+   cadavers. Communicable Disease Report Weekly; 5(5):R61-68.
+   Katz JM, Lim W, Bridges CB, et al. (1999) Antibody response in individuals
+   infected with avian influenza A (H5N1) viruses and detection of anti-H5 antibody
+   among household and social contacts. Journal Infectious Diseases; 180(6):1763-
+   1770.
+   Klein M, Deforest A (1991) Principles of Viral Inactivation. Disinfectants,
+   Sterilization, and Preservation. 3 ed. Philadelphia: Lea and Febiger; 222-434.
+   Lidwell OM (1974) Aerial dispersal of micro-organisms from the human respiratory
+   tract. Society for Applied Bacteriology Symposium Series; 3(135-154).
+   Loosli D, Lemon H, Robertson O, Appel E (1943) Experimental airborne influenza
+   infection. I. Influence of humidity on survival of virus in air. Proceedings of the
+   Society for Experimental Biology and Medicine; 53:205-206.
+   Sehulster L, Chinn R (2003) Guidelines for environmental infection control in
+   health-care facilities. Recommendations of CDC and the Healthcare Infection
+   Control Practices Advisory Committee (HICPAC). Morbidity and Mortality Weekly
+   Report; 52(RR-10):1-42.
+   WHO (2006) Infection control recommendations for avian influenza in health-care
+   facilities, Aide-Memoire, Available at:
+   http://www.who.int/csr/disease/avian_influenza/guidelinestopics/en/index3.html
+   WHO (2006) Avian Influenza A (H5N1) in Humans - Interim Infection Control
+   Guideline for Health Care Facilities, revised February 2006.
+   WHO (2005) Guidelines on Hand Hygiene in Health Care (Advanced Draft), May
+   2005.
+
+
+                                          34
+WHO (2005) Inter-country-consultation: influenza A/H5N1 in humans in Asia:
+Manila, Philippines, 6-7 May. 2005.
+Zhong N, Zeng G (2003) Our strategies for fighting severe acute respiratory
+syndrome (SARS). American Journal of Respiratory and Critical Care Medicine;
+168:7-9.
+
+
+
+
+                                    35
+Annex 4
+Household drinking water disinfection using chlorine
+Using chlorine
+  Chlorine is a chemical of choice used for the disinfection and decontamination of water and
+   particularly drinking water because of its strong oxidizing properties against almost all
+   pathogenic viruses and bacteria which can be transmitted in water.
+
+   Chlorine is found in powder, tablets, gas or already made solution in plastic bottles.
+    Common household bleach has between 4-5% of active chlorine and is in liquid form.
+
+   Chlorine should be stored in airtight glass or plastic containers and protected from excessive
+    light and heat to maintain its active power level. It must be stored out of reach of children.
+
+   The amount of chlorine required should be determined on a case-by-case basis as it depends
+    on the quantity and on the quality of water (mainly turbidity and pH). For example, 4 to 5
+    drops of a chlorine are typically needed to treat 1 litre of clear water.
+
+   Local recommendations on treatment with chlorine should include the time needed for
+    chlorine to have an effect (e.g., WHO Guidelines for Drinking Water Quality recommend a
+    minimum of 30 minutes contact time to ensure inactivation of pathogenic micro-organisms).
+
+   The residual free chlorine is the concentration of chlorine left in water after initial treatment.
+    It has the power to react on subsequent contamination of the water. Residual disinfectant
+    makes an important contribution to ensuring microbial safety of drinking-water (e.g., WHO
+    Guidelines for Drinking Water Quality recommend a minimum residual concentration of free
+    chlorine of ≥0.5 mg/litre after at least 30 minutes contact time).
+
+   Turbid water has suspended particles that can protect micro-organisms from chlorine. A
+    pretreatment such as sedimentation (let particles settle down) will be required first.
+
+Keeping treated drinking water safe
+  Once your chlorine dosage is set, test the free residual chlorine from time to time as water
+   quality may change (e.g. once a month).
+
+Storing drinking water
+   Use a dedicated container for storing safe drinking water.
+   Protect safe water from contact with animals.
+   If affordable, use a covered storage container, equipped with a tap and a lid.
+   Keep a dedicated cup attached to the storage container to transfer water. This prevents cross
+    contamination of the water by the use of dirty or used cups.
+   Keep storage containers in the shade as light and heat will decrease residual free chlorine
+    levels.
+
+
+
+
+                                                 36
+Assess the amount of chlorine used to ensure a residual free chlorine level of 0.2 to 0.5 mg/l.
+                                              Method
+                                              Add 1 ml of chlorine in your water storage (e.g.: a 10 litre clay
+                                               container).
+                                            Mix by shaking the storage / container.
+                                            Wait 30 minutes (minimum contact time to ensure adequate
+                                               disinfection).
+                                            Measure the free residual chlorine with a simple colour
+                                               comparator and tablets. If below 0.2 mg add an extra 1ml of
+                                               chlorine and start the process again.
+                                            If a colour comparator is not available, a slight smell of chlorine
+                                               is a crude indicator of the presence of chlorine.
+                                           note:
+                                              the taste of chlorine in water may come from combined chlorine
+                                               and is no proof of the presence of free residual chlorine
+                                              if a too high quantity of chlorine has been added to the storage
+                                               the measurement of free residual chlorine may show a false
+                                               negative results
+                                              water treated with chlorine will be unpalatable before it is a
+                                               threat to health
+
+
+
+
+                                               37
+

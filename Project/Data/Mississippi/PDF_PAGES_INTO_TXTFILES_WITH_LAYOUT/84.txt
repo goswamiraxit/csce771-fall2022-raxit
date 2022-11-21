@@ -1,0 +1,49 @@
+             (i)     The Linear Partition Coefficient is calculated from Table 5-
+                     4 in the Technical Guidance Manual using the following
+                     formula:
+
+                        K p = K po * TSS a
+
+      Where: Kp    = Linear Partition Coefficient
+      Kpo = Regression Coefficient (from table)
+      TSS = Total Suspended Solids Concentration (site specific 15th
+              percentile)
+      a     = Exponent Constant (from table)
+
+             (ii)    The Dissolved Fraction is then calculated as follows:
+
+                    C            1
+                      =
+                    CT 1 + K p * TSS *10 −6
+
+      Where: C/CT = Dissolved Fraction of metal
+
+      (2)    Alternately, the permittee may determine the dissolved fraction
+             directly by analyzing paired samples of site water for dissolved and
+             total recoverable metals using EPA's "clean" analytical techniques
+             and sampling procedures. This determination may be made in one
+             of two ways.
+
+             (i)     Collect four paired samples during the low flow period,
+                     defined as no greater than twice the 7Q10, analyze paired
+                     samples of site water for dissolved and total recoverable
+                     metals using EPA's "clean " analytical techniques and
+                     sampling procedures, take the arithmetic mean of the four
+                     analyses, and calculate the dissolved fraction based on the
+                     mean values for dissolved and total recoverable metals.
+
+             (ii)    Collect 20 paired samples on randomly selected dates
+                     throughout the year, analyze as described in (2)(i) above,
+                     calculate the dissolved fraction for each sampling, and use
+                     the 95th percentile highest dissolved fraction.
+
+      (3)    The permittee is responsible for providing all the site specific data
+             needed for these calculations.
+
+(c)   The third method is to assume that there is no difference between the
+      dissolved and total recoverable metals concentrations.
+
+
+
+                               84
+

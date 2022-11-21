@@ -1,0 +1,41 @@
+                    Water Body        Water                   Impaired
+     Basin                                        County                         Pollutant                        Location
+                      Name           Body Id                    Use
+                                                                             Organic
+                                                                             Enrichment /
+                                                                             Low
+                                                             Aquatic Life    Dissolved       From confluence of West Prong and East Prong to
+Coastal Streams   Bayou Casotte      200313    Jackson       Use Support     Oxygen          turning basin
+                                                                             Organic
+                                                                             Enrichment /
+                                                                             Low
+                  Bayou Casotte                              Aquatic Life    Dissolved       From Louise Street to the confluence of West Prong
+Coastal Streams   West Prong         200312    Jackson       Use Support     Oxygen          and East Prong
+
+                                                             Aquatic Life    Biological      From headwaters to confluence with Unnamed
+Coastal Streams   Bayou La Terre     204112    Hancock       Use Support     Impairment      Tributary
+
+                                                             Aquatic Life    Biological
+Coastal Streams   Catahoula Creek    203311    Hancock       Use Support     Impairment      From headwaters to mouth at Bernard Bayou
+
+                                                             Aquatic Life    Biological
+Coastal Streams   Costapia Bayou     201611    Harrison      Use Support     Impairment      From headwaters to mouth at Tchoutacabouffa River
+
+                                                             Aquatic Life    Biological      Near Kiln from headwaters to confluence with
+Coastal Streams   Dead Tiger Creek   203711    Hancock       Use Support     Impairment      Catahoula Creek
+
+                                                             Aquatic Life    Biological      Near Gulfport from headwaters to mouth at Bernard
+Coastal Streams   Flat Branch        202111    Harrison      Use Support     Impairment      Bayou
+
+                                               Hancock,      Aquatic Life    Biological
+Coastal Streams   Hickory Creek      203411    Pearl River   Use Support     Impairment      From headwaters to MWS 2035 boundary
+
+                                                             Aquatic Life    Biological      From MWS 2034 boundary to mouth at Catahoula
+Coastal Streams   Hickory Creek      203511    Hancock       Use Support     Impairment      Creek
+
+                                                             Aquatic Life    Biological
+Coastal Streams   Palmer Creek       200915    Harrison      Use Support     Impairment      From headwaters to mouth at Biloxi River
+
+
+                                                                            25
+

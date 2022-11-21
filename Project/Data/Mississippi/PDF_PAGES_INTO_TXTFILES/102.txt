@@ -1,0 +1,71 @@
+N.
+
+Disinfection
+
+1.
+Bacteria allocations for effluents will be assigned so as to meet the State's water quality
+standards for the designated use of the receiving water. A background coliform concentration of
+200#/100 ml will be assumed in fresh water at the low-flow condition, unless site-specific data
+taken from an upstream site, approved by the Department, during a low-flow event indicates that
+another background level should be used.
+2.
+Marine waters (recreational salt-waters) will have a background concentration of 35
+colonies/100 ml at the low-flow condition, unless site-specific data taken from the water body,
+approved by the Department, during a low-flow event indicates that another background level
+should be used.
+3.
+
+Allocations will be derived according to the following dilution mix equation:
+
+CE =
+
+(CT * QT ) − (CH * QH )
+QE
+
+where:
+CE
+= allowable effluent bacteria concentration in colonies /100ml
+QE
+= daily average effluent flow in cfs
+CH
+= headwater bacteria concentration of 200 colonies /100ml
+QH
+= headwater flow (7Q10) in cfs
+CT
+= bacteria standard after mixing (usually 200 colonies /100ml May through October or
+2000 col/100ml November through April)
+QT
+= total stream flow after mixing in cfs
+4.
+
+Disinfection may be required for hydrograph controlled release (HCR) lagoons.
+
+O.
+
+Chlorine Toxicity
+
+Residual chlorine allocations for all municipal and industrial effluents will be developed so as to
+meet the State's water quality criteria. To properly select the final in-stream target concentration,
+the type of receiving water (fresh or estuarine) and the IWC* (instream waste concentration)
+must be known. Once this information is known, allocations will be determined using the
+following dilution mix equation:
+
+CE =
+
+(CT * QT ) − (CH * QH )
+QE
+
+where:
+CE
+= allowable effluent chlorine concentration in ug/l
+QE
+= daily average effluent flow in cfs
+CH
+= headwater chlorine concentration (usually 0.0 ug/l)
+QH
+= headwater flow (7Q10) in cfs
+CT
+= chlorine standard in ug/l (after mixing)
+102
+
+

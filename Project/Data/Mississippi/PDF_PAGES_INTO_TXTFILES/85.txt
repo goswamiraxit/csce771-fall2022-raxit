@@ -1,0 +1,65 @@
+D.
+
+(3)
+
+If the permittee opts to utilize methods a. and b. listed above, the results from
+method a. will be applied since it is a more comprehensive procedure compared to
+the relatively simple calculation of the dissolved fraction.
+
+(4)
+
+If the permittee does not opt to utilize methods a. or b., method c. shall be applied.
+
+(5)
+
+The application of any translator derived limitation does not preclude the
+demonstration of toxicity requirements for other toxicants through the use of
+WET tests as specified in the permit.
+
+Procedures for Chemical Specific Screening.
+(1)
+
+Review data submitted with application (e.g. NPDES - 2C, 2D and 2E,
+Pretreatment - State No Discharge Application)
+Identify every toxic parameter in the permit and/or application above quantitation
+levels 1 and set up a table for each outfall, listing for each parameter the
+following2:
+(a)
+
+maximum concentration;
+
+(b)
+
+maximum 30-day average;
+
+(c)
+
+long term average; and
+
+(d)
+
+number of samples.
+The following calculation conventions shall be utilized when using data
+reported as non-detect or less than detection:
+(1) Non-detect (ND) or less than at the appropriate quantitation levels
+- use zero.
+(2) If all data in the permit application are below quantitation levels, the
+permittee should list the individual non-detect value with the highest
+detection level reported as the maximum and not calculate an average.
+The Department will not consider an application complete if the
+concentrations required are reported as "N.D." (Not Detected) unless a
+
+1
+
+Where application form data are reported as "less than" (<) compare the method detection limit (MDL) as defined
+in Appendix B of 40 CFR 136 which is incorporated herein and adopted by reference. MDLs will be utilized in
+determining the reasonable potential of a given pollutant to violate water quality criteria. If a pollutant is reported as
+"non-detectable" above the MDLs as defined in Appendix B of 40 CFR 136, the pollutant will be assumed to be
+present at that reported level of sensitivity.
+2
+
+Note in some cases parameters limited by the permit may be below the minimum quantitation level.
+
+85
+
+

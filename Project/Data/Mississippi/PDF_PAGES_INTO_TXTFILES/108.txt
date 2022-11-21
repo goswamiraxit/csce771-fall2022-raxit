@@ -1,0 +1,21 @@
+Calculation of Average Flow Rate:
+
+AFR =
+
+[( A * xC * XRO ) + ( A2 * C 2 * RO ) + ( A3 * C3 * RO )...]
+TO
+
+Where:
+AFR = Average Flow Rate in cu. ft./min
+A
+= Area in acres
+C
+= Runoff Coefficient
+Rx
+= Runoff for area
+TO
+= Total Runoff
+
+108
+
+

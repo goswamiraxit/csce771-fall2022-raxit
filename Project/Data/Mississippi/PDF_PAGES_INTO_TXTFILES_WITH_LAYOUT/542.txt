@@ -1,0 +1,40 @@
+                Water Body        Water                  Impaired
+     Basin                                    County                        Pollutant                        Location
+                  Name           Body Id                   Use
+
+South                                                   Aquatic Life    Biological      At Vicksburg from MWS 6902 boundary at Fisher
+Independent   Hatcher Bayou      690411    Warren       Use Support     Impairment      Ferry Road to mouth at Hennesy Bayou
+                                           Amite,
+South                                      Franklin,    Aquatic Life                    From MWS 6074 Boundary to the confluence with
+Independent   Homochitto River   607812    Wilkinson    Use Support     pH              Dry Creek
+
+South                                                   Aquatic Life    Biological      From confluence with Fairchilds Creek to confluence
+Independent   Mud Island Creek   604811    Jefferson    Use Support     Impairment      with North Fork Coles Creek
+
+South                                      Claiborne,   Aquatic Life    Biological      Near Alcorn from impoundment in headwaters to
+Independent   Muddy Bayou        600212    Jefferson    Use Support     Impairment      mouth at Dowd Creek
+
+South                                                   Aquatic Life    Biological      Near Bude from headwaters to mouth at Homochitto
+Independent   North Dry Creek    606112    Franklin     Use Support     Impairment      River
+
+South                                                   Aquatic Life    Biological      From confluence with Redbone Creek to mouth at
+Independent   Paces Bayou        690311    Warren       Use Support     Impairment      Hennesy Bayou
+
+South         Pickneyville                              Aquatic Life    Biological      Near Pickneyville from headwaters to mouth at Little
+Independent   Creek              611211    Wilkinson    Use Support     Impairment      Bayou Sara
+
+South         Saint Catherines                          Aquatic Life    Biological      At Natchez from confluence with Melvin Bayou to
+Independent   Creek              600611    Adams        Use Support     Impairment      mouth at Mississippi River
+
+South         Saint Catherines                          Aquatic Life    Biological      At Natchez from headwaters to confluence with
+Independent   Creek              600511    Adams        Use Support     Impairment      Melvin Bayou
+
+South                                                   Aquatic Life    Biological      From confluence with Swafford Creek to mouth at
+Independent   Sandy Creek        608811    Adams        Use Support     Impairment      Homochitto Creek
+
+South                                      Amite,       Aquatic Life    Biological
+Independent   Stafford Creek     613212    Wilkinson    Use Support     Impairment      From headwaters to mouth at Comite Creek
+
+
+                                                                       37
+

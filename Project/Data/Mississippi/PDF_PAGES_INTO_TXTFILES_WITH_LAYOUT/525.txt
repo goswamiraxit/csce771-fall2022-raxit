@@ -1,0 +1,68 @@
+         Water Body       Water                   Impair
+ Basin                               County                   Pollutant            Location             Listing Change
+           Name          Body Id                  ed Use
+                                                  Aquatic
+Yazoo                                             Life Use                 Near Satartia off Dump       TMDL Complete
+River    Dump Lake       923011    Yazoo          Support    Nutrients     Lake Road near boat ramp     06/30/2003
+
+                                                  Aquatic
+Yazoo                                             Life Use                 Near Satartia off Dump       TMDL Complete
+River    Dump Lake       923011    Yazoo          Support    Sediment      Lake Road near boat ramp     06/30/2003
+
+                                                  Aquatic
+Yazoo    Lake                                     Life Use                                              TMDL Complete
+River    Washington      944611    Washington     Support    Sediment      Entire Lake Washington       06/30/2003
+
+                                                  Aquatic
+Yazoo    Lake                                     Life Use                                              TMDL Complete
+River    Washington      944211    Washington     Support    Sediment      Entire Lake Washington       06/30/2003
+
+                                                  Aquatic
+Yazoo                                             Life Use                                              TMDL Complete
+River    Mossy Lake      942211    Leflore        Support    Nutrients     Entire lake near Swiftown    06/30/2003
+                                                             Organic
+                                                             Enrichment/
+                                                  Aquatic    Low
+Yazoo                                             Life Use   Dissolved                                  TMDL Complete
+River    Mossy Lake      942211    Leflore        Support    Oxygen        Entire lake near Swiftown    06/30/2003
+
+                                                  Aquatic
+Yazoo                                             Life Use                                              TMDL Complete
+River    Mossy Lake      942211    Leflore        Support    Sediment      Entire lake near Swiftown    04/17/2008
+
+         North Fork                               Aquatic
+Yazoo    Tillatoba                 Yalobusha,     Life Use                 From headwaters to mouth     TMDL Complete
+River    Creek           906611    Tallahatchie   Support    Sediment      at Tillatoba Creek           04/17/2008
+                                                             Organic
+                                                             Enrichment/
+                                                  Aquatic    Low
+Yazoo    Roebuck                                  Life Use   Dissolved                                  TMDL Complete
+River    Lake            938212    Leflore        Support    Oxygen        Entire lake near Itta Bena   04/17/2008
+
+                                                  Aquatic
+Yazoo    Roebuck                                  Life Use   Total                                      TMDL Complete
+River    Lake            938212    Leflore        Support    Nitrogen      Entire lake near Itta Bena   06/11/2008
+
+                                                  Aquatic
+Yazoo    Roebuck                                  Life Use   Total                                      TMDL Complete
+River    Lake            938212    Leflore        Support    Phosphorus    Entire lake near Itta Bena   06/11/2008
+
+                                                  Aquatic
+Yazoo    Roebuck                                  Life Use                                              TMDL Complete
+River    Lake            938212    Leflore        Support    Sediment      Entire lake near Itta Bena   04/17/2008
+
+                                                  Aquatic
+Yazoo                                             Life Use                 From Headwaters To           TMDL Complete
+River    Short Creek     922711    Yazoo          Support    Sediment      Mouth at the Yazoo River     04/17/2008
+
+                                                  Aquatic
+Yazoo                              Leflore,       Life Use                 Near Money at CR 541         TMDL Complete
+River    Six Mile Lake   937711    Sunflower      Support    Nutrients     Bridge                       06/30/2003
+
+                                                  Aquatic
+Yazoo                              Leflore,       Life Use                 Near Money at CR 541         TMDL Complete
+River    Six Mile Lake   937711    Sunflower      Support    Sediment      Bridge                       04/17/2008
+
+
+                                                     20
+

@@ -1,0 +1,116 @@
+IWC
+All
+<1%
+
+>1%
+
+CSSA
+Pass
+Pass
+Fail
+Fail
+Fail
+Fail
+Pass
+Pass
+Fail
+Fail
+
+TOXICITY SCREENING MATRIX
+Screening Results
+Permit Requirements
+8
+CSSC
+WET
+CSL
+WETL
+WETM
+Pass
+Pass
+No
+No
+No
+Pass
+Fail
+No
+YesA
+N/A
+Pass
+Fail
+Yes
+YesA
+N/A
+Pass
+Pass
+Yes
+No
+No8
+Fail
+Fail
+Yes
+YesC
+N/A
+Fail
+Pass
+Yes
+No
+No8
+Fail
+Fail
+Yes
+YesC
+N/A
+Fail
+Pass
+Yes
+No
+No8
+Pass
+Fail
+Yes
+YesC
+N/A
+Pass
+Pass
+Yes
+No
+No8
+
+Where:
+CSSA = Chemical Specific Screening Acute
+CSSC = Chemical Specific Screening Chronic
+WET = Whole Effluent Toxicity Data
+CSL = Chemical Specific Limits= WQS/(IWC/100)
+WETL = Whole Effluent Toxicity Limits W/Monitoring
+WETM = Whole Effluent Toxicity Monitoring Only
+YesA = Yes/Acute WET Limit = LC50 = 3 * IWC
+YesC = Yes/Chronic WET Limit = IC25 = IWC
+N/A = Not Applicable
+YAM = Yes, Acute WET Monitoring Only
+YCM
+= Yes, Chronic Monitoring Only
+Pass = Acute: LC50 > 3 * IWC
+= Chronic: IC25 > IWC
+Fail = Acute: LC50 < 3 * IWC
+= Chronic IC25 < IWC
+Human health shall be evaluated in accordance with "USEPA, Technical Support Document".
+When a parameter violates the human health criteria either for "water and organisms" or
+"organisms only", as appropriate, numerical limitations shall be placed in the permit.
+F.
+
+Screening Storm Water Discharges
+(1)
+
+General
+
+8
+
+Where application form data are reported as "less than" (<) compare the method detection limit (MDL) as defined
+in Appendix B of 40 CFR 136 which is incorporated herein and adopted by reference. MDLs will be utilized in
+determining the reasonable potential of a given pollutant to violate water quality criteria. If a pollutant is reported as
+"non-detectable" above the MDLs as defined in Appendix B of 40 CFR 136, the pollutant will be assumed to be
+present at that reported level of sensitivity.
+
+89
+
+

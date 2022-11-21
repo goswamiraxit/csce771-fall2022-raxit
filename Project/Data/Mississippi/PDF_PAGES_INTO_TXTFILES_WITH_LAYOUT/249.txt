@@ -1,0 +1,50 @@
+            NH3-N, mg/l
+            DO, mg/l
+            Residual Cl2, mg/l
+            SS, mg/l
+            FC, number/100 ml
+            Receiving stream:
+
+B.   Maps
+
+     Include a map or maps showing the location of the existing and proposed WWTP
+     and major interceptors. Maps showing the location of individual collection lines
+     will not usually be included. A schematic diagram of the WWTP will be included only if
+     a narrative description of the unit processes will not give an accurate picture of the
+     facilities to be built.
+
+C.   Existing Facilities
+
+     Describe the existing collection and treatment facilities. Describe the loadings on the unit
+     processes if the information is pertinent to the need for the proposed project.
+
+D.   Need for the Project
+
+     Explain why the existing facilities will not be able to protect human health or the
+     environment at future design flow and loading when the facilities are operated according
+     to optimum O & M procedures.
+
+     In many cases the NPDES effluent limits will have been changed from secondary to
+     tertiary limits. For example, if a town has an existing lagoon and the new limit requires a
+     BOD of less than 30 mg/l, a simple statement that a lagoon cannot be expected to meet
+     the new limit will establish a need.
+
+     A letter from the Mississippi State Department of Health stating that an area has a
+     significant number of failing septic tank systems and further stating that septic tank
+     systems cannot be expected to work because of small lot sizes or low soil permeability
+     will establish a need.
+
+E.   Analysis of Alternatives
+
+     Discuss why the no action alternative was not chosen. List, but do not discuss, all of the
+     other alternatives that were studied. State which alternative was chosen. Describe why it
+     was chosen. In many cases a simple statement that the chosen alternative has the lowest
+     present worth, will meet the effluent limits, and is environmentally sound will be
+     adequate.
+
+F.   Proposed Facilities
+
+     List the unit processes that will be used for wastewater and sludge treatment and describe
+     any that are unusual. State the design flow.
+                                             249
+

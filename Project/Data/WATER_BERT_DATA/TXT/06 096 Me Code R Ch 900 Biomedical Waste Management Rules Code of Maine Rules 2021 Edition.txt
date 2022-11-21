@@ -1,0 +1,2298 @@
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+Chapter 900: BIOMEDICAL WASTE MANAGEMENT RULES
+
+SUMMARY: The rule identifies biomedical waste subject to regulation;
+requires the registration of biomedical waste generators; and establishes
+packaging, labeling, handling, storage, transportation and treatment
+requirements. The rule does not establish disposal standards for biomedical
+waste because this rule defines treated biomedical waste as a special waste.
+The disposal of untreated biomedical waste is prohibited in this rule. The
+rule requires all transporters and owners or operators of transfer facilities
+and treatment facilities to obtain a license. The rule specifies siting, design,
+operating and reporting requirements and establishes a biomedical waste
+tracking or manifest system.
+
+1. Legal Authority
+
+This rule is authorized by and adopted under 38 M.R.S.A. Sections 341-D(1-
+B), 1303-C(34)(K) and 1319-O(3).
+
+2. Preamble
+
+It is the purpose of the Department of Environmental Protection, to provide
+effective controls for the management of biomedical waste so as to ensure
+the protection of public health, safety and welfare and the environment.
+
+3. Applicability
+
+This rule applies to all persons engaged in biomedical waste activity except
+as provided for in section 4 of this rule.
+
+4. Exemptions
+
+A. Household Generators
+
+This rule does not apply to household generators of biomedical waste except
+that sharps must be packaged in accordance with Section 12(A)(4) of this
+rule.
+
+B. Small Quantity Generators
+
+A medical facility which generates less than a total of 50 pounds of
+biomedical waste in any one month is exempt from the requirements of this
+rule for that month with the following exceptions:
+
+(1) The facility shall register in accordance with Section 11(A).
+
+(2) Discarded sharps, as defined in Section 7(A)(4), and discarded cultures
+and stocks of infectious agents, as defined in Section 7(A)(5), shall be
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+packaged in accordance with Section 12(A), labeled in accordance with
+Section 12(B) and treated in accordance with Section 10.
+
+(3) Except as provided in (4) and (5) below, transport of biomedical waste
+shall be by a licensed biomedical waste transporter and accompanied by a
+four-part manifest unless the biomedical waste is taken by the generator to
+another medical facility or to a permitted biomedical waste transfer or
+treatment facility and the amount transported is less than 50 pounds.
+
+(4) The generator or an employee of the generator may transport sharps
+packaged in accordance with this rule to a licensed biomedical waste
+treatment facility or another medical facility that has volunteered to serve as
+a collection point for sharps if no more than 50 pounds of sharps are
+transported in one trip.
+
+NOTE: The rule allows employees to generate biomedical waste off site at
+intermittent, temporary field collection points and transport it back to their
+facility. Included are blood drives, home health care providers and
+phlebotomists working at a temporary field location .
+
+(5) A generator of biomedical waste may send up to 50 pounds of properly
+packaged discarded sharps via the United States Postal Service to a licensed
+biomedical waste treatment facility. All generators are responsible for
+compliance with the packaging standards contained in Section 12 of the
+rules.
+
+NOTE: The enabling legislation for the mailing of discarded sharps via the
+United States Postal Service (USPS) specified quantities of up to 50 pounds;
+however, USPS guidelines limit the amount to 35 pounds.
+
+NOTE: For a medical facility to qualify for the small quantity exemption, all
+categories of biomedical waste identified in Section 7 must be considered
+and the total amount must be less than 50 pounds per month.
+
+5. Responsibility of Generator
+
+The generator of biomedical waste is responsible for the appropriate
+segregation, packaging, labeling, storage, handling, transport and treatment
+of biomedical waste it generated as required by this rule. A person may
+provide services to the generator of biomedical waste, including the
+appropriate packaging, labeling, storage, handling, transport and treatment
+of biomedical waste but it is the generator's responsibility to ensure that its
+biomedical waste is properly treated.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+The generator must take all necessary steps to ensure that their biomedical
+waste does not contain hazardous waste, universal waste, radioactive waste
+or other unauthorized waste.
+
+6. Definitions
+
+A. Antineoplastic drug. "Antineoplastic drug" means any of the group of
+cytotoxic drugs used in the treatment of cancer.
+
+B. Biologicals. "Biologicals" means preparations made from living organisms
+and their products, including serums, vaccines, antigens, and antitoxins.
+
+C. Biomedical waste. "Biomedical waste" means a waste that may contain
+human pathogens of sufficient virulence and in sufficient concentrations
+that exposure to it by a susceptible host could result in disease. Biomedical
+waste is further defined in Section 7 of this rule.
+
+D. Biomedical waste activity. "Biomedical waste activity" means the
+generation, handling, storage, transport, and treatment of biomedical waste.
+
+E. Biomedical waste manifest. "Biomedical waste manifest" means the form
+used for identifying the quantity, composition, and the origin, routing, and
+destination of biomedical waste during its transportation from the point of
+generation to the point of off-site treatment.
+
+F. Board. "Board" means Board of Environmental Protection.
+
+G. Chemotherapy waste. "Chemotherapy waste" means all materials that
+have come in contact with and have no more than trace amounts of
+cytotoxic/antineoplastic agents.
+
+H. Commissioner. "Commissioner" means the Commissioner of the
+Department of Environmental Protection.
+
+I. Contaminated. "Contaminated" means soiled or made inferior or
+potentially infectious through physical contact or mixture with a biomedical
+waste.
+
+J. Conveyance. "Conveyance" means any vehicle used for transportation on
+land, water or in the air. For the requirement that a transporter license be
+obtained, the term includes only the cargo-carrying portion of a conveyance.
+For the requirements of Section 14, the term includes the entire conveyance.
+
+K. Cytotoxic drugs. "Cytotoxic drugs" means drugs that are toxic to living
+cells.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+L. Department. "Department" means the Department of Environmental
+Protection, which includes the Commissioner and the Board.
+
+M. Discharge. "Discharge" means any spilling, leaking, pumping, pouring,
+emitting, emptying or dumping.
+
+N. Disinfect. "Disinfect" means to reduce the infectiousness of an object or
+material such that it poses virtually no risk of infection to those handling, or
+otherwise coming into contact with, the object or material.
+
+O. Disposal. "Disposal" means the discharge of untreated biomedical waste
+into or on any land or water so that the biomedical waste or any constituent
+thereof may enter the environment or be emitted into the air or discharged
+into any waters, including ground waters. The Department prohibits the
+disposal of biomedical waste.
+
+P. Existing facility. "Existing facility" means a biomedical waste transfer
+facility in existence on December 18, 1989 or a facility holding an air
+emission license for a Class VI B incinerator on December 18, 1989.
+
+Q. Flood plain. "Flood plain" means the lowland and relatively flat areas
+adjoining inland and coastal waters, including flood prone areas of offshore
+islands, which are inundated by a flood that has 1% or greater chance of
+recurring in any year or a flood of a magnitude equaled or exceeded once in
+100 years on the average.
+
+R. Generator. "Generator" means any person or medical facility whose act
+or process produces biomedical waste in any quantity.
+
+S. Generated Off Site. "Generated Off-Site" means biomedical waste
+accepted at a biomedical waste transfer or treatment facility that was not
+generated on-site.
+
+T. Handle. "Handle" means to store, transfer, collect, separate, salvage,
+process, reduce, recover, incinerate, treat or dispose of.
+
+U. Hazardous waste. "Hazardous waste" means material that is identified as
+hazardous waste under Chapter 850 of the Department's Hazardous Waste
+Management Rules.
+
+V. Household. "Household" means single and multiple residential dwellings
+and includes hotels, motels and boarding homes.
+
+W. Incineration. "Incineration" means a processing method using an
+engineered apparatus capable of withstanding heat and having as its
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+purpose the efficient thermal oxidation and/or conversion of combustible
+material into noncombustible residues (ash) and product gases.
+
+X. Infectious. "Infectious" means caused by or capable of being
+communicated by invasion and multiplication of microorganisms in body
+tissues; having the potential to transmit disease.
+
+Y. Infectious agent. "Infectious agent" means a biological substance (such as
+a virus, bacterium or other biological organism) capable of causing disease
+or adverse health impacts in humans.
+
+Z. Medical facility. "Medical facility" means any place where biomedical
+waste is generated, including, but not limited to: hospitals, ambulatory
+surgical centers, emergency medical service providers, offices and mobile
+units of health care providers including doctors and dentists, nursing
+homes, medical diagnostic laboratories, blood centers, pharmaceutical
+companies, research laboratories, health agencies, diet or health care clinics,
+offices of veterinarians, veterinary hospitals, and funeral homes and
+mortuaries.
+
+AA. M.R.S.A. "M.R.S.A." means the Maine Revised Statutes Annotated.
+
+BB. Municipality. "Municipality" means a city, town, or plantation or
+unorganized township.
+
+CC. Off-Site. "Off-Site" describes a facility or area for the storage, handling
+or treatment of biomedical waste which is not on the generator's site (i.e.,
+"on-site") or a facility or area which receives biomedical waste for storage or
+treatment which has not been generated "on-site" at that facility.
+
+DD. On-Site. "On-Site" means the activity in question is taking place or
+exists at the same site. Two or more contiguous pieces of property owned by
+the same generator or facility owner are a single site for the purposes of this
+definition.
+
+EE. Operator. "Operator" means any person who has care, charge or control
+of a biomedical waste transfer or treatment facility or conveyance. This
+person may be an agent, a lessee of the owner, or an independent contractor.
+
+FF. Owner. "Owner" means any person who alone or in conjunction with
+others owns a conveyance used for the transport of biomedical waste or the
+real property upon which is located a biomedical waste facility subject to
+these rules.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+GG. Pathological waste. "Pathological waste" means human tissues, organs,
+and anatomical parts including teeth, discarded from surgery, autopsy,
+obstetrical procedures, and laboratory procedures.
+
+HH. Person. "Person" means any individual, partnership, association, firm,
+company, corporation, department, agency, group, municipality, state,
+country, other governmental unit, or any other entity responsible in any way
+for an activity subject to these rules.
+
+II. Radioactive waste. "Radioactive waste" means any waste material which
+emits ionizing radiation spontaneously.
+
+JJ. Saturated. "Saturated" means thoroughly soaked or dripping. For the
+purposes of this rule the term "saturated" refers to a waste, which at the time
+of generation, is soaked or dripping with human blood, blood products or
+body fluids.
+
+KK. Sharps. "Sharps" means items which may cause puncture wounds or
+cuts including, but not limited to, hypodermic needles, syringes, scalpel
+blades, capillary tubes and lancets. Sharps are further identified in Section
+7(A)(4) of this rule.
+
+LL. Site. "Site" means the same or geographically contiguous property which
+may be divided by a public or private right-of-way, provided that the
+entrance and exit between the properties is at a crossroads intersection and
+access is by crossing as opposed to going along the right-of-way.
+Noncontiguous properties owned by the same person but connected by a
+right-of-way which he or she controls and to which the public does not have
+access is also considered site property.
+
+MM. Site Location Law. "Site Location Law" means the Site Location of
+Development Law, 38 M.R.S.A. Section 481, et seq.
+
+NN. Solid waste. "Solid waste" as defined in 38 M.R.S.A. Section 1303-C(29)
+means useless, unwanted or discarded solid material with insufficient liquid
+content to be free flowing, including by way of example, and not by
+limitation to, rubbish, garbage, scrap materials, junk, refuse, inert fill
+material, and landscape refuse, but does not include hazardous waste,
+biomedical waste, septage or agricultural wastes.
+
+OO. Special waste. "Special waste" as defined in 38 M.R.S.A., Section 1303-
+C(34) means any solid waste generated by sources other than domestic and
+typical commercial establishments that exists in such an unusual quantity or
+in such a chemical or physical state, or any combination thereof, that may
+disrupt or impair effective waste management or threaten the public health,
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+human safety or the environment and requires special handling,
+transportation and disposal procedures.
+
+PP. Storage. "Storage" means the containment of biomedical waste either on
+a temporary basis or for a period of years, in such a manner as not to
+constitute disposal of such wastes.
+
+QQ. Substantial modification. "Substantial modification" means any change
+in size, volume handled or operation of a licensed facility which may pose a
+risk to health, safety, welfare or the environment which is significantly
+different in kind or degree from that posed by the facility without the
+modification, or may pose a significant risk which was not considered in the
+original application or is not addressed in the existing license.
+
+RR. Transfer facility. "Transfer facility" means any transportation-related
+facility including loading docks, parking areas, storage areas and other
+similar areas where shipments of biomedical waste are held during the
+normal course of transportation.
+
+SS. Transport. "Transport" means the movement of biomedical waste from
+the point of its generation to any intermediate points and finally to its point
+of ultimate disposition. Movement of biomedical waste on the site where it is
+generated or on the site of a licensed biomedical waste transfer or treatment
+facility is not "transport."
+
+TT. Transporter. "Transporter" means any person who transports
+biomedical waste in this state in any quantity, unless exempt from the
+requirements of this rule pursuant to Section 4 of this rule. The term
+includes, without limitation, individuals who own, lease or otherwise control
+conveyances in which biomedical waste is transported, operators of such
+conveyances, and businesses regardless of size and form of business
+organization, which engage in transportation of biomedical waste.
+
+UU. Transported Off-Site. "Transported Off-Site" means to be transported
+from the point of generation to a biomedical waste transfer or treatment
+facility that is not on the generator's site.
+
+VV. Treatment. "Treatment" means any method, technique, or process
+designed to change the biological character or composition of biomedical
+waste so as to eliminate or reduce its potential for causing disease.
+
+WW. Waste. "Waste" means any useless, unwanted or discarded substance
+or material, whether or not such substance or material has any other or
+future use and includes any substance or material that is spilled, leaked,
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+pumped, poured, emitted, emptied or dumped onto the land or into the
+water or ambient air.
+
+7. Definition of Biomedical Waste
+
+A. Identification of Biomedical Waste
+
+The following wastes may contain human pathogens of sufficient virulence
+and in sufficient concentrations that exposure to them by a susceptible host
+could result in disease and are, therefore, biomedical wastes for the
+purposes of this rule.
+
+(1) Discarded Human Blood, Blood Products, and Body Fluids: Discarded
+blood, serum, plasma, blood products, and body fluids. Body-fluids are
+defined as fluids which are generated or removed during surgery, autopsy,
+obstetrics, emergency care, or embalming and include cerebrospinal fluid,
+synovial fluid, pleural fluid; peritoneal fluid, pericardial fluid and amniotic
+fluid.
+
+(2) Waste Saturated With Human Blood, Blood Products, or Body Fluids:
+These may include items such as sponges, surgical gloves and masks, drapes,
+aprons, dressings, disposable sheets and towels, underpads, plastic tubing,
+suction canisters, used syringes without needles and dialysis unit waste.
+
+NOTE: The intent is to include waste which at the time of generation is
+soaked or dripping with human blood, blood products or body fluids. An
+example of material which may be included is a first change surgical
+dressing.
+
+(3) Pathological Waste: Human tissues, organs, and anatomical parts
+including teeth, discarded from surgery, autopsy, obstetrical procedures,
+and laboratory procedures.
+
+(4) Discarded Sharps Used In Patient, Animal, Cadaver Care or In Medical
+and Biomedical Research Laboratories: These include, but are not limited to,
+hypodermic needles, syringes, scalpel blades, suture needles, disposable
+razors, lancets, capillary tubes, Pasteur pipettes, broken glassware, IV tubing
+with needles attached, and dialysis bags with needles attached.
+
+(5) Discarded cultures and stocks of infectious agents and the culture dishes
+and devices used to transfer, inoculate and mix cultures; discarded clinical
+specimens and the associated containers or vials; discarded biologicals; and
+waste from the production of biologicals and recombinant DNA research.
+
+(6) Discarded Carcasses, Body Parts, Bedding and Other Waste Generated
+By Research Facilities From Animals Containing Organisms or Agents Not
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+Usual To The Normal Animal Environment And Which Are Pathogenic or
+Hazardous to Humans.
+
+B. Cytotoxic Drugs, Chemotherapy Waste
+
+The following wastes may be managed as biomedical waste for the purpose
+of this rule:
+
+(1) Cytotoxic (antineoplastic) drugs not identified as hazardous wastes in
+Chapter 850 of the Department's regulations.
+
+(2) Chemotherapy waste - All materials that have come in contact with, and
+have no more than trace amounts of, cytotoxic (antineoplastic) agents.
+
+C. Exclusions
+
+The following wastes are not biomedical waste for the purpose of this rule:
+
+(1) Human remains. Human remains that are stored, transported or
+otherwise handled for the purpose of internment or cremation are not
+subject to the requirements of this rule.
+
+(2) Urine and feces.
+
+(3) Sludge and septage. Sludge means the semi-solid or liquid residual
+generated from a municipal, commercial or industrial wastewater treatment
+plant. Septage means waste, refuse, effluent, sludge and any other materials
+from septic tanks, cesspools, or any other similar facilities.
+
+(4) Water and wastewater samples. Wastes generated as a result of the
+routine screening of water and wastewater samples are not subject to the
+requirements of this rule.
+
+8. Reference to Other Regulations
+
+A. Solid waste as defined in 38 M.R.S.A. Section 1303-C(29) and in Section 6
+of this rule shall be managed in accordance with the Department's Solid
+Waste Management Rules, Chapters 400-409.
+
+NOTE: Incinerator ash, provided it is not hazardous by characteristic, is a
+special waste. Regulations governing the handling, storage and disposal of
+incinerator ash are specified in the Department's Solid Waste Management
+Rules, Chapter 400, et seq. Incinerator ash which meets hazardous waste
+characteristics, as defined in Chapter 850 of the Department's Hazardous
+Waste Management Rules, shall be managed as a hazardous waste.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+B. Hazardous wastes as defined in 38 M.R.S.A. Section 1303-C(15) (with the
+exception of infectious and pathogenic wastes) and in Chapter 850 of the
+Department's rules shall be managed in accordance with the Department's
+Hazardous Waste Management Rules, Chapters 850, 851, 853-857.
+
+NOTE: Some cytotoxic (antineoplastic) drugs are identified as hazardous
+waste in Chapter 850 of the Department's Hazardous Waste Management
+Rules.
+
+C. Radioactive wastes as defined in Section 6(II) of this rule shall be
+managed in accordance with the rules of the U.S. Nuclear Regulatory
+Commission and the State of Maine Rules Relating to Radiation Protection.
+
+D. Wherever another applicable rule or regulation conflicts with a
+requirement of this rule, the more restrictive requirement shall apply.
+
+9. Prohibitions
+
+A. The Department may not approve an application for a new commercial
+biomedical waste treatment facility unless at least 51% of the facility is
+owned by a licensed hospital or hospitals as defined in Title 22, section 328,
+subsection 14, or a group of hospitals that are licensed under Title 22 acting
+through a statewide association of Maine hospitals or a wholly owned
+affiliate of the association.
+
+B. The Department does not permit the disposal of biomedical waste.
+Biomedical waste must be treated by an approved technology prior to being
+disposed of as a special waste.
+
+C. A biomedical waste may not be mixed with hazardous wastes or
+radioactive waste.
+
+D. Where a biomedical waste has been inadvertently or intentionally mixed
+with hazardous wastes or radioactive waste, all appropriate rules will apply
+to the management of the mixed waste. In instances where there is a conflict
+between the requirements of the rules, the more stringent requirement will
+apply.
+
+E. A biomedical waste will be delivered only to another biomedical waste
+generating facility or to a licensed biomedical waste transfer or treatment
+facility.
+
+10. Treatment Methods for Biomedical Waste
+
+Biomedical waste must be treated as follows:
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+A. Pathological waste must be incinerated, interred or treated by a treatment
+technology approved by the Department pursuant to Section 19.
+
+B. Discarded blood, blood products and body fluids must be (1) incinerated,
+(2) discharged through a sewer to a publicly owned treatment works
+(POTW), provided that it is discharged in accordance with the state's water
+quality laws and local ordinances, (3) discharged to a septic system,
+provided that the septic system is in compliance with state rules and
+standards and provided that it is discharged in compliance with local
+ordinances, or (4) treated in a licensed biomedical waste treatment facility
+using non-incineration technology approved by the Department pursuant to
+Section 19.
+
+C. All other biomedical waste must be incinerated or treated by a non-
+incineration treatment technology approved by the Department pursuant to
+Section 19.
+
+NOTE: The Department recommends that discarded cultures and stocks of
+infectious agents, (see Section 7(A)(5) of these rules) to be transported off-
+site for treatment be pre-treated by steam sterilization to reduce the
+concentration of pathogens prior to packaging in accordance with Section
+12(A) of this rule.
+
+D. All incineration of biomedical waste must be in a licensed biomedical
+waste incinerator.
+
+11. Registration of Generators
+
+A. Registration
+
+(1) Each medical facility which generates a biomedical waste shall register
+with the Department on forms available from the Department at least 30
+days prior to the date such generation is expected to commence.
+
+(2) The Department will assign a biomedical waste generator registration
+number to each medical facility which registers with the Department and
+will notify each such facility in writing of such assigned registration number.
+Upon receiving such notification, the facility shall include the assigned
+registration number in or on manifests, labels affixed to packages of
+biomedical waste, and tags enclosed in each package of biomedical waste.
+
+(3) Facilities which generate biomedical waste shall notify the Department
+in writing within 30 days of a change in majority ownership, name, location
+or operational status of the facility.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(4) The registration numbers assigned under this subsection are not
+transferable.
+
+(5) The initial registration fee will be $50 per facility.
+
+(6) Biomedical waste generators will be assessed an annual fee based on the
+average amount of biomedical waste produced per month.
+
+(a) Generators producing less than 10 pounds per month will pay an annual
+fee of $25.
+
+(b) Generators producing 10 pounds or more, but less than 50 pounds per
+month will pay an annual fee of $50.
+
+(c) Generators producing 50 pounds or more per month will pay an annual
+fee of $500.
+
+B. Biomedical Waste Management Plan
+
+(1) Except as provided for in Section 4 of this rule, each medical facility
+which generates biomedical waste shall prepare a written biomedical waste
+management plan appropriate for the size and type of facility. Such plan
+must set forth policies and procedures consistent with these regulations for
+managing biomedical waste.
+
+(2) The biomedical waste management plan must include, at a minimum,
+the following:
+
+(a) a description of the biomedical waste generated by the medical facility
+including type and volume of biomedical waste;
+
+(b) a description of any biomedical waste handling procedures, in addition
+to those required by this rule, which are specific to that medical facility
+including such information as location of storage area, etc.;
+
+(c) the treatment methods for each type of biomedical waste;
+
+(d) personnel training procedures;
+
+(e) spill containment and cleanup procedures and equipment; and
+
+(f) the name, address, and telephone number of the person(s) responsible
+for biomedical waste management at the medical facility.
+
+(3) The medical facility shall certify, at the time of registration, that a
+biomedical waste management plan has been developed for the facility.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(4) The medical facility biomedical waste management plan must be
+available for inspection by a public safety officer or authorized
+representative of the Department.
+
+12. Standards for Generators
+
+A. Packaging
+
+Biomedical waste must be properly packaged to assure effective
+containment throughout the handling, storage, transport, and treatment
+processes.
+
+(1) Biomedical wastes, other than sharps and bulk liquids, must be packaged
+in bags which are impervious to moisture and have a strength sufficient to
+resist ripping, tearing or bursting under normal conditions of usage and
+handling.
+
+(2) All bags containing biomedical waste must be red in color and imprinted
+with the international biohazard symbol and the words "biomedical waste"
+or "infectious waste." Waste in red bags will be considered biomedical waste
+and must be managed as biomedical waste.
+
+(3) Bags must be sealed by forming a secure closure which results in a leak-
+resistant seal.
+
+(4) Discarded sharps must be segregated from other biomedical waste at the
+point of generation. Discarded sharps will be placed directly into leak-
+resistant, rigid, puncture-resistant containers without clipping or breaking.
+When full or in preparation to be sent for treatment, these containers will be
+taped closed or tightly lidded to preclude loss or leakage of contents. After
+proper packaging, sharps containers may be placed in biomedical waste bags
+referred to in Section 12 (A)(1) of these rules.
+
+NOTE: An example of an acceptable container for storing discarded sharps
+at home is an empty rigid plastic bottle.
+
+(5) Discarded bulk blood and other liquids which is to be transported off-site
+will be packaged in tightly stoppered, unbreakable flasks or bottles or other
+appropriate containers.
+
+(6) All biomedical waste bagged in accordance with Section 12(A)(3), sharps
+containerized in accordance with Section 12(A)(4), and bulk liquids
+containerized in accordance with Section l2(A)(5) which are to be
+transported off-site must also be packaged for storage or handling by
+placement in disposable corrugated fiberboard boxes or equivalent rigid
+containers such as reusable pails, cartons, drums, or portable bins. The box
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+or container must be leak-resistant or lined with a bag which is impervious
+to moisture and has a 200-pound burst strength as measured by the
+industry's Mullen test.
+
+(7) Reusable containers used for the handling of biomedical waste must be
+thoroughly washed and disinfected each time they are emptied unless the
+surfaces of the containers have been effectively protected from
+contamination by disposable liners, bags or other devices which are removed
+and disposed of with the waste. A red bag may not be enclosed in a bag of
+another color.
+
+(8) Reusable containers used for the handling of biomedical waste must not
+be used for containment of waste to be disposed of as non-biomedical waste
+or for any other purpose except after being disinfected.
+
+B. Labeling
+
+Biomedical waste to be transported off-site must be labeled immediately
+after packaging in accordance with Section 12(A)(6). The label must be
+securely attached to the outer layer of packaging and be clearly legible.
+Indelible ink will be used to complete the information on the label, and the
+label will be at least three inches by five inches in size. The following
+information must be included on the label:
+
+(1) The name, address, business telephone number, and registration number
+of the generator;
+
+(2) "Biomedical Waste" or "Infectious Waste" in large print;
+
+(3) "Refrigeration Required" in large print if pathological waste, cultures, or
+animal carcasses or body parts are included in the contents;
+
+(4) The name, address, business telephone number, and registration
+number of the person or persons to whose control the biomedical waste is to
+be transferred;
+
+(5) The international biohazard symbol; and
+
+(6) The date upon which the biomedical waste was packaged in accordance
+with Section 12(A)(6).
+
+C. Handling
+
+(1) Packages of biomedical waste must be handled in a manner that does not
+impair the integrity of the packaging.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(2) Trash chutes will not be used to transfer biomedical waste between
+locations where it is contained.
+
+(3) Compactors must not be used in the handling of biomedical waste.
+Biomedical waste in bags or other containers must not be subjected to
+compaction by any compacting device and must not be placed for storage or
+transport in a portable or mobile trash compactor.
+
+D. Storage
+
+(1) Biomedical waste must be segregated from other wastes.
+
+(2) All on-site storage of containers of biomedical waste must be in a
+designated area away from general traffic flow patterns and, where possible,
+in a room reserved for this purpose. The manner of storage must prevent
+access to or contact with such waste by unauthorized persons.
+
+(3) Biomedical waste must be stored in a manner that preserves the integrity
+of the container and is not conducive to rapid microbial growth and/or
+putrefaction. Pathological waste, cultures, and discarded animal carcasses
+and body parts stored for more than 24 hours after packaging in accordance
+with Section 12(A)(3) must be refrigerated at a temperature of 45?F or below
+in a refrigerator or refrigerated space used only for biomedical waste.
+
+(4) All areas used for the storage of biomedical waste must be capable of
+being readily maintained in a sanitary condition.
+
+(5) All biomedical waste containers must be stored in a manner that allows
+access for inspection.
+
+(6) Biohazard signs must be posted wherever biomedical waste is stored or
+contained, including on storage rooms doors, refrigerators, bins and other
+containers.
+
+E. Manifests and Record Keeping Requirements
+
+(1) Except as provided for in Section 4, the generator of biomedical waste
+that is to be transported off-site for treatment or disposal shall initiate a
+biomedical waste 4-part manifest available from the Department. Copy 4 of
+the biomedical waste manifest is to be retained by the generator; Copy 3, by
+the transporter; Copy 2, by the transfer or treatment facility; and Copy 1 is to
+be returned to the generator.
+
+(2) If the generator does not receive the completed manifest from the
+treatment facility within 35 days after the date the waste was accepted by the
+transporter, the generator shall report this fact to the Department.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(3) Retention of Records. Manifests must be retained by the generator for a
+period of not less than 3 years. The period of retention of records is extended
+automatically during the course of any unresolved enforcement action
+regarding the regulated activity or as requested by the Commissioner. These
+records must be made available for inspection by the Department upon
+request.
+
+(4) The Department may approve electronic manifesting systems upon
+demonstration to the Department that the system meets EPA electronic
+manifest standards and provides an equal degree of regulatory oversight as
+the existing system. A paper copy must be provided to a generator upon
+request.
+
+13. Licensing of Transporters
+
+A. Applicability
+
+No person may transport biomedical waste without first obtaining a
+biomedical waste transporter license from the Department unless:
+
+(1) exempted pursuant to Section 4, or
+
+(2) the biomedical waste is moved in the site where it is generated or in the
+site of a license transfer or treatment facility.
+
+B. Application Requirements
+
+(1) Application for a biomedical waste transporter license must be made on a
+form obtained from the Department.
+
+(2) All persons transporting biomedical waste shall apply to the Department
+at least 30 days prior to the date they wish to begin transporting biomedical
+waste and must obtain a license prior to transporting.
+
+(3) A transporter may apply for a license to cover himself as an operator and
+all conveyances which he or she either owns or leases for the purpose of
+biomedical waste transport. Where such an application is made and a single
+license issued, a license certificate must be obtained from the Department
+for the operator and for each conveyance covered by the license.
+
+(4) A transporter which is a business that engages in the transportation of
+biomedical waste may apply for a transporter license to cover all locations of
+the business; all conveyances owned, leased or otherwise controlled by the
+business and used for the transportation of biomedical waste; and all
+operators of such conveyances employed by the business. Where such an
+application is made and a single license issued, a license certificate must be
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+obtained from the Department for each business location, each conveyance
+and each operator covered by the license. The requirements of this rule
+apply to the entire license and/or to the separate business locations and/or
+to the separate conveyances and/or to the separate operators covered by the
+license.
+
+(5) An applicant or licensee shall immediately notify the Department in
+writing of any change in circumstance or situation which changes or will
+change any information stated on his application.
+
+(6) The applicant must submit:
+
+(a) Evidence of an applicant's history of compliance with laws, regulations
+and standards relating to environmental protection.
+
+NOTE: For example, the Department will require the applicant to provide a
+list of all environmental licenses or permits previously obtained by the
+applicant in this, or any other, State as well as information pertaining to the
+status of those licenses or permits or to any related enforcement actions.
+
+(b) Records pertaining to the operation of motor vehicles.
+
+(c) A certificate of liability insurance covering the licensed activity in an
+amount appropriate for the licensed activity and for the risk involved. In no
+event, however, may the limit of liability be less than $1,000,000.
+
+(d) A spill plan for the cleanup of discharges of biomedical waste that the
+applicant proposes to transport and evidence of the capability to carry out
+the plan.
+
+(e) Any other information, including safety histories and training programs,
+which the Department deems to be necessary.
+
+(7) The application must be signed by:
+
+(a) A principal executive officer of at least the level of vice president, if the
+applicant is a corporation.
+
+(b) A general partner or a proprietor, if the applicant is a partnership or sole
+proprietorship.
+
+(c) A principal executive officer or ranking elected official, if the applicant is
+a municipal, state, federal or other public agency.
+
+(8) The application fee schedule follows:
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(a) An application fee of $100 must accompany each application for an
+initial or renewal license.
+
+(b) If an applicant is applying for a license to cover more than one
+conveyance, and/or more than one operator and/or more than one business
+location, he or she must submit with the application an additional fee of $50
+for each additional conveyance, operator or business location.
+
+(c) Application fees for additional conveyances, operators or business
+locations will be reduced to $25 if the date of issuance of any license
+certificate is within six (6) months of the expiration date of the license.
+
+(d) Application fees are non-refundable.
+
+(9) Application for renewal of a license must be made no sooner than ninety
+(90) days and no later than 30 days prior to the date of its expiration and
+will be made on forms provided by the Department. A copy of a prior
+application may, at the discretion of the Department, be submitted as the
+renewal application provided there has been no change in the information
+included therein or required by this rule. The applicant shall accompany the
+copy with a recent certificate of insurance, and a letter, signed and dated by
+the applicant, that states there have been no changes.
+
+C. Decisions
+
+The Department shall issue a biomedical waste transporter license whenever
+it finds that the applicant has satisfied all application requirements and has
+demonstrated the technical and financial ability to comply with the
+operating requirements and manifest and recordkeeping requirements of
+this section, all terms and conditions of the license, and all other
+requirements of this rule.
+
+D. Terms
+
+(1) A license or renewal of a license granted under this rule is valid for one
+calendar year beginning with the date of issuance. Business location license
+certificates, conveyance license certificates and operator license certificates
+issued with the initial license or added thereafter as provided by this rule
+will also expire on the date the license expires.
+
+(2) A license under this rule is issued on the basis of information supplied in
+the application and is valid only so long as that information remains
+accurate. Where the Department has been notified of a change in the
+information, the license remains valid notwithstanding the change, so long
+as the licensee complies with any additional or different terms and
+conditions of the license necessitated by the changed information.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(3) A license under this rule is issued only to and for the persons,
+conveyances, locations and activities specified in the license and is non-
+transferable. Operators who are no longer employed by the licensee and
+conveyances which are no longer owned, leased or otherwise controlled by
+the licensee are no longer covered by the license and must not be used to
+transport biomedical waste. Any certificate issued to such operators or
+conveyances must be returned to the Department within 10 calendar days of
+the date of change.
+
+(4) A conveyance used to transport biomedical waste may be inspected at
+any time for compliance with its license and these rules, and for adequacy
+for safe transportation of biomedical waste. Inspection may be made by a
+public safety officer or any authorized representative of the Department. A
+conveyance found to be not in compliance with this rule or to be otherwise
+unsafe may not thereafter be operated except under the direction of a public
+safety officer or an authorized representative of the Department.
+
+E. Standard Conditions
+
+All transporter licenses issued under this rule are subject to the following
+standard conditions:
+
+(1) Duty to Comply. The licensee shall comply with all conditions of the
+license and these rules. Noncompliance with the license or rule constitutes a
+violation and is grounds for enforcement action, for license suspension or
+revocation, or for denial of any renewal application.
+
+(2) Liability Insurance. A licensee shall have liability insurance coverage in
+force at all times during the term of the license. The coverage must be
+appropriate for the licensed activity and for the risk involved. Under no
+circumstance may the amount of liability insurance in force be less than
+$1,000,000.
+
+(3) Local, State and Federal Permits. A licensee shall hold all other local,
+state and federal permits, licenses and certifications required for the
+licensed activity and shall comply with all applicable local, state and federal
+laws and rules.
+
+(4) Record Keeping. A licensee shall comply with all applicable state and
+federal requirements regarding the use of a manifest and the maintenance of
+other required records.
+
+(5) Duty to Ensure Safe Operation. It is the duty of a licensee to ensure that
+the licensed activity is carried out safely and does not create a threat to
+public health or safety or the environment. A licensee shall ensure that all
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+methods, equipment and personnel are adequate and capable to achieve this
+end.
+
+(6) Inspection and Training Requirements. A licensee shall comply with all
+state and federal inspection and training requirements as may from time to
+time be applied by law, rule or license condition to the licensed activity.
+
+(7) Response to an Emergency. A licensee agrees to provide to the
+Department and to public safety agencies all information necessary for
+response to emergency situations involving the licensed activity and agrees
+to assist the Department in obtaining compliance with this rule.
+
+(8) Spill Plan. The operator of a conveyance must be familiar with the spill
+plan for the conveyance and for the wastes in the conveyance which he or
+she is operating and shall be capable of carrying out the plan.
+
+(9) Discharge of Biomedical Waste. In the event of a discharge of biomedical
+waste in any amount, the licensee shall take immediate appropriate action to
+protect public health, safety and welfare and the environment, including
+immediate implementation of the approved spill plan, and shall immediately
+report the discharge to the Maine Department of Environmental Protection.
+
+(10) Duty to Mitigate. The licensee shall take all reasonable steps to
+minimize or correct any adverse impact on the environment resulting from
+noncompliance with the license.
+
+(11) Duty to Reapply. If the licensee wishes to continue an activity regulated
+by the license after the expiration date of the license, the licensee must apply
+for and obtain a new license.
+
+F. Special Conditions
+
+The Department may place special conditions on any license issued under
+this rule. However, special conditions must address particular means of
+satisfying minor or easily corrected problems relating to compliance with
+this rule and with all applicable statutes and may not substitute for or
+reduce the burden of proof on the applicant to affirmatively demonstrate to
+the Department that each of the applicable standards has been met.
+
+G. Suspension or Revocation
+
+(1) The Department may seek suspension or revocation of a license pursuant
+to 38 M.R.S.A. Section 341-D(3).
+
+(2) Suspension or revocation may be sought as to any or all operators,
+conveyances or locations covered by the license.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(3) Where a license covers more than one operator and/or conveyance
+and/or location and if two or more operator, conveyance and/or location
+licenses covered thereunder are suspended within a calendar year, the
+Department may seek revocation of the entire license.
+
+(4) The Department shall seek revocation of any license which is again
+suspended within 18 months of its prior suspension or revocation.
+
+(5) A licensee whose license has been revoked may not reapply for a license
+until the conditions or violations which led to the revocation have been
+eliminated.
+
+14. Standards for Transporters
+
+A. Operations
+
+(1) The packaging, labeling, handling, and storage requirements specified in
+Sections 12(A), 12(B), 12(C), and 12(D) of this rule, apply to the
+transportation of biomedical waste.
+
+(2) Except as stated in Section 4 of this rule, biomedical waste shall only be
+transported from the point of generation by transporters who are licensed by
+the Department.
+
+(3) No person may transport or receive for transport any biomedical waste
+that is not packaged and labeled in accordance with these rules.
+
+(4) Conveyances that transport biomedical waste must include a cargo-
+carrying portion that must be closed and secured except when loading or
+unloading waste to prevent unauthorized access and exposure to wind
+and/or precipitation; must be designed and constructed so as to contain any
+spillage; must be cleaned and disinfected following leakage or spills; and
+must be cleaned and disinfected prior to using the conveyance for any other
+purpose.
+
+(5) The identity of the biomedical waste hauler and the international
+biohazard symbol must appear on three sides and the door of the cab of
+conveyances used to transport biomedical waste. The lettering of such
+identification must be clearly legible during daylight from a distance of 50
+feet.
+
+(6) The transporter license certificate, or certified copy thereof obtained
+from the Department, must be available for inspection upon demand by any
+public safety officer or any authorized representative of the Department.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(a) A certificate covering an operator must be in his or her immediate
+possession while he or she is engaged in the transportation of biomedical
+waste.
+
+(b) A certificate covering a conveyance must be with the conveyance while it
+is engaged in the transportation of biomedical waste.
+
+(c) A certificate covering a business must be prominently displayed at each
+location of the business.
+
+(7) Vehicles used to transport biomedical wastes must carry an appropriate
+spill containment and clean up kit.
+
+(8) Biomedical waste must not be compacted or subjected to violent
+mechanical stress during transport.
+
+(9) Biomedical waste may not be transported in the same vehicle with other
+waste unless the biomedical waste is separately contained in rigid reusable
+containers or kept separate by barriers from other waste, or unless all of the
+waste is to be treated and disposed of as biomedical waste in accordance
+with this rule.
+
+B. Manifests and Record Keeping
+
+(1) A transporter may not accept biomedical waste from a generator unless it
+is accompanied by a manifest with the generator portion completed, signed
+and dated by the generator.
+
+(2) A transporter shall in the presence of the generator or, for subsequent
+transporters, the prior transporter, complete the appropriate transporter
+portion of the manifest, including handwritten acceptance signature and
+date of acceptance, and immediately give a signed copy of the manifest to
+the generator or prior transporter, noting any discrepancies in manifest
+information.
+
+(3) Copy 4 of the 4-part biomedical waste manifest is to be retained by the
+generator; Copy 3, by the transporter; Copy 2, by the transfer or treatment
+facility; and Copy 1 is to be returned to the generator.
+
+(4) Retention of Records. Manifests must be retained by the licensed
+biomedical waste transporter for a period of not less than three (3) years.
+The period of retention of records is extended automatically during the
+course of any unresolved enforcement action regarding the regulated activity
+or as requested by the Department. These records must be made available
+for inspection by the Department, upon request.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+15. Licensing of Transfer Facilities
+
+A. Applicability
+
+(1) No person may accept biomedical waste generated off-site for the
+purpose of temporary storage prior to transport to another licensed
+biomedical waste transfer or treatment facility without first obtaining a
+biomedical waste transfer facility license from the Department.
+
+(2) Exclusions. Generators of biomedical waste who accept less than a total
+of 100 pounds per month of biomedical waste from other generators for the
+purpose of temporary storage prior to transport to a licensed biomedical
+waste transfer or treatment facility are not transfer facilities for the purposes
+of this rule provided the waste accepted from off-site is stored with the
+receiving generator's biomedical waste and is managed in accordance with
+Sections 12(A), 12(B), 12(C), and 12(D) of this rule.
+
+B. Application Requirements
+
+(1) Application for a biomedical waste transfer facility license will be made
+on a form obtained from the Department. The license application will be
+processed in accordance with Chapter 2 of the Department's rules.
+
+(2) Persons wishing to establish a transfer facility shall apply to the
+Department at least 60 days prior to the date they wish to begin operations.
+
+(3) An applicant or licensee shall immediately notify the Department in
+writing of any change in circumstance or situation which changes or will
+change any information stated on his or her application.
+
+(4) The applicant must submit:
+
+(a) Evidence of the applicant's history of compliance with laws, regulations
+and standards relating to environmental protection.
+
+NOTE: For example, the Department will require the applicant to provide a
+list of all environmental licenses or permits previously obtained by the
+applicant in this, or any other, State as well as information pertaining to the
+status of those licenses or permits or to any related enforcement actions.
+
+(b) A certificate of liability insurance covering the licensed activity in an
+amount appropriate for the licensed activity and for the risk involved. In no
+event, however, may the limit of liability be less than $1,000,000.
+
+(c) Any other information, including safety histories and training programs,
+which the Department deems to be necessary.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(5) The applicant must demonstrate in his application sufficient financial
+capacity to construct, operate, maintain and close all aspects of the facility.
+
+(6) All property survey work must be signed and certified by a State of Maine
+Registered Land Surveyor.
+
+(7) All drawings, site plans and maps must be on sheets no smaller than
+8?quot; x 11" and no larger than 30" x 40" and must be folded to a size of
+8?quot; x 11" or smaller.
+
+(8) Biomedical Waste Management and Operations Plan
+
+(a) Each applicant for a biomedical waste transfer facility must submit a
+written biomedical waste management and operations plan. Such plan will
+set forth policies and procedures consistent with these rules for managing
+biomedical waste.
+
+(b) The plan must include, at a minimum, the following:
+
+(i) a description of the biomedical waste handled by the facility including
+type and volume of biomedical waste;
+
+(ii) a detailed narrative explaining how the facility will operate, including,
+but not limited to, design capacity, a description of all biomedical waste
+storage areas and equipment specifications;
+
+(iii) hours and days of operation of the facility and the number of
+conveyances delivering biomedical waste that are expected daily and that
+can be accommodated daily;
+
+(iv) a general inspection schedule for the facility;
+
+(v) a description of security procedures and equipment;
+
+(vi) training procedures for personnel who handle biomedical waste;
+
+(vii) emergency spill containment and cleanup procedures and equipment;
+and
+
+(viii) the name, address, and telephone number of the person(s) responsible
+for biomedical waste management at the facility.
+
+(c) The plan must be available for inspection at the facility by a public safety
+officer or authorized representative of the Department.
+
+(9) Public Informational Meeting. The applicant must hold a public
+informational meeting on the project. The purpose of the meeting is to
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+provide information to the public and interested persons regarding the
+purpose of the project. The public informational meeting shall be held in the
+municipality or political jurisdiction where the project is to be located. The
+public notice of the application provided in accordance with Chapter 2 must
+identify the date, time and place of the public informational meeting.
+
+(10) Access to the Site. By filing an application for a license, the applicant
+agrees to provide authorized representatives of the Department with access
+to the facility site in order that the site may be evaluated for suitability as a
+biomedical waste transfer facility. Insofar as practical, access will be sought
+during normal business hours.
+
+(11) Application Fee
+
+(a) At the time of filing, the applicant must remit an application fee of
+$1,000 made payable to the Maine Hazardous Waste Fund.
+
+(b) Application fees are required for an initial application, a renewal
+application, and an application for a license amendment seeking approval
+for a substantial modification to a facility or license.
+
+(c) A refund of 50% of the fee will be made to an applicant who withdraws
+the application within 30 calendar days of its submission.
+
+(12) Annual License Fee. The licensee must remit an annual fee of $500
+upon the issuance of the license and on each anniversary date thereafter.
+
+C. Decisions
+
+The Department shall issue a biomedical waste transfer facility license
+whenever it finds that the applicant has satisfied all application
+requirements and has demonstrated the technical and financial ability to
+comply with the operating requirements and manifest and recordkeeping
+requirements of this section, all terms and conditions of the license, and all
+other requirements of this rule.
+
+D. Terms
+
+(1) A license or renewal of a license granted under this rule is valid for 5
+calendar years beginning with the date of issuance, but may be for a shorter
+time period if the Department deems it necessary in order to assure
+compliance with this rule.
+
+(2) A license under this rule is issued on the basis of information supplied in
+the application and is valid only so long as that information remains
+accurate.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(3) A license under this rule is issued only to and for the persons, location
+and activities specified in the license unless a license transfer is approved in
+accordance with Department rules.
+
+(4) A biomedical waste transfer facility may be inspected at any time for
+compliance with its license and this rule. Inspection may be made by a
+public safety officer or any authorized representative of the Department.
+
+(5) The license may be modified, suspended or revoked by the Board
+pursuant to 38 M.R.S.A. Section 341-D(3).
+
+E. Standard Conditions
+
+All transfer facility licenses issued under this rule are subject to the
+following standard conditions.
+
+(1) The licensee shall not operate, construct or maintain a biomedical waste
+transfer facility other than as described in the application approved by the
+Department.
+
+(2) Relation of License to Application. A license issued under this rule is
+valid only as long as the information supplied in the application remains
+accurate. Approval of an application is dependent upon and limited to the
+proposals and plans contained in the application and supporting documents
+submitted and affirmed by the applicant. Any variation from the plans,
+proposals and supporting documents is subject to the review and approval of
+the Department prior to implementation.
+
+(3) Duty to Comply. The licensee shall comply with all conditions of the
+license and these rules. Noncompliance with the license or rule constitutes a
+violation of law and is grounds for enforcement action, for license
+suspension or revocation, or for denial of any renewal application.
+
+(4) Liability Insurance. A licensee shall have liability insurance coverage in
+force at all times. The coverage must be appropriate for the licensed activity
+and for the risk involved. Under no circumstance may the amount of liability
+insurance in force be less than $1,000,000.
+
+(5) Local, State and Federal Permits. A licensee shall hold all other local,
+state and federal permits, licenses and certifications required for the
+licensed activity and will comply with all applicable local, state and federal
+laws and rules.
+
+(6) Record Keeping. A licensee shall comply with all applicable state and
+federal requirements regarding the use of a manifest and the maintenance of
+other required records.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(7) Duty to Ensure Safe Operation. It is the duty of a licensee to ensure that
+the licensed activity is carried out safely and does not create a threat to
+public health or safety or the environment. A licensee shall ensure that all
+methods, equipment and personnel are adequate and capable to achieve this
+end.
+
+(8) Inspection and Training Requirements. A licensee shall comply with all
+state and federal inspection and training requirements as may from time to
+time be applied by law, rule or license condition to the licensed activity.
+
+(9) Response to an Emergency. A licensee agrees to provide to the
+Department and to public safety agencies all information necessary for
+response to emergency situations involving the licensed activity and agrees
+to assist the Department in obtaining compliance with this rule.
+
+(10) Discharge of Biomedical Waste. In the event of a discharge of
+biomedical waste in any amount, the licensee shall take immediate action to
+protect public health, safety and welfare and the environment, including
+immediate implementation of the spill containment and cleanup procedures
+contained in the approved biomedical waste management and operations
+plan, and shall immediately report the discharge to the Maine Department
+of Environmental Protection.
+
+(11) Duty to Mitigate. The licensee shall take all reasonable steps to
+minimize or correct any adverse impact on the environment resulting from
+noncompliance with the license.
+
+(12) Duty to Reapply. If the licensee wishes to continue an activity regulated
+by the license after the expiration date of the license, the licensee must apply
+for and obtain a new license. Such application shall be made at least 6
+months prior to the expiration of the license.
+
+(13) Duty to Provide Information. The licensee shall furnish to the
+Department, upon request, any information that the Department may
+require to determine compliance with the license and this rule. The licensee
+shall also furnish to the Department, upon request, copies of records
+required to be kept by the licensee and not otherwise required to be filed
+with the Department.
+
+F. Special Conditions
+
+The Department may place special conditions on any license issued under
+this rule. However, special conditions must address particular means of
+satisfying minor or easily corrected problems relating to compliance with
+this rule and with all applicable statutes and may not substitute for or
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+reduce the burden of proof on the applicant to affirmatively demonstrate to
+the Department that each of the applicable standards has been met.
+
+G. Suspension or Revocation
+
+The Department may seek suspension or revocation of a license pursuant to
+38 M.R.S.A. Section 341-D(3).(2) A licensee whose license has been revoked
+may not reapply for a license within one calendar year from the effective
+date of the revocation.
+
+16. Standards for Transfer Facilities
+
+A. Facility Location Criteria
+
+(1) Environmental Performance Standards. All biomedical waste transfer
+facilities must be located, designed, constructed, altered, operated,
+maintained, and closed in a manner that will ensure protection of public
+health and welfare and the environment. Protection of health and welfare
+and the environment includes, but is not limited to:
+
+(a) prevention of adverse effects on ground water quality;
+
+(b) prevention of adverse effects on surface water quality;
+
+(c) prevention of adverse effects on air quality; and
+
+(d) prevention of adverse effects due to migration of waste constituents in
+the subsurface environment.
+
+(2) Siting Criteria. All new biomedical waste transfer facilities as well as
+substantial modifications to existing facilities are prohibited in the following
+areas:
+
+(a) Areas in which a risk to any underground source of potable water for
+people may be created. Location within 300 feet is presumed to pose a risk
+such that a license cannot be issued unless demonstrated otherwise to the
+Department's satisfaction;
+
+(b) Within 100 feet of any 100-year flood plain or within 100 feet of the level
+of any actual documented flood of a greater magnitude;
+
+(c) On land defined as a wetland under statutes or regulations administered
+by the following Departments: Environmental Protection, Conservation
+(Land Use Regulation Commission - LURC), Inland Fisheries & Wildlife,
+Marine Resources or the State Planning Office;
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(d) Areas in which a threat to the fisheries, wildlife or other natural
+resources of a sanctuary, refuge, preserve, state or federal park, designated
+wilderness area, critical area or fish hatchery may be created; and
+
+(e) Within the boundaries of a state or federal park or designated wilderness
+area.
+
+B. Design Standards
+
+(1) Biomedical waste must be stored in conveyances or buildings that are
+leak-proof and equipped with locks.
+
+(2) If the transfer facility is not located at a medical facility, it must be
+enclosed by a chain link fence, at least six feet in height, and access will be
+controlled by a locking gate or an alternate Department approved security
+system that offers equivalent protection.
+
+(3) The fence, conveyances or buildings must be posted with warning signs
+which indicate a potential biological hazard.
+
+(4) All biomedical waste conveyances and buildings used primarily for the
+storage of biomedical waste must be located at least 50 feet from the facility
+property boundaries.
+
+(5) The operating area of the facility must be an impervious surface, such as
+asphalt or concrete, which must be kept entire.
+
+(6) The facility must have provisions for the packaging of biomedical waste
+in the event that repackaging is required because the integrity of the original
+container has been compromised. Such re-packaging must be carried out in
+an enclosed space which is designed to contain any spillage of waste and
+prevent exposure to wind and precipitation.
+
+C. Operating Standards
+
+(1) The packaging, labeling, handling, and storage requirements specified in
+Sections 12(A), 12(B), 12(C), and 12(D) of this rule apply to biomedical waste
+transfer facilities.
+
+(2) An operator of a biomedical waste transfer facility may not accept any
+biomedical waste that is not packaged and labeled in accordance with this
+rule and accompanied by a properly completed manifest except as provided
+for in Section 4 of this rule.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(3) Biomedical waste may not be re-packaged unless the integrity of the
+original packaging has been compromised such that it can no longer contain
+the wastes.
+
+(4) Biomedical waste which was generated off-site may not be held at a
+transfer facility for more than one week (168 hours), except that:
+
+(a) Pathological waste that is to be transferred off the site of the transfer
+facility for treatment may be stored up to 30 days provided it is frozen at a
+temperature of zero degrees Fahrenheit or below, and
+
+(b) Trace chemotherapy waste and anti-neoplastic drugs as described in
+Section 7 (B) of this rule that are to be treated at another facility may also be
+stored for up to 30 days.
+
+NOTE: The purpose of the above provision is to enable the efficient
+consolidation and movement of biomedical waste to the limited number of
+licensed treatment facilities for these portions of the waste stream requiring
+specialized treatment without risk to human health or the environment.
+
+(5) Pathological wastes, cultures, and discarded animal carcasses and body
+parts must be stored in refrigerated conveyances or storage buildings in a
+frozen state.
+
+(6) Biomedical waste may not be compacted or subjected to violent
+mechanical stress during transfer, storage or any time prior to final
+treatment.
+
+(7) All areas used for the storage of biomedical waste must be maintained in
+a sanitary condition and must be designed to control or contain any spillage
+of such wastes.
+
+(8) The on-site population of disease vectors must be controlled to protect
+public health.
+
+(9) The facility access gate and all biomedical waste conveyances and storage
+buildings must be closed except when loading or unloading wastes and must
+be locked whenever an operator is not in attendance at the facility.
+
+(10) The biomedical waste transfer facility license or certified copy thereof
+obtained from the Department must be available for inspection upon
+demand by any public safety officer or any authorized representative of the
+Department.
+
+D. Closure
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+A licensee who no longer accepts waste at a site shall remove all biomedical
+waste and biomedical waste residues to a facility licensed to handle the
+waste. Remaining conveyances, equipment, buildings and soil containing or
+contaminated with biomedical waste or biomedical waste residues must be
+disinfected or disposed of at a facility licensed to handle the waste. The
+licensee shall provide 60 days written notice to the Department prior to
+closure and shall submit to the Department, within 10 days of completion of
+closure, certification that closure was completed in accordance with this
+rule.
+
+E. Manifests and Record Keeping
+
+(1) A transfer facility may not accept more than 50 pounds of biomedical
+waste from a biomedical waste generator or any quantity of biomedical
+waste from a transporter unless it is accompanied by a properly completed
+manifest.
+
+(2) A transfer facility operator shall, in the presence of the generator or the
+transporter, complete the appropriate transfer facility portion of the
+manifest, including handwritten acceptance signature and date of
+acceptance, and immediately give a signed copy of the manifest to the
+generator or transporter, noting any discrepancies in manifest information.
+
+(3) The operator of a biomedical waste transfer facility that has accepted
+biomedical waste from a generator without a manifest because the quantity
+is less than 50 pounds shall maintain a log of all such wastes which includes,
+at a minimum, the following:
+
+(a) The name, address and identification number of the transfer facility;
+
+(b) The type and volume of waste received;
+
+(c) The date of receipt of such waste;
+
+(d) The name, location and identification number of the generator; and
+
+(e) The signature of the person receiving the waste.
+
+(4) The transfer facility shall initiate a biomedical waste 4-part manifest
+available from the Department. In instances where the transfer facility
+initiates the manifest, Copy 4 of the biomedical waste manifest is to be
+retained by the transfer facility; Copy 3, by the transporter; Copy 2, by the
+transfer or treatment facility; and Copy 1 is to be returned to the transfer
+facility. If the transfer facility does not receive the completed manifest from
+the treatment facility within 35 days after the date the waste was accepted by
+the transporter, the transfer facility must report this fact to the Department.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(5) Retention of Records. Manifests and logs must be retained by the
+licensed biomedical waste transfer facility for a period of not less than 3
+years. The period of retention of records is extended automatically during
+the course of any unresolved enforcement action regarding the regulated
+activity or as requested by the Department. These records must be available
+for inspection by the Department, upon request.
+
+17. Licensing of Treatment Facilities
+
+A. Applicability
+
+No person may treat biomedical waste without first obtaining a biomedical
+waste treatment facility license from the Department.
+
+NOTE: Both incineration and non-incineration treatment technologies are
+considered to be a method of treatment, not disposal. The Department will
+not issue a license for the disposal of untreated biomedical waste.
+
+B. Application Requirements
+
+(1) Application for a biomedical waste treatment facility license must be
+made on a form obtained from the Department. The license application will
+be processed in accordance with Chapter 2 of the Department's rules. An
+applicant or licensee shall immediately notify the Department in writing of
+any change in circumstance or situation which changes or will change any
+information stated on his or her application.
+
+(2) Persons wishing to incinerate biomedical waste must apply to the
+Department for a biomedical waste treatment facility license pursuant to
+this rule and an air emission license pursuant to Chapter 115, Major and
+Minor Source Air Emission License Regulations. A solid waste incineration
+facility currently licensed under Chapter 403 of the Department's Solid
+Waste Management Rules must apply to the Department to amend its
+license to cover biomedical waste in accordance with this rule prior to
+accepting biomedical waste.
+
+(3) Persons wishing to treat biomedical waste utilizing a non-incineration
+treatment technology including, but not limited to, steam sterilization or
+microwaving, must obtain approval of the non-incineration treatment
+technology pursuant to Section 19 and a biomedical waste treatment facility
+license pursuant to this rule.
+
+(4) The Department will not accept an application for the disposal of
+untreated biomedical waste.
+
+(5) Biomedical Waste Management and Operations Plan
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(a) Each biomedical waste treatment facility must submit a written
+biomedical waste management and operations plan. Such plan will set forth
+policies and procedures consistent with these rules for managing biomedical
+waste.
+
+(b) The plan must include, at a minimum, the following:
+
+(i) a description of the biomedical waste handled by the facility including
+type and volume of biomedical waste;
+
+(ii) a detailed narrative explaining how the facility will operate, including,
+but not limited to, design capacity, equipment specifications, on site storage,
+and flow diagram schematics for all parts of the facility;
+
+(iii) total capacity and life expectancy of the facility, including calculations
+used to derive these data;
+
+(iv) hours and days of operation of the facility and the number of
+conveyances delivering biomedical wastes that are expected daily and that
+can be accommodated daily;
+
+(v) a general inspection schedule for the facility;
+
+(vi) a description of security procedures and equipment;
+
+(vii) training procedures for personnel who handle biomedical waste;
+
+(viii) emergency spill containment and cleanup procedures and equipment;
+and
+
+(ix) the name, address, and telephone number of the person(s) responsible
+for biomedical waste management at the facility.
+
+(c) The plan must be available for inspection at the facility by a public safety
+officer or authorized representative of the Department.
+
+(6) Treated Biomedical Waste Management Plan
+
+(a) In instances where the facility incinerates biomedical waste, the
+applicant must submit a plan for the storage, testing, removal and disposal
+of the incinerator ash.
+
+(b) In instances where the facility treats biomedical waste using a non-
+incineration treatment technology approved pursuant to Section 19, the
+applicant must submit a plan for the storage, testing, removal and disposal
+of the treated waste and other residues, if any. The plan must demonstrate
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+that the activity protects public health and safety and the environment and
+must provide for the following:
+
+(i) the treated waste must meet the performance standards in Section 19 of
+this rule;
+
+(ii) the wastes and treatment residues must be managed in a manner
+protective of human health and the environment;
+
+(iii) all biomedical waste treated via a non-incineration treatment
+technology must be accompanied when shipped for disposal by a "Certificate
+of Destruction" certifying compliance with treatment performance standards
+as stated in Section 19;
+
+(iv) the treated biomedical waste as a special waste must be handled, stored
+and disposed of as a special waste; and
+
+(v) the plan must require a contract with a disposal facility licensed by the
+Department to accept special waste. The plan must also name all back up
+disposal facilities.
+
+(7) The applicant must submit evidence of the applicant's history of
+compliance with laws, regulations and standards relating to environmental
+protection and any other information, including safety histories and training
+programs, which the Department deems to be necessary.
+
+NOTE: For example, the Department may require the applicant to provide a
+list of all environmental licenses or permits previously obtained by the
+applicant in this, or any other, State as well as information pertaining to the
+status of those licenses or permits or to any related enforcement actions.
+
+(8) The applicant must submit information regarding liability insurance
+coverage as follows:
+
+(a) The applicant must submit with his application, and annually thereafter,
+proof of liability insurance against bodily injury or property damage. The
+level of coverage must be at least one million dollars per occurrence and two
+million dollars annual aggregate or such other financial guarantees which
+the Department determines are equivalent. The Department may require a
+higher minimum level of insurance coverage for a particular facility if it
+finds that, because of the design, operation or location of the facility, higher
+coverage is necessary to protect the public health, safety and welfare or the
+environment.
+
+(b) All liability insurance coverage amounts must be exclusive of legal
+defense costs.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(c) A financial test may not be used in lieu of liability insurance nor may an
+owner or operator self-insure.
+
+(9) The applicant must demonstrate in his application sufficient financial
+capacity to construct, operate, maintain and close all aspects of the facility.
+Such demonstration shall be made on an annual basis.
+
+(10) All engineering designs, reports, plans and other technical engineering
+documents must be signed and certified by a registered professional
+engineer.
+
+(11) All geological work must be signed and certified by a State of Maine
+Certified Geologist, except that soils work may be signed and certified by a
+State of Maine Certified Soil Scientist.
+
+(12) All property survey work must be signed and certified by a State of
+Maine Registered Land surveyor.
+
+(13) All drawings, site plans and maps must be on sheets no smaller than
+8?quot; x 11" and no larger than 30" x 40" and will be folded to a size of
+8?quot; x 11" or smaller.
+
+(14) Public Informational Meeting. The applicant must hold a public
+informational meeting. The purpose of the meeting is to provide information
+to the public and interested persons regarding the purpose of the project.
+The public informational meeting will be held in the municipal or political
+jurisdiction where the project is to be located. The public notice of the
+application provided in accordance with Chapter 2 must identify the date,
+time and place of the public informational meeting.
+
+(15) Access to the Site. By filing an application for a license, the applicant
+agrees to provide authorized representatives of the Department with access
+to the facility site in order that the site may be evaluated for suitability as a
+biomedical waste treatment facility. Insofar as practical, access will be
+sought during normal business hours.
+
+(16) Application Fee
+
+(a) At the time of filing, the applicant must remit an application fee made
+payable to the Maine Hazardous Waste Fund. The application fee is
+determined as follows:
+
+(i) for a facility which treats biomedical waste generated on-site or which
+treats no more than 15% on an annual average of biomedical waste
+generated off-site $3,500
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(ii) for all other facilities $5,000
+
+(b) Application fees are required for an initial application, a renewal
+application, and any application for a license amendment seeking approval
+for a substantial modification to a facility or license.
+
+(c) A refund of 50% of the fee will be made to an applicant who withdraws
+the application within 30 calendar days of its submission.
+
+(17) Annual Fee. The licensee must remit an annual fee of $1,000 upon the
+issuance of his license and on each anniversary date thereafter.
+
+C. Decisions
+
+The Department shall issue a biomedical waste treatment facility license
+whenever it finds that:
+
+(1) the applicant has satisfied all application requirements,
+
+(2) the proposed facility meets all siting and testing standards,
+
+(3) the proposed facility meets all standards of the Site Location of
+Development Law, and
+
+(4) the applicant has the financial and technical ability to construct, operate,
+maintain and close the facility in accordance with the operating, manifest
+and recordkeeping requirements of this section, all terms and conditions of
+the license, and all other requirements of this rule.
+
+D. Terms
+
+(1) A license or renewal of a license granted under this rule is valid for 5
+calendar years beginning with the date of issuance, but may be for a shorter
+time period if the Department deems it necessary in order to assure
+compliance with this rule.
+
+(2) A license under this rule is issued on the basis of information supplied in
+the application and is valid only so long as that information remains
+accurate.
+
+(3) A license under this rule is issued only to and for the persons, location
+and activities specified in the license unless a license transfer is approved in
+accordance with Department rules.
+
+(4) The biomedical waste treatment facility license or certified copy thereof
+obtained from the Department, must be available for inspection upon
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+demand by any public safety officer or any authorized representative of the
+Department.
+
+(5) A biomedical waste treatment facility may be inspected at any time for
+compliance with its license and this rule. Inspection may be made by a
+public safety officer or any authorized representative of the Department.
+
+(6) The license may be modified, suspended or revoked by the Board
+pursuant to 38 M.R.S.A. Section 341-D(3).
+
+E. Standard Conditions
+
+All treatment facility licenses issued under this rule are subject to the
+following standard conditions:
+
+(1) The licensee must not operate, construct or maintain a biomedical waste
+treatment facility other than as described in the application approved by the
+Department.
+
+(2) Relation of License to Application. A license issued under this rule is
+valid only as long as the information supplied in the application remains
+accurate. Approval of an application is dependent upon and limited to the
+proposals and plans contained in the application and supporting documents
+submitted and affirmed by the applicant. Any variation from the plans,
+proposals and supporting documents is subject to the review and approval of
+the Department prior to implementation.
+
+(3) Duty to Comply. The licensee shall comply with all conditions of the
+license and these rules. Noncompliance with the license or rule constitutes a
+violation of law and is grounds for enforcement action, for license
+suspension or revocation, or for denial of any renewal application.
+
+(4) Liability Insurance. A licensee must have liability insurance coverage in
+force at all times. The coverage will be appropriate for the licensed activity
+and for the risk involved. Under no circumstance may the amount of liability
+insurance in force be less than $1,000,000 per occurrence or $2,000,000 in
+aggregate.
+
+(5) Local, State and Federal Permits. A licensee must hold all other local,
+state and federal permits, licenses and certifications required for the
+licensed activity and must comply with all applicable local, state and federal
+laws and rules.
+
+(6) Record Keeping. A licensee must comply with all applicable state and
+federal requirements regarding the use of a manifest or log and the
+maintenance of other required records.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(7) Duty to Ensure Safe Operation. It is the duty of a licensee to ensure that
+the licensed activity is carried out safely and does not create a threat to
+public health or safety or the environment. A licensee must ensure that
+methods, equipment and personnel are adequate and capable to achieve this
+end.
+
+(8) Inspection and Training Requirements. A licensee must comply with all
+state and federal inspection and training requirements as may from time to
+time be applied by law, rule or license condition to the licensed activity.
+
+(9) Response to an Emergency. A licensee agrees to provide to the
+Department and to public safety agencies all information necessary for
+response to emergency situations involving the licensed activity and agrees
+to assist the Department in obtaining compliance with this rule.
+
+(10) Discharge of Biomedical Waste. In the event of a discharge of
+biomedical waste in any amount, the licensee shall take immediate action to
+protect public health, safety and welfare and the environment, including the
+immediate implementation of the spill containment and cleanup procedures
+contained in the approved biomedical waste management and operations
+plan, and shall immediately report the discharge to the Maine Department
+of Environmental Protection.
+
+(11) Duty to Mitigate. The licensee shall take all reasonable steps to
+minimize or correct any adverse impact on the environment resulting from
+noncompliance with the license.
+
+(12) Duty to Reapply. If the licensee wishes to continue an activity regulated
+by the license after the expiration date of the license, the licensee must apply
+for and obtain a new license. Such application must be made at least one
+year prior to the expiration of the license.
+
+(13) Duty to Provide Information. The licensee shall furnish to the
+Department, upon request, any information that the Department may
+require to determine compliance with the license and this rule. The licensee
+shall also furnish to the Department, upon request, copies of records
+required to be kept by the licensee and not otherwise required to be filed
+with the Department.
+
+(14) Prior to Construction. All preconstruction terms and conditions must be
+met before construction begins.
+
+(15) Construction/Operation within Two Years. If the construction or
+operation of the activity is not begun within 2 years, the approval will lapse
+and the applicant must reapply to the Department for a new approval. The
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+applicant may not begin construction or operation of the facility until new
+approval is granted. Reapplications for approval must state the reasons why
+the facility was not begun within 2 years from the granting of the initial
+approval and the reasons why the applicant will be able to begin the activity
+within 2 years from the granting of a new approval, if granted.
+Reapplications for approval may include information submitted in the initial
+application by reference.
+
+(16) Bid Specifications. A copy of this approval must be included in or
+attached to all contract bid specifications for the development.
+
+(17) Contractor Copy. Work done by a contractor pursuant to this approval
+must not begin before the contractor has been given a copy of the license by
+the licensee.
+
+F. Special Conditions
+
+The Department may place special terms and conditions, , on any license
+issued under this rule. However, terms and conditions must address
+themselves to specifying particular means of satisfying minor or easily
+corrected problems, or both, relating to compliance with this rule and with
+all applicable statutes and must not substitute for or reduce the burden of
+proof on the applicant to affirmatively demonstrate to the Department that
+each of the applicable standards has been met.
+
+G. Suspension or Revocation
+
+(1) The Board may seek suspension or revocation of a license pursuant to 38
+M.R.S.A. Section341-D(3).
+
+(2) A licensee whose license has been revoked may not reapply for a license
+within one calendar year from the effective date of the revocation.
+
+18. Standards for Treatment Facilities
+
+A. Applicability of the Standards of the Site Location of Development Law
+
+All new biomedical waste treatment facilities as well as substantial
+modifications to existing facilities are subject to the standards of the Site
+Location of Development Law, 38 M.R.S.A. § 84, which are incorporated
+herein by reference. The findings and conclusions required to be made for
+issuance of a permit under section 484 of the Site Location of Development
+Law must be made for issuance of a license under this rule.
+
+B. Facility Location Criteria
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(1) Environmental Performance Standards. All biomedical waste treatment
+facilities must be located, designed, constructed, altered, operated,
+maintained, and closed in a manner that will ensure protection of public
+health and welfare and the environment. Protection of health and welfare
+and the environment must include, but not be limited to:
+
+(a) prevention of adverse effects on ground water quality;
+
+(b) prevention of adverse effects on surface water quality;
+
+(c) prevention of adverse effects on air quality; and
+
+(d) prevention of adverse effects due to migration of waste constituents in
+the subsurface environment.
+
+(2) Rebuttable Presumptions: All new biomedical waste treatment facilities
+as well as substantial modifications to existing facilities are subject to the
+following rebuttable presumptions governing facility location.
+
+(a) A biomedical waste treatment facility located in the following areas is
+presumed to pose a serious threat to public health or welfare or to the
+environment such that a license for a facility cannot be issued. The
+presumption applies if:
+
+(i) The facility or facility property overlies any portion of a significant
+surface or subsurface sand and gravel aquifer or its primary recharge zone or
+a high yield bedrock aquifer;
+
+NOTE: Maps of significant sand and gravel aquifers are available from the
+Maine Geological Survey, Department of Conservation, Augusta.
+
+(ii) The facility or facility property is located within 1,500 feet of any
+underground source of potable water for people;
+
+(iii) The facility property is located on land defined as a wetland under
+statutes or regulations administered by the following Departments:
+Environmental Protection, Conservation (Land Use Regulation
+Commission-LURC), Inland Fisheries & Wildlife, Marine Resources or the
+State Planning office;
+
+(iv) The facility or facility property is located within 100 feet of any 100 year
+flood plain or within 100 feet of the level of any actual documented flood of a
+greater magnitude;
+
+(v) The facility or facility property is located such that it may pose a threat to
+the fisheries, wildlife or other natural resources of a sanctuary, refuge,
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+preserve, state or federal park, designated wilderness area, critical area or
+fish hatchery;
+
+(vi) The facility property is located within the boundaries of a state or federal
+park or designated wilderness area.
+
+(b) An applicant seeking a license to establish, construct, alter or operate a
+biomedical waste treatment facility in such a location must overcome this
+presumption by clear and convincing evidence that the facility is unique in
+some way that allows for compliance with the intent of this rule.
+
+C. General Design Standards
+
+(1) Biomedical waste must be stored in conveyances or buildings that are
+leak-proof and equipped with locks.
+
+(2) If the treatment facility is not located at a medical facility, it must be
+enclosed by a chain link fence, at least six feet in height, and access will be
+controlled by a locking gate or an alternative Department approved security
+system that offers equivalent protection.
+
+(3) The fence, conveyances or buildings must be posted with warning signs
+which indicate a potential biological hazard.
+
+(4) All biomedical waste conveyances and buildings used primarily for the
+storage of biomedical waste and biomedical waste treatment areas must be
+located at least 50 feet from the facility property boundaries. In addition,
+storage and treatment areas must be located at least 300 feet from the
+nearest residence in existence at the time of application except that existing
+facilities which cannot meet the 300 foot requirement must locate treatment
+and storage areas as far as possible from the nearest residence in existence
+at the time of application.
+
+(5) Provision must be made for the proper storage of biomedical waste prior
+to treatment, including the refrigeration of pathological waste, cultures, and
+animal carcasses and body parts.
+
+D. Operating Standards
+
+The following operational requirements apply to biomedical waste treatment
+facilities:
+
+(1) The packaging, labeling, handling, and storage requirements specified in
+Sections 12(A), 12(B), 12(C), and 12(D) of this rule apply to biomedical waste
+treatment facilities.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(2) An operator of a biomedical waste treatment facility may not accept any
+biomedical waste that is not packaged and labeled in accordance with these
+rules and accompanied by a properly completed manifest except as provided
+for in Section 4 of this rule.
+
+(3) The facility access gate and all biomedical waste conveyances and storage
+buildings must be closed except when loading or unloading wastes and will
+be locked whenever an operator is not in attendance at the facility.
+
+(4) Pathological wastes, cultures, and discarded animal carcasses and body
+parts must be stored in refrigerated conveyances, or storage buildings in a
+frozen state.
+
+(5) All areas used for the storage of biomedical waste must be maintained in
+a sanitary condition and must be designed to control or contain any spillage
+of such wastes.
+
+(6) The on-site population of disease vectors must be controlled to protect
+public health.
+
+(7) Biomedical waste may not be compacted or subjected to violent
+mechanical stress during transfer, storage or any time prior to final
+treatment and disposal.
+
+E. Design Standards for Biomedical Waste Treatment Facilities
+
+(1) The types, amounts (by weight and/or volume), and characteristics of all
+biomedical waste expected to be processed will be determined by survey.
+
+(2) Facility design capacity must consider such items as waste quantity and
+characteristics, variations in waste generation, equipment downtime, and
+availability of alternate storage, processing, or disposal capability.
+
+(3) Facility systems and subsystems must be designed to assure standby
+capability in the event of breakdown.
+
+(4) Audible signals must be provided to alert operating personnel of critical
+operating unit malfunctions.
+
+F. Operating Standards for Biomedical Waste Treatment Facilities Using
+Non-Incineration Treatment Technologies
+
+(1) Prior to accepting biomedical waste for treatment, the operator of a
+biomedical waste treatment facility using an approved treatment technology
+shall perform challenge testing using a Bacillus species spore specified by
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+the Department to demonstrate that the technology can meet the standard
+specified in Section 19.
+
+(2) Every 30 days, the licensee of a biomedical waste treatment facility using
+an approved non-incineration treatment technology shall perform challenge
+testing using a test organism prescribed by the Department. After 1 year of
+successful challenge tests, a licensee may request in writing to the
+Department for permission to reduce the frequency of challenge testing by
+demonstrating to the Department that an effective instrument calibration
+program is in place.
+
+(3) The sharps portion of the biomedical waste stream may be required to be
+rendered unrecognizable and shredded into pieces less than ?inch in
+diameter as a component of the treatment process and prior to removal from
+the facility. The remainder of the treated biomedical waste stream must be
+handled in a manner approved by the Department.
+
+(4) All operating parameter records must be maintained for 3 years or until
+the resolution of any enforcement action, whichever is longer, and be
+available to a representative of the Department.
+
+(5) Chemotherapy waste and pathological waste must not be treated in a
+non-incineration treatment unit. Chemotherapy waste and pathological
+waste may be stored at a treatment facility for a maximum of 30 days
+provided that the pathological waste is maintained in a frozen state.
+
+(6) The facility will develop and implement a program to educate generators
+on the requirement for source segregation. The program will educate
+generators on what material must be managed as biomedical waste as well
+as the dangers and repercussions of shipping hazardous waste, universal
+waste, radioactive waste and other unauthorized waste to a biomedical waste
+treatment facility.
+
+G. Closure
+
+When plans are made for termination of a biomedical waste treatment
+facility, the Department must be notified in writing a minimum of 60 days
+prior to the proposed termination date. A plan outlining the closing
+operation must be submitted to the Department for review and approval.
+The plan must demonstrate that the facility will be closed in a manner that
+will protect public health, safety and welfare and the environment.
+
+A closure plan must include the following as a minimum:
+
+(1) A description of how and when the facility will be closed including a
+schedule of closure.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(2) A description of how disposal and decontamination of equipment and
+structures will occur.
+
+(3) The maximum inventory of waste in storage and treatment at any time
+during the life of the facility.
+
+(4) A cost estimate for closure of the facility in accordance with the closure
+plan.
+
+(5) Sufficient financial assurance for completion of closure activities.
+
+(6) Liability insurance for sudden accidents.
+
+(7) Provision for certification by the facility owner and an independent
+professional engineer that the facility was closed in accordance with the
+approved closure plan and that no biomedical waste or biomedical waste
+residues remain on site.
+
+H. Manifests, Record Keeping and Reporting
+
+(1) A biomedical waste treatment facility may not accept more than 50
+pounds of biomedical waste from a biomedical waste generator or any
+quantity of biomedical waste from a transporter unless it is accompanied by
+a properly completed manifest.
+
+A treatment facility operator shall, in the presence of the generator or
+transporter, complete the appropriate treatment facility portion of the
+manifest, including handwritten acceptance signature and date of
+acceptance, and immediately give a signed copy of the manifest to the
+generator or transporter, noting any discrepancies in manifest information.
+
+(2) In instances where a facility accepts less than 50 pounds of waste from a
+generator, the facility must maintain a log of such receipts which includes, at
+a minimum, the following:
+
+(a) The name, address and identification number of the treatment facility;
+
+(b) The type and volume of waste received;
+
+(c) The date of receipt of such waste;
+
+(d) The name, location and identification number of the generator; and
+
+(e) The signature of the person receiving the waste.
+
+(3) The facility shall record on the manifest the date on which the shipment
+was received and accepted by the facility.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+(4) The facility shall keep a copy of the completed manifest as part of the
+facility operating record and shall forward a completed copy to the generator
+within 35 days after the date the waste was accepted by the transporter.
+
+(5) Retention of Records. Manifests, logs and operational records must be
+retained by the licensee for a period of not less than three (3) years. The
+period of retention of records is extended automatically during the course of
+any unresolved enforcement action regarding the regulated activity or as
+requested by the Department. These records must be available for inspection
+by the Department, upon request.
+
+(6) Annual Report
+
+The owner or operator of a biomedical waste treatment facility shall submit
+an annual report to the Department. The report must contain, at a
+minimum, the following information:
+
+(a) Name, location and identification number of the facility.
+
+(b) Sources, types and quantities of biomedical waste received.
+
+(c) Method of treatment for each category of biomedical waste.
+
+(d) Type and amount of specific wastes shipped from the facility.
+
+(e) Name and location of treatment or disposal facility.
+
+(f) Proof of liability insurance.
+
+(g) A demonstration of financial capacity to construct, operate, maintain and
+close the facility.
+
+(h) The facility shall report to the Department incidents whereby the facility
+has received hazardous, hazardous universal and radioactive wastes or other
+unauthorized wastes. The report must identify what steps were taken to
+prevent reoccurrence.
+
+(i) The facility shall report efforts to educate the generators on waste
+segregation.
+
+19. Approval of Non-Incineration Treatment Technologies
+
+A. Application Requirements
+
+A person may apply to the Department for approval to use a biomedical
+waste treatment technology other than incineration, including, but not
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+limited to, steam sterilization or microwaving. The application for this
+technology approval must include at a minimum the following information:
+
+(1) The name, address, and business telephone number of the applicant;
+
+(2) A description of the treatment method for which approval is sought;
+
+(3) A description of the amount and type of biomedical waste or wastes to
+which the proposed treatment would be applied, including the identification
+of potentially infectious agents contained, if known;
+
+(4) The basis for the request;
+
+(5) A demonstration of the effectiveness of the proposed alternate treatment
+method;
+
+(6) A demonstration that the alternate treatment method provides an equal
+degree of protection for the public and the environment; and
+
+(7) The application fee for non-incineration treatment technology approval:
+
+(a) At the time of filing, the applicant shall remit an application fee of
+$1,000 made payable to the Maine Hazardous Waste Fund.
+
+(b) A refund of $500 will be made to an applicant who withdraws the
+application within 30 calendar days of submission.
+
+B. Performance Standard
+
+Any person seeking a license to operate a treatment facility using a non-
+incineration treatment technology must submit evidence to the Department
+that the technology will achieve the inactivation of vegetative bacteria, fungi,
+lipophilic/hydrophilic viruses, parasites, and mycobacteria at a 99.9999%
+reduction or greater; and inactivation of Bacillus stearothermophilus spores
+and Bacillus subtilis spores at a 99.99% reduction or greater.
+
+The applicant shall submit to the Department a plan for review and approval
+to perform initial challenge testing addressing waste load variables such as
+moisture content, waste density, waste packaging and sample placement
+within the waste load.
+
+C. Approval
+
+The Department will approve a non-incineration treatment technology for
+biomedical waste whenever it finds that the applicant has satisfied all
+application requirements and has demonstrated that the performance
+standard of this section will be met.
+   06 096 Me. Code R. Ch. 900 Biomedical Waste Management
+          Rules (Code of Maine Rules (2021 Edition))
+
+
+D. Facility License Required
+
+A person that has obtained approval of a non-incineration treatment
+technology for biomedical waste must also obtain a biomedical waste
+treatment facility license prior to accepting biomedical waste for treatment.
+
+E. Designation as Special Waste
+
+Pursuant to its authority under 38 M.R.S.A. § 303-C(34)(K), the Board
+designates treated biomedical waste that results from non-incineration
+treatment technologies approved under this rule as special waste.
+
+AUTHORITY: 38 M.R.S.A. ? 341-D(1-B), 1303-C(34)(K) and 1319-0(3)
+
+EFFECTIVE DATE: January 1, 1991
+
+EFFECTIVE DATE (ELECTRONIC CONVERSION): May 4, 1996
+
+AMENDED: August 4, 2008 - filing 2008-338
+
+AMENDED: August 13, 2011 - filing 2011-261
+

@@ -1,0 +1,40 @@
+                Water Body         Water                 Impaired
+     Basin                                     County                       Pollutant                        Location
+                  Name            Body Id                  Use
+North
+Independent                                             Aquatic Life    Biological      Near Rienzi from headwaters to mouth at Tuscumbia
+Streams       Hinkle Creek        300412    Alcorn      Use Support     Impairment      River Canal
+North
+Independent                                             Aquatic Life    Biological
+Streams       Little Cane Creek   301213    Alcorn      Use Support     Impairment      From headwaters to mouth at Tuscumbia River Canal
+North
+Independent                                             Aquatic Life    Biological
+Streams       Mcelroy Creek       301113    Alcorn      Use Support     Impairment      From headwaters to mouth at Tuscumbia River Canal
+North
+Independent                                             Aquatic Life    Biological
+Streams       Owl Creek           301412    Tippah      Use Support     Impairment      From headwaters to mouth at Little Hatchie River
+North
+Independent   Tarebreeches                              Aquatic Life    Biological
+Streams       Creek               301212    Alcorn      Use Support     Impairment      From headwaters to mouth at Tuscumbia River Canal
+North
+Independent                                             Aquatic Life    Biological      Near Falkner from headwaters to mouth at Muddy
+Streams       Turkey Creek        302112    Tippah      Use Support     Impairment      Creek
+North
+Independent   UNT North Prong                           Aquatic Life    Biological
+Streams       Muddy Creek         302013    Tippah      Use Support     Impairment      From headwaters to mouth at Muddy Creek
+North
+Independent   West Prong                                Aquatic Life    Biological      At Falkner from headwaters to mouth at Muddy
+Streams       Muddy Creek         302011    Tippah      Use Support     Impairment      Creek
+
+Pascagoula                                              Aquatic Life    Biological
+River         Anderson Branch     401711    Newton      Use Support     Impairment      From headwaters to mouth at Okahatta Creek
+
+Pascagoula                                              Aquatic Life    Biological      From headwaters at Unnamed Impoundment to MWS
+River         Archusa Creek       405111    Clarke      Use Support     Impairment      4052 boundary.
+
+Pascagoula                                              Aquatic Life    Biological
+River         Beaver Creek        421212    Perry       Use Support     Impairment      From headwaters to mouth at Hickory Creek
+
+
+                                                                       27
+

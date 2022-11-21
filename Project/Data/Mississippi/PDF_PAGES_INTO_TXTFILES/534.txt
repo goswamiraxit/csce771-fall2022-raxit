@@ -1,0 +1,214 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Pascagoula
+River
+
+Dry Creek
+
+403811
+
+Clark, Wayne
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Buckatunna Creek
+
+Pascagoula
+River
+
+Fallen Creek
+
+424012
+
+Clarke
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Chickasawhay River
+
+Pascagoula
+River
+
+Five Mile Creek
+
+424211
+
+Clarke
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Carmichael from headwaters to mouth at
+Buckatunna Creek
+
+Pascagoula
+River
+
+Flint Creek
+
+420211
+
+Stone
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From outfall of Flint Creek Reservoir to mouth at
+Red Creek
+
+Pascagoula
+River
+
+Gordon Creek
+
+405011
+
+Clarke
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Souenlovie Creek
+
+Pascagoula
+River
+
+Horse Branch
+
+413612
+
+Jasper
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Heidelberg from headwaters to mouth at
+Tallahattah Creek
+
+Pascagoula
+River
+
+Little Oakahay
+Creek
+
+408912
+
+Smith
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Oakohay Creek
+
+Pascagoula
+River
+
+Long Creek
+
+403011
+
+Lauderdale,
+Clarke
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Gays Branch to Mws 4031
+boundary
+
+Pascagoula
+River
+
+Martin Creek
+
+407813
+
+Greene
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to Leaksville POTW outfall
+
+Pascagoula
+River
+
+Martin Creek
+
+407812
+
+Greene
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From Leaksville POTW outfall downstream to mouth
+at Chakasawhay River
+
+Pascagoula
+River
+
+Mill Creek
+
+418612
+
+Lamar
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Black Creek
+
+29
+
+

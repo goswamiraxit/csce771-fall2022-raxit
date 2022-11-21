@@ -1,0 +1,1546 @@
+Emerging Issues in Water
+and Infectious Disease
+
+
+
+
+World Health Organization
+WHO Library Cataloguing-in-Publication Data
+Emerging issues in water and infectious disease.
+1.Water microbiology 2.Disease transmission 3.Communicable diseases, Emerging - microbiology 4.Disease vectors 5.Water quality
+I.World Health Organization II.United States. Environmental Protection Agency.
+(Emerging issues in water and infectious diseases)
+ISBN 92 4 159082 3       (LC/NLM classification: QW 80)
+ISSN 1728-2160
+
+
+© World Health Organization 2003
+All rights reserved. Publications of the World Health Organization can be obtained from Marketing and Dissemination, World Health
+Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland (tel: +41 22 791 2476; fax: +41 22 791 4857; email: bookorders@who.int).
+Requests for permission to reproduce or translate WHO publications – whether for sale or for noncommercial distribution – should be
+addressed to Publications, at the above address (fax: +41 22 791 4806; email: permissions@who.int).
+The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever
+on the part of the World Health Organization concerning the legal status of any country, territory, city or area or of its authorities, or
+concerning the delimitation of its frontiers or boundaries. Dotted lines on maps represent approximate border lines for which there may not
+yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by the
+World Health Organization in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of
+proprietary products are distinguished by initial capital letters.
+The World Health Organization does not warrant that the information contained in this publication is complete and correct and shall not be
+liable for any damages incurred as a result of its use.
+Printed in France
+2
+E M E R G I N G I S S U E S I N W AT E R
+AND INFECTIOUS DISEASE
+
+                                                                                     Access to safe water is a fundamental
+F O R E WO R D                                                                       human need and, therefore, a basic
+                                                                                     human right. Contaminated water
+                                                                                     jeopardizes both the physical and
+Human development and population growth exert many and diverse pressures             social health of all people. It is an
+                                                                                     affront to human dignity.
+on the quality and quantity of water resources and on access to them. Nowhere
+                                                                                     Kofi Annan, United Nations Secretary-General
+are the pressures felt so strongly as at the interface of water and human health.
+
+Infectious, water-related diseases are a major cause of morbidity and mortality
+
+worldwide. Although a significant proportion of this immense burden of disease
+
+is caused by ‘classical’ water-related pathogens, such as typhoid and cholera,
+
+newly-recognized pathogens and new strains of established pathogens are being
+
+discovered that present important additional challenges to both the water and
+public health sectors. Between 1972 and 1999, 35 new agents of disease were
+
+discovered and many more have re-emerged after long periods of inactivity, or
+
+are expanding into areas where they have not previously been reported.
+
+Amongst this group are pathogens that may be transmitted by water.
+
+Understanding why pathogens emerge or re-emerge is fundamental to effective
+
+water resource management, drinking-water treatment and delivery, and has
+
+become a priority for many national and international organizations. It is also
+
+important to be able to gauge the risk from any emerging disease. The perceived
+
+severity of risk and significance of an emerging infectious disease may be so far
+
+removed from reality that there is potential for inappropriate allocation of
+
+resources. This can have repercussions for countries at all stages of development.
+
+Investigating important emerging issues in water and infectious disease and
+
+communicating discoveries create unique challenges, which are addressed
+
+by an initiative being taken by the World Health Organization (WHO), and
+
+collaborators. The initiative seeks to accelerate the identification of actual
+
+and perceived issues, to bring together information and knowledge in critical
+
+areas, and to disseminate information to policy makers and practitioners in a
+
+timely fashion.
+
+We are pleased to issue this publication to broaden awareness of emerging issues
+
+in water and infectious disease and to guide readers to sources of information
+
+that deal with these issues in greater depth.
+
+
+
+
+                                                                                                           3
+    CONTENTS
+
+    Evolution of infectious disease . . . . . . . . . . . . . . . . . . . . . . . . . . . .5
+    Emerging waterborne pathogens . . . . . . . . . . . . . . . . . . . . . . . . . . .6
+    New environments . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .9
+    New technologies . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .11
+    Scientific advances in water microbiology . . . . . . . . . . . . . . . . . . .13
+    Changes in human behaviour and vulnerability . . . . . . . . . . . . . . .15
+
+
+
+
+4
+E VO L U T I O N O F I N F E C T I O U S
+DISEASE
+
+
+
+Nothing in the world of living things is permanently fixed.
+Hans Zinnser. Rats, Lice and History (1935)
+
+
+
+Pathogenic (disease-causing) micro-organisms have repeatedly altered the course
+
+of human history. From the earliest examples of art, literature and scientific
+
+writing, the devastating consequences for the populations gripped by diseases of
+
+different kinds and severity have been documented in great detail. For example,
+
+the influenza pandemic between 1918 and 1920 resulted in an estimated 70
+
+million deaths worldwide. Even today, the overall burden of infectious disease
+
+remains high. In 2001, infectious diseases accounted for an estimated 26% of
+
+deaths worldwide (Kindhauser, 2003).
+
+In the context of scientific and medical history, microbiology emerged relatively
+
+recently as a specialist discipline. Although micro-organisms had been observed
+
+in the 17th century and some workers had speculated about the germ theory of
+
+infectious disease before the 19th century, the science of microbiology did not
+
+become established until after 1850. The skills and perseverance of the early
+
+pioneers, combined with advances in analytical tools and techniques, added
+
+rapidly to the growing catalogue of pathogens. By
+                                                                         I discovered, in a tiny drop of water, incredibly many very little
+2001, a total of 1415 species of infectious organisms
+                                                                         animalcules, and these of diverse sorts and sizes. They moved with
+known to be pathogenic to humans had been                                bendings, as an eel always swims with its head in front, and never
+                                                                         tail first, yet these animalcules swam as well backwards as
+recorded. Whilst many of these organisms are
+                                                                         forwards, though their motion was very slow.
+associated with diseases that have been known for                        Antony van Leeuwenhoek (1632 – 1723)
+
+many years, a small but significant percentage are
+
+associated with emerging diseases, such as Acquired Immunodeficiency
+
+Syndrome (AIDS), Ebola and most recently Severe Acute Respiratory Syndrome
+
+(SARS). Indeed, the transmission of the coronavirus responsible for SARS
+
+through ‘faecal droplets’ has re-focused attention on this recognized route of
+
+transmission of some viruses.
+
+
+
+                              Respiratory Transmission of Faecally
+                              Excreted Viruses*
+                              The transmission of the coronavirus responsible for Severe
+                              Acute Respiratory Syndrome (SARS) through ‘faecal droplets’ has
+                              re-focused attention on this recognized route of transmission of
+                              some viruses.This document reviews what is known about
+                              viruses transmitted by this route and the adequacy of control
+                              measures, including building design and management, and
+                              plumbing practices.
+
+
+
+
+*   This publication is expected in 2004                                                                             5
+                                                            Water-related infectious diseases, such as cholera, have also influenced social
+
+                                                            and political development. Since 1817 at least seven cholera pandemics have
+
+                                                            been recorded and most have provided specific examples of issues of pathogen
+
+                                                            emergence, or have significantly influenced public health reforms and the
+
+                                                            development of microbiology.
+
+                                                            Investigating the history of many diseases demonstrates clearly that the
+
+                                                            evolution of both humans and pathogens is interlinked: human migration has
+
+                                                            disseminated infectious disease or brought people into contact with new
+                                                                                         pathogens; global environmental change has
+Selected cholera pandemics since 1817 and principal outcomes                             expanded the range of known pathogens or created
+Dates           Principal outcomes
+                                                                                         the conditions for indigenous micro-organisms to
+1817–1823       Possible emergence of a more virulent strain of Vibrio cholerae
+                (V. cholerae). Global trade with the Indian sub-continent carried        emerge as significant human pathogens; modern
+                the cholera vibrio around the world.
+                                                                                         techniques in animal husbandry, as well as some of
+1829–1851       Waterborne transmission of V. cholerae established.
+1852–1859       First isolation of cholera bacterium. Fear of cholera stimulated         the more traditional methods of livestock farming,
+                international co-operation in health.
+                                                                                         create a risk from new zoonotic diseases (an
+1881–1896       Conclusive demonstration that cholera was caused by a bacterium.
+1961–           Emergence of V. cholerae O1, biotype El Tor.                             infectious disease which normally circulates in an
+1992–           Emergence of V. cholerae O139.
+                                                                                         animal host but that can be contracted by humans).
+
+
+
+
+                                                            E M E R G I N G W AT E R B O R N E
+                                                            P AT H O G E N S
+                                                            WHAT ARE EMERGING PATHOGENS?
+
+
+                                                            Long before the advent of modern medical care, industrialized
+                                                            countries decreased their levels of water-related disease through
+                                                            good water management. Yet, even in these countries, outbreaks of
+                                                            waterborne disease continue to occur, sometimes with lethal
+                                                            consequences. In developing countries, water-related disease
+                                                            blights the lives of the poor.
+                                                            Gro Harlem Brundtland, WHO Director-General, (2001)
+
+
+
+                                                            Emerging pathogens are those that have appeared in a human population for the
+
+                                                            first time, or have occurred previously but are increasing in incidence or expanding
+
+                                                            into areas where they have not previously been reported, usually over the last 20
+
+                                                            years (WHO, 1997). Re-emerging pathogens are those whose incidence is increasing
+
+                                                            as a result of long-term changes in their underlying epidemiology (Woolhouse,
+
+                                                            2002). By these criteria, 175 species of infectious agent from 96 different genera
+
+                                                            are classified as emerging pathogens. Of this group, 75% are zoonotic species.
+
+In 2001, a review of the scientific literature identified   Improved methods of surveillance, epidemiological studies and the continuous
+1415 species of infectious organisms known to be
+                                                            development of more advanced methods of diagnosis have allowed us to detect
+pathogenic to humans, including 217 viruses and
+prions, 538 bacteria and rickettsiae, 307 fungi, 66         new pathogenic species of micro-organism or to associate a known micro-organism
+protozoa and 287 helminths. Of these, 61% were
+                                                            with a new or atypical set of disease symptoms. Furthermore, the agents of several
+zoonotic and 12% were associated with diseases
+considered to be emerging (Taylor, Latham &                 diseases that were thought to have been controlled are re-emerging as a result of
+Woolhouse, 2001).
+                                                            adaptive changes in the pathogen, changes to the immunological status of the
+
+                              6
+host, or environmental, demographic and socio-economic changes. Each of these
+
+pathogens represents a public health problem.
+
+Developments in our understanding of the relationships between water and
+
+human health have been characterized by the periodic recognition of previously
+
+unknown pathogens or of the water-related significance of recognized
+
+
+
+
+                                                                                                                                                                    Photo: FP Williams, USEPA
+pathogens. Several studies have confirmed that water-related diseases not only
+
+remain a leading cause of morbidity and mortality worldwide, but that the
+
+spectrum of disease is expanding and the incidence of many water-related
+                                                                                                                                      Rotavirus
+microbial diseases is increasing. Since 1970, several species of micro-organism
+
+from human and animal faeces and from environmental sources, including
+
+water, have been confirmed as pathogens. Examples include Cryptosporidium,
+Legionella, Escherichia coli O157 (E. coli O157), rotavirus, hepatitis E virus and
+norovirus (formerly Norwalk virus). Furthermore, the importance of water in
+
+the transmission of recognized pathogens is being continually assessed as new
+
+
+
+
+                                                                                                                                                                    Photo: HDA Lindquist, USEPA
+tools become available through advances in science, technology and
+
+epidemiology. Helicobacter pylori (H. pylori) is an example of a recently emerged
+
+pathogen that may be transmitted through water.
+
+
+  There is a strong link between H. pylori infection and gastric cancer in many                                                       Cryptosporidium and Giardia
+  countries, but there are large intercountry variations in incidence of gastric cancer
+  and H. pylori seroprevalence seen among many Asian countries. For example, the
+  prevalence of H. pylori infection is high in India and Bangladesh, but low gastric
+  cancer rates have been reported. Factors that may influence the etiology of gastric
+  cancer include the genetic diversity of the infecting H. pylori strains and differences
+  in the host genetic background in various ethnic groups. These factors, in addition
+  to environmental factors, such as personal hygiene and dietary habits, reflect the
+  multifactorial etiology of gastric cancer (Miwa, Sakaki & Sugiyama, 2002). A number
+  of studies have demonstrated that H. pylori survives in water although isolation of
+  H. pylori from water systems has been shown to be difficult.
+
+
+
+Similarly, water-related vector-borne pathogens have been (re-) emerging over the
+
+past 20 years. To a large extent this has been caused by the emergence and spread
+
+of drug-resistant parasites (for example, the Plasmodium species causing malaria)
+
+  Rate of discovery of emerging pathogens 1970 – 2000
+  (Adapted from Desselberg, 2000)
+                                            18
+
+                                            16
+   Number of infectious agents identified
+
+
+
+
+                                            14
+
+                                            12
+
+
+
+                                            8
+
+                                            6
+
+                                            4
+
+                                            2
+
+                                            0
+                                                              1970                               1980                          1990
+                                                                                                Decade
+                                                 Total number of infectious agents identified         Number of viruses/prions
+                                                 Number of bacteria/rickettsiae                       Number of protozoa
+
+
+
+
+                                                                                                                                                                7
+                                      Major etiological agents of infectious diseases identified since 1972
+                                      Year           Agent                             Disease
+                                      1972           Small round structured viruses    Diarrhoea
+                                      1973           Rotaviruses                       Infantile diarrhoea
+                                      1975           Astroviruses                      Diarrhoea
+                                      1975           Parvovirus B19                    Aplastic crisis in chronic haemolytic anaemia
+                                      1976           Cryptosporidium parvum            Acute enterocolitis
+                                      1977           Ebola virus                       Ebola haemorrhagic fever
+                                      1977           Legionella pneumophila            Legionnaires’ disease
+                                      1977           Hantaan virus                     Haemorrhagic fever with renal syndrome
+                                      1977           Campylobacter spp.                Diarrhoea
+                                      1980           Human T-cell lymphotropic virus-1(HTLV-1) Adult T-cell leukaemia/ HTLV-1 associated myelopathy
+                                      1982           HTLV-2                            Hairy T-cell leukaemia
+                                      1982           Borrelia burgdorferi              Lyme disease
+                                      1983           HIV-1, HIV-2                      Acquired immunodeficiency syndrome
+                                      1983           Escherichia coli O157:H7          Haemorrhagic colitis; haemolytic uremic syndrome
+                                      1983           Helicobacter pylori               Gastritis, gastric ulcers, increased risk of gastric cancer
+                                      1988           Human herpesvirus-6               Exanthema subitum
+                                      1989           Ehrlichia spp.                    Human ehrlichiosis
+                                      1989           Hepatitis C virus                 Parenterally transmitted non-A, non-B hepatitis
+                                      1990           Human herpesvirus-7               Exanthema subitum
+                                      1990           Hepatitis E virus                 Enterically transmitted non-A, non-B hepatitis
+                                      1991           Hepatitis F virus                 Severe non-A, non-B hepatitis
+                                      1992           Vibrio cholerae O139:H7           New strain associated with epidemic cholera
+                                      1992           Bartonella henselae               CAT-scratch disease, bacillary angiomatosis
+                                      1993           Sin nombre virus                  Hantavirus pulmonary syndrome
+                                      1993           Hepatitis G virus                 Non A-C hepatitis
+                                      1994           Sabia virus                       Brazilian haemorrhagic fever
+                                      1994           Human herpesvirus-8               Kaposi’s sarcoma
+                                      1995           Hendravirus                       Castleman’s disease
+                                      1996           Prion (BSE)                       Meningitis, encephalitis
+                                      1997           Influenza A virus                 New variant Creutzfeldt-Jakob disease
+                                      1997           Transfusion-transmitted virus
+                                      1997           Enterovirus 71                    Epidemic encephalitis
+                                      1998           Nipah virus                       Meningitis, encephalitis
+                                      1999           Influenza A virus                 Influenza (Hong Kong)
+                                      1999           West Nile-like virus              Encephalitis (New York)
+                                      (Desselberg, 2000)
+
+
+
+Distribution of emerging pathogens                                  An outbreak of arboviral encephalitis was first recognized in New York City in
+by group                                                            1999. The cause of the outbreak was confirmed as a West Nile-like virus. Before
+                      helminths                                     and concurrent with this outbreak, local health officials observed increased fatalities
+                      6%
+                                                                    among New York City birds, especially crows. Tissue specimens from these birds
+           protozoa
+           11%                                                      with pathologic evidence of encephalitis were reported as positive for West Nile-like
+                                                                    virus sequence by genomic analysis, implying these as the vectors. Four human
+   fungi                                         viruses or
+                                                                    deaths occurred among elderly persons. One case-patient with onset in late
+   9%                                            prions 44%         August reported a history of travel to Africa completed in June 1999.Vector
+                                                                    control measures were initiated to control the host-seeking adult Culex pipiens
+                                                                    mosquito population (MMWR, 1999).
+
+  bacteria or
+  rickettsia 30 %                                                and of insecticide-resistant vectors. Changing environments linked to such
+
+The distribution of emerging pathogens according                 trends as intensified water resources development and urbanization, and the
+to the main group of micro-organisms to which
+                                                                 accompanying demographic changes, have created conditions where vector-borne
+they belong.The figure shows that nearly half of all
+emerging pathogens are viruses or prions (adapted                diseases can gain new strongholds. International travel has contributed to the
+from Taylor, Latham & Woolhouse, 2001).
+                                                                 spread of pathogens to areas where the vector was already present but so far
+
+                                                                 innocuous (for example, West Nile virus in North America).
+
+
+
+
+                                  8
+WHY DO PATHOGENS EMERGE?
+
+There are many reasons why human pathogens emerge or re-emerge after a long
+
+period of inactivity, but most have a common theme and may be grouped under
+
+a few general headings: new environments, new technologies, scientific
+
+advances, and changes in human behaviour and vulnerability.
+
+Some factors associated with emerging issues in water and infectious disease, for
+
+example, agricultural and wastewater management practices, may be anticipated
+
+and subsequently controlled by implementing appropriate resource protection
+
+and management strategies. Others, such as demographic, behavioural changes
+and socio-economic factors, also may be anticipated, but the outcomes are
+
+unpredictable and appropriate control measures difficult to implement.
+
+
+  Potential drivers of the emergence and re-emergence of pathogens in water
+  New environments:                                         New technologies:
+  ■ Climate shifts/deforestation                            ■ Water resources development projects
+
+  ■ Water resources development projects                      (dams and irrigation)
+    (dams and irrigation)                                   ■ Water-cooled air conditioning plants
+
+  ■ Water-cooled air conditioning plants                    ■ Changing industrial and agricultural practices
+
+  ■ Changing industrial and agricultural practices          ■ Waterborne sewage and sewage treatment
+
+    (eg intensive livestock rearing)                          alternatives
+  ■ Piped water systems and their inadequate design
+
+    and operation
+  ■ An increasing number of humanitarian emergencies
+
+
+
+  Changes in human behaviour and vulnerability:             Scientific advances:
+  ■ Human circulation and the accessibility and             ■ Inappropriate, excessive use of anitbiotics
+
+    rapidity of transport worldwide                           anti-parasitic drugs and public health insecticides
+  ■ Demographic changes                                     ■ Changing industrial and agricultural practices
+
+  ■ Increasing size of high risk populations                ■ Improved methods of detection and analysis
+
+  ■ Deliberate and accidental release of                    ■ Inappropriate use of new generation insecticides
+
+    pathogens to water
+  ■ An increasing number of humanitarian emergencies
+
+
+
+
+NEW ENVIRONMENTS
+The interplay between the host and the pathogen is a complex one, each driven
+
+by the need to secure the success of the species. Adaptations by one partner
+
+to exploit new environments will often stimulate the other to modify its
+
+characteristics to take advantage of the change. As a consequence of this cycle
+
+of interaction created by changing environments, new strains of pathogen will
+
+evolve. Over time, these strains may emerge as new species with characteristic
+
+disease symptoms.
+
+There is a large portfolio of case studies demonstrating how dams and irrigation
+schemes have led to the spread of malaria, schistosomiasis, filariasis and Japanese
+
+encephalitis. Furthermore, climate change is expanding the range of mosquito
+
+species responsible for the transmission of the malarial parasite and the dengue
+
+virus. The widespread use of water-based cooling towers for industrial
+
+air-conditioning was the catalyst for the first major outbreaks of Legionnaires'
+                                                                                                                    9
+                                                                                                               Disease. Thus, new environments can favour the proliferation of pathogens or
+                                                      In Sri Lanka, the introduction of Japanese
+                                                      encephalitis in rehabilitated rice irrigation schemes    their vectors and bring about contact with a previously-unexposed population.
+                                                      under the accelerated Mahaweli Development
+                                                      Project shows the intricacies of environmental           Dams are one of the most visible examples of human engineering being used to
+                                                      change.With intensified irrigation, the population of
+                                                                                                               create a new environment. The Aswan High Dam in Egypt, for example, created
+                                                      Culex mosquitoes increased rapidly.Yet, the critical
+                                                      factor was a programme to promote pig rearing as         a lake, Lake Nassar, 480 km long by up to 16 km wide from the River Nile: a
+                                                      a secondary source of income for local
+                                                                                                               body of flowing water, replaced by a larger body of relatively static water.
+                                                      communities. Pigs serve as amplifying hosts for the
+                                                      virus and the combination of intensified irrigation      Although the Aswan Dam has brought commercial benefits to Egypt, it has also
+                                                      and pigs led to serious outbreaks of Japanese
+                                                                                                               been a factor in the redistribution of the two species of snail, Bulinus truncatus
+                                                      encephalitis in the region.
+                                                                                                               and Biomphalaria alexandrina, which are the intermediate hosts in the transmission
+
+                                                                                                               of schistosomiasis. The redistribution of the snails has been used to explain the
+
+                                                                                                               decreasing prevalence of urinary schistosomiasis and the increasing prevalence
+
+                                                                                                               of schistosomal nephritis in the region. More recently, the construction of the
+
+                                                                                                               Diama Dam at the mouth of the Senegal River (1988) led to the single largest
+
+                                                                                                               outbreak of intestinal schistosomiasis ever recorded in Africa, south of the Sahara.
+
+                                                                                                               The Legionella bacterium provides another example of the significance of new
+                                                                                                               environments to emerging pathogens. In 1976 a large outbreak of pneumonia
+
+                                                                                                               was reported amongst delegates at an American Legion Convention in
+
+                                                                                                               Philadelphia, USA. The etiological agent, Legionella pneumophila, was identified
+
+
+                                                                                                                                      Toxic Cyanobacteria in Water
+                                                                                                                                      Edited by I. Chorus and J.Bartram.
+                                                                                                                                      Eutrophication has been recognized as a growing concern since
+                                                                                                                                      the 1950’s. Recently, cyanobacterial toxins became widely
+                                                                                                                                      recognized as a human health problem arising as a consequence
+                                                                                                                                      of eutrophication. Cyanotoxins may cause waterborne disease
+                                                                                                                                      when ingested, and contact through recreational exposure.
+                                                                                                                                      Health problems attributable to the presence of such toxins
+                                                                                                                 have been reported in a number of countries, including Australia, Brazil, China,
+                                                                                                                 England, South Africa and the USA.
+                                                                                                                   This book describes the present state of knowledge regarding the impact of
+Photo: Peter Furu, Danish Bilharziasis Laboratory
+
+
+
+
+                                                                                                                 cyanobacteria on health through the use of water. It is an invaluable source of
+                                                                                                                 information for environmental health officers and professionals in the field of water
+                                                                                                                 supply, freshwater ecology, public health and health education, as well as for student
+                                                                                                                 groups and consumer groups.
+
+
+
+                                                                                                                 Gastro-enteritis epidemic in the area of the Itaparica Dam,
+                                                                                                                 Bahia, Brazil
+                                                                                                                 A severe gastro-enteritis epidemic in the Paulo Afonso region of Bahia State in
+                                                    A single scoop of snails along the dam wall of a heavily     Brazil followed the flooding of the newly constructed Itaparica Dam reservoir in
+                                                    snail infested reservoir (Lougourougoumbo, Mali).            1988. Some 2000 gastro-enteritis cases, 88 of which resulted in death, were
+                                                                                                                 reported over a 42-day period.
+                                                                                                                    Clinical data and water sample tests were reviewed, blood and faecal specimens
+                                                                                                                 from patients were subjected to bacteriological, virological and toxicological testing
+                                                                                                                 and drinking-water samples were examined for micro-organisms and heavy metals.
+                                                                                                                 The results demonstrated that the source of the outbreak was water impounded by
+                                                                                                                 the dam and pointed to toxin produced by cyanobacteria present in the water as
+                                                                                                                 the responsible agent. No other infectious agent or toxin was identified, and cases
+                                                                                                                 occurred in patients who had been drinking only boiled water.The cases were
+                                                                                                                 restricted to areas supplied with drinking water from the dam.
+                                                                                                                    Cyanobacteria of the Anabaena and Microcystis genera were present in untreated
+                                                                                                                 water at 1104 to 9755 units per ml.
+
+                                                                                   10
+later, and only after an exhaustive microbiological investigation. The disease
+
+became known as Legionnaires’ Disease. Legionella bacteria are now known to
+
+be a normal part of the aquatic microflora. The design of domestic hot and cold
+
+water systems, specialist leisure pools and water-cooled air-conditioning plants
+
+create conditions that suit the growth of Legionella bacteria. Many water systems
+
+produce fine aerosols at some stage in their use providing a dispersion
+
+mechanism that proved to be an effective route of infection. Legionella is an
+
+example of a natural, environmental bacterium that has exploited a niche within
+
+man-made water systems and, by chance, emerged as a significant pathogen.
+
+
+
+
+                                                                                                                                                         Photo: Peter Furu, Danish Bilharziasis Laboratory
+NEW TECHNOLOGIES
+More often than not, new technologies have a neutral impact on the ecology of
+
+pathogens, but some technologies accidentally introduce new routes of exposure
+
+between humans and pathogens. This is particularly evident when dealing with
+
+technologies that are used in water treatment, storage and distribution.
+                                                                                            Domestic water contact in a schistosomiasis infested
+New water treatment, storage and distribution technologies are being developed              area of the man-made Lake Selingue in Mali
+                                                                                            (Faraba Village).
+to improve and maintain the quality of drinking-water. Many of these technologies
+
+will have significant benefits, but unforeseen problems with a few may introduce
+
+new risks, such as harmful by-products or pathways of transmission that may
+lead to the re-emergence of water-related pathogens. Each time a risk is identified,
+
+systems are developed to eliminate or reduce the risk that may, in turn, increase
+
+or decrease other risks. In the context of new technologies, water distribution
+
+systems show how an engineering solution to one
+                                                              The use of technology to treat water is not a modern innovation. Greek and
+problem can create new opportunities for contact              Sanskrit texts dating back 6000 years contain guidance on the use of charcoal
+                                                              filters, boiling, straining and exposure to sunlight to improve the aesthetic quality of
+between humans and water-related pathogens.
+                                                              drinking-water. Over 4000 years ago, the Egyptians used coagulants to reduce the
+                                                              turbidity of water. With the development of large conurbations throughout the
+The effectiveness of slow-sand filtration to remove
+                                                              Roman Empire (from 200BC), intricate drinking-water distribution and waterborne
+pathogens from drinking-water before it enters the            sanitation systems were introduced in order to protect the quality of supplies.
+                                                              These piped water systems offered great benefits to the population being served;
+distribution system was demonstrated spectacularly
+                                                              however, the potential for disseminating pathogens was greatly increased if the source
+during the outbreak of cholera in Germany in                  protection and rudimentary treatment systems were breached. Piped distribution
+                                                              without adequate treatment can spread contamination to large populations.
+1892. Hamburg suffered a very high mortality
+
+amongst its population, whilst neighbouring
+
+Altona, which abstracted water from the same source as Hamburg but used
+
+treatment by slow-sand filtration, escaped the worst ravages of the cholera.
+
+Slow-sand filters occupy large areas of land and so rapid-sand filtration was
+
+introduced as an alternative technology. Yet, in order to maintain their
+
+efficiency, rapid-sand filters must be cleaned regularly by ‘backwashing’.
+
+Producers can reduce costs by recycling the backwash water. Cryptosporidium
+oocysts are concentrated on the filters during normal operation. Recycling
+
+backwash water to the raw water flow can return large numbers of oocysts to the
+
+treatment plant at a time when the plant is potentially vulnerable to breakthrough.
+
+This practice has lead to outbreaks of disease.
+                                                                                                                      11
+                                                                Chlorine is the most widely-used drinking-water disinfectant. It was first used
+
+                                                                for treating water by John Snow (1845) as he intervened to control the outbreak
+
+                                                                of cholera in London, but it was not until 1897 that it was used to disinfect a
+
+                                                                potable water distribution main. The use of chlorine disinfection has made an
+                                 Sanitation, Sewage and
+                                                                immense contribution to the safety of drinking-water supplies, yet, recently, the
+                                 Emerging Health Issues*
+                            Water safety management             limitations of chlorine and some disadvantages linked to its use have been
+                            relies largely on identifying
+                                                                widely publicised:
+                            hazards and ensuring that
+                            adequate control measures
+                                                                ■   Although chlorine is effective against most vegetative bacteria and viruses
+                            are available.The proper
+                            management of excreta through           when used at the normal concentration for treatment, it will not inactivate
+       the use of appropriate sanitation acts as the
+                                                                    Cryptosporidium oocysts. Furthermore, chlorine has a very limited effect
+       primary barrier to prevent the spread of pathogens
+       in the environment. However, faecal contamination            upon pathogens growing in biofilms. So while its use reduces overall risks,
+       of water resources remains a major cause of
+                                                                    it changes the relative impact of different pathogens.
+       concern worldwide.
+          Identification of new hazards occurs relatively
+                                                                ■   Traces of chemical by-products of chlorine disinfection have raised public
+       frequently, both for microbial pathogens and chemical
+       agents. In some cases controls orientated towards            concern about potential long-term but small risks from chemically treated
+       other hazards prove adequate; in other cases control
+                                                                    water. Inappropriate decisions made about the risks from chemical
+       strategies require review.This book provides an
+       authoritative review and discussion of these issues.         contamination versus the need to maintain microbiological safety to protect
+
+                                                                    consumers from imminent high microbial risks have been implicated in the
+
+                                                                    re-emergence of pathogens.
+
+                                                                Despite the treatment of source water and the use of chlorine disinfectant,
+
+                                                                contamination of piped water supply continues to occur, without necessarily
+                                 Waterborne Zoonoses*
+                                                                causing large easy-to-recognize outbreaks, through leaks, or at other vulnerable
+                             The majority of recognized
+                             emerging and re-emerging           parts of the system, and during maintenance work. Once in the system, bacteria,
+                             human pathogens are zoonotic.
+                                                                fungi and protozoa can attach to the inner surfaces of the pipes and some may
+                             Whether these newly widespread
+                             pathogens are within the           grow to produce biofilms. Some biofilms have been shown to contain one or more
+                             current envelope of control
+                                                                species of emerging pathogen, including Mycobacterium avium complex (MAC).
+                             of waste and source water
+        management, drinking-water treatment technology
+                                                                Recent analysis of the pathogens regarded as emerging has shown that they are
+        and transmission will determine whether these
+        organisms will become newly significant drinking-       not a random subset of all pathogens, but that they share certain characteristics.
+        water risk factors. Identification of those high-risk
+                                                                Zoonotic pathogens, for example, are almost twice as likely to be regarded as
+        candidates and their characteristics will allow any
+        necessary adjustments to be made in the drinking-       emerging or re-emerging than non-zoonotic pathogens. This observation has
+        water management cycle in the hopes of avoiding
+                                                                implications for intensive livestock farming, which frequently can result in the
+        their potential impact upon human health.
+          Addressing the significant percentage of emerging     discharge of pathogens into water from concentrated animal wastes and animal-
+        pathogens which are zoonotic species, this book
+                                                                feeding operations. Several species of emerging water-related pathogen have
+        attempts to analyse the wealth of information from
+        diverse areas to gain insights into the nature of
+        possibly as-yet unrecognized and yet-to-emerge                                     In recent years there has been increasing concern to
+        waterborne pathogens that may arise from zoonotic                                  reduce the pollutants within urban stormwater discharges,
+        sources. It is oriented towards identifying those                                  particularly combined sewer overflows (CSOs). Gibson
+                                                                                                                                                          Photo: Milwaukee Metropolitan Sewerage District
+
+
+
+
+        hazards that may stress existing control strategies.                               et al. (1998) found Cryptosporidium oocysts and Giardia
+                                                                                           cysts were commonly observed at higher levels in discharge
+                                                                                           from CSO end-of-pipe samples taken during wet weather
+                                                                                           conditions compared to concentrations in samples taken
+                                                                                           from an urban dry stream in dry weather.This preliminary
+                                                                                           study suggests that CSOs may significantly contribute to the
+                                                                                           load of Cryptosporidium and Giardia in ambient waters and
+                                                                                           source waters used for recreational use and potable water.
+
+
+*   This publication is expected in 2004   12
+been recognized from these sources, including Cryptosporidium, E. coli O157
+
+and Campylobacter. This example shows how a substantial enhancement of a
+
+long-term practice can impact watercourses in ways that are not anticipated.
+
+
+                              Pathogenic Mycobacteria in Water*
+                         Previously unrecognized or under-appreciated pathogens continue
+                         to be recognized to be associated with the waterborne route
+                         and as being of public health significance. Mycobacterium avium
+                         complex has been a leading cause of death amongst HIV positive
+                         populations. Recently, incidence of two of the three diseases       Rat populations thrive where there is human
+                         associated with MAC (pulmonary MAC and lymphadenitis)               activity. A substantial proportion of above-ground
+                         appears to be increasing.                                           infestations are linked to defects in sewerage
+      There is also evidence of the role that drinking-water plays in the development of     infrastructure, and only the presence of watercourses
+    MAC-related illness.This book provides information on the Mycobacterium avium            and ditches is a more frequent source (Battersby,
+    complex and other pathogenic mycobacteria in water. The book reviews the organisms,      2002). Brown rats (Rattus norvegicus) commonly
+    their health significance, procedures for investigation and study in water, and weighs   called the sewer rat have been found infected with a
+    up the evidence that water is a significant route for transmission.                      greater range of zoonoses than previously thought.
+                                                                                             For example in England Cryptosporidium parvum has
+
+
+
+
+                                                                                                                                                      Photo: John Wharam and Daffyd S R Baker, Kingston upon Hull City Council
+                                                                                             been found in rats on farms at 63% prevalence and
+                                                                                             Toxoplasma gondii at 35% (Webster & MacDonald,
+S C I E N T I F I C A DVA N C E S I N                                                        1995). In urban areas 11% of a sample of rats were
+                                                                                             found infected with T. gondii. In Milan (Italy) 36% of
+W AT E R M I C R O B I O L O G Y                                                             a sample of wild rats were found to have liver
+                                                                                             lesions consistent with Capillaria hepatica infection
+DETECTION AND ENUMERATION OF PATHOGENS
+                                                                                             (Ceruti et al, 2001).Wild brown rats have been
+                                                                                             found infected with Yersinia enterocolitica at a
+The history of pathogen discovery broadly describes a cycle of events beginning
+                                                                                             prevalence of between 2% in urban rats (Battersby
+with a disease of unknown etiology, development of analytical techniques, and                et al, 2002) and 11% in rural rats (Webster &
+                                                                                             MacDonald, 1995). Some 34% of rural rats were
+identification of the etiological agent. Advances in analytical techniques are a
+                                                                                             found positive for the antibodies of Coxiella burnetii
+fundamental component of the exploration of emerging pathogens. By increasing                (Q Fever) in England (Webster & MacDonald, 1995).
+
+our capacity to concentrate and detect micro-organisms in water samples, we
+
+can recognize new pathogens and associate known micro-organisms with
+
+diseases of unknown etiology. However, despite advances in diagnostic
+
+technology water-related disease of unknown etiology remains a significant
+
+percentage of the total outbreaks of disease. Published statistics from the USA
+
+show that between 1991 and 2000, the etiological agent of around 40%
+
+of drinking-water associated outbreaks was not identified.
+
+Following the conception of the germ theory of infectious disease, methods for
+
+the isolation and identification of micro-organisms developed rapidly. During the
+
+first half of the 20th century the power of analytical techniques was enhanced
+
+by improved culture media for the selection and enumeration of pathogens, and
+
+new techniques for visualization of organisms and their cellular structures. Using
+
+these techniques, many water-related bacterial and protozoal pathogens were
+
+isolated and characterized. The discovery of techniques for growing mammalian
+
+viruses in cell culture further expanded the list of water-related pathogens.
+
+In 1972 and 1973 the use of high-resolution microscopy, antibody techniques
+
+and genetic analysis identified two groups of viruses that were the causative
+
+agents of diarrhoea: small round structured viruses (caliciviruses) and
+
+rotaviruses. Subsequent work has shown these two groups to be amongst the
+
+*   This publication is expected in 2004                                                                           13
+                       Heterotrophic Plate                major causes of diarrhoea worldwide and a significant cause of mortality
+                       Count and Drinking-
+                                                          amongst children in developing countries.
+                       water Safety
+                       Edited by: J.Bartram,
+                                                          Possibly the most revolutionary advance in analytical technology during the last
+                       J.Cotruvo, M.Exner,
+                       C. Fricker and A. Glasmacher.      30 years was the discovery of a simple, but effective method of amplifying very
+                       High levels of microbial
+                                                          specific regions of an organism's genetic material. The technique, called the
+                       growth can affect the taste
+                       and odour of drinking-water        Polymerase Chain Reaction (PCR), is now widely used in medical, forensic and
+and may indicate the presence of contamination
+                                                          environmental laboratories. Not only does the method allow investigators to
+posing a challenge to public water utilities.This text
+addresses the ‘heterotrophic plate count’ test            discriminate between micro-organisms from different sources, it can be used to
+which is widely used in drinking-water assessment:
+                                                          detect extremely small quantities of the nucleic acid: equivalent to a single
+what it detects (and what it does not detect), its
+direct and indirect health significance and its use in    micro-organism. Detection of nucleic acid by PCR does not necessarily indicate
+the safety management of drinking-water supplies.
+                                                          that viable infective organisms are present, but it is an excellent exploratory tool.
+
+
+                      Evaluation of the
+                                                                       Drinking-water disease outbreaks of unknown etiology in the
+                      H2S method for
+                                                                       USA 1990–2000
+                                                                                 Drinking-water disease outbreaks of unknown etiology in the USA 1990–2000
+                      Detection of Faecal                                     100
+                      Contamination of
+                      Drinking-water                                          90
+
+                       In recent years a number of                            80
+                       alternative indicators and tests
+                                                                              70
+                       to detect faecal contamination
+of drinking-water have been proposed and                                      60
+                                                           Percent of total
+
+
+
+
+developed. Some of these are simple, low cost and
+                                                                              50
+do not require a microbiology laboratory or
+bacteriological field-test kit. Prominent among                               40
+
+these is the so-called hydrogen sulphide or H2S                               30
+test, which is intended to detect or quantify
+                                                                              20
+hydrogen sulphide-producing bacteria, largely
+associated with faecal contamination.                                         10
+
+  This relatively simple, low cost test has been
+                                                                               0
+studied, modified in various ways, tested and used                                  1991–92     1993–94         1995–96         1997–98         1999–2000
+                                                                                                                  Year
+to some extent in many parts of the world as an
+indicator of faecal contamination of drinking-water.
+  This book reviews the basis of the hydrogen             A significant number of the viruses associated with water-related disease
+sulphide test as a measure of faecal contamination
+                                                          outbreaks cannot be grown in the laboratory using conventional culture
+of drinking-water and the available scientific and
+empirical evidence for and against the test as a valid,   techniques. The use of PCR methods for the analysis of pathogens in water has
+useful and reliable measure of faecal contamination
+                                                          been fundamental to our understanding of the distribution of some of the most
+and drinking-water quality.
+                                                          important water-related viral pathogens: for example noroviruses, rotaviruses
+
+                                                          and hepatitis E virus.
+
+                                                          Other recently-developed technologies are being assessed for their application in
+
+                                                          water microbiology. Flow cytometery is a powerful technique using laser light to
+
+                                                          quantify particles or to recognize structural features of cells. By measuring the scatter
+
+                                                          and wavelength of light as a particle intercepts the beam, information can be gained
+
+                                                          that allows the rapid quantification of the organisms. The analytical capability of
+
+                                                          the technique can be further enhanced by use of fluorescent monoclonal antibodies
+
+                                                          that are specific for a particular pathogen. Using this, and other fibre optic
+
+                                                          technologies, we are presented with the potential to detect and quantify water-related
+
+                                                          pathogens in real time. The implications of these advances to the management of
+
+                                                          water quality and the protection of public health may be far reaching.
+                             14
+DEVELOPING EFFECTIVE MONITORING                                                                                Guidelines for
+                                                                                                               Drinking-water
+The recognition of emerging and re-emerging pathogens does not rely solely                                     Quality
+                                                                                                                The WHO Guidelines for
+upon the development of new analytical methods. The reassessment of methods
+                                                                                                                Drinking-water Quality are the
+in the context of improved knowledge about the health risks from water-related                                  international reference point
+                                                                                                                for standard setting and
+disease leads to evolving interpretation of findings. This is a feature of many of
+                                                                                                                drinking-water safety.The
+the publications listed throughout this brochure.                                                               Guidelines are supported by
+                                                                                       other publications explaining how they were
+WHO has recognized the limitation of many established methods for monitoring           derived and to assist in implementing safe water
+                                                                                       activities.To keep pace with new developments the
+water quality when it comes to predicting the presence of known pathogens.
+                                                                                       Guidelines for Drinking-water Quality are under
+New approaches to health-related monitoring are being introduced that can              constant rolling revision.Thus the development of
+                                                                                       the third edition of the Guidelines for Drinking-water
+overcome many of the weaknesses of current methods and provide additional
+                                                                                       Quality (2004) includes a substantive revision of
+tools for reducing disease risks. Water Safety Plans (WSPs) are an approach to         approaches to ensuring microbial safety.This takes
+                                                                                       account of important developments in microbial
+drinking-water safety management that has its roots in the multiple barrier
+                                                                                       risk assessment and its linkages to risk management.
+principle of water treatment, and the Hazard Assessment of Critical Control               Information on updating the Guidelines is
+                                                                                       available on the Internet http://www.who.int/
+Points (HACCP) approach to the safety of foods. The primary objectives of a
+                                                                                       water_sanitation_health/GDWQ/index.html.
+WSP in ensuring good drinking-water supply practice are the prevention of
+
+contamination of source waters, the reduction or removal of contamination
+
+through treatment processes to meet health-based targets, and the prevention of
+
+contamination during storage, distribution and handling. WSPs are a central
+
+component of the 3rd edition of the WHO Guidelines for Drinking-water Quality.
+This approach to water quality management presents challenges for process
+
+monitoring and puts new demands on analysis.
+
+
+
+
+CHANGES IN HUMAN
+B E H AV I O U R A N D
+VULNERABILITY
+IMMUNE STATUS
+
+The immune system provides an efficient line of defence against infection. During
+
+the life of an individual, the immune system develops, matures and eventually
+
+wanes. At birth the immune system offers little protection against infection, but
+
+it develops rapidly in response to stimulants in the environment, infectious
+
+disease organisms, and from contact with other people. After a few years the
+
+body has acquired an elaborate system of cellular and humoral immunity that
+
+can rapidly neutralize an infectious agent as well as set up a barrier against
+
+future infection by the same agent. In later life, the efficiency of the immune
+
+system begins to wane and the body is once again more susceptible to infection.
+
+Factors apart from age can affect the effectiveness of the immune system: for
+
+example, the individual’s level of nutrition and fitness, stress, excessive exposure
+
+to ultraviolet irradiation, and pregnancy. Some, however, can have a devastating
+
+impact on the immune system. The transplantation of organs, such as the heart,
+
+
+                                                                                                             15
+                                                         liver and kidneys, is followed by the long-term administration of
+
+                                                         immunosuppressive drugs to prevent rejection of the new organ. Cancer
+
+                                                         treatment often involves procedures that reduce the effectiveness of the immune
+
+                                                         system. Infection with the human immunodeficiency virus (HIV), itself a recent
+
+                                                         emerging pathogen, severely impairs the host's cellular immune system,
+
+                                                         eventually leading to AIDS.
+
+                                                         In combination, the ageing of the world's population, the use of
+
+                                                         immunosuppressive procedures, and the global spread of HIV/AIDS have
+                                                                                       created a large and growing population with
+Microsporidia are obligate, intracellular spore-forming protozoa. About 1000
+                                                                                       impaired immune systems. This group of people is
+species of microsporidia have been recognized, mainly as parasites of fish and
+invertebrates. In a susceptible human host, infection by the organism can cause        highly susceptible to infection by organisms that
+chronic diarrhoea, dehydration and weight loss. Human disease caused by
+                                                                                       may be of little or no threat to immunocompetent
+microsporidia was largely unknown before the emergence of HIV, and subsequent
+recorded cases of the disease, in the main, have been confined to HIV-infected         individuals, or have a greater risk of mortality from
+immunocompromised individuals and organ transplant recipients who are being
+                                                                                       normally-benign infections. Several pathogens have
+treated with immunosuppressive drugs (Franzen & Müller, 1999). Waterborne
+outbreaks of microsporidiosis have been recorded and, once again, the cases            emerged or are re-emerging within the
+have been largely limited to immunocompromised individuals (Slifko, Smith
+                                                                                       immunocompromised population eg.
+& Rose, 2000).
+                                                                                       Cryptosporidium and MAC.
+
+
+
+                                                         BREAKDOWN IN PUBLIC HEALTH MEASURES
+
+
+                                                          The fundamental maxim of public health must guide current disease
+                                                          prevention programmes: the health of the individual is best ensured
+                                                          by maintaining and improving the health of the entire community.
+                                                          Satcher (1995)
+
+
+
+                                                         Human frailty has been the cause of many outbreaks of infectious disease, but
+
+                                                         the consequences can be particularly devastating when the failure has occurred
+
+Cryptosporidium, a coccidian protozoan parasite,         within established public health protection measures. The 1976 USEPA Interim
+was only identified as a human pathogen in 1976. It
+                                                         Primary Drinking Water Regulations recognize this risk in their statement on
+can cause diarrhoeal illness in the immunocompetent
+but with dire consequences in immunocompromised          water sources:
+individuals. The disease is endemic throughout
+the world.The incidence of infection is also high,       Production of water that poses no threat to the consumer's health depends on
+illustrated by the finding that in the USA 20%
+                                                         continuous protection. Because of human frailties associated with protection, priority
+of young adults have evidence of infection by
+Cryptosporidium.This rate was over 90% amongst           should be given to selection of the purest source. Polluted sources should not be used
+children under one year old in a Brazilian shanty
+                                                         unless other sources are economically unavailable, and then only when personnel,
+town (Kosek et al, 2001).
+                                                         equipment and operating procedures can be depended on to purify and otherwise
+                                                         continuously protect the drinking-water supply.
+
+                                                         In May 2002 the water supply of Walkerton, Canada became contaminated
+
+                                                         with a mixture of pathogens including E.coli O157:H7 and Campylobacter jejuni
+
+                                                         when runoff in contact with livestock waste entered a well. As a result, over
+
+                                                         2300 people became ill and seven people died from infection by these bacteria.
+
+                                                         The inquiry into the incident was highly critical of many of the local agencies
+
+                                                         involved in the supply of water and in the protection of public health, and
+
+                           16
+highlighted a breakdown of ordinary public health measures as one cause of                                 Water Quality:
+                                                                                                           Guidelines,
+the outbreak.
+                                                                                                           Standards and Health.
+                                                                                                            Assessment of risk and
+The 1993 outbreak of cryptosporidiosis in Milwaukee, USA, involved up to
+                                                                                                            risk management for
+400,000 cases of serious illness and 100 deaths, principally among AIDS                                     water-related infectious
+                                                                                                            disease.
+patients. The cause of the outbreak appeared to be linked to two factors: the
+                                                                                                            Edited by L.Fewtrell
+location of the water intake to the treatment works and the experimental                                    and J.Bartram.
+                                                                                       The quality of water is significant for health
+coagulation system which turned out to be ineffective, resulting in the turbidity
+                                                                                       worldwide. Accordingly, water quality standards and
+limits for some of the filters being exceeded.                                         guidelines are developed to protect public health.
+                                                                                       However, it has become clear that there is a need
+The Milwaukee and Walkerton incidents have done much to redress the                    for a harmonised framework to inform guideline
+                                                                                       development and revision to support better
+perceived balance of risks and bring microbiological parameters back to the fore.
+                                                                                       health protection.
+At the time, some interpreted the accumulated experience in industrialized               This book contains a series of reviews which
+                                                                                       address the principal issues of concern linking
+countries as suggesting that waterborne infectious disease had been conquered
+                                                                                       water and health to the establishment and
+and the most significant risks to health were from chemical contaminants. With         implementation of effective affordable and efficient
+                                                                                       guidelines and standards.
+hindsight it is easy to see the mistake of directing attention towards the health
+
+risk from chemicals at the expense of vigilance with regard to microbial hazards.
+These two and other incidents have emphasized the fundamental importance of
+the multiple barrier principle of water treatment and the need to implement a
+
+systems approach to preventive risk management as advocated in the current
+
+revision of the WHO Guidelines for Drinking-water Quality and the
+
+development of WSPs.
+
+
+
+
+HUMAN MIGRATION
+
+
+Borders are porous and microbes readily cross them.
+Wilson (1995)
+
+
+
+Cholera provides a good example of a water-related pathogen that is readily
+
+transported over long distances by human migration. In 1849 John Snow wrote:
+
+Epidemics of cholera follow major routes of commerce. The disease always appears
+first at the seaports when extending into islands or continents. This observation
+is pertinent even today. It has been suggested that V. cholerae may have been
+
+re-introduced to South America in 1991, after a century of absence, from the
+
+bilge and ballast water of cargo ships.
+
+Human migrations take many forms and occur for many reasons: some
+
+voluntary, some forced. In his account of the environmental history of the 20th
+
+century, John McNeill argues that human migration has often mattered more
+
+than population growth as a driver of environmental change. He also asserts that
+
+the most important migrations, from an environmental perspective, have
+occurred at the boundaries between natural environments: ...from humid to dry
+lands repeatedly provoke desertification. Migrations from flatlands to sloping lands
+often led to faster soil erosion. Migrations into forest zones brought deforestation
+                                                                                                            17
+                       Before the development of the sugar estates of           (McNeill, 2000). Likewise, the migration of people between natural boundaries
+                       Wonji and Metahara in Ethiopia in the 1950s,
+                                                                                has been responsible for the emergence of several infectious diseases. Most
+                       schistosomiasis was confined to the provinces of
+                       Harar,Tigray and the Lake Tana Basins.The irrigated      notable are diseases that have emerged as humans have encroached upon forest
+                       sugar estate ecologies, which favour the
+                                                                                regions, bringing people into closer contact with animal species carrying
+                       propogation of aquatic snails, increased the
+                       environmental receptivity to schistosomiasis             pathogens that can be transmitted across the species barrier.
+                       transmission dramatically. It was the migration of
+                       agricultural labourers southwards, however, which        Each year, the United Nations High Commission for Refugees (UNHCR)
+                       triggered the introduction and spread of S. mansoni.
+                                                                                publishes an estimate of the number of refugees. Between 1980 and 2001, the
+                       Seasonal workers coming from the southern
+                       districts of Wolayita, Hadya and Kenibata will have      number of refugees has risen by 42.8%, from 8.4 to 12 million (UNHCR, 2002),
+                       picked the newly spread pathogens up at the sugar
+                                                                                although it is down from a peak of 17.8 million in 1992. The scale of the
+                       estate and distributed them further south, including
+                       to the irrigation schemes of the Middle Awash            situation is confirmed in a recent report by the International Organization for
+                       Valley. Increased circulation of humans during the
+                                                                                Migration, which indicates that worldwide, one out of every 35 people is a
+                       1984 – 85 droughts exacerbated the spread and
+                       intensification of the disease (Meskal, 1987).           migrant (IOM, 2003).
+
+                                                                                              Trend in the estimated number of refugees between 1980 and 2001
+                                                                                              (UNHCR, 2002)
+
+                                                                                                       20000
+
+                                                                                                       18000
+
+                                                                                                       16000
+                                                                                 Numbers (thousands)
+
+
+
+
+                                                                                                       14000
+
+                                                                                                       12000
+
+                                                                                                       10000
+
+                                                                                                        8000
+
+                                                                                                        6000
+Photo: WHO/P.Virot
+
+
+
+
+                                                                                                        4000
+                                                                                                               1980
+                                                                                                                      1981
+                                                                                                                             1982
+                                                                                                                                    1983
+                                                                                                                                           1984
+                                                                                                                                                  1985
+                                                                                                                                                         1986
+                                                                                                                                                                1987
+                                                                                                                                                                       1988
+                                                                                                                                                                              1989
+                                                                                                                                                                                     1990
+                                                                                                                                                                                            1991
+                                                                                                                                                                                                   1992
+                                                                                                                                                                                                          1993
+                                                                                                                                                                                                                 1994
+                                                                                                                                                                                                                        1995
+                                                                                                                                                                                                                               1996
+                                                                                                                                                                                                                                      1997
+                                                                                                                                                                                                                                             1998
+                                                                                                                                                                                                                                                    1999
+                                                                                                                                                                                                                                                           2000
+                                                                                                                                                                                                                                                                  2001
+                                                                                                                                                                                        Year
+
+
+                     High-density peri-urban area
+                                                                                The rate of urban growth and urbanization are important characteristics of
+
+                                                                                human settlement in the late 20th and early 21st centuries. The rate of growth is
+
+                                                                                increasing, with much of the growth occurring in developing or low- to middle-
+
+                                                                                income countries. In the year 2000, 2.8 billion people lived in urban
+
+                                                                                settlements, equivalent to 47% of the global population (UN-HABITAT, 2003a).
+
+                                                                                By 2007 more people will live in urban areas than rural areas for the first time
+
+                                                                                ever in human history (UN-HABITAT, 2003b).
+                       In most developed countries Cyclospora cayetanensis
+                       has been primarily associated with foodborne             Two processes drive the growth in population in urban areas: natural increase
+                       disease outbreaks and most cases in Europe and
+                                                                                due to high fertility rates, and rural urban migration (McMichael, 2000). Often,
+                       Australia have been associated with international
+                       travel in endemic areas. In December 2000 a              however, the burden of population growth is not evenly distributed across the
+                       foodborne outbreak in southwest Germany was
+                                                                                urban settlement, with the most rapid increases occurring in low-income areas.
+                       reported. Investigation linked transmission to a salad
+                       dish.The sources of the lettuce were traced to farms     In developing or low-income countries the peri-urban areas are often
+                       in southern France and Italy. Although the oocysts
+                                                                                characterized by high density, poor quality housing, a low level of health and
+                       may have been transmitted to the lettuce via seasonal
+                       workers from endemic countries, it is thought            social services, and limited access to basic services such as water and sanitation.
+                       possible that contamination was also through local
+                                                                                The social and often unsanitary environmental conditions that prevail in these
+                       soil or water contact (Döller et al., 2002).
+                                                                                areas are conducive to the emergence and rapid spread of infectious disease.
+
+
+                                                    18
+                                                                                                                                             Guidelines for Safe
+                                                                                                                                             Recreational-water
+                                                                                                                                             Environments
+                                                                                                                                              Recreational use of water can
+                                                                                                                                              have benefits to health and also
+                                                                                                                                              adverse health effects if it is
+                                                                                                                                              polluted or unsafe. Recreational-
+                                                                                                                         water users may also be exposed to hazards such
+                                                                                                                         as excess heat, cold and sunlight.
+                                                                                                                           WHO produces international norms on
+                                                                                                                         recreational-water use and health in the form of
+                                                                                                                         Guidelines.The first edition of the WHO Guidelines
+Photo: Surfers Against Sewage, UK
+
+
+
+
+                                                                                                                         for Safe Recreational-water Environments is published
+                                                                                                                         in two volumes: Volume 1: Coastal and
+                                                                                                                         Freshwaters; and Volume 2: Swimming Pools, Spas
+                                                                                                                         and Similar Recreational-water Environments.
+                                                                                                                            Volume 1 of the Guidelines provides an
+                                                                                                                         authoritative referenced review and assessment of
+                                                                                                                         the health hazards associated with recreational waters.
+                                    Water-based recreation is highly popular
+                                                                                                                            Volume 2* provides Guidelines on the health
+                                                                                                                         hazards associated with swimming pools, spas and
+                                    Another significant form of human migration is tourism. In 2001, 690 million         similar recreational-water environments.
+
+                                    international arrivals were recorded by the World Tourism Organization. This
+
+                                    volume of human movement is unprecedented and, combined with the speed
+                                                                                                                                             Serious illness in
+                                    and accessibility of modern methods of transport, has increased the potential for                        Recreational-water
+                                                                                                                                             Environments*
+                                    diseases to be transmitted over great distances within a very short time. With the
+                                                                                                                                               The vast majority of research to
+                                    growth of tourism the popularity of recreational activities which involve contact                          date concerning recreational
+                                                                                                                                               waters has focused on gastro-
+                                    with water has grown; moreover, ease of travel has altered the public use of
+                                                                                                                                               enteric outcomes arising from
+                                    water for recreational purposes. Due to travel to warm climates, prolonged                                 contamination of water by
+                                                                                                                         sewage and excreta and it has become apparent
+                                    periods of immersion are now becoming normal and activity occurs throughout
+                                                                                                                         that mild gastro-enteric symptoms are widespread
+                                    the year, and not just during bathing seasons.                                       and common amongst recreational-water users.
+                                                                                                                           As the use of water for recreational purposes
+                                    Severe illness due to dermal contact with toxic cyanobacteria mats has been          becomes ever more popular and travel becomes
+                                                                                                                         easier, users will be exposed to different types of
+                                    reported from tropical marine bathing sites (Edwards, et al. 1992). Many
+                                                                                                                         pathogens in the water, some of which may
+                                    infections occur on a seasonal basis and therefore users will be exposed to          produce more severe potential health outcomes
+                                                                                                                         resulting in symptoms which are not self limiting
+                                    different and unfamiliar pathogens in the water in different locations. Many
+                                                                                                                         and require medical attention.
+                                    cases of schistosomiasis in Europe for example are imported where travellers to        This book systematically reviews the evidence
+                                                                                                                         for, and credibility of transmission of a broad range
+                                    tropical and sub-tropical areas have been infected by the parasite whilst
+                                                                                                                         of pathogens encountered through recreational use
+                                    undertaking water-related activities.                                                of water resources. It provides invaluable reading for
+                                                                                                                         environmental health officers, medical practitioners,
+                                                                                                                         water-quality scientists and environmental regulators.
+
+
+
+
+                                                                                                                                               19      *   This publication is expected in 2004
+REFERENCES
+
+
+Battersby SA, Parsons R, Webster JP (2002). Urban rat infestations and the risk to public health. Journal of
+Environmental Health Research, 1(2): 57–65.
+Ceruti R, et al. (2001). Capillaria hepatica infection in wild brown rats (Rattus norvegicus) from the urban
+area of Milan, Italy. Journal of Veterinary Medicine Series B; 48(3): 235–40.
+
+Desselberger U (2000). Emerging and re-emerging infectious diseases. Journal of Infection, 40: 3–15.
+
+Döller PC, et al. (2002). Cyclosporiasis outbreak in Germany associated with the consumption of salad.
+Emerging Infectious Diseases, 8: 992–994.
+Edwards C, et al. (1992). Identification of anatoxin-a benthic cyanobacteria (blue-green algae) and in
+associated dog poisonings at Loch Insh, Scotland. Toxicon, 30(10): 1165–1175.
+
+Franzen C, Müller A (1999). Cryptosporidia and microsporidia - waterborne diseases in the
+immunocompromised host. Diagnostic Microbiology and Infectious Disease, 34: 245–262.
+
+Gibson CJ III et al. (1998). Combined sewer overflows: a source of Cryptosporidium and Giardia? Water
+Science and Technology, 38(12): 67–72.
+IOM (2003). World Migration 2003: Managing Migration - Challenges and Responses for People on the Move.
+International Organization for Migration.
+
+Kindhauser, MK, ed. Global defence against the infectious disease threat. Geneva, World Health Organization, 2003.
+
+Kosek M, et al. (2001). Cryptosporidiosis: an update. The Lancet Infectious Diseases, 1: 262–269.
+
+McMichael AJ (2000). The urban environment and health in a world of increasing globalization: issues for
+developing countries. Bulletin of the World Health Organization, 78: 1117–1126.
+
+McNeill J (2000). Something new under the sun: An environmental history of the twentieth century. Penguin, 2000.
+
+Meskal FH (1987). Vectorborne diseases related to labour movement and arrangements for their control, in:
+Selected Working Papers for the 3rd to 6th PEEM meetings. Geneva, World Health Organization (document
+VBC/87.3).
+
+Miwa H, Sakaki N, Sugiyama T (2002). Incidence of recurrent peptic ulcers in patients with cured H. pylori
+infection - a large-scale multicenter study from Japan. The American Journal of Gastroenterology, 97,
+(9, Supplement 1): S42.
+
+MMWR (1999). Outbreak of West Nile-Like Viral Encephalitis – New York, 1999. Morbidity and Mortality
+Weekly Report, October 1, 1999, 48 (38): 845–849.
+Satcher D (1995). Emerging infections: Getting ahead of the curve. Emerging Infectious Diseases, 1: 1–6.
+
+Slifko TR, Smith HV, Rose JB (2000). Emerging parasite zoonoses associated with water and food.
+International Journal for Parasitology, 30: 1379–1393.
+Taylor LH, Latham SM, Woolhouse MEJ (2001). Risk factors for human disease emergence. Philosophical
+Transactions of the Royal Society London – B, 356: 983–989.
+UN-HABITAT (2003a). Cities in a globalizing world: global report on human settlements. Earthscan, London, 2001.
+
+UN-HABITAT (2003b). Water and sanitation in the world's cities: Local action for global goals. Earthscan,
+London, 2003.
+
+UNHCR (2002). Refugees by numbers 2002. United Nations High Commissioner for Refugees. (Internet
+communication of http://www.unhcr.ch/cgi-bin/texis/vtx/basics, accessed 3 July 2003).
+
+Webster JP, MacDonald DW (1995). Parasites of wild brown rats (Rattus norvegicus) on UK Farms.
+Parasitology, 111: 247–253.
+WHO (1997). Division of emerging and communicable diseases surveillance and control annual report – 1996.
+Geneva, World Health Organization, 1997.
+
+Wilson ME (1995). Infectious diseases: an ecological perspective. British Medical Journal, 311: 1681–1684.
+
+Woolhouse MEJ (2002). Population biology of emerging and re-emerging pathogens. Trends in Microbiology,
+10, No. 10 (Suppl.): S3–S7.
+
+
+20
+AC K N OW L E D G E M E N T S
+
+
+Special thanks to those listed below for their valuable input and contribution.
+
+Technical advisors, writers and reviewers
+Jamie Bartram           World Health Organization (WHO) Geneva, Switzerland
+Stephen Battersby       Robens Centre for Public and Environmental Health (RCPEH) Guildford, UK
+Robert Bos              World Health Organization (WHO) Geneva, Switzerland
+Joseph Cotruvo          J. Cotruvo Associates, Washington DC, USA
+Aidan Cronin            Robens Centre for Public and Environmental Health (RCPEH) Guildford, UK
+Alfred Dufour           United States Environmental Protection Agency (USEPA) Cincinnati, USA
+Gregory Hartl           World Health Organization (WHO) Geneva, Switzerland
+Guy Howard              Water, Engineering and Development Centre (WEDC) Loughborough, UK
+Kali Johal              Robens Centre for Public and Environmental Health (RCPEH) Guildford, UK
+Nada Osseiran           World Health Organization (WHO) Geneva, Switzerland
+Federico Properzi       World Health Organization (WHO) Geneva, Switzerland
+Gareth Rees             Robens Centre for Public and Environmental Health (RCPEH) Guildford, UK
+Joerg Rueedi            Robens Centre for Public and Environmental Health (RCPEH) Guildford, UK
+
+
+Writers:                Steve Pedley, Kathy Pond
+                        Robens Centre for Public and Environmental Health (RCPEH) Guildford, UK
+Editor:                 Kathy Pond
+Designers/Production: Cato Street, London, UK
+Photographs:            WHO photolibrary, USEPA, Surfers Against Sewage UK, John Wharam and Daffyd S
+                        R Baker, Kingston upon Hull City Council, Peter Furu Danish Bilharziasis Laboratory,
+                        Milwaukee Metropolitan Sewerage District.
+
+Several of the monographs announced in this document are the result of a collaboration between the WHO and
+the USEPA through Cooperative Agreement No. CR826570. The objective of this agreement is to rapidly
+collate, critically appraise, synthesize and disseminate available information on selected issuses concerning
+water-related exposure to emerging and re-emerging pathogens that are important to human health.
+
+WATER, SANITATION AND HEALTH AT WHO
+The Water Sanitation and Health (WSH) activities at WHO aim to reduce water-related disease and optimize
+the health benefits of sustainable water and waste management. Our objectives are to support the health
+sector in effectively addressing water and waste-related disease burden and engaging others in its reduction.
+WSH also assists non-health sectors in understanding and acting on the health impacts of their actions.
+
+Activities carried out include:
+
+■   Articulating consistent ethical and evidence-based policy.
+
+■   Providing technical and policy support for sustainable capacity building.
+
+■   Setting, validating, monitoring and guiding the implementation of norms and standards.
+
+■   Assessing status and trends.
+
+■   Developing tools and guidelines for disease control and risk reduction.
+
+■   Stimulating research and development, testing new technologies and comparing performance.
+
+Water, Sanitation and Health
+World Health Organization
+20, Avenue Appia, CH-1211 Geneva 27, Switzerland
+Http://www.who.int/water_sanitation_health
+
+
+                                                                                                           21
+WHO OFFICES
+HEADQUARTERS
+World Health Organization, Geneva, Switzerland
+World Health Organization
+Avenue Appia 20,
+1211 Geneva 27, Switzerland
+Tel. +41 22 791 21 11                                                                World Health Organization
+Fax +41 22 791 31 11
+Website: www.who.int
+
+
+
+REGIONAL OFFICES
+Africa                                                           Europe
+World Health Organization Regional Office                        World Health Organization Regional Office for
+for Africa (AFRO)                                                Europe (EURO)
+P.O. Box 6                                                       8, Scherfigsvej
+Cite du Djoue                                                    DK-2100 Copenhagen Ø, Danemark
+Brazzaville, Congo                                               Tel. +45 39 17 17 17
+Tel. +242 839 100/+47 241 39100                                  Fax +45 39 17 18 18
+Fax +242 839 501/+47 241 39501                                   Email: postmaster@euro.who.int
+Email: regafro@afro.who.int                                      Website: www.euro.who.int
+Website: www.whoafr.org
+
+Americas                                                         South-East Asia
+World Health Organization                                        World Health Organization Regional Office for
+Regional Office for the Americas/Pan American                    South-East Asia (SEARO)
+Health Organization (AMRO/PAHO)                                  World Health House, Indraprastha Estate
+525, 23rd Street, N.W.                                           Mahatma Gandhi Road
+Washington, DC 20037, USA                                        New Delhi 110002, India
+Tel. +1 202 974 3000                                             Tel. +91 112 337 0804
+Fax +1 202 974 3663                                              Fax +91 112 337 0197
+Email: postmaster@paho.org                                       Email: PANDEYH@whosea.org
+Website: www.paho.org                                            Website: www.whosea.org
+
+
+
+Eastern Mediterranean                                            Western Pacific
+World Health Organization Regional Office for                    World Health Organization Regional Office for the
+the Eastern Mediterranean (EMRO)                                 Western Pacific (WPRO)
+WHO Post Office                                                  P.O. Box 2932
+Abdul Razzak Al Sanhouri Street (opposite                        1000 Manila, Philippines
+Children's Library)                                              Tel. +63 2 528 80 01
+Nasr City                                                        Fax +63 2 521 1036
+Cairo 11371, Egypt                                               Email: postmaster@who.org.ph
+Tel. +20 2 670 2535                                              Website: www.wpro.who.int
+Fax +20 2 670 2492
+Email: PIO@emro.who.int
+Website: www.emro.who.int
+
+
+
+
+     To order any of the publications referred to in this brochure please contact:
+     WHO Marketing and Dissemination
+     World Health Organization
+     20 Avenue Appia
+     1211 Geneva 27
+     Switzerland
+     Tel. +41 22 791 2476
+     Fax +41 22 791 4857
+     Email: bookorders@who.int and order online: http://bookorders.who.int
+
+22
+23
+‘Of all our natural resources, water has become the
+ most precious...In an age where man has forgotten his
+ origins and is blind even to his most essential needs for
+ survival, water along with other resources has become
+ the victim of his indifference’. Rachel Carson, Silent Spring.
+

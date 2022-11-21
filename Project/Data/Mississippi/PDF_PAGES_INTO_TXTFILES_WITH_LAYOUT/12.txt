@@ -1,0 +1,49 @@
+(38)   "Management agency" means an area-wide waste treatment management agency
+       designated by the governor pursuant to Section 208(a) of the Federal Clean Water
+       Act.
+
+(39)   “Maximum Monthly Average” means the highest “monthly average” over a
+       monitoring period.
+
+(40)   “Maximum Weekly Average” means the highest “weekly average” over a
+       monitoring period.
+
+(41)   The “Method Detection Limit (MDL)” is defined as the minimum concentration
+       of a substance that can be measured and reported with 99% confidence that the
+       analyte concentration is greater than zero and is determined from analysis of a
+       sample in a given matrix containing the analyte.
+
+(42)   “Minimum Quantitation Level (MQL)” – is the concentration in a sample that is
+       equivalent to the concentration of the lowest calibration standard analyzed by a
+       specific analytical procedure, assuming that all of the method-specified
+       calculations, sample weights, volumes, and processing steps have been followed,
+       and also allowing for matrix interference.
+
+(43)   "Mitigation" means the following (in order of preference):
+
+       (a)    avoiding the impact altogether by not taking a certain action or part of an
+              action;
+
+       (b)    minimizing impacts by limiting the degree of magnitude of the action and
+              its implementation, by using appropriate technology, or by taking
+              affirmative steps to avoid or reduce impacts;
+
+       (c)    rectifying the impacts by repairing, rehabilitating, or restoring the affected
+              environment;
+
+       (d)    reducing or eliminating the impact over time by preservation and
+              maintenance operations during the life of the action; or
+
+       (e)    compensating for the impact by replacing, enhancing, or providing
+              substitute resources or environments.
+
+   Mitigation for individual actions may include a combination of the above measures.
+
+(44)   "Monthly average" means the average of "daily discharges" over a calendar
+       month, calculated as the sum of all "daily discharges" measured during a calendar
+       month divided by the number of "daily discharges" measured during the month .
+       The monthly average for fecal coliform bacteria is the geometric mean of "daily
+       discharges" measured during the calendar month. In computing the geometric
+
+                                        12
+

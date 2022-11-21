@@ -1,0 +1,49 @@
+E.     Depth
+
+Depth will be used if accurate stream depth profiles are available as determined by measurement
+or available flood plain maps. For larger, slow-moving rivers, depths may also be estimated. In
+the WASP models, minimum depth will be one-half of the estimated or measured depth.
+
+F.     Slope
+
+1.      Stream slope determinations will be made from GIS computer software, NHD Plus
+values, USGS quad maps, or flood plain reports.
+
+2.    Stream slope profiles will be analyzed (elevation vs. mile) to determine if the slope
+changes along the stream length being modeled.
+
+3.     Model stream segments will correspond to noticeable stream slope changes.
+
+G.     Kd (Carbonaceous Deoxygenation Rate)
+
+1.      When usable field data are not available, the stream's Kd rate will be based on both the
+type of wastewater, type of treatment and/or the instream CBODu concentration.
+
+2.     The temperature correction equation is:
+
+                                 Kd (T ) = Kd (20 C) *1.047 T −20
+
+3.     When instream CBODu values approach background conditions the Kd rate will be set to
+0.15/day and the ratio of Ka/Kd = 2 or Ka = 0.3/day.
+
+4.     When actual data are available, the Kd rate will be determined according to the
+procedures outlined in Rates, Constants, and Kinetics Formulations in Surface Water Quality
+Modeling (Second Edition), EPA/600/3-85/040 or most current version.
+
+5.    Kd is assumed equal to Kr (overall rate of CBODu removal from the water column) in
+most model applications.
+
+6.     Normally, a laboratory-derived “bottled” CBODu decay rate taken from the effluent only
+(Kl) will not be used in modeling. Typically, an instream decay rate will be used for modeling
+purposes.
+
+7.      Kd = 0.3/day (base e) at 20°C will be used for streams receiving upgraded lagoon
+effluent (single or multi-cell lagoons upgraded with sand filters, artificial wetlands, etc.).
+
+8.     The following clarification can be used in the estimation procedure for Kd, CBODu rate.
+
+
+
+
+                                                 98
+

@@ -1,0 +1,48 @@
+                 of Mississippi’s Wastewater Regulations for National Pollutant Discharge
+                 Elimination System (NPDES) Permits, Underground Injection Control
+                 (UIC) Permits, State Permits, Water Quality Based Effluent Limitations
+
+                 and Water Quality Certification, Title 11, Part 6, Chapter 1. In these
+                 instances, the criterion for the specific metal in the affected water body
+                 shall be equal to the criterion concentrations calculated using the
+                 following equations:
+
+
+                          CMC = WER * Acute and CCC = WER * Chronic
+
+
+                 Where:           CC = Criteria Continuous Concentration
+                                  CMC = Criteria Maximum Concentration
+                                  WER = Water Effects Ratio for a Specific Pollutant
+                                  Acute = Acute Criterion from Table 2
+                                  Chronic = Chronic Criterion from Table 2
+
+      When a WER has not been conducted, the criterion listed in Table 2 of this regulation
+      shall apply because the value of the WER is presumed to equal one in the absence of
+      data to indicate otherwise.
+
+(5)      Discharge Specific Criteria:
+
+         (a)     Existing Discharges
+
+                 (1)      The Commission may establish discharger specific alternative
+                          criteria for existing discharges if all of the following conditions are
+                          satisfied:
+
+                          (i)     Discharge existed prior to December 1, 1988.
+
+                          (ii)    Discharger performs acute and/or chronic bioassays and
+                                  instream biological assessments and other evaluations as
+                                  deemed appropriate by the Commission.
+
+                          (iii)   The designated use of the waters is maintained.
+
+                 (2)      All discharger specific alternative criteria will be subject to
+                          Mississippi public participation requirements for revisions to water
+                          quality standards and will be subject to review by the U. S.
+                          Environmental Protection Agency.
+
+         (b)     New Source Discharges
+
+                                           167
+

@@ -1,0 +1,526 @@
+Ariz. Admin. Code R18-6-101 Definitions (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-6-101. Definitions
+
+In addition to the definitions established in A.R.S. § 49-301, the following
+terms apply to this Chapter:
+
+1. "Agricultural use pesticide" means any pesticide intended for use directly
+on a crop. An agricultural use pesticide does not include animal pesticide
+eartags or pesticides intended solely for use within and around a confined
+structure.
+
+2. "Crop" means any plant, animal, plant product, or animal product
+produced for commercial or research purposes.
+
+3. "Data generator" means any person providing information to support the
+registration in this state of an agricultural use pesticide in accordance with
+A.R.S. § 49-302(A).
+
+4. "EPA" means the United States Environmental Protection Agency.
+
+5. "Formulator" means any person who purchases an EPA- registered
+pesticide to reformulate or repackage and register the pesticide for sale in
+this state.
+
+6. "Label" means the written, printed, or graphic matter on, or attached to,
+the pesticide container, and the outside container or wrapper of the retail
+package, if any, of the pesticide.
+
+7. "Pest" means any weed, insect, vertebrate pest, nematode, fungus, virus,
+bacteria, or other pathogenic organism, or any other form of terrestrial or
+aquatic plant or animal life, except virus, bacteria, or other microorganism
+on or in living humans or other living animals, that is declared a pest by the
+Director of the Arizona Department of Agriculture.
+
+8. "Soil-applied" means an agricultural use pesticide intended for
+application to or injection into the soil by ground-based application
+equipment or chemigation, or the label of the pesticide requires or
+recommends that the application is followed within 72 hours by flood or
+furrow irrigation.
+
+(Adopted effective May 10, 1988 (Supp. 88-2). Amended effective
+September 23, 1992 (Supp. 92-3). Amended by final rulemaking at 11 A.A.R.
+3949, effective November 22, 2005 (Supp. 05-3).)
+Ariz. Admin. Code R18-6-102 Agricultural Use Pesticide Submittal
+  Requirements (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-6-102. Agricultural Use Pesticide Submittal Requirements
+
+A. Pre-registration data requirements for new agricultural use pesticides.
+
+1. Before registering a new agricultural use pesticide under A.R.S. § 3-351, an
+applicant shall submit information that enables the Department to
+determine whether the new agricultural use pesticide has the potential to
+pollute groundwater in the state. This information shall include:
+
+a. A transmittal letter;
+
+b. The following information on a Data Summary form obtained from the
+Department:
+
+i. The company name and address;
+
+ii. The name and contact information of the person making the submittal;
+
+iii. The date of filing;
+
+iv. The product information, including the brand name, EPA registration
+number, formulation category, and intended use; and
+
+v. The active ingredient technical name, Chemical Abstract Service (CAS)
+number, common name, molecular weight, and bulk density; and
+
+c. The following information for each active ingredient:
+
+i. Water solubility;
+
+ii. Vapor pressure;
+
+iii. Octanol-water partition coefficient;
+
+iv. Soil adsorption coefficient;
+
+v. Henry's law constant;
+
+vi. Dissipation studies, including hydrolysis, photolysis, aerobic and
+anaerobic soil metabolism, and field dissipation, performed under
+conditions in Arizona, or similar environmental and use conditions, if that
+information exists in studies and conclusions from other states or the United
+States government. The studies shall, at a minimum, meet EPA testing
+methods and reporting guidelines.
+
+2. The applicant may submit the following alternate information:
+Ariz. Admin. Code R18-6-102 Agricultural Use Pesticide Submittal
+  Requirements (Arizona Administrative Code (2021 Edition))
+
+
+a. Upon Director approval, alternate information to satisfy one or more of
+the data requirements in subsection (A)(1)(c). The alternate information
+shall accurately describe the relevant data required for each new agricultural
+use pesticide active ingredient under conditions in Arizona or under similar
+environmental and use conditions;
+
+b. California registration.
+
+i. Evidence that the California Department of Food and Agriculture
+registered the agricultural use pesticide following the data requirements
+under California Food and Agricultural Code Section 13143; and
+
+ii. Documentation showing that required studies were performed under
+environmental and use conditions that are similar to those conditions in
+Arizona.
+
+3. Waiver. The Director may waive some or all of the information required in
+subsection (A)(1)(c) if the applicant demonstrates that:
+
+a. Due to the nature of the active ingredient, it is not scientifically possible to
+obtain meaningful results for the specified tests; or
+
+b. Due to the application or cultural practices for the active ingredient, it is
+not necessary to obtain some or all of the information.
+
+B. Pre-registration data submittal completeness.
+
+1. The Department shall notify the Arizona Department of Agriculture when
+the applicant submits all the information on the active ingredient required
+under subsection (A) and the Director has concluded that the information is
+sufficient to determine whether the active ingredient has the potential to
+pollute groundwater of the state.
+
+2. If the Director cannot determine that the data submittal requirements for
+agricultural use registration in Arizona have been met, the person may apply
+for a conditional registration under A.R.S. § 49-310.
+
+C. Information submittal for the product chemistry and environmental fate
+assessment evaluation. After satisfying the data submittal required in
+subsection (A) and registering the pesticide with the Arizona Department of
+Agriculture:
+
+1. A registrant may prepare an assessment of the product chemistry and
+environmental fate parameters for the Department to evaluate the potential
+for a new agricultural use pesticide to pollute groundwater. The assessment
+shall include:
+Ariz. Admin. Code R18-6-102 Agricultural Use Pesticide Submittal
+  Requirements (Arizona Administrative Code (2021 Edition))
+
+
+a. Patterns for using the agricultural use pesticide in Arizona;
+
+b. Cultural practices for those areas within Arizona where the agricultural
+use pesticide is intended for use;
+
+c. Geological and meteorological conditions of the regions within Arizona
+where the agricultural use pesticide is intended for use; and
+
+d. Any other information the Director determines is necessary to support the
+assessment.
+
+2. A registrant may submit any of the following information if it is directly
+relevant to the agricultural use pesticide active ingredient evaluation:
+
+a. Relevant scientific data and summaries, including those submitted to or
+required by federal and state agencies that further support the studies
+required in R18-6-102(A)(1)(c);
+
+b. Relevant evaluations and conclusions by federal and state agencies,
+including evaluations of the studies required in R18-6-102(A)(1)(c);
+
+c. Documentation that addresses whether the studies required in R18-6-
+102(A)(1)(c) were performed under environmental and use conditions that
+are similar to those in Arizona.
+
+D. If new information is available about the active ingredient of an
+agricultural use pesticide currently registered by the Arizona Department of
+Agriculture, the Director may require the registrant to submit the new
+information to the Director to assess whether the information is relevant to
+the Director's determination under subsection (B)(1).
+
+(Adopted effective May 10, 1988 (Supp. 88-2). Amended effective
+September 23, 1992 (Supp. 92-3). Section repealed; new Section made by
+final rulemaking at 11 A.A.R. 3949, effective November 22, 2005 (Supp. 05-
+3).)
+ Ariz. Admin. Code R18-6-103 Agricultural Use Active Ingredient
+    Evaluation (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-6-103. Agricultural Use Active Ingredient Evaluation
+
+For each new or existing agricultural use pesticide registered in Arizona, the
+Director shall determine whether each active ingredient has the potential to
+pollute groundwater in the state. The Director shall either:
+
+1. Base the evaluation on the information submitted in accordance with R18-
+6-102(A) to determine whether the active ingredient fails any of the
+following mobility factors and one or more of the following persistence
+factors; or
+
+SPECIFIC NUMERIC VALUES
+
+MOBILITY FACTORS PERSISTENCE FACTORS
+
+Water solubility No greater than 30 ppm
+
+Soil adsorption
+
+coefficient Kd no less than 5
+
+Hydrolysis Half-life no greater than 25 weeks
+
+Aerobic soil
+
+metabolism Half-life no greater than 3 weeks
+
+Anaerobic soil
+
+metabolism Half-life no greater than 3 weeks
+
+Field dissipation Half-life no greater than 3 weeks
+
+2. Base the evaluation on the product chemistry and environmental fate
+assessment submitted in accordance with R18-6-102(C).
+
+(Adopted effective May 10, 1988 (Supp. 88-2). Amended by final rulemaking
+at 11 A.A.R. 3949, effective November 22, 2005 (Supp. 05-3).)
+  Ariz. Admin. Code R18-6-104 Monitoring and Testing (Arizona
+              Administrative Code (2021 Edition))
+
+
+§ R18-6-104. Monitoring and Testing
+
+A. The Director shall conduct soil and groundwater monitoring for active
+ingredients contained in agricultural use pesticides placed upon the
+Groundwater Protection List as required under A.R.S. § 49-307(A). The
+Department may conduct soil and groundwater monitoring for other
+specified ingredients or degradation products based on active ingredient test
+results or other information about the pesticide.
+
+B. The Director shall use the results of soil and groundwater monitoring and
+testing after considering the factors in A.R.S. § § 49-307(C) to make the
+determination in 49-308(A) and 49-309(A), (B), or (D).
+
+C. If the Director determines that an agricultural use pesticide meets the
+criteria or conditions specified in A.R.S. § 49-308(A), the Director shall
+notify the registrant in writing.
+
+(Adopted effective May 10, 1988 (Supp. 88-2). Amended by final rulemaking
+at 11 A.A.R. 3949, effective November 22, 2005 (Supp. 05-3).)
+ Ariz. Admin. Code R18-6-105 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-6-105. Repealed
+
+(Adopted effective May 10, 1988 (Supp. 88-2). Section repealed by final
+rulemaking at 11 A.A.R. 3949, effective November 22, 2005 (Supp. 05-3).)
+ Ariz. Admin. Code R18-6-106 Informational Requirements for a
+    Pesticide Formulator (Arizona Administrative Code (2021
+                           Edition))
+
+§ R18-6-106. Informational Requirements for a Pesticide
+Formulator
+
+A. A pesticide formulator may rely upon the data generated by another
+person to meet the requirements in R18-6-102. The pesticide formulator
+shall submit, to the Department, the name of every person who is a source of
+each agricultural use pesticide active ingredient.
+
+B. The Department shall request that each person identified under
+subsection (A) verify within 30 days, in writing, whether the person provides
+the pesticide formulator with the active ingredient in question.
+
+C. If a person advises the Department that the person is not a source for the
+active ingredient used by the pesticide formulator or if the person does not
+respond under subsection (B), the Department shall notify the pesticide
+formulator of that fact and shall require the pesticide formulator to provide
+either of the following documents attesting to a business relationship
+involving the active ingredient in question:
+
+1. A signed contract, or
+
+2. Any other documentation of a business arrangement, endorsed by each
+party.
+
+D. If the pesticide formulator does not produce acceptable documentation of
+a business relationship under subsection (C) or if a person identified by the
+pesticide formulator is not a data generator for the active ingredient in
+question, the Director shall find that a groundwater protection data gap
+exists for the agricultural use pesticide, and the formulator is subject to the
+provisions in A.R.S. § 49-304.
+
+E. Any pesticide formulator who relies on data submitted by a person
+identified as a source under subsection (A) shall notify the Department of
+any change in the source within 60 days of a similar notification to the EPA.
+
+(Adopted effective September 23, 1992 (Supp. 92-3). Amended by final
+rulemaking at 11 A.A.R. 3949, effective November 22, 2005 (Supp. 05-3). )
+ Ariz. Admin. Code R18-6-201 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-6-201. Repealed
+
+(Adopted effective August 27, 1987 (Supp. 87-3). Repealed effective
+September 23, 1992 (Supp. 92-3). )
+    Ariz. Admin. Code R18-6-301 Groundwater Protection List
+           (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-6-301. Groundwater Protection List
+
+A. Groundwater Protection List. The Director shall, using an evaluation
+process specified in R18-6-103 and the addition and deletion criteria
+specified in subsections (B) and (C), annually develop and maintain a list of
+agricultural use pesticides that have the potential to pollute groundwater.
+
+1. The Department shall publish the proposed Groundwater Protection List
+in the Arizona Administrative Register and accept written comments from
+the public.
+
+2. The written public comment period begins on the publication date of the
+list and extends for 30 calendar days.
+
+3. The Department shall publish the final Groundwater Protection List each
+year in the Arizona Administrative Register on or before July 1. The list is
+effective on December 1 of the publication year.
+
+B. Adding an agricultural use pesticide. The Director shall add an
+agricultural use pesticide to the Groundwater Protection List for any of the
+following reasons:
+
+1. An agricultural use pesticide active ingredient is identified under R18-6-
+103 as having the potential to pollute groundwater;
+
+2. An agricultural use pesticide active ingredient is detected in Arizona
+consistent with the testing requirements of R18-6-104 and is found:
+
+a. At or below the deepest of the following depths:
+
+i. Eight feet below the soil surface, or
+
+ii. Below the root zone of the crop where the active ingredient was found;
+
+b. In the groundwater of this state;
+
+3. An agricultural use pesticide degradation product or other specified
+ingredient that poses a threat to public health has been found under the
+conditions described in subsection (B)(2).
+
+C. Deleting an agricultural use pesticide. The Director shall delete an
+agricultural use pesticide from the Groundwater Protection List under any of
+the following circumstances:
+
+1. The results of monitoring and testing conducted by the Department, a
+government agency, or other reliable source establish that the active
+    Ariz. Admin. Code R18-6-301 Groundwater Protection List
+           (Arizona Administrative Code (2021 Edition))
+
+
+ingredient has not been detected in Arizona under the conditions described
+in subsection (B)(2).
+
+2. The Director no longer considers the agricultural use pesticide to have the
+potential to pollute groundwater in Arizona based on:
+
+a. A change in a specific numeric value established in R18-6-103(1),
+
+b. A revision in the specific numeric values established by new research
+studies or new procedures, or
+
+c. The results of the evaluation under R18-6-103(2).
+
+3. Agricultural use pesticide registration cancellation. The Arizona
+Department of Agriculture no longer registers the agricultural use pesticide
+under A.R.S. § 3-351(I).
+
+D. Pesticide review. Any person may request that the Director add or delete
+an agricultural use pesticide from the Groundwater Protection List by
+submitting an explanation of the request to the Department with studies and
+conclusions of support.
+
+1. The Director shall notify the registrant in writing after receiving a request
+to add or delete an agricultural use pesticide from the Groundwater
+Protection List and again upon making the determination.
+
+2. The Director shall consider whether the supporting documentation:
+
+a. Is based upon procedures consistent with those described in R18-6-104
+and A.R.S. Title 49, Chapter 2, Article 6; and
+
+b. Justifies the addition or deletion of the agricultural use pesticide from the
+Groundwater Protection List.
+
+3. Director determination.
+
+a. If the Director determines that the agricultural use pesticide has the
+potential to pollute groundwater, the Director shall add the pesticide to, or
+retain the pesticide on, the Groundwater Protection List.
+
+b. If the Director determines that the agricultural use pesticide does not
+have the potential to pollute groundwater, the Director shall, if the pesticide
+is on the Groundwater Protection List, delete it from the list.
+
+E. Reevaluation of an agricultural use pesticide. A registrant may request
+that the Director reevaluate whether an agricultural use pesticide placed on
+the Groundwater Protection List before [effective date of this Section] that
+    Ariz. Admin. Code R18-6-301 Groundwater Protection List
+           (Arizona Administrative Code (2021 Edition))
+
+
+has the potential to pollute groundwater in Arizona. The registrant shall
+submit the written request before December 1, 2005 and include the
+assessment and supporting documentation specified in R18-6-102(C).
+
+1. The Director shall not accept a request to reevaluate an agricultural use
+pesticide if:
+
+a. An active ingredient has been detected in Arizona using the testing criteria
+in R18-6-104 and is found under conditions described in subsection (B)(2);
+or
+
+b. An agricultural use pesticide degradation product or other specified
+ingredient relating to the agricultural use pesticide has been detected in
+Arizona consistent with the criteria in R18-6-104 and the agricultural use
+pesticide degradation product or other specified ingredient poses a threat to
+public health and has been found under the conditions described in
+subsection (B)(2);
+
+2. Director determination.
+
+a. If the Director determines that the agricultural use pesticide has the
+potential to pollute groundwater, the pesticide shall remain on the
+Groundwater Protection List.
+
+b. If the Director determines that the agricultural use pesticide does not
+have the potential to pollute groundwater, the Director shall delete the
+pesticide from the Groundwater Protection List.
+
+(Adopted effective September 23, 1992 (Supp. 92-3). Amended by final
+rulemaking at 11 A.A.R. 3949, effective November 22, 2005 (Supp. 05-3).)
+    Ariz. Admin. Code R18-6-302 Findings and Determinations
+           (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-6-302. Findings and Determinations
+
+A. If the Director discovers or becomes aware of the illegal sale or use of any
+agricultural use pesticide on the Groundwater Protection List, the Director
+shall report the sale or use to the appropriate regulatory agency and to the
+Office of the Attorney General.
+
+B. If the Director finds that an active ingredient, degradation product, or
+other specified ingredient of an agricultural use pesticide has been detected
+under the conditions specified in R18-6-104, the Director shall refer these
+findings to the state or federal agency responsible for further investigation
+and enforcement.
+
+C. If the Director discovers a site that demonstrates pesticide contamination,
+the Director shall determine whether remedial action is required under
+A.R.S. Title 49, Chapter 2, Article 5.
+
+(Adopted effective May 10, 1988 (Supp. 88-2). Amended effective
+September 23, 1992 (Supp. 92-3). Amended by final rulemaking at 11 A.A.R.
+3949, effective November 22, 2005 (Supp. 05-3).)
+ Ariz. Admin. Code R18-6-303 Requirements for an Agricultural
+   Use Pesticide on the Groundwater Protection List (Arizona
+              Administrative Code (2021 Edition))
+
+§ R18-6-303. Requirements for an Agricultural Use Pesticide on
+the Groundwater Protection List
+
+A. Any person who causes another person to soil-apply an agricultural use
+pesticide on the Groundwater Protection List shall implement Best
+Management Practices to reduce or prevent the pollution of groundwater. In
+implementing the Best Management Practices, the person shall consider the
+following factors:
+
+1. Application site characteristics, including soil texture, slope, organic
+matter, and depth to groundwater to determine site susceptibility. The
+person shall consider:
+
+a. Selecting a pesticide based on the intended application site
+characteristics;
+
+b. Minimizing or avoiding the use of any pesticide with high leaching or high
+runoff potential;
+
+c. Incorporating erosion control practices to minimize runoff; and
+
+d. Using an alternative pest control method, if practical.
+
+2. Protection of water resources from potential contamination during
+mixing, loading, or application. The person shall consider:
+
+a. Applying the correct amount of pesticide according to the label and
+employ methods that avoid overspray or drift;
+
+b. Weather patterns, soil moisture, and crop needs before pesticide
+application; and
+
+c. Maintaining buffer zones, where applicable.
+
+B. The Director shall annually obtain the following information from the
+Arizona Department of Agriculture for each agricultural use pesticide on the
+Groundwater Protection List that is soil-applied:
+
+1. The pest condition that the agricultural use pesticide will control;
+
+2. The name of the crop and number of acres to which the agricultural use
+pesticide has been applied;
+
+3. The location of use including the county, township, range, and section;
+
+4. The name of the product used, including the EPA registration number;
+and
+ Ariz. Admin. Code R18-6-303 Requirements for an Agricultural
+   Use Pesticide on the Groundwater Protection List (Arizona
+              Administrative Code (2021 Edition))
+
+5. The amount of agricultural use pesticide applied per acre.
+
+(Adopted effective September 23, 1992 (Supp. 92-3). Amended by final
+rulemaking at 11 A.A.R. 3949, effective November 22, 2005 (Supp. 05-3). )
+

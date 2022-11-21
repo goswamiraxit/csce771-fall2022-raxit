@@ -1,0 +1,40 @@
+                    Water Body      Water                 Impaired
+     Basin                                      County                       Pollutant                        Location
+                      Name         Body Id                  Use
+
+                                             Jackson,    Aquatic Life    Biological
+Coastal Streams   Railroad Creek   201411    Harrison    Use Support     Impairment      From headwaters to confluence with Ramsey Creek
+                  Unnamed
+                  Tributary to               Harrison,   Aquatic Life    Biological
+Coastal Streams   Bayou Lasalle    204013    Hancock     Use Support     Impairment      From headwaters to mouth at Bayou Lasalle
+                  Unnamed
+                  Tributary to               Harrison,   Aquatic Life    Biological
+Coastal Streams   Rotten Bayou     204012    Hancock     Use Support     Impairment      From headwaters to mouth at Rotten Bayou
+
+                                             Hancock,    Aquatic Life    Biological
+Coastal Streams   Wolf Creek       205312    Harrison    Use Support     Impairment      From headwaters to mouth at Wolf River
+North
+Independent                                              Aquatic Life    Biological
+Streams           Bearman Creek    302412    Tippah      Use Support     Impairment      From headwaters to N35°
+North
+Independent                                              Aquatic Life    Biological      Bell Creek from headwaters to mouth at West Prong
+Streams           Bell Creek       302012    Tippah      Use Support     Impairment      Muddy Creek
+North
+Independent                                              Aquatic Life    Biological      Near Rienzi From Headwaters To Mouth At Hinkle
+Streams           Bynum Creek      300413    Alcorn      Use Support     Impairment      Creek
+North
+Independent                                              Aquatic Life    Biological
+Streams           Coon Creek       301312    Alcorn      Use Support     Impairment      From headwaters to mouth of Tuscumbia River Canal
+North
+Independent                                              Aquatic Life    Biological      Near Kossuth from the confluence with Underwood
+Streams           Eastes Creek     301112    Alcorn      Use Support     Impairment      Creek to the mouth at Tuscumbia River Canal
+North
+Independent                                  Tippah,     Aquatic Life    Biological      Near Walnut from headwaters to mouth at Hatchie
+Streams           Fourth Creek     301913    Alcorn      Use Support     Impairment      River
+North
+Independent                                              Aquatic Life    Biological
+Streams           Grays Creek      303511    Benton      Use Support     Impairment      From headwaters to TN state line
+
+
+                                                                        26
+

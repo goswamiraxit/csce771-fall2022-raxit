@@ -1,0 +1,214 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Pascagoula
+River
+
+Beaver Lake
+
+418913
+
+Lamar
+
+Pascagoula
+River
+
+Big Creek
+
+409911
+
+Pascagoula
+River
+
+Black Creek
+
+418412
+
+Jones
+Jefferson
+Davis,
+Marion,
+Lamar
+
+Pascagoula
+River
+
+Cedar Creek
+
+408611
+
+Pascagoula
+River
+
+Chunky Creek
+
+Pascagoula
+River
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Aquatic Life
+Use Support
+
+pH
+
+Near Purvis
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From MWS 4098 boundary to mouth at Leaf River
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Monroe Creek
+
+Newton,
+Jasper
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Quarterliah Creek
+
+401511
+
+Newton
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters near Union to MWS boundary 4018
+
+Chunky River
+
+402611
+
+Lauderdale,
+Clarke
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Possum Creek to mouth at
+Chickasawhay River
+
+Pascagoula
+River
+
+Chunky River
+
+402312
+
+Newton,
+Lauderdale
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Chunky Creek and Potterchitto
+Creek to the MWS 4026 boundary
+
+Pascagoula
+River
+
+Clear Creek
+
+409013
+
+Smith
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Oakohay Creek
+
+Pascagoula
+River
+
+Crawford Creek
+
+406612
+
+Wayne
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Big Creek
+
+Pascagoula
+River
+
+Dry Creek
+
+411111
+
+Covington
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Terrell from headwaters to mouth at Bowie
+Creek
+
+Pascagoula
+River
+
+Dry Creek
+
+406613
+
+Wayne
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Big Creek
+
+28
+
+

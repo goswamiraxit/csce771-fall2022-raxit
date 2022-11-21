@@ -1,0 +1,47 @@
+Black River Basin would be numbered 1146, subwatershed 74 located in the Pascagoula River
+Basin would be numbered 4074.) The final two digits in the six-digit water body identification
+number refer to a specific stream segment within the specified subwatershed. For instance,
+Beaver Creek, water body ID 521413, is stream segment 13 in subwatershed 214 in the Pearl
+River Basin.
+
+
+E. Basin Maps
+
+Maps are included in Appendix A for each basin. Streams shown in blue are the impaired stream
+segments. In some river basins, the maps were split into 8-digit Hydrologic Unit Codes to better
+fit the page.
+
+Source: Miss. Code Ann. §§ 49-2-1, et seq. and 49-17-1, et seq.
+
+
+
+RULE 9.6 CHANGES MADE FOR 2020
+Table 3 provides the changes proposed for 2020 including completed TMDLs since 2018, the
+monitored streams that are delisted because they are now fully supporting, and other changes
+made to the list. In addition, the federal NTTS TMDL tracking information are provided. The
+National TMDL Tracking System (NTTS) number is provided by EPA after the TMDL is
+finalized and approved. This becomes the identification number for that TMDL report. Full
+supporting documentation for delisting decisions is available on our website at:
+
+https://www.mdeq.ms.gov/water/surface-water/tmdl/delistings
+
+For a more detailed description of the data and assessment steps taken, please refer to the state's
+§305(b) report. This report to Congress reviews all of the data collected and reports results both
+attaining and non-attaining on the states waters.
+
+
+Source: Miss. Code Ann. §§ 49-2-1, et seq. and 49-17-1, et seq.
+
+
+A. Pollutant Change
+
+A listing of Biological Impairment indicates that the waterbody is not fully supporting its aquatic
+life use. For these waterbodies, a Stressor Identification is required to determine the probable
+primary cause(s) of the impairment. In many cases the stressor is determined and a TMDL is
+immediately developed. However, if the Stressor Identification and TMDL approval do not fall
+in the same listing cycle a pollutant change is required. The waterbodies in Table 3 below have
+been subject to a Stressor Identification and will require a TMDL for the prescribed pollutant in
+the future.
+
+                                                11
+

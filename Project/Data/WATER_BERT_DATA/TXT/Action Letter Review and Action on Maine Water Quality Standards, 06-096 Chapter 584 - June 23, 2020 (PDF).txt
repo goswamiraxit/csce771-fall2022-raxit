@@ -1,0 +1,1307 @@
+                      UNITED STATES ENVIRONMENTAL PROTECTION AGENCY
+                                              Region 1
+                                   5 Post Office Square, Suite 100
+                                      Boston, MA 02109-3912
+
+
+
+
+June 23, 2020
+
+
+Mr. Gerald D. Reid, Commissioner
+State of Maine – Department of Environmental Protection
+17 State House Station
+Augusta, Maine 04333-0017
+
+Re: Review and Action on Maine Water Quality Standards, 06-096 Chapter 584
+
+Dear Mr. Reid:
+
+By letter dated April 24, 2020, the Maine Department of Environmental Protection (DEP)
+submitted new and revised Water Quality Standards (WQS) in accordance with Section 303(c) of
+the Clean Water Act (CWA). Public notice of this rulemaking was published on October 2, 2019
+and October 30, 2019. The Maine Board of Environmental Protection (BEP) held a public
+hearing on the proposed rulemaking on November 21, 2019. The public comment period closed
+on December 6, 2019. The BEP voted on, and approved, the Chapter 584 WQS revisions on
+February 6, 2020. They were filed with the Maine Secretary of State and became effective on
+February 16, 2020. On April 22, 2020 the Attorney General certified that the 06-096 Chapter
+584, Surface Water Quality for Toxic Pollutants amendments were duly adopted as WQS
+pursuant to State law.
+
+The new and revised provisions in Chapter 584 include human health criteria (HHC), aquatic life
+criteria (ALC) and site-specific criteria (SSC) for three specific river segments. This letter
+addresses only the HHC provisions in Chapter 584. EPA will address new and revised ALC and
+SSC in a separate action letter. As detailed in Attachment 1, EPA has determined that DEP’s new
+and revised HHC provisions in Chapter 584 are consistent with the requirements of the CWA
+and applicable federal regulations. EPA therefore approves the new and revised HHC provisions
+in Chapter 584.
+
+We look forward to continued cooperation with Maine in the development, review, and approval
+of water quality standards pursuant to our responsibilities under the CWA. If you have any
+questions, please contact Dan Arsenault (617 918-1562) or Michael Knapp (617 918-1053).
+
+
+
+
+                                               1
+Sincerely,
+
+
+
+KENNETH Digitally signed by
+        KENNETH MORAFF
+
+MORAFF Date:  2020.06.23
+        09:54:56 -04'00'
+
+Ken Moraff, Director
+Water Division
+EPA Region 1
+
+
+cc:
+
+Brian Kavanah, Director, Bureau of Water Quality, DEP
+Mark Margerum, Office of the Commissioner, DEP
+Scott Boak, Assistant Attorney General, Chief, Natural Resources Division
+
+
+
+
+                                              2
+                                        Attachment 1
+    Supporting Discussion of EPA’s Approvals of Maine’s New and Revised Human Health
+                             Criteria (HHC) for Toxic Pollutants
+
+Revisions to Maine’s HHC for toxic pollutants are set forth in DEP’s regulations at 06-096 CMR
+Chapter 584.5.C, and in Appendix A to Ch. 584. There are two sets of HHC in Tables 1 and 2 of
+Appendix A (see Attachment 2). One set protects the statewide “fishing” designated use, and the
+other set protects the State’s new “sustenance fishing” designated use subcategory that applies to
+specifically identified waters. The underlined criteria values in Tables 1 and 2 represent the
+new/revised criteria; strike-out criteria values represent deletions to this chapter.
+
+EPA reviewed these HHC for consistency with the Clean Water Act (CWA) and federal
+implementing regulations at 40 CFR Part 131. EPA’s 2000 Human Health Methodology
+provides guidance for deriving HHC for toxic pollutants. 1 For each variable used in the criteria
+calculation, the 2000 Methodology provides a default value that may be used by states and
+guidance on adjustments that may be appropriate to reflect local conditions and/or protect
+identifiable populations or subpopulations. Pursuant to 40 C.F.R. §131.11(a), EPA must ensure
+that new or revised criteria are based on sound scientific rationale and that they protect
+designated uses, including subcategories of uses.
+
+A. HHC Applicable to Waters Subject to the Sustenance Fishing Designated Use
+   Subcategory Established by 38 M.R.S. §466(10-A), and Specified Under 38 M.R.S. §§
+   465-A(1)(D), 467(7)(A)(B)(D), 467(13), 467(15)(C), 467(15)(A)(E)(F), 468(8), and 469(7).
+
+In 2019, Maine adopted, and EPA approved, 38 M.R.S. § 466(10-A), which establishes and
+defines a “sustenance fishing designated use” as “a subcategory of the applicable fishing
+designated use that protects human consumption of fish for nutritional and cultural purposes and
+applies only to those water body segments that are identified in this article as subject to a
+sustenance fishing designated use.” Maine adopted the sustenance fishing designated use
+subcategory (SFDU) for waters “where there is or may be sustenance fishing or increased fish
+consumption by members of the Indian tribes in Maine or other Maine citizens.” 2 These waters
+are specifically identified in 38 M.R.S. §§ 465-A(1)(D), 467(7)(A)(B)(D), 467(13), 467(15)(C),
+467(15)(A)(E)(F), 468(8), and 469(7).
+
+As noted above, DEP’s new and revised HHC for toxic pollutants include criteria to protect the
+SFDU in specifically identified waters. EPA evaluated whether the HHC applicable to waters
+subject to the SFDU protect the sustenance fishing use.
+
+     1. HHC Other Than Arsenic
+
+        a. Maine’s Revised Criteria
+
+
+1
+  USEPA. 2000. Methodology for Deriving Ambient Water Quality Criteria for the Protection of Human Health.
+U.S. Environmental Protection Agency, Office of Water, Washington, D.C. EPA 822-B-00-004.
+2
+  See L.D. 1775, original text of the legislative document, summary section, at page 9-129LR2522(01)-l, May 23,
+2019, available at http://legislature.maine.gov/legis/bills/bills_129th/billtexts/HP126201.asp
+
+                                                        3
+Chapter 584.5.C states that for waters subject to the SFDU, HHC “will be determined assuming
+consumption of 2.4 Liters of water, by a person weighing 80 kg, and a fish consumption rate of
+200 grams per day, except for those parameters that did not change with EPA’s criteria
+recommendations referenced in EPA 820-F-15-001 for which the human health criteria will be
+determined assuming consumption of 2 Liters of water by a person weighing 70 kg, a fish
+consumption rate of 200 grams per day, and a cancer risk level of one in 1,000,000 [1x10-6]
+(except for… inorganic arsenic [discussed below]…).” The corresponding HHC values are set
+forth in Chapter 584, Appendix A, Tables 1 and 2.
+
+        b. Basis for EPA Approval
+
+Maine based its HHC to protect the SFDU on a fish consumption rate (FCR), 3 body weight,
+drinking water intake, toxicity factors (reference dose or cancer slope factor), bioaccumulation
+factors, relative source contribution values, and cancer risk level for carcinogens that are at least
+as stringent for each pollutant as the inputs used in EPA’s nationally recommended CWA
+Section 304(a) HHC (with the exception of arsenic, discussed below).
+
+The purpose of these HHC is to protect human health of sustenance fishers in the identified
+waters. The exposure pathway for these constituents is through consumption of aquatic life and
+drinking water. Maine considered both toxic and carcinogenic effects when developing the HHC
+to protect the SFDU. The new and revised HHC reflect the latest scientific information and are
+consistent with EPA's most recent CWA Section 304(a) recommended HHC for each pollutant.
+As such, Maine's revisions are consistent with 40 C.F.R. § 131.6 (b) and (c); are based on a
+sound scientific rationale and protect the designated use in accordance with 40 C.F.R. § 131.11
+(a) and (b)(i); and EPA hereby approves these new and revised criteria.
+
+    2. HHC for Arsenic
+
+        a. Maine’s Revised Criteria
+
+For waters subject to the SFDU, Chapter 584.5.C revisions provide that the HHC for inorganic
+arsenic will be based on the FCR of 200 g/day and the cancer risk level (CRL) specified by 38
+M.R.S. § 420(2)(J), which is 1 in 10,000 (1x10-4). The water consumption and body weight
+parameters for arsenic did not change with EPA’s criteria recommendations referenced in EPA
+820-F-15-001 (2015); therefore, as described above, Chapter 584.5.C requires the HHC for
+arsenic to be based on an assumed consumption of 2 Liters of water per day by a person
+weighing 70 kg.
+
+Maine’s revised HHC for inorganic arsenic applicable to the sustenance fishing waters are 1.1
+µg/L for water and organism exposure and 2.6 µg/L for organism-only exposure, using a 1x10-4
+
+3
+  In a previous action, EPA approved pursuant to Section 303(c)(2) of the CWA and 40 C.F.R. Part 131, the
+revisions to Maine’s WQS at 38 M.R.S.A. § 466-A, which mandated that Maine use a FCR of 200 g/day when
+developing HHC to protect the SFDU. EPA concluded that 200 g/day is a reasonable FCR, based on available
+information, for Maine to use to protect a contemporary sustenance level of consumption. For details on this prior
+action and EPA’s rationale, see November 6, 2019 letter from Water Division Director Ken Moraff, EPA Region 1
+to Commissioner Gerald Reid, Maine DEP.
+
+
+                                                         4
+CRL and a FCR of 200 g/day, a bioconcentration factor (BCF) of 26 L/kg, a cancer slope factor
+(CSF) of 1.75 per mg/kg/day, an inorganic fraction (IF) of 30%, a body weight (BW) of 70 kg,
+and drinking water rate (DW) of 2 L/day. See Appendix A of Chapter 584, Table I, footnote
+aME. 4
+
+        b. Basis for EPA Approval
+
+As noted above, HHC are calculated from toxicological assessment values (reference dose,
+cancer slope factor) and exposure factors (drinking water ingestion rate, FCR, BCF/BAF, IF (for
+arsenic), BW), and a CRL. States may use risk management decisions to establish values for
+calculating the HHC, as long as the resulting HHC are based on sound science and protective of
+designated uses.
+
+EPA’s national CWA Section 304(a) recommended HHC for arsenic are 0.018 µg/L and 0.14
+µg/L for combined drinking water and fish/shellfish consumption exposure (i.e., water and
+organisms), and for consumption of organisms only, respectively (based on a BW of 70 kg, DW
+rate of 2 L/day, FCR of 6.5 g/day, CSF of 1.75, BCF of 44, an IF of 100%, and CRL of 10-6).
+Maine’s revised arsenic HHC are based on certain input values that differ from the inputs in
+EPA’s national CWA Section 304(a) recommended HHC for arsenic, but the resulting HHC are
+nonetheless based on sound science and are protective of the designated use. EPA has
+determined that the resulting HHC protect the SFDU for the following reasons.
+
+             i. Approval Rationale for Maine’s Organism-Only Arsenic HHC for Waters Subject
+                to the SFDU
+
+The revised HHC are based on a 200 g/day FCR as required by 38 M.R.S. §466(10-A). As noted
+above, EPA approved Maine’s use of a 200 g/day FCR in November 2019.
+
+Maine also used a CRL of 1x10-4 for the arsenic HHC as required by state law. 5 In waters subject
+to the SFDU, the HHC are intended to protect sustenance fishers. EPA evaluated whether the
+arsenic HHC for consumption of organisms-only protects sustenance fishers at a risk level
+consistent with EPA’s 2000 Methodology (i.e., between 1x10-5 and 1x10-6). As discussed below,
+EPA concludes that it does.
+
+There is substantial uncertainty surrounding many components of the arsenic HHC, notably the
+CSF and the characterization of bioconcentration/bioaccumulation. With respect to the arsenic
+CSF, in November 2015, EPA’s Office of Research and Development (ORD) announced its plan
+to review the toxicological assessment of arsenic with respect to human health effects. EPA's
+current plan for addressing the scientific uncertainties with arsenic is described in the
+Assessment Development Plan for the Integrated Risk Information System (IRIS) Toxicological
+Review of Inorganic Arsenic (EPA/630/R-14/101 November 2015). 6
+4
+  Although footnote aME in Table 1 is only included in the column for the arsenic criteria applicable to the non-
+SFDU waters, the footnote text makes it clear that it also applies to the arsenic criteria applicable to the SFDU
+waters.
+5
+  Other HHC submitted by Maine use a CRL of 1x10-6. There is no federal requirement that HHC for all constituents
+be based on the same calculation inputs.
+6
+  USEPA. 2015. Draft Assessment Development Plan for the Integrated Risk Information System.
+
+                                                       5
+Current data indicate that the bioaccumulation rates for arsenic are variable, bioaccumulation of
+arsenic may be dependent on the ambient water concentration, and concentrations of inorganic
+arsenic in fish are low relative to concentrations of organic arsenic (organic forms of arsenic
+typically found in fish are not as toxic as inorganic arsenic).
+
+EPA compiled and published available information on arsenic bioconcentration and
+bioaccumulation in 2003 and did not reach any conclusion regarding an appropriate single input
+for use in HHC derivation. A related input parameter, the IF anticipated in fish, also varies
+considerably between fresh and marine waters and among different classes and species of
+organisms. Maine’s selection of a BCF of 26 and IF of 30% reflects values within the range of
+reasonable possibilities as reflected in current data. Other scientific data would support a BCF of
+14 and IF of 4% 7. If these alternative inputs are considered, then Maine’s organism only arsenic
+criterion for SFDU provides greater protection than a 1 x 10-5 CRL.
+
+             ii. Approval Rationale for Maine’s Water + Organisms Arsenic HHC for Waters
+                 Subject to the SFDU
+
+Maine’s inorganic arsenic criterion to protect human health for the consumption of water plus
+organisms (1.1 µg/L) is based on a drinking water rate of 2 L/day, along with the same input
+parameters as the criterion to protect for consumption of organisms-only, discussed above.
+
+The water-plus-organisms criterion is intended to protect both the SFDU and the drinking water
+designated use. As described above, Maine’s criterion of 2.6 µg/L is protective of sustenance
+fishers from fish consumption exposure. For the same reasons, a criterion of 1.1 µg/L is also
+protective of the SFDU (it is even more protective than 2.6 µg/L).
+
+Maine’s WQS state that Classes AA and A waters must be suitable for drinking water supply
+after disinfection, and Class B waters must be suitable for drinking water supply after treatment.
+See 38 M.R.S. § 465 sub-§§.1.A, 2.A, and 3.A. States have significant discretion in how they
+express drinking water supply uses, and many choose to express them as “after treatment,” which
+implies ensuring protection of the finished water supply provided at the tap. Protection of the
+finished water supply provided at the tap is the province of the Safe Drinking Water Act
+(SDWA). 8 Maine’s criterion of 1.1 µg/L is more protective than the MCL. On this basis, EPA
+approves Maine’s water + organism criterion as protective of the (post-treatment) drinking water
+use.
+
+
+7
+  For example, ODEQ (2011) reported a geometric mean BCF of 14 using four representative freshwater studies that
+ranged from 4-27 (see Table 6 on page 12 in Oregon Department of Environmental Quality. 2011. Draft Report
+Water Quality Standards Review and Recommendations: Arsenic). The BCF value of 14 is also within the range
+reported in USEPA (2003) for freshwater BAFs (see Table 3-9 on page 24 of USEPA. 2003. Technical Summary of
+Information Available on the Bioaccumulation of Arsenic in Aquatic Organisms. EPA-822-R-03-032). USEPA
+(1997) provides a review of IF data for arsenic and identifies 4% as a maximum value for a mixed fish and shellfish
+diet (see page 10 of USEPA. 1997 Arsenic and Fish Consumption. EPA-822-R-97-003).
+8
+  One way to protect the post-treatment drinking water use is to set the water + organism instream water quality
+criterion to be as stringent as the maximum contaminant level (MCL) of 10 µg/L required by the SDWA for finished
+water.
+
+                                                        6
+B. Revised HHC to Protect the Statewide Fishing Designated Use
+
+Maine revised many of its HHC in Chapter 584, Appendix A to protect the statewide fishing
+designated use. The revisions result in HHC that are as stringent as, or more stringent than,
+EPA’s recommended HHC, published pursuant to CWA Section 304(a). Maine’s HHC reflect
+the latest scientific information and are protective of the designated use. The revised criteria are
+based on Maine’s statewide FCR of 32.4 g/day, updated BW, DW intake, health toxicity values,
+BAFs, and RSCs. For carcinogens, Maine based these criteria on an incremental CRL of 1x10-6,
+which is consistent with EPA’s 2000 Methodology.
+
+Maine’s revisions are consistent with 40 C.F.R. §§ 131.6(b), (c), and 131.11 (a) and (b)(i), and
+EPA hereby approves these revised criteria. 9
+
+
+C. Other Statewide HHC Applicable to Certain Waters in Indian Lands
+
+On May 27, 2020, EPA took three actions relevant to statewide HHC for toxics that are also
+applicable to waters in Indian lands: EPA withdrew its February 2, 2015, interpretations and
+approvals of a sustenance fishing designated use for all waters in Indian lands in Maine;
+withdrew its associated disapproval of the application of Maine’s statewide HHC for those
+waters; and approved Maine’s statewide fishing designated use without EPA’s interpretation that
+it means sustenance fishing for waters in Indian lands in Maine. Because Maine had recently
+adopted revised HHC for most toxics in February 2020, EPA decided that it would review those
+HHC once they were submitted to EPA, rather than review Maine’s 2006 and 2013 HHC that
+were previously submitted to EPA but have been superseded by the 2020 HHC. That review
+resulted in the approvals discussed above.
+
+In its 2020 revisions, Maine did not update its 2006 and 2013 statewide HHC that are applicable
+to waters not subject to the SFDU, including some waters in Indian lands, for the following
+pollutants: antimony, arsenic, heptachlor epoxide, manganese, nickel, nitrosamines, N-
+nitrosodibutylamine, N-nitrosodiethylamine, N-nitrosodimethylamine, N-nitrosodi-n-
+propylamine, N-nitrosodiphenylamine, polychlorinated biphenyls (PCBs), selenium, thallium,
+zinc, and 2,3,7,8-TCDD (dioxin). 10 Because EPA withdrew its 2015 disapprovals of these
+statewide HHC for application in waters in Indian lands, and because they were not superseded
+by Maine’s 2020 revised criteria, EPA has evaluated Maine’s 2006 and 2013 HHC for these
+pollutants (as set forth in Tables 1 and 2) to determine whether they protect the general fishing
+use for waters in Indian lands that are not in the SFDU subcategory. EPA approves these HHC
+for the reasons discussed below.
+
+
+
+9
+  EPA also notes that these criteria, based on the FCR of 32.4 g/day and CRL of 1x10-6, will protect sustenance
+fishers in the non-SFDU subcategory waters (including waters in Indian lands) at an effective CRL of approximately
+6.17x10-6, assuming a sustenance level FCR of 200 g/day.
+10
+   In addition, Maine did not revise its HHC in 2020, for asbestos, barium, copper, iron, manganese, nitrates, and N-
+nitrosodipyrrolidine. However, EPA previously approved the HHC for asbestos, barium, copper, iron, manganese,
+and nitrates for waters in Indian lands on January 19, 2016 and the HHC for N-nitrosodipyrrolidine for waters in
+Indian lands on April 11, 2016.
+
+                                                         7
+     1. HHC Other Than Arsenic
+
+             a. Maine’s Criteria
+
+Maine’s 2006 HHC for antimony, heptachlor epoxide, manganese, nickel, nitrosamines, N-
+nitrosodibutylamine, N-nitrosodiethylamine, N-nitrosodimethylamine, N-nitrosodi-n-
+propylamine, N-nitrosodiphenylamine, polychlorinated biphenyls (PCBs), selenium, thallium,
+zinc, and 2,3,7,8-TCDD (dioxin) are all equal to or more stringent than EPA’s national
+recommended HHC for those pollutants.
+
+             b. Basis for EPA Approval
+
+The science supporting EPA's national CWA Section 304(a) recommended criteria supports
+EPA's conclusion that Maine's criteria are protective of human health and the fishing designated
+use. As such, Maine's criteria are consistent with 40 C.F.R. §§ 131.6(b) and (c), and 131.11 (a)
+and (b)(i), and EPA hereby approves these HHC for the waters in Indian lands that are not
+covered by the SFDU subcategory. 1112
+
+     2. HHC for Arsenic
+
+             a. Maine’s Criteria
+
+Maine’s HHC for inorganic arsenic applicable to waters in Indian lands not covered by the
+SFDU subcategory are 1.3 µg/L for water and organism exposure and 3.7 µg/L for organism-
+only exposure, using a 1x10-4 CRL and a FCR of 138 g/day , a BCF of 26 L/kg, a CSF of 1.75
+per mg/kg/day, an IF of 30%, a BW of 70 kg, and DW of 2 L/day. See Appendix A of Chapter
+584, Table I, footnote aME.
+
+             b. Basis for EPA Approval
+
+                 i. Approval Rationale for Maine’s Organism-Only Arsenic HHC for Waters in
+                    Indian lands Not Subject to the SFDU
+
+In 2011, Maine’s legislature enacted LD 515, which required DEP to revise Maine’s HHC for
+arsenic by basing it on a CRL of 1 in 10,000 (1x10-4) rather than the previous CRL of 1 in
+1,000,000 (1x10-6). DEP adopted new criteria based on the 10-4 CRL, and a revised FCR of 138
+
+11
+   EPA did not update the national CWA Section 304(a) recommended criteria for thallium and dioxin in 2015
+because further analysis was necessary to develop scientifically sound recommendations. Nevertheless, under the
+CWA, EPA has an obligation to act on Maine’s HHC for thallium and dioxin. Because DEP used existing EPA data
+on the toxicity of thallium and dioxin and relied on the derivation methodology from EPA guidance and 304(a)
+recommendations, EPA approves these HHC for waters in Indian lands outside of the SFDU subcategory waters. As
+new information becomes available from IRIS, EPA encourages the State to consider revisions, if necessary, to
+incorporate the latest scientific knowledge for dioxin and thallium.
+12
+   EPA also notes that these criteria, based on the FCR of 32.4 g/day and CRL of 1x10-6, will protect sustenance
+fishers in the non-SFDU subcategory waters (including waters in Indian lands) at an effective CRL of approximately
+6.17x10-6, assuming a sustenance level FCR of 200 g/day.
+
+
+                                                        8
+g/day (compared to 32.4 g/day FCR used for other toxic HHC) in order to protect highly exposed
+state subpopulations at the new 1x10-4 CRL. DEP submitted the revised arsenic HHC on January
+14, 2013 to EPA for review and approval, and EPA approved the revised arsenic criteria for
+waters outside of Indian lands on May 16, 2013. EPA is now approving the statewide 3.7 µg/L
+organism-only criterion for application to waters in Indian lands that are not subject to the
+SFDU, on the same basis as set forth in the 2013 approval for waters outside of Indian lands.
+EPA also notes that, as discussed above in Section A.2.b.i, there are a number of scientific
+uncertainties associated with the HHC for arsenic. 13
+
+                 ii. Approval Rationale for Maine’s Water + Organisms Arsenic HHC for Waters
+                 in Indian Lands Not Subject to the SFDU
+
+Maine’s inorganic arsenic criterion to protect human health for the consumption of waters plus
+organisms (1.3 µg/L) is based on a drinking water rate of 2 L/day, along with the same input
+parameters as the criterion to protect for consumption of organisms-only.
+
+The water-plus-organisms criterion is intended to protect both the fish consumption use and the
+drinking water designated use. The criterion of 1.3 µg/L is more protective of fish consumption
+than the 3.7 µg/L organisms-only criterion approved above. As discussed above in Section
+A.2.b.ii, to protect the post-treatment drinking water use, the water + organism criterion may be
+set equivalent to the MCL of 10 µg/L required by the SDWA. Maine’s criterion of 1.3 µg/L is
+nearly ten times more protective than the MCL. On this basis, EPA approves Maine’s water +
+organism criterion for the waters in Indian lands that are outside of the SFDU subcategory waters
+as protective of the (post-treatment) drinking water use.
+
+
+
+
+13
+  EPA notes that this criterion, based on the FCR of 138 g/day and CRL of 1x10-4, will protect sustenance fishers in
+the non-SFDU subcategory waters (including waters in Indian lands) at an effective CRL of approximately 1.04 x
+10-5, assuming a sustenance level FCR of 200 g/day, if the alternative exposure inputs of BCF of 14 and IF of 4% as
+described in footnote 7 are considered.
+
+                                                         9
+                                                Attachment 2 – Tables I and II from Chapter 584 Appendix A
+
+1. Table I. Criteria for Priority Pollutant listed pursuant to 304(a) of the Clean Water Act. See also the footnotes following this table.
+
+                                             Freshwater                Saltwater                 Human Health                 Sustenance Fishing Waters
+                                                                                                 For Consumption of:          Human Health
+                                                                                                                              For Consumption of:
+                                                                                                 Water and       Organisms
+                                               CMC           CCC         CMC          CCC        Organisms       Only         Water and       Organisms     FR Cite/
+ Priority Pollutant             CAS
+                                              (µg/L)         (µg/L)     (µg/L)       (µg/L)                                   Organisms           Only      Source
+                                Number                                                           (ug/L)          (ug/L)
+                                                                                                                              (ug/L)              (ug/L)
+ Antimony                       7440360                                                          5.5 B, qq     350 B, qq      5 B, qq        56 B, qq       65FR66443
+ Arsenic                        7440382                                                                                       1.1, qq, M,S   2.6 qq, M, S
+                                             340 A,K      150 A,K      69 A,bb      36 A,bb      1.3           3.7 M,S,                                     65FR31682
+                                                                                                 M,S,aME,      aME, qq                                      57FR60848
+                                                                                                 qq
+ Beryllium                      7440417                                                                        qq                            qq
+                                                                                                 Z, qq                        Z, qq                         65FR31682
+ Cadmium                        7440439
+                                             0.42 0.40    0.08 0.22    40 33 bb     8.85 7.9     Z, qq                        Z, qq                         65FR31682
+                                                                                                               qq                            qq
+                                             E,K,bb,      E,K,bb,                   bb                                                                      EPA-822-R-
+                                             mm           mm                                                                                                01-001
+                                                                                                                                                            81FR19176
+ Chromium III                   16065831
+                                             483 E,K      23.1 E,K                               Z Total, qq   qq             Z Total, qq    qq             EPA820/B-
+                                                                                                                                                            96-001
+                                                                                                                                                            65FR31682
+ Chromium VI                    18540299
+                                             16 K         11 K         1,108 bb     50 bb        Z Total, qq   qq             Z Total, qq    qq             65FR31682
+ Copper                         7440508
+                                             3.07         2.36         5.78 cc,ff   3.73 cc,ff   1,300 U, qq   qq             1,300 U, qq    qq             65FR31682
+                                             E,K,cc,      E,K,cc,
+                                             nn, oo       nn, oo
+ Lead
+                                             10.52        0.41          221 bb     8.52 bb
+                                                                                               Z                            Z               Z               65FR31682
+                                7439921
+                                             E,bb,gg,rr E,bb,gg,rr
+ Mercury                        7439976      See Title Certain deposits and discharges prohibited, 38 M.R.S.A, Sections§ 420 (1-B) and §413(11)
+
+
+                                                                                    10
+                                Freshwater                Saltwater              Human Health                   Sustenance Fishing Waters
+                                                                                 For Consumption of:            Human Health
+                                                                                                                For Consumption of:
+                                                                                 Water and       Organisms
+                                  CMC            CCC       CMC          CCC      Organisms       Only           Water and       Organisms      FR Cite/
+Priority Pollutant    CAS
+                                 (µg/L)          (µg/L)   (µg/L)       (µg/L)                                   Organisms          Only        Source
+                      Number                                                     (ug/L)          (ug/L)
+                                                                                                                (ug/L)             (ug/L)
+                      7440020
+                                120.2 E,K    13.4 E,K     75 bb       8.28 bb    400 B, qq      1,000 B, qq                                    65FR31682
+Nickel                                                                                                          123 B, qq      149 B, qq
+                                L,R          5.0          291         71 bb,dd   162 Z, qq      2,250, qq       118, qq        365, qq         62FR42160
+Selenium              7782492
+                                                          bb,dd                                                                                65FR31682
+                                                                                                                                               65FR66443
+Silver                7740224
+                                0.23 G, E                 2.24 G                                                                               65FR31682
+                      7440280                                                    0.17, qq       0.25, qq        0.04 qq        0.04 qq         68FR75507
+Thallium
+                      7440666
+                                30.6         30.6 E,K     95 bb       86 bb      6,000 U, qq    14,000 U,       1,842 qq       2,234 qq        65FR31682
+Zinc
+                                E,K,ss                                                          qq                                             65FR66443
+                      57125                                                      140 jj 4 qq    140 jj 300      4 qq           50 qq           68FR75507
+                                22 K,Q       5.2 K,Q      1 Q,bb       1 Q,bb
+Cyanide                                                                                         qq                                             80FR36986
+                      1332214                                                                                   7x106
+                                                                                 7x106                                                         57FR60848
+Asbestos                                                                                                        fibers/L I
+                                                                                 fibers/L I
+                      1746016                                                                                   4.5E-10 J,qq   4.5E-10 J, qq
+                                Also see Title 38 M.R.S.A § 420(2)               2.7E-9 J, qq   2.8E-9 J, qq                                   65FR66443
+2,3,7,8-TCDD Dioxin
+                      107028
+                                3            3                                   3.9 ll 3 qq    5.0 ll 200 qq                                  74FR27535
+Acrolein                                                                                                        3 qq           40 qq           74FR46587
+                                                                                                                                               80FR36986
+                      107131
+                                                                                 0.04 B         0.13 B 4.6                                     65FR66443
+Acrylonitrile                                                                                                   0.057 qq       0.74 qq
+                                                                                 0.061 qq       qq                                             80FR36986
+                      71432                                                                                                                    IRIS
+                                                                                 0.58 B 0.57    7.55 B 10
+Benzene                                                                                                         0.45 qq        1.7 qq          01/19/00
+                                                                                 qq             qq
+                                                                                                                                               65FR66443
+                                                                                                                                               80FR36986
+                                                                      11
+                                    Freshwater            Saltwater             Human Health                 Sustenance Fishing Waters
+                                                                                For Consumption of:          Human Health
+                                                                                                             For Consumption of:
+                                                                                Water and       Organisms
+                                      CMC        CCC       CMC          CCC     Organisms       Only         Water and      Organisms    FR Cite/
+Priority Pollutant         CAS
+                                     (µg/L)      (µg/L)   (µg/L)       (µg/L)                                Organisms         Only      Source
+                           Number                                               (ug/L)          (ug/L)
+                                                                                                             (ug/L)            (ug/L)
+                           75252
+                                                                                4.2B 6.8 qq    73 B 77 qq                                65FR66443
+Bromoform                                                                                                    4.6 qq        12 qq
+                                                                                                                                         80FR36986
+Carbon Tetrachloride       56235                                                0.23 B 0.4     0.89 B 3 qq
+                                                                                                                                         65FR66443
+                                                                                qq                           0.2 qq        0.5 qq
+                                                                                                                                         80FR36986
+                           108907
+                                                                                120 B, U, Z    840 B,U                                   68FR75507
+Chlorobenzene                                                                                                50 qq         90 qq
+                                                                                100 qq         600 qq                                    80FR36986
+                           124481
+                                                                                0.40 B 0.79    6.94 B 14                                 65FR66443
+Chlorodibromomethane                                                                                         0.61 qq       2.2 qq
+                                                                                qq             qq                                        80FR36986
+                           75003
+Chloroethane
+2-Chloroethylvinyl Ether   110758
+Chloroform                 67663                                                5.4 P 60 qq    94 P 2000                                 62FR42160
+                                                                                               qq            50 qq         200 qq        80FR36986
+Dichlorobromomethane       75274                                                0.53 B 0.93    9.3 B 18 qq                               65FR66443
+                                                                                qq                           0.73 qq       2.9 qq        80FR36986
+1,1-Dichloroethane         75343
+                           107062                                                                                                        65FR66443
+                                                                                0.38 B 9.9     19.8 B 430
+1,2-Dichloroethane                                                                                           8.8 qq        69 qq         80FR36986
+                                                                                qq             qq
+                           75354
+                                                                                320 Z 300      3,900 10000                               68FR75507
+1,1-Dichloroethylene                                                                                         300 qq        2000 qq
+                                                                                qq             qq                                        80FR36986
+                           78875                                                                                                         65FR66443
+                                                                                0.50 B 0.89    7.9 B 20 qq
+1,2-Dichloropropane                                                                                          0.72 qq       3.3 qq        80FR36986
+                                                                                qq
+                           542756
+                                                                                0.34 0.26 qq   11.4 B 7.7                                68FR75507
+1,3-Dichloropropene                                                                                          0.22 qq       1.2 qq
+                                                                                               qq                                        80FR36986
+                                                                      12
+                                      Freshwater            Saltwater             Human Health                  Sustenance Fishing Waters
+                                                                                  For Consumption of:           Human Health
+                                                                                                                For Consumption of:
+                                                                                  Water and         Organisms
+                                        CMC        CCC       CMC          CCC     Organisms         Only        Water and      Organisms    FR Cite/
+Priority Pollutant           CAS
+                                       (µg/L)      (µg/L)   (µg/L)       (µg/L)                                 Organisms         Only      Source
+                             Number                                               (ug/L)            (ug/L)
+                                                                                                                (ug/L)            (ug/L)
+                             100414
+                                                                                  435 53 qq     1,150 83 qq                                 68FR75507
+Ethylbenzene                                                                                                    12 qq         13 qq
+                                                                                                                                            80FR36986
+Methyl Bromide               74839                                                46 B 100 qq   800 B 8000                                  65FR66443
+                                                                                                qq              100 qq        1000 qq       80FR36986
+                             74873
+                                                                                                                                            65FR31682
+Methyl Chloride
+                             75092                                                                                                          65FR66443
+                                                                                  4.6 B 20 qq   320 B 800
+Methylene Chloride                                                                                              10 qq         100 qq        80FR36986
+                                                                                                qq
+                             79345
+                                                                                  0.16 B 0.2    2.2 B 2 qq                                  65FR66443
+1,1,2,2-Tetrachloroethane                                                                                       0.1 qq        0.3 qq
+                                                                                  qq                                                        80FR36986
+                             127184
+                                                                                  0.59 8.6 qq   1.77 19 qq                                  65FR66443
+Tetrachloroethylene                                                                                             2.6 qq        3.1 qq
+                                                                                                                                            80FR36986
+                             108883
+                                                                                  1,200 Z 54    8,100 340                                   68FR75507
+Toluene                                                                                                         30 qq         55 qq
+                                                                                  qq            qq                                          80FR36986
+                             156605
+                                                                                  140 Z 100     5,500 2000                                  68FR75507
+1,2-Trans-Dichloroethylene                                                                                      100 qq        400 qq
+                                                                                  qq            qq                                          80FR36986
+1,1,1-Trichloroethane        71556                                                                              Z             Z
+                                                                                  Z             Z                                           65FR31682
+                             79005
+                                                                                  0.58 B 0.53   8.42 B 5.8                                  65FR66443
+1,1,2-Trichloroethane                                                                                           0.36 qq       0.95 qq
+                                                                                  qq            qq                                          80FR36986
+Trichloroethylene            79016                                                2.37 0.6 qq   16.2 4 qq                                   65FR66443
+                                                                                                                0.3 qq        0.7 qq        80FR36986
+Vinyl Chloride               75014                                                0.025 0.022   1.32 1.1 qq                                 68FR75507
+                                                                                  qq                            0.02 qq       0.17 qq       80FR36986
+
+                                                                        13
+                                      Freshwater              Saltwater             Human Health                 Sustenance Fishing Waters
+                                                                                    For Consumption of:          Human Health
+                                                                                                                 For Consumption of:
+                                                                                    Water and       Organisms
+                                        CMC          CCC       CMC          CCC     Organisms       Only         Water and      Organisms    FR Cite/
+Priority Pollutant           CAS
+                                       (µg/L)        (µg/L)   (µg/L)       (µg/L)                                Organisms         Only      Source
+                             Number                                                 (ug/L)          (ug/L)
+                                                                                                                 (ug/L)            (ug/L)
+2-Chlorophenol               95578                                                  55.2 B,U 30    80.6 B,U                                  65FR66443
+                                                                                    qq             500 qq        20 qq         90 qq         80FR36986
+                             120832
+                                                                                    63.3 B,U 10    160 B,U 40                                65FR66443
+2,4-Dichlorophenol                                                                                               5 qq          6 qq
+                                                                                    qq             qq                                        80FR36986
+                             105679
+                                                                                    280 B 100      460 B,U                                   65FR66443
+2,4-Dimethylphenol                                                                                               90 qq         300 qq
+                                                                                    qq             2000 qq                                   80FR36986
+                             534521
+                                                                                    12.5 2 qq      155 20 qq                                 65FR66443
+2-Methyl-4,6-Dinitrophenol                                                                                       1 qq          3 qq
+                                                                                                                                             80FR36986
+                             51285
+                                                                                    68.4 B 10      2,900 B 200                               65FR66443
+2,4-Dinitrophenol                                                                                                10 qq         40 qq
+                                                                                    qq             qq                                        80FR36986
+                             88755
+2-Nitrophenol
+                             100027
+4-Nitrophenol
+                             59507                                                                                                           80FR36986
+                                                                                    U 500 qq       U 2000 qq
+3-Methyl-4-Chlorophenol                                                                                          200 qq        300 qq
+                             87865
+                                      8.72 F,K     6.69 F,K   13 bb       7.9 bb    0.25 B 0.02    1.64 B,H                                  65FR66443
+Pentachlorophenol                                                                                                0.004 qq      0.004 qq
+                                                                                    qq             0.02 qq                                   65FR31682
+                                                                                                                                             80FR36986
+                             108952
+                                                                                    10,514         462,963                                   74FR27535
+Phenol                                                                                                           4000 qq       30,000 qq
+                                                                                    4,000 B,U,ll   200,000                                   80FR36986
+                                                                                    qq             B,U,ll qq
+
+
+
+                                                                          14
+                                    Freshwater            Saltwater             Human Health                Sustenance Fishing Waters
+                                                                                For Consumption of:         Human Health
+                                                                                                            For Consumption of:
+                                                                                Water and      Organisms
+                                      CMC        CCC       CMC          CCC     Organisms      Only         Water and      Organisms    FR Cite/
+Priority Pollutant         CAS
+                                     (µg/L)      (µg/L)   (µg/L)       (µg/L)                               Organisms         Only      Source
+                           Number                                               (ug/L)         (ug/L)
+                                                                                                            (ug/L)            (ug/L)
+                           88062
+                                                                                0.93 B 1.1    1.31 B 1.8                                65FR66443
+2,4,6-Trichlorophenol                                                                                       0.27 qq       0.3 qq
+                                                                                qq            qq                                        80FR36986
+                           83329
+                                                                                430 B,U 50    540 B,U 60                                65FR66443
+Acenaphthene                                                                                                9 qq          9 qq
+                                                                                qq            qq                                        80FR36986
+                           208968
+Acenaphthylene
+                           120127
+                                                                                7,100 B 200   22,000 B                                  65FR66443
+Anthracene                                                                                                  40 qq         40 qq
+                                                                                qq            200 qq                                    80FR36986
+                           92875
+                                                                                0.00006 B     0.0001 B                                  65FR66443
+Benzidine                                                                                                   0.00013 qq    0.0011 qq
+                                                                                0.00014 qq    0.0069 qq                                 80FR36986
+                           56553
+                                                                                0.003 B       0.01 B                                    65FR66443
+Benzo(a)Anthracene                                                                                          0.00014 qq    0.00014 qq
+                                                                                0.00085 qq    0.00087 qq                                80FR36986
+                           50328
+                                                                                0.003 B       0.01 B                                    65FR66443
+Benzo(a)Pyrene                                                                                              0.000014 qq   0.000014
+                                                                                0.000085 qq   0.000087 qq                               80FR36986
+                           205992
+                                                                                0.003 B       0.01 B                                    65FR66443
+Benzo(b)Fluoranthene                                                                                        0.00014 qq    0.00014 qq
+                                                                                0.00085 qq    0.00087 qq                                80FR36986
+                           191242
+Benzo(ghi)Perylene
+                           207089
+                                                                                0.003 B       0.01 B                                    65FR66443
+Benzo(k)Fluoranthene                                                                                        0.0014 qq     0.0014 qq
+                                                                                0.0085 qq     0.0087 qq                                 80FR36986
+                           111911
+Bis2-ChloroethoxyMethane
+
+                                                                      15
+                                      Freshwater            Saltwater             Human Health                Sustenance Fishing Waters
+                                                                                  For Consumption of:         Human Health
+                                                                                                              For Consumption of:
+                                                                                  Water and      Organisms
+                                        CMC        CCC       CMC          CCC     Organisms      Only         Water and      Organisms    FR Cite/
+Priority Pollutant          CAS
+                                       (µg/L)      (µg/L)   (µg/L)       (µg/L)                               Organisms         Only      Source
+                            Number                                                (ug/L)         (ug/L)
+                                                                                                              (ug/L)            (ug/L)
+                            111444
+                                                                                  0.029 B       0.28 B 1.4                                65FR66443
+Bis2-ChloroethylEther                                                                                         0.027 qq      0.23 qq
+                                                                                  0.03 qq       qq                                        80FR36986
+                            108601
+                                                                                  1,350 B 200   35,000 B                                  65FR66443
+Bis2-ChloroisopropylEther                                                                                     200 qq        400 qq
+                                                                                  qq            2000 qq                                   80FR36986
+                            117817
+                                                                                  0.8 B 0.22    1.19 B 0.25                               65FR66443
+Bis2-EthylhexylPhthalateX                                                                                     0.04 qq       0.04 qq
+                                                                                  qq            qq                                        80FR36986
+                            101553
+4-BromophenylPhenylEther
+Butylbenzyl PhthalateW      85687                                                 900 B 0.068   1,050 B
+                                                                                                                                          65FR66443
+                                                                                  qq            0.068 qq      0.011 qq      0.011 qq
+                                                                                                                                          80FR36986
+                            91587
+                                                                                  650 B 600     850 B 800                                 65FR66443
+2-Chloronaphthalene                                                                                           100 qq        100 qq
+                                                                                  qq            qq                                        80FR36986
+4-ChlorophenylPhenylEther   7005723
+
+                            218019
+                                                                                  0.003 B       0.01 B                                    65FR66443
+Chrysene                                                                                                      0.014 qq      0.014 qq
+                                                                                  0.085 qq      0.087 qq                                  80FR36986
+                            53703
+                                                                                  0.003 B       0.01 B                                    65FR66443
+Dibenzo(a,h)Anthracene                                                                                        0.000014 qq   0.000014 qq
+                                                                                  0.000085 qq   0.000087 qq                               80FR36986
+                            95501
+                                                                                  330 1000 qq   700 2000 qq                               68FR75507
+1,2-Dichlorobenzene                                                                                           300 qq        400 qq
+                                                                                                                                          80FR36986
+                            541731
+                                                                                  250 6 qq      520 9 qq                                  65FR31682
+1,3-Dichlorobenzene                                                                                           1 qq          2 qq
+                                                                                                                                          80FR36986
+
+                                                                        16
+                                  Freshwater            Saltwater             Human Health                Sustenance Fishing Waters
+                                                                              For Consumption of:         Human Health
+                                                                                                          For Consumption of:
+                                                                              Water and      Organisms
+                                    CMC        CCC       CMC          CCC     Organisms      Only         Water and      Organisms    FR Cite/
+Priority Pollutant       CAS
+                                   (µg/L)      (µg/L)   (µg/L)       (µg/L)                               Organisms         Only      Source
+                         Number                                               (ug/L)         (ug/L)
+                                                                                                          (ug/L)            (ug/L)
+                         106467
+                                                                              50 300 qq     105 600 qq                                68FR75507
+1,4-Dichlorobenzene                                                                                       80 qq         100 qq
+                                                                                                                                      80FR36986
+3,3'-Dichlorobenzidine   91941
+                                                                              0.013 B       0.015 B                                   65FR66443
+                                                                                                          0.013 qq      0.016 qq
+                                                                              0.042 qq      0.097 qq                                  80FR36986
+                         84662
+                                                                              13,000 B      24,000 B                                  65FR66443
+Diethyl PhthalateW                                                                                        70 qq         70 qq
+                                                                              400 qq        400 qq                                    80FR36986
+                         131113
+                                                                              221,000       600,000                                   65FR66443
+Dimethyl PhthalateW                                                                                       200 qq        200 qq
+                                                                              1000 qq       1000 qq                                   80FR36986
+                         84742
+                                                                              1,400 B 20    2,400 B 20                                65FR66443
+Di-n-Butyl PhthalateW                                                                                     3 qq          3 qq
+                                                                              qq            qq                                        80FR36986
+                         121142
+                                                                              0.11 0.048    1.83 1.1 qq                               65FR66443
+2,4-Dinitrotoluene                                                                                        0.039 qq      0.18 qq
+                                                                              qq                                                      80FR36986
+                         606202
+2,6-Dinitrotoluene
+                         117840
+Di-n-Octyl Phthalate
+                         122667
+                                                                              0.03 B 0.03   0.11 B 0.1                                65FR66443
+1,2-Diphenylhydrazine                                                                                     0.01 qq       0.02 qq
+                                                                              qq            qq                                        80FR36986
+                         206440
+                                                                              71 B 10 qq    75 B 10 qq                                65FR66443
+Fluoranthene                                                                                              2 qq          2 qq
+                                                                                                                                      80FR36986
+                         86737
+                                                                              950 B 40 qq   2,100 B 50                                65FR66443
+Fluorene                                                                                                  7 qq          7 qq
+                                                                                            qq                                        80FR36986
+                                                                    17
+                                     Freshwater            Saltwater             Human Health                Sustenance Fishing Waters
+                                                                                 For Consumption of:         Human Health
+                                                                                                             For Consumption of:
+                                                                                 Water and      Organisms
+                                       CMC        CCC       CMC          CCC     Organisms      Only         Water and      Organisms     FR Cite/
+Priority Pollutant          CAS
+                                      (µg/L)      (µg/L)   (µg/L)       (µg/L)                               Organisms         Only       Source
+                            Number                                               (ug/L)         (ug/L)
+                                                                                                             (ug/L)            (ug/L)
+                            118741
+                                                                                 0.0002 B      0.0002 B                                   65FR66443
+Hexachlorobenzene                                                                                            0.0000084     0.0000084 qq
+                                                                                 0.000052 qq   0.000052 qq                                80FR36986
+                                                                                                             qq
+                            87683
+                                                                                 0.43 B        9.96 B                                     65FR66443
+Hexachlorobutadiene                                                                                          0.001 qq      0.001 qq
+                                                                                 0.006 qq      0.006 qq                                   80FR36986
+                            77474
+                                                                                 39 U 2 qq     600 U 3 qq                                 68FR75507
+Hexachlorocyclopentadiene                                                                                    0.4 qq        0.4 qq
+                                                                                                                                          80FR36986
+                            67721
+                                                                                 1.04 B 0.08   1.78 B 0.09                                65FR66443
+Hexachloroethane                                                                                             0.01 qq       0.01 qq
+                                                                                 qq            qq                                         80FR36986
+                            193395
+                                                                                 0.003 B       0.01 B                                     65FR66443
+Indeno(1,2,3-cd)Pyrene                                                                                       0.00014 qq    0.00014 qq
+                                                                                 0.00085 qq    0.00087 qq                                 80FR36986
+                            78591
+                                                                                 35 B 34 qq    520 B 1200                                 65FR66443
+Isophorone                                                                                                   30 qq         200 qq
+                                                                                               qq                                         80FR36986
+                            91203
+Naphthalene
+                            98953
+                                                                                 16.7 B 10     370 B,H                                    65FR66443
+Nitrobenzene                                                                                                 10 qq         60 qq
+                                                                                 qq            400 qq                                     80FR36986
+                            62759                                                                            0.00068 B,    0.26 B, qq
+                                                                                 0.00069 B,    1.63 B, qq                                 65FR66443
+N-Nitrosodimethylamine                                                                                       qq
+                                                                                 qq
+                            621647                                                                           0.004 B, qq   0.04 B,qq
+                                                                                 0.005 B, qq   0.27 B, qq                                 65FR66443
+N-Nitrosodi-n-Propylamine
+                            86306                                                                            0.49 B, qq    0.53 B, qq
+                                                                                 2.23 B, qq    3.24 B, qq                                 65FR66443
+N-Nitrosodiphenylamine
+
+                                                                       18
+                                  Freshwater              Saltwater              Human Health               Sustenance Fishing Waters
+                                                                                 For Consumption of:        Human Health
+                                                                                                            For Consumption of:
+                                                                                 Water and      Organisms
+                                    CMC          CCC       CMC          CCC      Organisms      Only        Water and      Organisms    FR Cite/
+Priority Pollutant       CAS
+                                   (µg/L)        (µg/L)   (µg/L)       (µg/L)                               Organisms         Only      Source
+                         Number                                                  (ug/L)         (ug/L)
+                                                                                                            (ug/L)            (ug/L)
+                         85018
+Phenanthrene
+                         129000
+                                                                                 710 B 20 qq   2,160 B 20                               65FR66443
+Pyrene                                                                                                      3 qq          3 qq
+                                                                                               qq                                       80FR36986
+                         120821
+                                                                                 25 0.048 qq   38 0.05 qq                               68FR75507
+1,2,4-Trichlorobenzene                                                                                      0.008 qq      0.0081 qq
+                                                                                                                                        80FR36986
+                         309002
+                                  3.0 G                   1.3 G                  0.000027 B    0.000027 B                               65FR31682
+Aldrin                                                                                                      0.000000082   0.000000082
+                                                                                 0.00000051    0.00000051                               65FR66443
+                                                                                                            qq            qq
+                                                                                 qq            qq
+                                                                                                                                        80FR36986
+                         319846
+                                                                                 0.0017 B      0.0026 B                                 65FR66443
+alpha-BHC                                                                                                   0.000041 qq   0.000041 qq
+                                                                                 0.00024 qq    0.00026 qq                               80FR36986
+                         319857
+                                                                                 0.006 B       0.009 B                                  65FR66443
+beta-BHC                                                                                                    0.0014 qq     0.0015 qq
+                                                                                 0.0062 qq     0.0093 qq                                80FR36986
+                         58899
+                                  0.95 K                  0.16 G                 0.68 Z 2.8    0.1 2.9 qq                               68FR75507
+gamma-BHC (Lindane)                                                                                         0.47 qq       0.47 qq
+                                                                                 qq                                                     80FR36986
+                         319868
+delta-BHC
+                         57749
+                                  2.4 G        0.0043     0.09 G      0.004 G,   .00044        0.00044                                  65FR31682
+Chlordane                                                                                                   0.000034 qq   0.000034 qq
+                                               G,aa                   aa         0.00021 qq    0.00021 qq                               65FR66443
+                                                                                                                                        80FR36986
+
+
+
+
+                                                                      19
+                                Freshwater               Saltwater             Human Health                Sustenance Fishing Waters
+                                                                               For Consumption of:         Human Health
+                                                                                                           For Consumption of:
+                                                                               Water and      Organisms
+                                  CMC          CCC        CMC          CCC     Organisms      Only         Water and      Organisms     FR Cite/
+Priority Pollutant   CAS
+                                 (µg/L)        (µg/L)    (µg/L)       (µg/L)                               Organisms         Only       Source
+                     Number                                                    (ug/L)         (ug/L)
+                                                                                                           (ug/L)            (ug/L)
+                     50293                                                     0.00012 B     0.00012 B
+                                1.1 G,ii     0.001       0.13 G,ii   0.001                                                              65FR31682
+4,4'-DDT                                                                       0.00002 qq    0.00002 qq    0.0000032     0.0000032 qq
+                                             G,aa,ii                 G,aa,ii                                                            65FR66443
+                                                                                                           qq
+                                                                                                                                        80FR36986
+                     72559
+                                                                               0.00012 B     0.00012 B                                  65FR66443
+4,4'-DDE                                                                                                   0.0000019     0.0000019 qq
+                                                                               0.000012 qq   0.000012 qq                                80FR36986
+                                                                                                           qq
+                     72548
+                                                                               0.00017 B     0.00017 B                                  65FR66443
+4,4'-DDD                                                                                                   0.000013 qq   0.000013 qq
+                                                                               0.000082 qq   0.000082 qq                                80FR36986
+                     60571
+                                0.24 K       0.056 K,O   0.71 G      0.0019    0.000029 B    0.000029 B                                 65FR31682
+Dieldrin                                                                                                   0.00000013    0.00000013
+                                                                     G,aa      0.00000082    0.00000082                                 65FR66443
+                                                                                                           qq            qq
+                                                                               qq            qq
+                                                                                                                                        80FR36986
+                     959988
+                                0.22 G,Y     0.056 G,Y   0.034       0.0087    39 B 10 qq    48 B 20 qq                                 65FR31682
+alpha-Endosulfan                                                                                           3 qq          3 qq
+                                                         G,Y         G,Y                                                                65FR66443
+                                                                                                                                        80FR36986
+                     33213659
+                                0.22 G,Y     0.056 G,Y   0.034       0.0087    39 B 20 qq    48 B 30 qq                                 65FR31682
+beta-Endosulfan                                                                                            4 qq          5 qq
+                                                         G,Y         G,Y                                                                65FR66443
+                                                                                                                                        80FR36986
+                     1031078
+                                                                               39 B 20 qq    48 B 30 qq                                 65FR66443
+Endosulfan Sulfate                                                                                         4 qq          4 qq
+                                                                                                                                        80FR36986
+                     72208
+                                0.086 K      0.036 K,O   0.037 G     0.0023    0.032 0.02    0.032 0.02                                 68FR75507
+Endrin                                                                                                     0.004 qq      0.004 qq
+                                                                     G,aa      qq            qq                                         80FR36986
+
+
+
+                                                                     20
+                                            Freshwater                Saltwater               Human Health                  Sustenance Fishing Waters
+                                                                                              For Consumption of:           Human Health
+                                                                                                                            For Consumption of:
+                                                                                              Water and        Organisms
+                                               CMC          CCC         CMC          CCC      Organisms        Only         Water and        Organisms      FR Cite/
+ Priority Pollutant            CAS
+                                              (µg/L)        (µg/L)     (µg/L)       (µg/L)                                  Organisms           Only        Source
+                               Number                                                         (ug/L)           (ug/L)
+                                                                                                                            (ug/L)              (ug/L)
+                               7421934
+                                                                                              0.16 B 0.7     0.16 B,H                                       65FR66443
+ Endrin Aldehyde                                                                                                            0.1 qq          0.1 qq
+                                                                                              qq             0.8 qq                                         80FR36986
+                               76448
+                                            0.52 G       0.0038       0.053 G     0.0036      0.000043 B     0.000043 B                                     65FR31682
+ Heptachlor                                                                                                                 0.00000063      0.00000063
+                                                         G,aa                     G,aa        0.0000039      0.0000039                                      65FR66443
+                                                                                                                            qq              qq
+                                                                                              qq             qq
+                                                                                                                                                            80FR36986
+                               1024573
+                                            0.52 G,V     0.0038       0.053       0.0036      0.000021 B,    0.000021 B,                                    65FR31682
+ Heptachlor Epoxide                                                                                                         0.0000034       0.0000034 qq
+                                                         G,V,aa       G,V         G,V,aa      qq             qq                                             65FR66443
+                                                                                                                            qq
+                                                                                                                                                            80FR36986
+                                                                                                                                            0.0000056 B,
+                                                         0.014                    0.03 N,aa   0.000035       0.000035                                       65FR31682
+ Polychlorinated Biphenyls                                                                                                  0.0000056 B,    N, qq
+                                                         N,aa                                 B,N, qq        B,N, qq                                        65FR66443
+ PCBs:                                                                                                                      N, qq
+                               8001352
+                                            0.73         0.0002 aa    0.21        0.0002 aa   0.00015 B      0.000155 B                                     65FR31682
+ Toxaphene                                                                                                                  0.000076 qq     0.000076 qq
+                                                                                              0.00046 qq     0.00047 qq                                     65FR66443
+                                                                                                                                                            80FR36986
+
+
+Footnotes to Table I:
+A.     This recommended water quality criterion was derived from data for arsenic (III), but is applied here to total arsenic, which might imply that arsenic (III) and
+       arsenic (V) are equally toxic to aquatic life and that their toxicities are additive. In the arsenic criteria document (EPA 440/5-84-033, January 1985), Species
+       Mean Acute Values are given for both arsenic (III) and arsenic (V) for five species and the ratios of the SMAVs for each species range from 0.6 to 1.7. Chronic
+       values are available for both arsenic (III) and arsenic (V) for one species; for the fathead minnow, the chronic value for arsenic (V) is 0.29 times the chronic
+       value for arsenic (III). No data are known to be available concerning whether the toxicities of the forms of arsenic to aquatic organisms are additive.
+B.     This criterion has been revised to reflect The Environmental Protection Agency’s q1* or RfD, as contained in the Integrated Risk Information System (IRIS) as of
+       May 17, 2002. The fish tissue bioconcentration factor (BCF)from the 1980 Ambient Water Quality Criteria document was retained in each case.
+E.     The freshwater criterion for this metal is expressed as a function of hardness (mg/L) in the water column. The value given here corresponds to a hardness of 20
+       mg/L. Also see part 7 below. under “Additional Notes” after Table II.
+                                                                                  21
+F.   Freshwater aquatic life values for pentachlorophenol are expressed as a function of pH, and are calculated as follows: CMC = exp(1.005(pH)-4.869);CCC =
+     exp(1.005(pH)-5.134). Values displayed in table correspond to a pH of 7.0.
+G.   This Criterion is based on 304(a) aquatic life criterion issued in 1980, and was issued in one of the following documents: Aldrin/Dieldrin (EPA 440/5-80-019),
+     Chlordane (EPA 440/5-80-027), DDT (EPA 440/5-80-038), Endosulfan (EPA440/5-80-046), Endrin (EPA440/5-047), Heptachlor (440/580-052),
+     Hexachlorocyclohexane (EPA440/5-80-054), Silver (EPA 440/5-80-071). The Minimum Data Requirements and derivation procedures were different in the 1980
+     Guidelines than in the 1985 Guidelines. For example, a “CMC” derived using the 1980 Guidelines was derived to be used as an instantaneous maximum. If
+     assessment is to be done using an averaging period, the values given should be divided by 2 to obtain a value that is more comparable to a CMC derived using the
+     1985 Guidelines.
+H.   No criterion for protection of human health from consumption of aquatic organisms excluding water was present in the 1980 criteria document or in the 1986
+     Quality Criteria for Water. Nevertheless, sufficient information was presented in the 1980 document to allow the calculation of a criterion, even though the
+     results of such a calculation were not shown in the document.
+I.   This criterion for asbestos is the Maximum Contaminant Level (MCL) developed under the Safe Drinking Water Act.
+J.   These values are not applicable to bleach karft kraft pulp mills. See 38 M.R.S.A., section 420(2)(I).
+K.   This recommended criterion is based on a 304(a) aquatic life criterion that was issued in the 1995 Updates: Water Quality Criteria Documents for the Protection
+     of Aquatic Life in Ambient Water, (EPA-820-B-96-001, September 1996). This value was derived using the GLI Guidelines (60FR15393-15399, March 23,
+     1995; 40CFR132 Appendix A); the difference between the 1985 Guidelines and the GLI Guidelines are explained on page iv of the 1995 Updates. None of the
+     decisions concerning the derivation of this criterion were affected by any considerations that are specific to the Great Lakes.
+L.   The CMC = 1/[(f1/CMC1) + (f2/CMC2)] where f1 and f2 are the fractions of total selenium that are treated as selenite and selenate, respectively, and CMC1 and
+     CMC2 are 185.9 µg/l and 12.83 µg/l, respectively.
+M.   EPA is currently reassessing the criteria for arsenic.
+N.   This criterion applies to total PCBs (e.g. the sum of all congener or all isomer or homolog or Aroclor analyses).
+O.   The derivation of the CCC for this pollutant did not consider exposure through the diet, which is probably important for aquatic life occupying upper trophic
+     levels.
+P.   Although a new RfD is available in IRIS, the surface water criteria will not be revised until the National Primary Drinking Water Regulations: Stage 2
+     Disinfectants and Disinfection Byproducts Rule (Stage 2 DBPR) is completed, since public comment on the relative source contribution (RSC) for chloroform is
+     anticipated.
+Q.   This recommended water quality criterion is expressed as µg free cyanide (as CN)/L.
+R.   This value for Selenium was announced (61FR58444-58449, November 14, 1996) as a proposed GLI 303(c) aquatic life criterion. EPA is currently working on
+     this criterion and so this value might change substantially in the near future.
+S.   This recommended water quality criterion refers to the inorganic form only.
+U.   The organoleptic effect criterion is more stringent than the value for priority toxic pollutants. Also see Part 6.
+V.   This value was derived from data for heptachlor and the criteria document provides insufficient data to estimate the relative toxicities of heptachlor and
+     heptachlor epoxide.
+W.   Although EPA has not published a final criteria document for this compound, it is EPA’s understanding that sufficient data exist to allow calculation of aquatic
+     criteria. It is anticipated that industry intends to publish in the peer reviewed literature draft aquatic life criteria generated in accordance with EPA Guidelines.
+     EPA will review such criteria for possible issuance as national WQC.
+X.   There is a full set of aquatic life toxicity data that show that BEHP is not toxic to aquatic organisms at or below its solubility limit.
+Y.   This value was derived from data for endosulfan and is most appropriately applied to the sum of alpha- endosulfan and beta-endosulfan.
+Z.   A more stringent MCL has been issued. Also see part 6 below.
+                                                                                  22
+aa    This criterion is based on a 304(a) aquatic life criterion issued in 1980 or 1986, and in one of the following documents: Aldrin/Dieldrin (EPA 440/5-80-019),
+      Chlordane (EPA 440/5-80-027), DDT (EPA 440/5-80-038), Endrin (EPA 440/5-80-047), Heptachlor (EPA 440/5-80-052), Polychlorinated Biphenyls (EPA
+      440/5-80-019), Toxaphene (EPA 440/5-86-038). The CCC is currently based on the Final Residual Value (FRV) procedure. Since the publication of the Great
+      Lakes Aquatic Criteria Guidelines in 1995 (60FR15393-15399, March 23, 1995), the Agency no longer uses the FRV procedure for deriving CCCs for new or
+      revised 304(a) aquatic life criteria. Therefore, the Agency anticipates that future revisions of this CCC will not be based on the FRV procedure.
+bb    This water quality criterion is based on a 304(a) aquatic life criterion that was derived using the 1985 Guidelines (Guidelines for Deriving Numerical
+      NationalWater Quality Criteria for the Protection of Aquatic Organisms and Their Uses, PB85-227049, January 1985) and was issued in one of the following
+      criteria documents: Arsenic (EPA 440/5-84-033), Cadmium (EPA 440/5-84-032), Chromium (EPA 440/5-84-029), Copper (EPA 440/5-84-031), Cyanide (EPA
+      440/5-84-028), Lead (EPA 440/5-84-027), Nickel (EPA 440/5-86-004), Pentachlorophenol (EPA 440/5-86-009), Toxaphene, (EPA 440/5-86-006), Zinc (EPA
+      440/5-87- 003).
+cc    When the concentration of dissolved organic copper is elevated, copper is substantially less toxic and use of Water- Effects Ratios might be appropriate.
+dd    The selenium criteria document (EPA 440/5-87-006, September 1987) provides that if selenium is as toxic to saltwater fishes in the field as it is to freshwater
+      fishes in the field, the status of the fish community should be monitored whenever the concentration of selenium exceeds 5.0 µg/L in salt water saltwater because
+      the saltwater CCC does not take into account uptake via the food chain.
+ff    This recommended water quality criterion was derived in Ambient Water Quality Criteria Saltwater Copper Addendum (Draft, April 14, 1995) and was
+      promulgated in the Interim final National Toxics Rule (60FR22228-222237, May 4, 1995).
+gg    EPA is actively working on this criterion and so this recommended water quality criterion may change substantially in the near future.
+ii    This criterion applies to DDT and it metabolites (i.e. the total concentration of DDT and its metabolites should not exceed this value).
+jj.   This criterion is expressed as total cyanide, even though the IRIS RfD used to derive the criterion is based on free cyanide. The multiple forms of cyanide that
+      are present in ambient water have significant differences in toxicity due to their differing abilities to liberate the CN-moiety. Some complex cyanides require
+      even more extreme condition the refluxing with sulfuric acid to liberate the CN-moiety. Thus these complex cyanides are expected to have little or no
+      ‘bioavailability’ to humans. If a substantial fraction of the cyanide present in water body is present in a complex form (e.g. Fe4[Fe(CN)6]3), this recommended
+      criterion mat may be over conservative.
+ll.   This criterion has been revised to reflect the Environmental Protection Agency’s cancer slope factor (CSF) or reference dose (RfD), as contained in the Integrated
+      Risk Information System (IRIS) as of (Final FR Notice June 10, 2009). The fish tissue bioconcentration factor (BCF) from the 1980 Ambient Water Quality
+      Criteria document was retained in each case.
+aME   As noted in 06-096 CMR 584.4 and CMR 584.5.C, when calculating ambient water quality (human health) criteria for inorganic arsenic, a 10-4 risk level and a
+      state-wide consumption value of 138 grams of organisms per day shall be utilized. In waters subject to a designated use of sustenance fishing as specified under
+      38 MRS §465-A(1)(D), 38 MRS §467(7)(A)(B)(D), 38 MRS §467(13), 38 MRS §467 (15)(C), 38 MRS §467(15)(A)(E)(F), 38 MRS §468(8), 38 MRS §469(7),
+      a fish consumption rate of 200 grams per day shall be used. Other values specific to inorganic arsenic shall include a bioconcentration factor of 26 L/kg, a cancer
+      slope (potency) factor of 1.75 mg/kg/day, and an inorganic factor of 30%.
+mm.   When calculating acute and chronic permit limits for the Androscoggin River, use a Water Effect Ratio (WER) of 1.3 for acute and 3.0 for chronic for cadmium.
+      Rationale for the WERs is provided in Androscoggin River Water Effect Ratios (Integral Consulting Inc., April 13, 2015). WER is defined as an appropriate
+      measure of the toxicity of a material obtained in on site water divided by the same measure of the toxicity of the same material obtained simultaneously in
+      laboratory dilution water.
+
+      When calculating acute permit limits for the St. Croix River, use a Water Effect Ratio (WER) of 1.2 for acute for cadmium. Rationale for the WERs is provided
+      in St. Croix River Water-Effect Ratios (Integral Consulting, Inc., July 2019). WER is defined as an appropriate measure of the toxicity of a material obtained in
+      onsite water divided by the same measure of the toxicity of the same material obtained simultaneously in laboratory dilution water.
+                                                                                  23
+nn.   When calculating acute and chronic permit limits for the Androscoggin River, use a Water Effect Ratio (WER) of 2.5 for acute and 2.5 for chronic for copper.
+      The final WER for chronic copper was determined to be 3.5, however, 2.5 is used to prevent the chronic criteria from exceeding the acute criteria. Rationale for
+      the WERs is provided in Androscoggin River Water Effect Ratios (Integral Consulting Inc., April 13, 2015). WER is defined as an appropriate measure of the
+      toxicity of a material obtained in on site water divided by the same measure of the toxicity of the same material obtained simultaneously in laboratory dilution
+      water.
+
+      When calculating acute permit limits for the St. Croix River, use a Water Effect Ratio (WER) of 3.0 for acute for copper. Rationale for the WERs is provided in
+      St. Croix River Water-Effect Ratios (Integral Consulting, Inc., July 2019). WER is defined as an appropriate measure of the toxicity of a material obtained in
+      onsite water divided by the same measure of the toxicity of the same material obtained simultaneously in laboratory dilution water.
+
+oo.   When calculating acute and chronic permit limits for total copper in the Little Androscoggin River from the outfall of the Paris Utility District in Paris, to the
+      confluence of the Little Androscoggin River with the main stem Androscoggin River in Auburn, the ambient water quality criteria (AWQC) for acute exposure
+      must be 10.85 micrograms per liter (µg/L) and the chronic AWQC must be 6.78 µg/L. Rationale for the previously noted AWQCs is based on the Biotic Ligand
+      Model (BLM) that is summarized in the Board of Environmental Protection (BEP) Final Order for the Paris Utility District dated November 20, 2014. As stated
+      in the aforementioned Final Order “The copper BLM calculates metal toxicity to aquatic organisms as a function of simultaneous concentrations of chemical
+      constituents in water that can either compete with copper and render it biologically unavailable, or compete with copper for binding sites at the point of entry into
+      a vulnerable organism.”
+
+qq.   Human Health Ambient Water Quality Criteria: 2015 Update. EPA 820-F-15-001. It should be noted that EPA used a fish consumption rate of 22 g/day to
+      calculate their 2015 values, however the criteria listed here are calculated using a fish consumption rate of 32.4 g/day, generally, and 200 g/day for waters subject
+      to a designated use of sustenance fishing. It should also be noted that antimony, arsenic, barium, beryllium, cadmium, chromium (III or VI), copper,
+      manganese, nickel, nitrates, nitrosamines, N-nitrosodibutylamine, N-nitrosodiethylamine, N-nitrosodipyrrolidine, N-nitrosodimethylamine, N-nitrosodi-n-
+      propylamine, N-nitrosodiphenylamine, polychlorinated biphenyls (PCBs), selenium, thallium, zinc, or 2,3,7,8-TCDD (dioxin) were not included in the 2015 EPA
+      update due to ongoing research.
+
+rr.   When calculating acute and chronic permit limits for the St. Croix River, use a Water Effect Ratio (WER) of 3.0 for acute and 4.8 for chronic for lead. Rationale
+      for the WERs is provided in St. Croix River Water-Effect Ratios (Integral Consulting, Inc., July 2019). WER is defined as an appropriate measure of the toxicity
+      of a material obtained in onsite water divided by the same measure of the toxicity of the same material obtained simultaneously in laboratory dilution water.
+
+ss.   When calculating acute permit limits for the St. Croix River, use a Water Effect Ratio (WER) of 2.0 for acute for zinc. Rationale for the WERs is provided in St.
+      Croix River Water-Effect Ratios (Integral Consulting, Inc., July 2019). WER is defined as an appropriate measure of the toxicity of a material obtained in onsite
+      water divided by the same measure of the toxicity of the same material obtained simultaneously in laboratory dilution water.
+
+
+
+
+                                                                                   24
+2. Table II. Criteria for Non-Priority Pollutants. See also the footnotes following this table.
+
+Non Priority            CAS                                                         Human Health
+                                     Freshwater              Saltwater                                        Sustenance Fishing Waters
+Pollutant               Number                                                      For Consumption of:
+                                                                                                              Human Health
+                                                                                                              For Consumption of:
+                                                                                    Water and     Organisms
+                                     CMC          CCC        CMC           CCC
+                                     (µg/L)       (ug/L)     (µg/L)       (ug/L)    Organisms        Only     Water and        Organisms   FR Cite/Source
+                                                                                    (µg/L)          (ug/L)    Organisms           Only
+                                                                                                              (µg/L)             (ug/L)
+
+                        7429905
+Aluminum pH 6.5 -                    750          87                                                                                       53FR33178
+9.0                                  G,O, P       G,L,O,P
+
+                                                                                                                                           EPA822-R-99-014
+                        7664417      24,100       3,000      7,300 D     1,100 D
+Ammonia                                                                                                                                    EPA440-588-004
+                                     11,000        1,400 D                                                                                 EPA822-R-13-001
+                                     D
+                        7440393                                                                               1,000 A, qq
+Barium                                                                              1,000 A,                                               Gold Book
+                                                                                    qq
+
+Boron                                Narrative Statement – See document                                                                    Gold Book
+Carbaryl                63-25-2      2.1          2.1        1.6                                                                           77FR30280
+                        16887006
+Chloride                             860,000      230,000                                                                                  53FR19028
+                                     G            G
+                        7782505
+Chlorine                             19           11         13          7.5        C                                                      Gold Book
+                        93721
+Chlorophenoxy                                                                       10 A 100      300 qq                                   Gold Book
+                                                                                                              40 qq          40 qq
+Herbicide 2,4,5,-TP                                                                 qq                                                     80FR36986
+Chlorophenoxy           94757
+                                                                                    100 A,C       8000 qq                                  Gold Book
+Herbicide 2,4,D                                                                                               670 qq         1300 qq
+                                                                                    1200 qq                                                80FR36986
+                        2921882      0.083 G
+Chloropyrifos                                     0.041 G    0.011 G     0.0056 G                                                          Gold Book
+                        8065483
+Demeton                                           0.1 F                  0.1 F                                                             Gold Book
+
+                                                                                    25
+Non Priority           CAS                                                     Human Health
+                                  Freshwater             Saltwater                                      Sustenance Fishing Waters
+Pollutant              Number                                                  For Consumption of:
+                                                                                                        Human Health
+                                                                                                        For Consumption of:
+                                                                               Water and    Organisms
+                                  CMC          CCC       CMC           CCC
+                                  (µg/L)       (ug/L)    (µg/L)       (ug/L)   Organisms       Only     Water and        Organisms   FR Cite/Source
+                                                                               (µg/L)         (ug/L)    Organisms           Only
+                                                                                                        (µg/L)             (ug/L)
+
+                       542881
+Ether, Bis                                                                     0.000079 E   0.00016 E                                65FR66443
+                                                                                                        0.00014 qq     0.0018 qq
+Chloromethyl                                                                   0.00015 qq   0.011 qq                                 80FR36986
+                       86500
+Guthion                                        0.01 F                0.01 F                                                          Gold Book
+                       319868
+Hexachlorocyclo-                                                               0.0123       0.0414                                   80FR36986
+                       608731                                                                           0.001 qq       0.0011 qq
+hexane-Technical                                                               0.0049 qq    0.0067 qq                                EPA 440/5-80-054
+                       7439896
+Iron                                           1000 F                          300 A                                                 Gold Book
+                       121755
+Malathion                                      0.1 F                 0.1 F                                                           Gold Book
+                       7439965                                                                          B, qq          100 A, qq
+Manganese                                                                      B, qq        100 A, qq                                Gold Book
+                       72435
+Methoxychlor                                   0.03 F                0.03 F    100 A,C      0.01 qq                                  Gold Book
+                                                                                                        0.002 qq       0.002 qq
+                                                                               0.01 qq                                               80FR36986
+                       2385855
+Mirex                                          0.001 F               0.001 F                                                         Gold Book
+                       14797558                                                                         10,000 A, qq   qq
+Nitrates                                                                       10,000 A,    qq                                       Gold Book
+                                                                               qq
+                                                                                                        0.0008 A, qq   1.24 qq
+Nitrosamines                                                                   0.0008 A,    1.24 qq                                  Gold Book
+                                                                               qq
+                       25550587
+Dinitrophenols                                                                 68 10 qq     2,860 700                                65FR66443
+                                                                                                        10 qq          100 qq
+                                                                                            qq                                       80FR36986
+                       84852153
+Nonylphenol                       28           6.6       7           1.7                                                             71FR9337
+                       924163                                                                           0.0048 A, qq   0.019 A, qq
+Nitrosodibutylamine,                                                           0.0061 A,    0.118 A,                                 65FR66443
+N                                                                              qq           qq
+                                                                               26
+Non Priority            CAS                                                       Human Health
+                                    Freshwater             Saltwater                                          Sustenance Fishing Waters
+Pollutant               Number                                                    For Consumption of:
+                                                                                                              Human Health
+                                                                                                              For Consumption of:
+                                                                                  Water and     Organisms
+                                    CMC          CCC       CMC           CCC
+                                    (µg/L)       (ug/L)    (µg/L)       (ug/L)    Organisms        Only       Water and        Organisms   FR Cite/Source
+                                                                                  (µg/L)          (ug/L)      Organisms           Only
+                                                                                                              (µg/L)             (ug/L)
+
+                        55185                                                                                 0.0008 A, qq   1.24 A, qq
+Nitrosodiethylamine,                                                              0.0008 A,     1.24 A, qq                                 Gold Book
+N                                                                                 qq
+                        930552                                                                                0.016, qq      3.0, qq
+Nitrosopyrrolidine,N                                                              0.016, qq     18.4, qq                                   65FR66443
+                        333415
+Diazanon                            0.17         0.17      0.82        0.82                                                                71FR9336
+                        56382
+Parathion                           0.065 J      0.013 J                                                                                   Gold Book
+                        608935
+Pentachlorobenzene                                                                0.79 E 0.07   0.81 E 0.07                                65FR66443
+                                                                                                              0.01 qq        0.01 qq
+                                                                                  qq            qq                                         80FR36986
+                        7783064
+Sulfide-Hydrogen                                 2.0 F                 2.0 F                                                               Gold Book
+Sulfide
+                        95943
+Tetrachlorobenzene,                                                               0.55 E 0.02   0.58 E 0.02                                65FR66443
+                                                                                                              0.003 qq       0.003 qq
+1,2,4,5-                                                                          qq            qq                                         80FR36986
+
+Tributyltin TBT                     0.46 Q       0.072 Q   0.42 Q      0.0074 Q                                                            69FR342
+                        95954
+Trichlorophenol,2,4,5                                                             1,300 B,E     2,000 B,E                                  65FR66443
+                                                                                                              60 qq          60 qq
+                                                                                  200 B, qq     400 B, qq                                  80FR36986
+
+
+
+Footnotes to Table II:
+A This human health criterion is the same as originally published in the Red Book (EPA 440/9-76-023, July 1976) which predates the 1980 methodology and did not
+  utilize the fish ingestion BCF approach. This same criterion value is now published in the Gold Book (Quality Criteria for Water: 1986. EPA 440/5-86-001).
+B The organoleptic effect criterion is more stringent than the value presented in the non priority pollutant table.
+C A more stringent Maximum Contaminant Level (MCL) has been issued by EPA under the Save Drinking Water Act. Refer to drinking water regulations 40CFR141
+  or Safe Drinking Water Hotline (1-800-426-4791) for values. Also see part 6 below.
+                                                                                  27
+D Total Ammonia Nitrogen Aquatic life criteria are pH, temperature and/or salinity dependent. See part 7(C) for fresh water and reference document for marine waters.
+  The values presented in the table are based on pH of 7.0 and temperature of 25oC in fresh waters; and pH of 8.0, temperature of 20oC and salinity of 30 parts per
+  thousand in marine waters.
+E This criterion has been revised to reflect The Environmental Protection Agency’s q1* or RfD, as contained in the Integrated Risk Information System (IRIS) as of
+  May 17, 2002. The fish tissue bioconcentration factor (BCF) used to derive the original criterion was retained in each case.
+F The derivation of this value is presented in the Red Book (EPA 440/9-76-023, July, 1976).
+G This value is based on a 304(a) aquatic life criterion that was derived using the 1985 Guidelines (Guidelines for Deriving Numerical National Water Quality Criteria
+  for the Protection of Aquatic Organisms and Their Uses, PB85-227049, January 1985) and was issued in one of the following criteria documents: Aluminum (EPA
+  440/5-86-008); Chloride (EPA 440/5-88-001); Chloropyrifos (EPA 440/5-86-005).
+J This value is based on a 304(a) aquatic life criterion that was issued in the 1995 Updates: Water Quality Criteria Documents for the Protection of Aquatic Life in
+  Ambient Water (EPA-820-B-96-001). This value was derived using the GLI Guidelines (60FR15393-15399, March 23, 1995; 40CFR132 Appendix A); the
+  differences between the 1985 Guidelines and the GLI Guidelines are explained on page iv of the 1995 Updates. No decision concerning this criterion was affected by
+  any considerations that are specific to the Great Lakes.
+L There are three major reasons why the use of Water-Effect Ratios might be appropriate. (1) The value of 87 µg/l is based on a toxicity test with the striped bass in
+  water with pH= 6.5-6.6 and hardness <10 mg/L. Data in “Aluminum Water-Effect Ratio for the 3M Plant Effluent Discharge, Middleway, West Virginia” (May
+  1994) indicate that aluminum is substantially less toxic at higher pH and hardness, but the effects of pH and hardness are not well quantified at this time. (2) In tests
+  with the brook trout at low pH and hardness, effects increased with increasing concentrations of total aluminum even though the concentration of dissolved aluminum
+  was constant, indicating that total recoverable is a more appropriate measurement than dissolved, at least when particulate aluminum is primarily aluminum hydroxide
+  particles. In surface waters, however, the total recoverable procedure might measure aluminum associated with clay particles, which might be less toxic than
+  aluminum associated with aluminum hydroxide. (3) EPA is aware of field data indicating that many high quality waters in the U.S. contain more than 87 µg
+  aluminum/L, when either total recoverable or dissolved is measured.
+N This value was announced (62FR42554, August 7, 1997) as a proposed 304(a) aquatic life criterion. Although EPA has not responded to public comment, EPA has
+  published this as a 304(a) criterion as guidance for States and Tribes to consider when adopting water quality criteria.
+O When calculating acute and chronic permit limits for the Androscoggin River, use a Water Effect Ratio (WER) of 1.3 for acute and 3.7 for chronic for aluminum.
+  Rationale for the WERs is provided in Androscoggin River Water Effect Ratios (Integral Consulting Inc., April 13, 2015).
+P When calculating acute and chronic permit limits for the St. Croix River, use a Water Effect Ratio (WER) of 6.1 for aluminum. Rationale for the WER is provided in
+  Aluminum Water-Effect Ration for Georgia-Pacific Corporation Woodland, Maine Pulp & Paper Operations Discharge and St. Croix River prepared by AScI
+  Corporation/AScI-Duluth dated November 1996, and summarized in the letter from William R. Beckwith of EPA Region 1 to Barry Mower, DEP, dated March 2,
+  1998.
+
+
+
+
+                                                                                    28
+

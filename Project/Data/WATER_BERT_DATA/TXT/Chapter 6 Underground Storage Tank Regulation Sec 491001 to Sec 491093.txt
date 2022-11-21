@@ -1,0 +1,3016 @@
+     ARS 49-1001 Definitions (Arizona Revised Statutes (2021
+                           Edition))
+
+
+§ 49-1001. Definitions
+
+In this chapter, unless the context otherwise requires:
+
+1. "Being used" means not having been taken out of operation.
+
+2. "Closure" means the removal of an underground storage tank from
+operation.
+
+3. "Corrective actions" means those actions that are prescribed pursuant to
+section 49-1005.
+
+4. "Designated representative" means a person to whom an owner or an
+operator, or both, assign in writing any right, title or interest that the owner
+or operator, or both, may have in and to the proceeds of a reimbursement
+for a corrective action made under article 3 of this chapter.
+
+5. "Energy policy act" means the underground storage tank compliance act,
+title XV, subtitle B of the energy policy act of 2005 ( P.L. 109-58; 119 Stat.
+1092), as amended.
+
+6. "Fiduciary" means:
+
+(a) A trust company or bank certified or authorized to engage in the trust
+business pursuant to title 6, chapter 8, article 1.
+
+(b) Any person appointed by a court or testamentary act to act as personal
+representative, executor, trustee, administrator, guardian, conservator,
+receiver or trustee in bankruptcy.
+
+(c) Any person acting as a trustee of a deed of trust pursuant to section 33-
+803.
+
+(d) Any person acting as a trustee pursuant to title 14, chapter 7.
+
+(e) Any person acting pursuant to and subject to fiduciary obligations under
+the employee retirement income security act of 1974 ( 29 United States Code
+sections 1101 through 1114).
+
+7. "Guarantor" means a person, other than an owner or operator, who
+provides evidence of financial responsibility for an owner or operator
+pursuant to this chapter.
+
+8. "Motor fuel" means petroleum or a petroleum based substance that is
+motor gasoline, aviation gasoline, number 1 or number 2 diesel fuel or any
+grade of oxygenated gasoline typically used in the operation of a motor
+engine.
+     ARS 49-1001 Definitions (Arizona Revised Statutes (2021
+                           Edition))
+
+
+9. "New piping component" means any underground pipe or combination of
+pipes that contains and conveys a regulated substance between a tank and a
+motor fuel dispenser, including any valve, elbow, connector or joint that is
+added to an underground storage tank on or after January 1, 2009 and that
+was not originally included or installed as part of the underground storage
+tank.
+
+10. "Occurrence" means an incident or accident, including continuous or
+repeated exposure to conditions, which results in a release from an
+underground storage tank.
+
+11. "Operator" means a person in control of, or having responsibility for, the
+day-to-day operation of an underground storage tank.
+
+12. "Out of operation" means having been closed in accordance with all
+applicable fire codes and other statutory and regulatory requirements for
+closure in effect on the date that closure was accomplished.
+
+13. "Person" means an individual, trust, firm, joint stock company,
+corporation, joint venture, partnership, association, consortium, state,
+municipality, interstate body, commission, political subdivision of a state
+and the United States government.
+
+14. "Petroleum" means petroleum, including crude oil or any fraction of
+crude oil, which is liquid at sixty degrees Fahrenheit and 14.7 pounds per
+square inch absolute, and petroleum based substances comprised of a
+complex blend of hydrocarbons derived from crude oil through processes of
+separation, conversion, upgrading and finishing, such as motor fuels,
+residual fuel oils, lubricants, jet fuels, distillate fuel oils, petroleum solvents
+and used oils.
+
+15. "Political subdivision" means a county, city, town or other taxing district
+other than the state that is authorized to take property by eminent domain.
+
+16. "Regulated substance" means:
+
+(a) Petroleum.
+
+(b) A substance specified in the comprehensive environmental response,
+compensation, and liability act of 1980 ( P.L. 96-510; 94 Stat. 2767; 42
+United States Code section 9601 (14)) but not including a substance
+regulated as a hazardous waste under the hazardous and solid waste
+amendments of 1984 ( P.L. 98-616; 98 Stat. 3221).
+     ARS 49-1001 Definitions (Arizona Revised Statutes (2021
+                           Edition))
+
+
+17. "Release" means a spill, leak, emission, discharge, escape, leach or
+disposal of a regulated substance from an underground storage tank into
+groundwater, surface water or soils.
+
+18. "Suspected release" means any of the following:
+
+(a) The discovery by owners and operators or others of released regulated
+substances at the underground storage tank site or in the surrounding area.
+
+(b) Erratic behavior of regulated substance dispensing equipment, the
+sudden loss of a regulated substance from an underground storage tank, an
+unexplained presence of water in the underground storage tank or other
+extraordinary operating conditions that could reasonably be associated with
+a release from an underground storage tank and that are observed by
+owners and operators, unless system equipment is found to be defective but
+not leaking and is repaired or replaced immediately.
+
+(c) That the monitoring results from a release detection method required
+under 40 Code of Federal Regulations sections 280.41 and 280.42, this
+chapter or rules adopted pursuant to this chapter indicate that a release may
+have occurred unless either of the following occurs:
+
+(i) The monitoring device is found to be defective and is immediately
+repaired, recalibrated or replaced and additional monitoring data do not
+confirm the initial result.
+
+(ii) In the case of inventory control, a second month of inventory
+reconciliation data does not confirm the initial result.
+
+19. "Tank" means a stationary device constructed of wood, concrete, steel,
+plastic or other nonearthen materials and used to contain regulated
+substances.
+
+20. "Under-dispenser containment" means a secondary containment device
+that is beneath a motor fuel dispenser, that is connected to the underground
+storage tank and that is designed to be liquid tight.
+
+21. "Underground storage tank" means a tank or combination of tanks and
+underground pipes and impact valves connected to tanks being used or
+having been used to contain regulated substances and which has at least ten
+percent of the total volume of the tank and underground portions of pipes
+connected to the tank underground. Underground storage tank does not
+mean any of the following:
+
+(a) A farm or residential tank of one thousand one hundred gallons or less
+capacity used for storing motor fuel for noncommercial purposes.
+     ARS 49-1001 Definitions (Arizona Revised Statutes (2021
+                           Edition))
+
+
+(b) A tank used for storing heating oil for consumptive use on the premises
+where stored.
+
+(c) A septic tank.
+
+(d) A pipeline facility, including gathering lines, regulated under either:
+
+(i) The natural gas pipeline safety act of 1968 (49 United States Code
+sections 1671 through 1686).
+
+(ii) The hazardous liquid pipeline safety act of 1979 (49 United States Code
+section 2001).
+
+(e) An intrastate pipeline facility regulated under a state law comparable to
+the provisions of law referred to in subdivision (d), item (i) or (ii) of this
+paragraph .
+
+(f) A surface impoundment, pit, pond or lagoon.
+
+(g) A storm water or wastewater collection system.
+
+(h) A flow-through process tank.
+
+(i) A liquid trap or associated gathering lines directly related to oil or gas
+production and gathering operations.
+
+(j) A storage tank situated in an underground area, such as a basement,
+cellar, mine working, drift, shaft or tunnel, if the storage tank is situated on
+or above the surface of the floor.
+
+(k) Pipes connected to any of the structures described in subdivisions (a)
+through (j) of this paragraph .
+
+22. "Volunteer" means a property owner or a person other than an owner or
+operator that assumes responsibility for corrective actions for a release from
+an underground storage tank.
+
+(Amended by L. 2015, ch. 247,s. 1, eff. 7/2/2015.)
+   ARS 49-1001.01 Definition of owner; rules (Arizona Revised
+                   Statutes (2021 Edition))
+
+
+§ 49-1001.01. Definition of owner; rules
+
+A. In this chapter, "owner" of an underground storage tank means a person
+who either:
+
+1. Holds a legal, equitable, or possessory interest of any kind in an
+underground storage tank.
+
+2. Held at the time of a release, or immediately before an underground
+storage tank was last operated, a legal, equitable or possessory interest of
+any kind in the underground storage tank.
+
+B. A person who acquires ownership or control of property where an
+underground storage tank is located is not the owner of the underground
+storage tank if either of the following applies:
+
+1. The person, after conducting a due diligence investigation immediately
+prior to acquiring ownership of the property, did not know and had no
+reason to know that the underground storage tank was located on the
+property. Due diligence shall consist of performing a phase I environmental
+assessment of the property which meets the requirements of ASTM standard
+E- 1527-93 or E- 1528-93, or other generally accepted commercial practices
+or standards for due diligence performed prior to the adoption of this
+standard.
+
+2. The person has not placed regulated substances in the underground
+storage tank and has not dispensed regulated substances from the
+underground storage tank. For the purposes of this paragraph, dispensing
+does not mean emptying the underground storage tank for purpose of
+closure.
+
+C. A person who holds indicia of ownership primarily to protect a security
+interest in either the petroleum underground storage tank or in the property
+on which the petroleum underground storage tank is or was located but who
+does not participate in the management of the underground storage tank
+and who is not otherwise engaged in petroleum refining or marketing is not
+an owner for purposes of this chapter.
+
+D. A person who holds indicia of ownership as prescribed by subsection C of
+this section and who acquires ownership or control of a petroleum
+underground storage tank through foreclosure of the property where a
+petroleum underground storage tank is located shall not be deemed an
+owner and shall not be required to investigate a release or take corrective
+action in response to a release if the person does all of the following:
+   ARS 49-1001.01 Definition of owner; rules (Arizona Revised
+                   Statutes (2021 Edition))
+
+
+1. Complies with the notification requirements prescribed by section 49-
+1002.
+
+2. Complies with the reporting requirements prescribed by section 49-1004,
+subsections A and C to the extent that the information is known to the
+person at the time of the report.
+
+3. Temporarily or permanently closes the petroleum underground storage
+tank as prescribed by section 49-1008.
+
+4. Divests itself of the property in a reasonably prompt manner using
+whatever commercially reasonable means are relevant or appropriate with
+respect to the property, taking into consideration all of the facts and
+circumstances.
+
+E. A fiduciary is not an owner or operator for purposes of this chapter,
+except if the appointment of the fiduciary is for the purpose of avoiding
+liability under this chapter. This subsection does not preclude claims against
+assets held in an estate, a trust or any other fiduciary capacity that contains
+an underground storage tank in which regulated substances are placed or
+dispensed. Those claims may be asserted against a fiduciary in its
+representative capacity without regard to whether the fiduciary is personally
+liable, and the liability of the fiduciary is limited to the value of the estate,
+trust or other property that is held in a fiduciary capacity. A fiduciary may
+not be a fiduciary and grantor of the same fiduciary estate.
+
+F. The director may adopt rules to implement subsection E of this section.
+  ARS 49-1002 Notification requirements; exemptions (Arizona
+               Revised Statutes (2021 Edition))
+
+
+§ 49-1002. Notification requirements; exemptions
+
+A. Except as otherwise provided in this section, each owner of an
+underground storage tank shall notify the department in writing and shall
+specify the tank's age, size, type, location and use.
+
+B. For an underground storage tank that was taken out of operation on or
+before January 1, 1974, regardless of whether the tank was removed from
+the ground, the owner is exempt from giving notice.
+
+C. For an underground storage tank that was taken out of operation after
+January 1, 1974 but before November 8, 1984 and that was removed from
+the ground, the owner is exempt from giving notice.
+
+D. For an underground storage tank that was taken out of operation after
+January 1, 1974 but before November 8, 1984 and that was not removed
+from the ground, the owner shall specify the type and quantity of the
+substances that were stored in the tank immediately before it was taken out
+of operation. These requirements are in addition to the requirements for
+notice prescribed in subsection A of this section .
+
+E. For an underground storage tank that was taken out of operation after
+November 8, 1984 but before December 22, 1988 the director may require
+the owner to make reasonable efforts to specify the age, size, location and
+use of the tank, the type and quantity of the substances that were stored in
+the tank immediately before it was taken out of operation and the date of its
+removal from operation.
+
+F. An owner or operator who brings an underground storage tank into
+operation shall meet the notification requirements of this section at least
+thirty days before bringing the tank into operation. An owner or operator
+who brings a new piping component or under-dispenser containment into
+operation on or after January 1, 2009 shall meet the notification
+requirements of this section within thirty days after the new piping
+component or under-dispenser containment is brought into operation.
+
+G. A person who sells a tank for use as an underground storage tank shall
+notify the purchaser of the notice requirements of subsection F of this
+section and shall provide to the department documentation of the notice
+given .
+
+H. The notices required by this section shall be made on forms prescribed by
+the department.
+
+(Amended by L. 2015, ch. 247,s. 2, eff. 7/2/2015.)
+ARS 49-1003 Detection of releases; record keeping requirements
+          (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1003. Detection of releases; record keeping requirements
+
+A. Until the rules adopted pursuant to subsection C are in effect, the owner
+and operator of an underground storage tank shall maintain a release
+detection system that complies with the requirements of 40 Code of Federal
+Regulations sections 280.40 through 280.44.
+
+B. Until the rules adopted pursuant to subsection C are in effect, the owner
+and operator of an underground storage tank shall maintain systematic and
+complete records of release detection information that complies with the
+requirements of 40 Code of Federal Regulations section 280.45.
+
+C. The director shall adopt rules establishing release detection requirements
+and release detection record keeping requirements. The rules adopted
+pursuant to this subsection shall be consistent with and no more stringent
+than the federal regulations in effect on the date on which the rules are
+adopted.
+ ARS 49-1004 Reporting requirements (Arizona Revised Statutes
+                       (2021 Edition))
+
+
+§ 49-1004. Reporting requirements
+
+A. The operator and owner of an underground storage tank shall notify the
+department of each release or suspected release from the tank as soon as
+practicable but no later than twenty-four hours after the release or suspected
+release is detected.
+
+B. The operator of an underground storage tank shall notify the owner of
+each release from the tank as soon as practicable but no later than twenty-
+four hours after the release is detected.
+
+C. Notice by the operator and owner required by this section may be made
+orally or in writing but shall be followed within fourteen days by a written
+report to the department that a release or suspected release has been
+detected. The written report shall specify to the extent known at the time of
+the report the nature of the release or suspected release, the regulated
+substance released, the quantity of the release, the period of time over which
+the release occurred, the initial response and the corrective action taken as
+of the date of the report and anticipated to be taken subsequent to the date
+of the report. In addition, the written report shall include additional
+information required by rules that are consistent with federal regulations in
+effect on the date on which the rules are adopted.
+
+D. The director shall prescribe by rule the reporting, investigation and
+confirmation actions to be taken in the event of a release or suspected
+release of a regulated substance from an underground storage tank. Any
+rules adopted pursuant to this section shall be consistent with and no more
+stringent than federal regulations in effect on the date on which the rules are
+adopted. Until rules adopted pursuant to this subsection are in effect,
+reporting, investigation and confirmation actions shall be accomplished in a
+manner consistent with 40 Code of Federal Regulations sections 280.50
+through 280.53.
+ ARS 49-1005 Corrective action (Arizona Revised Statutes (2021
+                          Edition))
+
+
+§ 49-1005. Corrective action
+
+A. When a release is discovered the owner and operator of an underground
+storage tank shall take immediate action to stop the release and to identify
+and mitigate any fire, explosion or vapor hazard.
+
+B. The owner or operator of an underground storage tank shall take
+corrective action in response to the release of regulated substances from the
+tank, except to the extent that this responsibility is limited by section 49-
+1016, subsection F or section 49-1019, subsection D. A person may take
+corrective action pursuant to section 49-1016, subsection C.
+
+C. Nothing in this section prevents the director from taking or requiring
+corrective action pursuant to any other provision of law.
+
+D. Corrective actions shall:
+
+1. Assure the protection of public health and welfare and the environment.
+
+2. To the extent practicable, provide for the control, management or cleanup
+of regulated substances so as to allow the maximum beneficial use of the
+water and soil of this state.
+
+3. Be reasonable, necessary, cost-effective and technically feasible.
+
+E. Notwithstanding chapter 2, article 2 of this title, the director may approve
+a corrective action that may result in water quality exceeding water quality
+standards after completion of the corrective action, if the director finds that
+the corrective action meets the requirements of this section. The director's
+approval pursuant to this section does not affect the classification of an
+aquifer pursuant to section 49-224. The director shall adopt rules to
+implement this section. These rules shall include public notice provisions,
+criteria for the selection of corrective actions, including the level and extent
+of cleanup and the comparison of corrective action alternatives that may
+include plume remediation alternatives, monitoring, source control,
+controlled migration, physical containment and natural attenuation.
+
+F. The director shall prescribe by rule the corrective actions to be taken in
+the event of a release of a regulated substance from an underground storage
+tank. Any rules adopted pursuant to this subsection shall be consistent with
+and no more stringent than federal regulations in effect on the date on
+which the rules are adopted. The director shall adopt rules to permit a risk-
+based corrective action alternative . Corrective actions shall include
+requirements regarding:
+
+1. Initial response measures.
+ ARS 49-1005 Corrective action (Arizona Revised Statutes (2021
+                          Edition))
+
+
+2. Initial abatement measures.
+
+3. A site check.
+
+4. Initial site characterization.
+
+5. Removal of free product.
+
+6. Investigations for soil, surface water and groundwater cleanups.
+
+7. Responses to contaminated soil, surface water and groundwater.
+
+G. Corrective actions may include the use of biostimulation with indigenous
+microbes and bioaugmentation using microbes that are nonpathogenic, that
+are nonopportunistic and that are naturally occurring.
+
+H. Until rules adopted pursuant to subsection F of this section are in effect,
+corrective actions shall be accomplished in a manner consistent with and no
+more stringent than 40 Code of Federal Regulations sections 280.60
+through 280.67.
+
+(Amended by L. 2016, ch. 352,s. 15, eff. 8/5/2016.)
+   ARS 49-1006 Statement of financial responsibility (Arizona
+               Revised Statutes (2021 Edition))
+
+
+§ 49-1006. Statement of financial responsibility
+
+A. If required by regulations adopted pursuant to 42 United States Code
+section 6991b(d) to establish evidence of financial responsibility, an owner
+and operator shall file with the department a statement of financial
+responsibility containing evidence that the owner and operator are
+financially capable of taking the actions required by this chapter.
+
+B. Evidence of financial responsibility required by this section shall be
+established in a manner prescribed by the director by rule. The rules
+adopted pursuant to this section shall be consistent with and no more
+stringent than the federal regulations in effect on the date on which the rules
+are adopted.
+   ARS 49-1006.01 Insurance for releases; termination; notice;
+  coverage; assistance (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1006.01. Insurance for releases; termination; notice;
+coverage; assistance
+
+A. Beginning on January 1, 2016 and continuing for twenty-four months, if
+an owner or operator makes a claim against its insurance or an alternative
+financial responsibility mechanism for a release and its claim is denied or
+otherwise not paid, the owner or operator shall provide to the department a
+copy of the notice of denial or other evidence of nonpayment.
+
+B. If the insurance used to meet the financial responsibility requirements of
+this chapter is terminated or not renewed, the insurer shall notify the
+department of the termination or nonrenewal within thirty days after the
+date of termination or nonrenewal. The notice to the department shall state
+the name and address of the insured, the date of termination or nonrenewal
+and the address of the facility that had been insured.
+
+C. Before January 1, 2017 or on the insurance contract renewal date,
+whichever is earlier, an owner or operator that satisfies financial
+responsibility requirements through insurance shall have policy coverage
+that extends to one of the following:
+
+1. The date of the most recent baseline assessment conducted pursuant to
+section 49-1052 or comparable site characterization as determined by the
+department.
+
+2. The date of the underground storage tank system installation.
+
+3. The earliest retroactive coverage date of the previous insurance policy or
+alternative financial responsibility mechanism.
+
+D. The department shall assist an owner or operator in pursuing the owner's
+or operator's claim against the financial responsibility mechanism and
+obtaining coverage for a confirmed release from an underground storage
+tank system that is covered by the mechanism.
+
+(Added by L. 2015, ch. 247,s. 3, eff. 7/2/2015.)
+ ARS 49-1006.02 Insurance primacy; requirements; fund access
+          (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1006.02. Insurance primacy; requirements; fund access
+
+A. For owners or operators that satisfy financial responsibility requirements
+through insurance, the following apply:
+
+1. The policy that covers the underground storage tank system at the time
+the release is discovered shall be primary to eligibility under sections 49-
+1017 and 49-1054.
+
+2. The owner or operator is not required to exhaust insurance coverage in
+order to be eligible under sections 49-1017 and 49-1054.
+
+3.except as provided in subsection c of this section, eligibility under sections
+49-1017 and 49-1054 is contingent on filing a timely insurance claim under
+the policy and pursuing that claim until a denial is received or, after
+assistance from the department as prescribed in section 49-1006.01,
+subsection D, until the department determines that the claim has been
+constructively denied.
+
+4. An owner or operator that fails to pursue an insurance claim is no longer
+eligible under sections 49-1017 and 49-1054.
+
+B. An owner or operator that satisfies financial responsibility requirements
+through insurance and that will not receive payment from its insurance
+provider until after the expenditure of at least fifty thousand dollars per
+facility as provided in an insurance policy that is in effect on April 1, 2015 or
+that satisfies financial responsibility requirements through an alternative
+financial responsibility mechanism is eligible under sections 49-1017 and
+49-1054 after meeting a cost sharing obligation by payment of the first fifty
+thousand dollars per facility for work that is conducted on or after January 1,
+2016. This eligibility is subject to the limits prescribed in section 49-1054,
+subsection A and is subject to the preapproval process prescribed in section
+49-1051. EXCEPT AS PROVIDED IN SUBSECTION C OF THIS SECTION,
+eligibility pursuant to this subsection for owners or operators that meet
+financial responsibility requirements through insurance is contingent on
+providing timely notice of the release to the insurance carrier under the
+policy and that eligibility ends on the date that the insurer is obligated to
+provide payment under the policy.
+
+C. AN OWNER OR OPERATOR THAT SATISFIES FINANCIAL
+RESPONSIBILITY REQUIREMENTS THROUGH INSURANCE AND THAT
+HAD A RELEASE REPORTED BETWEEN JULY 1, 2006 AND DECEMBER
+31, 2015, THAT REQUIRES ADDITIONAL CORRECTIVE ACTION IS
+ELIGIBLE UNDER SECTIONS 49-1017 AND 49-1054 SUBJECT TO THE
+PREAPPROVAL PROCESS PRESCRIBED IN SECTION 49-1051 WITHOUT
+ ARS 49-1006.02 Insurance primacy; requirements; fund access
+          (Arizona Revised Statutes (2021 Edition))
+
+
+FILING A TIMELY CLAIM AGAINST ITS INSURANCE CARRIER IF THE
+OWNER OR OPERATOR WAS IN COMPLIANCE WITH FINANCIAL
+RESPONSIBILITY REQUIREMENTS AT THE TIME OF THE RELEASE.
+THE MAXIMUM AMOUNT ELIGIBLE FOR REIMBURSEMENT UNDER
+THIS SUBSECTION IS FIVE HUNDRED THOUSAND DOLLARS PER
+FACILITY AFTER MEETING A COST SHARING OBLIGATION BY
+PAYMENT OF THE FIRST FIFTY THOUSAND DOLLARS PER FACILITY
+FOR WORK CONDUCTED ON OR AFTER JANUARY 1, 2016 AND
+WITHOUT ANY REDUCTIONS FOR PAYMENTS MADE PURSUANT TO
+LAWS 2015, CHAPTER 247, SECTION 25, AS AMENDED BY SECTION 2
+OF THIS ACT.
+
+(Amended by L. 2018, ch. 299,s. 1, eff. 8/3/2018. Added by L. 2015, ch.
+247,s. 3, eff. 7/2/2015.)
+  ARS 49-1007 Liability of guarantors (Arizona Revised Statutes
+                         (2021 Edition))
+
+
+§ 49-1007. Liability of guarantors
+
+A. If the owner or operator of an underground storage tank files for
+protection under the federal bankruptcy laws and with reasonable diligence
+jurisdiction in a state court or the federal courts cannot be obtained over an
+owner or operator likely to be solvent at the time of judgment, any claim
+arising from conduct for which evidence of financial responsibility must be
+provided pursuant to section 49-1006 may be asserted directly against the
+guarantor. In the case of an action pursuant to this section, the guarantor
+may invoke all rights and defenses which would have been available to the
+owner or operator against the claimant if an action had been brought against
+the owner or operator by the claimant and which would have been available
+to the guarantor if an action had been brought against the guarantor by the
+owner or operator.
+
+B. The total liability of any guarantor is limited to the aggregate amount
+which the guarantor provides to the owner or operator as evidence of
+financial responsibility and which the owner or operator provides to the
+department pursuant to section 49-1006.
+
+C. Nothing in this section shall be construed to limit any other state or
+federal statutory, contractual or common law liability of a guarantor to its
+owner or operator including, but not limited to, the liability of a guarantor
+for bad faith either in negotiating or in failing to negotiate the settlement of
+a claim.
+
+D. Nothing in this section shall be construed to diminish the liability of a
+person under the comprehensive environmental response, compensation,
+and liability act of 1980 ( P.L. 96-510; 94 Stat. 2769; 42 United States Code
+sections 9607 or 9611) or other applicable law.
+ ARS 49-1008 Closure (Arizona Revised Statutes (2021 Edition))
+
+
+
+§ 49-1008. Closure
+
+The temporary closure, permanent closure and change in service of an
+underground storage tank shall be accomplished in a safe and secure
+manner which prevents releases of regulated substances. The director shall
+prescribe by rule standards for these activities. Any rules adopted pursuant
+to this section shall be consistent with the federal regulations in effect on the
+date on which the rules are adopted. Until the rules adopted pursuant to this
+section are in effect, a temporary closure, permanent closure or change in
+service shall be accomplished in a manner consistent with 40 Code of
+Federal Regulations parts 280.70 through 280.74.
+  ARS 49-1009 [Effective Until ninety days after adjournment]
+  Tank performance standards (Arizona Revised Statutes (2021
+                          Edition))
+
+§ 49-1009. [Effective Until ninety days after adjournment] Tank
+performance standards
+
+A. A person shall not install an underground storage tank unless the
+underground storage tank meets all of the following requirements:
+
+1. It is designed to prevent releases due to corrosion or structural failure for
+the operational life of the tank.
+
+2. It is cathodically protected against corrosion, constructed of noncorrosive
+material, steel clad with a noncorrosive material or designed in a manner to
+prevent the release of a regulated substance.
+
+3. The material used in the construction or lining of the tank is compatible
+with the substance to be stored.
+
+B. Beginning January 1, 2009, a person shall not install an underground
+storage tank unless the underground storage tank meets the secondary
+containment and release detection requirements for hazardous substance
+underground storage tank systems in 40 Code of Federal Regulations
+section 280.42 and the interstitial monitoring requirements in 40 Code of
+Federal Regulations section 280.43, subsection G.
+
+C. Beginning January 1, 2009, a person shall not install a new piping
+component that is twenty-five per cent or more of the total linear footage of
+all connected piping of the underground storage tank unless all connected
+piping of the underground storage tank that conveys a regulated substance
+under pressure is brought into compliance with the secondary containment
+and release detection requirements for hazardous substance underground
+storage tank systems in 40 Code of Federal Regulations section 280.42 and
+the interstitial monitoring requirements in 40 Code of Federal Regulations
+section 280.43, subsection G.
+
+D. Beginning January 1, 2009, an owner or operator who installs or replaces
+a motor fuel dispenser that connects to an underground storage tank shall
+install under-dispenser containment. The under-dispenser containment
+shall meet the release detection requirements of 40 Code of Federal
+Regulations section 280.42, subsection B, paragraph 1.
+
+E. The owner and operator of an underground storage tank shall use an
+underground storage tank, a new piping component, under-dispenser
+containment and any secondary containment material that is made of or
+lined with materials that are compatible with the regulated substance stored
+in or dispensed from the underground storage tank.
+  ARS 49-1009 [Effective Until ninety days after adjournment]
+  Tank performance standards (Arizona Revised Statutes (2021
+                          Edition))
+
+F. The director may adopt rules specifying design, construction, installation,
+performance and compatibility standards for underground storage tanks.
+The rules adopted pursuant to this subsection shall be consistent with and
+no more stringent than federal regulations in effect on the date on which the
+rules are adopted.
+
+G. The director may require an owner and operator of an underground
+storage tank to perform or cause to be performed a tank test to determine
+compliance with the standards established pursuant to this section.
+
+This section is set out more than once. See also A.R.S. § 49-10092, effective
+ninety days after adjournment.
+  ARS 49-1009 [Effective ninety days after adjournment] Tank
+performance standards (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1009. [Effective ninety days after adjournment] Tank
+performance standards
+
+A. A person shall not install an underground storage tank unless the
+underground storage tank meets all of the following requirements:
+
+1. It is designed to prevent releases due to corrosion or structural failure for
+the operational life of the tank.
+
+2. It is cathodically protected against corrosion, constructed of noncorrosive
+material, steel clad with a noncorrosive material or designed in a manner to
+prevent the release of a regulated substance.
+
+3. The material used in the construction or lining of the tank is compatible
+with the substance to be stored.
+
+B. A person shall not install an underground storage tank unless the
+underground storage tank meets the secondary containment performance
+standards for new underground storage tank systems prescribed in 40 Code
+of FEDERAL REGULATIONS section 280.20 as in EFFECT on January 1,
+2020 and release detection requirements for interstitial monitoring in 40
+Code of Federal Regulations section 280.43(g) as in effect on January 1,
+2020.
+
+C. A person shall not install a new piping component that is fifty percent or
+more of the total linear footage of all connected piping of the underground
+storage tank unless all connected piping of the underground storage tank
+that conveys a regulated substance under pressure is brought into
+compliance with the secondary containment performance standards for new
+underground storage tank systems prescribed in 40 Code of FEDERAL
+REGULATIONS section 280.20 as in EFFECT on January 1, 2020 and
+release detection requirements for interstitial monitoring in 40 Code of
+Federal Regulations section 280.43(g) as in effect on January 1, 2020.
+
+D. An owner or operator who installs or replaces a dispenser system that
+connects to an underground storage tank shall install under-dispenser
+containment. The under-dispenser containment shall meet the performance
+standards for new underground storage tank systems prescribed in 40 Code
+of Federal REGULATIONS section 280.20(f) as in EFFECT on January 1,
+2020.
+
+E. The owner and operator of an underground storage tank shall use an
+underground storage tank, a new piping component, under-dispenser
+containment and any secondary containment material that is made of or
+  ARS 49-1009 [Effective ninety days after adjournment] Tank
+performance standards (Arizona Revised Statutes (2021 Edition))
+
+
+lined with materials that are compatible with the regulated substance stored
+in or dispensed from the underground storage tank.
+
+F. The director may adopt rules specifying design, construction, installation,
+performance and compatibility standards for underground storage tanks.
+The rules adopted pursuant to this subsection shall be consistent with and
+not more stringent than federal regulations in effect on the date on which
+the rules are adopted.
+
+G. The director may require an owner and operator of an underground
+storage tank to perform or cause to be performed a tank test to determine
+compliance with the standards established pursuant to this section.
+
+(Amended by L. 2021, ch. 37,s. 1, eff. ninety days after adjournment.)
+
+This section is set out more than once. See also A.R.S. § 49-10091, effective
+until ninety days after adjournment.
+    ARS 49-1010 Preemption of local regulation; delegation of
+    administrative authority (Arizona Revised Statutes (2021
+                           Edition))
+
+§ 49-1010. Preemption of local regulation; delegation of
+administrative authority
+
+A. The provisions of this chapter and the rules which implement this
+chapter, as they relate to the identification, prevention and remediation of
+releases of regulated substances from underground storage tanks are of
+statewide concern and shall not be subject to further local regulation.
+
+B. The director, by intergovernmental agreement or otherwise, may delegate
+to other departments or agencies and to a city, town or county the authority
+to administer the provisions of and enforce all or any part of this chapter or
+the rules adopted pursuant to this chapter.
+    ARS 49-1011 Right to inspect records, tanks and equipment
+            (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1011. Right to inspect records, tanks and equipment
+
+A. For the purposes of developing rules, conducting studies or enforcing the
+provisions of this chapter, an owner or operator of an underground storage
+tank shall, on request of the director:
+
+1. Furnish to the department information relating to the tank and its
+associated equipment and contents.
+
+2. Permit the director to conduct monitoring and testing of tanks or
+surrounding soils, air, surface water or groundwater.
+
+3. Permit the director to inspect and copy all records relating to tanks.
+
+4. Permit the director to inspect and obtain samples of regulated substances
+contained in tanks.
+
+B. The director shall conduct all inspections permitted pursuant to
+subsection A at a reasonable time and complete these inspections with
+reasonable promptness.
+ARS 49-1012 Confidentiality of records (Arizona Revised Statutes
+                       (2021 Edition))
+
+
+§ 49-1012. Confidentiality of records
+
+A. Records or other information furnished to or obtained by the director
+concerning regulated substances are available to the public, except that any
+records and information which relate to the trade secrets, processes,
+operations, style of work or apparatus or confidential statistical data,
+amount or source of any income, profits, losses or expenditures of any
+person are only for the confidential use of the department in the
+administration of this chapter unless the owner or operator expressly agrees
+to their publication or availability to the public. This section does not
+prohibit the appropriate governmental agency from publishing quantitative
+and qualitative statistics pertaining to the storage of regulated substances.
+Notwithstanding provisions to the contrary in this section, information
+regarding the nature and quality of releases from underground storage tanks
+otherwise reportable pursuant to this chapter shall be available to the public.
+
+B. This section does not prohibit the department from providing confidential
+information to a duly authorized congressional committee or the United
+States environmental protection agency if the information is treated as
+prescribed by 40 Code of Federal Regulations part 2.
+    ARS 49-1013 Enforcement and penalties (Arizona Revised
+                   Statutes (2021 Edition))
+
+
+§ 49-1013. Enforcement and penalties
+
+A. If the director determines that a person is in violation of this chapter or
+the rules adopted pursuant to this chapter the director may issue an order
+requiring compliance within a reasonable time. A compliance order becomes
+final thirty days after the order is served unless within thirty days of service
+the person named on the order requests a hearing. A hearing shall be
+conducted pursuant to title 41, chapter 6, article 10. A compliance order that
+is the subject of a hearing as prescribed by this section becomes final and
+subject to appeal on the decision of the director to uphold the compliance
+order. Except as provided in section 41-1092.08, subsection H, the director's
+final decision may be appealed by any party to the superior court pursuant
+to title 12, chapter 7, article 6. A person becomes the subject of an
+enforcement proceeding pursuant to this chapter when a compliance order
+against that person becomes final.
+
+B. If the director issues a stop use order pursuant to section 49-1023, the
+owner or operator may request a hearing within thirty days after the
+issuance of the stop use order. A hearing shall be conducted pursuant to title
+41, chapter 6, article 10. Except as provided in section 41-1092.08,
+subsection H, the director's final decision may be appealed by the owner or
+operator to the superior court pursuant to title 12, chapter 7, article 6.
+
+C. If a person fails to comply with a final order under this section within the
+time specified in the order, the person is subject to a civil penalty of not to
+exceed twenty-five thousand dollars for each day of continued
+noncompliance.
+
+D. An owner who fails to notify or submits false information pursuant to
+section 49-1002 is subject to a civil penalty of not to exceed ten thousand
+dollars for each underground storage tank for which notification is not given
+or false information is submitted.
+
+E. An owner or operator of an underground storage tank who fails to comply
+with any of the requirements or standards of this chapter or who fails to
+comply with a stop use order is subject to a civil penalty of not to exceed ten
+thousand dollars for each underground storage tank for each day of
+violation.
+
+F. A product deliverer as defined in section 49-1023 who fails to comply with
+the requirements of section 49-1023, subsection A is subject to a civil
+penalty of not to exceed ten thousand dollars for each underground storage
+tank for each violation.
+    ARS 49-1013 Enforcement and penalties (Arizona Revised
+                   Statutes (2021 Edition))
+
+
+G. The penalties provided for in this section shall not be cumulated with any
+penalties sought and obtained by the department or the United States
+pursuant to title VI of the hazardous and solid waste amendments of 1984 (
+P.L. 98-616; 98 Stat. 3221).
+
+H. The director may file an action in the superior court to enforce this
+chapter and to collect penalties for violations of this chapter. The director
+may seek all appropriate relief including temporary and permanent
+injunctions.
+
+I. All monies collected under the penalty provisions of this section shall be
+deposited in the state general fund.
+ARS 49-1014 Rules; policies; guidelines (Arizona Revised Statutes
+                        (2021 Edition))
+
+
+§ 49-1014. Rules; policies; guidelines
+
+A. The director shall adopt rules pursuant to title 41, chapter 6 necessary to
+provide procedures for the administration of this chapter and to cause the
+program for the regulation of underground storage tanks established by this
+chapter to be approved by the administrator of the environmental protection
+agency pursuant to 42 United States Code section 6991c.
+
+B. The director may establish policies and guidelines for the administration
+of this chapter, subject to the following:
+
+1. If a substantive policy statement as defined in section 41-1001 or a
+guideline is issued by the director, the director shall provide written notice
+to persons regulated by this chapter before the effective date of a policy or
+guideline that affects the substantive rights of owners and operators or other
+parties regulated under the underground storage tank program. The written
+notice shall set forth the effective date of the policy or guideline. The policy
+or guideline shall not be retroactive or applied retroactively except as
+specifically authorized by law or by the agreement of the department and the
+person who is regulated by this chapter.
+
+2. The department shall not base a determination of compliance with the
+requirements of this chapter in whole or in part on a policy or guideline that
+is not specifically authorized by statute or rule.
+   ARS 49-1015 Underground storage tank revolving fund; use;
+       purpose (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1015. Underground storage tank revolving fund; use;
+purpose
+
+A. The underground storage tank revolving fund is established and shall be
+administered by the director. Monies in the fund are exempt from lapsing
+under section 35-190.
+
+B. The fund consists of monies appropriated by the legislature, underground
+storage tank tax revenues collected and distributed pursuant to section 49-
+1036, monies obtained from the fees imposed by this chapter and the rules
+adopted under this chapter and monies reimbursed to the fund by the
+department. On notice from the director, the state treasurer shall invest and
+divest monies in the fund as provided by section 35-313, and monies earned
+from investment shall be credited to the fund.
+
+C. Monies from the fund may be used for the following:
+
+1. To provide state matching monies and to meet other obligations as
+prescribed by section 9003(h)(7)(B) of the solid waste disposal act (42
+United States Code section 6991 b (h )(7)(b)).
+
+2. For all the reasonable and necessary costs incurred in taking corrective
+actions pursuant to section 49-1017 and noncorrective actions pursuant to
+section 49-1017.02.
+
+3. For the costs of recovering the expenses of corrective actions pursuant to
+section 49-1017 and noncorrective actions pursuant to section 49-1017.02.
+
+4. To provide reimbursement for eligible costs.
+
+5. For the costs incurred in administering the regulatory requirements of
+this chapter.
+
+6. To reimburse the department for the reasonable and necessary costs
+incurred by the department in administering the corrective action
+requirements of this chapter.
+
+7. To reimburse the department for the reasonable and necessary costs
+incurred by the department in administering underground storage tank
+grant programs.
+
+8. To reimburse the department for the reasonable and necessary costs
+incurred by the department in administering the fund. The department may
+not pay from the fund any costs, payments or other expenses that result
+from a contract awarded pursuant to this section unless the contract
+   ARS 49-1015 Underground storage tank revolving fund; use;
+       purpose (Arizona Revised Statutes (2021 Edition))
+
+
+includes performance standards and contractual penalties for
+nonperformance or inadequate performance under the contract.
+
+D. The director shall reimburse the fund for any corrective action costs or
+noncorrective action costs that are paid out of the fund and that are
+subsequently recovered by the department.
+
+E. Monies in the fund may not be used to implement the water quality
+assurance revolving fund program pursuant to chapter 2, article 5 of this
+title.
+
+(Amended by L. 2016, ch. 120,s. 2, eff. 8/5/2016. Added by L. 2015, ch.
+247,s. 5, eff. 7/2/2015.)
+   ARS 49-1015.01 [Repealed] (Arizona Revised Statutes (2021
+                          Edition))
+
+
+§ 49-1015.01. [Repealed]
+
+(Repealed by L. 2015, ch. 247,s. 4, eff. 7/2/2015. Amended by L. 2013, ch.
+244,s. 1, eff. 9/13/2013.)
+ ARS 49-1016 Responsibilities of owners and operators (Arizona
+               Revised Statutes (2021 Edition))
+
+
+§ 49-1016. Responsibilities of owners and operators
+
+A. Unless specifically indicated otherwise, the responsibilities of this chapter
+are imposed on the owner and the operator of an underground storage tank.
+If the owner and operator of an underground storage tank are separate
+persons, only one person is required to discharge any specific responsibility.
+Both persons are liable in the event of noncompliance.
+
+B. The liabilities and responsibilities for releases of regulated substances
+imposed pursuant to this chapter shall apply even if the conduct that
+resulted in the release or the release itself occurred before August 13, 1986.
+
+C. If a person comes into the possession or control of property where an
+underground storage tank is located and the person is not the owner as
+defined in section 49-1001.01, the person shall:
+
+1. Notify the department in writing specifying the tank's location, size and
+use, if known, if the owner has failed to do so.
+
+2. Notify the department of each release or suspected release from the tank
+as soon as practicable if the owner or operator has failed to do so.
+
+3. If the person voluntarily undertakes to remove or otherwise close the
+tank, do so in a safe and secure manner which prevents releases of regulated
+substances and in accordance with standards prescribed by the director
+pursuant to section 49-1008, except for the requirement to perform
+corrective action.
+
+4. If the person voluntarily undertakes corrective action, take corrective
+action in a manner consistent with federal regulations and rules adopted by
+the director pursuant to section 49-1005.
+
+D. A person acting under subsection C of this section shall not incur the
+liability of an owner.
+
+E. No agreement or conveyance shall be effective to transfer the obligations
+imposed by this chapter from the owner or operator of any underground
+storage tank, or from any person who may be liable for a release or threat of
+release under this chapter, to any other person. Nothing in this section shall
+bar any agreement to insure, hold harmless, or indemnify a party to such
+agreement for any liability under this chapter nor shall it bar a cause of
+action that an owner or operator or any other person has or would have
+against any person.
+
+F. In any action brought by the department under section 49-1013, the state
+bears the burden of establishing that an owner or operator has violated the
+ ARS 49-1016 Responsibilities of owners and operators (Arizona
+               Revised Statutes (2021 Edition))
+
+
+requirements of this chapter. An owner or operator is responsible for only
+the owner's or operator's contribution to any contamination that creates
+liability under this chapter. No party bears the burden of proving any
+person's contribution to the contamination in any informal or formal appeal
+pursuant to section 49-1017, subsection D, section 49-1019, subsection D or
+section 49-1091.
+
+G. If there is prima facie evidence that other identified or unidentified
+persons not at the owner's or operator's facility have contributed to the
+contamination, the owner or operator shall be responsible to take corrective
+action only to the extent, by area, of the owner's or operator's release. The
+owner or operator shall not be required to identify or to prove the
+contribution of any contributing persons in order to limit the owner's or
+operator's own liability, but the owner or operator shall provide to the
+department any information the owner or operator knows regarding the
+identity or contribution of any other contributing persons. If the owner or
+operator does not disclose the information prior to the owner's or operator's
+formal appeal of a decision by the department, upon the department's
+request, the administrative hearing shall be continued for no more than
+thirty days from the scheduled hearing date. If who contributed to the
+contamination cannot be determined by a preponderance of evidence, or if
+an allocation for some or all of the contamination cannot be established by a
+preponderance of evidence, the liability that is not established to be the
+owner's or operator's by a preponderance of the evidence shall not be
+allocated to the owner or operator.
+
+H. The department may issue a written interim decision or determination
+compelling owners and operators to allocate liability in accordance with
+section 49-1019, subsection D if either of the following conditions are met:
+
+1. The owners and operators agree that no other owners or operators are
+liable for the contamination.
+
+2. The contamination is from a single underground storage tank facility.
+   ARS 49-1017 Powers of director; corrective actions (Arizona
+                Revised Statutes (2021 Edition))
+
+
+§ 49-1017. Powers of director; corrective actions
+
+A. The director may take corrective action with respect to a release of a
+regulated substance that is petroleum into the environment from an
+underground storage tank if the director determines that action is necessary
+to protect human health, safety or the environment and any of the following
+conditions exist:
+
+1. The department cannot locate, within ninety days or a shorter period
+necessary to protect human health or the environment, a person who is all of
+the following:
+
+(a) An owner or operator of the tank concerned.
+
+(b) Subject to the corrective action requirements of section 49-1005.
+
+(c) Financially or technically capable of properly carrying out the corrective
+action required by section 49-1005. If the owner or operator and the
+department jointly determine that the owner or operator is not financially or
+technically able to carry out the corrective action , the department and the
+owner may enter into a contract under which the department acts as
+manager of the corrective action on behalf of the owner or operator. The
+existence of a management contract with the department does not relieve
+the owner of any liability for costs that are not payable by the department
+under this chapter .
+
+2. Corrective action costs at a facility exceed the amount of coverage
+required by section 49-1006 and expenditures from the underground
+storage tank revolving fund are necessary to ensure effective corrective
+action.
+
+B. In determining whether to take a corrective action pursuant to subsection
+A of this section, the director shall consider and make written findings
+regarding all of the following factors:
+
+1. The physical and chemical characteristics of the type of petroleum
+released, including its toxicity, persistence and potential for migration.
+
+2. The hydrogeologic characteristics of the site where the underground
+storage tank is located and the surrounding area.
+
+3. The proximity, quality and current and future uses of nearby surface
+water and groundwater.
+
+4. The potential effects of residual contamination on nearby surface water
+and groundwater.
+   ARS 49-1017 Powers of director; corrective actions (Arizona
+                Revised Statutes (2021 Edition))
+
+
+5. The degree of exposure.
+
+6. The need for financial assistance.
+
+C. If direct costs are incurred by the director for undertaking corrective
+action with respect to a release of a regulated substance that is petroleum,
+the owner and operator are liable to this state for these direct costs. Liability
+imposed pursuant to this subsection is strict. For the purposes of this
+subsection, "direct costs" means the cost of the corrective actions,
+investigations, enforcement and litigation except for those amounts that are
+not allocated to the owner or operator pursuant to subsection d of this
+section .
+
+D. If there is more than one responsible person, liability under this section
+shall be equitably allocated on a case-by-case basis according to section 49-
+1016, subsection F, and using the following factors as those factors are
+appropriate under the circumstances:
+
+1. The duration and percentage of ownership or operation of the
+underground storage tank during a release of regulated substances from the
+tank.
+
+2. The amount and nature of the regulated substances released.
+
+3. The degree of care exercised by each person with respect to the regulated
+substances released.
+
+4. The ability to distinguish between the respective releases of more than
+one responsible person.
+
+5. Other factors that are appropriate under the circumstances.
+
+E. The allocation of liability under this section shall be promptly determined
+by one or more mediators who shall be selected by the responsible persons
+within sixty days after the responsible persons are identified by the director.
+The director may select a mediator and convene a mediation on the failure of
+the responsible persons to select one or more mediators. The mediator shall
+not have a conflict of interest with the responsible persons. A mediation
+convened by the director shall be held within sixty days after the mediator
+being selected. The director shall provide notice to the responsible persons
+of the time and place for the mediation and the name of the mediator or
+mediators. This notice shall be provided at least forty-five days prior to the
+date scheduled for mediation. Costs of mediation shall be eligible for
+payment and shall be allocated to participants in the mediation in the same
+proportion as the costs of corrective action. Nothing in this section shall
+excuse the obligations of an owner or operator to take timely and adequate
+   ARS 49-1017 Powers of director; corrective actions (Arizona
+                Revised Statutes (2021 Edition))
+
+
+action in response to a release of regulated substances as required in this
+chapter. Nothing in this section shall diminish the right of any person to
+bring an action against any other person as provided in section 49-1019 for
+contribution or reimbursement for the reasonable costs of corrective action
+that person has been allocated pursuant to this section.
+
+F. The director may take a corrective action with respect to a release of a
+regulated substance that is not petroleum only as a remedial action subject
+to chapter 2, article 5 of this title, and the rules adopted pursuant to that
+article. If the director takes a corrective action for the release of a regulated
+substance that is not petroleum, all of the rights, duties and responsibilities
+of a person associated with the release shall be determined pursuant to that
+article.
+
+G. An owner, operator or other person that meets the requirements of
+section 49-1016, subsection C may request that the department conduct
+corrective action under this section. Subject to the availability of monies
+allocated and the priority assigned to the site pursuant to subsection B of
+this section, the department may conduct the corrective action.
+
+H. A request for corrective action pursuant to subsection G of this section
+shall be on a form provided by the department and shall contain sufficient
+information related to the site and the factors prescribed in subsection B of
+this section to allow the director to make a determination of priority for that
+request.
+
+(Amended by L. 2015, ch. 247,s. 6, eff. 7/2/2015.)
+  ARS 49-1017.01 Settlement authority; participation; financial
+information; process; payment; notice (Arizona Revised Statutes
+                        (2021 Edition))
+
+§ 49-1017.01. Settlement authority; participation; financial
+information; process; payment; notice
+
+A. The director shall consider any offer by an owner or operator who is
+potentially liable for direct costs incurred by the director pursuant to section
+49-1017, subsection C, without regard to the extent of that owner's or
+operator's liability, if the owner or operator is unable to pay for the direct
+costs. An owner or operator whose liability for direct costs arose from a
+criminal act is not eligible to enter into a settlement agreement pursuant to
+this section. An owner's or operator's decision to enter into a settlement
+agreement pursuant to this section is not an admission in a judicial
+proceeding as to the fact or extent of that owner's or operator's liability with
+respect to releases or threatened releases that are covered by the settlement.
+An owner or operator who is a party to a settlement pursuant to this section
+is not required to participate in allocation proceedings pursuant to section
+49-1017, subsections D and E. Any settlement approved by the department
+does not release the owner or operator from any responsibility or duty
+imposed pursuant to this chapter other than liability for direct costs
+incurred pursuant to section 49-1017, subsection C.
+
+B. Any settlement approved by the department does not increase the liability
+of any other owner or operator pursuant to this chapter and does not create
+any liability for the department or this state.
+
+C. The director shall consider all of the following factors in considering an
+owner's or operator's ability to pay for the direct costs:
+
+1. The financial resources of the owner or operator, including available
+financial assurance mechanisms other than the underground storage tank
+revolving fund .
+
+2. The amount of coverage available to the owner or operator from the
+underground storage tank revolving fund for the direct costs. As a condition
+of settlement, the owner or operator shall apply to the underground storage
+tank revolving fund and any applicable grant program for coverage of the
+direct costs before requesting settlement pursuant to this section.
+
+3. The owner's or operator's ability to continue in business after payment of
+the owner's or operator's liability for direct costs as defined in section 49-
+1017, subsection C.
+
+4. Whether payment of the owner's or operator's liability for direct costs as
+defined in section 49-1017, subsection C would require the owner or
+operator to seek protection under the federal bankruptcy law or render the
+owner or operator insolvent.
+  ARS 49-1017.01 Settlement authority; participation; financial
+information; process; payment; notice (Arizona Revised Statutes
+                        (2021 Edition))
+
+5. The financial resources of all concerns in which the owner or operator
+maintains ownership, control or management.
+
+D. An owner or operator seeking settlement pursuant to subsection A of this
+section shall submit a letter requesting a financial hardship settlement and
+shall include the owner's or operator's tax returns and all schedules,
+financial statements, balance statements and other information concerning
+the owner's or operator's gross income and net worth for the five years
+immediately preceding the date of the application. Within ninety days after
+the receipt of the application, the director may require additional
+information to verify the owner's or operator's eligibility for settlement
+pursuant to subsection A of this section. The owner or operator may provide
+any additional information the owner or operator believes to be relevant to
+the application. The director shall keep confidential any financial
+information submitted by the owner or operator pursuant to this subsection.
+If the director or the attorney general disputes a claim of confidentiality, the
+director or the attorney general shall provide written notice that the claim is
+disputed to the owner or operator claiming the confidentiality. The
+information shall be made available to the public if the owner or operator
+claiming confidentiality does not file an action for declaratory relief in
+superior court within thirty days after receiving the notice.
+
+E. The owner or operator shall cooperate with the director in providing
+reasonable access and information for the director to carry out the
+requirements of this section as a condition of the settlement.
+
+F. If the director verifies that the owner or operator is unable to pay the
+direct costs incurred by the director pursuant to section 49-1017, subsection
+C, the director shall enter into a settlement within ninety days after receipt
+of the application and any other information required pursuant to this
+section. The director shall allow the settlement amount to be paid over a
+period of time that does not exceed ten years. Settlement payments over a
+period of time are subject to the payment of interest at the rate of six percent
+a year, except that payments are not subject to interest if the entire
+settlement amount is paid within five years. The owner or operator may file
+a petition with the director to modify the payment schedule on a showing of
+good cause that the payment schedule cannot be met.
+
+G. The director may require that notice of the terms of the settlement
+agreement be provided to the public to allow for comment for a period of
+thirty days before the department enters into a settlement agreement. Any
+interested person may comment on the settlement agreement in writing to
+the director. The director may withdraw from a settlement agreement after
+considering the comments.
+  ARS 49-1017.01 Settlement authority; participation; financial
+information; process; payment; notice (Arizona Revised Statutes
+                        (2021 Edition))
+
+H. If the director determines that the owner or operator does not qualify for
+a settlement pursuant to this section, the director shall notify the owner or
+operator in writing within ninety days after the receipt of all information
+required pursuant to this section stating the reasons for ineligibility. The
+application for settlement is deemed denied if the director does not notify
+the owner or operator within ninety days after the director's receipt of all
+applicable information. A denial of a settlement application under this
+subsection constitutes an appealable agency action as defined in section 41-
+1092. In any administrative appeal hearing conducted pursuant to title 41,
+chapter 6, article 10, the documents submitted by the owner or operator
+pursuant to this section are not confidential. Any appeal is limited to the
+owner's or operator's eligibility for a financial hardship settlement pursuant
+to this section and the owner's or operator's ability to pay the direct costs
+incurred by the director pursuant to section 49-1017, subsection C.
+
+(Amended by L. 2015, ch. 247,s. 7, eff. 7/2/2015.)
+  ARS 49-1017.02 Powers of the director; noncorrective actions
+           (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1017.02. Powers of the director; noncorrective actions
+
+A. Subject to the availability of monies in the underground storage tank
+revolving fund that are allocated by the director, an owner, an operator or
+another person that meets the requirements of section 49-1016, subsection C
+may request that the department conduct one or more of the following
+noncorrective actions at a site:
+
+1. Obtaining a baseline assessment of a tank or site as prescribed in section
+49-1052.
+
+2. Confirmation of a suspected release at a tank or site.
+
+3. Permanent closure of an underground storage tank as prescribed by
+section 49-1008.
+
+B. In determining the priority for requests under subsection A of this
+section, the director may consider the following factors:
+
+1. The age, construction and operational history of the underground storage
+tank at the site.
+
+2. The hydrogeologic characteristics of the site where the underground
+storage tank is located and the surrounding area.
+
+3. The proximity, quality and current and future uses of nearby surface
+water and groundwater.
+
+4. The potential effects of residual contamination to nearby surface water
+and groundwater.
+
+5. The degree of exposure, including the physical and chemical
+characteristics of the type of petroleum sold or suspected to have been
+released, including its toxicity, persistence and potential for migration.
+
+6. The financial ability of the person to conduct the action with the person's
+own monies.
+
+C. A request for a noncorrective action under this section shall be on a form
+provided by the department and shall contain sufficient information related
+to the site and the factors prescribed in subsection b of this section to allow
+the director to make a determination of priority for that request.
+
+(Added by L. 2015, ch. 247,s. 8, eff. 7/2/2015.)
+ ARS 49-1018 Corrective action; enforcement; priority (Arizona
+               Revised Statutes (2021 Edition))
+
+
+§ 49-1018. Corrective action; enforcement; priority
+
+The director shall give priority in undertaking state-led corrective actions
+pursuant to section 49-1017 to releases of regulated substances from
+underground storage tanks that pose the greatest threat to human health
+and the environment and shall consider the degree to which financial
+assistance from the department is necessary to ensure that corrective actions
+will be conducted .
+
+(Amended by L. 2015, ch. 247,s. 9, eff. 7/2/2015.)
+  ARS 49-1019 Release of regulated substance; causes of action;
+  limitation; liability (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1019. Release of regulated substance; causes of action;
+limitation; liability
+
+A. Any one of the following persons may bring an action in superior court
+against a person who caused or contributed to the release of a regulated
+substance from an underground storage tank to require that person to
+reimburse one of the following persons for the reasonable costs of corrective
+actions taken in response to the release:
+
+1. An owner or operator of an underground storage tank or any other person
+who takes a corrective action pursuant to section 49-1005.
+
+2. An owner or operator of an underground storage tank or any other person
+from whom costs are recovered by this state pursuant to this chapter .
+
+B. The person seeking reimbursement has the burden of demonstrating that
+the corrective action costs incurred were reasonable.
+
+C. This article does not affect or modify the obligations or liability of a
+person, by reason of subrogation or otherwise, under any other provision of
+common law, federal law or the laws of this state, for damages, injury or loss
+resulting from a release of a regulated substance or for the costs of a
+corrective action, except that a person who receives compensation for the
+costs of a corrective action pursuant to this article is precluded from
+recovering compensation for the same corrective action costs pursuant to
+any other federal law or the laws of this state. A person who receives
+compensation for corrective action costs pursuant to federal law or the laws
+of this state is precluded from receiving compensation for the same
+corrective action costs as provided in this article.
+
+D. Liability under this section shall be equitably allocated on a case-by-case
+basis in accordance with section 49-1017, subsection D. Any party
+authorized to bring an action pursuant to subsection A of this section and
+any party against whom an action is brought may have liability allocated
+through mediation in accordance with section 49-1017, subsection D or
+through the informal appeal process in accordance with section 49-1091.
+
+E. The department may take corrective action for a release and recover
+direct costs pursuant to section 49-1017 in proportion to the allocation made
+pursuant to subsection D of this section if an owner or an operator does not
+perform all necessary corrective actions and there is no other person to
+perform corrective actions pursuant to section 49-1016, subsection C .
+
+(Amended by L. 2015, ch. 247,s. 10, eff. 7/2/2015.)
+   ARS 49-1020 Fees (Arizona Revised Statutes (2021 Edition))
+
+
+
+§ 49-1020. Fees
+
+Each owner and operator of an underground storage tank that is subject to
+regulation under this chapter shall pay annually to the department a fee of
+one hundred dollars for each tank. An owner or operator who sold or
+relinquished legal, equitable or possessory interest in the property on or
+before January 1, 1990 shall not be responsible to pay the fee prescribed by
+this section. The director, with the approval of the attorney general, may
+abate fee balances if the administration costs exceed the amount of the fees
+due. The fees collected under this section shall be deposited, pursuant to
+sections 35-146 and 35-147, in the underground storage tank revolving fund
+established by section 49-1015. The director shall adopt rules to provide for
+the orderly imposition and collection of the fees imposed by this section.
+
+(Amended by L. 2015, ch. 247,s. 11, eff. 7/2/2015.)
+    ARS 49-1021 Applicability (Arizona Revised Statutes (2021
+                            Edition))
+
+
+§ 49-1021. Applicability
+
+Until rules adopted pursuant to this chapter are in effect, this chapter shall
+apply only to the extent described by 40 Code of Federal Regulations section
+280.10 and the energy policy act. Rules adopted pursuant to this chapter
+shall apply only to underground storage tanks not excluded or deferred by
+the federal regulations in effect on the date on which the rules are adopted.
+       ARS 49-1022 Regulated substance migration off site;
+     responsibility; corrective action; notice; appeal; coverage
+            (Arizona Revised Statutes (2021 Edition))
+
+§ 49-1022. Regulated substance migration off site; responsibility;
+corrective action; notice; appeal; coverage
+
+A. The director may undertake corrective action in response to a release
+from an underground storage tank that migrates on or under a person's
+property as the result of an occurrence at another property or that the
+department determines is likely to migrate on or under a person's property,
+if all of the following occur:
+
+1. The person has authority to allow access to the property so that corrective
+action may be taken on the person's property.
+
+2. The owner or operator of the underground storage tank that is the source
+of the release makes a written request that the department attempt to obtain
+access to the property. As part of the written request, the owner or operator
+shall demonstrate to the department the following before the department
+attempts to obtain access to the property:
+
+(a) The owner or operator has sent and the person has received at least two
+written requests to allow the owner or operator to have access to the
+property at reasonable times and under reasonable conditions.
+
+(b) The owner or operator has made an offer of reasonable compensation to
+the person.
+
+(c) Contamination is likely to spread or increase in severity if access to the
+property is not obtained.
+
+3. The person has received a written request from the department to have
+access to the property, at reasonable times and under reasonable conditions
+in a manner that does not constitute a taking as provided by law, to take
+corrective action with respect to only the release that has migrated on that
+person's property.
+
+4. The person has refused to allow the owner or operator or the department
+to have access to the property or does not respond to the department within
+sixty days after receiving the request for access.
+
+B. The department shall issue a notice describing the proposed corrective
+action to the owner or operator and the person on whose property the
+department will undertake corrective action if it elects to undertake
+corrective action pursuant to subsection A of this section. The owner or
+operator or the person on whose property the department undertakes
+corrective action may appeal pursuant to title 41, chapter 6, article 10, within
+thirty days after the notice or within thirty days after the performance of the
+corrective action. If, after an appeal, it is determined that the department
+       ARS 49-1022 Regulated substance migration off site;
+     responsibility; corrective action; notice; appeal; coverage
+            (Arizona Revised Statutes (2021 Edition))
+
+failed to return the property to substantially the same condition the property
+was in before being accessed, the person on whose property the department
+undertakes the corrective action may be eligible for payment from the
+underground storage tank revolving fund only to the extent the department
+failed to return the property to substantially the same condition the property
+was in before being accessed.
+
+C. The owner or operator shall reimburse the department for any costs paid
+from the underground storage tank revolving fund pursuant to this section.
+
+D. The department shall promptly provide to a person whose property is
+accessed under this section a copy of the results of any analysis of the soil or
+groundwater relating to the accessed property arising from the department's
+access or corrective action undertaken at the property. The department shall
+not sue the person for any secondary contamination created by the access or
+corrective action.
+
+E. If a release of a regulated substance has migrated on or under a person's
+property, the department shall relieve the owner or operator of the
+underground storage tank from responsibility from performing corrective
+action at the property where the release has migrated or where the
+department has determined it is likely to have migrated, if the owner or
+operator is unable to gain access to the property after complying with
+subsection A, paragraph 2, subdivisions (a) and (b) of this section. Nothing
+in this section relieves the owner or operator from liability for completing
+the requirements of section 49-1005 relating to the owner's or operator's
+property or any other property to which the contamination may have
+migrated. The department may require that the owner or operator
+investigate any other properties potentially impacted by the release in order
+to complete the requirements of section 49-1005.
+
+(Amended by L. 2015, ch. 247,s. 12, eff. 7/2/2015.)
+    ARS 49-1023 Delivery prohibition; stop use tag; definitions
+            (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1023. Delivery prohibition; stop use tag; definitions
+
+A. A product deliverer shall not deliver, deposit or place a regulated
+substance into an underground storage tank that has a stop use tag from the
+director affixed to a fill pipe of the underground storage tank pursuant to
+subsection B of this section.
+
+B. The director may issue a stop use order to the owner and operator of the
+underground storage tank and affix a stop use tag that is easily visible to the
+product deliverer on all fill pipes of the underground storage tank to stop
+operation of the underground storage tank if either of the following exists :
+
+1. The director has determined that the underground storage tank is in
+violation of section 49-1003 or 49-1009 or the rules adopted pursuant to
+those sections, as applicable , and the continued operation of the
+underground storage tank may result in a continued release or new release
+from the underground storage tank.
+
+2. The director has determined that the underground storage tank is in
+violation of section 49-1006, 49-1020 or 49-1031 or the rules adopted
+pursuant to those sections , after providing the owner and operator with
+thirty days' notice and an opportunity to demonstrate compliance.
+
+C. A stop use order becomes effective immediately on issuance and suspends
+use of the underground storage tank.
+
+D. The owner and operator of an underground storage tank that has received
+a stop use tag pursuant to subsection B of this section shall ensure that no
+person removes or tampers with the stop use tag until the requirements for
+return of the underground storage tank to operation pursuant to subsection
+E of this section are met, and shall immediately empty the underground
+storage tank and comply with the remaining temporary closure
+requirements adopted under section 49-1008.
+
+E. An owner or operator shall not bring an underground storage tank that
+has received a stop use tag pursuant to subsection B of this section back into
+operation until the owner or operator has demonstrated to the director that
+the underground storage tank meets the requirements of sections 49-1003,
+49-1006 and 49-1009 and the rules adopted pursuant to those sections, as
+applicable, and the owner or operator has received written confirmation
+from the director that the requirements of sections 49-1003, 49-1006, 49-
+1009 , 49-1020 and 49-1031 and the rules adopted pursuant to those
+sections, as applicable, have been met. The director shall provide written
+confirmation as soon as practicable, but not later than five business days, to
+the owner or operator that the requirements of sections 49-1003, 49-1006,
+    ARS 49-1023 Delivery prohibition; stop use tag; definitions
+            (Arizona Revised Statutes (2021 Edition))
+
+
+49-1009 , 49-1020 and 49-1031 and the rules adopted pursuant to those
+sections have been met.
+
+F. On issuance of a stop use order, the director shall notify product
+deliverers by posting on the department's website the name and location of a
+facility with an underground storage tank that has a stop use tag. The notice
+shall also specify which underground storage tank at the facility has a stop
+use tag.
+
+G. The director shall remove the stop use notice from the department's
+website within five business days after determining that the requirements of
+subsection E of this section have been met.
+
+H. The director may adopt rules to implement this section.
+
+I. For the purposes of this section:
+
+1. "Product deliverer" means a person, including an owner, operator or oil
+company, or a distributor as defined in section 28-5601, a supplier as
+defined in section 28-5601, a petroleum transportation company and any
+other entity that delivers, deposits or places a regulated substance into an
+underground storage tank.
+
+2. "Stop use tag" means a tag, device or mechanism that is prescribed by the
+director, that is designed to be affixed to a fill pipe of an underground
+storage tank and that clearly states and conveys that it is unlawful to deliver,
+deposit or place a regulated substance into the underground storage tank to
+which it is affixed.
+
+(Amended by L. 2015, ch. 247,s. 13, eff. 7/2/2015. Amended by L. 2014, ch.
+14,s. 3, eff. 7/24/2014.)
+ ARS 49-1024 Report; underground storage tank revolving fund
+      program (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1024. Report; underground storage tank revolving fund
+program
+
+The department shall compile a report on the underground storage tank
+revolving fund program on or before December 31, 2017, and on or before
+December 31 every three years thereafter. The department shall submit the
+report to the governor, the president of the senate and the speaker of the
+house of representatives and provide a copy of each report to the secretary of
+state. The department shall post each report on an accessible, public
+webpage on the department's website. The report shall contain the
+department's findings and shall include the following information:
+
+1. Underground storage tank revolving fund financial information, including
+revenues, expenditures and current account balances.
+
+2. The amount of any remaining unpaid time-barred claims.
+
+3. A description of the work completed for each program grant component.
+
+4. The amount of reimbursements made annually from the fund.
+
+5. A listing of new releases reported and sites closed, a listing of liabilities
+owed to small owners and other owners and projected liabilities for the fund
+through the termination of the program.
+
+6. A description of any state-led corrective actions, including the number of
+new sites, the number of new releases reported, the number of sites closed,
+the average cost of corrective action and projected liabilities for state-led
+corrective actions through the termination of the program.
+
+7. The total number of open releases that are cleaned to closure, the
+remaining number of open releases, the number of application or
+reimbursement denials by the department and the number of preapproval
+appeals.
+
+(Added by L. 2015, ch. 247,s. 14, eff. 7/2/2015.)
+  ARS 49-1031 [Repealed Effective12/31/2023] Imposition of tax
+           (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1031. [Repealed Effective12/31/2023] Imposition of tax
+
+A. From and after July 1, 1990, there is imposed and the director shall
+collect an excise tax on the operation of underground storage tanks
+regulated under this chapter measured by the quantity of regulated
+substances placed in a tank in any calendar year. The tax is levied at the rate
+of one cent per gallon of regulated substance.
+
+B. For proper administration of this article, and to prevent the evasion of the
+tax imposed by this article, it shall be presumed until the contrary is
+established by competent proof under rules and procedures adopted by the
+director that all regulated substances that are motor vehicle fuel as defined
+in section 28-101, aviation fuel as defined in section 28-101 and diesel as
+defined in section 28-6001, subsection B and that are refined,
+manufactured, produced, compounded or blended in this state, or imported
+into this state, will be placed in an underground storage tank from which the
+fuel is dispensed to users who consume the fuel and do not further distribute
+it. Under this presumption, the owner and operator of an underground
+storage tank from which motor vehicle fuel, aviation fuel or diesel is
+dispensed and from which no further bulk distribution will be made, shall be
+considered to have paid the tax collected under title 28, chapter 16, article 6.
+
+C. The tax imposed by this article does not apply to underground storage
+tanks operated by the United States or this state or agencies of the United
+States or this state or to any of the following substances placed in
+underground storage tanks:
+
+1. Naphtha-type jet fuel or kerosene-type jet fuel.
+
+2. Regulated substances as defined in section 49-1001, paragraph 16,
+subdivision (b), unless such regulated substances were placed in an
+underground storage tank prior to July 1, 1997, and the owner or operator of
+the underground storage tank has paid prior to July 1, 1997 all taxes
+imposed by this article applicable to such regulated substances. If the owner
+or operator has paid those taxes, the owner or operator may elect to
+continue to pay the tax imposed by this article regarding such regulated
+substances.
+
+D. The owner and operator of an underground storage tank regulated under
+this chapter are jointly and severally liable for the tax, but the owner and
+operator may agree between themselves and file a notarized affidavit with
+the director designating either the owner or operator as primarily
+responsible for the tax under this article.
+  ARS 49-1031 [Repealed Effective12/31/2023] Imposition of tax
+           (Arizona Revised Statutes (2021 Edition))
+
+
+E. Any person who purchases motor vehicle fuel as defined in section 28-
+101, aviation fuel as defined in section 28-101, or diesel as defined in section
+28-6001, subsection B for which the tax imposed by this section has been
+paid and which fuel has been placed in a tank which is not subject to the
+underground storage tank tax imposed by this section and from which no
+further bulk distribution of the fuel will be made, may claim a refund of the
+tax levied. Refunds shall be submitted on forms prescribed by the director
+and shall be supported by substantiation for the amount of the tax paid.
+
+F. Any person eligible to claim a refund of the tax imposed by this section,
+including an assignee of a refund claim, may assign such claim to the person
+from whom the fuel was purchased, and the assignee of the claim may claim
+the refund allowed under subsection E of this section provided that the
+assignor of the claim certifies in writing to the assignee, on forms prescribed
+by the director, that the assignor relinquishes all interest in the refund and
+shall not also claim a refund from the director.
+
+G. If a refund claim is assigned to a person who is required to make
+payments under title 28, chapter 16, article 6, the refund shall be taken into
+account in the manner provided in section 28-6005.
+
+H. The director shall adopt temporary and permanent rules for
+administering the tax imposed by this article and specifying the forms of the
+return and of the certification provided for in sections 28-6003 and 28-
+6004. The temporary and permanent rules shall prescribe the forms for and
+manner in which refunds may be claimed and refund claims assigned
+pursuant to subsection F of this section, shall specify the circumstances in
+which fuel may be excluded from the quantity of fuel used to measure the
+tax pursuant to title 28, chapter 16, article 6, and shall prescribe the forms
+for and manner which the certification provided in title 28, chapter 16,
+article 6 shall be made.
+
+I. Title 41, chapter 6 shall not apply to the temporary rules adopted pursuant
+to this section. The temporary rules shall be filed with the secretary of state
+and shall be effective for a period of one hundred eighty days after the date
+of filing with the secretary of state. The temporary rules may be renewed
+twice in the same manner as they were adopted, may be amended at the
+time or times they are renewed, and shall be effective for a period of one
+hundred eighty days after the date the renewed temporary rules are filed
+with the secretary of state.
+
+J. The permanent rules adopted pursuant to this section shall be adopted as
+provided in title 41, chapter 6.
+  ARS 49-1031 [Repealed Effective12/31/2023] Imposition of tax
+           (Arizona Revised Statutes (2021 Edition))
+
+
+(Amended by L. 2015, ch. 247,s. 15, eff. 7/2/2015. Repealed by L. 2015, ch.
+247,s. 22, eff. 12/31/2023.)
+   ARS 49-1032 [Conditionally repealed - see note] Return and
+    payment of tax; due date (Arizona Revised Statutes (2021
+                           Edition))
+
+§ 49-1032. [Conditionally repealed - see note] Return and
+payment of tax; due date
+
+A. The tax levied under this article is due and payable annually on or before
+March 31 for the preceding calendar year and is delinquent if not
+postmarked on or before that date or if not received by the department on or
+before March 31 for taxpayers electing to file in person.
+
+B. At the time the tax is paid the taxpayer shall prepare and file with the tax
+a return, on a form prescribed by the director, showing the amount of tax for
+which he is liable for the period covered by the return. The return shall
+contain either a sworn statement or a certification, under penalty of perjury,
+that the information contained in the return is true, complete and correct
+according to the best belief and knowledge of the owner or operator filing
+the report.
+
+(Repealed effective on the earlier of the following: 1. Receipt of sixty million
+dollars into the regulated substance fund established by section 49-1015.01,
+Arizona Revised Statutes, as added by this act, after payment and
+extinguishment of all claims that were timely submitted and transfer of
+monies as prescribed by section 8, paragraph 2 of this act. 2. Receipt of sixty
+million dollars into the regulated substance fund established by section 49-
+1015.01, Arizona Revised Statutes, as added by this act, from monies
+transferred pursuant to this paragraph. If the regulated substance fund does
+not receive sixty million dollars pursuant to paragraph 1 of this section, the
+director of environmental quality shall deposit into the regulated substance
+fund monies collected by the department pursuant to section 49-1031,
+Arizona Revised Statutes, until a total of sixty million dollars of tax revenues
+collected pursuant to section 49-1031, Arizona Revised Statutes, in addition
+to monies encumbered and deposited in the monitored natural attenuation
+account, is received by the regulated substance fund. )
+   ARS 49-1033 [Conditionally repealed - see note] Extensions;
+     abatement (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1033. [Conditionally repealed - see note] Extensions;
+abatement
+
+A. The director, for good cause, may extend the time for making any return
+required by this article and may grant such reasonable additional time
+within which to make the return as he deems proper if at least ninety per
+cent of the tax liability is paid when the extension is requested.
+
+B. The director, with the approval of the attorney general, may abate small
+tax balances if the administration costs exceed the amount of tax due.
+
+(Repealed effective on the earlier of the following: 1. Receipt of sixty million
+dollars into the regulated substance fund established by section 49-1015.01,
+Arizona Revised Statutes, as added by this act, after payment and
+extinguishment of all claims that were timely submitted and transfer of
+monies as prescribed by section 8, paragraph 2 of this act. 2. Receipt of sixty
+million dollars into the regulated substance fund established by section 49-
+1015.01, Arizona Revised Statutes, as added by this act, from monies
+transferred pursuant to this paragraph. If the regulated substance fund does
+not receive sixty million dollars pursuant to paragraph 1 of this section, the
+director of environmental quality shall deposit into the regulated substance
+fund monies collected by the department pursuant to section 49-1031,
+Arizona Revised Statutes, until a total of sixty million dollars of tax revenues
+collected pursuant to section 49-1031, Arizona Revised Statutes, in addition
+to monies encumbered and deposited in the monitored natural attenuation
+account, is received by the regulated substance fund. )
+ ARS 49-1034 [Conditionally repealed - see note] Audits (Arizona
+               Revised Statutes (2021 Edition))
+
+
+§ 49-1034. [Conditionally repealed - see note] Audits
+
+The director may require a person who is required to pay the tax under this
+article to appear, at reasonable times and on reasonable notice, at the
+director's office and produce such records and information as are specified
+in the notice to determine compliance with this article. The director shall
+audit the records of a sufficient number of taxpayers under this section to
+ensure general compliance with this article.
+
+(Repealed effective on the earlier of the following: 1. Receipt of sixty million
+dollars into the regulated substance fund established by section 49-1015.01,
+Arizona Revised Statutes, as added by this act, after payment and
+extinguishment of all claims that were timely submitted and transfer of
+monies as prescribed by section 8, paragraph 2 of this act. 2. Receipt of sixty
+million dollars into the regulated substance fund established by section 49-
+1015.01, Arizona Revised Statutes, as added by this act, from monies
+transferred pursuant to this paragraph. If the regulated substance fund does
+not receive sixty million dollars pursuant to paragraph 1 of this section, the
+director of environmental quality shall deposit into the regulated substance
+fund monies collected by the department pursuant to section 49-1031,
+Arizona Revised Statutes, until a total of sixty million dollars of tax revenues
+collected pursuant to section 49-1031, Arizona Revised Statutes, in addition
+to monies encumbered and deposited in the monitored natural attenuation
+account, is received by the regulated substance fund. )
+ARS 49-1035 [Conditionally repealed - see note] Interest; penalty;
+         lien (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1035. [Conditionally repealed - see note] Interest; penalty;
+lien
+
+A. If the tax, or any portion of the tax, is not paid on or before the date
+prescribed for its payment, the director shall collect, as part of the tax,
+interest on the unpaid amount at the rate determined pursuant to section
+42-1123 from the date prescribed for payment until the full amount is paid.
+
+B. If a taxpayer fails to make and file a return as required under this article
+on or before the due date as extended by the director, unless the failure is
+due to reasonable cause and not due to wilful neglect, a penalty of five per
+cent of the tax found to be remaining due shall be added to the tax for each
+month or fraction of a month elapsing between the due date of the return
+and the date on which it is filed. The total penalty shall not exceed twenty-
+five per cent of the tax remaining due. The penalty so added to the tax is due
+and payable on notice and demand by the director.
+
+C. If any tax, interest or penalty imposed by this article is not paid when due,
+the unpaid amounts are a lien from the date the amounts became due on all
+real and personal property and rights to property belonging to the taxpayer.
+The lien may be perfected by recording a notice of lien in the county in
+which the property is located. The notice shall specify the nature of the tax,
+the amount of tax, interest and penalty due, the taxable period for which the
+amounts are due and the name and last known address of the taxpayer who
+is liable for the amounts.
+
+(Repealed effective on the earlier of the following: 1. Receipt of sixty million
+dollars into the regulated substance fund established by section 49-1015.01,
+Arizona Revised Statutes, as added by this act, after payment and
+extinguishment of all claims that were timely submitted and transfer of
+monies as prescribed by section 8, paragraph 2 of this act. 2. Receipt of sixty
+million dollars into the regulated substance fund established by section 49-
+1015.01, Arizona Revised Statutes, as added by this act, from monies
+transferred pursuant to this paragraph. If the regulated substance fund does
+not receive sixty million dollars pursuant to paragraph 1 of this section, the
+director of environmental quality shall deposit into the regulated substance
+fund monies collected by the department pursuant to section 49-1031,
+Arizona Revised Statutes, until a total of sixty million dollars of tax revenues
+collected pursuant to section 49-1031, Arizona Revised Statutes, in addition
+to monies encumbered and deposited in the monitored natural attenuation
+account, is received by the regulated substance fund. )
+  ARS 49-1036 Remission and disposition of revenues (Arizona
+               Revised Statutes (2021 Edition))
+
+
+§ 49-1036. Remission and disposition of revenues
+
+The director shall promptly deposit, pursuant to sections 35-146 and 35-147,
+all monies collected under this article and shall credit these payments to the
+underground storage tank revolving fund.
+
+(Amended by L. 2015, ch. 247,s. 16, eff. 7/2/2015. Repealed effective on the
+earlier of the following: 1. Receipt of sixty million dollars into the regulated
+substance fund established by section 49-1015.01, Arizona Revised Statutes,
+as added by this act, after payment and extinguishment of all claims that
+were timely submitted and transfer of monies as prescribed by section 8,
+paragraph 2 of this act. 2. Receipt of sixty million dollars into the regulated
+substance fund established by section 49-1015.01, Arizona Revised Statutes,
+as added by this act, from monies transferred pursuant to this paragraph. If
+the regulated substance fund does not receive sixty million dollars pursuant
+to paragraph 1 of this section, the director of environmental quality shall
+deposit into the regulated substance fund monies collected by the
+department pursuant to section 49-1031, Arizona Revised Statutes, until a
+total of sixty million dollars of tax revenues collected pursuant to section 49-
+1031, Arizona Revised Statutes, in addition to monies encumbered and
+deposited in the monitored natural attenuation account, is received by the
+regulated substance fund. )
+   ARS 49-1051 Preapproval process; requirements; corrective
+    action priority (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1051. Preapproval process; requirements; corrective action
+priority
+
+A. An owner, an operator, the designated representative of the owner or
+operator or a person that meets the requirements of section 49-1016,
+subsection C must follow the preapproval process pursuant to this section to
+be eligible for reimbursement from the underground storage tank revolving
+fund for corrective actions taken pursuant to section 49-1053, subsection A.
+Preapproval applications must include a detailed scope of work that
+conforms to the requirements of sections 49-1005 and 49-1053, a schedule
+for conducting corrective actions and a cost sheet. Beginning January 1,
+2016 and except as prescribed in subsection J of this section , corrective
+actions and costs for activities that were completed before departmental
+approval of the scope of work are not eligible for reimbursement under
+section 49-1054. If the preapproved scope of work cannot be implemented
+as approved, the person seeking reimbursement shall submit a change
+notice to the department. To be eligible for reimbursement, a change notice
+must be approved by the department before implementation of the change
+notice.
+
+B. This section does not relieve an owner, an operator or the designated
+representative of the owner or operator from any of the requirements of this
+chapter.
+
+C. While the application for preapproval is pending, the department may not
+take enforcement action or impose penalties against the owner, operator or
+designated representative who submitted the application for preapproval.
+The department may not consider the passage of time while the preapproval
+application is pending to be a basis for taking an enforcement action. For
+any corrective action submitted for preapproval pursuant to rule, the period
+of time for compliance with corrective actions associated with that
+preapproval begins to run after the date of preapproval of the corrective
+action.
+
+D. On determination by the department or its designated contractor that the
+application for preapproval is complete, the department or its designated
+contractor shall determine whether the owner or operator was a small owner
+at the time of the application. For the purposes of this subsection, "small
+owner" means an owner that owns fewer than twenty underground storage
+tank facilities in this state.
+
+E. In processing the application for preapproval, the department shall
+determine the corrective action priority of the release within ninety days
+after the receipt of the materials required by this section. The corrective
+action priority shall be based on all of the following:
+   ARS 49-1051 Preapproval process; requirements; corrective
+    action priority (Arizona Revised Statutes (2021 Edition))
+
+
+1. The need for financial assistance, including the availability of coverage
+under insurance or other financial assurance mechanisms.
+
+2. The extent to which a delay in reimbursement will affect the ability to
+conduct corrective actions.
+
+3. The risk to human health and the environment.
+
+4. The presence of preexisting contamination of groundwater by a hazardous
+substance as defined in section 49-281.
+
+F. An owner, operator or person who meets the requirements of section 49-
+1016, subsection C may request reimbursement under section 49-1053.
+Subject to the availability of monies allocated and the assigned priority of
+the site pursuant to subsection E of this section, the department may make
+reimbursements from the underground storage tank revolving fund.
+
+G. An application for preapproval and reimbursement pursuant to this
+section shall be on a form provided by the department and shall contain
+sufficient information to allow the director to make a determination of
+priority for that request.
+
+H. Any determination made by the department pursuant to this section
+constitutes a written interim determination relating to preapproval pursuant
+to section 49-1091.
+
+I. The department may alter the corrective action priority of the release at
+any time based on the results of sampling and monitoring conducted
+pursuant to this section or any other information obtained by the
+department.
+
+J. Corrective actions and costs for activities that were completed before the
+department's approval of the scope of work are eligible for reimbursement
+under section 49-1054 if the applicant otherwise complies with subsection A
+of this section, the corrective actions and costs for activities could not
+reasonably have been incurred through the preapproval process and any of
+the following apply:
+
+1. For corrective actions and costs for activities that are completed from and
+after december 31, 2015 through december 31, 2019 and that are not the
+subject of a preapproval or reimbursement under time-barred claims
+provisions because the applicant's financial responsibility mechanism was
+defective at the time of the release or the release occurred before financial
+responsibility was in place, the applicant is eligible for reimbursement for
+those corrective actions and costs for activities that are incurred from and
+after the date the applicant demonstrates to the department that the
+   ARS 49-1051 Preapproval process; requirements; corrective
+    action priority (Arizona Revised Statutes (2021 Edition))
+
+
+applicant is in compliance with financial responsibility requirements and the
+financial responsibility is demonstrated to the department before january 1,
+2019. From and after december 31, 2018, the applicant is only eligible for
+reimbursement for corrective actions and costs incurred in response to
+releases confirmed after the date the applicant has demonstrated
+compliance with financial responsibility requirements.
+
+2. For corrective actions and costs for activities completed from and after
+december 31, 2015 through december 31, 2019, and for which the applicant's
+compliance with the preapproval process was impracticable due to:
+
+(a) The urgency of the corrective action to address newly discovered
+contamination.
+
+(b) The need for corrective action to avoid risk to public health and the
+environment.
+
+3. For corrective actions and costs for activities completed from and after
+december 31, 2015 through december 31, 2018, the corrective actions and
+costs are not the subject of a time-barred claim or were not otherwise
+reimbursed by the department.
+
+4. Only for corrective actions and costs of activities completed before
+january 1, 2019, the claim for reimbursement is received by the department
+before january 1, 2020 and paragraph 1, 2 or 3 of this subsection applies.
+
+K. The department shall develop an expedited preapproval process not later
+than december 31, 2019 to address those corrective action costs incurred for
+newly discovered contamination and to address those corrective action costs
+necessary to avoid risk to public health and the environment.
+
+L. Direct costs incurred by the department in conducting corrective action
+pursuant to section 49-1017 that are in excess of the coverage limits
+applicable to time-barred claims as otherwise provided by law shall reduce
+the amount otherwise payable to an owner or operator pursuant to section
+49-1054 but any amount remaining under section 49-1054 shall be available
+to the owner or operator for additional corrective action costs.
+
+M. For direct costs incurred by the department in conducting corrective
+action pursuant to section 49-1017 after december 31, 2016, the owner or
+operator is liable to the department for any amount incurred except for the
+amount that is eligible and within the amount allowable under section 49-
+1054.
+
+(Amended by L. 2019, ch. 114,s. 1, eff. 8/27/2019. Amended by L. 2015, ch.
+247,s. 18, eff. 7/2/2015. Repealed effective on the earlier of the following: 1.
+   ARS 49-1051 Preapproval process; requirements; corrective
+    action priority (Arizona Revised Statutes (2021 Edition))
+
+
+Receipt of sixty million dollars into the regulated substance fund established
+by section 49-1015.01, Arizona Revised Statutes, as added by this act, after
+payment and extinguishment of all claims that were timely submitted and
+transfer of monies as prescribed by section 8, paragraph 2 of this act. 2.
+Receipt of sixty million dollars into the regulated substance fund established
+by section 49-1015.01, Arizona Revised Statutes, as added by this act, from
+monies transferred pursuant to this paragraph. If the regulated substance
+fund does not receive sixty million dollars pursuant to paragraph 1 of this
+section, the director of environmental quality shall deposit into the
+regulated substance fund monies collected by the department pursuant to
+section 49-1031, Arizona Revised Statutes, until a total of sixty million
+dollars of tax revenues collected pursuant to section 49-1031, Arizona
+Revised Statutes, in addition to monies encumbered and deposited in the
+monitored natural attenuation account, is received by the regulated
+substance fund. )
+     ARS 49-1052 Noncorrective actions; baseline assessment
+           (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1052. Noncorrective actions; baseline assessment
+
+A. A baseline period of seven years after January 1, 2016 is established for
+underground storage tanks. Beginning January 1, 2016, during the baseline
+period, an owner, operator or person who meets the requirements of section
+49-1016, subsection C may do the following:
+
+1. Elect to conduct a baseline assessment pursuant to this section.
+
+2. Request monies to cover costs associated with the baseline assessment
+pursuant to section 49-1071.
+
+3. Request the department to perform the baseline assessment under section
+49-1017.02.
+
+B. The department shall establish standards for conducting baseline
+assessments pursuant to this section. Until the department establishes
+standards by rule or by guidance documents, baseline assessment work
+plans shall be submitted to the department for approval and shall be
+considered for preapproval on a case-by-case basis, based on compliance
+with subsection D of this section.
+
+C. Baseline assessments shall be conducted under the direction of a person
+who is a professional engineer or a registered geologist who is registered
+under title 32, chapter 1 or a remediation specialist .
+
+D. The scope of the baseline assessment shall address likely release areas
+and shall include a collection of sufficient information to allow for a
+determination of the current environmental condition of the property.
+Samples shall be collected in areas where contamination is most likely to
+have occurred and sample locations shall consider site-specific conditions,
+location of potential receptors and preexisting contamination. The baseline
+assessment must include the registered or certified professional's
+interpretation regarding confirmation of an unknown release and evaluation
+of potential risk for the purpose of prioritizing corrective actions.
+
+E. If unknown contamination is identified in the baseline assessment, all of
+the following apply:
+
+1. The owner, operator or person that meets the requirements of section 49-
+1016, subsection C shall comply with the reporting requirements pursuant to
+section 49-1004 and shall initiate corrective actions pursuant to section 49-
+1005.
+     ARS 49-1052 Noncorrective actions; baseline assessment
+           (Arizona Revised Statutes (2021 Edition))
+
+
+2. Unless documentation is provided to the department that demonstrates
+that the operating underground storage tank is not the source of the release,
+the department shall require tightness testing.
+
+3. If continued operation of the underground storage tank may result in a
+continued release, the department may initiate delivery prohibition as
+prescribed in section 49-1023.
+
+(Amended by L. 2019, ch. 114,s. 2, eff. 8/27/2019. Amended by L. 2015, ch.
+247,s. 18, eff. 7/2/2015. Amended by L. 2013, ch. 244,s. 2, eff. 9/13/2013.
+Repealed effective on the earlier of the following: 1. Receipt of sixty million
+dollars into the regulated substance fund established by section 49-1015.01,
+Arizona Revised Statutes, as added by this act, after payment and
+extinguishment of all claims that were timely submitted and transfer of
+monies as prescribed by section 8, paragraph 2 of this act. 2. Receipt of sixty
+million dollars into the regulated substance fund established by section 49-
+1015.01, Arizona Revised Statutes, as added by this act, from monies
+transferred pursuant to this paragraph. If the regulated substance fund does
+not receive sixty million dollars pursuant to paragraph 1 of this section, the
+director of environmental quality shall deposit into the regulated substance
+fund monies collected by the department pursuant to section 49-1031,
+Arizona Revised Statutes, until a total of sixty million dollars of tax revenues
+collected pursuant to section 49-1031, Arizona Revised Statutes, in addition
+to monies encumbered and deposited in the monitored natural attenuation
+account, is received by the regulated substance fund. )
+      ARS 49-1053 Reimbursement of corrective action costs;
+       definition (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1053. Reimbursement of corrective action costs; definition
+
+A. The department may provide reimbursement from the underground
+storage tank revolving fund under the preapproval process prescribed in
+section 49-1051 in the amounts authorized by section 49-1054 of the costs
+incurred for the following:
+
+1. Sampling, analysis and reporting that are initiated pursuant to section 49-
+1004 and that confirm the presence of a release that requires corrective
+action pursuant to section 49-1005.
+
+2. Sampling, analysis and reporting that are initiated pursuant to section 49-
+1008 and that confirm the presence of a release that requires corrective
+action pursuant to section 49-1005.
+
+3. Corrective actions initiated pursuant to section 49-1005.
+
+4. Preparation of the initial approved preapproval application and the
+consulting expenses incurred in participating in the initial preapproval
+meeting but not more than two percent of the amount incurred for the
+project cost in the first year. Costs must be submitted in the first
+reimbursement request for corrective actions that is submitted pursuant to
+section 49-1054.
+
+B. The department may provide the reimbursement required by this section
+either by paying the owner, the operator or a designated representative of
+the owner or operator or any combination of these persons, a political
+subdivision pursuant to subsection F of this section or a person who meets
+the requirements of section 49-1016, subsection C. If the department
+determines that an application for reimbursement is incomplete, the
+department within forty-five days after receiving the application shall notify
+the applicant of the missing information as specifically as possible and shall
+allow the applicant to provide the additional information within thirty days.
+On the request of an applicant, the department shall grant an additional
+sixty days to submit the missing information. The grant of additional time
+tolls the period for making an interim determination on matters relating to
+reimbursement pursuant to section 49-1091.
+
+C. The department may not pay for eligible costs unless the department
+determines that the eligible activities have met, or when completed will
+meet, the applicable requirements of section 49-1004 or 49-1005. The
+department may require by rule that persons that perform payable eligible
+activities meet specified standards of qualification and be approved by the
+department.
+      ARS 49-1053 Reimbursement of corrective action costs;
+       definition (Arizona Revised Statutes (2021 Edition))
+
+
+D. The department may not provide any reimbursement described in this
+article to an owner or operator of underground storage tanks described in
+section 49-1031, subsection C. The department may not provide any
+reimbursement described in this article with respect to the substances
+described in section 49-1031, subsection C, unless the tax imposed by article
+2 of this chapter applies to such substances.
+
+E. The department shall establish criteria for determining priorities among
+the applications from small owners for reimbursement under this article.
+For all other owners that are eligible for reimbursement from the fund
+through the cost sharing prescribed in section 49-1006.02, subsection B,
+priority shall be based on the date of completion of the work. The criteria for
+small owners shall include:
+
+1. The need for financial assistance.
+
+2. The extent to which a delay in providing reimbursement will affect an
+eligible activity in progress.
+
+3. The date on which an application for reimbursement is submitted to the
+department.
+
+4. Whether the payment has been previously deferred because of insufficient
+monies in the underground storage tank revolving fund and, if deferred, the
+length of the deferral.
+
+F. The department may provide the reimbursement described in this article
+for eligible activity costs incurred by a political subdivision with respect to a
+release from an underground storage tank if the underground storage tank
+or the property where the underground storage tank is located comes into
+the possession or control of the political subdivision under title 12, chapter
+8, article 2 or 3.
+
+G. Subject to section 38-503 and other applicable statutes and rules, the
+department may contract with a private consultant for the purpose of
+assisting the department in reviewing preapproval and reimbursement
+applications, site characterization reports, corrective action plans,
+monitoring reports and other information to determine whether corrective
+actions meet the criteria and requirements of this chapter and the rules
+adopted by the director.
+
+H. Requests by the department for additional information from applicants
+shall be reasonably related to the determination of the validity of the claim
+as prescribed by this article.
+      ARS 49-1053 Reimbursement of corrective action costs;
+       definition (Arizona Revised Statutes (2021 Edition))
+
+
+I. Except for appeals costs authorized pursuant to section 49-1091.01,
+applications for reimbursement under a preapproved scope of work shall be
+submitted to the department not more than one year after the applicant
+receives a closure letter sent by the department by certified mail with notice
+that the applicant has one year to submit a claim for that release. Failure to
+submit a timely reimbursement request under a preapproved scope of work
+shall result in denial of the claim. The time limit prescribed by this
+subsection does not apply to closed releases that are subsequently reopened
+for the performance of additional corrective actions or at which corrective
+actions are proceeding pursuant to a work plan for preapproval submitted
+before the release was closed.
+
+J. The department may provide reimbursement under a preapproved scope
+of work for the reasonable, necessary, cost-effective and technically feasible
+costs of corrective actions relating to soil remediation that are consistent
+with remediation standards adopted pursuant to chapter 1, article 4 of this
+title or site-specific, risk-based levels as determined under rules adopted
+pursuant to this chapter. The department may provide reimbursement
+under a preapproved scope of work for the reasonable, necessary, cost-
+effective and technically feasible costs of corrective actions relating to
+groundwater remediation to predetermined standards or site-specific, risk-
+based levels as determined under rules adopted pursuant to this chapter.
+The department may provide reimbursement for corrective actions related
+to the control and removal of a source of contamination. A source of
+contamination includes any one or more of the following:
+
+1. Free product.
+
+2. A regulated substance present in soil that causes or threatens to cause an
+exceedance of the aquifer water quality standards.
+
+3. A regulated substance present in groundwater at levels that would prevent
+timely reduction of contaminant concentrations in comparison with the
+performance of active remediation.
+
+4. Any other presence of a regulated substance causing an ongoing source of
+contamination, as determined by the department.
+
+K. On preapproval by the department or its designated contractor of
+corrective action costs for small owners, the department or its designated
+contractor shall encumber monies in the corrective action allocation for that
+year. If monies are available in the corrective action allocation for that year,
+reimbursement shall be made when the corrective action for which the
+monies were encumbered is completed as determined by the department or
+its designated contractor.
+      ARS 49-1053 Reimbursement of corrective action costs;
+       definition (Arizona Revised Statutes (2021 Edition))
+
+
+L. The department or its designated contractor shall preapprove
+reimbursement of corrective action costs for an owner that is not a small
+owner without encumbering monies. If monies are available in the
+corrective action allocation for that year at the end of the corrective action
+allocation year, reimbursement shall be based on the date the corrective
+action is completed as determined by the department or its designated
+contractor.
+
+M. If there are insufficient monies to pay for approved corrective action in
+any annual corrective action allocation, the department shall reimburse the
+corrective action from the next annual corrective action allocation, with the
+priority that reimbursements first go to small owners.
+
+N. The department may not accept an application to the underground
+storage tank revolving fund for reimbursement from an applicant for costs
+associated with a single facility more frequently than once each calendar
+month, and the department may not accept an application for costs
+associated with a single facility for an amount of less than $5,000 unless the
+reimbursement is the final application associated with the facility.
+
+O. An application for reimbursement pursuant to this section shall be on a
+form provided by the department and shall contain sufficient information to
+allow the director to make a determination of priority for that request.
+
+P. For the purposes of this section, "small owner" means an owner that owns
+fewer than twenty underground storage tank facilities in this state.
+
+(Amended by L. 2019, ch. 114,s. 3, eff. 8/27/2019. Amended by L. 2015, ch.
+247,s. 18, eff. 7/2/2015. Repealed effective on the earlier of the following: 1.
+Receipt of sixty million dollars into the regulated substance fund established
+by section 49-1015.01, Arizona Revised Statutes, as added by this act, after
+payment and extinguishment of all claims that were timely submitted and
+transfer of monies as prescribed by section 8, paragraph 2 of this act. 2.
+Receipt of sixty million dollars into the regulated substance fund established
+by section 49-1015.01, Arizona Revised Statutes, as added by this act, from
+monies transferred pursuant to this paragraph. If the regulated substance
+fund does not receive sixty million dollars pursuant to paragraph 1 of this
+section, the director of environmental quality shall deposit into the
+regulated substance fund monies collected by the department pursuant to
+section 49-1031, Arizona Revised Statutes, until a total of sixty million
+dollars of tax revenues collected pursuant to section 49-1031, Arizona
+Revised Statutes, in addition to monies encumbered and deposited in the
+monitored natural attenuation account, is received by the regulated
+substance fund. )
+ARS 49-1054 Extent of reimbursement (Arizona Revised Statutes
+                        (2021 Edition))
+
+
+§ 49-1054. Extent of reimbursement
+
+A. The department may provide reimbursement from the underground
+storage tank revolving fund for the reasonable and necessary costs of eligible
+activities pursuant to section 49-1053, subsection A for releases that are
+reported before the end of the baseline period established pursuant to
+section 49-1052. Receipt of financial assistance from the underground
+storage tank revolving fund does not constitute a financial assurance
+mechanism and may not be used to demonstrate compliance with financial
+responsibility requirements or to provide compensation to third parties for
+bodily injury or property damage. Reimbursement from the underground
+storage tank revolving fund to owners, operators and persons that meet the
+requirements of section 49-1016, subsection C may not exceed one million
+dollars per facility.
+
+B. The department may compel the production of documents to determine
+the existence, amount and type of insurance or alternative coverage
+available. An owner, operator or person that meets the requirements of
+section 49-1016, subsection C shall report to the department any payment of
+corrective actions costs through insurance and alternative mechanisms.
+
+C. The department may not disburse more than the maximum amounts
+prescribed by subsection A of this section from the underground storage
+tank revolving fund for corrective action costs associated with a facility.
+
+D. The department shall pay eligible costs that are reasonable and were
+actually incurred for corrective actions that were actually performed. The
+costs for the corrective actions shall be submitted as prescribed in sections
+49-1051 and 49-1053. The department shall pay only for corrective actions
+that have been completed and that have been conducted pursuant to the
+preapproval approved by the department. Reasonableness of corrective
+actions shall be determined based on the law and the facts available to the
+owner, operator or person that meets the requirements of section 49-1016,
+subsection C at the time the technical decision was made. The department
+shall establish schedules of corrective action costs that the department
+considers reasonable.
+
+E. The owner or operator is eligible for payment from the department to the
+extent that the corrective action costs have not been reimbursed to the
+owner or operator, or its consultant, representative or agent, by insurance or
+by an alternative financial assurance mechanism. A provider of insurance or
+an alternative financial assurance mechanism who is not an owner or
+operator with respect to the occurrence is not eligible for payment from the
+underground storage tank revolving fund.
+ARS 49-1054 Extent of reimbursement (Arizona Revised Statutes
+                        (2021 Edition))
+
+
+F. An owner or operator shall report to the department whether it has
+insurance coverage available and shall comply with all applicable financial
+responsibility requirements. If the director has reason to believe that an
+owner or operator, or its consultant, representative or agent, has received or
+may receive any payment for corrective actions from insurance or
+alternative financial assurance mechanism, the department may compel the
+production of documents to determine the existence, amount and type of
+insurance or alternative financial assurance coverage available and to whom
+payment was made or may be made. An owner or operator shall report to
+the department any subsequent payment or reimbursement from insurance
+or an alternative financial assurance mechanism to the owner or operator or
+its consultant, representative or agent for corrective actions costs.
+
+G. The owner or operator shall remit to the department within thirty days
+any amounts that were previously paid to the owner or operator or its
+consultant, representative or agent from the underground storage tank
+revolving fund and that have also been recovered from insurance or any
+alternative financial assurance mechanisms.
+
+H. Appeals fees and costs payable pursuant to section 49-1091.01 shall be
+paid in the next regular round of payment without being subject to ranking
+and in the order received by the department.
+
+(Amended by L. 2015, ch. 247,s. 18, eff. 7/2/2015. Repealed effective on the
+earlier of the following: 1. Receipt of sixty million dollars into the regulated
+substance fund established by section 49-1015.01, Arizona Revised Statutes,
+as added by this act, after payment and extinguishment of all claims that
+were timely submitted and transfer of monies as prescribed by section 8,
+paragraph 2 of this act. 2. Receipt of sixty million dollars into the regulated
+substance fund established by section 49-1015.01, Arizona Revised Statutes,
+as added by this act, from monies transferred pursuant to this paragraph. If
+the regulated substance fund does not receive sixty million dollars pursuant
+to paragraph 1 of this section, the director of environmental quality shall
+deposit into the regulated substance fund monies collected by the
+department pursuant to section 49-1031, Arizona Revised Statutes, until a
+total of sixty million dollars of tax revenues collected pursuant to section 49-
+1031, Arizona Revised Statutes, in addition to monies encumbered and
+deposited in the monitored natural attenuation account, is received by the
+regulated substance fund. )
+ARS 49-1055 Extent of reimbursement; termination of eligibility
+          (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1055. Extent of reimbursement; termination of eligibility
+
+A. from and after December 31, 2022, only those releases of a regulated
+substance that are reported before January 1, 2023 as prescribed in section
+49-1004 are eligible for corrective action cost reimbursements from the
+underground storage tank revolving fund.
+
+B. An application for reimbursement of eligible costs from the underground
+storage tank revolving fund shall be filed with the department not later than
+5:00 p.m. on December 31, 2030.
+
+C. An application for preapproval made pursuant to section 49-1051 shall be
+filed with the department not later than 5:00 p.m. on December 31, 2029.
+
+D. Any application made or expense incurred after December 31, 2030 is not
+eligible for reimbursement from the underground storage tank revolving
+fund and all such claims are extinguished.
+
+(Amended by L. 2015, ch. 247,s. 18, eff. 7/2/2015. Repealed effective on the
+earlier of the following: 1. Receipt of sixty million dollars into the regulated
+substance fund established by section 49-1015.01, Arizona Revised Statutes,
+as added by this act, after payment and extinguishment of all claims that
+were timely submitted and transfer of monies as prescribed by section 8,
+paragraph 2 of this act. 2. Receipt of sixty million dollars into the regulated
+substance fund established by section 49-1015.01, Arizona Revised Statutes,
+as added by this act, from monies transferred pursuant to this paragraph. If
+the regulated substance fund does not receive sixty million dollars pursuant
+to paragraph 1 of this section, the director of environmental quality shall
+deposit into the regulated substance fund monies collected by the
+department pursuant to section 49-1031, Arizona Revised Statutes, until a
+total of sixty million dollars of tax revenues collected pursuant to section 49-
+1031, Arizona Revised Statutes, in addition to monies encumbered and
+deposited in the monitored natural attenuation account, is received by the
+regulated substance fund. )
+  ARS 49-1056 Lien rights; unrecovered corrective action costs;
+     lien amount (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1056. Lien rights; unrecovered corrective action costs; lien
+amount
+
+A. If the department or this state incurs unrecovered corrective action costs
+from a corrective action undertaken on behalf of a volunteer, a property
+owner, a person other than the underground storage tank owner or an
+owner or operator that did not have the required financial responsibility
+mechanism at the time the release is discovered or the claim is filed, the
+department has a lien on the property , or, by agreement with the
+responsible party, may obtain a lien on any other property or other financial
+responsibility mechanism of the responsible party.
+
+B. The lien shall be in the amount of the estimated increase in the market
+value of the property as determined by a commercial real estate appraiser
+who shall determine the difference between the current market value of the
+property and the estimated market value of the property after corrective
+action is complete. the director shall use an appraiser who is a member of a
+nationally recognized real estate appraisal association, institute or society.
+
+C. The department shall reduce the amount of the lien as follows:
+
+1. To the amount of the total unrecovered corrective action costs if that
+amount is less than the difference between the current market value of the
+property and the estimated market value of the property after corrective
+action is complete.
+
+2. If a volunteer, a property owner, a person other than the underground
+storage tank owner or an owner or operator that did not have the required
+financial responsibility mechanism at the time the release is discovered or
+the claim is filed makes a determination at any time after corrective action
+begins that a change in circumstances has substantially reduced the increase
+in the market value of the property.
+
+(Amended by L. 2019, ch. 114,s. 4, eff. 8/27/2019. Added by L. 2015, ch.
+247,s. 18, eff. 7/2/2015.)
+  ARS 49-1057 Intergovernmental agreements (Arizona Revised
+                    Statutes (2021 Edition))
+
+
+§ 49-1057. Intergovernmental agreements
+
+The department may enter into intergovernmental agreements with Indian
+tribes pursuant to title 11, chapter 7, article 3 to extend to the tribes the
+partial coverage provided by this article and the responsibilities imposed by
+articles 1 and 2 of this chapter.
+
+(Added by L. 2015, ch. 247,s. 18, eff. 7/2/2015.)
+    ARS 49-1071 Noncorrective action tank site improvement;
+   purposes; priority (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1071. Noncorrective action tank site improvement; purposes;
+priority
+
+A. Subject to the availability of monies in the underground storage tank
+revolving fund that are annually allocated by the director for each of the
+following types of actions, an owner, operator or person that meets the
+requirements of section 49-1016, subsection C may request that the
+department provide monies for that person to conduct one or more of the
+following actions, up to a maximum of $300,000 per site:
+
+1. Actions necessary to ensure that the underground storage tank, its piping
+and its under-dispenser containment comply with standards for new
+installations prescribed by section 49-1009 or other applicable federal
+requirements, including replacement of system components, up to a
+maximum of $200,000.
+
+2. Removal of underground storage tanks for purposes of permanent closure
+or replacement, up to a maximum of $25,000 per tank. if petroleum
+contaminated media that require over-excavation are encountered during
+removal of the underground storage tank, up to an additional $15,000 per
+site is available for reimbursement.
+
+3. Confirmation of a suspected release at a tank or site, up to a maximum of
+$20,000.
+
+4. Obtaining a baseline assessment of a site as prescribed in section 49-1052,
+up to a maximum of $40,000.
+
+B. In determining the priority for requests under subsection A of this
+section, the director may consider the following factors:
+
+1. The age, construction and operational history of the underground storage
+tank.
+
+2. The hydrogeologic characteristics of the site where the underground
+storage tank is located and the surrounding area.
+
+3. The proximity, quality and current and future uses of nearby surface
+water and groundwater.
+
+4. The potential effects of residual contamination on nearby surface water
+and groundwater.
+
+5. The degree of exposure.
+
+6. The financial resources of the applicant.
+    ARS 49-1071 Noncorrective action tank site improvement;
+   purposes; priority (Arizona Revised Statutes (2021 Edition))
+
+
+C. an application for funding and request for reimbursement under this
+section shall be on a form provided by the department and shall include:
+
+1. Detailed information about the site, including the type, number and
+location of tanks.
+
+2. Information about the owner and operator, including the type of financial
+responsibility.
+
+3. A description of the evidence of any release or suspected release.
+
+4. The proposed actions necessary to meet tank and system performance
+standards.
+
+D. Monies may not be provided under this section for work that takes place
+more than one year after the date that monies are approved.
+
+E. An application for monies pursuant to this section may be filed with the
+department at any time during the actions prescribed by subsection A of this
+section but only those costs incurred after the department approves the
+application are eligible for reimbursement. The maximum amounts
+prescribed in this section apply to applications approved by the department
+whether before or after the effective date of this amendment to this section.
+
+(Amended by L. 2019, ch. 114,s. 6, eff. 8/27/2019. Amended by L. 2015, ch.
+247,s. 18, eff. 7/2/2015.)
+     ARS 49-1072 [Repealed] (Arizona Revised Statutes (2021
+                          Edition))
+
+
+§ 49-1072. [Repealed]
+
+(Repealed by L. 2015, ch. 247,s. 17, eff. 7/2/2015.)
+     ARS 49-1073 [Repealed] (Arizona Revised Statutes (2021
+                          Edition))
+
+
+§ 49-1073. [Repealed]
+
+(Repealed by L. 2015, ch. 247,s. 17, eff. 7/2/2015.)
+     ARS 49-1081 Definitions (Arizona Revised Statutes (2021
+                           Edition))
+
+
+§ 49-1081. Definitions
+
+In this article, unless the context otherwise requires:
+
+1. "Attended facility" means an underground storage tank facility at which it
+is the usual and customary practice for the owner or operator, or any
+employee of the owner or operator, to be present on site during normal
+hours of operation.
+
+2. "Class A individual" means a person designated by the owner or operator
+as having primary management responsibility or decision-making authority
+for the operation, maintenance and record keeping of an underground
+storage tank facility. The person may or may not be the owner or operator.
+
+3. "Class B individual" means a person designated by the owner or operator
+as having daily responsibility for the operation, maintenance and record
+keeping of an underground storage tank facility. The person may or may not
+be the owner or operator.
+
+4. "Class C individual" means a person designated by the owner or operator
+as having daily responsibility for an initial response to an alarm or other
+indication of an emergency caused by a release or suspected release from an
+underground storage tank. The person may or may not be the owner or
+operator.
+
+5. "Supervision" means the immediate, on-site control and direction by a
+person certified by the department in accordance with section 49-1082 and
+the rules adopted pursuant to section 49-1082 of a person who is performing
+tank service and who is not certified in accordance with section 49-1082 and
+the rules adopted pursuant to section 49-1082.
+
+6. "Tank service" means installation, retrofitting, tank tightness testing,
+closure, cathodic protection or interior tank lining of an underground
+storage tank or a part of an underground storage tank.
+ ARS 49-1082 Certification of underground storage tank service
+   providers; rules; suspension or revocation of certification
+          (Arizona Revised Statutes (2021 Edition))
+
+§ 49-1082. Certification of underground storage tank service
+providers; rules; suspension or revocation of certification
+
+A. Beginning from and after December 31, 1996, a person shall not perform
+tank services on an underground storage tank system unless the person is
+certified in accordance with this section and the rules adopted pursuant to
+this section, or is supervised by a person certified in accordance with this
+section and the rules adopted pursuant to this section.
+
+B. The department shall not certify a person as a tank service provider until
+that person completes the requirements of this section and the rules adopted
+pursuant to this section. In accordance with subsection D, the supervisor is
+responsible for all persons performing work under the direction of the
+supervisor and any violations of this section or rules adopted pursuant to
+this section are attributable to the supervisor.
+
+C. By January 1, 1997, the department shall adopt rules for the
+establishment and maintenance of an underground storage tank service
+provider certification program. The certification program shall include the
+submittal and verification of information that the director determines is
+necessary to ensure that the tank service provider possesses and maintains
+the essential knowledge, skills and work history to perform the service
+effectively and in a manner that protects human health and the
+environment. The department may establish separate certification methods
+for each area of tank service as it is defined, and may define the duration of
+the certification period, which shall be at least one year.
+
+D. The department, on reasonable evidence, may suspend or revoke the
+certification of any person who fails to maintain the standards established
+pursuant to this section or who exhibits incompetence, negligence or fraud
+in performing the certified activity or in other work relating to the certified
+activity. A person whose certification is revoked or suspended pursuant to
+this subsection may appeal the decision pursuant to title 41, chapter 6,
+article 10.
+       ARS 49-1083 Designation; training; record keeping
+  requirements; rules (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1083. Designation; training; record keeping requirements;
+rules
+
+A. Beginning August 9, 2012, an owner or operator shall designate a class A
+individual who must be trained pursuant to subsections E and F of this
+section within thirty days or another period specified by the director after
+being designated by the owner or operator.
+
+B. Beginning August 9, 2012, an owner or operator must designate a class B
+individual who must be trained pursuant to subsections E and F of this
+section within thirty days or another period specified by the director after
+being designated by the owner or operator.
+
+C. Beginning August 9, 2012, an owner or operator must designate one or
+more class C individuals who must be trained pursuant to subsections E and
+F of this section before assuming the role of a class C individual. For an
+attended facility, a class C individual must be on site during the usual and
+customary hours of operation.
+
+D. The class A individual and class B individual shall be retrained if the
+director determines that an underground storage tank at the facility is not
+equipped and operated in accordance with release detection, corrosion
+protection, spill prevention and overfill protection in compliance with
+sections 49-1003, 49-1009 and 49-1023 and the rules adopted under those
+sections, as applicable. Documentation of the retraining must be maintained
+in accordance with subsection G of this section.
+
+E. The director shall establish the duration for which training is valid and
+the duration shall not be less than one year or more than three years.
+
+F. The training shall be in a format approved by the director and shall
+include the following:
+
+1. For a class a individual, the requirements associated with notification
+under section 49-1002, release detection under section 49-1003, reporting
+requirements under section 49-1004, financial responsibility under section
+49-1006, closure under section 49-1008, underground storage tank
+performance under section 49-1009, delivery prohibition under section 49-
+1023 and this section and the rules adopted under those sections, as
+applicable.
+
+2. For a class B individual, the requirements associated with release
+detection under section 49-1003, reporting requirements under section 49-
+1004, underground storage tank performance under section 49-1009,
+delivery prohibition under section 49-1023, the training requirements for a
+       ARS 49-1083 Designation; training; record keeping
+  requirements; rules (Arizona Revised Statutes (2021 Edition))
+
+
+class C individual under paragraph 3 and the rules adopted under those
+sections, as applicable.
+
+3. For a class C individual, initial response procedures to an alarm or other
+indication of an emergency caused by a release or suspected release from an
+underground storage tank, including procedures for contacting a class A or
+class B individual and any emergency responder.
+
+G. An owner and operator shall document that the training requirements of
+this section have been met for each class A, class B or class C individual.
+Training shall be documented on a form prescribed by the director. Training
+records shall be maintained for a period of not less than three years after the
+training is completed and shall be available for inspection by the director on
+request.
+
+H. The director may adopt rules to implement this section.
+     ARS 49-1091 Underground storage tank informal appeals
+            (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1091. Underground storage tank informal appeals
+
+A. A person that undertakes corrective action pursuant to section 49-1016,
+subsection C or an owner or operator may informally appeal the following
+decisions or determinations pursuant to this section:
+
+1. A written interim decision from the underground storage tank program of
+the department.
+
+2. A written interim determination from the department on matters relating
+to owner or operator status.
+
+3. A written interim determination from the department on matters relating
+to preapproval or reimbursement from the underground storage tank
+revolving fund .
+
+4. A written interim determination or decision relating to the allocation of
+liability pursuant to this chapter.
+
+B. The department's failure to respond with a written interim decision to the
+owner's or operator's submission to the department of any documents
+identified in subsection G of this section within one hundred twenty days
+after receipt is a basis for an informal appeal.
+
+C. A person that undertakes corrective action pursuant to section 49-1016,
+subsection C or an owner or operator who is subject to an interim decision
+or determination described in subsections A and B of this section, and who
+disagrees with the interim decision or determination, may file a written
+notice of disagreement with the department within thirty days after
+receiving the department's interim decision or determination. The notice
+shall include a description of the specific portions of the interim decision or
+determination with which the person, owner or operator disagrees and may
+include a request to meet with the department to resolve the disagreement.
+The department shall schedule a meeting within thirty days after receiving
+the request.
+
+D. A person that requests a meeting pursuant to subsection C of this section
+or an authorized representative of the person designated in writing may
+attend the meeting with any individuals who may be helpful in discussing
+the matter with the department.
+
+E. The department shall issue a final written decision or determination
+within forty-five days after receiving the notice of disagreement or within
+fifteen days after a meeting pursuant to subsection C of this section,
+whichever is later. If no notice of disagreement is filed, the department shall
+issue a final written decision or determination within forty-five days after
+     ARS 49-1091 Underground storage tank informal appeals
+            (Arizona Revised Statutes (2021 Edition))
+
+
+the issuance of the interim decision or determination. Before the expiration
+of time for the department to issue a final written decision or determination,
+the department may request additional information from the person who
+has submitted a notice of disagreement that is necessary to make a final
+decision or determination. A person that receives this request shall have
+fifteen days to submit the requested information to the department. The
+time frames for the department to issue a final decision or determination
+shall be extended for up to fifteen days during the time the requested
+information is outstanding, and for up to fifteen additional days, if
+applicable, after any information is submitted to the department. The time
+to submit the requested information may be extended for up to sixty days on
+the request of a person that submits a notice of disagreement. The time
+frames for the department to issue a final decision or determination shall be
+extended accordingly. The time frames for the department to issue a final
+decision or determination shall also be extended if information relating to
+the subject of the notice of disagreement is not requested by the department
+but is provided to the department for the first time less than fifteen days
+after the date the department is required to issue a final decision or
+determination. In this situation, the time frames shall be extended to allow
+the department fifteen days after the date the information is submitted to
+issue a final decision or determination. If the department fails to issue a
+final written decision or determination within the time specified in this
+subsection, the department's written interim decision or determination
+becomes the final written decision or determination. The final written
+decision or determination shall address the notice of disagreement received
+pursuant to subsection C of this section. The final written decision or
+determination is the only decision or determination that is appealable as an
+appealable agency action as defined in section 41-1092 or a contested case as
+defined in section 41-1001.
+
+F. The period of time for compliance with corrective actions associated with
+the subject matter of a notice of disagreement is tolled from the date that a
+person who undertakes corrective action pursuant to section 49-1016,
+subsection C or an owner or operator files a written notice of disagreement
+with the department until the date the final decision or determination is
+rendered by the department and any appeals are completed.
+
+G. A written interim decision shall address one of the following technical
+issues:
+
+1. The department's approval, disapproval or notice of deficiency of site
+characterization reports.
+
+2. The department's approval, disapproval or notice of deficiency of
+corrective action plans for soil or groundwater, or both.
+     ARS 49-1091 Underground storage tank informal appeals
+            (Arizona Revised Statutes (2021 Edition))
+
+
+3. The department's approval, disapproval or notice of deficiency of a work
+plan.
+
+4. The department's determination or confirmation of a release.
+
+5. The department's approval, disapproval or notice of deficiency of requests
+for closing a case file corresponding to a release from a leaking underground
+storage tank.
+
+H. The department shall not alter the time limits prescribed by this chapter
+by adoption of a time limit by rule.
+
+I. The department's failure to respond with a written interim determination
+to the owner's or operator's submission, or to the submission from a person
+that undertakes corrective action pursuant to section 49-1016, subsection C ,
+of an application for preapproval or reimbursement from the underground
+storage tank revolving fund within ninety days after receipt is a basis for an
+informal appeal.
+
+(Amended by L. 2015, ch. 247,s. 19, eff. 7/2/2015.)
+    ARS 49-1091.01 Fee and cost reimbursement; application;
+      limitations (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-1091.01. Fee and cost reimbursement; application;
+limitations
+
+A. This section applies to an owner, an operator or a person that undertakes
+corrective action pursuant to section 49-1016, subsection C for any of the
+following:
+
+1. A written interim determination or interim decision from the department
+on matters relating to:
+
+(a) Owner or operator status.
+
+(b) Preapproval or reimbursement from the underground storage tank
+revolving fund established by section 49-1015 .
+
+2. The department's approval, disapproval or notice of deficiency of:
+
+(a) Site characterization reports.
+
+(b) Corrective action plans for soil or groundwater , or both.
+
+B. An owner, operator or person that undertakes corrective action pursuant
+to section 49-1016, subsection C shall receive reimbursement for reasonable
+attorney fees, consultant fees and costs that are actually incurred and not
+excessive in all proceedings that follow the interim decision or interim
+determination pursuant to section 49-1091, if that party satisfies both of the
+following requirements:
+
+1. Submitted a written notice of the disagreement to the department within
+thirty days pursuant to section 49-1091.
+
+2. Requested and participated in a meeting with the department regarding
+decisions or determinations pursuant to section 49-1091, subsection A,
+paragraph 2 or subsection G, paragraph 1 or 2.
+
+C. The attorney fees, consultant fees and costs shall be paid only for those
+amounts that are reasonable, actually incurred and not excessive in the
+portion of the proceedings that are the subject of the notice of disagreement
+in which the owner, operator or person that undertakes corrective action
+pursuant to section 49-1016, subsection C prevailed, including proceedings
+resulting in a favorable decision or determination from the department or in
+a judicial proceeding.
+
+D. The reimbursement provided by subsection B of this section is subject to
+the following limitations:
+    ARS 49-1091.01 Fee and cost reimbursement; application;
+      limitations (Arizona Revised Statutes (2021 Edition))
+
+
+1. Fees and costs shall not be paid if the department makes a favorable
+determination or decision on the issue appealed before or in the final
+decision or determination.
+
+2. Fees and costs shall not be paid if all of the following conditions are met:
+
+(a) Information requested pursuant to section 49-1053 , subsection B or
+section 49-1091, subsection E is not provided to the department before the
+time the department issues a final decision or determination that is adverse
+to the owner, operator or person that undertakes corrective action pursuant
+to section 49-1016, subsection C .
+
+(b) The final decision or determination is subsequently reversed or
+otherwise decided in favor of the person based on information previously
+requested by the department.
+
+3. In an appeal of a determination regarding an application for preapproval
+or reimbursement from the underground storage tank revolving fund ,
+attorney fees, consultant fees and costs paid pursuant to this subsection may
+not exceed the amount that is in dispute.
+
+4. If information requested by the department pursuant to section 49-1053 ,
+subsection B or section 49-1091, subsection E is provided to the department
+before the department issues a final decision or determination that is
+adverse to the owner, operator or person that undertakes corrective action
+pursuant to section 49-1016, subsection C , and the final decision or
+determination is subsequently reversed or otherwise decided in favor of the
+owner, operator or person that undertakes corrective action pursuant to
+section 49-1016, subsection C based on that information, attorney fees,
+consultant fees and costs shall only be paid for those amounts actually
+incurred after the information was provided.
+
+(Amended by L. 2015, ch. 247,s. 20, eff. 7/2/2015.)
+     ARS 49-1092 [Repealed] (Arizona Revised Statutes (2021
+                          Edition))
+
+
+§ 49-1092. [Repealed]
+
+(Repealed by L. 2015, ch. 247,s. 21, eff. 7/2/2015.)
+     ARS 49-1093 [Repealed] (Arizona Revised Statutes (2021
+                          Edition))
+
+
+§ 49-1093. [Repealed]
+
+(Repealed by L. 2015, ch. 247,s. 21, eff. 7/2/2015.)
+

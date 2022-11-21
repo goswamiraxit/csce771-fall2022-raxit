@@ -1,0 +1,53 @@
+(3)
+
+The MQL is the lowest concentration at which a particular substance can be
+quantitatively measured, and is defined analytically as the lowest concentration
+used in the calibration of the measurement system.
+
+(4)
+
+Any sample result reported as "non-detected" or "less than" the MQL shall be
+entered as zero.
+The following language shall be placed in permits:
+If the results for a given sample analysis are such that any parameter (Other than
+fecal coliform, enterococci, e coli) is not detected at or above the minimum level
+for the test method used, a value of zero will be used for that sample in
+calculating an arithmetic mean value for the parameter. If the resulting calculated
+arithmetic mean value for that reporting period is zero, the permittee shall report
+"NODI=B" on the DMR. For fecal coliform and other pollutants that are based
+on calculating a geometric mean, a value of 1.0 shall be used in calculating the
+geometric mean. If the resulting fecal coliform mean value is 1.0, the permittee
+shall report "NODI=B" on the DMR. For each quantitative sample value that is
+not detectable, the test method used and the minimum level for that method for
+that parameter shall be attached to and submitted with the DMR. The permittee
+shall then be considered in compliance with the appropriate effluent limitation
+and/or reporting requirement.
+Permits will specify the appropriate analytical method, based on the appropriate
+sensitivity. Permittees must then report results based on data containing
+acceptable calibration points at least as low as the MQL.
+
+H.
+
+Bioassay Language/Monitoring,
+
+Exhibit "D", which is attached hereto and incorporated herein by reference, represents the
+standard bioassay language placed in NPDES permits for chronic and acute bioassays,
+respectively. The fundamentals of the bioassay monitoring requirements are as follows:
+(1)
+
+Duration
+Biomonitoring is for the life of the NPDES permit. Assuming compliance with
+the toxic limits, monitoring is at a frequency of once per quarter for the first
+twelve months for industrial and municipal permittees and semi-annually
+thereafter. The sampling frequency during compliance monitoring shall be at
+least twice per year unless specified otherwise elsewhere in these regulations, and
+sampling shall be timed to include the seasonal extremes of the year (hot-dry and
+cold-wet).
+
+(2)
+
+Species
+At least two species (one vertebrate and one invertebrate) must be used.
+94
+
+

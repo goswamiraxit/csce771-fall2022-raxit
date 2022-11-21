@@ -1,0 +1,44 @@
+This ammonia exceedance is then multiplied by the stream miles (or
+equivalent stream miles) which presently have an NH3 concentration
+above the acceptable level to obtain the Ammonia Toxicity Problem
+Factor as shown below:
+Ammonia Toxicity Problem Factor = (NH3 exceedance) X (stream or
+equivalent Stream miles above acceptable concentration)
+iv.
+
+Chlorine Toxicity Problem Factor - This factor will be determined by
+the difference in the previously allowed chlorine concentration in the
+NPDES permit (usually 1.0 mg/l) and the new maximum chlorine
+concentration allowed in the NPDES permit which will be multiplied
+by a factor of 20.
+Chlorine Toxicity Problem Factor = (1.0 mg/l - the new maximum
+chlorine concentration allowed in the NPDES permit in mg/l) X (20)
+
+c.
+
+Achievement of Stream Use Factor - If the proposed project, along with other
+proposed projects in the planning area, will cause achievement of all water
+quality criteria then a factor of 2 will be assigned; except that if a stream
+exception has been granted a factor of 1 will be assigned. Also, a factor of 1
+will be assigned when all water quality criteria will not be met.
+
+2. The projects in this category which eliminate existing discharges will receive the sum of the
+priority points assigned to the discharges to be eliminated.
+3. All portions of these projects (such as pump stations, force mains, sewer rehabilitation, and
+interceptors) that are necessary to cause the environmental problem to be eliminated will receive
+the same number of priority points as that calculated for the existing discharge(s), to which the
+project portion is connected.
+4. Project ties in priority points, which are calculated in accordance with Section B., will be
+broken by ranking in order of the following ratio:
+lbs. BOD Removed by Project
+Total Eligible Cost for Project
+5.
+
+Projects in this category that are not meeting final limits, but for which zero priority
+points are calculated (i.e., suspended solids violations, percent removal, BOD
+violations, etc.), will receive a minimum of 1.0 priority point, and will then be ranked
+in order of the stream classification of the receiving stream.
+
+484
+
+

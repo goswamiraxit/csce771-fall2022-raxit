@@ -1,0 +1,63 @@
+(6)
+
+(1)
+
+The Commission may establish discharger specific criteria for new
+source discharges if the discharger can demonstrate that
+established Water Quality Criteria are based on conditions not
+applicable to Mississippi such as, but not limited to, the use of
+species not indigenous to Mississippi.
+
+(2)
+
+All discharger specific alternative criteria will be subject to
+Mississippi public participation requirements for revisions to water
+quality standards and will be subject to review by the U. S.
+Environmental Protection Agency.
+
+Toxic and Human Health Parameters for which no Numeric Criteria have been
+Established:
+(a)
+
+For those toxic and human health parameters for which no numeric criteria
+have been established, the Commission shall determine limitations using
+available references which shall include, but not be limited to, Quality
+Criteria for Water (Section 304(a)), Federal regulations under Section 307
+of the Clean Water Act, and Federal regulations under Section 1412 of the
+Public Health Service Act as amended by the Safe Drinking Act (Pub. 93523).
+
+(b)
+
+The not to be exceeded value for criteria published in 1980 or the one hour
+average value for criteria published in 1985 or later shall be used as an
+acute toxicity number for calculating effluent limitations, establishing
+Total Maximum Daily Loads (TMDLs), or reviewing ambient water
+quality data.
+
+(c)
+
+The 24-hour average for criteria published in 1980 or the 4-day average
+for criteria published in 1985 or later shall be used as a chronic toxicity
+number for calculating effluent limitations, establishing TMDLs, or
+reviewing ambient water quality data.
+
+(d)
+
+If metals concentrations for criteria are hardness-dependent, the chronic
+and acute concentrations shall be based on 25 mg/l hardness if the ambient
+hardness is less than or equal to 25 mg/l. Concentrations shall be based on
+the actual mixed stream hardness.
+
+(e)
+
+If separate criteria are given for fresh and salt waters, they shall be applied
+as appropriate.
+
+(f)
+
+For non-carcinogens, these concentrations will be determined using a
+Reference Dose (RfD) as published by the U. S. Environmental Protection
+Agency pursuant to Section 304(a) of the Federal Water Pollution Act as
+168
+
+

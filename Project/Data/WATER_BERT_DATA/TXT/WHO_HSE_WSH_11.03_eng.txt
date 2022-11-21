@@ -1,0 +1,1576 @@
+                       WHO/HSE/WSH/11.03
+
+
+
+
+Safe Drinking-water from Desalination
+© World Health Organization 2011
+
+All rights reserved. Publications of the World Health Organization can be obtained
+from WHO Press, World Health Organization, 20 Avenue Appia, 1211 Geneva 27,
+Switzerland (tel.: +41 22 791 3264; fax: +41 22 791 4857; e-mail:
+bookorders@who.int). Requests for permission to reproduce or translate WHO
+publications—whether for sale or for non-commercial distribution—should be
+addressed to WHO Press at the above address (fax: +41 22 791 4806; e-mail:
+permissions@who.int).
+
+The designations employed and the presentation of the material in this publication do
+not imply the expression of any opinion whatsoever on the part of the World Health
+Organization concerning the legal status of any country, territory, city or area or of its
+authorities, or concerning the delimitation of its frontiers or boundaries. Dotted lines
+on maps represent approximate border lines for which there may not yet be full
+agreement.
+
+The mention of specific companies or of certain manufacturers’ products does not
+imply that they are endorsed or recommended by the World Health Organization in
+preference to others of a similar nature that are not mentioned. Errors and omissions
+excepted, the names of proprietary products are distinguished by initial capital letters.
+
+All reasonable precautions have been taken by the World Health Organization to
+verify the information contained in this publication. However, the published material
+is being distributed without warranty of any kind, either expressed or implied. The
+responsibility for the interpretation and use of the material lies with the reader. In no
+event shall the World Health Organization be liable for damages arising from its use.
+
+This publication contains the collective views of an international group of experts and
+does not necessarily represent the decisions or the policies of the World Health
+Organization.
+                                                    Contents
+
+
+Abbreviations ........................................................................................................... iv
+
+Acknowledgements ................................................................................................. iv
+
+1.      Introduction...................................................................................................... 1
+
+2.      Desalination and water safety plans.............................................................. 2
+
+3.      Source water and potential hazards .............................................................. 4
+
+4.      Desalination processes................................................................................... 5
+        4.1 Pretreatment.............................................................................................. 5
+        4.2 Treatment .................................................................................................. 7
+        4.3 Post-treatment ........................................................................................... 8
+
+5.      Disinfection ...................................................................................................... 8
+
+6.      Blending and remineralization ....................................................................... 9
+        6.1 Blending source water with desalinated water .......................................... 9
+
+7.      Storage and distribution of processed water ............................................. 11
+        7.1 Microbial quality....................................................................................... 11
+        7.2 Chemical quality ...................................................................................... 12
+        7.3 Issues with blending desalinated water with other sources of treated
+             drinking-water .......................................................................................... 13
+
+8.      References ..................................................................................................... 13
+
+9.      Recommended reading ................................................................................. 15
+
+Annex 1: Chemicals of concern for desalination processes .............................. 19
+    Boron and borate ............................................................................................. 19
+    Bromide and bromate ...................................................................................... 19
+    Sodium and potassium .................................................................................... 20
+    Magnesium and calcium .................................................................................. 21
+    Organic chemicals found naturally in source waters ....................................... 21
+
+Annex 2: Efficiency of desalination processes for removing pathogens.......... 23
+    Reverse osmosis ............................................................................................. 23
+    Integrity of the RO system ............................................................................... 23
+    Thermal processes .......................................................................................... 24
+
+Annex 3: Remineralization ..................................................................................... 25
+    Calcium, magnesium and cardiovascular disease........................................... 26
+    Dietary supplementation .................................................................................. 27
+    Consumption of low-mineral water .................................................................. 28
+
+
+
+
+                                                            iii
+Abbreviations
+
+BTEX      benzene, toluene, ethylbenzene, xylenes
+CT        product of disinfectant concentration (C) and contact time (T)
+CVD       cardiovascular disease
+MF        microfiltration
+NF        nanofiltration
+NOM       natural organic matter
+RO        reverse osmosis
+WHO       World Health Organization
+WSH       Water, Sanitation, Hygiene and Health
+WSP       water safety plan
+
+
+
+
+Acknowledgements
+
+The World Health Organization (WHO) wishes to express its appreciation to
+all those who contributed to the preparation and development of this
+document through the provision of their time, expertise and experience.
+
+Special appreciation is extended to Mr John Fawell, independent consultant,
+United Kingdom, who dedicated a significant amount of his time and provided
+technical expertise to support the development of this document.
+
+The work on a normative document on desalination and public health was
+initiated by the WHO Regional Office for the Eastern Mediterranean. Thanks
+are due to Dr Joseph Cotruvo, United States of America, and the team of
+experts who contributed to Desalination technology: health and environmental
+impacts (Cotruvo et al., 2010). That monograph, jointly published in 2010 by
+IWA Publishing and CRC Press, provides a comprehensive overview of the
+public health and environmental aspects of desalination systems. It provided
+the basis for important technical inputs into the present technical document,
+which focuses on the public health aspects of desalination.
+
+The development and production of this document were coordinated and
+managed by staff of the Water, Sanitation, Hygiene and Health (WSH) unit of
+WHO, including Mr Robert Bos (coordinator, WSH), Mr Bruce Gordon and Mr
+Chee-Keong Chew (technical officers).
+
+The secretarial support provided by Ms Penny Ward and Ms Jacqueline
+Ravenscroft is also gratefully acknowledged.
+
+
+
+
+                                      iv
+1. Introduction
+Desalination is increasingly being used to provide drinking-water under
+conditions of freshwater scarcity. Water scarcity is estimated to affect one in
+three people on every continent of the globe, and almost one fifth of the
+world’s population live in areas where water is physically scarce. This
+situation is expected to worsen as competing needs for water intensify along
+with population growth, urbanization, climate change impacts and increases in
+household and industrial uses.
+
+Desalination may be applied to waters of varying levels of salinity, such as
+brackish groundwater, estuarine water or seawater; in some regions, it forms
+the primary source of drinking-water. At its origins, desalination technology
+was primarily thermal, by flash distillation, but as a result of technological
+advances, membranes have become a more cost-effective alternative that is
+increasingly being selected for new systems. Many thermal plants remain in
+use.
+
+Saline sources are different from freshwater sources in that they always
+require a substantive treatment step. However, while the desalination process
+usually provides a significant barrier to both pathogens and chemical
+contaminants, this barrier is not necessarily absolute, and a number of issues
+could potentially have an impact on public health. Some of these are similar to
+the challenges encountered in most piped water systems, but others, such as
+those related to stabilizing and remineralizing the water to prevent it from
+being excessively aggressive, are different and therefore must be addressed
+within the context of a site-specific health risk management plan (see section
+2 below).
+
+This document aims to:
+
+•   highlight the principal health risks related to different desalination
+    processes;
+•   provide guidance on appropriate risk assessment and risk management
+    procedures in order to ensure the safety of desalinated drinking-water.
+
+The document introduces the concept of water safety plans (WSPs) for
+desalination systems, provides an overview of potential hazards in source
+water and describes microbial and chemical risks and other key issues
+associated with treatment, remineralization, storage and distribution. More
+detailed information is presented in a series of annexes.
+
+The document will be of use to health authorities, water quality regulators,
+operators of desalination plants and others interested in water quality and
+health issues.
+
+A comprehensive examination of technical and water quality issues pertaining
+to desalination, such as environmental impacts, engineering considerations
+and equipment and processes for different desalination technologies, is
+
+
+                                       1
+provided in Desalination technology: health and environmental impacts
+(Cotruvo et al., 2010).
+
+
+2. Desalination and water safety plans
+As with any drinking-water supply, the development of a WSP is an essential
+first step in the provision of safe drinking-water (Figure 1). For any new
+system, development of a WSP should be initiated at the planning phase and
+carried through as the plant is built and commissioned. For existing plants,
+WSPs are equally important, as they help to identify potential risks and
+available barriers in their systems and support the introduction of a preventive
+risk management approach to problems that could have an impact on the
+quantity and quality of water supplied.
+
+
+Figure 1. Framework for safe drinking-water (WHO, 2011)
+
+
+
+
+A WSP maps the water supply system from catchment to tap to facilitate a
+thorough understanding of the system, including all its steps and stages,
+identifies the hazards that may be introduced at each stage and determines
+the risks associated with those hazards. Hazards are physical, microbial and
+chemical contaminants that could have an impact on health or adversely
+affect the acceptability (e.g. taste and odour) of the water to consumers.
+Hazards may also be substances or circumstances that threaten the operation
+of the desalination plant. The risks may be the potential for a particular hazard
+to reach the consumer in numbers (pathogens) or concentrations (chemicals)
+that will result in illness or the water becoming unacceptable. This may
+include the risk of exceeding the current drinking-water standards in a given
+country. In addition to technical considerations, a WSP also entails essential
+management components, such as training, maintaining records,
+documentation and periodic review of operating procedures to enhance the
+
+
+                                         2
+operation and management of the water supply system. Table 1 illustrates the
+key elements of a WSP for desalination.
+
+
+Table 1. Elements of a water safety plan for desalination
+
+ Component                               Action
+ Description of the system, including    Thoroughly understand and document the system
+ the water source and sources of         from the source to the tap.
+ hazards.
+ Assess the risks of hazards             Determine the pathogens or chemicals that could be
+ reaching consumers in numbers or        introduced at each stage, and ensure that barriers
+ concentrations of concern, and          or operational procedures are in place to reduce the
+ ensure that steps are in place to       risks to meet health-based targets.
+ mitigate the risks.
+ Ensure that the barriers are working    Develop operational monitoring to demonstrate that
+ efficiently at all times, and develop   processes are working efficiently and an alert
+ procedures for responding when          system to warn upon a decrease in effectiveness.
+ efficiency starts to fall.              Develop management procedures to ensure that all
+                                         of the procedures are followed.
+ Verification that the WSP is working    Analyse key indicators of water quality and safety,
+ adequately and that a safe and          and assess against appropriate standards and
+ acceptable supply of drinking-water     guidelines.
+ is delivered.
+ Develop supporting programmes.          Activities in such programmes are tailored to the
+                                         specific needs and priorities of the water supply
+                                         system and may vary from consumer education and
+                                         community engagement to workforce training
+                                         programmes.
+ Periodically review the WSP, and        Ensure that operation and management procedures
+ update the WSP in the wake of           are kept up to date and revised to incorporate
+ problems or emergencies.                lessons learnt.
+
+
+
+Specific hazards and risks are considered in the following sections. Hazards
+may be present in source waters or may arise during treatment or other
+drinking-water production processes, during distribution and in consumer
+premises. Once the hazards have been identified, the associated risks need
+to be mitigated by removing or reducing their influx into the source using
+specific treatment barriers and sound operation and management procedures.
+A key step is operational monitoring of processes or barriers to ensure that
+they are working optimally at all times. However, all monitoring should be
+used to provide information that can be applied to ensure the proper
+management of the system and safe water quality. The WSP will also include
+procedures to ensure that chemicals and materials used in the system comply
+with requirements and will not introduce hazards. Appropriate emergency
+plans that would cover all aspects of the system, from a contamination
+incident in the raw water source to a breakdown in treatment and distribution
+(e.g. in final disinfection or damage to the distribution system), are also
+important components. In addition, WSPs for desalination systems should
+take into account the process of remineralization or stabilizing the treated
+water before distribution.
+
+
+
+                                               3
+Detailed information on WSPs can be found in the World Health
+Organization’s (WHO) Guidelines for drinking-water quality (WHO, 2011) and
+supporting WHO guidance documents, such as the Water safety plan manual:
+step-by-step risk management for drinking-water suppliers (WHO, 2009).
+
+
+3. Source water and potential hazards
+Source water for desalination can be marine or brackish surface water or
+highly mineralized groundwater. By definition, this water has a significant
+content of naturally occurring inorganic ions, and the objective of treatment is
+to reduce the concentration of, or remove, these substances. These naturally
+occurring substances include some that would be of potential concern if
+present in sufficient concentrations after treatment. Like all surface water
+sources and some groundwater sources, there can be contamination by
+pathogenic viruses, bacteria and parasites and by a variety of chemical
+contaminants from human activities.
+
+There are notable differences between freshwater sources and brackish or
+saline sources. In particular, the survival of many microbial pathogens is
+significantly reduced in saline waters, especially in combination with a high
+level of solar radiation. However, some pathogens, such as Vibrio cholerae,
+do survive well in saline waters. There are also many marine algae that can
+produce toxins of concern to human health. These issues are covered in
+detail in Desalination technology: health and environmental impacts (Cotruvo
+et al., 2010).
+
+Chemical constituents of interest include boron (borate), bromide, iodide,
+sodium and potassium; they may require additional actions for removal
+(boron) or are present in such concentrations as to leave significant residues.
+While natural organic matter (NOM) varies significantly, there are a number of
+organic substances, coming from both natural and anthropogenic sources,
+that are of particular interest. Individual and groups of chemicals that are of
+concern for desalination processes are considered in more detail in Annex 1.
+
+Understanding the hazards that are likely to be present in the source water is
+a critical condition for the proper design of the desalination process; it
+highlights the need for pretreatment steps and the removal of contaminants in
+treatment or the need for additional treatment barriers. In the case of potential
+problems from contaminants, either chemical or microbial, the first step in
+reducing the associated risks is to try to prevent or reduce inputs at source. In
+some cases, this may be possible; in other cases, siting of the raw water
+intake may help to minimize the intake of contaminants into the desalination
+plant. However, thermal plants, in particular, are often co-located with power
+plants, and there may be limited options in terms of suitable locations for the
+intake. Where source water quality is highly variable, some form of monitoring
+will help to provide information in managing water abstraction to minimize the
+intake of constituents or contaminants. For example, some estuarine-based
+desalination plants abstract water only at a particular tide level to reduce the
+salinity in the source water and the concentrations of possible anthropogenic
+
+
+                                        4
+contaminants. In addition, knowledge of potential contaminants is important in
+preparing emergency plans to protect source water quality (e.g. to deal with
+oil spills in oil-producing regions).
+
+
+4. Desalination processes
+The desalination process is primarily intended to remove natural ionic
+contaminants, but some substances are not as well removed as others.
+For example, boron, which can be present in significant concentrations in
+saline waters, is not well removed by reverse osmosis (RO). While most
+systems remove a significant proportion of microbial pathogens, in some
+circumstances, there is a significant potential for some pathogen transfer.
+Electrodialysis reversal systems do not provide any barrier against pathogens,
+and electrodialysis reversal is, therefore, rarely considered to serve as the
+main treatment barrier for drinking-water production.
+
+In addition, a number of chemical treatments are used to prepare and
+maintain the desalination systems, and procedures must be established to
+ensure that the associated compounds do not reach final water in
+unacceptable concentrations. These processes and the chemicals used are
+considered in detail in Cotruvo et al. (2010). Cleaning of membranes is
+fundamental for optimal treatment performance and the quality of water
+coming from the membranes. When cleaning agents are applied, either online
+or offline, these chemicals can be present in the system at high
+concentrations that could negatively affect treated water quality. Therefore,
+the membranes should be properly flushed before installation and before the
+system goes back online, and the flushing solution should be disposed of
+suitably as waste. Pretreatment of the waste will be necessary, and it is
+important that this waste stream be disposed of properly so that it does not
+contaminate either source waters or waters that might be used for blending
+with desalinated water.
+
+Materials such as piping and contact surfaces in treatment systems and
+processes that come into contact with drinking-water need to be assessed to
+ensure that no harmful chemicals or substances in these materials are
+introduced that could cause WHO guideline values to be exceeded, pose a
+hazard to health or have an impact on the acceptability of the final water.
+Procedures ensuring compliance are an important component of the WSP.
+
+4.1 Pretreatment
+Pretreatment of the source water after the intake is normally designed to
+remove contaminants that will interfere with the desalination process by, for
+example, scale formation or membrane fouling. This treatment can include
+coagulation and filtration or membrane filtration processes that will remove
+particulate and organic matter, including a significant reduction of NOM,
+although seawater is generally low in NOM. A disinfectant such as chlorine is
+normally applied to minimize fouling and reduce the risk of pathogens carrying
+over to the product water.
+
+
+                                      5
+Humic and fulvic acids and other related substances that constitute NOM can
+react with chlorine (and other disinfectants) to produce a wide range of
+halogenated and oxidation by-products. In the presence of the high bromide
+concentrations found in seawater and many brackish waters, the bromide is
+oxidized to bromine or hypobromite, which will take part in the halogenation
+reactions and produce organobromine products as the predominant by-
+products. Data from studies on the chlorination of seawater show that the
+disinfection by-products are dominated by brominated trihalomethanes,
+particularly bromoform and, to a lesser extent, dibromochloromethane. The
+WHO Guidelines for drinking-water quality consider these substances in
+detail, and guideline values have been established for them. There may also
+be small quantities of iodinated trihalomethanes present, which may have an
+impact on taste, but there are no guideline values for these substances; there
+are limited data on their presence in disinfected fresh water (Plewa et al.,
+2004) and some data on their occurrence in disinfected water with high salt
+content (Richardson et al., 2003). The levels of other potential chlorination by-
+products, such as the haloacetic acids, will be a function of the precursors
+present. Again, either distillation or membranes will remove most of these
+disinfection by-products as well as their precursors, although a proportion of
+the smaller or more volatile molecules may pass through treatment.
+
+Organonitrogen compounds, particularly N-nitrosodimethylamine and other
+nitrosamines (e.g. nitrosodiethylamine), may form during chloramination if the
+appropriate secondary amines are present in the source water or possibly in
+coagulants. Numerous N-chloroamine and N-chloroamide compounds are
+undoubtedly formed at very low concentrations, but there are limited data on
+their occurrence and toxicology. The body of data on the formation of N-
+nitroso compounds during drinking-water distribution is limited but increasing;
+there appear to be no data, however, on their presence in desalinated water.
+There is evidence of the formation of nitrosamines in chlorinated wastewater,
+where there will also be ammonia and secondary amines present. Thus,
+where chlorinated sewage effluents are likely to have an impact on the raw
+water, there may be potential for these compounds to volatilize and be carried
+over into the desalinated product water. N-Nitrosodimethylamine is known to
+be poorly removed by RO membranes because of its low molecular weight,
+and it is often treated by advanced oxidation processes in water reuse
+schemes.
+
+Where hypochlorite is produced by electrolytic generation from seawater or
+brine with a high bromide level, this will lead to the formation of bromate.
+Because it is ionic, bromate is not likely to pass through membranes and
+would not be expected to carry over in thermal systems. Where hypochlorite
+is allowed to age, there is potential for the formation and build-up of chlorate,
+which can be well removed by either distillation or membranes. The presence
+of chlorate in finished water would usually be due to post-treatment
+chlorination.
+
+
+
+
+                                        6
+4.2 Treatment
+The efficiency of desalination plants in removing or inactivating microbial
+contaminants can be assessed by examining the expected performance and
+factors affecting the quality of each stream or combined final treated water.
+The potential for survival of microorganisms depends upon the capability and
+operating conditions of each process unit for their removal or inactivation.
+Evaluation should include any pretreatment processes, the water produced by
+membrane processes or the water resulting from thermal treatment
+processes.
+
+Membranes need to be protected from particulates to prevent clogging and
+fouling, and so particulate removal processes are employed, while oxidants
+and biocides may be employed to prevent fouling of the RO membranes.
+Although these pretreatments are not necessarily employed to reduce the
+numbers of waterborne pathogens, they will have an impact on numbers,
+particularly through particle removal.
+
+Pretreatments include the use of membranes for microfiltration (MF) and
+nanofiltration (NF) to prepare the water for the subsequent desalination
+process. MF and NF have a substantial capacity to physically remove a large
+proportion of particulate-associated microorganisms as well as some
+dissolved solids. They can effectively remove at least 6 logs of
+microorganisms according to their pore size distribution, but the actual
+removal should be validated before application as a pretreatment
+(LeChevallier & Kwok-Keung, 2004).
+
+A vital part of the WSP is the introduction of procedures to monitor that
+treatment is operating effectively and efficiently. For membrane systems, the
+barrier function depends on the integrity of the membranes. Integrity testing of
+the membranes is therefore crucial, as breaches can lead to the passage of
+pathogens into the processed water. The efficiency of different desalination
+technologies to remove pathogens is discussed in Annex 2.
+
+There is the possibility that a number of volatile organic contaminants,
+including those present in raw water and those resulting from disinfection,
+could carry over to the product water in thermal distillation processes. There is
+a need to understand under what circumstances this will take place and to
+confirm that those types of substances are adequately removed.
+
+Membranes provide a barrier to most chemical compounds, although not
+always a complete barrier. The propensity of boron (as borate or boric acid)
+and also arsenite to pass through membranes raises the question as to what
+other anions and small neutral organic molecules will pass through
+membranes. There is a need for more specific data from actual desalination
+facilities and for specific types of membranes. This would constitute
+investigative monitoring either in a pilot plant or retrospectively in an
+operational plant.
+
+Flash distillation desalination plants are often sited beside coastal power
+plants, and an additional potential concern, for which there appear to be no
+
+
+                                       7
+firm data, is the use of hydrazine in power plants as an oxygen scavenger.
+Although hydrazine itself is no longer used, alternatives appear to break down
+to hydrazine. Where these compounds are used, it is important that there be
+no potential to transfer, through steam leaks, into the desalination stream.
+
+4.3 Post-treatment
+Post-treatment consists of disinfection and conditioning (i.e. blending and
+remineralization) to reduce the aggressive nature of the treated water. Both
+processes are key considerations for desalination and have the potential to
+introduce microbial and chemical contaminants into the water They are
+considered in greater detail in the following sections.
+
+
+5. Disinfection
+Desalinated waters constitute a relatively easy disinfection challenge because
+of their low total organic carbon and particle content, low microbial loads and
+minimal oxidant demand after desalination treatments. Turbidity is not likely to
+affect chemical disinfectant performance, as turbidity values of desalinated
+water are low. Post-treatment (e.g. with lime) can cause an increase of
+inorganic turbidity that would not interfere with disinfection by chlorine. The
+target levels of inactivation for pathogens remaining in desalinated waters can
+readily be achieved by appropriate disinfection processes, discussed in the
+WHO Guidelines for drinking-water quality (WHO, 2011). Once the target
+levels of disinfection have been achieved, it is good practice to maintain an
+appropriate level of residual disinfectant in the product water during
+distribution.
+
+Issues to be considered as specific to the disinfection of desalinated water
+are:
+
+•     the potential passage of viruses through some RO membranes, which may
+      require adequate virus inactivation downstream of RO. For CT values (the
+      product of disinfectant concentration and contact time) for the inactivation
+      of viruses, see Tables 2 and 3 (Cotruvo et al., 2010);
+•     the potential loss of integrity of membranes, which could lead to the
+      passage of pathogens into the process water.
+
+
+Table 2. CT values for inactivation of viruses
+                                                  CT value (mg·min/l)
+    Disinfectant                2 log                    3 log          4 log
+    Chlorinea                     3                        4             6
+                 b
+    Chloramine                   643                     1067           1491
+                     c
+    Chlorine dioxide             4.2                      12.8          25.1
+a
+  Based on 10 °C, pH 6–9, free chlorine residual of 0.2–0.5 mg/l.
+b
+  Based on 10 °C, pH 8.
+c
+  Based on 10 °C, pH 6–9.
+Source: CT values from USEPA (1991).
+
+
+                                              8
+Table 3. CT values for inactivation of viruses using chloramines
+
+                                               CT value (mg·min/l)
+ Temperature (°C)              2 log                   3 log         4 log
+ 5                              857                    1423           1988
+ 10                             643                    1067           1491
+ 15                             428                     712           994
+ 20                             321                     534           746
+ 25                             214                     356           497
+Source: CT values from USEPA (1991).
+
+
+
+These issues can be addressed in most cases by applying effective post-
+desalination disinfection using chlorine-based or alternative disinfection
+processes (ultraviolet light, ozone, etc.) as an additional barrier to reduce the
+possible risks. Preventive measures and procedures, as advocated by the
+WSP approach, should be undertaken to ensure that high levels of chemical
+contaminants are not introduced during this process (e.g. limits on bromate in
+electrolytically generated hypochlorite and appropriate storage of hypochlorite
+solution to prevent formation of high levels of chlorate). Because of the low
+NOM content of desalinated water, organic by-products are usually present in
+low concentrations only, although the use of ozone may lead to bromate
+formation.
+
+
+6. Blending and remineralization
+Desalinated water is low in minerals and is poorly buffered. It is usually
+aggressive to cementitious and metallic materials used in storage, distribution
+and plumbing and requires conditioning to address this problem. Blending
+desalinated water with source water or partially treated water is a common
+practice, and the addition of minerals to achieve a balanced mineral content in
+desalinated water is increasingly being adopted. This latter approach may
+also be used to make a contribution to the mineral intake of consumers in
+regions where traditional sources of water have contained significant levels of
+minerals. Remineralization is considered in detail in Annex 3, and blending is
+considered further below.
+
+6.1 Blending source water with desalinated water
+The quality of the source water used for blending is particularly important to
+the evaluation of the microbial risk of the blended water if there will be mixing
+of incompletely treated water with desalinated water prior to distribution. The
+amount of water used for blending may vary from less than 1% to 10% and
+can include partially treated seawater and untreated groundwater. This
+potential short-circuiting of the main treatment process should not allow
+pathogens and other undesirable microorganisms to be introduced into the
+finished desalinated water. This water should, therefore, be considered as
+source water and adequately treated to ensure that it is safe. In addition, there
+
+
+                                           9
+should be specific minimum requirements for disinfection and particle removal
+and monitoring methods for appropriate performance surrogates (Cotruvo et
+al., 2010; WHO, 2011). Requirements for treatment performance to remove
+the bacteria, viruses and protozoan parasites should also be designed
+according to the level of contamination of the raw water used for blending.
+Similar considerations regarding the formation of by-products in the blending
+water apply as discussed under pretreatment processes (see section 4.1).
+There are currently WHO guideline values for several disinfection by-
+products. Generally, the NOM content in finished water is very low, and the
+contribution of NOM from the blending water will not normally be significant,
+and so the yield of by-products from final disinfection would be expected to be
+low. Chlorine used for disinfection that is generated from brine with high
+bromide levels may contain significant levels of bromate that could exceed the
+WHO bromate guideline value for drinking-water. Effective procedures should,
+therefore, be included in the WSP to ensure that this does not happen.
+
+Seawater as a source of water for blending has both advantages and
+disadvantages, particularly in terms of corrosion and taste if the blending
+levels exceed about 1%. In addition, bromide would likely continue to react
+with residual disinfectants during storage and distribution. Blending with
+seawater will result in the addition of sodium and some potassium, calcium,
+magnesium, chlorides and other salts to drinking-water. Therefore,
+consideration should be given to the natural minerals present and whether
+these will result in finished water not meeting the WHO guideline values or
+having unacceptable taste. There is also an issue with regard to potential
+anthropogenic pollutants from a range of sources that need to be considered
+on a local basis, whenever any external and potentially minimally treated
+source is used. It is, therefore, important to take into account potential
+pollution sources and threats in the WSP and introduce appropriate barriers to
+minimize the risks from any hazards identified.
+
+In addition, other corrosion-inhibiting chemicals, primarily silicates,
+orthophosphate or polyphosphate, may be added to the water. Such
+chemicals are widely used in many parts of the world and are not of direct
+consequence to health. However, it is important that they be of a suitable
+quality for addition to drinking-water and that there are no contaminants of
+concern, particularly those covered in the WHO Guidelines for drinking-water
+quality (WHO, 2011), that would make a significant contribution to the
+concentrations of such contaminants in drinking-water. It is also important that
+they be verified to be always of an appropriate quality. Approval systems for
+chemicals that specify the quality and acceptable levels of contaminants are
+available. The development of guidance on how such systems can and should
+operate is under consideration in the ongoing work for the WHO Guidelines
+for drinking-water quality. Where remineralization is practised, it is also
+important to ensure that the minerals added are of an appropriate quality and
+do not introduce contaminants that adversely affect water quality.
+
+
+
+
+                                      10
+7. Storage and distribution of processed water
+Desalinated water usually undergoes storage prior to or during distribution,
+and the problems encountered during storage and distribution are similar to
+those encountered for other supplies derived from fresh water. These relate to
+the potential introduction of contaminants, both microbial and chemical, the
+problem of corrosion of materials and the potential for materials and corrosion
+products to affect water quality, and the growth of pathogenic and potential
+nuisance organisms. Similar to most drinking-water supplies, there is often a
+requirement for blending with existing drinking-water streams.
+
+7.1 Microbial quality
+The challenge of maintaining microbial water quality during storage and
+distribution is not specific to desalinated water. Microorganisms will grow
+during distribution, especially in the absence of an effective residual
+disinfectant and at the high water temperatures often encountered. A broad
+spectrum of microbial species, such as Legionella, Aeromonas,
+Pseudomonas, Burkholderia pseudomallei and atypical mycobacteria, some
+of which include strains that are opportunistic pathogens, can be present in
+distributed waters. The routes of transmission of these bacteria include
+inhalation and contact (bathing), with infections occurring in the respiratory
+tract, in skin lesions or in the brain (Craun & Calderon, 2001). There is no
+evidence of an association of any of these organisms with gastrointestinal
+infection through ingestion of drinking-water (Ainsworth et al., 2004), but
+Legionella can grow to significant numbers at temperatures of 25–50 °C.
+Where temperatures in hot or cold water distribution systems cannot be
+maintained outside the range of 25–50 °C, greater attention to disinfection
+and operating measures aimed at limiting the development of biofilms is
+required. Accumulation of sludge, scale, rust, algae or slime deposits in water
+distribution systems supports the growth of Legionella spp., as does stagnant
+water (Lin et al., 1998). Systems that are kept clean and flowing are less likely
+to support excess growth of Legionella spp. Care should also be taken to
+select plumbing materials that do not support microbial growth and the
+development of biofilms. Further guidance is available in the WHO Guidelines
+for drinking-water quality (WHO, 2011) and in Health aspects of plumbing
+(WHO/WPC, 2006).
+
+Non-pathogenic organisms will grow during distribution, and these contribute
+to the heterotrophic plate count. The development of heterotrophic plate
+counts during distribution is no longer considered a significant health risk per
+se, but its value as an indicator of water quality and treatment efficacy has
+been reiterated (WHO, 2003). However, such organisms can contribute to
+problems of acceptability.
+
+The maintenance of water quality during storage and distribution depends on
+a number of factors, including:
+
+•   the amount of biodegradable organic matter available and trace nutrients
+    to support the growth of bacteria;
+
+
+                                       11
+•   balancing the water to reduce corrosion of iron from iron pipes and
+    corrosion sediment;
+•   the availability and nature of attachment surfaces, in particular the pipe
+    and reservoir surfaces, and the presence of corrosion;
+•   the maintenance of a disinfectant residual;
+•   the maintenance of integrity in the pipes and reservoirs;
+•   the growth conditions, such as system retention time, hydraulic conditions
+    and temperature.
+
+The WHO documents Safe piped water: managing microbial water quality in
+piped distribution systems (Ainsworth et al., 2004) and Health aspects of
+plumbing (WHO/WPC, 2006) set risk management and risk reduction
+frameworks to limit the health risk associated with the distribution of piped
+water, and these guidelines also apply to desalinated water. Those water
+quality concerns should be considered in light of the potential for microbial
+regrowth.
+
+High water temperatures will limit the maintenance of an effective disinfectant
+residual throughout the distribution system as a result of the increased
+chemical reactivity of the disinfectant. The use of chloramines constitutes an
+advantageous alternative to free chlorine in distribution systems with long
+retention times and operating at elevated ambient or system temperature.
+Chloramines also seem to be more effective at limiting Legionella growth in
+domestic plumbing; however, nitrification can occur from chloramines when
+Nitrosomonas bacteria and suitable conditions (pH, temperature, dissolved
+oxygen level) are present.
+
+7.2 Chemical quality
+Desalinated water is initially more corrosive than many other drinking-water
+sources, and it is important, as indicated above, that the water be stabilized to
+minimize its corrosive effect on pipes and fittings used in distribution and
+plumbing systems in buildings. Where tankers are used for distribution, the
+potential for corrosion of the water tanks must be considered. The
+requirement is that corrosion should not give rise to levels of metals that
+exceed the WHO guideline values or result in unacceptable appearance or
+taste or lead to physical damage to surfaces in contact with water. These can
+include metals from primary distribution and storage, particularly iron, and
+from plumbing and fittings in buildings, including lead, copper and sometimes
+nickel. Iron is a common cause of discoloured water that significantly reduces
+the aesthetic acceptability of the water for both drinking and household uses.
+Water that is low in pH can also corrode cement- or concrete-lined pipes or
+storage reservoirs. In many cases, a range of coatings and materials will be
+used to coat pipes or storage reservoirs, or storage tanks in buildings, in order
+to protect against corrosion. It is important that these materials be certified as
+safe for use with potable water. As indicated above, approval schemes have
+an important part to play in ensuring their safety and reducing the potential
+impact on consumer acceptability. There is a particular consideration in the
+approval of materials, as in many of these circumstances they will be used at
+elevated temperatures, which can exacerbate leaching of component metals.
+
+
+                                       12
+Establishing procedures for managing the distribution system is an important
+part of the WSP. These include mapping the storage and distribution system
+and identifying any points where there is potential for ingress of microbial and
+chemical contaminants that could have an impact on water quality,
+acceptability and health. These procedures should also consider operational
+management of the water system to avoid surges or sudden disturbances that
+could dislodge sediments. In a number of countries, desalinated water may be
+distributed in tankers to consumer premises where the water is stored again.
+Transfer points make up part of the distribution system, but they potentially
+introduce vulnerable points where contamination can occur. It is, therefore,
+important that the WSP also covers this aspect of distribution, with
+appropriate procedures to ensure that the water does not deteriorate prior to
+being used for drinking or food preparation.
+
+7.3 Issues with blending desalinated water with other sources of treated
+drinking-water
+Blending of desalinated water with groundwater or potable water from other
+sources is often a means of increasing the reliability and flexibility of water
+supply. This practice does not raise any special issues for desalinated water
+with regard to microbiological quality. Blending water from different sources
+does, however, have quality implications. Special care should be taken
+regarding the potential for changes in the taste and mineral characteristics of
+the water to prevent adverse impacts on consumer perception of quality,
+especially if blending is intermittent and the blending ratio is highly dynamic.
+Taylor et al. (2006) provided an excellent review of issues to take into
+consideration and results from an extensive pilot study of the impact of
+blending water treated by RO with potable water from groundwater and
+surface water in various pipe materials. It is of special relevance to maintain
+conditions aimed at minimizing iron, lead and copper release (selection of
+disinfectant and dosage adjustment) and to control nitrification when
+chloramines are used as the secondary disinfectant.
+
+
+8. References
+Adham S et al. (1998a) Monitoring the integrity of reverse osmosis membranes. Desalination,
+119(1–3):143–150.
+
+Adham S et al. (1998b) Rejection of MS-2 virus by RO membranes. Journal of the American
+Water Works Association, 90(9):130–135.
+
+Ainsworth R et al. (2004) Safe piped water: managing microbial water quality in piped
+distribution systems. Geneva, World Health Organization
+(http://www.who.int/water_sanitation_health/dwq/924156251X/en/index.html).
+
+Bull RJ, Cotruvo JA, eds (2006) A research strategy to improve risk estimates for bromate in
+drinking-water. Toxicology, 221(2–3):135–248.
+
+Colvin CK et al. (2000) Microbial removal by NF/RO. Presented at the American Water Works
+Association Annual Conference, Denver, Colorado, 11–15 June 2000.
+
+
+
+                                             13
+Cotruvo JA (2006) Health aspects of calcium and magnesium in drinking water. Water
+Conditioning & Purification, 48(6):40–44 (http://www.wcponline.com/pdf/Cotruvo.pdf).
+
+Cotruvo J et al. (2010) Desalination technology—Health and environmental impacts. Boca
+Raton, Florida, IWA Publishing and CRC Press.
+
+Craun GF, Calderon RL (2001) Waterborne disease outbreaks caused by distribution system
+deficiencies. Journal of the American Water Works Association, 93(9):64–75.
+
+FAO/WHO (1988) Bromide ion. In: Pesticide residues in food—1988 evaluations. Geneva,
+World Health Organization, Joint FAO/WHO Meeting on Pesticide Residues
+(http://www.inchem.org/documents/jmpr/jmpmono/v88pr03.htm).
+
+Gagliardo PF et al. (1997) Membranes as an alternative to disinfection. Presented at the
+American Water Works Association Annual Conference, Atlanta, Georgia.
+
+Kitis M et al. (2002) Microbial removal and integrity monitoring of high-pressure membranes.
+Presented at the American Water Works Association Water Quality Technology Conference,
+Seattle, Washington.
+
+Kitis M et al. (2003) Evaluation of biologic and non-biologic methods for assessing virus
+removal by and integrity of high pressure membrane systems. Water Supply, 3(5–6):81–92.
+
+Kozisek F (2005) Health risks from drinking demineralised water. In: Nutrients in drinking-
+water. Geneva, World Health Organization, pp. 148–163
+(http://www.who.int/water_sanitation_health/dwq/nutrientsindw/en/index.html).
+
+LeChevallier MW, Kwok-Keung A (2004) Water treatment and pathogen control: process
+efficiency in achieving safe drinking-water. London, IWA Publishing on behalf of the World
+Health Organization
+(http://www.who.int/water_sanitation_health/dwq/9241562552/en/index.html).
+
+Lin YE et al. (1998) Legionella in water distribution system. Journal of the American Water
+Works Association, 90(9):112–121.
+
+Lovins WA et al. (1999) Multi-contaminant removal by integrated membrane systems.
+Presented at the American Water Works Association Water Quality Technology Conference,
+Tampa, Florida.
+
+McGuire Environmental Consultants Inc. (2005) Final report: Pharmaceuticals, personal care
+products and endocrine disruptors—Implications for Poseidon Resources Corporation’s
+proposed ocean desalination facility in Carlsbad. Santa Monica, California, McGuire/Malcolm
+Pirnie.
+
+Plewa M et al. (2004) Chemical and biological characterization of newly discovered iodoacid
+drinking water disinfection byproducts. Environmental Science and Technology, 38(18):4713–
+4722.
+
+Richardson S et al. (2003) Tribromopyrrole, brominated acids, and other disinfection
+byproducts produced by disinfection of drinking water rich in bromide. Environmental Science
+and Technology, 37(17):3782–3793.
+
+Taylor JS, Jacobs EP (1996) Reverse osmosis and nanofiltration. In: Mallevialle J, Odendaal
+PE, Wiesner MR, eds. Water treatment and membrane processes, New York, NY, McGraw-
+Hill, pp. 9.18–9.22.
+
+Taylor JS et al. (2006) Effects of blending on distribution system water quality. Denver,
+Colorado, American Water Works Association Research Foundation (Report 91065F).
+
+
+
+
+                                              14
+Thompson T et al. (2007) Chemical safety of drinking-water: assessing priorities for risk
+management. Geneva, World Health Organization
+(http://whqlibdoc.who.int/publications/2007/9789241546768_eng.pdf).
+
+USBR (2003) Desalting handbook for planners, 3rd ed. Denver, Colorado, United States
+Department of the Interior, Bureau of Reclamation, Water Treatment Engineering and
+Research Group (Desalination and Water Purification Research and Development Report No.
+72).
+
+USEPA (1991) Guidance manual for compliance with the filtration and disinfection
+requirements for public water systems using surface water sources. Washington, DC, United
+States Environmental Protection Agency (EPA No. 570391001;
+http://www.epa.gov/safewater/mdbp/guidsws.pdf).
+
+Van der Hoek JP et al. (2000) RO treatment: selection of a pretreatment scheme based on
+fouling characteristics and operating conditions based on environmental impact. Desalination,
+127(1):89–101.
+
+WHO (2003) Guidelines for safe recreational water environments. Vol. 1. Coastal and fresh
+waters. Geneva, World Health Organization
+(http://www.who.int/water_sanitation_health/bathing/srwe1/en/).
+
+WHO (2005a) Bromate in drinking-water. Background document for development of WHO
+Guidelines for drinking-water quality. Geneva, World Health Organization
+(WHO/SDE/WSH/05.08/78; WHO/HSE/WSH/09.04/54;
+http://www.who.int/water_sanitation_health/dwq/chemicals/en/).
+
+WHO (2005b) Nutrients in drinking-water. Geneva, World Health Organization
+(http://www.who.int/water_sanitation_health/dwq/nutrientsindw/en/index.html).
+
+WHO (2006) Meeting of experts on the possible protective effect of hard water against
+cardiovascular disease, Washington, D.C., USA, 27–28 April 2006. Geneva, World Health
+Organization (WHO/SDE/WSH/06.06;
+http://www.who.int/water_sanitation_health/gdwqrevision/cardiofullreport.pdf).
+
+WHO (2009) Water safety plan manual: step-by-step risk management for drinking-water
+suppliers. Geneva, World Health Organization
+(http://www.who.int/water_sanitation_health/dwq/WSP/en/index.html).
+
+WHO (2011) Guidelines for drinking-water quality, 4th ed. Geneva, World Health Organization
+(in press).
+
+WHO/WPC (2006) Health aspects of plumbing. Geneva, World Health Organization and
+World Plumbing Council
+(http://www.who.int/water_sanitation_health/publications/plumbinghealthasp/en/index.html).
+
+Yermiyahu U et al. (2007) Rethinking desalinated water quality and agriculture. Science,
+318:920–921.
+
+
+
+9. Recommended reading
+AWWA (2006) Waterborne pathogens. Denver, Colorado, American Water Works Association
+(AWWA Manual of Practices, M48).
+
+Block JC (1992) Biofilms in drinking-water distribution system. In: Melo LF et al., eds.
+Biofilms—science and technology. Dordrecht, Kluwer Academic Publishers, pp. 469–485.
+
+
+
+
+                                              15
+Carroll T et al. (2000) The fouling of microfiltration membranes by NOM after coagulation
+treatment. Water Research, 34(11):2861–2868.
+
+Cho J, Amy G, Pellegrino J (2000) Membrane filtration of natural organic matter: factors and
+mechanisms affecting rejection and flux decline with charged ultrafiltration (UF) membrane.
+Journal of Membrane Science, 164:89–110.
+
+Cotruvo JA et al., eds (2004) Waterborne zoonoses: identification, causes and control.
+London, IWA Publishing on behalf of the World Health Organization (Emerging Issues in
+Water and Infectious Disease Series;
+http://www.who.int/water_sanitation_health/diseases/zoonoses/en/index.html).
+
+Davison A et al. (2005) Water safety plans: managing drinking-water from catchment to
+consumer. Geneva, World Health Organization (WHO/SDE/WSH/05.06;
+http://www.who.int/water_sanitation_health/dwq/wsp0506/en/index.html).
+
+Dufour A et al. (2003) Assessing microbial safety of drinking-water: improving approaches
+and methods. London, IWA Publishing on behalf of the World Health Organization (Drinking-
+water Quality Series; http://www.who.int/water_sanitation_health/dwq/9241546301/en/).
+
+Escobar IC, Hong S, Randall AA (2000) Removal of assimilable organic carbon and
+biodegradable dissolved organic carbon by reverse osmosis and nanofiltration membranes.
+Journal of Membrane Science, 175(1):1–18.
+
+Fan L et al. (2001) Influence of the characteristics of natural organic matter on the fouling of
+microfiltration membranes. Water Research, 35(18):4455–4463.
+
+Fayer R et al. (1998) Survival of infectious Cryptosporidium parvum oocysts in seawater and
+eastern oysters (Crassostrea virginica) in the Chesapeake Bay. Applied and Environmental
+Microbiology, 64(3):1070–1074.
+
+Flemming HC et al. (1997) Biofouling—the Achilles heel of membrane processes.
+Desalination, 113(2):215–225.
+
+Fonseca AC et al. (2003) Isolating and modelling critical factors governing biofouling of
+nanofiltration membranes. Presented at the American Water Works Association Membrane
+Technology Conference, Atlanta, Georgia.
+
+Fujioka RS, Yoneyama BS (2002) Sunlight inactivation of human enteric viruses and fecal
+bacteria. Water Science and Technology, 46(11–12):291–295.
+
+Gabelich CJ et al. (2003) Pilot-scale testing of reverse osmosis using conventional treatment
+and microfiltration. Desalination, 154:207–223.
+
+Graczyk TK et al. (1999) Giardia duodenalis cysts of genotype A recovered from clams in the
+Chesapeake Bay subestuary, Rhode River. American Journal of Tropical Medicine and
+Hygiene, 61(4):526–529.
+
+Griffini O et al. (1999) Formation and removal of biodegradable ozonation by-products during
+ozonation–biofiltration treatment: pilot-scale evaluation. Ozone Science and Engineering,
+21(1):79–98.
+
+Hong S et al. (2005) Biostability characterization in a full-scale hybrid NF/RO treatment
+system. Journal of the American Water Works Association, 97(5):101–110.
+
+Jiang SC, Fu W (2001) Seasonal abundance and distribution of Vibrio cholerae in coastal
+waters quantified by a 16S–23S intergenic spacer probe. Microbial Ecology, 42(4):540–548.
+
+
+
+
+                                               16
+Jiang SC et al. (2000) Genetic diversity of Vibrio cholerae in Chesapeake Bay determined by
+amplified fragment length polymorphism fingerprinting. Applied and Environmental
+Microbiology, 66(1):140–147.
+
+Kim JH et al. (2004) Locating sources of surf zone pollution: a mass budget analysis of fecal
+indicator bacteria at Huntington Beach, California. Environmental Science and Technology,
+38(9):2626–2636.
+
+Lahoussine-Turcaud V et al. (1992) Coagulation–flocculation with aluminium salts: influence
+on the filtration efficacy with microporous membrane. Water Research, 26(5):695–702.
+
+Laurent P et al. (2005) Biodegradable organic matter and bacteria in drinking-water
+distribution systems. In: Prévost M et al., eds. Biodegradable organic matter in drinking-water
+treatment and distribution. Denver, Colorado, American Water Works Association, pp. 147–
+204.
+
+Li D, Daler D (2004) Ocean pollution from land-based sources: East China Sea, China.
+Ambio, 33(1–2):107–113.
+
+Lipp EK et al. (2002) Preliminary evidence for human fecal contamination in corals of the
+Florida Keys, USA. Marine Pollution Bulletin, 44(7):666–670.
+
+Louis VR et al. (2003) Predictability of Vibrio cholerae in Chesapeake Bay. Applied and
+Environmental Microbiology, 69(5):2773–2785.
+
+MacAree BA et al. (2005) Characterization of the bacterial population in RO distribution
+systems and their ability to form biofilms on pipe surfaces. Presented at the American Water
+Works Association Water Quality Technology Conference, Quebec City, Quebec.
+
+McGuire Environmental Consultants Inc. (2004) Final report—Disinfection byproduct
+formation in a simulated distribution system: blending desalinated seawater from the
+Poseidon Resources, Inc. pilot facility with local drinking-water sources. Santa Monica,
+California, McGuire/Malcolm Pirnie.
+
+McGuire/Malcolm Pirnie (2006) Poseidon Resources Corporation corrosion pilot study. Draft
+final report. Santa Monica, California, McGuire/Malcolm Pirnie.
+
+Nasser AM al. (2003) Comparative survival of Cryptosporidium, coxsackievirus A9 and
+Escherichia coli in stream, brackish and sea waters. Water Science and Technology,
+47(3):91–96.
+
+Paul DH (1991) Osmosis: scaling, fouling and chemical attack. Desalination & Water Reuse,
+1:8–11.
+
+Paul JH et al. (1995a) Viral tracer studies indicate contamination of marine waters by sewage
+disposal practices in Key Largo, Florida. Applied and Environmental Microbiology,
+61(6):2230–2234.
+
+Paul JH et al. (1995b) Occurrence of fecal indicator bacteria in surface waters and the
+subsurface aquifer in Key Largo, Florida. Applied and Environmental Microbiology,
+61(6):2235–2241.
+
+Paul JH et al. (1997) Evidence for groundwater and surface marine water contamination by
+waste disposal wells in the Florida Keys. Water Research, 31(6):1448–1454.
+
+Paul JH et al. (2000) Rapid movement of wastewater from onsite disposal systems into
+surface waters in the Lower Florida Keys. Estuaries, 23(5):662–668.
+
+Prévost M et al., eds (2005) Biodegradable organic matter in drinking-water treatment and
+distribution. Denver, Colorado, American Water Works Association.
+
+
+
+                                              17
+Reeves RL et al. (2004) Scaling and management of fecal indicator bacteria in runoff from a
+coastal urban watershed in Southern California. Environmental Science and Technology,
+38(9):2637–2648.
+
+Ridgway HF, Flemming HC (1996) Membrane biofouling. In: Malleviale J, Odendaal PE,
+Wiesner MR, eds. Water treatment and membrane processes. New York, NY, McGraw-Hill,
+pp. J6.1–6.62.
+
+Sinton LW, Finlay RK, Lynch PA (1999) Sunlight inactivation of fecal bacteriophages and
+bacteria in sewage-polluted seawater. Applied and Environmental Microbiology, 65(8):3605–
+3613.
+
+Tamburrini A, Pozio E (1999) Long-term survival of Cryptosporidium parvum oocysts in
+seawater and in experimentally infected mussels (Mytilus galloprovincialis). International
+Journal of Parasitology, 29(5):711–715.
+
+USEPA (1999) Alternative disinfectants and oxidants guidance manual. Washington, DC,
+United States Environmental Protection Agency, Office of Water (EPA 815-R-99-014;
+http://www.epa.gov/safewater/mdbp/alternative_disinfectants_guidance.pdf).
+
+Vrouwenvelder JS, van der Kooij D (2001) Diagnosis, prediction and prevention of biofouling
+of NF and RO membranes. Desalination, 139(1–3):65–71.
+
+Wait DA, Sobsey MD (2001) Comparative survival of enteric viruses and bacteria in Atlantic
+Ocean seawater. Water Science and Technology, 43(12):139–142.
+
+WHO (2009a) Boron in drinking-water. Background document for development of WHO
+Guidelines for drinking-water quality. Geneva, World Health Organization
+(WHO/HSE/WSH/09.01/2; http://www.who.int/water_sanitation_health/dwq/chemicals/en/).
+
+WHO (2009b) Bromide in drinking-water. Background document for development of WHO
+Guidelines for drinking-water quality. Geneva, World Health Organization
+(WHO/HSE/WSH/09.01/6; http://www.who.int/water_sanitation_health/dwq/chemicals/en/).
+
+Yang ZB, Hodgkiss IJ (2004) Hong Kong’s worst “red tide”—causative factors reflected in a
+phytoplankton study at Port Shelter station in 1998. Harmful Algae, 3(2):149–161.
+
+
+
+
+                                              18
+Annex 1: Chemicals of concern for desalination processes
+
+
+Boron and borate
+Most of the inorganic components will be significantly removed in the
+desalination process, either thermal desalination or RO desalination, although
+some sodium chloride and bromide may be present in the treated water from
+membrane plants and possibly from some older distillation plants. In terms of
+key contaminants of direct interest for health and the environment, the most
+important is probably boron, which can be of significance in RO plants, as the
+rejection ratio of boron-containing anions (probably mostly as borate) is less
+than that for most other inorganics.
+
+In the fourth edition of the WHO Guidelines for drinking-water quality, the
+health-based guideline value for boron (borate) in drinking-water is 2.4 mg/l
+(WHO, 2011). This value represents a revision from earlier values and is
+based upon a review of the toxicological data and studies in areas with high
+background exposures. Although boron is an essential element for plant
+growth, it is herbicidal at higher levels, and some plants are sensitive at 0.5
+mg/l. The latter is the principal issue for residual boron—that is, its effect as a
+herbicide if present in sufficient amounts in irrigation water, particularly in
+areas where rainfall is so low as to not cause sufficient leaching of salts from
+soils. Acceptable boron concentrations in desalinated water in areas where
+desalinated water has significant applications for irrigation may best be
+determined by authorities on a case-by-case basis, reflecting costs, end uses,
+climate and agricultural activity in the area.
+
+Bromide and bromate
+Bromide is initially present in seawater in relatively large amounts (~80 mg/l in
+some regions), so even high (e.g. >95%) percentage removals will allow some
+bromide, on the order of 1 mg/l to several milligrams per litre, to be present in
+the finished water. The concentrations of bromide in desalinated water will be
+approximately proportional to the chloride concentration because of similar
+removal mechanisms for these analogous anions. Inorganic bromide is also
+present in many fresh waters, especially groundwaters and coastal aquifers
+affected by seawater intrusion, at up to milligram per litre levels. FAO/WHO
+(1988) developed an acceptable daily intake for bromide of 1 mg/kg body
+weight; assuming a 60 kg adult drinking 2 litres of water per day with a 20%
+allocation of the acceptable daily intake to drinking-water could give a health-
+based reference value in the range of 6 mg/l. A similar conclusion is
+recommended in the fourth edition of the WHO Guidelines for drinking-water
+quality (WHO, 2011).
+
+If ozonation or other similar oxidation processes are applied to waters with
+sufficient residual bromide under appropriate conditions, bromate will be
+formed at concentrations that will likely exceed the current WHO guideline
+value of 10 µg/l (WHO, 2011). Packaged waters produced by bottling
+
+
+                                        19
+distributed desalinated waters derived from high-bromide source water are
+often treated by ozonation prior to bottling. This would increase the bromate
+levels in the bottled water beyond the concentrations in the original distributed
+water if residual bromide is present. Production of chlorine by electrolysis of
+seawater will also produce large amounts of bromate. Bromate is
+carcinogenic in rats and mice in lifetime tests under high-dose conditions, with
+cancers in the kidney, thyroid and testes being observed, although there are
+no data available for humans (WHO, 2005a). However, there are strong
+indications that small amounts of bromate are metabolized and detoxified
+following ingestion before they can reach the target cells (Bull & Cotruvo,
+2006). This was not considered in the process of developing the current WHO
+guideline value (WHO, 2011), but the next WHO review of the guideline value
+will take into account ongoing studies that will generate a physiologically
+based pharmacokinetic model and enable a revised risk assessment for
+ingestion in drinking-water. As such, the current guideline value probably
+overestimates the potential risk at low, environmentally relevant exposures.
+
+Sodium and potassium
+Sodium concentrations in seawater are in the range of 10 000–15 000 mg/l,
+depending upon the location. Sodium is an essential nutrient, and there is no
+health-based WHO guideline value for sodium, which is normally present in
+relatively low concentrations in drinking-waters derived from freshwater
+sources. The taste threshold is in the region of 200–250 mg/l, depending upon
+the associated anions. Daily dietary intake may approach 10 000 mg/day for
+some individuals, which is well above the required daily intake. Sodium is
+essential for adequate functioning of human physiology, although the
+requirement of infants for sodium is lower than that for children and adults,
+and high sodium intake may lead to hypernatraemia. This is a problem for
+bottle-fed infants and is the reason why sodium levels in infant formulas have
+been reduced significantly over time. There have been concerns expressed
+about the contribution of sodium intake to increasing hypertension across
+populations. A number of WHO Member States are concerned about the
+overall intake of salt from all sources, but particularly food, which is the major
+source of sodium intake, and are seeking to persuade their populations to
+decrease salt intake. In contrast, hyponatraemia can be a serious, including
+fatal, acute risk if significant perspiration causes high loss of sodium and there
+is inadequate sodium intake from the total diet. It is probable that the
+presence of some sodium in drinking-water in very warm climates might be
+beneficial for persons engaging in heavy physical activity.
+
+Usually, seawater, brackish water and many fresh waters also contain
+potassium. Potassium concentrations in seawater are in the region of 450
+mg/l, but about 98% of the potassium is removed in the desalination process.
+Potassium is also an essential nutrient, and the recommended daily dietary
+requirement is more than 3000 mg/day. There is currently no specific WHO
+guideline value for potassium; residual concentrations in desalinated water
+are expected to be small and well below any significant contribution to
+recommended daily dietary intakes.
+
+
+
+                                       20
+Magnesium and calcium
+Magnesium and calcium are essential nutrients and are present in seawaters
+at concentrations of about 1200–1700 mg/l and 400–500 mg/l, respectively.
+They are the principal defining components of “hard water”. They are very
+efficiently removed by desalination, including NF, but may be added back to
+finished water by some processes used to stabilize the water and reduce
+corrosive potential, as discussed in Annex 3.
+
+Organic chemicals found naturally in source waters
+Naturally occurring chemicals include NOM, such as humic and fulvic acids,
+and the by-products of algal and seaweed growth, where this growth occurs to
+a significant extent. Such chemicals can include substances that can cause
+taste and odour in the final water, such as geosmin from cyanobacteria,
+particularly in brackish water; and a range of toxins from a variety of different
+organisms, including cyanobacteria and dinoflagellates, that can form
+significant blooms, although these are usually intermittent in nature. Only one
+of these potential contaminants, the cyanotoxin microcystin-LR, which arises
+from freshwater cyanobacterial blooms, has a WHO guideline value
+(provisional) of 1 µg/l (WHO, 2011). Desalination processes will significantly
+control algal toxins.
+
+The nature of the natural organic molecules is such that most of them have
+sufficiently high molecular weights or low volatilities that they would not be
+expected to carry over in thermal desalination processes, although the
+potential for some carryover by steam distillation remains a possibility. Volatile
+organics are usually vented as part of the distillation process. The carryover
+would be expected to be small, but for substances such as geosmin, which
+has an odour threshold measured in nanograms per litre, this could still be of
+concern for the potential acceptability of the final product. Most of the organic
+molecules are relatively large (e.g. greater than ~200 daltons) and would be
+expected to be excluded by membranes used in desalination; for example,
+two of the main marine toxins, saxitoxin and domoic acid, have been shown to
+be rejected by membranes used in desalination (N. Voutchkov, personal
+communication, 2006). However, low molecular weight polar compounds
+might require further study in that regard. Solvent-type low molecular weight
+neutral organics can pass through membranes to a significant degree.
+
+There is also a significant potential for anthropogenic contamination of source
+waters, particularly seawater and estuarine waters, as a consequence of
+discharges from sewage treatment plants and from industry. The
+contaminants present at a particular site will depend on both the industrial and
+shipping activities that are present in the wastewater catchment or that
+discharge directly to sea and the size of the population served. Many of the
+substances that can reach source waters are covered in the WHO Guidelines
+for drinking-water quality (WHO, 2011) and in an associated document,
+Chemical safety of drinking-water: assessing priorities for risk management
+(Thompson et al., 2007). A number of potential contaminants reaching
+drinking-water supplies from upstream wastewater discharges, such as
+pharmaceuticals and hormones, have attracted significant media attention;
+
+
+                                       21
+however, these have been largely shown not to cross desalination
+membranes (McGuire Environmental Consultants Inc., 2005). The great
+majority of those molecules would not be expected to be present in the
+distillate from thermal processes, but there is a potential issue regarding
+public perception. Providing reassurance of the adequacy of the barriers to
+the consuming public would be an important step in a WSP. There is also a
+significant potential for contamination by petroleum hydrocarbons, particularly
+in regions where there is substantial oil extraction activity. There is the
+possibility that more volatile substances may be carried over into product
+water in thermal distillation processes; these include benzene, toluene,
+ethylbenzene and xylenes (the BTEX compounds) and solvents such as
+chloroform, carbon tetrachloride, trichloroethene and tetrachloroethene.
+These processes are designed to vent those gases during processing, but it is
+important to confirm that those types of substances are being adequately
+removed. There may also be potential for those substances, if present in
+sufficient quantities, to dissolve in RO membranes, migrate through the
+membranes and thus appear in finished waters. Although there are health-
+based drinking-water guideline values for all of these substances, the primary
+issue regarding the BTEX compounds (except for benzene) is the potential for
+them to cause unacceptable taste and odour at concentrations much lower
+than the health-based guideline values (WHO, 2011). Prevention of source
+water contamination is the best method to prevent contamination of finished
+waters. The assessment of potential hazards and risks from pollutants will
+require an evaluation of the sources and types of pollutant in the local
+circumstances.
+
+There have also been suggestions of contamination by metals, particularly
+mercury, in regions of oil production. Data on actual concentrations in
+feedwaters are very limited; however, there is an existing guideline value for
+inorganic mercury of 6 µg/l (WHO, 2011). Mercury also occurs in the form of
+organomercury compounds, but these substances are hydrophobic, and the
+main concern relates to accumulation in aquatic organisms rather than in the
+drinking-water.
+
+
+
+
+                                      22
+Annex 2: Efficiency of desalination processes for removing
+pathogens
+
+
+Reverse osmosis
+RO has been shown to remove bacteria and larger pathogens and all or a
+large fraction of viruses (Gagliardo et al., 1997; Adham et al., 1998a; van der
+Hoek et al., 2000). High-quality RO processes are good treatment barriers to
+pathogens if properly selected and maintained.
+
+WHO provides guidance on target removals for bacteria, viruses and
+protozoa, removals that are achieved by typical and enhanced water
+treatment processes (WHO, 2011). Removal of viruses by RO membranes
+may vary significantly and is a function of the membrane itself as well as its
+condition and the integrity of the entire system, including seals. Removals
+ranging from 2.7 to more than 6.8 logs, depending on the type of RO
+membrane, have been reported at bench scale using MS2 bacteriophage as
+the model virus, and Adham et al. (1998b) suggested that the selection of
+membranes is an important factor in determining virus removal. Kitis et al.
+(2002, 2003) reported removals of MS2 ranging from 5 logs for a dual-
+element unit to more than 6.8 logs for a multistage unit. In pilot-scale studies
+conducted to investigate the potential of integrated ultrafiltration and NF
+membrane systems for the removal of various microorganisms, including
+viruses, protozoa (Cryptosporidium oocysts and Giardia cysts), bacterial
+spores (Clostridium perfringens) and bacteriophage (MS2 and PRD-1), Lovins
+et al. (1999) observed removals, including those resulting from pretreatment,
+ranging from 6.1 to 10.1 logs. This shows that membrane treatment exceeds
+the microbial removal attained by other combinations of process units, such
+as coagulation, filtration and disinfection of surface water.
+
+Integrity of the RO system
+Although RO constitutes an excellent barrier to microorganisms, the
+maintenance of that barrier depends on the integrity of the system. Breaches
+of integrity in the membranes or the O-rings could lead to the passage of
+pathogens into the process water and must be monitored by integrity testing.
+Building on bench-scale studies done by Colvin et al. (2000), Kitis et al.
+(2002) critically compared three integrity testing methodologies at pilot scale.
+They investigated the ability of these tests to quantify virus removal (MS2
+bacteriophage) in single-element and two-stage configurations and to
+determine the changes in virus removal capability when systems are subject
+to different types of membrane and gasket compromising and fouling. These
+authors concluded that the loss of membrane integrity decreased virus
+removal from 5.3 to 2.3 logs when the compromised unit was placed in the
+lead position and from 5.3 to 4.2 logs when the compromised unit was in the
+trailing position. Fouling appeared to limit the impact of imperfections by a
+combination of cake formation and pinhole filling. Cracking of the O-rings did
+not lead to significant decreases in the removals of MS2 or indicators, and the
+
+
+                                       23
+location of the damage influenced the extent of the small decrease in
+performance.
+
+Effective methods to measure the integrity of RO membranes should be used
+to achieve target removals (WHO, 2011). Currently, conductivity
+measurements are utilized, but the sensitivity limits their application to about 2
+logs of removal.
+
+Bacteria have been found in permeate samples of NF and RO effluent, and
+they can proliferate in discharge lines. This does not mean that pathogens are
+not rejected, but rather that sterile conditions cannot be maintained (Taylor &
+Jacobs, 1996). As bacteria have been shown to traverse through membrane
+defects, membranes cannot be considered as completely effective for
+disinfection and are commonly succeeded by a disinfection step.
+
+Thermal processes
+When thermal processes are used for desalination, microbial inactivation will
+be controlled by the temperature attained and the time the water remains at
+that temperature. Typical temperatures to ensure the inactivation of vegetative
+cells by humid heat vary from 50 °C to 60 °C when maintained for 5–30
+minutes to achieve pretreatment . Spores, endospores and other resistant
+forms are more resistant to heat and require higher temperatures (70–100 °C)
+held for longer periods of time. Most vegetative pathogens are inactivated
+under flash pretreatment conditions (temperature of 72 °C for 15 seconds).
+The condensate is unlikely to contain pathogens after the distillation process
+because of the killing impact of heat and because pathogens are unlikely to
+be entrained. However, reduced pressures are used in some desalination
+processes to reduce the boiling point and reduce energy demand.
+Temperatures as low as 50 °C may be utilized (USBR, 2003) and might not
+achieve the required inactivation targets.
+
+
+
+
+                                       24
+Annex 3: Remineralization
+In a number of cases, water is remineralized to reduce its corrosive potential
+during transmission and distribution. Under these circumstances, it is
+appropriate to consider whether the methods used, such as percolation
+through limestone, can also increase the concentrations of important
+nutritional minerals, particularly calcium and magnesium, in the drinking-
+water. While diet remains the principal source of nutrients and minerals,
+drinking-water may provide supplemental amounts that could be important for
+some people.
+
+WHO expert consultations on calcium and magnesium in drinking-water
+(WHO, 2005b, 2006; Cotruvo, 2006) concluded that there was evidence of
+dietary deficiency of both calcium and magnesium in many parts of the world.
+This would be particularly acute in developing countries and in women, as
+well as in some sectors of the population, such as the elderly, who are also at
+highest risk of mortality from ischaemic heart disease. Hard water and
+particularly magnesium, a component of hardness, have been negatively (i.e.
+beneficially) associated with these conditions in a number of epidemiological
+studies. Although uncertainties about this association remain, in
+circumstances where a supply is moving from a source that has significant
+levels of calcium and magnesium to low-mineral desalinated water, it would
+be appropriate to consider remineralizing with calcium and magnesium salts.
+Additionally, calcium intake may reduce osteoporosis risk, and magnesium
+deficiency may also be associated with metabolic syndrome, indicating a
+prediabetic condition. However, any decision should be taken in conjunction
+with health and nutrition authorities in the light of total dietary intakes of
+nutrient minerals. Blending with 1% seawater provides about 15 mg of
+magnesium per litre and about 5 mg of calcium per litre to the finished water.
+It is appropriate for WHO and other organizations to continue to consider the
+importance of calcium and magnesium for protection against ischaemic heart
+disease and to determine the optimum levels of calcium and magnesium and
+the importance of the calcium to magnesium ratio, in order to provide
+guidance as to the optimum levels of addition, if appropriate. In particular,
+there are significant considerations with regard to both cost–benefit in
+particular circumstances and public perception.
+
+Low fluoride intake is also a potential consideration with regard to loss of
+fluoride from bone and reduced incidence of dental caries. A recommendation
+of a WHO working group was for a minimum fluoride concentration of 0.2
+mg/l, but this recommendation may require examination and confirmatory
+studies (WHO, 2005b). The recommended WHO guideline value for fluoride is
+1.5 mg/l, but the optimal value is usually in the range of 0.5–1 mg/l, based
+upon average ambient temperatures and water consumption patterns. The
+appropriate value provides a balance between the benefits of fluoridation of
+drinking-water and minimizing the occurrence of dental fluorosis. However,
+use of the guideline value to develop local standards should take into account
+climate and water consumption, because this value is associated with an
+intake of 2 litres of drinking-water per day. This is also a consideration with
+
+
+                                      25
+regard to artificial fluoridation used to protect against dental caries, where this
+is a significant problem or there is a significant risk that cannot be addressed
+through other means (WHO, 2005b, 2006). Whether to add fluoride to finished
+water for dental health is a function of the status of tooth decay incidence in
+the location, diet (sugar consumption levels) and the ready availability and
+use of dental care in the area throughout the population. These can be
+determined by appropriate studies in the area.
+
+With regard to sodium levels in the final water, this requires specific
+consideration of potentially sensitive populations, such as bottle-fed infants.
+
+Calcium, magnesium and cardiovascular disease
+This issue was examined in detail in three scientific meetings that were
+generated by this desalination guidance development process. The first was a
+meeting of experts assembled by WHO in Rome in 2003. The experts’ task
+was to examine the potential health consequences of long-term consumption
+of water that had been “manufactured” or “modified” to add or delete minerals.
+Specifically, this was applied to the consumption of desalinated seawater and
+brackish water, as well as some membrane-treated fresh waters, and their
+optimal reconstitution from the health perspective. The latter is economically
+important, because desalinated waters require stabilization by some form of
+remineralization, often with calcium carbonate (limestone), to control their
+corrosive effects on pipes and fixtures while in storage and in transit to
+consumers. The expert group concluded, among other things, that, on
+balance, epidemiological studies indicated that consumption of hard water,
+and particularly magnesium, is associated with a somewhat lowered risk of
+certain types of cardiovascular disease (CVD) (WHO, 2005b). It also
+concluded that only a few minerals in natural waters had sufficient
+concentrations and distribution to expect that drinking-water might sometimes
+be a significant supplement to dietary intake. These included calcium,
+magnesium, selenium, fluoride, copper and zinc. It recommended that a
+detailed state-of-the-art review should be conducted prior to consideration of
+the matter in the WHO Guidelines for drinking-water quality.
+
+That report led to the symposium entitled Health aspects of calcium and
+magnesium in drinking-water (Cotruvo, 2006) and a subsequent WHO expert
+meeting (WHO, 2006) on the subject. The symposium presented information
+that large portions of the population are deficient in calcium and magnesium
+and that water could make important contributions of calcium and magnesium
+to the daily diet in individuals who had low intakes from other sources. For
+desalinated water, remineralization methods that include addition of calcium
+and magnesium are more desirable, because they also contribute nutrient
+minerals. Seawater blending also adds back magnesium and calcium.
+
+Finally, WHO organized a meeting of experts to further assess drinking-water-
+related epidemiological, clinical and mechanistic studies that involved calcium
+or magnesium or hard water that contains calcium and sometimes
+magnesium (WHO, 2006). A large number of studies have investigated the
+potential health effects of drinking-water hardness. Most of these have been
+
+
+                                        26
+ecological studies and have found an inverse (beneficial) relationship between
+water hardness and mortality from CVD. The best correlations were usually
+with magnesium. Inherent weaknesses in the ecological study design limit the
+conclusions that can be drawn from these studies. Analytical case–control
+and cohort studies are more useful than ecological studies for investigating
+cause-and-effect relationships. Seven case–control studies and two cohort
+studies of acceptable quality investigating the relationship between calcium or
+magnesium and CVD or mortality from CVD were identified in the literature.
+Of the case–control studies, one addressed the association between calcium
+and acute myocardial infarction and three the association between calcium
+and death from CVD. None found a positive or inverse correlation between
+calcium and either morbidity or mortality. Two examined the relationship
+between magnesium and acute myocardial infarction, finding no association.
+Five examined the relationship between magnesium and mortality from CVD;
+although some failed to yield statistically significant results, collectively they
+showed similar trends of reduced mortality from CVD as magnesium
+concentrations in water increased. Statistically significant benefits (where
+observed) generally occurred at magnesium concentrations of about 10 mg/l
+and greater. The cohort studies examined the relationship between water
+hardness (rather than calcium or magnesium content) and CVD or mortality
+from CVD and found no association (WHO, 2006).
+
+The overall conclusion based on identified case–control and cohort studies
+was that there is no evidence of an association between water hardness or
+calcium and acute myocardial infarction or deaths from CVD (acute
+myocardial infarction, stroke and hypertension). There does not appear to be
+an association between drinking-water magnesium and myocardial infarction.
+However, the studies do show a negative association (i.e. protective effect)
+between CVD mortality and drinking-water magnesium. Although this
+association does not necessarily demonstrate causality, it is consistent with
+the well-known effects of magnesium on cardiovascular function.
+
+Dietary supplementation
+The geographic distribution of the nutrients in source waters used for drinking-
+water production will be varied and inconsistent, so an appropriate diet should
+be the principal source of nutrients. In general, drinking-water should not be
+relied upon as a major contributor of significant trace nutrients to daily intake.
+However, drinking-water can provide supplementation to dietary intakes in
+some locations. Dietary supplementation is widely practised for general
+benefit (e.g. vitamin D in milk, vitamin C in drinks, iron and B vitamins and
+folic acid in bread and other foods). The only beneficial substances added to
+drinking-water in some areas are fluoride with the intent of strengthening
+dental enamel and reducing the incidence of tooth decay (dental caries), ferric
+iron–ethylenediaminetetraacetic acid complex in some dietary iron-deficient
+areas and possibly iodine in some areas with high incidence of goitre in the
+Russian Federation.
+
+WHO states that there is clear evidence that long-term exposure to an optimal
+level of fluoride results in diminishing levels of caries in both child and adult
+
+
+                                       27
+populations and that fluoride is being widely used on a global scale, with
+much benefit (WHO, 2006). However, good dental care, use of fluoride
+toothpaste and low sugar consumption are also important dental health
+factors. Water fluoridation is controversial in some quarters but generally
+believed by the dental community and many public health officials to be
+beneficial and without demonstrable risk. Water fluoridation is a matter of
+national policy. Seawater is naturally low in fluoride, and the fluoride is further
+depleted by the desalination process. Optimal fluoridation of the desalinated
+water can be a significant contributor to daily intake and can reduce the
+incidence of dental caries in some populations, just as it does with fluoridated
+fresh waters.
+
+Consumption of low-mineral water
+There have been suggestions that drinking-water with a very low mineral
+content (low total dissolved solids) can have a number of adverse effects on
+humans, particularly on the gastrointestinal tract, even with a diet that
+provides an adequate level of essential minerals (Kozisek, 2005). However,
+this hypothesis remains controversial in many quarters. In order to resolve this
+controversy, there is a need to investigate this subject in more detail to
+determine its significance in a wide range of circumstances, such as those
+encountered with desalinated and other potentially low-mineral manufactured
+waters.
+
+Desalination has been used in some parts of the world for many decades, and
+this experience potentially provides a basis for total diet and water
+epidemiological studies of various health outcomes, including CVD,
+osteoporosis and metabolic syndrome. Such studies, if properly controlled
+and with proper consideration of potential confounding factors, would be of
+considerable value in ensuring the safety of desalinated water. WHO is
+recommending that before-and-after studies of acute CVD mortality should be
+conducted in drinking-water supplies that are undergoing changes in calcium
+and magnesium content .
+
+Desalinated water may be used for irrigation, and, as indicated above, high
+levels of boron may be toxic to some crops. Suitability for irrigation may also
+be affected by the low concentration of ions, such as calcium and magnesium,
+which are also important for plant growth (Yermiyahu et al., 2007).
+Consideration of specific conditions is, therefore, required if desalinated water
+is to be used for irrigation, even when this may be on small-scale gardens,
+which may still be an important source of crops at the village or household
+level.
+
+
+
+
+                                        28
+

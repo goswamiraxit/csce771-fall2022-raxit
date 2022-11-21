@@ -1,0 +1,214 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+South
+Independent
+
+Bear Creek
+
+610514
+
+Wilkinson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Buffalo River
+
+South
+Independent
+
+Beaver Creek
+
+608312
+
+Wilkinson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Homochitto River
+
+South
+Independent
+
+Bolls Creek
+
+604611
+
+Jefferson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with North Fork
+Coles Creek
+
+South
+Independent
+
+Booths Creek
+
+602813
+
+Claiborne
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Bayou Pierre
+
+South
+Independent
+
+Browns Creek
+
+609612
+
+Wilkinson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Woodville from headwaters to mouth at Buffalo
+River
+
+South
+Independent
+
+Days Creek
+
+612312
+
+Amite
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Busy Corner from headwaters to mouth at West
+Fork Amite Creek
+
+South
+Independent
+
+Dry Bayou
+
+608611
+
+Franklin
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near White Apple from headwaters to mouth at
+Caney Branch
+
+South
+Independent
+
+Dry Creek
+
+608211
+
+Franklin
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Garden City from headwaters to mouth at
+Homochitto River
+
+South
+Independent
+
+Dry Creek
+
+608111
+
+Wilkinson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Homochitto River
+
+South
+Independent
+
+Folkes Creek
+
+605011
+
+Jefferson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence of Stampley Creek and Compton
+Creek to mouth at South Fork Coles Creek
+
+South
+Independent
+
+Garret Creek
+
+603811
+
+Jefferson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Union Church from headwaters to mouth at
+Foster Creek
+
+36
+
+

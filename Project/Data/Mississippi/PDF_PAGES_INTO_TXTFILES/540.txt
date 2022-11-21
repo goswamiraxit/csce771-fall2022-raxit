@@ -1,0 +1,215 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Pearl River
+
+Sugar Bogue
+
+507612
+
+Scott
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Forkville from headwaters to mouth at Coffee
+Bogue
+
+Pearl River
+
+Tibby Creek
+
+505811
+
+Choctaw,
+Attala
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near McCool from confluence with Robinson Branch
+to MWS 5056 boundary
+
+Pearl River
+
+Topisaw Creek
+
+522211
+
+Pike
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Ruth from MWS 5219 boundary to confluence
+at Bogue Chitto
+
+Pearl River
+
+Town Creek
+
+503211
+
+Leake
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Carthage from headwaters to the Pearl River
+
+Pearl River
+
+Turtle Skin Creek
+
+520511
+
+Hancock
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Santa Rosa from headwaters to confluence with
+Mikes River
+
+Pearl River
+
+Unnamed
+Tributary To
+Clear Creek
+
+521513
+
+Pike
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Summit from headwaters to mouth at Clear
+Creek
+
+Pearl River
+
+Unnamed
+Tributary To
+Tallahaga Creek
+
+500712
+
+Winston
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Tallahaga Creek
+
+Pearl River
+
+Upper Little
+Creek
+
+517011
+
+Lamar,
+Marion
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Graves Creek to mouth at Pearl
+River
+
+Pearl River
+
+White Sand
+Creek
+
+516111
+
+Jefferson
+Davis
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Little White Sand Creek
+(Jaybird Creek) to mouth at Pearl River
+
+South
+Independent
+
+Bala Chitto Creek
+
+614111
+
+Pike
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From MWS 6140 boundary to state line
+
+South
+Independent
+
+Bayou Pierre
+
+601611
+
+Copiah
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Turkey Creek to confluence
+with White Oak Creek
+
+35
+
+

@@ -1,0 +1,276 @@
+E. TMDL Successes (Category 4a to Category 2)
+The objective of any TMDL is to determine the loading capacity of the waterbody and to allocate
+that load among different pollutant sources so that the appropriate control actions can be taken
+and water quality standards achieved. The TMDL process is important for improving water
+quality because it serves as a link in the chain between water quality standards and
+implementation of control actions designed to attain those standards. The waters listed in Table 8
+have been the subject of one or more TMDLs and through corrective action to reduce the
+pollutant load are now successfully supporting the designated use. Maps of the TMDL
+Successes can be found in Appendix B.
+
+Table 8. TMDL Successes
+Basin
+
+Water Body
+Name
+
+Big Black
+River
+
+Big Bywy
+Creek
+
+Big Black
+River
+
+Big Bywy
+Creek
+
+Big Black
+River
+
+Big Bywy
+Creek
+
+Big Black
+River
+North
+Independe
+nt
+Streams
+
+Big Bywy
+Creek
+
+North
+Independe
+nt
+Streams
+North
+Independe
+nt
+Streams
+North
+Independe
+nt
+Streams
+
+Horn Lake
+Creek
+
+Horn Lake
+Creek
+
+Horn Lake
+Creek
+
+Water
+Body Id
+
+100811
+
+100811
+
+100811
+
+100811
+
+303411
+
+303411
+
+303411
+
+County
+
+Impair
+ed Use
+
+Pollutant
+
+Location
+
+Listing Change
+
+Choctaw
+
+Aquatic
+Life Use
+Support
+
+Total
+Nitrogen
+
+Near Stewart from
+headwaters to mouth at
+McCurtain Creek
+
+TMDL Complete
+04/30/2007
+
+Choctaw
+
+Aquatic
+Life Use
+Support
+
+Total
+Phosphorus
+
+Near Stewart from
+headwaters to mouth at
+McCurtain Creek
+
+TMDL Complete
+04/30/2007
+
+Choctaw
+
+Aquatic
+Life Use
+Support
+
+OE/ Low
+DO
+
+Near Stewart from
+headwaters to mouth at
+McCurtain Creek
+
+TMDL Complete
+04/30/2007
+
+Choctaw
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+Near Stewart from
+headwaters to mouth at
+McCurtain Creek
+
+TMDL Complete
+01/26/2007
+
+De Soto
+
+Aquatic
+Life Use
+Support
+
+At Hernando from
+headwaters to Tennessee
+Line
+
+TMDL Complete
+04/01/2006
+
+De Soto
+
+Aquatic
+Life Use
+Support
+
+At Hernando from
+headwaters to Tennessee
+Line
+
+TMDL Complete
+04/01/2006
+
+De Soto
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+At Hernando from
+headwaters to Tennessee
+Line
+
+TMDL Complete
+11/30/2005
+
+Total
+Phosphorus
+
+Nutrient
+Pollution
+Organic
+Enrichment /
+Low
+Dissolved
+Oxygen
+
+Horn Lake
+Creek
+
+303411
+
+De Soto
+
+Aquatic
+Life Use
+Support
+
+Pascagoul
+a River
+
+Beaver Dam
+Creek
+
+419511
+
+Forest, Perry
+
+Recreati
+on
+
+Pathogens
+
+Pascagoul
+a River
+
+Chickasaway
+River
+
+405911
+
+Clarke,
+Wayne
+
+Recreati
+on
+
+Pathogens
+
+18
+
+Near Walls from
+headwaters to MS/TN
+stateline
+Near Maxie from
+confluence with Bowens
+Buy Creek at MWS
+boundary 4194 to MWS
+boundary 4196
+At Shubuta from MWS
+boundary 4056 at County
+Road 275 to confluence
+with Eucutta Creek
+
+TMDL Complete
+04/01/2006
+
+TMDL Complete
+12/15/1999
+
+TMDL Complete
+12/15/1999
+
+

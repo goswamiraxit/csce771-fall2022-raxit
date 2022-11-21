@@ -1,0 +1,244 @@
+                                                     Reference Guide for Public Water Systems
+                                                         Lead and Copper Rule Comparison
+
+This table compares the major differences between the current Lead and Copper Rule (LCR) and the final Lead and Copper Rule revisions (LCRR).
+In general, requirements that are unchanged are not listed. For existing rule requirements visit: https://www.epa.gov/dwreginfo/lead-and-copper-rule.
+For more information on the new LCR visit: https://www.epa.gov/ground-water-and-drinking-water/final-revisions-lead-and-copper-rule.
+
+                              CURRENT LCR                                                           FINAL REVISED LCRR
+                                                        Action Level (AL) and Trigger Level (TL)
+   • 90 percentile (P90) level above lead AL of 15 µg/L or copper AL
+        th
+                                                                             • 90th percentile (P90) level above lead AL of 15 µg/L or copper AL
+     of 1.3 mg/L requires additional actions.                                  of 1.3 mg/L requires more actions than the previous rule.
+                                                                             • Defines lead trigger level (TL) of 10 < P90 ≤15 µg/L that triggers
+                                                                               additional planning, monitoring, and treatment requirements.
+                                                            Lead and Copper Tap Monitoring
+   Sample Site Selection                                                    Sample Site Selection
+   • Prioritizes collection of samples from sites with sources of lead in    • Changes priorities for collection of samples with a greater focus on
+     contact with drinking water.                                              LSLs.
+   • Highest priority given to sites served by copper pipes with lead        • Prioritizes collecting samples from sites served by LSLs –all
+     solder installed after 1982 but before the state ban on lead pipes        samples must be collected from sites served by LSLs, if available.
+     and/or LSLs.                                                            • No distinction in prioritization of copper pipes with lead solder by
+   • Systems must collect 50% of samples from LSLs, if available.              installation date.
+                                                                             • Improved tap sample site selection tiering criteria.
+
+   Collection Procedure                                                       Collection Procedure
+   • Requires collection of the first liter sample after water has sat        • Requires collection of the fifth-liter sample in homes with LSLs after
+     stagnant for a minimum of 6 hours.                                         water has sat stagnant for a minimum of 6 hours and maintains first-
+                                                                                liter sampling protocol in homes without LSLs.
+                                                                              • Adds requirement that samples must be collected in wide-mouth
+                                                                                bottles.
+
+
+                                                                                                                                      December 2020
+                                                                          1
+                         CURRENT LCR                                                            FINAL REVISED LCRR
+                                                                          • Prohibits sampling instructions that include recommendations for
+                                                                            aerator cleaning/removal and pre-stagnation flushing prior to sample
+                                                                            collection.
+
+Monitoring Frequency                                                      Monitoring Frequency
+• Samples are analyzed for both lead and copper.                          • Some samples may be analyzed for only lead when lead monitoring
+• Systems must collect standard number of samples, based on                 is conducted more frequently than copper.
+  population; semi-annually unless they qualify for reduced               • Copper follows the same criteria as the current rule.
+  monitoring.                                                             • Lead monitoring schedule is based on P90 level for all systems as
+• Systems can qualify for annual or triennial monitoring at reduced         follows:
+  number of sites. Schedule based on number of consecutive years            o P90 > 15 μg/L: Semi-annually at the standard number of sites.
+  meeting the following criteria:                                           o P90 > 10 to 15 μg/L: Annually at the standard number of sites.
+  o Serves ≤ 50,000 people and ≤ lead & copper ALs.                         o P90 ≤ 10 μg/L:
+  o Serves any population size, meets state-specified optimal water            ▪ Annually at the standard number of sites and triennially at
+     quality parameters (OWQPs), and ≤ lead AL.                                   reduced number of sites using same criteria as previous rule
+• Triennial monitoring also applies to any system with lead and                   except copper 90th percentile level is not considered.
+  copper 90th percentile levels ≤ 0.005 mg/L and ≤ 0.65 mg/L,                  ▪ Every 9 years based on current rule requirements for a 9-year
+  respectively, for 2 consecutive 6-month monitoring periods.                     monitoring waiver.
+• 9-year monitoring waiver available to systems serving ≤ 3,300.
+
+
+
+
+                                                                                                                                 December 2020
+                                                                      2
+                            CURRENT LCR                                                       FINAL REVISED LCRR
+                                   Corrosion Control Treatment (CCT) and Water Quality Parameters (WQPs)
+CCT                                                                   CCT
+• Systems serving > 50,000 people were required to install treatment   • Specifies CCT requirements for systems with 10 < P90 level ≤ 15
+  by January 1, 1997 with limited exception.                             μg/L:
+• Systems serving ≤ 50,000 that exceed lead and/or copper AL are         o No CCT: must conduct a CCT study if required by primacy
+  subject to CCT requirements (e.g., CCT recommendation, study if           agency.
+  required by primacy agency, CCT installation). They can                o With CCT: must follow the steps for re-optimizing CCT, as
+  discontinue CCT steps if no longer exceed both ALs for two                specified in the rule.
+  consecutive 6-month monitoring periods.                              • Systems with P90 level > 15 μg/L:
+• Systems must operate CCT to meet any primacy agency-designated          o No CCT: must complete CCT installation regardless of their
+  OWQPs that define optimal CCT.                                            subsequent P90 levels.
+• There is no requirement for systems to re-optimize.                     o With CCT: must re-optimize CCT.
+                                                                       o CWSs serving ≤ 10,000 people and non-transient water systems
+                                                                         (NTNCWSs) can select an option other than CCT to address lead.
+                                                                         See Small System Flexibility.
+CCT Options: Includes alkalinity and pH adjustment, calcium           CCT Options: Removes calcium hardness as an option and specifies
+hardness adjustment, and phosphate or silicate-based corrosion        any phosphate inhibitor must be orthophosphate.
+inhibitor.
+Regulated WQPs:                                                       Regulated WQPs:
+• No CCT: pH, alkalinity, calcium, conductivity, temperature,          • Eliminates WQPs related to calcium hardness (i.e., calcium,
+  orthophosphate (if phosphate-based inhibitor is used), silica (if      conductivity, and temperature).
+  silica-based inhibitor is used).
+• With CCT: pH, alkalinity, and based on type of CCT either
+  orthophosphate, silica, or calcium.
+WQP Monitoring                                                         WQP Monitoring
+• Systems serving ≥ 50,000 people must conduct regular WQP             • Systems serving ≥ 50,000 people must conduct regular WQP
+  monitoring at entry points and within the distribution system.         monitoring at entry points and within the distribution system.
+• Systems serving ≤ 50,000 people conduct monitoring only in those
+  periods > lead or copper AL.
+
+                                                                                                                           December 2020
+                                                                   3
+                           CURRENT LCR                                                            FINAL REVISED LCRR
+• Contains provisions to sample at reduced number of sites in              • Systems serving ≤ 50,000 people must continue WQP monitoring
+  distribution system less frequency for all systems meeting their            until they no longer > lead and/or copper AL for two consecutive 6-
+  OWQPs.                                                                      month monitoring periods.
+                                                                           • To qualify for reduced WQP distribution monitoring, P90 must be ≤
+                                                                              10 µg/L and the system must meet its OWQPs.
+Sanitary Survey Review:                                                    Sanitary Survey Review:
+• Treatment must be reviewed during sanitary surveys; no specific          • CCT and WQP data must be reviewed during sanitary surveys
+  requirement to assess CCT or WQPs.                                          against most recent CCT guidance issued by EPA.
+Find-and-Fix:                                                              Find-and-Fix:
+No required follow-up samples or additional actions if an individual       If individual tap samples > 15 µg/L.
+sample exceeds 15 μg/L.                                                    o Find-and-fix steps:
+                                                                               o Collect tap sample at the same tap sample site within 30 days.
+                                                                               o For LSL, collect any liter or sample volume.
+                                                                               o If LSL is not present, collect 1 liter first draw after stagnation.
+                                                                               o For systems with CCT
+                                                                               o Conduct WQP monitoring at or near the site > 15 μg/L.
+                                                                               o Perform needed corrective action.
+                                                                               o Document customer refusal or nonresponse after 2 attempts.
+                                                                               o Provide information to local public health officials.
+
+                                                       LSL Inventory and LSLR Plan
+Initial LSL Program Activities:                                       Initial LSL Program Activities:
+• Systems were required to complete a materials evaluation by the     • All systems must develop an LSL inventory or demonstrate absence
+  time of initial sampling. No requirement to update materials          of LSLs within 3 years of final rule publication.
+  evaluation.                                                         • LSL inventory must be updated annually or triennially, based on
+• No LSLR plan is required.                                             their tap sampling frequency.
+                                                                      • All systems with known or possible LSLs must develop an LSLR
+                                                                        plan.
+
+
+                                                                                                                                     December 2020
+                                                                       4
+LSLR:                                                                  LSLR:
+• Systems with LSLs with P90 > 15 µg/L after CCT installation must     • Rule specifies replacement programs based on P90 level for CWSs
+  annually replace ≥7% of number of LSLs in their distribution           serving > 3,300 people:
+  system when the lead action level is first exceeded.                   o If P90 > 15 µg/L: Must fully replace 3% of LSLs per year based
+• Systems must replace the LSL portion they own and offer to replace        upon a 2 year rolling average (mandatory replacement) for at least
+  the private portion at the owner’s expense.                               4 consecutive 6-month monitoring periods.
+• Full LSLR, partial LSLR, and LSLs with lead sample results ≤15         o If P90 > 10 to 15 µg/L: Implement an LSLR program with
+  µg/L (“test-outs”) count toward the 7% replacement rate.                  replacement goals in consultation with the primacy agency for 2
+• Systems can discontinue LSLR after 2 consecutive 6-month                  consecutive 1-year monitoring periods.
+  monitoring periods ≤ lead AL.                                        • Small CWSs and NTNCWSs that select LSLR as their compliance
+                                                                         option must complete LSLR within 15 years if P90 > 15 µg/L See
+                                                                         Small System Flexibility.
+                                                                       • Annual LSLR rate is based on number of LSLs and galvanized
+                                                                         requiring replacement when the system first exceeds the action level
+                                                                         plus the current number of lead status unknown service lines.
+                                                                       • Only full LSLR (both customer-owned and system-owned portion)
+                                                                         count toward mandatory rate or goal-based rate.
+                                                                       • All systems replace their portion of an LSL if notified by consumer
+                                                                         of private side replacement within 45 days of notification of the
+                                                                         private replacement. If the system cannot replace the system’s
+                                                                         portion within 45 days, it must notify the state and replace the
+                                                                         system’s portion within 180 days.
+                                                                       • Following each LSLR, systems must:
+                                                                         o Provide pitcher filters/cartridges to each customer for 6 months
+                                                                            after replacement. Provide pitcher filters/cartridges within 24
+                                                                            hours for full and partial LSLRs.
+                                                                         o Collect a lead tap sample at locations served by replaced line
+                                                                            within 3 to 6 months after replacement.
+                                                                       • Requires replacement of galvanized service lines that are or ever
+                                                                         were downstream of an LSL.
+
+                                                                                                                              December 2020
+                                                                   5
+                           CURRENT LCR                                                                 FINAL REVISED LCRR
+LSL-Related Outreach:                                                          LSL-Related Outreach:
+• When water system plans to replace the portion it owns, it must              • Inform consumers annually that they are served by LSL or lead
+  offer to replace customer-owned portion at owner’s expense.                    status unknown service line.
+• If system replaces its portion only:                                         • Systems subject to goal-based program must:
+  o Provide notification to affected residences within 45 days prior             o Conduct targeted outreach that encourages consumers with LSLs
+      to replacement on possible elevated short-term lead levels and                to participate in the LSLR program.
+      measures to minimize exposure.                                             o Conduct an additional outreach activity if they fail to meet their
+  o Include offer to collect lead tap sample within 72 hours of                     goal.
+      replacement.                                                             o Systems subject to mandatory LSLR include information on LSLR
+  o Provide test results within 3 business days after receiving results.         program in public education (PE) materials that are provided in
+                                                                                 response to P90 > AL.
+
+                                                             Small System Flexibility
+No provisions for systems to elect an alternative treatment approach     Allows CWSs serving ≤ 10,000 people and all NTNCWSs with P90 >
+but sets specific requirements for CCT and LSLR.                         10 µg/L to select their approach to address lead with primacy agency
+                                                                         approval:
+                                                                         • Systems can choose CCT, LSLR, provision and maintenance of
+                                                                           point-of-use devices; or replace all lead-bearing plumbing materials.
+
+
+
+
+                                                                                                                                       December 2020
+                                                                           6
+                           CURRENT LCR                                                             FINAL REVISED LCRR
+   •   All CWSs must provide education material in the annual                • CWSs must provide updated health effects language in all PE
+       Consumer Confidence Report (CCR).                                       materials and the CCR.
+   •   Systems with P90 > AL must provide PE to customers about                 o Customers can contact the CWS to get PE materials translated in
+       lead sources, health effects, measures to reduce lead exposure,            other languages.
+       and additional information sources.                                   • All CWSs are required to include information on how to access the
+   •   Systems must provide lead consumer notice to individuals                LSL inventory and how to access the results of all tap sampling in
+       served at tested taps within 30 days of learning results.               the CCR.
+   •   Customers can contact the CWS to get PE materials translated          • Revises the mandatory health effects language to improve accuracy
+       in other languages.                                                     and clarity.
+                                                                             • If P90 > AL:
+                                                                               o Current PE requirements apply.
+                                                                               o Systems must notify consumers of P90 > AL within 24 hours.
+                                                                             • In addition, CWSs must:
+                                                                               o Deliver notice and educational materials to consumers during
+                                                                                  water-related work that could disturb LSLs.
+                                                                               o Provide information to local and state health agencies.
+                                                                               o Provide lead consumer notice to consumers whose individual tap
+                                                                                  sample is > 15 µg/L as soon as practicable but no later than 3
+                                                                                  days.
+                                                                               Also see LSL-Related Outreach section of table.
+
+Systems on a reduced tap monitoring schedule must obtain prior               Systems on any tap monitoring schedule must obtain prior primacy
+primacy agency approval before changing their source or treatment.           agency approval before changing their source or treatment. These
+                                                                             systems must also conduct tap monitoring biannually.
+• Periodic source water monitoring is required for systems with:             • Primacy Agencies can waive continued source water monitoring if
+  o Source water treatment; or                                                 the:
+  o P90 > AL and no source water treatment.                                     o System has already conducted source water monitoring for a
+                                                                                  previous P90 > AL;
+                                                                                o primacy agency has determined that source water treatment is not
+                                                                                  required; and
+                                                                                                                                   December 2020
+                                                                         7
+                          CURRENT LCR                                                             FINAL REVISED LCRR
+                                                                            o System has not added any new water sources.
+• Does not include separate testing and education program for CWSs        • CWS must conduct sampling at 20% of elementary schools and 20%
+  at schools and child care facilities.                                     of child care facilities per year and conduct sampling at secondary
+• Schools and child cares that are classified as NTNCWSs must               schools on request for 1 testing cycle (5 years) and conduct sampling
+  sample for lead and copper.                                               on request of all schools and child care facilities thereafter.
+                                                                          • Sample results and PE must be provided to each sampled
+                                                                            school/child care, primacy agency and local or state health
+                                                                            department.
+                                                                          • Excludes facilities built or replaced all plumbing after January 1,
+                                                                            2014.
+Primacy Agencies must report information to EPA that includes but is      Expands current requirements to include:
+not limited to:                                                           • All P90 values for all system sizes.
+ • All P90 levels for systems serving > 3,300 people, and only levels >   • The current number of LSLs and lead status unknown service lines
+   15 µg/L for smaller systems.                                             for every water system.
+ • Systems that are required to initiate LSLR and the date replacement    • OCCT status of all systems including primacy agency-specified
+   must begin.                                                              OWQPs.
+ • Systems for which optimal corrosion control treatment (OCCT) has
+   been designated.
+
+
+
+
+                                                                                                                                 December 2020
+                                                                      8
+

@@ -1,0 +1,672 @@
+TECHNICAL BRIEF
+                                                                                                    WHO/FWC/WSH/15.03
+
+
+
+
+                  MANAGEMENT OF CYANOBACTERIA
+                  IN DRINKING-WATER SUPPLIES:
+                  Information for regulators and water
+                  suppliers
+This technical brief provides general information on the management of cyanobacteria in drinking-water supplies to help regulators
+and water suppliers determine when to take action and what actions to take. It describes a number of measures to prevent the
+formation of cyanobacterial blooms as well as options to manage such blooms when they occur. Although some of the measures
+are specific to cyanobacteria, many are equally useful for the management of other hazards. Risks from cyanobacteria should be
+assessed along with the other microbial, chemical, physical and radiological hazards that may be encountered in a water supply.
+This can be effectively achieved in the context of developing a water safety plan for the water supply system.
+
+
+
+What are cyanobacteria?
+Cyanobacteria, also known as blue-green algae, are photosynthetic bacteria naturally present in surface waters in low or moderate
+numbers; very high numbers are usually caused by human activity enriching the water with phosphorus and nitrogen. Some
+cyanobacteria produce toxins, called cyanotoxins. Cyanobacteria can occur as single cells or in groups, as colonies or filaments. They
+can be found in fresh, marine and brackish waters. Frequently occurring genera in surface waters include Anabaena, Aphanizomenon,
+Cylindrospermopsis, Lyngbya, Microcystis, Oscillatoria, Phormidium and Planktothrix.
+
+Some cyanobacteria can control their buoyancy and seek water depths with optimal growth conditions. This ability to move within
+the water column gives cyanobacteria an advantage over other microorganisms that compete for nutrients and light. Buoyant
+cyanobacteria, such as Anabaena and Microcystis, may float upward when mixing is weak and accumulate in dense surface blooms
+(Fig. 1). Other cyanobacteria, such as Cylindrospermopsis and Planktothrix, stay dispersed, but can reach very high cell densities,
+causing high turbidity. Still others, such as Lyngbya, Oscillatoria and Phormidium, grow as benthic populations on sediments or
+attached to other surfaces, such as piers or submersed rocks (for details, refer to Ministry for the Environment & Ministry of Health,
+New Zealand, 2009).
+
+
+
+Figure 1. Cyanobacterial bloom (left); Microcystis sp. (middle; magnified 200-fold); Anabaena sp. (right; magnified 400-fold)
+
+
+
+
+http://www.who.int//water_sanitation_health/publications/2011/dwq_guidelines/en/
+                                                                           How can cyanobacteria affect drinking-water supplies and human
+                                                                           health?
+                                                                           Production of toxins
+
+                                                                           General information
+                                                                           Cyanobacteria produce a wide range of bioactive substances, some of which are still unknown. A number are toxic to humans –
+                                                                           the cyanotoxins – and they have different modes of toxicity. Some cyanotoxins are chiefly contained within the cyanobacterial cell
+                                                                           (intracellular cyanotoxins), whereas others are released from the cell into the surrounding water (extracellular cyanotoxins). When
+                                                                           the cyanobacteria die, the intracellular cyanotoxins can also be released; this may occur during certain water treatment processes.
+
+                                                                           Most surface bloom–forming cyanobacterial species can produce toxins; however, not all bloom-forming cyanobacteria are toxic.
+                                                                           As a precaution, cyanobacterial blooms should be considered toxic, as evidence shows that up to 75% of blooms are toxic (Chen,
+                                                                           Burke & Prepas, 2011). Each type of cyanotoxin can be produced by different genera of cyanobacteria; microcystins, for example, are
+                                                                           produced by Microcystis and Planktothrix, whereas cylindrospermopsin comes from Cylindrospermopsis and Anabaena. In addition,
+                                                                           each genus of cyanobacteria can produce more than one cyanotoxin; Anabaena species, for example, produce cylindrospermopsin
+                                                                           and anatoxins.
+
+                                                                           Bottom-dwelling (benthic) cyanobacteria, such as the genera Lyngbya, Oscillatoria and Phormidium, also produce cyanotoxins and
+                                                                           therefore may be hazardous if they detach and rise to the surface or disperse in the water.
+
+                                                                           Potential health effects
+                                                                           Cyanotoxins can have a variety of effects on human health. Acute symptoms range from gastroenteritis, fever and irritation of the
+                                                                           skin, eyes, throat and respiratory tract to liver damage and neurotoxicity. Chronic long-term effects include tumour promotion
+                                                                           (International Agency for Research on Cancer, 2010). Cyanobacteria do not multiply in the human body and so are not infectious
+                                                                           (Chorus & Bartram, 1999).
+
+                                                                           In an incident in Brazil, more than 50 people died when water contaminated by cyanotoxins (microcystins and probably also
+                                                                           cylindrospermopsin) was used for dialysis after insufficient treatment (Jochimsen et al., 1998). Drinking-water should not be used
+                                                                           for dialysis without treatment specific for this purpose.
+
+
+                                                                           Production of off-flavours and odours
+
+                                                                           General information
+MANAGEMENT OF CYANOBACTERIA IN DRINKING-WATER SUPPLIES • TECHNICAL BRIEF
+
+
+
+
+                                                                           Some genera of cyanobacteria, such as Anabaena, Phormidium and Planktothrix, produce compounds with unpleasant odours
+                                                                           and tastes (“off-flavours”). The two most common compounds are geosmin and 2-methylisoborneol. They impart a musty-earthy
+                                                                           odour to drinking-water, which, although unpleasant, is harmless. Although other microorganisms, such as actinomycetes, also
+                                                                           produce geosmin and 2-methylisoborneol, cyanobacteria are considered the major source of these compounds in surface waters.
+                                                                           Their occurrence can be a sign that toxic cyanobacteria are present. Usually, however, the occurrence of cyanotoxins is not related
+                                                                           to taste and odour. Tastes and odours are therefore not reliable signs of a toxin-producing bloom.
+
+                                                                           Customer complaints and undermining consumer confidence
+                                                                           Taste- and odour-causing compounds can be detected at very low concentrations in water (e.g. a few nanograms per litre), much
+                                                                           lower than the concentrations of cyanotoxins that are associated with adverse health effects. These tastes and odours can lead to
+                                                                           customer complaints or result in consumers using an aesthetically more acceptable, but potentially less safe, drinking-water source.
+
+
+
+
+             2
+Where are cyanobacteria likely to be found, and what causes their
+growth?
+Environmental conditions that favour cyanobacterial growth
+
+Cyanobacterial blooms occur in fresh water in nearly all parts of the world. Environmental conditions that favour cyanobacterial
+growth tend to occur in late summer and autumn in temperate zones and potentially year-round in productive tropical and
+subtropical zones. These conditions include:
+
+       • high concentrations of nutrients, particularly phosphorus (> 25–50 µg total phosphorus per litre1),
+       • high water temperature (> 25 °C),
+       • long hydraulic retention time (> 1 month), and
+       • stable water body stratification (for some cyanobacteria).
+
+Because of these characteristics, planktonic cyanobacteria (those living in the water column) tend to occur more often in reservoirs,
+dams, lakes, ponds and slow-moving rivers. Benthic cyanobacteria are found on the bottom or in shallow zones of water bodies
+and tend to stay localized to the area of growth.
+
+If the planktonic or benthic cyanobacteria are disturbed or their mats become detached, their toxins may be released and disperse
+in the vicinity. Other factors, such as light intensity and wind, affect the growth and accumulation of cyanobacterial blooms. In
+temperate climates, some filamentous, usually toxic cyanobacteria may produce blooms at the interface between the warm surface
+water layer and the cold deep layer (e.g. Planktothrix rubescens), whereas others may produce high biomass concentrations year-
+round in well-mixed shallow lakes (e.g. Planktothrix agardhii).
+
+
+Direct and indirect effects of increases in water temperature
+
+Warming of surface water can provide a competitive advantage for cyanobacteria. In temperate regions with seasonal phytoplankton
+succession, higher winter and spring temperatures may promote the growth of cyanobacteria over that of diatoms, which usually
+dominate in spring when water bodies are well mixed. Moreover, increased water temperatures further intensify water stratification
+and lengthen the duration of stratification periods, thus increasing not only the magnitude of the blooms, but also their duration.
+
+
+Effects of change in patterns of precipitation and storms
+
+Climate change can affect cyanobacterial growth through impacts on both water temperature and precipitation events. Intense
+rainfall can increase nutrient discharge into water bodies, thus promoting bloom formation, but it may also prevent blooms by
+increased flushing and mixing. Where water retention time increases as a result of drought, nutrient loads may rise, thus potentially
+promoting blooms; in contrast, drought may reduce nutrient levels due to reduced influx of water carrying fertilizers. Intense
+snowfall leading to large spring melt and flooding may also affect cyanobacterial occurrence. Storm events affect water body
+mixing, with more frequent alternation between stable stratification and mixing interrupting bloom development (see Paerl &
+Huisman, 2008; Newcombe et al., 2012).
+
+
+Occurrence of cyanobacteria in source water
+
+During the last decades, cyanobacterial abundance has increased in many surface waters around the world as a result of various
+factors, such as increased nutrient concentrations (“eutrophication”). Cylindrospermopsis raciborskii has substantially expanded its
+geographical range: it was initially identified exclusively in tropical and subtropical latitudes, but its prevalence in temperate regions
+– including northern Europe, southern Australia, New Zealand, the northern United States and southern Canada – has increased
+over the past two decades. Nonetheless, in most of these regions, other cyanobacteria, particularly Microcystis and Planktothrix,
+remain the most frequent causes of heavy blooms.
+
+
+
+
+1
+    Note that this is referring to total phosphorus, not to phosphorus dissolved in the water. Detection of dissolved phosphorus at concentrations above 5 µg/L implies excess availability
+    and high bloom potential.
+
+                                                                                                                                                                                              3
+                                                                           Water bodies that are influenced by discharges of municipal wastewater or subsurface infiltration of groundwater influenced by
+                                                                           septic systems are known to carry nutrients at elevated levels that are capable of increasing cyanobacterial growth. These impacts
+                                                                           are exacerbated by wastewater treatment systems with poor nutrient removal capacity. Drought conditions can also increase the
+                                                                           likelihood of cyanobacterial blooms where wastewater loading remains constant. Runoff from animal feedlots and from fields
+                                                                           containing mineral fertilizer or manure can introduce similarly high nutrient loads; in regions with effective phosphorus removal in
+                                                                           wastewater treatment but intensive agriculture, the latter tends to be the main cause of eutrophication (see also Merel et al., 2013).
+
+
+
+                                                                           How can the risk associated with cyanobacteria in the water supply be
+                                                                           assessed and effectively managed?
+                                                                           The most effective means of consistently ensuring the safety of a drinking-water supply is through the use of a comprehensive risk
+                                                                           assessment and risk management approach that encompasses all steps in the water supply, from catchment to consumer. For this
+                                                                           purpose, the World Health Organization (WHO) recommends the development of water safety plans (Davison et al., 2005; WHO, 2011).
+
+                                                                           Water safety plan development draws on the principles and concepts of both a multiple-barrier approach and the hazard assessment
+                                                                           and critical control points approach. The primary objective of a water safety plan is ensuring good drinking-water supply through
+                                                                           the identification of risks from hazards and hazardous events, the prevention or minimization of contamination of source waters, the
+                                                                           reduction or removal of contamination through treatment processes and the prevention of recontamination in the distribution system.
+
+                                                                           An example of a flow chart to guide water suppliers in determining when to take action to manage cyanobacteria and what actions
+                                                                           to perform is provided in Fig. 2 (see also Chorus & Bartram, 1999; Health Canada, 2002; Newcombe, 2012).
+
+
+                                                                           Figure 2. Example flow chart of the management of cyanobacteria in water
+
+
+                                                                                                                                                               Water sources
+                                                                                               Actions                                                  Assessment of potential for blooms from
+                                                                                                                                                       nutrients and previous water body history
+                                                                                                   Application of preventing and
+                                                                                                                                                                  Visual monitoring
+                                                                                                      controlling techniques
+                                                                                                                                      Confirmation
+                                                                                                                                                                 Field tests (optional)
+                                                                                                                                        of effects
+                                                                                                                                                                                When toxin production is
+                                                                                                                                                                                suspected or routine testing
+                                                                                                                                                                Identification (testing)
+                                                                                                Consultation and decision-making                            Cyanobacteria and cyanotoxins
+                                                                                                     with other authorities
+MANAGEMENT OF CYANOBACTERIA IN DRINKING-WATER SUPPLIES • TECHNICAL BRIEF
+
+
+
+
+                                                                                                   Notify several authorities that                     Source and/or raw water
+                                                                                                  utilize water in the same source
+                                                                                                                                                                  Report to regional
+                                                                                                                                        Many cells                  health and/or                  Few cells or
+                                                                                                                                       or high toxin               environmental                    low toxin
+                                                                                   Optional                                                                           agencies
+
+                                                                                       Resampling and reanalysis
+
+
+                                                                                                                                     Treated water                                        Confirmation of
+                                                                                                                                                                                          effects of treatment
+                                                                                                                                      Report to regional                                  adjustment
+                                                                                                                                        health and/or
+                                                                                                            High toxin                                               Low toxin
+                                                                                                                                       environmental
+                                                                                                                                          agencies
+
+                                                                                                  Notify community and agencies
+                                                                                                                                                                     Actions
+                                                                                                                                                                            Treatment adjustment or
+                                                                                                Consultation and decision-making
+                                                                                                                                                                               alternative supply
+
+
+                                                                                  Source: Adapted from Health Canada (2002).
+             4
+Assessing the potential of water sources to support cyanobacterial blooms
+
+Understanding the conditions that promote the growth of cyanobacteria in water bodies is useful for predicting whether
+cyanobacterial problems are likely to occur. A fundamental basis for cyanobacterial growth is the concentration of total phosphorus,
+as the total amount of phosphorus in the system limits the total amount of biomass that can occur. Water temperature is also an
+important factor for assessing the potential for cyanobacterial growth, as shown in Table 1. Data on additional factors, such as
+chlorophyll a, thermal stratification, local weather conditions influencing stratification and concentrations of nitrogen, can improve
+the assessment.
+
+Table 1. Example assessment of the potential for high biomass of cyanobacteria based on environmental conditionsa
+
+                                                                                                  Potential for high biomass of cyanobacteria
+                                                                                  Very low                          (blooms)                           Very high
+    Indicator
+
+
+    Total phosphorus (µg/L)                                                         < 10           10–25               > 25–50           > 50–100        > 100
+                                                                                River with visible
+    Water residence time                                                                                          < 1 month                      ≥ 1 month
+                                                                                     current
+    pH                                                                             < 5–6           > 6–7                                   >7
+    Secchi disc transparencyb during season typical for cyanobacteria               ≥2m              < 2–1 m                 < 1–0.5 m               < 0.5 m
+    Temperature (°C)                                                                 < 10           10 – < 15         15 – < 20          20 – < 25       ≥ 25
+a
+ The higher the number of these conditions that are fulfilled, the higher the potential for high biomass of cyanobacteria.
+b
+ Determined as the depth at which a white disc of 20 cm diameter lowered into the water is no longer visible.
+Source: Adapted from Umweltbundesamt (2014).
+
+
+Monitoring and testing in water sources
+
+Several-year data sets on the occurrence of cyanobacteria are valuable for cyanobacterial risk assessment and management. In
+many water bodies, cyanobacteria occur with quite regular annual patterns. Once these patterns are understood, monitoring can
+be specifically targeted to critical time periods. Monitoring cyanobacteria also provides information for tracking the development of
+cyanobacterial blooms as well as for early warning for water source management and drinking-water treatment plants. Monitoring
+is most effectively based on surveillance of source water for evidence of cyanobacterial bloom–forming potential, such as the
+concentration of total phosphorus. Effective monitoring is useful for improving the identification of water bodies at risk of blooms,
+particularly as, in many cases, data from a single point in time (e.g. spring overturn or end of dry season) serve to characterize
+bloom potential. On-site visual assessment of water body turbidity and scouting for surface blooms are effective, low-cost, direct
+methods that can trigger increased vigilance where such events occur.
+
+
+Monitoring of cyanobacteria, cyanotoxins and taste- and odour-causing compounds
+Timing, frequency and depth of sampling are best adapted to the (sometimes rapid) variation of cyanobacterial densities between
+locations within the water body. Densities are influenced by local factors, such as changes in wind direction. The appropriate
+frequency of sampling will be influenced by a number of factors, including the cost of monitoring, the season, the growth rate of
+the cyanobacteria and methods employed in preventing and controlling cyanobacteria.
+
+Chlorophyll a is a good indicator for overall phytoplankton biomass, and monitoring chlorophyll a is a direct way to provide a semi-
+quantitative estimate of cyanobacterial biomass, particularly if performed in combination with a brief check in the microscope
+as to whether it chiefly originates from cyanobacteria (Chorus & Bartram, 1999; Health Canada, 2002; Newcombe et al., 2010;
+Newcombe, 2012).
+
+To determine whether cyanobacteria are present in source waters and how concentrated they are, direct visual inspection for
+discoloration or surface scums of cyanobacteria in water sources is an effective first check. A typical colour of bloom is green with
+an olive hue; however, the colours can range from grey or tan to blue-green or reddish; during short periods of lysis, the bloom may
+also be bright turquoise or blue. If cyanobacteria are suspected, species identification and cell count by microscopic observation
+are recommended. It is not difficult to identify cyanobacteria at the genus level for staff with some experience in microscopy, and
+this can be sufficient to detect a potential cyanotoxin hazard, particularly from the genera Anabaena, Aphanizomenon, Microcystis
+and Planktothrix.
+
+
+
+                                                                                                                                                                   5
+                                                                           Field test kits can be useful for screening for specific cyanotoxins; however, more sophisticated laboratory testing should be
+                                                                           considered to confirm the identification of the toxins and their concentrations. The absence of one cyanotoxin does not guarantee
+                                                                           the absence of all cyanotoxins. Testing for cyanotoxins in the treated drinking-water is useful to validate and optimize the efficacy
+                                                                           of treatment processes (Chorus & Bartram, 1999; Japan Water Works Association, 2000; Nicholson & Burch, 2001; American Water
+                                                                           Works Association, 2004; Newcombe, 2012).
+
+                                                                           The presence of geosmin and 2-methylisoborneol can be recognized by the musty smell of the water. Analytical confirmation
+                                                                           and quantification require specific equipment and skills that often are not routinely present in water utilities (see also Jüttner &
+                                                                           Watson, 2007).
+
+
+
+                                                                           How can cyanobacterial growth in water sources be prevented or
+                                                                           controlled?
+                                                                           There are a number of approaches and techniques to prevent or control the growth of cyanobacteria in water sources. Preventive
+                                                                           programmes to manage cyanobacteria in water should be developed in coordination with those agencies with the responsibility
+                                                                           for managing water resources, including environmental, agricultural and health authorities. The appropriate technique will depend
+                                                                           on a number of factors, including local environmental conditions, cost of the technique, target periods, ecological condition of the
+                                                                           respective water source and effects on other water uses (e.g. agricultural and recreational uses) (National Rivers Authority, 1990;
+                                                                           Chorus & Bartram, 1999; Newcombe, 2012; Water Research Foundation, 2012).
+
+
+                                                                           Nutrient level control
+
+                                                                           Control of the levels of nutrients – specifically phosphorus, which is usually critical in promoting bloom growth and formation – is
+                                                                           a key factor for sustainable long-term management of cyanobacterial growth in drinking-water sources. Nutrient control can be
+                                                                           achieved through good watershed management practices, such as limiting the input of nutrients from wastewater effluent and
+                                                                           agricultural runoff (including minimizing use of fertilizers in the catchment) and controlling erosion through improved techniques
+                                                                           of ploughing and by maintaining a densely vegetated buffer strip a few metres wide around the water body and its tributaries.
+
+
+                                                                           Artificial mixing/aerating of source waters
+
+                                                                           Artificial mixing/aerating is an intermediate-term or long-term technique to manage the growth of scum-forming cyanobacteria,
+                                                                           such as the genera Anabaena and Microcystis, in water sources with stable thermal stratification, present in many reservoirs. Mixing
+                                                                           the water column can disrupt thermal stratification at least partially and thus inhibit the movement of cyanobacteria through the
+                                                                           water column into optimal light conditions. However, it requires a sufficiently deep water body, energy, sophisticated equipment,
+                                                                           excellent planning, monitoring of the impact and adjustment of the mixing regime. Thus, it may be uneconomical. In addition,
+MANAGEMENT OF CYANOBACTERIA IN DRINKING-WATER SUPPLIES • TECHNICAL BRIEF
+
+
+
+
+                                                                           once aeration ceases, blooms can return. In addition, mixing can cause other cyanobacteria – adapted to mixing – to replace the
+                                                                           previously prevalent species.
+
+
+                                                                           Use of algicides and agents to precipitate cyanobacteria
+
+                                                                           The use of algicides to kill cyanobacteria is a technique for the short-term management of cyanobacterial growth in reservoirs
+                                                                           (not in rivers). It can be useful at the beginning of bloom development. The most common algicide is copper sulfate; however,
+                                                                           alternative algicides, such as copper chelates and hydrogen peroxide, have been applied. As some cyanotoxins and taste- and
+                                                                           odour-causing compounds are intracellular, algicide application causing the sudden death of many cells can result in substantial
+                                                                           release of cyanotoxins. Although drinking-water treatment would have removed the cells with the toxins, dissolved cyanotoxins are
+                                                                           more likely to break through. Therefore, algicides are best applied while cell numbers are still low, to avoid the release of significant
+                                                                           concentrations of intracellular toxins and taste- and odour-causing compounds.
+
+                                                                           Algicides may be used at higher cell numbers only if the reservoir can be taken out of supply until the toxins or taste- and odour-
+                                                                           causing compounds degrade or if treatment for their removal is available. In addition, algicide use requires monitoring to minimize
+                                                                           impacts on the agricultural use of water and on ecosystems, as well as precaution to ensure that algicides are not released into water
+                                                                           sources, which may result in other health impacts or downstream environmental impacts. Operators must follow manufacturers’
+                                                                           instructions when they use algicides.
+
+                                                                           Alum and gypsum work differently, precipitating rather than quickly killing the cells, and precipitating phosphorus as well. These
+                                                                           may be feasible options where costs need to be kept low, as in the case of small water utilities.
+
+
+             6
+Other options
+
+Other techniques, such as decreasing the hydraulic retention time of reservoirs, maintaining flow in regulated rivers and
+biomanipulation (i.e. managing ecosystem components that compete with cyanobacteria, such as submersed aquatic plants),
+are also useful in some cases. Their success depends on excellent planning, monitoring and maintenance, based on an in-depth
+understanding of the ecosystem (National Rivers Authority, 1990; Newcombe, 2012).
+
+
+
+How can intake of cyanobacteria be avoided? How can cyanobacteria,
+cyanotoxins and taste- and odour-causing compounds be removed
+through drinking-water treatment?
+If significant amounts of cyanobacterial cells, cyanotoxins and taste- and odour-causing compounds are present in water sources
+and if prevention and control strategies cannot be implemented sufficiently quickly, a number of methods are available to prevent
+exposure to cyanotoxins or taste- and odour-causing compounds. For microcystins, the most effective control is the removal of
+the intact cells, as any cell damage in the drinking-water treatment plant may lead to toxin release and an increase in dissolved
+toxin entering the distribution system. For other cyanotoxins, this would be only partially effective, as higher proportions of the
+toxins occur dissolved in the water.
+
+The appropriate technique will depend on a number of factors, including the hydrogeological situation, current treatment processes,
+cost of the technique and types of cyanobacteria, cyanotoxins and taste- and odour-causing compounds, as well as further microbial,
+chemical and physical hazards in the water supply that also require removal by treatment (Chorus & Bartram, 1999; Water Research
+Foundation, 2010; Newcombe, 2012; Odel, 2012).
+
+A brief description of the treatment methods for cyanobacteria, cyanotoxins and taste- and odour-causing compounds follows.
+The treatment performance for cyanobacterial cells, intracellular/extracellular cyanotoxins, geosmin and 2-methylisoborneol is
+summarized in Table 2.
+
+Table 2. Treatment performance for cyanobacterial cells, intracellular/extracellular cyanotoxins, geosmin and
+2-methylisoborneol
+                                                                            Cyanobacterial
+                                                                          cells, intracellular
+                                                                             cyanotoxins,                                            Extracellular
+                                                                             geosmin and              Extracellular (free)        (free) geosmin and
+ Treatment processes                                                      2-methylisoborneol              cyanotoxins             2-methylisoborneol
+ Coagulation/sedimentation                                                          +                           –                         –
+ Riverbank and slow sand filtration                                                 +                           +                         +
+ Membrane filtration                                                                +                          –a                         –a
+ Dissolved air flotation                                                            +                           –                         –
+ Activated carbon                                                                   –                           +                         +
+ Ozonationb                                                                         –                           +                         +
+ Chlorination (free chlorine)c                                                      –                           +                         –
+ Chloramination and chlorine dioxide                                                –                           –                         –
+ Preoxidation                                                                       –                           –                         –
++: 80% or more removal, although it depends on treatment conditions and types of cyanobacteria and toxins; –: not so effective.
+a
+  Depends on pore size of membranes. Nanofiltration is effective.
+b
+  Ozonation may release cyanotoxins and is not effective for saxitoxins.
+c
+  Chlorination may release cyanotoxins and is not effective for anatoxin-a.
+
+
+
+Water abstraction at variable depths or sites
+
+As concentrations of cyanobacteria can occur on the surface or at depth, variable abstraction depths may be useful for decreasing
+cyanobacterial cells and their toxins in the raw water for drinking-water production. Where scums tend to accumulate at a specific
+shoreline of the water body owing to a prevailing wind, choosing the off-take site away from this area can be useful. If cells
+accumulate at varying sites of a reservoir (e.g. in different bays, depending on the wind direction), it may also be useful to shift
+abstraction sites, if technically feasible.
+
+
+
+                                                                                                                                                       7
+                                                                           Water abstraction through bank filtration or slow sand filtration
+
+                                                                           Slow sand filtration and riverbank filtration are effective not only for cyanobacterial cells, but also for extracellular cyanotoxins,
+                                                                           geosmin and 2-methylisoborneol, as these undergo biodegradation during such processes. For slow sand filters, frequent scraping
+                                                                           of surface layer or backwashing may be necessary if filter media clog rapidly due to the high load of organic matter. If sand filter
+                                                                           clogging occurs frequently, it is effective to couple the sand with anthracite, whose diameter is larger than that of sand. Efficacy
+                                                                           may be reduced if the water temperature is low or the filtration rate is high. These methods are not costly and are fairly easy to
+                                                                           apply, even where resources are limited. Abstraction through riverbank filtration is possible where the underground is not rocky
+                                                                           but consists of sufficiently permeable sediment.
+
+
+                                                                           Water treatment to remove cyanobacterial cells and intracellular cyanotoxins, geosmin and
+                                                                           2-methylisoborneol
+
+                                                                           Dissolved air flotation is effective particularly for light cells and species containing gas vesicles, which typically form surface scums.
+                                                                           Waters of high colour and low turbidity are best suited for flotation processes.
+
+                                                                           Coagulation/sedimentation/filtration is effective to remove many species of cyanobacteria and cell-bound cyanotoxins, particularly
+                                                                           microcystins, and taste- and odour-causing compounds, depending on pH, coagulant type and dose. It is ineffective in removing
+                                                                           cyanotoxins that largely occur extracellularly and thus may be present even after the producing cyanobacteria have disappeared
+                                                                           from the water body. Sediments (sludge) should be rapidly removed from the treatment system (e.g. from the clarifier) to avoid the
+                                                                           release of cyanotoxins and taste- and odour-causing compounds. Backwashing should be done frequently to reduce the release of
+                                                                           dissolved toxins to the filtered water. Post-coagulation (i.e. the addition of coagulants after sedimentation) is effective for some small
+                                                                           and light cyanobacteria – such as Synechococcus spp. – that may be difficult to remove using normal coagulation/sedimentation and
+                                                                           that increase the turbidity and colour of treated water. Preoxidation (chlorination or ozonation before coagulation/sedimentation/
+                                                                           filtration) also increases the coagulation performance; however, it carries a risk of cyanobacterial cell disruption and release of
+                                                                           cyanotoxins or taste- and odour-causing compounds. Validation of performance should include toxin analysis, particularly in
+                                                                           situations where high cell densities reach the treatment system, and post-treatment for the removal of extracellular cyanotoxins
+                                                                           and taste- and odour-causing compounds may need to be augmented with preoxidation. A further limitation to the application
+                                                                           of preoxidation is that it can increase the production of disinfection by-products, particularly considering the high load of organic
+                                                                           material introduced by a bloom.
+
+                                                                           Membrane filtration (microfiltration, ultrafiltration, nanofiltration and reverse osmosis) is effective for removing cyanobacterial cells.
+                                                                           Its efficiency depends on the pore size of the membranes – usually less than 1 µm – and on the membrane materials. Frequent
+                                                                           backwashing and removal of backwash water from the plant are recommended for avoiding the release of cyanotoxins and taste-
+                                                                           and odour-causing compounds. Pretreatment of the raw water is also recommended to prevent fouling and optimize membrane
+                                                                           performance.
+MANAGEMENT OF CYANOBACTERIA IN DRINKING-WATER SUPPLIES • TECHNICAL BRIEF
+
+
+
+
+                                                                           Removal of extracellular (free) cyanotoxins
+                                                                           Powdered activated carbon and granular activated carbon are very effective, depending on the carbon dose, the type of carbon
+                                                                           (wood-based powdered activated carbon for microcystin and cylindrospermopsin) and contact time (> 30 minutes recommended);
+                                                                           however, they are expensive. Coupling peroxidation with activated carbon is an effective way to remove both cyanotoxins and
+                                                                           their potential transformation products. Moreover, the carbon must be regenerated or replaced at routine intervals, often based
+                                                                           on the breakthrough of total organic carbon; however, toxin breakthrough may occur before significant total organic carbon
+                                                                           breakthrough is detected.
+
+                                                                           Chlorination can be effective against many cyanotoxins (with the exception of anatoxin-a) in water where the pH is not very
+                                                                           high (< 8), the free chlorine concentration is sufficiently high (> 0.5 mg/L residual) and the contact time is sufficiently long
+                                                                           (> 30 minutes). Chloramine and chlorine dioxide are not effective. Chlorination can be followed by activated carbon treatment to
+                                                                           remove chlorination by-products (for further information, see Newcombe, 2012).
+
+                                                                           Preoxidation with other oxidants, such as potassium permanganate, can be effective against microcystins and anatoxin-a, but
+                                                                           limited or no data are available for other cyanotoxins.
+
+                                                                           Ozonation may very effectively degrade cyanobacteria, depending on characteristics of the raw water, such as the concentration of
+                                                                           natural organic matter and pH (> 7). Ozonation can be followed by activated carbon treatment to remove ozonation by-products.
+
+
+
+             8
+Other options include advanced oxidation processes, ultraviolet irradiation with hydrogen peroxide, but only at impractically high
+doses or in the presence of a catalyst (e.g. titanium), and nanofiltration/reverse osmosis, which are effective, but generally expensive.
+
+
+Removal of extracellular (free) geosmin and 2-methylisoborneol
+
+Powered activated carbon and granular activated carbon are very effective, depending on the dose and type of activated carbon
+(wood, coal and coconut-based carbons) and contact time (> 30 minutes recommended); however, they are expensive. Geosmin
+can be more easily removed (adsorbed) than 2-methylisoborneol. Coupling of activated carbon with preoxidation may be effective
+to remove extracellular geosmin and 2-methylisoborneol.
+
+Ozonation is very effective and best followed by activated carbon treatment to remove ozonation by-products. Compared with
+2-methylisoborneol, geosmin is much more effectively oxidized by ozone; therefore, some utilities may consider the addition of
+hydrogen peroxide to increase the reaction kinetics in order to remove 2-methylisoborneol.
+
+
+
+What are the important issues in treating drinking-water containing
+cyanobacteria?
+Inhibition of coagulation
+
+Some cyanobacteria, such as the genus Microcystis, produce coagulation inhibitor proteins, which cause a decrease in removal
+efficiencies of particulates and dissolved organic matter, such as disinfection by-product precursors, in the coagulation/
+sedimentation processes.
+
+
+Filter clogging and breakthrough
+
+Larger-sized cyanobacteria can clog filters when present in high numbers, increasing the need for washing or exchanging filters
+and potentially leading to the release of cyanotoxins and taste- and odour-causing compounds from trapped cyanobacterial cells
+due to cell damage. Small cyanobacteria, such as Synechococcus, and filamentous cyanobacteria, such as Aphanizomenon and
+Planktothrix, may be poorly retained on filters and can visibly break through or increase turbidity and colour in treated water when
+present in high numbers.
+
+
+Interference with disinfection
+
+Disinfectant demand and disinfection by-product formation increase when cyanobacterial cells are present in high numbers.
+
+
+
+Does the World Health Organization have guideline values for
+cyanotoxins, geosmin and 2-methylisoborneol?
+The WHO Guidelines for Drinking-water Quality (WHO, 2011) provide the scientific point of departure
+for the establishment of national standards and regulations. The Guidelines include a provisional
+guideline value of 1 µg/L for total microcystin-LR (free plus cell-bound) – the most toxic compound
+in a large family of microcystins – in drinking-water. The guideline value is provisional, as it covers
+only microcystin-LR, the database is limited and new data on the toxicity of cyanobacterial toxins
+are being generated.
+
+Other cyanotoxins are not included in the Guidelines for Drinking-water Quality, as data on their
+health effects are insufficient for a stringent toxicological derivation of a guideline value, although
+further research is being carried out. For other cyanotoxins, a number of countries have used
+default assumptions to derive and implement provisional maximum acceptable concentrations.
+                                                                                                                                            100
+
+
+                                                                                                                                            95
+
+
+                                                                                                                                            75
+
+
+
+
+                                                                                                                                            25
+
+
+
+
+The Guidelines for Drinking-water Quality do not include guideline values for geosmin or
+                                                                                                                                            5
+
+
+                                                                                                                                            0
+
+
+
+
+2-methylisoborneol, which are aesthetic concerns, not public health issues.
+
+
+
+
+                                                                                                                                                  9
+                                                                           Overall conclusions
+                                                                           Management of cyanobacteria is most effective when focusing on bloom prevention through catchment and water source
+                                                                           management as part of a water safety plan approach to managing risks to a water supply system. The adoption of the water safety
+                                                                           plan approach includes establishing a cross-sectoral team to analyse the local situation, assessing the health risks and developing
+                                                                           management plans. Water safety plans provide a valuable platform to facilitate communication between stakeholders in the
+                                                                           catchment, which may be subject to different legislation (e.g. agriculture, wastewater, water management, health).
+
+                                                                           As part of a water safety plan, it is important to determine bloom potential or track bloom development through biomass
+                                                                           determination and nutrient monitoring at regular intervals. If possible, cell counts and species identification may be necessary to
+                                                                           determine the potential presence of cyanotoxins.
+
+                                                                           Preventive approaches may not always be effective in the short term, particularly where nutrient loads are high and where
+                                                                           implementation of measures to reduce nutrient loads sufficiently for effective control of cyanobacterial biomass takes time. In
+                                                                           such situations, treatment processes need to be optimized, taking into consideration the types of cyanobacteria, cyanotoxins and
+                                                                           taste- and odour-causing compounds, as well as microbial, chemical and physical hazards in the water supply.
+
+                                                                           Combining monitoring techniques with toxin testing will assess the effectiveness of the barriers in place – from the catchment
+                                                                           to the treatment plant outlet. Periodic testing for selected cyanotoxins (e.g. during a bloom and as it declines) is also valuable to
+                                                                           verify whether there is a potential health concern during that event.
+
+
+
+                                                                           References
+                                                                           American Water Works Association (2004). Algae. In: Problem organisms in water: identification and treatment, third edition. Denver (CO): American Water Works
+                                                                           Association; 57–68.
+                                                                           Chen H, Burke E, Prepas EE (2011). Cyanobacterial toxins in fresh waters. In: Nriagu JO, editor. Encyclopedia of environmental health. Amsterdam: Elsevier; 860–71.
+                                                                           Chorus I, Bartram J, editors (1999). Toxic cyanobacteria in water: A guide to their public health consequences, monitoring and management. London: E & FN Spon, on
+                                                                           behalf of UNESCO, WHO and UNEP (http://www.who.int/water_sanitation_health/resources/toxicyanobact/en/, accessed 27 May 2014).
+                                                                           Davison A, Howard G, Stevens M, Callan P, Fewtrell L, Deere D et al. (2005). Water safety plans: Managing drinking-water quality from catchment to consumer.
+                                                                           Geneva: World Health Organization (http://www.who.int/water_sanitation_health/dwq/wsp0506/en/, accessed 27 May 2014).
+                                                                           Health Canada (2002). Cyanobacterial toxins – Microcystin-LR (Guidelines for Canadian Drinking Water Quality: supporting documentation). Ottawa (ON): Health
+                                                                           Canada, Federal-Provincial-Territorial Committee on Drinking Water (http://hc-sc.gc.ca/ewh-semt/alt_formats/hecs-sesc/pdf/pubs/water-eau/cyanobacterial_
+                                                                           toxins/cyanobacterial_toxins-eng.pdf, accessed 27 May 2014).
+                                                                           International Agency for Research on Cancer (2010). Cyanobacterial peptide toxins. IARC Monogr Eval Carcinog Risks Hum. 94:327–412.
+                                                                           Japan Water Works Association (2000). Organisms of water supplies in Japan – photographs and descriptions. Tokyo: Japan Water Works Association.
+                                                                           Jochimsen EM, Carmichael WW, An JS, Cardo DM, Cookson ST, Holmes CE et al. (1998). Liver failure and death after exposure to microcystins at a hemodialysis center
+MANAGEMENT OF CYANOBACTERIA IN DRINKING-WATER SUPPLIES • TECHNICAL BRIEF
+
+
+
+
+                                                                           in Brazil. N Engl J Med. 338(13):873–8.
+                                                                           Jüttner F, Watson SB (2007). Biochemical and ecological control of geosmin and 2-methylisoborneol in source waters. Appl Environ Microbiol. 73(14):4395–4406.
+                                                                           Merel S, Walker D, Chicana R, Snyder S, Baurès E, Thomas O (2013). State of knowledge and concerns on cyanobacterial blooms and cyanotoxins. Environ Int.
+                                                                           59:303–27.
+                                                                           Ministry for the Environment, Ministry of Health, New Zealand (2009). New Zealand guidelines for cyanobacteria in recreational fresh waters – Interim guidelines.
+                                                                           Wellington: Ministry for the Environment and Ministry of Health (http://www.mfe.govt.nz/publications/water/guidelines-for-cyanobacteria/nz-guidelines-
+                                                                           cyanobacteria-recreational-fresh-waters.pdf, accessed 27 May 2014).
+                                                                           National Rivers Authority (1990). Toxic blue-green algae. London: National Rivers Authority.
+                                                                           Newcombe G, editor (2012). International guidance manual for the management of toxic cyanobacteria. London: IWA Publishing.
+                                                                           Newcombe G, House J, Ho L, Baker P, Burch M (2010). Management strategies for cyanobacteria (blue-green algae): A guide for water utilities. Adelaide: Water
+                                                                           Quality Research Australia.
+                                                                           Newcombe G, Chorus I, Falconer I, Lin TF, editors (2012). Cyanobacteria: Impacts of climate change on occurrence, toxicity and water quality management. Water Res.
+                                                                           46(5):1347–1584.
+                                                                           Nicholson B, Burch M (2001). Evaluation of analytical methods for the detection and quantification of cyanotoxins in relation to Australian drinking water guidelines.
+                                                                           Canberra: National Health and Medical Research Council.
+                                                                           Odel LH (2012). The impact of water treatment plant processes on algae and algal toxins. Water Online Newsletter (9 August 2012) (http://www.wateronline.com/
+                                                                           doc/the-impact-of-water-treatment-plant-processes-on-algae-and-algal-toxins-0001, accessed 30 July 2013).
+                                                                           Paerl HW, Huisman J (2008). Climate. Blooms like it hot. Science. 320(5872):57–8.
+                                                                           Umweltbundesamt (2014). Decision support tool for the development of a setting-specific strategy from catchment to consumer against the occurrence of
+                                                                           cyanotoxins in drinking water. Dessau-Roßlau: Umweltbundesamt (http://toxische-cyanobakterien.de/en/, accessed 27 May 2014).
+
+
+10
+Water Research Foundation (2010). Treating algal toxins using oxidation, adsorption, and membrane technologies. Denver (CO): Water Research Foundation.
+Water Research Foundation (2012). Alternative and innovative methods for source water management of algae and cyanobacteria. Denver (CO): Water Research
+Foundation.
+WHO (2011). Guidelines for drinking-water quality, fourth edition. Geneva: World Health Organization (http://www.who.int/water_sanitation_health/
+publications/2011/dwq_chapters/en/, accessed 27 May 2014).
+
+
+
+Further reading
+Boyer GL, Watson S (undated). Common myths about toxic cyanobacteria. SUNY New York and Environment Canada (http://www.thearchipelago.on.ca/images/
+environment/ten%20common%20myths%20concerning%20toxic%20cyanobacteria.pdf, accessed 27 May 2014).
+Chapman AD (2008). Cyanobacteria. In: Algae: Source to treatment. Denver (CO): American Water Works Association; 125–45.
+Chorus I, editor (2012). Current approaches to cyanotoxin risk assessment, risk management and regulations in different countries. Berlin: Federal Environment
+Agency (http://www.umweltbundesamt.de/sites/default/files/medien/461/publikationen/4390.pdf, accessed 27 May 2014).
+Cooperative Research Centre for Water Quality and Treatment, Australia (2008). Blue green algae: A guide. Drinking water facts. Issue 3 (http://www.waterra.com.
+au/_dyn/media/r385/system/attrib/file/326, accessed 27 May 2014).
+Japan Water Works Association (2006). [Manuals for drinking water treatment to avoid problem of nuisance organisms.] Tokyo: Japan Water Works Association (in
+Japanese).
+Sano D, Ishifuji S, Sato Y, Imae Y, Takaara T, Masago Y et al. (2011). Identification and characterization of coagulation inhibitor proteins derived from cyanobacterium
+Microcystis aeruginosa. Water Res. 82(8):1096–1102.
+Westerhoff P, Nalinakumari B, Peng P (2006). Kinetics of MIB and geosmin oxidation during ozonation. Ozone Sci Eng. 28(5):277–86.
+
+
+
+
+©World Health Organization 2015. Last updated in January 2015.
+
+
+                                                                                                                                                                           11
+http://www.who.int//water_sanitation_health/publications/2011/dwq_guidelines/en/
+

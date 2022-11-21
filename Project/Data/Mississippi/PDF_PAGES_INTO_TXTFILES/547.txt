@@ -1,0 +1,213 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Tombigbee
+River
+
+Ray Branch
+
+801912
+
+Itawamba
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near County Road 23 from headwaters to mouth at
+Gum Creek
+
+Tombigbee
+River
+
+Sand Creek
+
+801612
+
+Lee,
+Itawamba
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Mantachie from headwaters to mouth at
+Mantachie Creek
+
+Tombigbee
+River
+
+Sand Creek
+
+804811
+
+Lee
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Mud Creek
+
+Tombigbee
+River
+
+Sand Creek
+
+821212
+
+Clay
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Old Field Creek
+
+Tombigbee
+River
+
+Shaw Creek
+
+812313
+
+Oktibbeha
+
+Aquatic Life
+Use Support
+
+Sediment
+
+From headwaters to mouth at Noxubee River
+
+Tombigbee
+River
+
+Shotbag Creek
+
+813012
+
+Lowndes,
+Noxubee
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Noxubee River
+
+Tombigbee
+River
+
+Spring Creek
+
+804213
+
+Monroe
+
+Aquatic Life
+Use Support
+
+Sediment
+
+Near Vinton from headwaters to confluence with
+Hang Kettle Creek
+
+Tombigbee
+River
+
+Spring Creek
+
+809312
+
+Clay
+
+Aquatic Life
+Use Support
+
+Sediment
+
+Near Westpoint from headwaters to Ten-Tom
+Waterway
+
+Tombigbee
+River
+
+Standing Reed
+Creek
+
+808011
+
+Chickasaw,
+Clay
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Little Cane Creek
+
+Tombigbee
+River
+
+Sun Creek
+
+822011
+
+Noxubee,
+Winston
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Noxubee River
+
+Tombigbee
+River
+
+Tadpole Creek
+
+803112
+
+Monroe
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to Aberdeen Lake
+
+42
+
+

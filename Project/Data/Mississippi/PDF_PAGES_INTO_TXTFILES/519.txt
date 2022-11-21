@@ -1,0 +1,265 @@
+Basin
+
+Water
+Body
+Name
+
+Water
+Body
+Id
+
+Yazoo
+River
+
+Ascalmore
+Creek
+
+918411
+
+Yazoo
+River
+
+Bynum
+Creek
+
+907711
+
+Yazoo
+River
+
+Beaver
+Bayou
+
+935312
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Tallahatchie
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Panola
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to
+confluence of Shook
+Creek
+Near Water Valley
+from headwaters to
+Enid Lake Flood
+Pool
+
+Aquatic Life
+Use Support
+
+Organic
+Enrichment/
+Low
+Dissolved
+Oxygen
+
+From headwaters to
+MWS 9360
+Boundary
+
+Bolivar,
+Sunflower
+
+Aquatic Life
+Use Support
+
+Organic
+Enrichment/
+Low
+Dissolved
+Oxygen
+
+From MWS
+Boundary 9020 to
+MWS 9019
+
+Bolivar,
+Sunflower
+
+Listing
+Change
+TMDL
+developed by
+MDEQ and
+approved by
+EPA
+4/17/2008
+(908041701)
+
+Near Etta from
+MWS boundary
+9020 to MWS 9019
+
+Waterbody
+Attaining Use
+TMDL
+developed by
+MDEQ and
+approved by
+EPA
+3/20/2020
+(MS_Beaver_
+Bayou_DO)
+TMDL
+developed by
+MDEQ and
+approved by
+EPA
+3/20/2020
+(MS_Beaver_
+Bayou_DO)
+TMDL
+developed by
+MDEQ and
+approved by
+EPA
+4/17/2008
+(908041701)
+
+Entire lake near
+Eagle Bend
+
+Waterbody
+Attaining Use
+
+Total
+Phosphorus
+
+Entire lake near
+Eagle Bend
+
+Waterbody
+Attaining Use
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to
+mouth at Sardis
+Lake
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to
+MWS333
+
+Yazoo
+River
+
+Beaver
+Bayou
+
+Yazoo
+River
+
+Cypress
+Creek
+
+902111
+
+Lafayette
+
+Aquatic Life
+Use Support
+
+Yazoo
+River
+
+Eagle
+Lake
+
+948812
+
+Warren
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+Organic
+Enrichment /
+Low
+Dissolved
+Oxygen
+
+Yazoo
+River
+
+Eagle
+Lake
+
+948812
+
+Warren
+
+Aquatic Life
+Use Support
+
+Yazoo
+River
+
+Greasy
+Creek
+
+904511
+
+Lafayette,
+Panola, Tate
+
+Yazoo
+River
+
+Skuna
+River
+Canal
+
+914811
+914911
+915011
+
+Calhoun
+
+936012
+
+Location
+
+14
+
+Waterbody
+Attaining Use
+TMDL
+developed by
+MDEQ and
+approved by
+EPA
+4/17/2008
+(908041701)
+
+

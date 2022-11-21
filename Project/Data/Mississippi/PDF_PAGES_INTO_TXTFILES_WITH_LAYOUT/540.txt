@@ -1,0 +1,40 @@
+                Water Body         Water                 Impaired
+     Basin                                     County                       Pollutant                        Location
+                  Name            Body Id                  Use
+
+                                                        Aquatic Life    Biological      Near Forkville from headwaters to mouth at Coffee
+Pearl River   Sugar Bogue         507612    Scott       Use Support     Impairment      Bogue
+
+                                            Choctaw,    Aquatic Life    Biological      Near McCool from confluence with Robinson Branch
+Pearl River   Tibby Creek         505811    Attala      Use Support     Impairment      to MWS 5056 boundary
+
+                                                        Aquatic Life    Biological      Near Ruth from MWS 5219 boundary to confluence
+Pearl River   Topisaw Creek       522211    Pike        Use Support     Impairment      at Bogue Chitto
+
+                                                        Aquatic Life    Biological
+Pearl River   Town Creek          503211    Leake       Use Support     Impairment      At Carthage from headwaters to the Pearl River
+
+                                                        Aquatic Life    Biological      Near Santa Rosa from headwaters to confluence with
+Pearl River   Turtle Skin Creek   520511    Hancock     Use Support     Impairment      Mikes River
+              Unnamed
+              Tributary To                              Aquatic Life    Biological      Near Summit from headwaters to mouth at Clear
+Pearl River   Clear Creek         521513    Pike        Use Support     Impairment      Creek
+              Unnamed
+              Tributary To                              Aquatic Life    Biological
+Pearl River   Tallahaga Creek     500712    Winston     Use Support     Impairment      From headwaters to mouth at Tallahaga Creek
+
+              Upper Little                  Lamar,      Aquatic Life    Biological      From confluence with Graves Creek to mouth at Pearl
+Pearl River   Creek               517011    Marion      Use Support     Impairment      River
+
+              White Sand                    Jefferson   Aquatic Life    Biological      From confluence with Little White Sand Creek
+Pearl River   Creek               516111    Davis       Use Support     Impairment      (Jaybird Creek) to mouth at Pearl River
+
+South                                                   Aquatic Life    Biological
+Independent   Bala Chitto Creek   614111    Pike        Use Support     Impairment      From MWS 6140 boundary to state line
+
+South                                                   Aquatic Life    Biological      From confluence with Turkey Creek to confluence
+Independent   Bayou Pierre        601611    Copiah      Use Support     Impairment      with White Oak Creek
+
+
+                                                                       35
+

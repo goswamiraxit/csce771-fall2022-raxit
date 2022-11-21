@@ -1,0 +1,258 @@
+Table 4. Delistings this Cycle
+Basin
+
+Water
+Body
+Name
+
+Big Black
+River
+
+Big Black
+River
+
+Big Black
+River
+
+Jordan
+Creek
+
+Big Black
+River
+
+Middle
+Bywy
+Creek
+
+Big Black
+River
+
+Unnamed
+Tributary
+to Pigeon
+Roost
+Creek
+
+Coastal
+Streams
+
+Bayou
+Cumbest
+
+Coastal
+Streams
+
+Gulf Park
+Estates
+Beach
+
+Pascagoula
+River
+
+Houston
+Creek
+
+Pascagoula
+River
+
+Indian
+Creek
+
+South
+Independent
+
+Thompson
+Creek
+
+Water
+Body
+Id
+
+100111
+
+102911
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Webster,
+Choctaw
+
+Aquatic Life
+Use Support
+
+Sediment
+
+Near Mathiston
+from Headwaters to
+MWS 1003
+
+Holmes
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Hoffman from
+headwaters to mouth
+at Big Black River
+
+Sediment
+
+From the
+headwaters to the
+mouth at Big Bywy
+Ditch
+
+From headwaters to
+the mouth at Pigeon
+Roost Creek
+From County Road
+East of Orange
+Grove to mouth at
+Point Aux Chenes
+Bay
+
+Listing
+Change
+TMDL
+developed by
+MDEQ and
+approved by
+EPA
+3/29/2019
+(MS_Big_Bla
+ck_Sediment)
+Waterbody
+Attaining Use
+TMDL
+developed by
+MDEQ and
+approved by
+EPA
+3/29/2019
+(MS_Big_Bla
+ck_Sediment)
+TMDL
+developed by
+MDEQ and
+approved by
+EPA
+3/29/2019
+(MS_Big_Bla
+ck_Sediment)
+
+Choctaw
+
+Aquatic Life
+Use Support
+
+Oktibbeha
+
+Aquatic Life
+Use Support
+
+Jackson
+
+Aquatic Life
+Use Support
+
+Sediment
+Organic
+Enrichment/
+Low
+Dissolved
+Oxygen
+
+250411
+
+Jackson
+
+Aquatic Life
+Use
+
+Total
+Nitrogen
+
+Near Ocean Springs
+from Pelican Ave to
+Deer Street
+
+TMDL
+proposed by
+EPA
+TMDL not
+appropriate.
+No longer
+monitored
+due to change
+in use
+
+400312
+
+Neshoba,
+Kemper
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Rio from
+headwaters to mouth
+at Okatibbee Creek
+
+Waterbody
+Attaining Use
+
+George
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Basin from
+headwaters to mouth
+at Pascagoula River
+
+Waterbody
+Attaining Use
+
+Wilkinson
+
+Aquatic Life
+Use Support
+
+Sediment
+
+Near Centerville
+from headwaters to
+LA state line
+
+Waterbody
+Attaining Use
+
+10911
+
+100411
+
+200311
+
+417612
+
+611311
+
+13
+
+

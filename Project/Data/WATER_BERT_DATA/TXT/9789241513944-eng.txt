@@ -1,0 +1,2522 @@
+DEVELOPING
+DRINKING-WATER
+QUALITY
+REGULATIONS
+AND STANDARDS
+General guidance with a special focus
+on countries with limited resources
+DEVELOPING
+DRINKING-WATER
+QUALITY
+REGULATIONS
+AND STANDARDS
+General guidance with a special focus
+on countries with limited resources
+Developing drinking-water quality regulations and standards: general guidance with a special focus on countries with limited
+resources
+
+ISBN 978-92-4-151394-4
+
+© World Health Organization 2018
+
+Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO
+licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo).
+
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the
+work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses
+any specific organization, products or services. The use of the WHO logo is not permitted. If you adapt the work, then you
+must license your work under the same or equivalent Creative Commons licence. If you create a translation of this work, you
+should add the following disclaimer along with the suggested citation: “This translation was not created by the World Health
+Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition shall
+be the binding and authentic edition”.
+
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the
+World Intellectual Property Organization.
+
+Suggested citation. Developing drinking-water quality regulations and standards: general guidance with a special focus on
+countries with limited resources. Geneva: World Health Organization; 2018. Licence: CC BY-NC-SA 3.0 IGO.
+
+Cataloguing-in-Publication (CIP) data. CIP data are available at http://apps.who.int/iris.
+
+Sales, rights and licensing. To purchase WHO publications, see http://apps.who.int/bookorders. To submit requests for
+commercial use and queries on rights and licensing, see http://www.who.int/about/licensing.
+
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures
+or images, it is your responsibility to determine whether permission is needed for that reuse and to obtain permission from
+the copyright holder. The risk of claims resulting from infringement of any third-party-owned component in the work rests
+solely with the user.
+
+General disclaimers. The designations employed and the presentation of the material in this publication do not imply the
+expression of any opinion whatsoever on the part of WHO concerning the legal status of any country, territory, city or area
+or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent
+approximate border lines for which there may not yet be full agreement.
+
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended
+by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of
+proprietary products are distinguished by initial capital letters.
+
+All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the
+published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the
+interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising from its use.
+
+Editorial Consultant: Vivien Stone.
+
+Design and layout by L’IV ComSàrl, Switzerland.
+
+Printed in Switzerland.
+Contents
+Acknowledgements. .            . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   iv
+Acronyms and abbreviations. .                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   vi
+1    Target audience, purpose and scope.                       . . . . . . . . . . . . . . . . . . . . . . . . . . . .    1
+2    Why countries need customized regulations and standards.                                      . . . . . . . . . .    3
+3    When to revise existing regulations and standards.                              . . . . . . . . . . . . . . . . .    4
+4    Key principles.       . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    6
+5    Getting started. . . . . . . . . . . . . . . . . . . . . .        . . . . . . . . . . . . . . . . . . . . . . .     11
+     5.1 Who should be involved and consulted. .                       . . . . . . . . . . . . . . . . . . . . . . .     11
+     5.2 Suggested process. . . . . . . . . . . . . . . . .            . . . . . . . . . . . . . . . . . . . . . . .     13
+     5.3 Water quality data sources. . . . . . . . . . .               . . . . . . . . . . . . . . . . . . . . . . .     16
+6    Overview of typical content.                . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     18
+7    Parameters. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       . . . . . . . . . . . . . . . .     21
+     7.1 Keeping the list of parameters relevant and short.                          . . . . . . . . . . . . . . . .     21
+     7.2 Microbiological parameters. . . . . . . . . . . . . . . . . .               . . . . . . . . . . . . . . . .     23
+     7.3 Chemical parameters. . . . . . . . . . . . . . . . . . . . . .              . . . . . . . . . . . . . . . .     24
+     7.4 Acceptability parameters.. . . . . . . . . . . . . . . . . . .              . . . . . . . . . . . . . . . .     28
+     7.5 Radiological parameters. . . . . . . . . . . . . . . . . . . .              . . . . . . . . . . . . . . . .     29
+8    Parameter limits. . . . . . .         . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     31
+     8.1 Microbiological limits.           . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     31
+     8.2 Chemical limits. . . . . .        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     32
+     8.3 Radiological limits. . . .        . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     33
+9    Compliance monitoring. . . . . . . . .                . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     34
+     9.1 Sampling frequency. . . . . . . . . . .           . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     35
+     9.2 Sampling locations. . . . . . . . . . .           . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     38
+     9.3 Review and reporting of results..                 . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     40
+     9.4 Analytical requirements. . . . . . .              . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     40
+10 Incident protocols. .           . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     42
+Annexes
+   1: Responding to exceedances. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .                 . . .     43
+   2: Implications of exceeding chemical guideline values. . . . . . . . . . . . . . .                         . . .     45
+   3: Additional microbial indicators. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .               . . .     48
+   4: Practical guidance on selected chemical and acceptability parameters. .                                  . . .     50
+References. .    . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     56
+
+
+
+
+                                                                                                                              iii
+     Acknowledgements
+     The World Health Organization (WHO) wishes to express its appreciation to all
+     whose efforts made this publication possible by contributing their time and expertise.
+
+     Pre-publication versions of this document provided the basis for a series of national
+     and international workshops to support the development or revision of drinking-
+     water quality regulations and standards, and these workshops served to strengthen
+     this guidance. The inputs of all who participated in these workshops are gratefully
+     acknowledged, as are the valuable contributions made by the International Network
+     of Drinking-water Regulators (RegNet) and the Guidelines for drinking-water quality
+     (GDWQ) expert working group during the document’s development.
+
+     Coordination and technical and strategic input to this document were provided by
+     Jennifer De France and Bruce Gordon (both WHO, Switzerland), as well as Jamie
+     Bartram (formerly WHO, Switzerland). Technical editing was provided by Angella
+     Rinehold (WHO, Switzerland) and Jennifer Mercer (formerly WHO, Switzerland).
+
+     Lead authors
+     David Cunliffe, Department of Health South Australia, Australia
+     John Fawell, Visiting Professor, Cranfield University, United Kingdom
+     Darryl Jackson, Consultant, Australia
+
+     Key contributors
+     Philip Callan, Consultant, Australia
+     David Drury, Consultant (formerly Drinking Water Inspectorate), United Kingdom
+     David Sheehan, Coliban Water, Australia
+
+     Other contributors and reviewers
+     Joanne Brown, Consultant, United Kingdom
+     Ingrid Chorus, German Environment Agency, Germany
+     Lesley D’Anglada, United States Environmental Protection Agency, United States
+       of America
+     Michèle Giddings, Health Canada, Canada
+     Idriss Kouotou Njoya, Ministry of Water and Energy, Cameroon
+     Luca Lucentini, National Institute of Health, Italy
+     Bonifacio Magtibay, WHO, Philippines
+     Rory Moses McKeown, WHO, Switzerland
+
+
+
+
+iv   Developing drinking-water quality regulations and standards
+Sophary Phan, WHO, Cambodia
+Donald Reid, Alberta Environment and Sustainable Resource Development, Canada
+Bettina Rickert, German Environment Agency, Germany
+Joselito Riego de Dios, Department of Health, Philippines
+Oliver Schmoll, WHO Regional Office for Europe, Germany
+Enkhtsetseg Shinee, WHO Regional Office for Europe, Germany
+Luís Simas, Water and Waste Services Regulation Authority, Portugal
+Le Thai Ha, National Institute of Occupational and Environmental Health,
+  Viet Nam
+Nghia Ton Tuan, WHO, Viet Nam
+Rachid Wahabi, Ministry of Health, Morocco
+
+WHO also gratefully acknowledges the financial support provided by the Department
+for International Development, United Kingdom; the Department of Foreign Affairs
+and Trade, Australia; the Ministry of Health, Labour and Welfare, Japan; the Public
+Utilities Board, the National Water Agency, a statutory board under the Ministry of
+Environment and Water Resources, Singapore; and the Environmental Protection
+Agency, United States of America.
+
+
+
+
+                                                                Acknowledgements      v
+     Acronyms and abbreviations
+     ADI         allowable daily intake
+     DBP         disinfection by-product
+     DWD         Drinking Water Directive (European Union)
+     GDWQ        Guidelines for drinking-water quality
+     HAA         haloacetic acid
+     HPC         heterotrophic plate count
+     IAEA        International Atomic Energy Agency
+     IDC         individual dose criterion
+     MCL         maximum contaminant level
+     MCLG        maximum contaminant level goal
+     NDMA        N-nitrosodimethylamine
+     NTU         nephelometric turbidity unit
+     SDG         Sustainable Development Goal
+     TDI         tolerable daily intake
+     TDS         total dissolved solids
+     THM         trihalomethane
+     TOC         total organic carbon
+     TWG         technical working group
+     WASH        water, sanitation and hygiene
+     WHO         World Health Organization
+     WSP         water safety plan
+
+
+
+
+vi   Developing drinking-water quality regulations and standards
+1 Target audience, purpose
+  and scope
+This guidance document is intended for those agencies in countries with limited
+resources that are responsible for developing, implementing and enforcing national
+or subnational drinking-water quality regulations and standards.1 These agencies can
+vary from country to country but would generally be the ministry of health, ministry
+of environment, ministry of water supply and/or a separate drinking-water regulatory
+agency. In some countries, the agency (or agencies) setting the standards is different
+from the agency (or agencies) that implements and enforces the standards (see
+Box 1.1). However, the principles noted in this document are broadly applicable to
+all countries and all regulatory arrangements.
+
+This document provides simple, practical guidance to assist the development or
+revision of drinking-water quality regulations and standards using the WHO Guidelines
+for drinking-water quality (GDWQ) (WHO, 2017a). This guidance should always be
+read and used in conjunction with the GDWQ.
+
+The GDWQ present a framework for ensuring the safety of drinking-water, which
+comprises:
+• Health-based targets, including water quality targets typically expressed as numeric
+  guideline values (concentrations) for substances of concern.
+• Water safety plans (WSPs) to be developed and implemented by water suppliers
+  to support effective management of their systems.
+• Independent surveillance to ensure that WSPs are effective and that health-based
+  targets are met.
+
+Developing drinking-water quality regulations and standards based on this guidance
+will ensure that these three elements of the GDWQ’s Framework for Safe Drinking-
+water are addressed.
+
+
+
+
+1
+    The term “standard” is commonly used to describe a mandatory numerical value in a table of parameters and limits (such as 10 µg/l of arsenic).
+    However, it is also used to describe technical standards and policy documents designed to help achieve improved water quality. Regulations are
+    requirements that can include or refer to a table of parameters and limits. Regardless of how a country defines “standards” or “regulations”, both
+    are interdependent.
+
+
+                                                                                            Target audience, purpose and scope                           1
+      BOX 1.1           Key drinking-water agencies in Cameroon
+      Key agencies with a role related to drinking-water in Cameroon include:
+        The National Standards and Quality Agency,a whose responsibilities include the development and
+        certification of standards; the development of proposals for standards to improve the quality of products
+        and services and compliance with standards; and dissemination of information and documentation
+        on standards.
+        The Ministry of Water and Energy,b whose responsibilities include control of the quality of raw water;
+        monitoring the quality of water resources; and monitoring the quality of drinking-water delivered for
+        consumption.
+        The Ministry of Public Health,c whose responsibilities include the certification of water quality
+        standards and the control of their compliance (in liaison with other concerned parties); control and
+        monitoring of water quality; and approval of the technologies used in the treatment of drinking-water
+        (in liaison with other concerned parties).
+        The Cameroon Water Utilities Corporation,d whose responsibilities include the planning, research,
+        project management and financial management of drinking-water infrastructure; the construction,
+        maintenance, renewal and management of drinking-water infrastructure; and awareness raising
+        among drinking-water users.
+      a
+          Decree N° 2009/296 of 17 September 2009 on the creation, organization and functioning of the National Standards and Quality Agency;
+      b
+          Decree N° 2012/501 of 7 October 2012, organizing the Ministry of Water and Energy;
+      c
+          Decree N° 2013/093 of 3 April 2013, organizing the Ministry of Public Health;
+      d
+          Decree N° 2018/144 of 20 February 2018, reorganizing the Cameroon Water Utilities Corporation.
+
+
+
+
+2   Developing drinking-water quality regulations and standards
+2 Why countries need
+  customized regulations
+  and standards
+The GDWQ are not a substitute for customized national or subnational drinking-
+water quality regulations and standards that take into account local needs, priorities
+and capacities, as well as the economic and health benefits resulting from improved
+drinking-water supplies.
+
+Rather, the GDWQ support customized regulations and standards by presenting good
+practice related to water supply risk management and surveillance, and by providing
+health-based targets. These health-based targets include numeric guideline values
+which define drinking-water that does not represent any significant risk to health,
+and they are generally based on lifetime consumption. The health-based targets in the
+GDWQ are based on the best available scientific evidence, as well as expert advice
+and opinion, for approximately 200 individual parameters.
+
+The GDWQ are not intended to be mandatory and the guideline values included are
+not designed to be adopted as a complete set in national or subnational regulations
+and standards. As it is not possible for the GDWQ to account for the wide range
+of issues or conditions that may influence the significance of individual parameters
+in a particular country, not all parameters included in the GDWQ will be important
+for every country. The GDWQ should therefore be adapted to account for local
+circumstances, such as current hazards, environmental conditions, industrial and
+agricultural activities, and available resources.
+
+Customized regulations and standards based on the GDWQ will help to:
+• Protect public health associated with the consumption of drinking-water.
+• Complement other national or regional drinking-water management policies (e.g.
+  water resource management).
+• Achieve balance in overall health objectives between health-related drinking-water
+  issues and other health-related priorities.
+• Ensure drinking-water management strategies are based on current scientific
+  knowledge and proven good practice.
+• Allow resources (of regulators, suppliers and communities) to be targeted appropriately.
+
+
+
+
+                               Why countries need customized regulations and standards       3
+    3 When to revise existing
+      regulations and standards
+    Drinking-water quality regulations and standards may be prepared as a new process
+    or as a revision to existing regulations and standards. Both situations provide an
+    opportunity to contribute to progressive improvements in drinking-water quality. It
+    is therefore important to make allowance for gradual improvement in drinking-water
+    quality and in strengthening the regulations and standards.
+
+    Regulatory agencies should consider revising regulations and standards in any of the
+    following situations:
+    • There is information about hazards which indicates that the current regulations and
+      standards are clearly inadequate to protect health or ensure acceptability.
+    • An evaluation of the existing regulations and standards shows they are insufficient
+      or inappropriate.
+    • Current regulations and standards are deemed out of date due to improvements
+      in scientific understanding (e.g. new information on the health impact of a chemical
+      currently regulated results in a change in the GDWQ).
+    • There is a significant change in available drinking-water treatment technology that
+      allows for better control of certain contaminants.
+    • There is a significant change in the analytical methods available for measuring
+      contaminants (e.g. allowing the use of remote monitoring technologies in lieu of
+      on-site monitoring).
+    • There is a significant change in the country context impacting the risk to public health
+      (e.g. change in agriculture or industry that increases the potential for microbial or
+      chemical contamination of drinking-water sources and the need for regulations to
+      control contamination).
+    • There is a need to establish or upgrade regulations and standards due to requirements
+      of legislation.
+    • Resources permit incremental expansion and/or strengthening of the regulations
+      and standards (e.g. in terms of parameters included, limits set and/or types of water
+      supply systems covered).
+
+
+
+
+4   Developing drinking-water quality regulations and standards
+Occasionally, there are major policy changes to the GDWQ, such as the incorporation
+of WSPs into the GDWQ in 2004. These changes are infrequent but important. In
+these cases, changes to regulations and standards should be considered (see Box 3.1).
+
+The decision on how often regulations and standards should be revised is a matter for
+individual jurisdictions. As new regulations and standards are developed, the inclusion
+of a “review” clause will provide a formal mechanism to ensure reviews occur regularly.
+Adopting a review date establishes a defined lifespan for the regulations and standards
+that triggers a review after a specified period (e.g. after 5 to 10 years), unless an earlier
+review is undertaken by a relevant national body.
+
+
+
+
+   BOX 3.1          The Philippines’ rationale for updating its 2007
+                    national standards in 2017
+      Recent national directive to implement water safety planning.
+      New scope and definitions of the water supply indicators related to the transition from the Millennium
+      Development Goal period to the Sustainable Development Goal (SDG) period.
+      History of non-compliance by many water utilities, indicating issues with the feasibility of the existing
+      standards.
+      2011 update of the GDWQ, which presented some new or updated guideline values.
+      The national need for water quality standards during emergency/disaster response.
+   Source: Lomboy M, Riego de Dios J, Magtibay B et al (2017). Updating national standards for drinking-water: A Philippine experience. Journal
+   of Water and Health. 15(2):288–295. doi:10.2166/wh.2016.177.
+
+
+
+
+                                                                When to revise existing regulations and standards                                 5
+    4 Key principles
+    Box 4.1 presents the key principles to consider during the development or revision
+    of drinking-water quality regulations and standards to ensure they are contextually
+    appropriate and successfully contribute to the achievement of safe and acceptable
+    drinking-water supplies.
+
+
+      BOX 4.1   Key principles
+      Take a risk-based    This document presents three ways in which regulations and standards can
+               approach    follow a risk-based approach:
+                           1. Promote risk management
+                           A water supplier’s primary responsibility is to provide safe drinking-water. This
+                           is best achieved by adopting a preventive risk management approach, such as
+                           a WSP. Regulations and standards should make clear that this responsibility
+                           is paramount by recommending or requiring WSPs rather than focusing only
+                           on numerical compliance with parameter limits. Numerous publications are
+                           available on WSPs, as outlined in Water safety planning: A roadmap to supporting
+                           resources (WHO, 2017b).
+                           2. Prioritize parameters according to the risk posed
+                           The guidance in this document on selecting parameters for inclusion in regulations
+                           and standards is grounded in the principle that parameters should be prioritized
+                           according to the actual risks posed in the local context (see Section 7).
+                           3. Allow risk-based monitoring programmes
+                           Regulations and standards may allow individual suppliers to request deviations
+                           from established water quality monitoring requirements on the basis of system-
+                           specific risk assessments (see Section 9).
+
+            Be realistic   Local considerations need to be allowed for in the development or revision of
+                           regulations and standards, including resource availability. Issues to consider
+                           include:
+                              local staff (e.g. personnel required to undertake surveillance activities);
+                              laboratories (e.g. location, number, equipment, testing capacity);
+                              logistics and seasonal constraints in collecting, storing, transporting and
+                              testing samples; and
+                              realistic budgets for monitoring and surveillance.
+                           If regulations and standards are too complex, detailed or demanding, it will
+                           inevitably lead to non-compliance. Little is achieved by establishing regulations
+                           and standards that look good on paper, unless they can be implemented and
+                           enforced. Being realistic increases the likelihood that the regulations and
+                           standards can achieve the desired public health outcomes.
+                           The regulations and standards must be realistic in terms of the parameters
+                           chosen, the limits set and the monitoring frequencies established. In practice,
+                           this means establishing a balance between the resources available and those
+                           that are obtainable, without being excessively optimistic.
+
+           Be selective    Inevitably, regulations and standards must be limited in what they include. The
+                           most important issues should be identified, particularly those with potential
+                           public health impacts. The selection of parameters should rely as much as
+                           possible on data from the country or region and reflect the best scientific data
+                           available, including those presented in the GDWQ.
+
+
+
+
+6   Developing drinking-water quality regulations and standards
+BOX 4.1   Key principles (continued)
+         Enable     Improving drinking-water quality takes time. For example, it may require
+    incremental     investment and technical resources that may not be immediately available,
+                    or infrastructure that will require time to install and make operational. It is
+  improvements      therefore necessary to accommodate gradual improvement. Regulations and
+                    standards should follow a stepwise approach to addressing the immediate
+                    and greatest threats to public health (e.g. microbial pathogens) and ultimately
+                    achieving long-term water quality targets, while maximizing the use of available
+                    resources and balancing other national priorities. Activities at each stage
+                    should demonstrate the benefits of the regulations and standards. As each
+                    step is successfully implemented, and as additional resources and capacity
+                    are gained, the regulations and standards can be increased in complexity
+                    and/or scope over time.
+
+        Keep the    The regulations and standards should build in mechanisms for revisions.
+ regulations and    Changes to the regulations and standards should be made based on risk
+                    assessments and consideration of available resources.
+standards active
+
+          Ensure    To ensure regulations and standards are well supported, it is important to seek wide
+ regulations and    participation and maintain ongoing communication with key stakeholders. This is
+                    especially important when establishing a regulations and standards committee
+   standards are    (see Section 5.1) responsible for developing and/or revising the regulations
+  well supported    and standards. It is also important to have political and legislative support for
+                    regulations and standards (e.g. from politicians/lawmakers, government officers,
+                    local health agencies, technical staff and the public) to ensure success. Ideally,
+                    supporting legislation needs to define roles and responsibilities, and should allow
+                    for the development, enforcement and, when necessary, revision of regulations
+                    and standards. Requirements can be specified in acts, regulations, decrees or
+                    other instruments.
+
+     Be aware of    Consider the practical and financial implications of the proposed regulations
+    implications    and standards, including:
+                      Will laboratories need more support or validation?
+                      Will new treatment plants be needed?
+                      Will the surveillance agency need more staff?
+                      Is enforcement practical?
+                    For example:
+                      If there is insufficient laboratory capacity to conduct testing, or insufficient
+                      or only unskilled staff to carry out monitoring activities, consider developing
+                      less ambitious regulations and standards focusing on the highest priorities.
+                      If new infrastructure (e.g. treatment processes or plumbing materials) is
+                      likely to be required to comply with the regulations and standards, time may
+                      need to be allowed for these upgrades (see Box 4.5).
+
+   Get drinking-    Care should be exercised that the regulations and standards do not unnecessarily
+   water quality    divert often limited funding away from other important health priority areas.
+                    It is appropriate to consider the health benefits from drinking-water relative
+      in context    to other interventions (e.g. sanitation, hygiene, health care). In addition, it is
+                    important to consider the various sources of exposure (e.g. food, air) for various
+                    contaminants and the benefits and costs of controlling levels in drinking-water
+                    versus other sources of exposure.
+
+
+
+
+                                                                                        Key principles     7
+    In keeping with the principles presented in Box 4.1, it is possible for drinking-water
+    quality regulations and standards to accommodate local needs as follows:
+    • In time: A period of grace can be allowed before either the whole or part of the
+      regulations and standards come into effect (see Box 4.2).
+    • By exceptions/exemptions: This means that a particular component of the regulations
+      and standards may not apply to a certain area or type of supply. Exceptions/exemptions
+      may be temporary, permanent or phased and may be granted on the basis of a lack
+      of significance or insufficient resources to address a problem (e.g. funding to treat
+      the water) (see Box 4.3).
+    • By derogations: This means that a water supplier can be temporarily authorized
+      to supply drinking-water with an exceedance for a parameter. Derogations may
+      be useful when the public health risk of the exceedance is minor and where it may
+      take time or resources to remedy the exceedance. Derogations are particularly
+      important to consider where there are no alternative water sources. As drinking-
+      water is a fundamental requirement of life, the risks of not having a drinking-water
+      supply need to be balanced against the risk posed by the exceedance (see Box 4.4).
+    • By the parameters chosen: This means focusing attention on those issues relevant
+      to local circumstances and not attempting to develop regulations and standards for
+      every possible contaminant, particularly those that do not occur within the jurisdiction.
+    • By the limits of parameters: This is a common way to address the need to be
+      realistic. It could be achieved by setting more than one limit for a parameter (e.g.
+      ideal and mandatory) or by setting an interim limit. For example, if controlling a
+      substance in a water supply will take time to achieve, it is possible to initially set
+      an interim limit that is a higher value than the GDWQ guideline value (e.g. justified
+      by using a smaller margin of safety than the value in the GDWQ; see Annex 2 for
+      more information), while still being protective of public health. This approach should
+      involve setting a suitable timeframe for improvements that will allow achievement
+      of the guideline value in due course (e.g. within one to two years) (see Box 4.5).
+    • By the frequency of monitoring: It is important to get started. Initially a modest
+      but realistic monitoring schedule should be implemented. This can be expanded as
+      resources become available.
+    • By consideration of resources: For example, it may be appropriate to require
+      more from providers that have better resources and less from those with fewer
+      resources (see Box 4.6).
+    • By a combination of the above.
+
+
+
+
+8   Developing drinking-water quality regulations and standards
+BOX 4.2          Example of grace periods
+In the Lao People’s Democratic Republic, the 2014 national drinking-water quality standards allow a
+period of grace before WSP requirements are enforceable. In the case of urban water supply systems,
+for instance, the national standards require water suppliers to arrange to receive WSP training within
+five years of the standards taking effect and to develop their WSPs within one year of the said training.
+Source: Department of Hygiene, and Health Promotion, Ministry of Health, Lao People’s Democratic Republic (2014). Minister’s Decision on
+Water Quality Standard Management for Drinking and Domestic Use.
+
+
+
+
+BOX 4.3          Example of exemptions
+In Cambodia, urban water suppliers may apply for exemptions, in part or in full, for the starting date to
+comply with the provisions of the 2015 national drinking-water quality standards, or for some treatment
+system types or network areas to which the national standards apply. All exemptions must be parameter
+and location specific. The water suppliers must justify the basis of the exemption and provide a timed
+improvement programme to rectify the problems that make it unfeasible to comply with the national
+standards. Such applications, if granted by the regulator, must stipulate a time period by which the
+exemption will cease. Exemptions may state the conditions under which the exemption is granted.
+Source: Ministry of Industry and Handicraft, Cambodia (2015). National Drinking-Water Quality Standards.
+
+
+
+
+BOX 4.4          Examples of derogations
+In Morocco, water suppliers can, in certain circumstances, ask the Ministry of Health to approve a
+derogation to continue water distribution while exceeding the limit for certain parameters. This type of
+request should not concern the “health parameters” identified as such in the national standard. Water
+suppliers must support their application by:
+  specifying the particular location to which the derogation will apply;
+  justifying derogation of that parameter;
+  providing water quality data for a minimum of two previous years;
+  describing the measures and actions that will be implemented to return to the normal situation; and
+  giving a time period within which the situation will be improved so that the derogation will no longer
+  be required.
+Source: Government of Morocco (2015). Moroccan Standard NM 03.7.001 on the Quality of Drinking Water adopted on 25 February 2015
+by Joint Order No. 570-15.
+
+Estonia faced challenges with naturally occurring fluoride above the limit specified in the 1998 European
+Union Drinking Water Directive (DWD). Following a health risk assessment, the country was allowed
+two three-year periods to comply with the DWD, having provided a programme of work and a timetable
+with a review after the first three years.
+Source: Information provided by the Estonian Health Board, 2018.
+
+
+
+
+                                                                                                                      Key principles       9
+       BOX 4.5          Examples of limits of parameters
+       Interim limits
+       Due to the significant health risk associated with lead, a series of actions undertaken in Europe focused
+       on a general reduction of population exposure to lead. Accordingly, the DWD set strict maximum lead
+       occurrence levels to control lead in the drinking-water system. As the main cause of lead in drinking-
+       water is from leaching from household plumbing, decreasing the lead limit in drinking-water from 50
+       to 10 µg/l was approached by setting an interim limit of 25 µg/l for the period between five and 15
+       years after the DWD took effect to allow sufficient time to implement the necessary actions (i.e. replace
+       lead service connections) to comply with new standards.
+       Source: European Commission (1998). Council Directive 98/83/EC of 3 November 1998 on the quality of water intended
+       for human consumption. Official Journal of the European Communities (http://eur-lex.europa.eu/LexUriServ/LexUriServ.
+       do?uri=OJ:L:1998:330:0032:0054:EN:PDF, accessed 18 March 2018).
+
+       Ideal versus mandatory limits
+       The United States Environmental Protection Agency sets a maximum contaminant level goal (MCLG)
+       for each contaminant. The MCLG is the maximum level of a contaminant in drinking-water at which no
+       known or anticipated adverse effect on the health of persons would occur, and which allows an adequate
+       margin of safety. The MCLGs are not legal limits set for public water systems and are not enforceable.
+       Rather, they are based solely on human health considerations. The Chemical Contaminants Rules
+       also set a maximum contaminant level (MCL) for each contaminant within three contaminant groups:
+       inorganic contaminants, including nitrate and arsenic; volatile organic contaminants; and synthetic
+       organic contaminants. These MCLs are enforceable. The MCL weighs the technical and financial barriers
+       with public health protection with the aim to set MCLs as close to the health goal as possible. As an
+       example, the MCL for arsenic is 10 µg/l, while the MCLG is zero.
+       Source: US EPA. National Primary Drinking Water Regulations (https://www.epa.gov/ground-water-and-drinking-water/national-
+       primary-drinking-water-regulations, accessed 18 March 2018).
+
+
+
+
+       BOX 4.6          Examples of resource consideration
+       Both Nepal and Fiji’s drinking-water quality standards present a list of parameters and parameter
+       limits for urban and rural areas. The list for rural areas is shorter than that for urban areas.
+       Sources: Government of Nepal (2005). National Drinking Water Quality Standards, 2005 Implementation Directives for National Drinking
+       Water Quality Standards 2005. Singhadarbar, Kathmandu: Ministry of Physical Planning and Works.
+       Fiji Government of Fiji (2013). Fiji National Drinking Water Standards. Ministry of Health.
+
+
+
+
+10   Developing drinking-water quality regulations and standards
+5 Getting started
+5.1         Who should be involved and consulted
+Typically, development or revision of drinking-water quality regulations and standards
+includes consultation with or the involvement of numerous stakeholders, helping to
+ensure that the regulations and standards are well supported and allowing the process to
+benefit from a range of expertise (see Box 5.1). In some countries, a national standards
+agency is responsible for establishing drinking-water quality regulations and standards,
+although the agency may have little technical knowledge or working experience of
+drinking-water issues. In other countries, the regulator (often under the health ministry)
+is responsible for establishing the regulations and standards, although the agency may be
+under-resourced and/or lacking technical knowledge. In these circumstances, stakeholder
+coordination, cooperation and communication is particularly vital to success. For
+example, water sector professionals should have a key role to play, as they are likely to
+be aware of pathogens and chemicals that may be present in significant concentrations
+in some drinking-water supplies. This is a body of local knowledge that has been built up
+by practical experience over a period of time and through the systematic identification
+of potential sources of hazards, and it is invaluable as an input into the regulations and
+standards development or revision process.
+
+
+
+
+  BOX 5.1         Establishing a national standards committee in
+                  Viet Nam
+  A multistakeholder working group was established in Viet Nam to support the revision of the Viet
+  Nam National Technical Regulations on Water Quality. The composition of the working group included:
+    Health Environmental Management Agency of the Ministry of Health
+    Administration of Technical Infrastructure of the Ministry of Construction
+    Department of Water Resources of the Ministry of Agriculture and Rural Development
+    Department of Water Resources of the Ministry of Natural Resources and Environment
+    Directorate of Standards, Metrology and Quality of the Ministry of Science and Technology
+    Viet Nam Water Supply and Sewerage Association
+    National Institute for Occupational and Environmental Health
+    National Centre for Rural Water Supply and Sanitation
+    Hanoi Civil Engineering University
+  Source: Information provided by WHO, Viet Nam, 2018.
+
+
+
+
+                                                                                      Getting started   11
+     A useful first step is to convene a meeting of representatives from each of the agencies
+     with a role in the provision of drinking-water to identify the key issues that need
+     to be addressed in regulations and standards; to identify the agency that will lead
+     the development or revision of the regulations and standards, as well as the agency
+     responsible for their implementation and enforcement; and to confirm the scope of
+     responsibility of each institution in the process.
+
+     Stakeholders that could be engaged include:
+     • national public health authorities
+     • environment, agriculture and/or resource management authorities
+     • drinking-water supply agencies
+     • local/regional environmental health agencies
+     • local governments
+     • industry groups, including plumbers/operators
+     • professional groups (e.g. engineers, toxicologists, microbiologists)
+     • national accreditation bodies
+     • academics and universities
+     • analytical laboratories
+     • consumer representatives (see Box 5.2)
+     • water, sanitation and health (WASH) nongovernmental organizations (depends on
+       the country context).
+
+
+
+            BOX 5.2      Public participation
+            When developing drinking-water quality regulations and standards, it is important to ensure that
+            the process is open and transparent. Therefore, it is important to engage with the public through the
+            development process. Consumers should be encouraged to provide input on the scope and features
+            of the regulations and standards. This can be achieved by encouraging written submissions and
+            participation in open communication sessions where the public can ask questions of regulatory
+            agencies and provide opinions and comments on proposed regulations and standards. These
+            sessions should be held at various locations/centres to encourage attendance. Consultation should
+            be continued through each stage of development.
+            An open and transparent development process helps build public trust in the regulations and
+            standards.
+
+
+
+
+12   Developing drinking-water quality regulations and standards
+5.2             Suggested process
+Table 5.1 presents seven steps involved in developing or revising national or subnational
+drinking-water quality regulations and standards. See Box 5.3 for a country example
+of the process of revising a national standard.
+
+
+TABLE 5.1           Suggested steps involved in developing or revising drinking-
+                    water quality regulations and standards
+
+    STEP                               This institution would:
+                                          prepare a plan for developing or revising the regulations and standards;
+    Identify the lead                     drive the process;
+    institution                           convene meetings and distribute tasks;
+                                          support research; and
+                                          process and record the information discussed and decisions made.
+
+    STEP                               To support this, the lead institution could:
+                                          create a regulations and standards committee (see Box 5.1);
+    Define roles to support               select a group of advisorsa (as necessary) to support the regulations and
+    the process                           standards committee;
+                                          identify and maintain communication with stakeholders; and
+                                          assign responsibilities and share criteria, methods and timeframes.
+
+    STEP                    This would involve establishing why the regulations and standards are being
+                             developed or revised, as well as:
+    Define objectives and      defining clearly the types of systems the regulations and standards are expected
+    scope of the regulations   to cover, e.g. large supplies, small supplies, self-supply systems, non-piped
+    and standards              supplies, vended water, and/or bottled water;b
+                               determining the point(s) of compliance (see Section 9.2), which is usually the
+                               delivery point to consumers, e.g. hand pump or, for piped systems, the delivery
+                               point to buildings/dwellings or inside taps; and
+                               agreeing on the major topics to be addressed in the regulations and standards,
+                               e.g. proactive risk management by suppliers, parameters and limits, monitoring
+                               and independent surveillance.
+
+    STEP                               When existing regulations and standards are being revised, the actual outcomes,
+                                        strengths and challenges of the existing regulations and standards should be
+    Review existing                     reviewed. Some useful questions may be:
+    regulations and                        Did they help to improve the quality of drinking-water and contribute to
+    standards                              improved public health? If so, how and to what extent? If not, why not?
+                                           Were there any recurring problems with implementation? If so, what were
+                                           these and how might they be overcome in the future?
+                                        It is important to focus on lessons to be learned for the new regulations and
+                                        standards. Stakeholder focus group discussions may be useful tools.
+a
+    WHO may be able to suggest potential advisors. If interested, contact WHO at gdwq@who.int.
+b
+    Water vending and bottled water tend to be managed differently. Water vendors are subject to the GDWQ and should be included in drinking-
+    water quality regulations and standards where appropriate. However, while guidelines and standards for bottled water are generally derived from
+    the GDWQ, bottled water is typically regulated through national food legislation.
+
+
+
+
+                                                                                                                          Getting started             13
+     TABLE 5.1    Suggested steps involved in developing or revising drinking-
+                  water quality regulations and standards (continued)
+
+      STEP                      It is important that regulations and standards are informed by careful analysis
+                                 of local data, including:
+      Gather baseline data for      source water quality data;
+      analysis                      drinking-water quality data;
+                                    water quality surveillance data;
+                                    drinking-water consumption rates;
+                                    risks identified through WSPs, e.g. from local industry, agricultural activity
+                                    and urban settlements;
+                                    cultural habits related to drinking-water;
+                                    human and financial resources available;
+                                    compliance issues; and
+                                    capacity issues.
+                                 See Section 5.3 for guidance on water quality data sources.
+
+      STEP                      Most of the effort will be in this step, which is the focus of the guidance provided
+                                 in Sections 6–10. The details will be driven by the table of contents of the
+      Prepare the separate       regulations and standards, but activities will generally include:
+      sections of the              specifying responsibilities;
+      regulations and              specifying requirements for proactive risk management by water suppliers
+      standards                    (e.g. sanitary inspections or WSPs);
+                                   selecting the parameters to be included;
+                                   deciding the parameter limits;
+                                   selecting monitoring requirements and methodologies (e.g. frequencies,
+                                   locations, methods and reporting); and
+                                   specifying additional independent surveillance requirements.
+
+      STEP                      It is advisable for draft(s) to be reviewed by independent experts who are
+                                 aware of the national context so that any expert advice provided is relevant
+      Ensure peer review         for the local situation.
+
+
+
+     The time needed to develop or revise the regulations and standards depends on:
+     • A country’s institutional working practices and procedures.
+     • The quality, amount and variability of surveillance and monitoring data.
+     • The need for additional water quality data and the ease with which it can be obtained.
+       For example, it may take considerable time to get samples (particularly when there
+       is seasonal variation in parameter concentrations) and send elsewhere for testing
+       where laboratory capabilities are limited.
+     • Inputs from stakeholder consultations.
+     • The time since the last review.
+
+
+
+
+14   Developing drinking-water quality regulations and standards
+As a guide, nine to 18 months should be allowed, but this timeframe may vary according
+to local circumstances. It is important to take sufficient time to develop sound regulations
+and standards without allowing processes to be subject to unnecessary delays.
+
+
+
+
+   BOX 5.3          The process of revising the Philippine National
+                    Standards for Drinking-Water (2017)
+
+   Associated step                 Key activity in the                      Notes on process
+   in Table 5.1                    Philippines
+   Steps                              Stakeholder identification               Consultations with the national technical
+   ,  and                          and consultation and                     working group (TWG), TWG subcommittee
+                                      establishing objectives                  groups, and local/international experts
+   Step                              Reviewing issues faced                   Development of data collection tools (e.g.
+                                      by service providers                     questionnaires)
+                                      related to existing                      Focus group discussions
+                                      national standards                       Key informant interviews
+                                      (2007)
+                                                                               National TWG review of the findings
+   Steps  and                       Establishing parameters,                 Review of parameters (e.g. for microbial,
+                                      limits and monitoring                    organic and inorganic chemicals)
+                                      requirements                             Literature review, review of data and
+                                      Establishing testing                     consultation with experts
+                                      methodologies for normal                 Review of parameter limits, methods of
+                                      and emergency situations                 detection, minimum frequency of sampling
+                                      Establishing linkage with                and sampling protocols
+                                      SDG indicators                           Classification into mandatory/primary/
+                                                                               secondary parameters
+                                                                               Survey of 50 accredited laboratories
+                                                                               Skill gap analysis of testing in normal and
+                                                                               emergency situations
+                                                                               Review of the SDG indicators on water
+                                                                               quality (this was related to one of the
+                                                                               objectives of the new national standards)
+   Step                              Peer review, expert input                Expertise of local and international experts
+                                      and public hearings                      sought throughout process
+                                                                               Consultations with stakeholders/public
+                                                                               hearings
+                                                                               TWG meetings for finalization
+                                                                               Department of Health internal review
+                                                                               (legal/health policy departments) for
+                                                                               approval
+   Source: University of the Philippines Manila (2015). Updating of the 2007 Philippine National Standards for Drinking-Water (PNSDW). Final
+   report. College of Public Health: Department of Environmental and Occupational Health.
+
+
+
+
+                                                                                                                       Getting started         15
+     5.3      Water quality data sources
+     As described in Table 5.1, reviewing available water quality data and sources of
+     contamination is an important preparatory step for developing customized national
+     or subnational regulations and standards. Ideally, data for both the raw water (surface
+     water and groundwater) and the drinking-water supplied to the population should
+     be reviewed. Potential sources of data will include water suppliers, the surveillance
+     agency, other government agencies (e.g. ministry of health, ministry of environment),
+     major industries that may discharge into the water source (e.g. mining and rubber
+     companies), and research and development agencies. Risk assessments undertaken
+     as part of WSPs can also be a useful data source.
+
+     The microbiological quality of drinking-water is always of paramount importance.
+     Microbiological data normally take the form of Escherichia coli (E. coli) results, as an
+     indicator of faecal contamination and the potential presence of pathogenic bacteria,
+     protozoa or viruses. Where microbiological data are not available, it should be assumed
+     that pathogens are likely to be present, particularly for surface water supplies.
+
+     Aesthetic or nuisance water quality issues (e.g. bitter or salty tastes, hard water,
+     indications of blue-green staining from copper content, laundry staining, rusty or
+     corrosive water) reported by customers may also be useful. Customer complaint
+     records from water suppliers may therefore be another source of data.
+
+     Some typical data sources for chemicals that are categorized based on the source of
+     the substance are:
+     • Naturally occurring chemicals: Geological survey departments and mining companies.
+     • Chemicals from agricultural activities: Information on fertilizer and pesticide use
+       and importation from government authorities/regulators that issue approvals for use.
+     • Chemicals from human settlements: Water supply and wastewater agencies, local
+       government and municipal authorities, and environmental agencies.
+     • Chemicals from industrial activities: Environmental agencies and major industries.
+     • Chemicals used in water treatment and distribution: Water suppliers and
+       surveillance agencies (including monitoring records).
+
+
+     Refer to Chemical safety of drinking-water: Assessing priorities for risk management (WHO,
+     2007) for further details on potential data sources for chemical contaminants.
+
+
+
+
+16   Developing drinking-water quality regulations and standards
+Chemical data are frequently not available and assumptions are often required. Where
+this is the case, the risk-based approach outlined in Chemical safety of drinking-water:
+Assessing priorities for risk management (WHO, 2007) can be followed to identify priority
+chemicals (see Section 7.3). This can be used as the basis of a targeted sampling and
+testing programme to complement existing data.
+
+Legislation and monitoring data from neighbouring countries with similar drinking-
+water sources and quality may be also considered among the information sources.
+
+Where there are gaps in existing data, new studies can be commissioned where practical
+to obtain the relevant data. However, where such studies may take considerable time,
+this should not unnecessarily delay the development or finalization of regulations and
+standards.
+
+
+
+
+                                                                         Getting started    17
+     6 Overview of typical
+       content
+     This section presents an overview of the topics typically covered in national or
+     subnational drinking-water quality regulations and standards. While the structure
+     and content of regulations and standards will vary by country, and may be influenced
+     by legislative norms in individual countries, Table 6.1 provides general guidance on
+     typical content. The topics shaded in blue are covered in more detail in Sections 7–10.
+
+
+     TABLE 6.1    Typical drinking-water quality regulations and standards content
+
+      Topics to consider Remarks
+      Introduction         This would typically cover the importance of regulations and standards, specific
+                           goals and objectives (see Box 6.1), a brief history and guiding principles.
+      Timelines            This would specify when the regulations and standards take effect, including
+                           discussion of any phased or staged implementation.
+      General clauses      This would usually include:
+                             Scope, e.g. whether the regulations and standards cover drinking-water for the
+                             general population and/or other uses, as well as types and sizes of water supplies
+                             for which the regulations and standards apply.
+                             At which points in the water supply systems the regulations and standards apply.
+                             Proposed revision process and the frequency of revision for the regulations and
+                             standards.
+                             General principles for drinking-water emergencies/waterborne disease outbreaks.
+                             Definitions.
+      Exceptions/          This would present the terms surrounding any exceptions/exemptions allowed (including
+      exemptions and       whether they are to be permanent, temporary or phased), as well as derogations.
+      derogations
+      Roles, rights and    This section would typically include the roles and responsibilities related to standard
+      responsibilities     setting, provision of water supply, and the implementation and enforcement of the
+                           regulations and standards. The roles and responsibilities of specific institutions
+                           should also be included in relevant enabling legislation, with each relevant institution
+                           listed and their roles, rights and responsibilities described.
+      Water safety plans   Recommendations or requirements for a risk management approach, such as a
+      (WSPs)               WSP, should be a fundamental component of regulations and standards. Proactive
+                           risk management by the water supplier is essential, and promotion of this good
+                           practice is of primary importance for regulations and standards. The regulations
+                           and standards should generally focus on the key principles of WSPs and refer to
+                           separate guidance for details, such as national or international WSP manuals.a It is
+                           important that implementation of WSPs is supported by a mechanism of WSP audit
+                           undertaken as part of surveillance to make sure WSPs are adequate and effective
+                           (see surveillance section of this table).
+
+
+
+
+18   Developing drinking-water quality regulations and standards
+TABLE 6.1           Typical drinking-water quality regulations and standards content
+                    (continued)
+
+
+    Topics to consider Remarks
+    Table of parameters            These tables should present the most relevant parameters in the local context,
+    and limits                     with appropriate limits. Historically, these tables were usually the most visible and
+    Sections 7 and 8               consulted part of the regulations and standards. Considering the GDWQ’s strong
+                                   promotion of preventive management, however, the attention given to these tables
+                                   is now expected to be balanced with recommendations or requirements for WSPs or
+                                   similar. To reinforce a focus on proactive risk management, it may be appropriate to
+                                   locate these tables in an appendix. See Sections 7 and 8 for guidance on selecting
+                                   appropriate parameters and limits.
+    Monitoring                     This would specify water quality monitoring requirements, including frequencies,
+    requirements                   locations and reporting requirements, which would need to take into account available
+    Section 9                      resources. See Section 9 for guidance on specifying monitoring requirements.
+    Analytical                     This would typically specify any analytical requirements to strengthen the accuracy
+    requirements                   of water quality testing, such as methods to be used, requirements for laboratory
+    Section 9.4                    certification or accreditation, quality assurance and quality control, sampling
+                                   guidelines and the required training and skills for analysts or sample collectors. These
+                                   requirements should take into account local resources and capacities and should
+                                   allow for variations (e.g. methods used and use of field testing where appropriate).
+                                   There is little value in specifying requirements that cannot be achieved. See Section
+                                   9.4 for additional guidance on specifying analytical requirements.
+    Incident protocols             This would specify what to do in the case of incidents and exceedances. See Section
+    Section 10/Annex 1             10 and Annex 1 for further guidance.
+    Surveillance                   This would identify the:
+                                     Responsible agencies for surveillance, as well as other stakeholders and their
+                                     obligations (if not described sufficiently in the roles, rights and responsibilities
+                                     section).
+                                     Elements of surveillance, ideally including WSP auditingb and/or sanitary inspection
+                                     to assess risk management, direct measurement of water quality through testing,
+                                     and review of water quality monitoring reports prepared by suppliers.
+                                     Any special considerations for the surveillance of small water supplies.
+                                     Frequency of surveillance activities.
+                                     Requirements for reporting surveillance results.
+    Good practice      This optional content could cover nationally relevant topics, such as guidance
+    recommendations or for monitoring practices or special water quality issues (e.g. pesticide and algal
+    requirements       management). This content may be best placed in appendices.
+    Violations, penalties          This would establish incentives for complying with the regulations and standards
+    and incentives                 and/or penalties for violations. Normally, the use of penalties is a last resort and more
+                                   proactive support to water suppliers facing difficulty with compliance is encouraged.
+a
+    Where national WSP materials are developed, these should be referenced in the drinking-water quality regulations and standards. Where these
+    are not available, reference can be made to the Water safety plan manual (WHO & IWA, 2009) and/or Water safety planning for small community
+    water supplies (WHO, 2012).
+b
+    See A practical guide to auditing water safety plans (WHO & IWA, 2016) for more details.
+
+
+
+
+                                                                                                    Overview of typical content                   19
+       BOX 6.1          Examples of objectives
+       Bhutan Drinking Water Quality Standard (2016)
+       Overall goal: To ensure safe drinking-water to protect consumer health.
+       Objectives:
+         To set safe concentrations of nationally relevant drinking-water parameters.
+         To contribute towards a progressive improvement of drinking-water quality management (e.g.
+         sampling, testing, reporting and documentation) by service providers.
+         To strengthen the application of WSPs in all drinking-water systems.
+         To contribute towards increased public awareness of drinking-water safety.
+         To build a national drinking-water quality database.
+         To improve accountability of all stakeholders for drinking-water supply.
+       Source: Royal Government of Bhutan (2016). Bhutan Drinking Water Quality Standard 2016. Thimphu, Bhutan: National Environment
+       Commission.
+
+       Philippine National Standards for Drinking-Water (2017)
+       Overall goal: To protect public health by prescribing standards and procedures for drinking-water.
+       Objectives:
+         Set safe concentrations for parameters that may affect consumers’ health.
+         Standardize methodologies used in collecting, handling, storing and testing water samples for
+         different parameters.
+         Guide water service providers and regulators in the application of the standards, interpretations of
+         results and corrective actions in case of exceedances.
+         Ensure safe drinking-water is provided during emergency situations.
+         Emphasize the linkage between WSPs and drinking-water quality.
+         Establish linkage between national drinking-water standards and SDG indicators.
+       Source: University of the Philippines Manila (2015). Updating of the 2007 Philippine National Standards for Drinking-Water (PNSDW). Final
+       report. College of Public Health: Department of Environmental and Occupational Health.
+
+
+
+
+20   Developing drinking-water quality regulations and standards
+7 Parameters
+A critical and challenging step in the development of realistic drinking-water quality
+regulations and standards is the selection of the particular parameters to be included.
+This section discusses the importance of keeping the list of parameters short and
+relevant and presents guidance to support prioritization of microbiological, chemical,
+acceptability and (where appropriate) radiological parameters for inclusion in regulations
+and standards.
+
+
+7.1      Keeping the list of parameters relevant and short
+It is not necessary or desirable to include all the GDWQ parameters in national or
+subnational regulations and standards. The GDWQ cover a broad range of constituents
+that can affect drinking-water quality, and not all of these constituents will be relevant
+within a country.
+
+By including parameters in regulations and standards, there is an implication that there
+will be some monitoring of those parameters. In most cases, this will be an explicit
+requirement, i.e. monitoring frequencies will be included. Excessively strict regulation
+that requires monitoring of all chemicals in the GDWQ is unlikely to provide health
+benefits, would be prohibitively expensive and time consuming, and would undermine
+the credibility and usefulness of the regulations and standards.
+
+It is important that the parameters included in the regulations and standards are only
+those that have been, or may reasonably be, detected in water supplies in the country.
+There is little or no benefit to regulations and standards including contaminants that
+do not, or are unlikely to, occur in a water supply. Nationally relevant parameters
+should be reviewed and prioritized so that scarce resources are not unnecessarily
+directed towards the management of parameters that do not pose a threat to health
+and/or do not affect the acceptability of drinking-water. As resources permit, additional
+parameters could be incrementally included in the regulations and standards where
+new information becomes available from local investigations indicating a parameter
+represents a significant concern. For example, this approach was used by the United
+States Environmental Protection Agency when it used the Information Collection Rule
+Federal Database to collect occurrence information on microbial contaminants and
+disinfection by-products (DBPs) in drinking-water to refine its assessment of public
+health risks and associated response. Once information becomes available and important
+parameters are identified, regulations and/or standards are revisited (US EPA, 1997).
+
+
+
+                                                                              Parameters     21
+     As a general rule, where there is a recorded history of a contaminant in drinking-water
+     that affects public health or acceptability, inclusion in the regulations and standards
+     would be considered appropriate. Parameters not specifically included in the regulations
+     and standards could be covered by a general “catch-all” clause (see Box 7.1).
+
+
+
+            BOX 7.1      Catch-all clause
+            To account for potential parameters of concern that are not specifically included in the regulations
+            and standards, it is valuable to include a general statement such as: “Water suppliers have an
+            obligation to provide safe water for consumers. If any parameters or substances are identified
+            in the water which are not specifically included in these regulations and standards, the current
+            edition of the WHO Guidelines for drinking-water quality shall be the primary reference to assess
+            the safe level of those substances and parameters.”
+
+
+
+     Public health principles to consider when choosing which parameters to specify in
+     regulations and standards include:
+     • Priorities should be directed at the most important public health concerns. Control
+       of microbiological contaminants in drinking-water is the highest priority.
+     • Consideration needs to be given to other exposure routes of the parameter.
+       Exposure to chemicals from drinking-water is typically minor in comparison with
+       other sources with a few important exceptions (e.g. arsenic and fluoride). Where
+       the overall burden of disease from multiple exposures is high, there is limited value
+       in setting strict targets if drinking-water only provides a small proportion of the
+       total exposure to that chemical (see Box 8.2).
+     • For most chemical parameters, there is no direct evidence that they have a significant
+       impact on public health as a consequence of exposure through drinking-water.
+       These should have a lower priority for action, even if present, compared with
+       microbiological parameters and chemicals for which there is direct evidence of
+       health impact through drinking-water (e.g. arsenic and fluoride). These chemicals
+       should be considered within overall public health priorities.
+     • Radiological parameters are unlikely to have a significant impact on public health as
+       a consequence of exposure through drinking-water in non-emergency situations.
+       However, consideration needs to be given to areas where there are high levels of
+       natural radionuclides in the underlying rocks and soil and, therefore, in groundwater
+       sources of drinking-water.
+
+
+
+
+22   Developing drinking-water quality regulations and standards
+Cost considerations to bear in mind when choosing which parameters to specify in
+regulations and standards include:
+• Control and monitoring of parameters require financial resources. Particularly
+  where there are limited resources, e.g. in the case of small supplies, it is important
+  to ensure these are targeted to the highest priority issues.
+• If risk assessment shows that a contaminant is rarely present and/or well below the
+  GDWQ guideline value, it may not be appropriate to include it in the regulations
+  and standards because the cost of monitoring would not be justified in terms of
+  the benefits.
+• Even if a substance is present at a concentration close to or above the GDWQ guideline
+  value, it is appropriate to consider the costs of control in setting the parameter limit,
+  as long as no immediate health impacts are expected (see Box 8.2).
+
+
+7.2      Microbiological parameters
+In order to decrease the risk of waterborne diseases in any country, ensuring that
+drinking-water is free of microbiological hazards is the most important priority for
+regulations and standards. Waterborne microbial disease is essentially acute, potentially
+occurring after even a single exposure.
+
+The recommended approach to assessing faecal contamination and verifying the microbial
+safety of drinking-water is based on testing of indicator organisms. The organism of
+choice is E. coli, although thermotolerant coliforms provide a less precise but acceptable
+alternative. (Annex 3 provides additional information on other microbial indicators.)
+E. coli is excreted in large numbers in the faeces of humans and other warm-blooded
+animals; while most are non-pathogenic, certain strains can cause acute diarrhoea.
+Despite having some shortcomings, particularly as an indicator of viruses and protozoa
+due to higher sensitivity to inactivation and environmental pressures, E. coli remains an
+important indicator of the presence of faecal contamination and associated pathogens.
+
+As a complement to E. coli testing, certain operational parameters can serve as
+indicators of pathogen removal or inactivation and are often included in regulations
+and standards, namely:
+• Turbidity: Where treatment is applied, turbidity provides an indication of the
+  effectiveness of particle removal processes and/or of disinfection effectiveness (as
+  high turbidity can interfere with disinfection). It also provides an indication of rapid
+  changes in source water quality and distribution system integrity.
+
+
+
+
+                                                                               Parameters     23
+     • Disinfectant residual: This serves as an important indicator of pathogen inactivation
+       at the treatment plant and of protection against recontamination in the distribution
+       system.
+     • pH: This is an important operational parameter in determining disinfection efficacy.
+
+     Turbidity, disinfectant residual and pH should be measured where samples are
+     collected for E. coli. Where resources for monitoring are particularly constrained
+     and only occasional E. coli testing is feasible, e.g. in the case of some small supplies,
+     these other parameters can serve as surrogates for gauging microbial water quality
+     between E. coli monitoring events.
+
+     All key parameters related to confirming microbiological water quality can be measured
+     using field testing kits (see Section 9.4).
+
+
+     7.3      Chemical parameters
+     In contrast to the acute and immediate nature of waterborne microbial disease, the
+     great majority of chemical contaminants only exert an effect after a long period of
+     exposure (i.e. years).
+
+     When developing or revising regulations and standards, the challenge is to select the
+     most important chemicals in a given setting. As noted in Section 7.1, for most chemical
+     parameters, there is no direct evidence that they have a significant impact on public
+     health as a consequence of exposure through drinking-water. These chemicals should
+     therefore be a lower priority for action, even if present, compared with microbiological
+     parameters and chemicals known to impact human health through drinking-water. A
+     chemical should be prioritized if:
+     • There is evidence that health effects can arise specifically from exposure to a chemical
+       through drinking-water (e.g. arsenic, fluoride, nitrate, lead and possibly manganese).
+     • The chemical is widely present in water sources in the country.
+     • There is a reasonable chance of consumers being exposed to the chemical at
+       concentrations of concern, i.e. above or close to the GDWQ guideline value. Where
+       concentrations vary between supplies, it may be appropriate for the regulations
+       and standards to allow for flexibility according to site-specific risk assessments
+       (see Section 9).
+
+
+
+
+24   Developing drinking-water quality regulations and standards
+       It is important to pay particular attention to the limited number of
+    chemicals that have been found to present serious human health hazards
+     due to exposure through drinking-water. These include fluoride, arsenic,
+                      nitrate, lead and possibly manganese.
+
+
+A list of potential chemical hazards is required to establish chemicals of concern in the
+local context. To support the development of such a list, Box 7.2 provides examples of
+potential chemical contaminants according to five source categories: naturally occurring,
+agricultural sources, human settlements, industrial activities, and water treatment and
+distribution. For further guidance on preparing a list of potential chemical hazards,
+see Chemical safety of drinking-water (WHO, 2007); Protecting groundwater for health
+(WHO, 2006); and Protecting surface water for health (WHO, 2016).
+
+To identify priority chemicals, available water quality data should be reviewed, (see
+Section 5.3), along with the likely sources of the contaminants. To assess the potential
+sources of contaminants and their significance, the approach outlined in Chemical safety
+of drinking-water (WHO, 2007) can be followed. This approach involves categorizing
+chemical parameters into five source categories (see Box 7.2) and identifying risk
+factors related to the probability of exposure close to or above the GDWQ guideline
+value. Those chemicals with higher probability of elevated exposure, particularly those
+with known public health impacts, should be prioritized.
+
+An additional consideration when prioritizing chemicals for inclusion in regulations
+and standards is that there may be other sources of exposure (e.g. pesticides in
+food, heavy metals in fish, lead in paint) that should be considered when weighing the
+costs and benefits of controlling and regulating levels in drinking-water, particularly
+for chemical parameters that have a direct impact on human health. In some cases,
+drinking-water will be a minor source of exposure, and controlling levels in water may
+have little if any impact on overall exposure. In other cases, controlling a chemical in
+water may be the most cost-effective way of reducing exposure to the public. The
+chemical fact sheets in Chapter 12 of the GDWQ, including supporting background
+documents referenced in the fact sheets, give some background data on the exposure
+of each chemical from drinking-water compared with other sources, although local
+circumstances may vary.
+
+
+
+
+                                                                             Parameters     25
+       BOX 7.2   Examples of chemical contaminants by source category
+
+               Naturally    Many of these chemicals generally have a far greater impact on groundwater
+              occurring     than surface water (e.g. arsenic, fluoride, uranium), with the notable exception
+              chemicals     being cyanobacterial toxins.
+                            The concentrations of naturally occurring chemicals are generally, but not
+                            always, stable in groundwater.
+                            Cyanotoxins can be produced by some cyanobacteria. Cyanobacteria are
+                            common in surface water, with occurrence often linked to seasonal conditions
+                            and nutrient availability (primarily phosphorus).
+
+         Chemicals from     These will depend on the nature of the industry and need to be identified
+              industrial    through the development of a list of industrial processes undertaken locally.
+              activities    See Chemical safety of drinking-water (WHO, 2007) for guidance.
+                            Some commonly used degreasing agents, e.g. trichloroethene, can persist
+                            in groundwater.
+                            Specific chemicals associated with certain production industries include:
+                             – battery manufacturing can be a source of cadmium, lead, nickel, manganese,
+                               mercury, copper and lithium;
+                             – electroplating and tanneries can be a source of chromium; and
+                             – chemical and pharmaceutical industries can discharge chemicals
+                               associated with their products.
+                            Mine sites can be sources of contaminated waste materials, particularly
+                            where management practices are poor or where mines have been abandoned.
+                            Chemicals associated with extractive industries include:
+                             – those being extracted, e.g. uranium, copper and other base metals,
+                               hydrocarbons;
+                             – those used to extract deposits, e.g. cyanide, mercury; and
+                             – chemicals released due to the method of extraction (such as acid leaching)
+                               and from acid mine drainage, e.g. arsenic, antimony, cadmium, chromium,
+                               fluoride, lead, mercury, nickel, selenium.
+
+         Chemicals from     Chemicals of significance will vary depending on use, precipitation, run-off
+            agricultural    and leaching, and include:
+              activities     – pesticides (types depend on local use);
+                             – nitrates (e.g. from inorganic fertilizers and manure), which can impact
+                               surface water and groundwater; and
+                             – phosphorus (e.g. from inorganic fertilizers), which generally will not have
+                               a direct health impact, but can support the growth of cyanobacteria in
+                               surface water.
+
+         Chemicals from     Chemical contamination may result from:
+                  human      – use of chlorinated solvents (e.g. trichloroethane);
+            settlements      – fuel storage (petroleum hydrocarbons, benzene, ethyl benzene, toluene,
+                               xylene);
+                             – sewage and waste disposal (nitrate and ammonia);
+                             – industrial waste discharges;
+                             – urban run-off (e.g. nitrate, ammonia, heavy metals); and
+                             – landfill sites where industrial solids and liquid materials are stored.
+
+
+
+
+26   Developing drinking-water quality regulations and standards
+BOX 7.2   Examples of chemical contaminants by source category (continued)
+
+ Chemicals from           Chemicals associated with water treatment and distribution fall into two
+ water treatment          broad categories, namely:
+ and distribution          – Substances resulting from the addition of chemicals used for water
+                             treatment, including coagulants and disinfectants. These chemicals
+                             are intentionally added but can give rise to residues or by-products (e.g.
+                             acrylamide from polyacrylamide coagulant or DBPs from chlorination).
+                             Treatment chemicals can also contain contaminants.
+                           – Substances that arise from the corrosion of pipes or leach from materials
+                             used in distribution or plumbing (e.g. lead, nickel, copper, or vinyl chloride
+                             from pipes, solder and fittings).
+                          Disinfection should never be compromised in an attempt to control DBPs.
+                          The preferred approach to controlling chemicals associated with water
+                          treatment and distribution is through a certification system (see Box 7.3).
+
+
+
+
+    BOX 7.3      Certification schemes
+    Drinking-water in a piped distribution network is exposed to numerous surfaces, and it is important
+    that no materials used in the network leach high concentrations of hazardous chemicals, promote
+    microbial growth, impart unacceptable tastes and odours or react with drinking-water (e.g.
+    leaching of N-nitrosodimethylamine [NDMA] from rubber seals). It is also important to ensure
+    that chemicals used in treatment or associated by-products do not pose a risk to health. This
+    includes consideration of impurities contained in treatment products (e.g. aluminium sulfate can
+    contain trace amounts of lead). The preferred approach to controlling chemicals associated with
+    water treatment and distribution (e.g. vinyl chloride from plastic piping or chemicals leaching
+    from ion-exchange resins or membranes) is through a certification system, whereby materials and
+    chemicals are tested to confirm compliance with defined standards and certified to be of suitable
+    quality and type for drinking-water applications. Various tests can be carried out to determine
+    whether the material, additive or contaminant arising from the material or additive can adversely
+    affect general water quality (e.g. taste and appearance) and/or exceed permissible levels and
+    pose a health risk to consumers. Certification systems can be overseen by government agencies
+    or private organizations. Where a country has yet to establish a certification scheme, it may be
+    appropriate to consider using materials already approved through another country’s certification
+    scheme. (Note that these schemes may or may not address the ability of the materials to support
+    or promote microbial growth.)
+
+
+
+
+                                                                                              Parameters      27
+     A further consideration when prioritizing chemicals for inclusion in regulations and
+     standards is whether or not there is a guideline value in the GDWQ. For some chemicals,
+     no formal guideline value is included because occurrence is only at concentrations
+     well below those that would be of concern for health. The GDWQ do not propose
+     guideline values for such substances so as not to encourage countries to incorporate
+     these chemicals into regulations and standards when inclusion is neither necessary nor
+     appropriate. However, the GDWQ may present health-based values (rather than formal
+     guideline values) for these substances to help assess the significance of occurrence if
+     they are found in drinking-water or in source water. Note that acceptability concerns
+     (see Section 7.4) may be relevant for some of these chemicals without a guideline value.
+
+
+     7.4      Acceptability parameters
+     In addition to pathogens and chemicals that affect health, a secondary but important
+     consideration is for parameters that influence the acceptability of the water to
+     consumers. These parameters are typically related to the taste, odour or appearance
+     of drinking-water, and they may lead to consumers rejecting the drinking-water
+     and turning to other water that is aesthetically more acceptable but potentially less
+     safe. In addition, some of these parameters may cause operational problems such as
+     corrosion, fouling of filtration media, or encrustation of distribution systems, which
+     may have an indirect impact on public health by compromising the ability to maintain
+     a safe drinking-water supply.
+
+     Typical parameters that can reduce acceptability are physical parameters (e.g. taste,
+     turbidity, odour, colour) and some inorganic constituents and contaminants (e.g. iron,
+     manganese, aluminium, sodium, sulfate, total dissolved solids, pH, ammonia, chloramines,
+     chlorides, chlorine, chlorobenzenes, copper, dissolved oxygen, hydrogen sulphide, zinc).
+
+     Generally, the concentrations that affect acceptability are significantly lower than
+     those of concern for health. Some parameters have no direct health effects at any
+     concentration. Where a parameter is normally detected aesthetically at concentrations
+     lower than those of health concern (e.g. chlorobenzenes and some petroleum derived
+     hydrocarbons such as toluene, ethyl benzene, xylene):
+     • It is not normally necessary to directly regulate or monitor such substances. Rather,
+       these parameters may be addressed through a general requirement in the regulations
+       and standards that the drinking-water supplied must be acceptable to most consumers.
+
+
+
+
+28   Developing drinking-water quality regulations and standards
+• For these parameters, the GDWQ may include a health-based value1 in order to
+  assist in determining a response when problems are encountered and to provide
+  reassurance with regard to possible health risks. (Note that health-based values,
+  rather than formal guideline values, are also established in the GDWQ for parameters
+  that are less frequently encountered on a global basis, as discussed in Section 7.3.)
+
+
+An exception to the general rule above is manganese, which is widely found in
+drinking-water sources. The current edition of the GDWQ includes a health-based
+value for manganese of 0.4 mg/l. This concentration is above concentrations normally
+causing acceptability problems in drinking-water.2 However, there are circumstances
+in which manganese can remain in solution at concentrations of health concern in
+some acidic or anaerobic waters, particularly groundwaters. It may therefore be
+appropriate to regulate and monitor manganese and consider both aesthetic as well
+as health aspects when considering the acceptability of drinking-water (see Annex 4
+for more information).
+
+
+7.5              Radiological parameters
+The health risks associated with radionuclides are generally low compared with those
+from microorganisms or chemicals. Health risks for radionuclides in drinking-water
+will not be acute or immediate. However, there are circumstances where natural
+radionuclides are significant and may dominate the chemical hazards, for example some
+deeper groundwater sources in the Middle East. Concentrations of radionuclides in
+drinking-water are most likely to be from naturally occurring radionuclides, although
+mining, medical facilities and nuclear energy facilities are also potential sources.
+
+Where it is considered appropriate to include radiological parameters in regulations
+and standards, a screening approach for radionuclides, consistent with the approach
+included in the GDWQ, should usually be applied. This involves inclusion of gross α
+and gross β screening to assess whether there is a radiological hazard present. The
+screening approach enables a cost-effective and efficient means to assess radiological
+hazards, minimizing the need to carry out detailed radionuclide analysis when the
+screening values are not exceeded.
+
+
+
+
+1
+    The GDWQ address acceptability related parameters in two ways: (i) a guideline value designated as a “GV (C)” is included, or (ii) a health-based
+    value, rather than a formal guideline value, is included. Both approaches indicate that these substances can impact on the acceptability of the
+    drinking-water supply, usually at levels that are far below those of health concern. For example, Table A3.3 in Annex 3 of the GDWQ presents
+    guideline values for approximately 90 substances. Some of these (e.g. chlorine, ethylbenzene, styrene) are designated with (C), indicating that
+    concentrations at or below the (health-based) guideline value may affect acceptability.
+2
+    For example, at concentrations above 0.1 mg/l, manganese in water supplies may cause an undesirable taste in beverages, and stain sanitary
+    ware and laundry (WHO, 2017a).
+
+
+                                                                                                                                     Parameters         29
+     When the screening value is exceeded, detailed analysis for individual radionuclides
+     should be required. Specialist input may be needed to support the identification of
+     the radionuclides that are causing the problem.
+
+     It should be noted that this screening approach is not applicable for radon. However,
+     standards for radon do not generally need to be established even in areas where radon
+     is in water sources, as exposure is predominantly from inhalation inside buildings
+     rather than drinking-water.
+
+     For further information, see Management of radioactivity in drinking-water (WHO, 2018b).
+
+
+
+       Additional reading
+       A global overview of national regulations and standards for drinking-water quality (WHO, 2018a)
+       summarizes information from 104 countries and territories on the microbiological, chemical, acceptability
+       and radiological parameters specified in national drinking-water quality standards. The report shows
+       considerable variability in parameters from country to country. Any comparisons should be approached
+       with caution, as local circumstances will vary widely and regulations and standards should always
+       reflect due consideration of local priorities and available resources.
+
+
+
+
+30   Developing drinking-water quality regulations and standards
+8 Parameter limits
+Determining appropriate numeric limits for the various parameters that are prioritized
+for inclusion in the drinking-water quality regulations and standards requires careful
+consideration in order to ensure public health protection while also making limits
+realistic and appropriate. The health benefits and costs associated with achieving the
+parameter limits set should be considered, as should the health benefits and costs of
+controlling levels in drinking-water as compared with controlling other sources of
+exposure, such as food or air.
+
+In many circumstances, it will be appropriate to adopt the GDWQ guideline values
+as the numeric limits for those parameters included in the regulations and standards.
+Where a GDWQ guideline value is not considered achievable or cost-effective due
+to practical constraints in the local context, e.g. where existing treatment systems
+(or lack thereof) are incapable of sufficiently reducing concentrations, it is important
+to ensure that the parameter limit established in the regulations and standards is
+both protective of human health and realistic. Interim and/or ideal versus mandatory
+limits can be established, as discussed in Section 4. Additional options for establishing
+parameter limits that differ from the GDWQ guideline values are presented in the
+next sections according to parameter type.
+
+
+8.1      Microbiological limits
+Ideally, E. coli should not be present in any samples of drinking-water. However, this
+may not always be achievable. For example, small community supplies may have difficulty
+in meeting this target. Table 5.2 of the GDWQ presents a grading approach based on
+the proportion of samples that are negative for E. coli and the population size. Grading
+schemes can be used in combination with sanitary inspections to categorize systems
+and identify priorities for improvement (see Box 8.1 for further discussion of the role
+of sanitary inspection in achieving microbiologically safe water).
+
+
+
+
+       BOX 8.1     The role of sanitary inspection
+       Recognizing that it is not feasible to monitor for all potential waterborne pathogens and that all
+       monitoring is necessarily limited in space and time, the focus of ensuring the microbiological
+       safety of drinking-water should be on proactive risk assessment and risk management. This can
+       be addressed in regulations and standards by promoting or requiring WSPs or sanitary inspections,
+       and by including sanitary inspection and/or WSP auditing in water quality surveillance programmes.
+
+
+
+
+                                                                                       Parameter limits     31
+     8.2         Chemical limits
+     For those substances that are particularly difficult to control, such as some of the
+     natural contaminants found in groundwater, it is possible to set a parameter limit
+     higher than the GDWQ guideline value while still being protective of health. The
+     process for determining such values is beyond the scope of this guidance document,
+     although key considerations are presented in Annex 2. In brief, this involves comparing
+     the assumptions made in deriving the GDWQ guideline values (which are generally
+     conservative) with local conditions and/or undertaking a local risk assessment to
+     determine safe limits. Examples of substances for which adaptation of the GDWQ
+     guideline values may be appropriate include arsenic and fluoride (see Box 8.2).
+
+
+
+       BOX 8.2         Setting limits higher than GDWQ guideline values
+       It is important to consider overall exposure from a chemical when determining appropriate drinking-
+       water limits, including exposure from food, consumer products and air. For example, food and/or dental
+       preparations may be significant sources of fluoride exposure. In some cases, it may be more practical to
+       exert control through reducing exposure from food and allowing higher concentrations in drinking-water,
+       particularly when considering small supplies that may not have appropriate treatment in place. For
+       example, high fluoride in water in one state in India has been managed by using low fluoride surface
+       water sources for irrigation in order to reduce fluoride concentrations in crops. By reducing fluoride
+       exposure through food, the fluoride intake from drinking-water can be increased while staying within
+       the limits of the maximum daily fluoride intake deemed safe. This approach, combined with increasing
+       the intake of calcium (which helps to reduce the impact of fluoride), allowed authorities to set the
+       limit for fluoride in drinking-water at 3 mg/l (as compared with the GDWQ guideline value of 1.5 mg/l)
+       without a higher risk of skeletal effects.
+       Setting a parameter limit higher than the GDWQ guideline value may also be justified on the basis
+       of a local health risk assessment. A number of countries, including Bangladesh, have set their limit
+       for arsenic at 50 µg/l, which is five times the current GDWQ guideline value of 10 µg/l. (50 µg/l is the
+       previous GDWQ guideline value for arsenic.) After consultation with health authorities, it was determined
+       that achieving 50 µg/l will have a clear and measurable impact on the burden of disease from arsenic,
+       while it is more difficult to demonstrate additional gains at lower concentrations (WHO, 2011). The
+       assessment by the Joint FAO/WHO Expert Committee on Food Additives concluded that, “For certain
+       regions of the world where concentrations of inorganic arsenic in drinking-water exceed 50–100 μg/l,
+       some epidemiological studies provide evidence of adverse effects. There are other areas where arsenic
+       concentrations in water are elevated (e.g. above the GDWQ guideline value of 10 μg/l) but are less than
+       50 μg/l. In these circumstances, there is a possibility that adverse effects could occur as a result of
+       exposure to inorganic arsenic from water and food, but these would be at a low incidence that would
+       be difficult to detect in epidemiological studies.”
+       Source: Government of Bangladesh (1997). The Environment Conservation Rules.
+       Further information on how the GDWQ guideline values are calculated and can be adapted is available in Annex 2
+       and in Chapter 8.2 of the GDWQ.
+
+
+
+
+32   Developing drinking-water quality regulations and standards
+When there is no guideline value or health-based value presented in the GDWQ
+but a suitable international toxicological review is available in which a tolerable daily
+intake (TDI), allowable daily intake (ADI) or tolerable weekly or monthly intake has
+been determined by the International Programme on Chemical Safety, the Joint FAO/
+WHO Expert Committee on Food Additives and Contaminants, or the Joint Meeting
+on Pesticide Residues, this can be used to determine a suitably safe level for drinking-
+water following the WHO methodology as described in Chapter 8.2 of the GDWQ.
+
+
+8.3              Radiological limits
+The screening values and radionuclide guidance levels in the GDWQ are based on an
+individual dose criterion (IDC) of 0.1 mSv/year. In countries where natural radioactivity
+in drinking-water is not an issue, adopting the IDC (and corresponding screening values
+and guidance levels) should be appropriate. However, in situations where it is difficult
+to achieve the IDC (e.g. where natural radionuclides are an issue), countries may wish
+to use a different dose criterion and adjust the screening values and guidance levels
+accordingly. In these situations, regulatory authorities may establish a dose criterion
+greater than the IDC of 0.1 mSv/year, but generally less than the International Basic
+Safety Standard reference level of 1 mSv/year, depending on the circumstances.1 Factors
+to consider in establishing the dose criterion include the costs of remediation and the
+availability of other drinking-water supplies. In any case, it is recommended to set a
+national reference level as low as reasonably achievable. For further information, see
+Management of radioactivity in drinking-water (WHO, 2018b).
+
+
+
+
+1
+    The International Basic Safety Standard for Radiation Protection and Safety of Radiation Sources, co-sponsored by eight UN agencies, including
+    WHO, recommends a dose criterion (reference level) for drinking-water of approximately 1 mSv/year. A reference level represents the level of dose
+    or risk above which it is judged to be inappropriate to plan to allow exposures to occur and below which optimization of protective actions should
+    be planned in order to keep doses as low as reasonable achievable. It should not be regarded as an acceptable dose or as a dose limit. Source:
+    International Atomic Energy Agency (IAEA) (2014). Radiation Protection and Safety of Radiation Sources: International Basic Safety Standards,
+    IAEA Safety Standards Series No. GSR Part 3 (http://www-pub.iaea.org/MTCD/publications/PDF/Pub1578_web-57265295.pdf, accessed 23
+    February 2018).
+
+
+                                                                                                                           Parameter limits              33
+     9 Compliance monitoring
+     One of the key functions of drinking-water quality regulations and standards is to
+     establish requirements for compliance monitoring (see Box 9.1), which is the focus
+     of this section. Minimally, regulations and standards should address:
+     • which entities are responsible for monitoring;1
+     • which parameters to monitor (Section 7);
+     • frequency of monitoring (Section 9.1);
+     • where (in general terms) monitoring should take place (Section 9.2);
+     • routine reporting requirements (Section 9.3);
+     • acceptable sampling and testing procedures (Section 9.4); and
+     • what action to take in the event of non-compliance (Section 10 and Annex 1).
+
+
+
+          BOX 9.1          Operational versus compliance monitoring
+          When establishing monitoring requirements in drinking-water quality regulations and standards, it is
+          important to consider the distinction between compliance monitoring and operational monitoring.
+          The regulations and standards should stipulate that certain monitoring must be undertaken to demonstrate
+          compliance with the regulations and standards. This monitoring may be undertaken to assess the
+          performance of a treatment process (e.g. by measuring operational parameters such as turbidity, chlorine
+          residuals and pH) or to verify that the drinking-water being supplied to consumers is safe. Regardless
+          of where the monitoring occurs or which parameters are monitored, if the requirement to undertake this
+          monitoring activity is specified in the regulations and standards, it is compliance monitoring. Compliance
+          monitoring may be undertaken by the water suppliers and/or by the surveillance agency.
+          An important complement to the compliance monitoring required by the regulations and standards is
+          operational monitoring, which is undertaken by water suppliers as and where needed to confirm that the
+          system is functioning as expected, to inform operational decisions (e.g. chemical dosing rates) and to
+          provide evidence that the system will deliver water that meets the regulations and standards. Operational
+          monitoring is generally undertaken at a higher frequency than compliance monitoring, with the particular
+          monitoring locations (e.g. raw water, filtered water) and water quality targets at each location determined
+          by the water supplier. Operational monitoring data are generally for the water suppliers’ own use, whereas
+          compliance monitoring data are shared with the regulator. (Note that water suppliers may also undertake
+          investigative monitoring as part of risk assessments of drinking-water supplies, including catchments.
+          This monitoring is also generally for the water suppliers’ own use.)
+          Within this document, “monitoring” refers to compliance monitoring unless operational monitoring is
+          specifically indicated.
+
+
+
+
+     1
+         When the water supplier and the surveillance agency both undertake monitoring activities, it is important for the programmes to be coordinated
+         and for data to be shared.
+
+
+34   Developing drinking-water quality regulations and standards
+As with all elements of the regulations and standards, it is important to consider
+practical constraints when setting out monitoring requirements, including available
+human resources to carry out sampling, availability of analytical facilities and budgets.
+The principle of incremental improvement should be applied as appropriate, whereby
+a modest monitoring schedule could be established initially and expanded as resources
+become available over time. In all cases, and particularly where there are limited capacity
+and resources to perform laboratory testing, sanitary inspections and/or WSP audits
+to confirm risk management along the water supply chain are important complements
+to water quality monitoring to verify the safety of drinking-water supplies.
+
+Also, when establishing monitoring requirements in the regulations and standards,
+there should be some flexibility built in so that water suppliers can propose alternative
+monitoring programmes based on the actual risk that a particular parameter will be
+present at concentrations of concern. This concept is discussed in in Box 9.2 and in
+Section 9.1.
+
+
+       BOX 9.2     Risk-based monitoring programmes
+       Water suppliers should be given an option to develop risk-based monitoring programmes that
+       deviate from the monitoring requirements set out in the regulations and standards on the basis
+       of a system-specific risk assessment. Issues to consider include:
+         historical water quality monitoring results;
+         the different sources of water (e.g. groundwater, surface water, springs);
+         potential contamination sources (e.g. industrial, agricultural);
+         treatment processes (e.g. chlorination); and
+         size and complexity of the water supply system.
+       All decisions regarding risk-based monitoring need to be justified, documented and approved by
+       the drinking-water regulator before being implemented.
+
+
+
+
+9.1      Sampling frequency
+The frequency of compliance monitoring should depend on the:
+• quality and variability of the source water;
+• type of treatment the water receives;
+• risks of contamination in various parts of the system;
+• complexity of the system (e.g. number of pressure zones, intermittency of operation,
+  pipe material, pipe condition, reservoir condition);
+• water quality history;
+• size of the population supplied with drinking-water; and
+• availability of data produced by monitoring for other purposes (e.g. environmental
+  monitoring).
+
+                                                                           Compliance monitoring        35
+     These conditions should also be balanced with consideration of the availability of
+     personnel, transport, laboratory facilities and funds to undertake monitoring. That is,
+     it is the resources available to both the water suppliers and the surveillance agency
+     that will dictate what may feasibly be assigned to these entities. Higher frequencies of
+     analysis will have higher costs and require greater resources. It is generally appropriate
+     to require more frequent monitoring for better resourced systems, e.g. professionally
+     managed versus community-managed systems.
+
+     Similarly, it is important to consider which entity is likely to undertake monitoring
+     when establishing frequency requirements. Where compliance monitoring is undertaken
+     by water suppliers, more frequent monitoring will generally be feasible. Where the
+     surveillance agency is expected to carry out the required monitoring, as may be the
+     case for small water supplies, monitoring will generally need to be less frequent due
+     to resource limitations.
+
+     Some key considerations for establishing the appropriate monitoring frequency for
+     the various parameters included in the regulations and standards are described below.
+
+     Parameter stability: For those parameters that have the potential to change rapidly,
+     such as microbiological indicators or chemicals used in water treatment, the required
+     sampling frequency should be greater than that required for more stable parameters,
+     such as some of the inorganic chemicals found in groundwater. Groundwater sources
+     are likely to be less variable and typically require less frequent monitoring relative to
+     surface water, depending on the contaminant and its importance. For stable parameters,
+     sampling once per year (or even less) may be adequate. Where parameter concentrations
+     are both stable and well below the GDWQ guideline value or established parameter
+     limit, monitoring as infrequently as once every five years or less could be justified.
+
+     In the case of radiological parameters, it is generally recommended to monitor new
+     sources with a significant radiological risk at least four times per year for one year
+     (i.e. once per season). Then, in the absence of exceedances, the frequency can be
+     decreased to once per two to five years (or longer), depending on the level of activity
+     concentrations in the water, the source of the supply (surface or groundwater) and
+     how likely it is that activity concentrations may vary across the year (e.g. groundwater
+     sources may display less variability than surface water sources), the size of the population
+     supplied and the quantity of historical monitoring records. For further information,
+     see Management of radioactivity in drinking-water (WHO, 2018b).
+
+
+
+
+36   Developing drinking-water quality regulations and standards
+Likelihood of occurrence at concentrations of concern: The frequency of monitoring
+for chemical parameters should reflect the risk that a parameter will be present at a
+concentration of concern. For instance, monitoring for cyanobacterial toxins should
+not be performed on a regular basis, but rather should only be undertaken when
+there is evidence of significant cyanobacteria growth.1 As risk will often vary between
+individual water supply systems, the frequency set out in the regulations and standards
+should be sufficient to account for higher risk scenarios while also making allowance
+for lower frequencies where justified through a system-specific risk assessment. See
+Box 9.3 for an example of such allowances within regulations and standards, and see
+Box 9.4 for tips on when a reduced monitoring frequency may be justified.
+
+Seasonal influences: The presence of certain substances may be subject to seasonal
+influences, for example, pesticides resulting from agricultural activities. The timing and
+frequency of required monitoring should account for any seasonal variations.
+
+
+
+
+      BOX 9.3 Example of risk-based monitoring frequency
+      The European Union has adopted a risk-based sampling approach in Annex II of the DWD. This enables
+      the development of customized monitoring programmes based on system-specific risk assessment. Under
+      this approach, when the risk assessment shows that there is a low risk of a parameter exceeding the
+      established limit, a lower frequency of monitoring for that particular parameter can be justified. Where
+      a system-specific risk assessment has not been conducted (and approved by the competent authority),
+      the water supplier would monitor according to the parameter and frequency schedule set out in the DWD.
+      Source: Commission Directive (EU) 2015-1787 of 6 October 2015, amending Annexes II and III (https://publications.europa.eu/en/
+      publication-detail/-/publication/0e53d4eb-6cba-11e5-9317-01aa75ed71a1/language-en, accessed 30 May 2018).
+
+
+
+
+1
+    Every effort should be made to prevent blooms forming, and this should be the primary management approach. Where there are heavy algal
+    blooms, it is best to consider an alternative source of water unless appropriate treatment is available.
+
+
+                                                                                                           Compliance monitoring             37
+            BOX 9.4      Justifying reduced monitoring frequency
+            Where a system-specific risk assessment shows that a substance is not expected to be present
+            in a particular water supply, there may be no need for more than very occasional monitoring to
+            check for its presence, or no monitoring at all may be required. For example, if a water supplier
+            can demonstrate that a parameter or the process giving rise to the parameter is not present or
+            in use within a particular water supply system, the supplier could be exempted from associated
+            monitoring. For instance, where chlorination is not applied, there would be no need to monitor for
+            chlorine residuals, trihalomethanes (THMs) or haloacetic acids (HAAs).
+            As another example, if a substance is present, but at less than approximately 50% of the GDWQ
+            guideline value, the following questions should be considered:
+              Does the concentration change or is it stable over time? If it is stable over time, reduced monitoring
+              may be justified, even with a concentration of up to 75% of the GDWQ guideline value.
+              Is operational monitoring carried out for this substance at the treatment works, e.g. for aluminium?
+              If undertaken correctly, such monitoring can justify reduced compliance monitoring requirements.
+            Risk assessments that are used to justify customized monitoring programmes will ideally be
+            undertaken as part of a WSP. It may be appropriate to start with more frequent monitoring to gain initial
+            information for WSPs, and then adjust accordingly, based on the outcomes of the risk assessment.
+
+
+
+
+     9.2      Sampling locations
+     Compliance monitoring data should reflect the quality of the drinking-water that
+     consumers receive. The regulations and standards should therefore provide guidance
+     on sampling locations for those parameters that will be used to assess compliance
+     with the regulations and standards.
+
+     The number of sites at which monitoring is undertaken will impact on resources (financial,
+     as well as sampling and testing) and needs to be balanced against other requirements
+     associated with ensuring drinking-water quality (e.g. implementation of WSPs).
+
+     Some broad principles to follow when selecting monitoring locations are:
+     • Optimal sampling locations depend on where in the system the contaminant is
+       expected to be introduced and the likelihood that the parameter’s concentration
+       or character will change through the water supply system (see Table 9.1).
+     • Sample sites in a distribution system should give good geographic representation of
+       the water supply system and enable the comparison of water quality over time for
+       particular sections of the system. While the regulations and standards may not be
+       specific in this regard, they could state this as a principle that needs to be followed
+       when designing compliance monitoring programmes.
+     • It is best if sites are rotated amongst the designated sample sites throughout the
+       distribution system. However, a limited number of sites could be maintained in
+       order to collate a series of historical data.
+
+
+38   Developing drinking-water quality regulations and standards
+• The sampling of microbial parameters or indicators should be representative in terms
+  of exposure (e.g. more samples need to be collected in areas of higher population
+  densities) and be designed to detect contamination if it occurs. This means that
+  sampling locations should account for:
+  – locations within the system with long travel times;
+  – times of increased likelihood of contamination (e.g. seasonal variations or in
+     intermittent water supplies); and
+  – deterioration in water quality as a result of the condition of the distribution system
+     or household storage.
+• If water is supplied through point source supplies, e.g. village wells, ideally samples
+  should be collected for microbiological testing from the point of collection and from
+  the home in order to identify any degradation of water quality through household
+  practices (e.g. storage, treatment and handling).
+
+
+TABLE 9.1 Guidance on monitoring locations
+
+
+    Parameter                              Examplesa                                                              Primary monitoring
+    concentration                                                                                                 locationsb
+    Is unlikely to change                     Arsenic                                                             Exit of treatment plant
+    after treatment                           Nitrate (except where chloramines are being
+                                              used as a residual disinfectant)
+                                              Fluoride
+                                              Aluminium
+                                              Ammonia (except where chloramines are
+                                              being used as a residual disinfectant)
+                                              Barium
+                                              Selenium
+                                              Radionuclides
+    Can change after                          Microbial indicators (e.g. E.coli )                                 One of the following
+    treatment and through                     THMs                                                                locations:
+    the distribution system                   Other DBPs                                                            Within the distribution
+                                              Chlorine residual                                                     system
+                                              Ammonia (where chloramines are being                                  Consumers’ taps
+                                              used as a residual disinfectant)
+                                              Taste and odours
+                                              Turbidity
+                                              Manganese
+                                              Nitrite and nitrate (where chloramines are
+                                              being used as a residual disinfectant)
+    Is largely influenced by                  Lead                                                                Consumers’ taps
+    service connections or                    Copper
+    plumbing within buildings
+a
+    Inclusion of a parameter in this table does not imply that the parameter is a high priority in all water supply systems.
+b
+    Not all jurisdictions can monitor at the consumer’s tap. If the samples cannot be collected from the consumer’s tap, the point of supply to the
+    consumer’s property is a satisfactory alternative. For more detailed guidance on monitoring in distribution systems, refer to Water safety in
+    distribution systems (WHO, 2014).
+
+
+
+
+                                                                                                                 Compliance monitoring                39
+     9.3      Review and reporting of results
+     To realize the full benefit of water quality monitoring, monitoring results must be
+     periodically reviewed. All monitoring data need to be examined, even if the concentrations
+     are below the established parameter limits, in order to assess trends (e.g. the stability
+     of concentrations over time). It is therefore important that regulations and standards
+     specify requirements for routinely reporting monitoring results. (Reporting in the
+     event of a parameter limit exceedance or other incident is addressed as a separate
+     topic in Section 10.) As a minimum, the regulations and standards should address:
+     • Who is responsible for compiling and submitting reports? This may be the
+       drinking-water supplier and/or field divisions of the surveillance agency.
+     • To whom should reports be submitted? Generally, reports should be submitted to
+       the appropriate level within the regulatory (or surveillance) agency. In cases where
+       monitoring is led by an entity other than the water supplier, e.g. the surveillance
+       agency, it is critical that results are also shared with the water supplier as soon as
+       possible after the results become available.
+     • How often should reports be compiled and submitted? This will generally be
+       more frequent (e.g. monthly) for larger, better resourced water suppliers and less
+       frequent (e.g. annually) for smaller water suppliers.
+     • How will the results be shared with consumers? Regulations and standards should
+       require results to be shared with consumers. It is important to consider how, how
+       often and possibly in what format the monitoring results will be made available to
+       consumers. For example, results may be disseminated through a website, posted
+       or available for review at the office of the water supplier, provided upon request
+       and/or summarized in a publicly available annual report.
+
+     9.4      Analytical requirements
+     To strengthen the accuracy of water quality monitoring results, regulations and
+     standards should specify analytical requirements, which may include methods to be
+     used, requirements for laboratory certification or accreditation, quality assurance and
+     quality control, sampling guidelines and training and skills of analysts or sample collectors.
+
+     Various collections of “standard” or “recommended” methods for water analysis have
+     been published by a number of national and international agencies. It is often thought
+     that adequate analytical accuracy can be achieved provided that all laboratories use
+     the same standard method. However, experience shows that this is not always the
+     case, as a variety of factors may affect the accuracy of the results. Examples of issues
+     that can lead to inaccurate results include: reagent impurity; the type of apparatus
+     used; the performance, calibration and general maintenance of the apparatus used;
+
+
+
+40   Developing drinking-water quality regulations and standards
+the degree of modification of the method applied by the laboratory; and the skill and
+care of the analyst. These factors are likely to vary both between laboratories and
+over time within an individual laboratory. Moreover, the precision and accuracy that
+can be achieved with a particular method frequently depends upon the adequacy of
+sampling and nature of the sample.
+
+A number of considerations are important in specifying analytical requirements:
+• While the use of standard methods is ideal, alternatives could be considered provided
+  that they have been validated to confirm that they are fit for their intended uses.
+• The overriding consideration in selecting methods is that the method chosen is
+  demonstrated to have the required sensitivity and accuracy. Other factors, such
+  as speed and convenience, should be considered only in selecting among methods
+  that meet this primary criterion.
+• A list of approved analytical methods could be included in an appendix to the main
+  document. Alternatively, a set of minimum performance characteristics of the
+  methods could be established, including limits of quantification, which need to be
+  below regulatory limits.
+• External laboratory certification is highly desirable. However, if not available, the
+  regulations and standards could instead specify an approval process for laboratories.
+  Requirements such as application of standard methods, quality assurance and control,
+  and skills and training of analysts could be described in an appendix to the main
+  document or in supporting guidance.
+
+It is also important to consider field testing when specifying analytical requirements. Many
+types of low-cost, portable field test kits are available to measure the concentrations
+of various contaminants in water, e.g. E. coli, chlorine residuals, turbidity, pH and some
+chemicals. Some parameters, such as chlorine residuals and temperature, have to be
+measured in the field given their instability. Field test kits have the advantage of being
+simple to use in non-laboratory environments and are often available at relatively
+low prices, and they allow those carrying out the testing (e.g. surveillance officers) to
+share and discuss results with operators or community members during site visits.
+However, their analytical accuracy is generally lower than laboratory methods. Many
+of the test kits are semi-quantitative, while others simply measure the presence or
+absence of a contaminant. However, when properly used, they provide valuable tools
+for rapidly assessing numerous contaminants in a non-formal laboratory setting at low
+cost compared with commercial laboratory tests, and may be particularly useful for
+monitoring in remote settings. It is recommended that field test kits be validated for
+performance against reference or standard methods and approved for use. Regular
+calibration of test kits is also required. Quality assurance of all analytical methods and
+testing is essential regardless of who is carrying out the activities.
+
+
+                                                                   Compliance monitoring       41
+     10 Incident protocols
+     Incident response and reporting protocols should be addressed in drinking-water
+     quality regulations and standards to protect public health in the event of a parameter
+     exceedance or other incident, such as a major fault or loss of treatment.
+
+     If a parameter limit established in the regulations and standards is exceeded, or
+     if another type of incident or contamination event occurs that may impair safety,
+     the water supplier should take appropriate action as quickly as possible to prevent
+     unacceptable risks to consumers. It is also important to report the issue to the
+     appropriate agency or agencies, which should be identified in the regulations and
+     standards. The regulations and standards may also specify the timeframe in which such
+     reports need to be submitted to the appropriate agency or agencies.
+
+     Broad indications of what must be done could be included in the regulations and
+     standards. Refer to Annex 1 for more guidance on this issue.
+
+
+
+
+42   Developing drinking-water quality regulations and standards
+Annex 1
+Responding to exceedances
+
+Occasionally, a test result will exceed an established parameter limit even in systems that
+are usually in compliance with all of the parameter limits. Such results can arise from
+a number of causes that are related to analytical error, or they can happen by chance
+through variations within the analytical procedure, particularly if the concentrations
+are normally close to the parametric limit for the analytical procedure. Such causes
+should never be assumed, and all exceedances require investigation to determine if
+the result is credible and to check that there is no threat to public health.
+
+While an investigation for an exceedance of the parameter limit for E. coli is essential
+due to the immediate public health threats from a single exposure, investigation for
+an exceedance of a chemical parameter limit is also important because the result may
+be an indication of a more severe problem. Decisions should be made on the basis
+of facts rather than assumptions.
+
+Guidance following detection of E. coli (or thermotolerant coliforms)
+All reasonable actions should be taken to ensure that E. coli is not present in samples
+of drinking-water. However, in practice, low concentrations of E. coli may occasionally
+be detected. If this occurs, an immediate investigation should be undertaken including
+the following actions:
+• Immediately collect further samples to confirm the presence of E. coli, identify
+  possible sources and extent of the contamination. As a minimum, if E. coli is detected:
+  – In piped systems: A repeat sample should be collected from the original sample
+    location, an upstream sample location (e.g. a service reservoir) and a downstream
+    sample location.
+  – At the consumer’s tap: One repeat sample should be collected at the tap, another
+    one outside the house, and another one in a house nearby to determine if the
+    problem is in the distribution network or in the household system.
+  – In non-piped systems: A repeat sample should be collected from the point of
+    supply (e.g. hand pump).
+• If the contamination is widespread through the system, immediately inspect the
+  catchment area to identify the possible source of contamination.
+• Immediately inspect the drinking-water system to identify and rectify any failures,
+  including breaks in pipework, or failure or poor performance of treatment processes
+  (e.g. check disinfectant residuals in disinfected systems).
+• In disinfected systems, concentrations of the disinfectant could be increased, service
+  tanks could be chlorinated, or mains flushing could be considered.
+
+                                                                                  Annex 1     43
+     • In non-disinfected systems, consider chlorination as a temporary emergency measure.
+     • Where corrective actions are taken, further samples should be collected to verify
+       they have been effective.
+     • If E. coli is detected in repeat samples, or if faults are identified that could lead to
+       repeat events, the health regulator should be notified to enable further action to
+       be determined.
+
+     Guidance following exceedance of chemical and radiological parameters
+     Exceedance of chemical or radiological parameters should be a signal, as a minimum, to:
+     • Collect further samples to confirm exceedances and assess the persistence of the
+       chemical or radionuclide.
+     • Investigate the cause with a view to taking remedial action as necessary.
+     • Consult the authority responsible for public health for advice on suitable action,
+       taking into account the extent of exceedance, duration of exceedance, intake of the
+       substance from sources other than drinking-water, the toxicity of the substance, the
+       likelihood and nature of any adverse effects, the practicality of remedial measures
+       and the availability of alternative water supplies.
+
+     Chemicals almost invariably require long-term exposure to high levels to cause health
+     effects and, generally, there is a substantial margin of safety built into the GDWQ
+     guideline values. Therefore, exceedance does not necessarily imply health effects and
+     the extent of any health impact depends on the value and duration of the exceedance.
+     Refer to Annex 2 for guidance in assessing risks to health from chemical contaminants.
+
+     These general principles are also applicable to radiological parameters. However,
+     confirmed exceedance of the screening value should trigger a more detailed investigation
+     to determine which radionuclides are present.
+
+
+
+
+44   Developing drinking-water quality regulations and standards
+Annex 2
+Implications of exceeding chemical guideline
+values
+
+This annex provides guidance on how to assess the health risks if monitoring indicates
+that the GDWQ guideline value or national/subnational parameter limit is exceeded.
+This guidance may also be useful in tailoring the GDWQ guideline values to national
+contexts.
+
+This annex does not attempt to give guidance on acute values in emergencies or in
+rapid responses.
+
+In assessing health risks, it should be remembered that chemical guideline values in the
+GDWQ are generally conservative with respect to the health endpoints considered.
+For example, values for threshold chemicals1 are based on the most sensitive endpoint,
+incorporate large safety factors, and generally assume lifetime continuous exposure
+at the guideline value concentration. Values for non-threshold chemicals (usually
+genotoxic carcinogens) are based on potentially causing less than one excess cancer
+per 100 000 people after 70 continuous years of exposure at the guideline value
+concentration using conservative models.
+
+Assessing risks to health from chemical contaminants
+Stage 1 is to determine the magnitude of exceedance against the GDWQ guideline
+value or the parameter limit established in the drinking-water quality regulations and
+standards.
+
+Stage 2 is to determine the expected period of exposure to the elevated level and
+whether it is short term (e.g. hours or days) or longer term (e.g. weeks, months or
+years).
+
+GDWQ guideline values are generally protective for lifetime exposure. For these
+chemicals, when the guideline value is exceeded for a shorter period, a small exceedance
+is unlikely to result in any discernible increase in risk.
+
+When a longer term exceedance is anticipated, there will be a need to consider either
+issuing public notification or a derogation allowing the exceedance for a period, during
+
+
+1
+    Threshold chemicals are those chemicals for which a level of exposure exists below which adverse effects will not occur even after a long-term
+    exposure.
+
+
+                                                                                                                                        Annex 2      45
+     which action can be taken to remedy the situation. A derogation should only be
+     granted following an assessment of the risk to public health, and usually there will be
+     a specified period allowed to remedy the problem. In some exceptional cases, often
+     with small supplies, a derogation may be allowed for an extended period, but should
+     be reviewed at intervals.
+
+     Stage 3 is to review the assumptions and uncertainties involved in the derivation of
+     the GDWQ guideline value or parameter limit, including:
+     • Assumed exposure from drinking-water compared with other sources of
+       exposure: Where the guideline value or parameter limit was derived assuming a
+       proportion of a TDI or ADI allocated to drinking-water,1 it may be appropriate to
+       adjust the proportion allocated to drinking-water, which will impact the concentration
+       considered safe in drinking-water. The allocation assumed in the GDWQ is typically
+       20%, although there can be variation depending on the substance. Where exposure
+       from other sources is less than assumed, it is possible to increase the allocation to
+       drinking-water to derive a new value against which to compare the concentration
+       of the parameter detected. For example, the GDWQ guideline value for barium of
+       1.3 mg/l is based on the allocation of 20% of a TDI of 0.21 mg/kg body weight for a
+       60 kg adult drinking 2 litres of water, and is based on a lifetime study in laboratory
+       animals. If less barium is believed to be coming from other exposure routes than
+       assumed in the GDWQ, allowing an allocation of 30% of the TDI to come from
+       water would allow a parameter limit of 1.9 mg/l, or potentially 2 mg/l after rounding.
+       Another example could be carbon tetrachloride, which was widely used as an industrial
+       solvent and degreasing agent and is found as a contaminant in some groundwaters
+       impacted by poor disposal practices. The GDWQ guideline value is based on an
+       allocation of 10% of the TDI to drinking-water. However, exposure from food has
+       fallen significantly in most countries, therefore it may be appropriate to increase
+       the allocation of the TDI to drinking-water, taking into account actual exposure.
+     • Considerations for non-threshold chemicals: As noted earlier, the models used
+       to derive these guideline values are often conservative. The models compute an
+       estimate of risk at a particular level of exposure, along with upper and lower bounds
+       of confidence on the calculation. The lower bound may be zero or below zero, and
+       the GDWQ guideline values are set according to the upper-bound value. This value
+       does not equate to the number of cases of cancer that will be caused by exposure
+       to the substance at this level; rather, it is the maximum potential risk, and it is highly
+       probable that the actual level of risk is less than this.
+
+
+
+     1
+         ADI or TDI cover exposure from all sources, e.g. food, water, air, soil and consumer products.
+
+
+
+
+46   Developing drinking-water quality regulations and standards
+In establishing drinking-water quality regulations and standards, countries may
+consider that a different level of hypothetical risk is more appropriate than less than
+one excess cancer per 100 000 people (risk level of 10-5) after 70 continuous years
+of exposure, which is the risk level associated with these GDWQ guideline values.
+The guideline values could be multiplied or divided by 10, relating to a risk level of
+10-4 or 10-6, respectively. At the lower risk level, this may also require consideration
+of non-cancer endpoints. However, as indicated, a small exceedance may not have
+any (or only marginal) public health implications.
+
+
+
+
+                                                                               Annex 2     47
+     Annex 3
+     Additional microbial indicators
+
+     This annex presents information on coliform bacteria and heterotrophic plate counts
+     (HPCs), particularly their value and limitations as indicators of drinking-water quality.
+     For more information on these and other microbial indicators, see Chapter 7.4 of the
+     GDWQ, the microbial fact sheets in Chapter 11 of the GDWQ and Assessing microbial
+     safety of drinking water: Improving approaches and methods (OECD, WHO, 2003).
+
+     Coliform bacteria
+     Coliform bacteria include a wide range of bacteria traditionally defined by their
+     ability to produce acid from lactose or demonstrate the presence of ß-galactosidase
+     enzyme on laboratory media at 35°–37°C. Coliform bacteria occur in both sewage
+     and natural waters and some, such as E. coli, are excreted in the faeces of humans and
+     other animals. However, because the coliform bacteria group includes organisms that
+     can survive and grow in water and plumbing systems, total coliforms are not a useful
+     indicator of faecal pathogens and are of limited value in standards.
+
+     Coliform bacteria can be a useful operational indicator, however. Coliform bacteria
+     can be used to assess the cleanliness and integrity of distribution systems, as their
+     presence can reveal regrowth and possible biofilm formation or contamination through
+     the ingress of foreign material, including soil or plant material. Also, their presence
+     immediately after disinfection indicates inadequate treatment. In the absence of E. coli,
+     their presence in treated water samples may indicate a need to further investigate the
+     cause of contamination rather than holding any significance as a contravention of a
+     specified numerical value for compliance. If the drinking-water supply is not disinfected,
+     coliform bacteria may be detected regularly.
+
+     Heterotrophic plate counts (colony counts)
+     HPCs will detect a wide range of heterotrophic microorganisms, including bacteria and
+     fungi, based on the ability of the microorganisms to grow on the particular medium
+     and at a defined temperature in the time period used for measurement. HPCs have
+     no value as an indicator of the presence of faecal contamination or pathogens but
+     can be useful, and are better than total coliforms, for operational monitoring of the
+     efficacy of treatment processes (including disinfection) and the integrity of distribution
+     systems. However, they are not a high priority where resources for monitoring are
+     limited. HPC results can be highly variable and actual numerical counts are of limited
+
+
+
+
+48   Developing drinking-water quality regulations and standards
+value, but the range of counts from regular sampling at particular locations within
+the distribution system using the same analytical method can be useful. Changes of an
+order of magnitude from an expected normal range may be an indication of a problem
+with treatment or the distribution system, which requires investigation.
+
+
+
+
+                                                                             Annex 3    49
+     Annex 4
+     Practical guidance on selected chemical and
+     acceptability parameters
+
+     This annex provides practical general guidance on some parameters for which questions
+     are often raised by those developing drinking-water quality regulations and standards.
+     This list is not exhaustive. Inclusion of a parameter in this annex does not imply that
+     the parameter would typically be a candidate for inclusion in regulations and standards.
+
+     For the parameters in this annex, and all other parameters of interest, more information
+     can be obtained from:
+     • GDWQ: Acceptability aspects (Chapter 10): In addition to biologically derived
+       contaminants, this chapter provides additional information on 26 chemically derived
+       contaminants than can result in acceptability issues.
+     • GDWQ: Chemical fact sheets (Chapter 12): This chapter includes a summary
+       of occurrence and health information for over 140 chemicals. Where a guideline
+       value has been derived, information on analytical methods and treatment are also
+       included. Further details on these chemicals are included in the chemical background
+       documents that informed the development of these fact sheets (see: http://www.
+       who.int/water_sanitation_health/water-quality/guidelines/chemicals/en/#B).
+     • Chemical safety of drinking-water: Assessing priorities for risk management
+       (WHO, 2007): Appendix 4 (Practical comments on selected parameters) provides
+       some guidance on 51 contaminants, including monitoring advice, based on broad
+       experience worldwide.
+
+     Algal toxins: Blue-green algae (cyanobacteria) can occur in large numbers (called
+     blooms) in surface water bodies used for water supply. Some species of cyanobacteria
+     contain toxins of concern for human health (e.g. microcystins) and these toxins can be
+     released into the drinking-water when the algal cells are damaged. There is a range of
+     toxins and it is probable that not all of the toxins have been identified. These toxins
+     can be difficult to analyse at low concentrations in water. There are treatments to
+     remove the toxins but these require careful assessment and operation so prevention is
+     the primary management approach. Where heavy blooms occur, it is best to consider
+     alternative sources of water unless appropriate and validated treatment is available. It
+     is not usually considered necessary to monitor for toxins as the presence of blooms
+     can be observed visually in water bodies.
+
+
+
+
+50   Developing drinking-water quality regulations and standards
+Arsenic: Arsenic is commonly found in groundwater in many parts of the world at
+high concentrations. It is the only substance that has been proven to be a cause of
+cancer in humans as a consequence of exposure through drinking-water. There is a
+great deal of uncertainty as to the concentration that is a practical no effect level and
+the basis of the GDWQ guideline value is practical achievability. Every effort should
+therefore be made to keep concentrations as low as reasonably possible and below
+the guideline value when resources are available. However, achievability may carry a
+very heavy cost in relation to small supplies in particular, but also for larger municipal
+supplies. See Box 8.2 for an example from Bangladesh of setting the national parameter
+limit for arsenic at a higher level than the GDWQ guideline value on the basis of a local
+health risk assessment. Ideally, it is important that the guideline value be retained as
+a long-term goal and that the standard is included in a process of improvement that
+will provide an equitable outcome for all consumers.
+
+Where arsenic-rich water is used to irrigate crops such as rice, exposure may be
+increased through accumulation in the crop. Under these circumstances, achievability
+and practicality are important and there is an argument for differentiation between
+large municipal supplies and small supplies and for stepped changes in drinking-water
+quality regulations and standards to allow time for the introduction of appropriate
+interventions.
+
+Where concentrations are likely to be stable (i.e. deep groundwater), monitoring would
+normally only need to take place infrequently. Where water supplies for populations
+are subject to treatment to remove arsenic, samples are normally best taken at the
+treatment works, where the frequency of monitoring should be sufficient to ensure
+that the process is effective.
+
+Asbestos: Asbestos fibres can be found in water naturally and from asbestos cement
+pipes. There is little credible evidence of health effects arising from waterborne
+asbestos. However, asbestos cement pipe deteriorates as the cement is leached away
+and this results in threats to the integrity of the pipe. While it is not recommended
+that existing asbestos cement pipes are removed, it is not considered appropriate to
+lay new asbestos cement pipe. It is not recommended to monitor for asbestos fibres.
+
+Disinfectants and disinfection by-products: Chlorine is often used to provide a
+residual disinfectant in water supply systems to help maintain the hygienic status of
+the distribution system. A free chlorine residual of at least 0.2 mg/l throughout the
+distribution system is generally considered optimal under normal conditions, increasing
+to greater than 0.5 mg/l during faecal contamination events or potential waterborne
+disease outbreaks.
+
+
+
+                                                                                 Annex 4     51
+     Chlorine can react with natural organic matter to produce unwanted by-products such
+     as THMs. WHO emphasises that disinfection efficacy should never be compromised by
+     attempts to meet standards for DBPs. It is important to try and minimize by-product
+     formation by removing as much organic matter as possible by optimizing coagulation
+     and sedimentation where organic concentrations are elevated, such as in many surface
+     sources. However, standards for DBPs are not as high a priority as other contaminants
+     such as arsenic and fluoride. It should be noted that many countries have established
+     standards for total THMs and total HAAs at about 100 and 80 µg/l, respectively. Both
+     THMs and HAAs change in distribution. Where hypochlorite is used as a source of
+     free chlorine, it may deteriorate to produce high concentrations of chlorate. While
+     standards may not be a high priority, it may be appropriate to specify that appropriate
+     management procedures should be implemented, such as not storing for longer than
+     necessary and not mixing old and new hypochlorite. See the GDWQ chemical fact
+     sheet in Chapter 12 (WHO, 2017a) for additional information.
+
+     Fluoride: Fluoride is found in many parts of the world, particularly in groundwater.
+     Fluoride can cause adverse effects on teeth and bones and, at very high concentrations,
+     can cause crippling skeletal malformation called skeletal fluorosis. WHO suggests a
+     guideline value of 1.5 mg/l to avoid discolouration of tooth enamel, but the value
+     depends on the intake of water and the potential for exposure from other sources
+     such as food. WHO has assessed fluoride and has suggested that significant effects
+     are unlikely if the intake is less than 6 mg fluoride per day, but that above an intake
+     of 14 mg fluoride per day, there is clear evidence for an increasing risk of adverse
+     skeletal effects.
+
+     Understanding the likely exposure from other sources is important. For example, if
+     a large amount of brick tea is consumed as a beverage, this may be high in fluoride.
+     Where crops are irrigated with water with high concentrations of fluoride, there
+     may be some accumulation of fluoride in food, e.g. rice. See Box 8.2 for an example
+     from India where fluoride intake is managed in part by reducing fluoride levels in
+     irrigation water.
+
+     Lead: In the case of a contaminant such as lead, which primarily comes from plumbing,
+     solder or fittings containing lead in buildings, the concentration will vary according to
+     the period that the water has been in contact with the lead bearing material. Therefore,
+     it is not possible to make an assessment of the potential risk to consumers from just
+     one sample or one property. Assessment of the risk requires consideration of exposure
+     of the most vulnerable groups (usually bottle-fed infants and small children) over a
+     period of several days, as it is the average exposure of an individual that is important.
+     This is particularly important because the lead guideline value is not based on health
+     but on practical considerations, and lead concentrations should be maintained as low
+
+52   Developing drinking-water quality regulations and standards
+as reasonably practical. New sources of lead should not be introduced and low lead
+alloy fittings should be used both in repairs and new installations.
+
+Nitrate: Nitrate can reach surface and groundwater from agricultural activities, such
+as spreading manure or excessive application of other nitrogen-rich fertilizers. It can
+also come from poorly sited and maintained latrines and septic tanks. High nitrate
+and nitrite concentrations well above the guideline value can give rise to blue-baby
+syndrome in bottle-fed infants, particularly where there is endemic diarrhoea in infants.
+It is therefore important to maintain good microbiological quality where nitrate and
+nitrite levels are elevated. Nitrite and nitrate need to be considered together, but
+monitoring for nitrite is difficult because formation will be in the distribution system.
+Nitrate levels in surface waters can change quite quickly, but levels in groundwater
+usually change very slowly unless the groundwater is heavily influenced by surface water.
+
+Parameters affecting acceptability
+Aluminium: Aluminium can occur in raw water, but the most important source is from its
+use as a coagulant in drinking-water treatment. There is no guideline value for aluminium
+in the GDWQ, but high concentrations reaching the distribution system can result in
+deposits of aluminium flocs, which cause unacceptable turbidity or discolouration at the
+tap if they are disturbed. Concentrations can normally be maintained below 0.2 mg/l, and
+less than 0.1 mg/l should be easily achievable in well-run large treatment works. Control
+is best achieved by optimizing coagulation and filtration, which are important barriers
+against pathogenic microorganisms. Monitoring of aluminium is sometimes carried out
+in the final water from treatment works for operational reasons.
+
+Ammonia: Ammonia can be present in some drinking-water sources. Although it is
+of no direct risk to health, it readily combines with free chlorine to form chloramines,
+which are not as effective as primary disinfectants, and which can give rise to
+unacceptable tastes if certain chloramines (e.g. dichloramine or trichloramine) are
+formed. Ammonia is occasionally found in distribution systems where chloramine
+is used as a residual disinfectant and if the process of producing chloramine is not
+sufficiently well controlled. Monitoring could be carried out in the final water from
+treatment works, but other parameters (e.g. free chlorine) are normally considered
+to be more important.
+
+Conductivity: Conductivity is a measure of the inorganic ion content of water and is
+not of direct concern for health. High conductivity may be an indicator of acceptability
+in high total dissolved solids (TDS) waters, and sudden changes can be an indicator
+of pollution or ingress into distribution. It may therefore be a useful indicator or
+operational parameter.
+
+
+                                                                                Annex 4     53
+     Dissolved oxygen: Dissolved oxygen is an indicator parameter and measurement
+     can be used in a relative, not absolute, sense. It would not normally be a candidate
+     for standard setting.
+
+     Hardness: Hardness is a natural feature of water, reflecting calcium and magnesium,
+     as carbonates, bicarbonates and sulphates. It is normally very stable. It can cause
+     scale formation in distribution systems and plumbing in buildings, but it is not of
+     consideration for health.
+
+     Manganese and iron: Both occur naturally, ferric salts are used as coagulants, and
+     iron can arise in distribution due to the corrosion of cast-iron pipes. Both metals
+     can give rise to deposition in distribution with discolouration of water that may be
+     unacceptable to consumers. There is new evidence that high manganese in drinking-
+     water, where it remains in solution, such as in some anaerobic groundwaters, may
+     have an adverse impact on learning capacity in young children, although there remain
+     many uncertainties. WHO has proposed a health-based value and the lack of a
+     formal guideline value does not mean that manganese is of no concern when soluble
+     manganese concentrations are elevated. Furthermore, it should be noted that the
+     health-based value is above concentrations of manganese normally causing acceptability
+     problems in drinking-water and, accordingly, aesthetic as well as health aspects should
+     be considered when setting drinking-water quality regulations and standards, and
+     confirming the acceptability of drinking-water. Monitoring of manganese is only likely
+     to be required for operational reasons where a potential problem has been identified,
+     in which case, final water from the treatment works would normally be the most
+     appropriate sample site. In some acidic or anaerobic groundwaters, manganese may
+     stay in solution, even at levels exceeding 0.1 mg/l – the level that can cause impacts
+     on taste and staining of laundry. However, these are normally smaller supplies and
+     they may still be acceptable to consumers. Under these circumstances there may be a
+     requirement to set a health-based standard and to instigate some form of monitoring
+     to ensure control measures are working.
+
+     Iron is controlled at the treatment works by optimizing treatment, and in distribution
+     systems by a structured programme of maintenance. Iron is rarely a direct health concern
+     in water. Monitoring is normally for operational reasons but may be undertaken in
+     the final water from the treatment works, and in the distribution system.
+
+     pH: pH is an important operational parameter, particularly in terms of the effectiveness
+     of chlorination or the optimization of coagulation. It can be an important factor
+     in corrosion of metals in distribution systems and plumbing, but it is not of direct
+     concern for health.
+
+
+
+54   Developing drinking-water quality regulations and standards
+Taste and odour: Taste and odour are important for acceptability and drinking-water
+should be acceptable to consumers. There are many factors that can impact taste or
+odour that are not normally of direct concern for health, including chloride, sulfate,
+hydrogen sulphide and some cyanobacteria.
+
+Total organic carbon: Total organic carbon (TOC) is a measure of the amount of
+dissolved organic carbon in water. It is non-specific and is not of direct concern for
+health, but sudden changes can be an operational indicator of pollution and high TOC
+is often reflected by high DBPs.
+
+Turbidity: Turbidity is an important operational parameter as an indicator of the
+efficiency of the treatment processes coagulation, sedimentation and filtration. Removal
+of turbidity improves the effectiveness of chlorination, can help to minimize the
+formation of DBPs, and is an indicator of the removal of microorganisms in filtration.
+High turbidity at 4 NTU (nephelometric turbidity unit) and above can be seen by
+consumers and may be unacceptable at the tap. However, efforts should be made
+to reduce turbidity as much as possible through treatment and before distribution.
+Large, well-run municipal supplies should be able to achieve less than 0.5 NTU before
+disinfection at all times and an average of 0.2 NTU or less, irrespective of source
+water type and quality. For further information on uses and significance of turbidity
+in drinking-water, including turbidity targets for filtration and disinfection, as well as
+guidance on monitoring frequency, see Water quality and health – Review of turbidity:
+Information for regulators and operators of water supplies (WHO, 2017c).
+
+
+
+
+                                                                                 Annex 4     55
+     References
+     OECD, WHO (2003). Assessing microbial safety of drinking water: Improving
+     approaches and methods. Published on behalf of the World Health Organization and
+     the Organisation for Economic Co-operation and Development by IWA Publishing,
+     London, UK (http://www.who.int/water_sanitation_health/publications/9241546301/
+     en/, accessed 27 February 2018).
+
+     US EPA (1997). Information Collection Rule Federal Database. EPA 816 F-97-013.
+     Office of Water, United States Environmental Protection Agency.
+
+     WHO (2006). Protecting groundwater for health: Managing the quality of drinking-water
+     sources. Geneva: Word Health Organization (http://www.who.int/water_sanitation_
+     health/publications/protecting_groundwater/en/, accessed 22 February 2018).
+
+     WHO (2007). Chemical safety of drinking-water: Assessing priorities for risk management.
+     Geneva: World Health Organization (http://www.who.int/water_sanitation_health/
+     publications/dwchem_safety/en/, accessed 22 February 2018).
+
+     WHO (2011). Arsenic in drinking-water. Background document for development of
+     WHO Guidelines for drinking-water quality. Geneva: World Health Organization
+     (http://www.who.int/water_sanitation_health/publications/arsenic/en/, accessed 18
+     March 2018).
+
+     WHO (2012). Water safety planning for small community water supplies: Step-by-step
+     risk management guidance for drinking-water supplies in small communities. Geneva:
+     World Health Organization (http://www.who.int/water_sanitation_health/publications/
+     small-comm-water_supplies/en/, accessed 22 February 2018).
+
+     WHO (2014). Water safety in distribution systems. Geneva: World Health Organization
+     (http://www.who.int/water_sanitation_health/publications/water-safety-in-distribution-
+     system/en/, accessed 23 February 2018).
+
+     WHO (2016). Protecting surface water for health: Identifying, assessing and managing
+     drinking-water quality risks in surface-water catchments (http://www.who.int/water_
+     sanitation_health/publications/pswh/en/, accessed 22 February 2018).
+
+     WHO (2017a). Guidelines for drinking-water quality. Fourth edition incorporating
+     the first addendum. Geneva: World Health Organization (http://www.who.int/
+     water_sanitation_health/publications/drinking-water-quality-guidelines-4-including-
+     1st-addendum/en/, accessed 22 February 2018).
+
+
+
+
+56   Developing drinking-water quality regulations and standards
+WHO (2017b). Water safety planning: A roadmap to supporting resources. Geneva:
+World Health Organization (http://www.who.int/water_sanitation_health/publications/
+water-safety-planning-roadmap/en/, accessed 19 April 2018).
+
+WHO (2017c). Water quality and health – Review of turbidity: Information for
+regulators and operators of water supplies. Geneva: World Health Organization
+(http://www.who.int/water_sanitation_health/publications/turbidity-technical-brief/
+en/, accessed 26 February 2018).
+
+WHO (2018a). A global overview of national regulations and standards for drinking-water
+quality. Geneva: World Health Organization (http://who.int/entity/water_sanitation_
+health/publications/national-regulations-and-standards-for-drinking-water-quality/en/,
+accessed 9 May 2018).
+
+WHO (2018b). Management of radioactivity in drinking-water. Geneva: World Health
+Organization (http://who.int/entity/water_sanitation_health/publications/management-
+of-radioactivity-in-drinking-water/en/).
+
+WHO & IWA (2009). Water safety plan manual. Geneva: World Health Organization
+(http://www.who.int/water_sanitation_health/publications/publication_9789241562638/
+en/, accessed 22 February 2018).
+
+WHO & IWA (2016). A practical guide to auditing water safety plans. Geneva: World
+Health Organization (http://www.who.int/water_sanitation_health/publications/auditing-
+water-safety-plans/en/, accessed 22 February 2018).
+
+
+
+
+                                                                            References    57
+For more information, contact:
+
+World Health Organization
+Water, Sanitation, Hygiene and Health            ISBN 978 92 4 151394 4
+20, Avenue Appia
+1211 Geneva 27
+Switzerland
+
+E-mail: gdwq@who.int
+
+http://www.who.int/water_sanitation_health/en/
+

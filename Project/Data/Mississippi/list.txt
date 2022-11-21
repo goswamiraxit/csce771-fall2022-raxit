@@ -1,0 +1,289 @@
+Amitraz
+Chlorobenzilate
+Chlorothalonil
+Cypermethrin
+Deltamethrin
+Diazinon
+Dinoseb
+Ethylene thiourea
+Fenamiphos
+Formothion
+Hexachlorocyclohexanes
+MCPBa
+Methamidophos
+Methomyl
+Mirex
+Monocrotophos
+Oxamyl
+Phorate
+Propoxur
+Pyridate
+Quintozene
+Toxaphene
+Triazophos
+Trichlorfon
+Aluminium
+Ammonia
+Anatoxins
+Asbestos
+Bentazone
+Beryllium
+Bromide
+Bromochloroacetate
+Bromochloroacetonitrile
+Bacillus thuringiensis israelensis
+BTI
+Carbaryl
+Chloral hydrate
+Chloride
+Chlorine dioxide
+Chloroacetones
+2-Chlorophenol
+Chloropicrin
+Cyanide
+Cyanogen chloride
+Dibromoacetate
+Dichloramine
+1,3-Dichlorobenzene
+1,1-Dichloroethane
+1,1-Dichloroethene
+2,4-Dichlorophenol
+1,3-Dichloropropane
+Dichlorvos
+Dicofol
+Di(2-ethylhexyl)adipate
+Diflubenzuron
+Diquat
+Endosulfan
+Fenitrothion
+Fluoranthene d
+Formaldehyde
+Glyphosate and AMPAe
+Hardness
+Heptachlor and heptachlor
+epoxide
+Hexachlorobenzene
+Hydrogen sulfide
+Inorganic tin
+Iodine
+Iron
+Malathion
+MCPAf
+Methoprene
+Methyl parathion
+Methyl tertiary-butyl ether
+MTBE
+Molybdenum
+Monobromoacetate
+Monochlorobenzene
+MX
+Nitrobenzene
+Novaluron
+TBT
+TPT
+DBT
+DOT
+MMT
+DMT
+DMTC
+Parathion
+Permethrin
+Petroleum products
+pH
+2-Phenylphenol and its sodium salt
+Pirimiphos-methyl
+Potassium
+Propanil
+Pyriproxyfen
+Silver
+Sodium
+Spinosad
+Sulfate
+Temephos
+Trichloramine
+Trichloroacetonitrile
+Trichlorobenzenes
+1,1,1-Trichloroethane
+Zinc
+Acrylamide
+Alachlor
+Aldicarb
+Aldrin and dieldrin
+Antimony
+Arsenic
+Atrazine and its chloro-s-triazine metabolites
+Barium
+Benzene
+Benzo[a]pyrene
+Boron
+Bromate
+Bromodichloromethane
+Bromoform
+Cadmium
+Carbofuran
+Carbon tetrachloride
+Chlorate
+Chlordane
+Chlorine
+Chlorite
+Chloroform
+Chlorotoluron
+Chlorpyrifos
+Chromium
+Copper
+Cyanazine
+Cylindrospermopsins
+2,4-D
+2,4-DB
+DDT
+Dibromoacetonitrile
+Dibromochloromethane
+1,2-Dibromo-3-chloropropane
+1,2-Dibromoethane
+Dichloroacetate
+Dichloroacetonitrile
+1,2-Dichlorobenzene
+1,4-Dichlorobenzene
+1,2-Dichloroethane
+1,2-Dichloroethene
+Dichloromethane
+1,2-Dichloropropane
+1,3-Dichloropropene
+Dichlorprop
+Di(2-ethylhexyl)phthalate
+Dimethoate
+1,4-Dioxane
+Edetic acid
+Endrin
+Epichlorohydrin
+Ethylbenzene
+Fenoprop
+Fluoride
+Hexachlorobutadiene
+Hydroxyatrazine
+Isoproturon
+Lead
+Lindane
+Manganese
+Mecoprop
+Mercury
+Methoxychlor
+Metolachlor
+Microcystins
+Molinate
+Monochloramine
+Monochloroacetate
+Nickel
+Nitrate
+NO3
+Nitrilotriacetic acid
+Nitrite
+NO2
+N-Nitrosodimethylamine
+Pendimethalin
+Pentachlorophenol
+Saxitoxins
+Selenium
+Simazine
+dichloroisocyanurate
+Styrene
+2,4,5-T
+Terbuthylazine
+Tetrachloroethene
+Toluene
+Trichloroacetate
+Trichloroethene
+2,4,6-Trichlorophenol
+Trifluralin
+Trihalomethanes
+Uranium
+Vinyl chloride
+Xylenes
+TN
+NH3
+NOx
+TP
+OP
+DO
+Cond
+TempW
+Alk
+As
+Cd
+Ca
+C
+Cl
+ChlaC
+Chla
+Cr
+Cu
+TDS
+Ecoli
+F
+Fe
+Pb
+Mg
+Ni
+TKN
+Pheo
+K
+Ag
+Na
+SO4
+TSS
+Color
+Turb
+Zn
+Secchi
+Salinity
+24D
+Al
+Sb
+Ba
+B
+Diuron
+Endothall
+Glyphosate
+Linuron
+MCPP
+Se
+Sucralose
+Tl
+Mn
+Depth
+TOC
+BOD5
+CarbAlk
+Hardnesscarbonate
+Si
+gamma-BHC (Lindane)
+Lead, Total Dissolved
+Mercury (II), Total Dissolved
+Mercury
+Nickel, Total Dissolved
+Phenol
+Pentachlorophenol
+Total PCB
+Selenium, Total Dissolved
+Silver, Total Dissolved
+Toxaphene
+Zinc, Total Dissolved
+Aldrin
+Ammonia
+Arsenic (III), Total Dissolved
+Arsenic, Total Dissolved
+Cadmium, Total Dissolved
+Chlordane
+Chlorine
+Chromium (Hex), Total Dissolved
+Chromium (III), Total Dissolved
+Copper, Total Dissolved
+Cyanide
+4,4 DDT
+Dieldrin
+2,3,7,8 TCDD (Dioxin)
+alpha-Endosulfan
+beta-Endosulfan
+Endosulfan Sulfate
+Endrin
+Heptachlor

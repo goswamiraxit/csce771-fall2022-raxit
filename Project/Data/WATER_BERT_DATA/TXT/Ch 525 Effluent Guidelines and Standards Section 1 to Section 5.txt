@@ -1,0 +1,1908 @@
+06 096 Me. Code R. Ch. 525 § 1 References to Federal Regulations
+     and definitions. (Code of Maine Rules (2021 Edition))
+
+
+Section 1. References to Federal Regulations and definitions.
+
+Portions of this rule refer to federal regulations of the United States
+Environmental Protection Agency (EPA). Unless otherwise specified, the
+federal regulations referenced are those regulations effective as of July 1,
+1998, as they appear in volume 40 of the Code of Federal Regulations (CFR).
+Definitions for terms used in this rule may be found Chapter 520. Where the
+terms "Part" or "Sec." appear in this rule, they mean the specific Part or
+Section of 40 CFR which is referenced.
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+Section 2. Toxic Pollutants. [see 40 CFR 129]
+
+Subsection I. Scope and purpose. [see 40 CFR 129.1]
+
+(a) The provisions of this section apply to owners or operators of specified
+facilities discharging into navigable waters.
+
+(b) The effluent standards or prohibitions for toxic pollutants established in
+this section shall be applicable to the sources and pollutants hereinafter set
+forth, and may be incorporated in any NPDES permit, modification or
+renewal thereof, in accordance with the provisions of this section.
+
+(c) The provisions of 40 CFR parts 124 and 125 shall apply to any NPDES
+permit proceedings for any point source discharge containing any toxic
+pollutant for which a standard or prohibition is established under this
+Chapter.
+
+Subsection II Definitions. [see 40 CFR 129.2]
+
+All terms not defined herein shall have the meaning given them in the Act or
+in chapter 520. As used in this section, the term:
+
+(a) Act means the Federal Water Pollution Control Act, as amended (Pub. L.
+92-500, 86 Stat. 816 et seq., 33 U.S.C. 1251 et seq.). Specific references to
+sections within the Act will be according to Pub. L. 92-500 notation.
+
+(b) Administrator means the Administrator of the Environmental Protection
+Agency or any employee of the Agency to whom the Administrator may by
+order delegate the authority to carry out his or her functions under section
+307(a) of the Act, or any person who shall by operation of law be authorized
+to carry out such functions.
+
+(c) Effluent standard means, for purposes of section 307 of the Act, the
+equivalent of effluent limitation as that term is defined in section 502(11) of
+the Act with the exception that it does not include a schedule of compliance.
+
+(d) Prohibited means that the constituent shall be absent in any discharge
+subject to these standards, as determined by any analytical method.
+
+(e) (not in use)
+
+(f) Working day means the hours during a calendar day in which a facility
+discharges effluents subject to this Chapter.
+
+(g) Ambient water criterion means that concentration of a toxic pollutant in
+a navigable water that, based upon available data, will not result in adverse
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+impact on important aquatic life, or on consumers of such aquatic life, after
+exposure of that aquatic life for periods of time exceeding 96 hours and
+continuing at least through one reproductive cycle; and will not result in a
+significant risk of adverse health effects in a large human population based
+on available information such as mammalian laboratory toxicity data,
+epidemiological studies of human occupational exposures, or human
+exposure data, or any other relevant data.
+
+(h) New source means any source discharging a toxic pollutant, the
+construction of which is commenced after proposal of an effluent standard
+or prohibition applicable to such source if such effluent standard or
+prohibition is thereafter promulgated in accordance with section 307 of the
+Act.
+
+(i) Existing source means any source which is not a new source as defined
+above.
+
+(j) Source means any building, structure, facility, or installation from which
+there is or may be the discharge of toxic pollutants designated as such by the
+Administration under section 307(a)(1) of the Act.
+
+(k) (not in use)
+
+(l) Construction means any placement, assembly, or installation of facilities
+or equipment (including contractual obligations to purchase such facilities
+or equipment) at the premises where such equipment will be used, including
+preparation work at such premises.
+
+(m) Manufacturer means any establishment engaged in the mechanical or
+chemical transformation of materials or substances into new products
+including but not limited to the blending of materials such as pesticidal
+products, resins, or liquors.
+
+(n) Process wastes means any designated toxic pollutant, whether in
+wastewater or otherwise present, which is inherent to or unavoidably
+resulting from any manufacturing process, including that which comes into
+direct contact with or results from the production or use of any raw material,
+intermediate product, finished product, by-product or waste product and is
+discharged into the navigable waters.
+
+(o) Air emissions means the release or discharge of a toxic pollutant by an
+owner or operator into the ambient air either (1) by means of a stack or (2)
+as a fugitive dust, mist or vapor as a result inherent to the manufacturing or
+formulating process.
+06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+            (Code of Maine Rules (2021 Edition))
+
+
+(p) Fugitive dust, mist or vapor means dust, mist or vapor containing a toxic
+pollutant regulated under this Chapter which is emitted from any source
+other than through a stack.
+
+(q) Stack means any chimney, flue, conduit, or duct arranged to conduct
+emissions to the ambient air.
+
+(r) Ten year 24-hour rainfall event means the maximum precipitation event
+with a probable recurrence interval of once in 10 years as defined by the
+National Weather Service in Technical Paper No. 40, Rainfall Frequency
+Atlas of the United States, May 1961, and subsequent amendments or
+equivalent regional or State rainfall probability information developed
+therefrom.
+
+Subsection III. Abbreviations. [see 40 CFR 129.3]
+
+The abbreviations used in this Chapter represent the following terms:
+
+lb= pound (or pounds).
+
+g= gram.
+
+ug/l= micrograms per liter (1 one-millionth gram/liter).
+
+kg= kilogram(s).
+
+kkg= 1000 kilogram(s).
+
+Subsection IV. Toxic pollutants. [see 40 CFR 129.4]
+
+The following are the pollutants subject to regulation under the provisions of
+this section:
+
+(a) Aldrin/Dieldrin--Aldrin means the compound aldrin as identified by the
+chemical name, 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro -1,4 -
+endo-5,8-exo-dimethanonaphthalene; ``Dieldrin'' means the compound the
+dieldrin as identified by the chemical name 1,2,3,4,10,10-hexachloro-6,7 -
+epoxy - 1,4,4a,5,6,7,8,8a-octahydro-1,4-endo-5,8-exo-
+dimethanonaphthalene.
+
+(b) DDT--DDT means the compounds DDT, DDD, and DDE as identified by
+the chemical names:(DDT)-1,1,1-trichloro-2,2 - bis(p -chlorophenyl)ethane
+and someo,p'-isomers; (DDD) or (TDE) -1,1 - dichloro - 2,2-bis(p-
+chlorophenyl) ethane and some o,p'-isomers; (DDE) - 1,1 -dichloro-2,2-
+bis(p-chlorophenyl) ethylene.
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+(c) Endrin--Endrin means the compound endrin as identified by the
+chemical name 1,2,3,4,10,10-hexachloro-6,7-epoxy - 1,4,4a,5,6,7,8,8a -
+octahydro - 1,4-endo-5,8-endodimethanonaphthalene.
+
+(d) Toxaphene--Toxaphene means a material consisting of technical grade
+chlorinated camphene having the approximate formula of C10H10Cl8 and
+normally containing 67-69 percent chlorine by weight.
+
+(e) Benzidine--Benzidine means the compound benzidine and its salts as
+identified by the chemical name 4,4'-diaminobiphenyl.
+
+(f) Polychlorinated Biphenyls (PCBs) polychlorinated biphenyls (PCBs)
+means a mixture of compounds composed of the biphenyl molecule which
+has been chlorinated to varying degrees.
+
+Subsection V. Compliance. [see 40 CFR 129.5]
+
+(a)
+
+(1) Within 60 days from the date of promulgation of any toxic pollutant
+effluent standard or prohibition each owner or operator with a discharge
+subject to that standard or prohibition must notify the Department of such
+discharge. Such notification shall include such information and follow such
+procedures as the Department may require.
+
+(2) Any owner or operator who does not have a discharge subject to any
+toxic pollutant effluent standard at the time of such promulgation but who
+thereafter commences or intends to commence any activity which would
+result in such a discharge shall first notify the Department in the manner
+herein provided at least 60 days prior to any such discharge.
+
+(b) Upon receipt of any application for issuance or reissuance of a permit or
+for a modification of an existing permit for a discharge subject to a toxic
+pollutant effluent standard or prohibition the permitting authority shall
+proceed thereon in accordance with 40 CFR part 124 or 125, whichever is
+applicable.
+
+(c)
+
+(1) Every permit which contains limitations based upon a toxic pollutant
+effluent standard or prohibition under this Chapter is subject to revision
+following the completion of any proceeding revising such toxic pollutant
+effluent standard or prohibition regardless of the duration specified on the
+permit.
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+(2) For purposes of this section, all toxic pollutants for which standards are
+set under this Chapter are deemed to be injurious to human health within
+the meaning of section 402(k) of the Act unless otherwise specified in the
+standard established for any particular pollutant.
+
+(d)
+
+(1) Upon the compliance date for any section 307(a) of the Act toxic
+pollutant effluent standard or prohibition, each owner or operator of a
+discharge subject to such standard or prohibition shall comply with such
+monitoring, sampling, recording, and reporting conditions as the
+Department may require for that discharge. Notice of such conditions shall
+be provided in writing to the owner or operator.
+
+(2) In addition to any conditions required pursuant to paragraph (d)(1) of
+this subsection and to the extent not required in conditions contained in
+NPDES permits, within 60 days following the close of each calendar year
+each owner or operator of a discharge subject to any toxic standard or
+prohibition shall report to the Department concerning the compliance of
+such discharges. Such report shall include, as a minimum, information
+concerning (i) relevant identification of the discharger such as name,
+location of facility, discharge points, receiving waters, and the industrial
+process or operation emitting the toxic pollutant; (ii) relevant conditions
+(pursuant to paragraph (d)(1) of this subsection or to an NPDES permit) as
+to flow, section 307(a) of the Act toxic pollutant concentrations, and section
+307(a) of the Act toxic pollutant mass emission rate; (iii) compliance by the
+discharger with such conditions.
+
+(3) When samples collected for analysis are composited, such samples shall
+be composited in proportion to the flow at time of collection and preserved
+in compliance with requirements of the Department, but shall include at
+least five samples, collected at approximately equal intervals throughout the
+working day.
+
+(e)
+
+(1) Nothing in these regulations shall preclude a Regional Administrator
+from requiring in any permit a more stringent effluent limitation or
+standard pursuant to section 301(b)(1)(C) of the Act and implemented in
+Chapter 524 and other related provisions of 40 CFR part 125.
+
+(2) Nothing in these regulations shall preclude the Department from
+requiring in any permit a more stringent effluent limitation or standard
+pursuant to section 301(b)(1)(C) of the Act and implemented in Chapter 523
+and other related provisions of 40 CFR part 124.
+06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+            (Code of Maine Rules (2021 Edition))
+
+
+(f) Any owner or operator of a facility which discharges a toxic pollutant to
+the navigable waters and to a publicly owned treatment system shall limit
+the summation of the mass emissions from both discharges to the less
+restrictive standard, either the direct discharge standard or the pretreatment
+standard; but in no case will this paragraph allow a discharge to the
+navigable waters greater than the toxic pollutant effluent standard
+established for a direct discharge to the navigable waters.
+
+(g) In any permit hearing or other administrative proceeding relating to the
+implementation or enforcement of these standards, or any modification
+thereof, or in any judicial proceeding other than a petition for review of
+these standards pursuant to section 509(b)(1)(C) of the Act, the parties
+thereto may not contest the validity of any national standards established in
+this Chapter, or the ambient water criterion established herein for any toxic
+pollutant.
+
+Subsection VI. Adjustment of effluent standard for presence of toxic
+pollutant in the intake water. [see 40 CFR 129.6]
+
+(a) Upon the request of the owner or operator of a facility discharging a
+pollutant subject to a toxic pollutant effluent standard or prohibition, the
+Department shall give credit, and shall adjust the effluent standard(s) in
+such permit to reflect credit for the toxic pollutant(s) in the owner's or
+operator's water supply if (1) the source of the owner's or operator's water
+supply is the same body of water into which the discharge is made and if (2)
+it is demonstrated to the Department that the toxic pollutant(s) present in
+the owner's or operator's intake water will not be removed by any
+wastewater treatment systems whose design capacity and operation were
+such as to reduce toxic pollutants to the levels required by the applicable
+toxic pollutant effluent standards in the absence of the toxic pollutant in the
+intake water.
+
+(b) Effluent limitations established pursuant to this section shall be
+calculated on the basis of the amount of section 307(a) toxic pollutant(s)
+present in the water after any water supply treatment steps have been
+performed by or for the owner or operator.
+
+(c) Any permit which includes toxic pollutant effluent limitations
+established pursuant to this section shall also contain conditions requiring
+the permittee to conduct additional monitoring in the manner and locations
+determined by the Department for those toxic pollutants for which the toxic
+pollutant effluent standards have been adjusted.
+
+Subsection VII. Requirement and procedure for establishing a more
+stringent effluent limitation. [see 40 CFR 129.7]
+06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+            (Code of Maine Rules (2021 Edition))
+
+
+(a) In exceptional cases:
+
+(1) Where the Department determines that the ambient water criterion
+established in these standards is not being met or will not be met in the
+receiving water as a result of one or more discharges at levels allowed by
+these standards, and
+
+(2) Where he or she further determines that this is resulting in or may cause
+or contribute to significant adverse effects on aquatic or other organisms
+usually or potentially present, or on human health, he or she may issue to an
+owner or operator a permit or a permit modification containing a toxic
+pollutant effluent limitation at a more stringent level than that required by
+the standard set forth in these regulations. Any such action shall be taken
+pursuant to the procedural provisions of Chapters 522 and 524, as
+appropriate. In any proceeding in connection with such action the burden of
+proof and of going forward with evidence with regard to such more stringent
+effluent limitation shall be upon the Department as the proponent of such
+more stringent effluent limitation.
+
+(3) Evidence in such proceeding shall include at a minimum: Analysis using
+data and other information to demonstrate receiving water concentrations
+of the specified toxic pollutant, projections of the anticipated effects of the
+proposed modification on such receiving water concentrations, and the
+hydrologic and hydrographic characteristics of the receiving waters
+including the occurrence of dispersion of the effluent. Detailed specifications
+for presenting relevant information by any interested party may be
+prescribed in guidance documents published from time to time, whose
+availability will be announced in the Federal Register.
+
+(b) Any effluent limitation in an NPDES permit which a State proposes to
+issue which is more stringent than the toxic pollutant effluent standards
+promulgated by the Administrator is subject to review by the Administrator
+under section 402(d) of the Act. The Administrator may approve or
+disapprove such limitation(s) or specify another limitation(s) upon review of
+any record of any proceedings held in connection with the permit issuance
+or modification and any other evidence available to him or her. If he or she
+takes no action within ninety days of this receipt of the notification of the
+action of the permit issuing authority and any record thereof, the action of
+the State permit issuing authority shall be deemed to be approved.
+
+Subsection VIII. Compliance date. [see 40 CFR 129.8]
+
+(a) The effluent standards or prohibitions set forth herein shall be compiled
+with not later than one year after promulgation unless an earlier date is
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+established by the Administrator for an industrial subcategory in the
+promulgation of the standards or prohibitions.
+
+(b) Toxic pollutant effluent standards or prohibitions set froth herein shall
+become enforceable under sections 307(d) and 309 of the Act on the date
+established in paragraph (a) of this subsection regardless of proceedings in
+connection with the issuance of any NPDES permit or application therefor,
+or modification or renewal thereof.
+
+Subsection IX. Aldrin/dieldrin. [see 40 CFR 129.100]
+
+(a) Specialized definitions.
+
+(1) Aldrin/Dieldrin manufacturer means a manufacturer, excluding any
+source which is exclusively an aldrin/dieldrin formulator, who produces,
+prepares or processes technical aldrin or dieldrin or who uses aldrin or
+dieldrin as a material in the production, preparation or processing of
+another synthetic organic substance.
+
+(2) Aldrin/Dieldrin formulator means a person who produces, prepares or
+processes a formulated product comprising a mixture of either aldrin or
+dieldrin and inert materials or other diluents, into a product intended for
+application in any use registered under the Federal Insecticide, Fungicide
+and Rodenticide Act, as amended (7 U.S.C. 135, et. seq.).
+
+(b) Aldrin/dieldrin manufacturer--
+
+(1) Applicability.
+
+(i) These standards or prohibitions apply to:
+
+(A) All discharges of process wastes; and
+
+(B) All discharges from the manufacturing areas, loading and unloading
+areas, storage areas and other areas which are subject to direct
+contamination by aldrin/dieldrin as a result of the manufacturing process,
+including but not limited to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (b)(1)(ii) of this subsection; and
+
+(2) Water used for routine cleanup or cleanup of spills.
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+aldrin/dieldrin; or to storm water runoff that exceeds that from the ten year
+24-hour rainfall event.
+
+(2) Analytical method acceptable. Environmental Protection Agency method
+specified in 40 CFR part 136, except that a 1-liter sample size is required to
+increase the analytical sensitivity.
+
+(3) Effluent standard--
+
+(i) Existing sources. Aldrin or dieldrin is prohibited in any discharge from
+any aldrin/dieldrin manufacturer.
+
+(ii) New Sources. Aldrin or dieldrin is prohibited in any discharge from any
+aldrin/dieldrin manufacturer.
+
+(c) Aldrin/dieldrin formulator--
+
+(1) Applicability.
+
+(i) These standards or prohibitions apply to:
+
+(A) All discharges of process wastes; and
+
+(B) All discharges from the formulating areas, loading and unloading areas,
+storage areas and other areas which are subject to direct contamination by
+aldrin/dieldrin as a result of the formulating process, including but not
+limited to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (c)(1)(ii) of this subsection; and
+
+(2) Water used for routine cleanup or cleanup of spills.
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+aldrin/dieldrin; or to storm water runoff that exceeds that from the ten year
+24-hour rainfall event.
+
+(2) Analytical method acceptable. Environmental Protection Agency method
+specified in 40 CFR part 136, except that a 1-liter sample size is required to
+increase the analytical sensitivity.
+
+(3) Effluent standard--
+
+(i) Existing sources. Aldrin or dieldrin is prohibited in any discharge from
+any aldrin/dieldrin formulator.
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+(ii) New sources. Aldrin or dieldrin is prohibited in any discharge from any
+aldrin/dieldrin formulator.
+
+Subsection X. DDT, DDD and DDE. [see 40 CFR 129.101]
+
+(a) Specialized definitions.
+
+(1) DDT Manufacturer means a manufacturer, excluding any source which is
+exclusively a DDT formulator, who produces, prepares or processes
+technical DDT, or houses DDT as a material in the production, preparation
+or processing of another synthetic organic substance.
+
+(2) DDT formulator means a person who produces, prepares or processes a
+formulated product comprising a mixture of DDT and inert materials or
+other diluents into a product intended for application in any use registered
+under the Federal Insecticide, Fungicide and Rodenticide Act, as amended
+(7 U.S.C. 135, et seq.).
+
+(b) DDT manufacturer--
+
+(1) Applicability.
+
+(i) These standards or prohibitions apply to:
+
+(A) All discharges of process wastes; and
+
+(B) All discharges from the manufacturing areas, loading and unloading
+areas, storage areas and other areas which are subject to direct
+contamination by DDT as a result of the manufacturing process, including
+but not limited to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (b)(1)(ii) of this subsection; and
+
+(2) Water used for routine cleanup or cleanup of spills.
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+DDT; or to storm water runoff that exceeds that from the ten year 24-hour
+rainfall event.
+
+(2) Analytical method acceptable. Environmental Protection Agency method
+specified in 40 CFR part 136, except that a 1-liter sample size is required to
+increase the analytical sensitivity.
+
+(3) Effluent standard--
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+(i) Existing sources. DDT is prohibited in any discharge from any DDT
+manufacturer.
+
+(ii) New sources. DDT is prohibited in any discharge from any DDT
+manufacturer.
+
+(c) DDT formulator--
+
+(1) Applicability.
+
+(i) These standards or prohibitions apply to:
+
+(A) All discharges of process wastes; and
+
+(B) All discharges from the formulating areas, loading and unloading areas,
+storage areas and other areas which are subject to direct contamination by
+DDT as a result of the formulating process, including but not limited to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (c)(1)(ii) of this subsection; and
+
+(2) Water used for routine cleanup or cleanup of spills.
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+DDT; or to storm water runoff that exceeds that from the ten year 24-hour
+rainfall event.
+
+(2) Analytical method acceptable. Environmental Protection Agency method
+specified in 40 CFR part 136, except that a 1-liter sample size is required to
+increase the analytical sensitivity.
+
+(3) Effluent standard--
+
+(i) Existing sources. DDT is prohibited in any discharge from any DDT
+formulator.
+
+(ii) New Sources. DDT is prohibited in any discharge from any DDT
+formulator.
+
+Subsection XI. Endrin. [see 40 CFR 129.102]
+
+(a) Specialized definitions.
+
+(1) Endrin Manufacturer means a manufacturer, excluding any source which
+is exclusively an endrin formulator, who produces, prepares or processes
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+technical endrin or houses endrin as a material in the production,
+preparation or processing of another synthetic organic substance.
+
+(2) Endrin Formulator means a person who produces, prepares or processes
+a formulated product comprising a mixture of endrin and inert materials or
+other diluents into a product intended for application in any use registered
+under the Federal Insecticide, Fungicide and Rodenticide Act, as amended
+(7 U.S.C. 135, et seq.).
+
+(b) Endrin manufacturer--
+
+(1) Applicability.
+
+(i) These standards or prohibitions apply to:
+
+(A) All discharges of process wastes; and
+
+(B) All discharges from the manufacturing areas, loading and unloading
+areas, storage areas and other areas which are subject to direct
+contamination by endrin as a result of the manufacturing process, including
+but not limited to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (b)(1)(ii) of this subsection; and
+
+(2) Water used for routine cleanup or cleanup of spills.
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+endrin; or to storm water runoff that exceeds that from the ten year 24-hour
+rainfall event.
+
+(2) Analytical method acceptable--Environmental Protection Agency
+method specified in 40 CFR part 136.
+
+(3) Effluent standard--
+
+(i) Existing sources. Discharges from an endrin manufacturer shall not
+contain endrin concentrations exceeding an average per working day of 1.5
+ug/l calculated over any calendar month; and shall not exceed a monthly
+average daily loading of 0.0006 kg/kkg of endrin produced; and shall not
+exceed 7.5 ug/l in a sample(s) representing any working day.
+
+(ii) New sources. Discharges from an endrin manufacturer shall not contain
+endrin concentrations exceeding an average per working day of 0.1 ug/l
+calculated over any calendar month; and shall no exceed a monthly average
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+daily loading of 0.00004 kg/kkg of endrin produced; and shall not exceed
+0.5 ug/l in a sample(s) representing any working day.
+
+(iii) Mass emission standard during shutdown of production. In compassing
+the allowable monthly average daily loading figure required under the
+preceding paragraphs (b)(3) (i) and (ii) of this subsection, for any calendar
+month for which there is no endrin being manufactured at any plant or
+facility which normally contributes to the discharge which is subject to these
+standards, the applicable production value shall be deemed to be the average
+monthly production level for the most recent preceding 360 days of actual
+operation of the plant or facility.
+
+(c) Endrin formulator--
+
+(1) Applicability.
+
+(i) These standards or prohibitions apply to:
+
+(A) All discharges of process wastes; and
+
+(B) All discharges from the formulating areas, loading and unloading areas,
+storage areas and other areas which are subject to direct contamination by
+endrin as a result of the formulating process, including but not limited to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (c)(1)(ii) of this subsection; and
+
+(2) water used for routine cleanup or cleanup of spills.
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+endrin; or to storm-water runoff that exceeds that from the ten year 24-hour
+rainfall event.
+
+(2) Analytical method acceptable--Environmental Protection Agency
+method specified in 40 CFR part 136, except that a 1-liter sample size is
+required to increase the analytical sensitivity.
+
+(3) Effluent standard--
+
+(i) Existing sources. Endrin is prohibited in any discharge from any endrin
+formulator.
+
+(ii) New sources--Endrin is prohibited in any discharge from any endrin
+formulator.
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+(d) The standards set forth in this subsection shall apply to the total
+combined weight or concentration of endrin, excluding any associated
+element or compound.
+
+Subsection XII. Toxaphene. [see 40 CFR 129.103]
+
+(a) Specialized definitions.
+
+(1) Toxaphene manufacturer means a manufacturer, excluding any source
+which is exclusively a toxaphene formulator, who produces, prepares or
+processes toxaphene or who uses toxaphene as a material in the production,
+preparation or processing of another synthetic organic substance.
+
+(2) Toxaphene formulator means a person who produces, prepares or
+processes a formulated product comprising a mixture of toxaphene and inert
+materials or other diluents into a product intended for application in any use
+registered under the Federal Insecticide, Fungicide and Rodenticide Act, as
+amended (7 U.S.C. 135, et seq.).
+
+(b) Toxaphene manufacturer--
+
+(1) Applicability.
+
+(i) These standards or prohibitions apply to:
+
+(A) All discharges of process wastes; and
+
+(B) All discharges from the manufacturing areas, loading and unloading
+areas, storage areas and other areas which are subject to direct
+contamination by toxaphene as a result of the manufacturing process,
+including but not limited to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (b)(1)(ii) of this subsection; and
+
+(2) water used for routine cleanup or cleanup of spills.
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+toxaphene; or to storm water runoff that exceeds that from the ten year 24-
+hour rainfall event.
+
+(2) Analytical method acceptable--Environmental Protection Agency
+method specified in 40 CFR part 136.
+
+(3) Effluent standard--
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+(i) Existing sources. Discharges from a toxaphene manufacturer shall not
+contain toxaphene concentrations exceeding an average per working day of
+1.5 ug/l calculated over any calendar month; and shall not exceed a monthly
+average daily loading of 0.00003 kg/kkg of toxaphene produced, and shall
+not exceed 7.5 ug/l in a sample(s) representing any working day.
+
+(ii) New sources. Discharges from a toxaphene manufacturer shall not
+contain toxaphene concentrations exceeding an average per working day of
+0.1 ug/l calculated over any calendar month; and shall no exceed a monthly
+average daily loading of 0.000002 kg/kkg of toxaphene produced, and shall
+not exceed 0.5 ug/l in a sample(s) representing any working day.
+
+(iii) Mass emission during shutdown of production. In computing the
+allowable monthly average daily loading figure required under the preceding
+paragraphs (b)(3)(i) and (ii) of this subsection, for any calendar month for
+which there is no toxaphene being manufactured at any plant or facility
+which normally contributes to the discharge which is subject to these
+standards, the applicable production value shall be deemed to be the average
+monthly production level for the most recent preceding 360 days of actual
+operation of the plant or facility.
+
+(c) Toxaphene formulator--
+
+(1) Applicability.
+
+(i) These standards or prohibitions apply to:
+
+(A) All discharges of process wastes; and
+
+(B) All discharges from the formulating areas, loading and unloading areas,
+storage areas and other areas which are subject to direct contamination by
+toxaphene as a result of the formulating process, including but not limited
+to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (c)(1)(ii) of this subsection; and
+
+(2) water used for routine cleanup or cleanup of spills.
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+toxaphene; or to storm water runoff that exceeds that from the ten year 24-
+hour rainfall event.
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+(2) Analytical method acceptable--Environmental Protection Agency
+method specified in 40 CFR part 136, except that a 1-liter sample size is
+required to increase the analytical sensitivity.
+
+(3) Effluent standards--
+
+(i) Existing sources. Toxaphene is prohibited in any discharge from any
+toxaphene formulator.
+
+(ii) New sources. Toxaphene is prohibited in any discharge from any
+toxaphene formulator.
+
+(d) The standards set forth in this subsection shall apply to the total
+combined weight or concentration of toxaphene, excluding any associated
+element or compound.
+
+Subsection XIII. Benzidine. [see 40 CFR 1291.04]
+
+(a) Specialized definitions.
+
+(1) Benzidine Manufacturer means a manufacturer who produces benzidine
+or who produces benzidine as an intermediate product in the manufacture of
+dyes commonly used for textile, leather and paper dyeing.
+
+(2) Benzidine-Based Dye Applicator means an owner or operator houses
+benzidine-based dyes in the dyeing of textiles, leather or paper.
+
+(b) Benzidine manufacturer--
+
+(1) Applicability.
+
+(i) These standards apply to:
+
+(A) All discharges into the navigable waters of process wastes, and
+
+(B) All discharges into the navigable waters of wastes containing benzidine
+from the manufacturing areas, loading and unloading areas, storage areas,
+and other areas subject to direct contamination by benzidine or benzidine-
+containing product as a result of the manufacturing process, including but
+not limited to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (b)(1)(ii) of this subsection, and
+
+(2) Water used for routine cleanup or cleanup of spills.
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+benzidine; or to storm water runoff that exceeds that from the ten year 24-
+hour rainfall event.
+
+(2) Analytical method acceptable--Environmental Protection Agency
+method specified in 40 CFR part 136.
+
+(3) Effluent standards--
+
+(i) Existing sources. Discharges from a benzidine manufacturer shall not
+contain benzidine concentrations exceeding an average per working day of
+10 ug/l calculated over any calendar month, and shall not exceed a monthly
+average daily loading of 0.130 kg/kkg of benzidine produced, and shall not
+exceed 50 ug/l in a sample(s) representing any working day.
+
+(ii) New sources. Discharges from a benzidine manufacturer shall not
+contain benzidine concentrations exceeding an average per working day of
+10 ug/l calculated over any calendar month, and shall not exceed a monthly
+average daily loading of 0.130 kg/kkg of benzidine produced, and shall not
+exceed 50 ug/l in a sample(s) representing any working day.
+
+(4) The standards set forth in this paragraph (b) shall apply to the total
+combined weight or concentration of benzidine, excluding any associated
+element or compound.
+
+(c) Benzidine-based dye applicators--
+
+(1) Applicability.
+
+(i) These standards apply to:
+
+(A) All discharges into the navigable waters of process wastes, and
+
+(B) All discharges into the navigable waters of wastes containing benzidine
+from the manufacturing areas, loading and unloading areas, storage areas,
+and other areas subject to direct contamination by benzidine or benzidine-
+containing product as a result of the manufacturing process, including but
+not limited to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (c)(1)(ii) of this subsection, and
+
+(2) Water used for routine cleanup or cleanup of spills.
+06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+            (Code of Maine Rules (2021 Edition))
+
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+benzidine; or to storm water that exceeds that from the ten year 24-hour
+rainfall event.
+
+(2) Analytical method acceptable.
+
+(i) Environmental Protection Agency method specified in 40 CFR part 136;
+or
+
+(ii) Mass balance monitoring approach which requires the calculation of the
+benzidine concentration by dividing the total benzidine contained dyes used
+during a working day (as certified in writing by the manufacturer) by the
+total quantity of water discharged during the working day.
+
+[Comment: The Regional Administrator (or State Director, if appropriate)
+shall rely entirely upon the method specified in 40 CFR part 136 in analyses
+performed by him or her for enforcement purposes.]
+
+(3) Effluent standards--
+
+(i) Existing sources. Discharges from benzidine-based dye applicators shall
+not contain benzidine concentrations exceeding an average per working day
+of 10 ug/calculated over any calendar month; and shall not exceed 25 ug/l a
+sample(s) or calculation(s) representing any working day.
+
+(ii) New sources. Discharges from benzidine-based dye applicators shall not
+contain benzidine concentrations exceeding an average per working day of
+10 ug/l calculated over any calendar month; and shall not exceed 25 ug/l in
+a sample(s) or calculation(s) representing any working day.
+
+(4) The standards set forth in this paragraph (c) shall apply to the total
+combined concentrations of benzidine, excluding any associated element or
+compound.
+
+Subsection XIV. Polychlorinated biphenyls (PCBs). [see 40 CFR 129.105]
+
+(a) Specialized definitions.
+
+(1) PCB Manufacturer means a manufacturer who produces polychlorinated
+biphenyls.
+
+(2) Electrical capacitor manufacturer means a manufacturer who produces
+or assembles electrical capacitors in which PCB or PCB-containing
+compounds are part of the dielectric.
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+(3) Electrical transformer manufacturer means a manufacturer who
+produces or assembles electrical transformers in which PCB or PCB-
+containing compounds are part of the dielectric.
+
+(b) PCB manufacturer--
+
+(1) Applicability.
+
+(i) These standards or prohibitions apply to:
+
+(A) All discharges of process wastes;
+
+(B) All discharges from the manufacturing or incinerator areas, loading and
+unloading areas, storage areas, and other areas which are subject to direct
+contamination by PCBs as a result of the manufacturing process, including
+but not limited to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (b)(1)(ii) of this subsection; and
+
+(2) Water used for routine cleanup or cleanup of spills.
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+PCBs; or to storm water runoff that exceeds that from the ten-year 24-hour
+rainfall event.
+
+(2) Analytical Method Acceptable--Environmental Protection Agency
+method specified in 40 CFR part 136 except that a 1-liter sample size is
+required to increase analytical sensitivity.
+
+(3) Effluent standards--
+
+(i) Existing sources. PCBs are prohibited in any discharge from any PCB
+manufacturer;
+
+(ii) New sources. PCBs are prohibited in any discharge from any PCB
+manufacturer.
+
+(c) Electrical capacitor manufacturer--
+
+(1) Applicability.
+
+(i) These standards or prohibitions apply to:
+
+(A) All discharges of process wastes; and
+ 06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+             (Code of Maine Rules (2021 Edition))
+
+
+(B) All discharges from the manufacturing or incineration areas, loading and
+unloading areas, storage areas and other areas which are subject to direct
+contamination by PCBs as a result of the manufacturing process, including
+but not limited to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (c)(1)(ii) of this subsection; and
+
+(2) Water used for routine cleanup or cleanup of spills.
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+PCBs; or to storm water runoff that exceeds that from the ten-year 24-hour
+rainfall event.
+
+(2) Analytical method acceptable. Environmental Protection Agency method
+specified in 40 CFR part 136, except that a 1-liter sample size is required to
+increase analytical sensitivity.
+
+(3) Effluent standards--
+
+(i) Existing sources. PCBs are prohibited in any discharge from any electrical
+capacitor manufacturer;
+
+(ii) New sources. PCBs are prohibited in any discharge from any electrical
+capacitor manufacturer.
+
+(d) Electrical transformer manufacturer--
+
+(1) Applicability.
+
+(i) These standards or prohibitions apply to:
+
+(A) All discharges of process wastes; and
+
+(B) All discharges from the manufacturing or incineration areas, loading and
+unloading areas, storage areas, and other areas which are subject to direct
+contamination by PCBs as a result of the manufacturing process, including
+but not limited to:
+
+(1) Storm water and other runoff except as hereinafter provided in
+paragraph (d)(1)(ii) of this section; and
+
+(2) Water used for routine cleanup or cleanup of spills.
+
+(ii) These standards do not apply to storm water runoff or other discharges
+from areas subject to contamination solely by fallout from air emissions of
+06 096 Me. Code R. Ch. 525 § 2 Toxic Pollutants. [see 40 Cfr 129]
+            (Code of Maine Rules (2021 Edition))
+
+
+PCBs; or to storm water runoff that exceeds that from the ten-year 24-hour
+rainfall event.
+
+(2) Analytical method acceptable. Environmental Protection Agency method
+specified in 40 CFR part 136, except that a 1-liter sample size is required to
+increase analytical sensitivity.
+
+(3) Effluent standards--
+
+(i) Existing sources. PCBs are prohibited in any discharge from any electrical
+transformer manufacturer;
+
+(ii) New sources. PCBs are prohibited in any discharge from any electrical
+transformer manufacturer.
+
+(e) Adjustment of effluent standard for presence of PCBs in intake water.
+Whenever a facility which is subject to these standards has PCBs in its
+effluent which result from the presence of PCBs in its intake waters, the
+owner may apply to the Department, for a credit pursuant to the provisions
+of Sec. 129.6, where the source of the water supply is the same body of water
+into which the discharge is made. The requirement of paragraph (1) of Sec.
+129.6(a), relating to the source of the water supply, shall be waived, and such
+facility shall be eligible to apply for a credit under Sec. 129.6, upon a
+showing by the owner or operator of such facility to the Department that the
+concentration of PCBs in the intake water supply of such facility does not
+exceed the concentration of PCBs in the receiving water body to which the
+plant discharges its effluent.
+06 096 Me. Code R. Ch. 525 § 3 Secondary Treatment. [see 40 Cfr
+          133] (Code of Maine Rules (2021 Edition))
+
+
+Section 3. Secondary Treatment. [see 40 CFR 133]
+
+Subsection I. Purpose. [see 40 CFR 133.100]
+
+This Section provides information on the level of effluent quality attainable
+through the application of secondary or equivalent treatment.
+
+Subsection II. Definitions. [see 40 CFR 133.101]
+
+Terms used in this section are defined as follows:
+
+(a) 7-day average. The arithmetic mean of pollutant parameter values for
+samples collected in a period of 7 consecutive days.
+
+(b) 30-day average. The arithmetic mean of pollutant parameter values of
+samples collected in a period of 30 consecutive days.
+
+(c) Act. The Clean Water Act (33 U.S.C. 1251 et seq., as amended).
+
+(d) BOD. The five day measure of the pollutant parameter biochemical
+oxygen demand (BOD).
+
+(e) CBOD-5. The five day measure of the pollutant parameter carbonaceous
+biochemical oxygen demand (CBOD-5).
+
+(f) Effluent concentrations consistently achievable through proper operation
+and maintenance. (1) For a given pollutant parameter, the 95th percentile
+value for the 30-day average effluent quality achieved by a treatment works
+in a period of at least two years, excluding values attributable to upsets,
+bypasses, operational errors, or other unusual conditions, and (2) a 7-day
+average value equal to 1.5 times the value derived under paragraph (f)(1) of
+this subsection.
+
+(g) Facilities eligible for treatment equivalent to secondary treatment.
+Treatment works shall be eligible for consideration for effluent limitations
+described for treatment equivalent to secondary treatment (subsection VI),
+if:
+
+(1) The BOD-5 and SS effluent concentrations consistently achievable
+through proper operation and maintenance (paragraph (f)) of the treatment
+works exceed the minimum level of the effluent quality set forth in
+Subsections III(a) and (b),
+
+(2) A trickling filter or waste stabilization pond is used as the principal
+process, and
+06 096 Me. Code R. Ch. 525 § 3 Secondary Treatment. [see 40 Cfr
+          133] (Code of Maine Rules (2021 Edition))
+
+
+(3) The treatment works provide significant biological treatment of
+municipal wastewater.
+
+(h) mg/l. Milligrams per liter.
+
+(i) NPDES. National Pollutant Discharge Elimination System.
+
+(j) Percent removal. A percentage expression of the removal efficiency across
+a treatment plant for a given pollutant parameter, as determined from the
+30-day average values of the raw wastewater influent pollutant
+concentrations to the facility and the 30-day average values of the effluent
+pollutant concentrations for a given time period.
+
+(k) Significant biological treatment. The use of an aerobic or anaerobic
+biological treatment process in a treatment works to consistently achieve a
+30-day average of a least 65 percent removal BOD-5.
+
+(l) SS. The pollutant parameter total suspended solids.
+
+(m) Significantly more stringent limitation means BOD-5 and SS limitations
+necessary to meet the percent removal requirements of at least 5 mg/l more
+stringent than the otherwise applicable concentration-based limitations
+(e.g., less than 25 mg/l in the case of the secondary treatment limits for
+BOD-5 and SS), or the percent removal limitations in Subsections III and VI,
+if such limits would, by themselves, force significant construction or other
+significant capital expenditure.
+
+Subsection III. Secondary treatment. [see 40 CFR 133.102]
+
+The following paragraphs describe the minimum level of effluent quality
+attainable by secondary treatment in terms of the parameters--
+
+BOD-5, SS and pH. All requirements for each parameter shall be achieved
+except as provided for in Subsections IV and VI.
+
+(a) BOD-5.
+
+(1) The 30-day average shall not exceed 30 mg/l.
+
+(2) The 7-day average shall not exceed 45 mg/l.
+
+(3) The 30-day average percent removal shall not be less than 85 percent.
+
+(4) At the option of the NPDES permitting authority, in lieu of the
+parameter BOD-5 and the levels of the effluent quality specified in
+paragraphs (a)(1), (a)(2) and (a)(3), the parameter CBOD-5 may be
+06 096 Me. Code R. Ch. 525 § 3 Secondary Treatment. [see 40 Cfr
+          133] (Code of Maine Rules (2021 Edition))
+
+
+substituted with the following levels of the CBOD-5 effluent quality
+provided:
+
+(i) The 30-day average shall not exceed 25 mg/l.
+
+(ii) The 7-day average shall not exceed 40 mg/l.
+
+(iii) The 30-day average percent removal shall not be less than 85 percent.
+
+(b) SS.
+
+(1) The 30-day average shall not exceed 30 mg/l.
+
+(2) The 7-day average shall not exceed 45 mg/l.
+
+(3) The 30-day average percent removal shall not be less than 85 percent.
+
+(c) pH. The effluent values for pH shall be maintained within the limits of
+6.0 to 9.0 unless the publicly owned treatment works demonstrates that: (1)
+Inorganic chemicals are not added to the waste stream as part of the
+treatment process; and (2) contributions from industrial sources do not
+cause the pH of the effluent to be less than 6.0 or greater than 9.0.
+
+Subsection IV. Special considerations. [see 40 CFR 133.103]
+
+(a) Combined sewers. Treatment works subject to this Chapter may not be
+capable of meeting the percentage removal requirements established under
+Subsection III(a)(3) and Subsection III(b)(3), or Subsections VI(a)(3) and
+Subsection VI(b)(3) during wet weather where the treatment works receive
+flows from combined sewers (i.e., sewers which are designed to transport
+both storm water and sanitary sewage). For such treatment works, the
+decision must be made on a case-by-case basis as to whether any attainable
+percentage removal level can be defined, and if so, what the level should be.
+
+(b) Industrial wastes. For certain industrial categories, the discharge to
+navigable waters of BOD-5 and SS permitted under sections 301(b)(1)(A)(i),
+(b)(2)(E) or 306 of the Act may be less stringent than the values given in
+Subsection III(a)(1), Subsection III(a)(4)(i), Subsection III(b)(1), Subsection
+VI(a)(1), Subsection VI(b)(1) and Subsection VI(e)(1)(i). In cases when
+wastes would be introduced from such an industrial category into a publicly
+owned treatment works, the values for BOD-5 and SS in Subsection III(a)(1),
+Subsection III(a)(4)(i), Subsection III(b)(1), Subsection VI(a)(1), Subsection
+VI(b)(1), and Subsection VI(e)(1)(i) maybe adjusted upwards provided that:
+(1) The permitted discharge of such pollutants, attributable to the industrial
+category, would not be greater than that which would be permitted under
+sections 301(b)(1)(A)(i), 301(b)(2)(E) or 306 of the Act if such industrial
+06 096 Me. Code R. Ch. 525 § 3 Secondary Treatment. [see 40 Cfr
+          133] (Code of Maine Rules (2021 Edition))
+
+
+category were to discharge directly into the navigable waters, and (2) the
+flow or loading of such pollutants introduced by the industrial category
+exceeds 10 percent of the design flow or loading of the publicly owned
+treatment works. When such an adjustment is made, the values for BOD-5
+or SS in Subsection III(a)(2), Subsection III(a)(4)(ii), Subsection III(b)(2),
+Subsection VI(a)(2), Subsection VI(b)(2), and Subsection VI(e)(1)(ii) should
+be adjusted proportionately.
+
+(c) Waste stabilization ponds. The Department, subject to EPA approval, is
+authorized to adjust the minimum levels of effluent quality set forth in
+Subsections VI(b)(1), (b)(2), and (b)(3) for treatment works subject to this
+Chapter, to conform to the SS concentrations achievable with waste
+stabilization ponds, provided that: (1) Waste stabilization ponds are the
+principal process used for secondary treatment; and (2) operation and
+maintenance data indicate that the SS values specified in Subsections VI
+(b)(1),(b)(2), and (b)(3) cannot be achieved. The term ``SS concentrations
+achievable with waste stabilization ponds'' means a SS value, determined by
+the Department, subject to EPA approval, which is equal to the effluent
+concentration achieved 90 percent of the time within a State or appropriate
+contiguous geographical area by waste stabilization ponds that are achieving
+the levels of effluent quality for BOD-5 specified in Subsection VI(a)(1).
+
+(d) Less concentrated influent wastewater for separate sewers. The
+Department is authorized to substitute either a lower percent removal
+requirement or a mass loading limit for the percent removal requirements
+set forth in Subsection III(a)(3), Subsection III(a)(4)(iii), Subsection
+III(b)(3), Subsection VI(a)(3), Subsection VI(b)(3) and Subsection
+VI(e)(1)(iii) provided that the permittee satisfactorily demonstrates that: (1)
+The treatment works is consistently meeting, or will consistently meet, its
+permit effluent concentration limits but its percent removal requirements
+cannot be met due to less concentrated influent wastewater, (2) to meet the
+percent removal requirements, the treatment works would have to achieve
+significantly more stringent limitations than would otherwise be required by
+the concentration-based standards, and (3) the less concentrated influent
+wastewater is not the result of excessive I/I. The determination of whether
+the less concentrated wastewater is the result of excessive I/I will use the
+definition of excessive I/I in 40 CFR 35.2005(b)(16) plus the additional
+criterion that inflow is non excessive if the total flow to the POTW (i.e.,
+wastewater plus inflow plus infiltration) is less than 275 gallons per capita
+per day.
+
+(e) Less concentrated influent wastewater for combined sewers during dry
+weather. The Department is authorized to substitute either a lower percent
+removal requirement or a mass loading limit for the percent removal
+requirements set forth in Subsection III(a)(3), Subsection III(a)(4)(iii),
+06 096 Me. Code R. Ch. 525 § 3 Secondary Treatment. [see 40 Cfr
+          133] (Code of Maine Rules (2021 Edition))
+
+
+Subsection III(b)(3), Subsection VI(a)(3), Subsection VI(b)(3) and
+Subsection VI(e)(1)(iii) provided that the permittee satisfactorily
+demonstrates that: (1) The treatment works is consistently meeting, or will
+consistently meet, its permit effluent concentration limits, but the percent
+removal requirements cannot be met due to less concentrated influent
+wastewater; (2) to meet the percent removal requirements, the treatment
+works would have to achieve significantly more stringent effluent
+concentrations than would otherwise be required by the concentration-
+based standards; and (3) the less concentrated influent wastewater does not
+result from either excessive infiltration or clear water industrial discharges
+during dry weather periods. The determination of whether the less
+concentrated wastewater results from excessive infiltration is discussed in
+40 CFR 35.2005(b)(28), plus the additional criterion that either 40 gallons
+pre capita per day (gpcd) or 1500 gallons per inch diameter per mile of
+sewer (gpdim) may be used as the threshold value for that portion of the dry
+weather base flow attributed to infiltration. If the less concentrated influent
+wastewater is the result of clear water industrial discharges, then the
+treatment works must control such discharges pursuant to Chapter 528.
+
+Subsection V. Sampling and test procedures. [see 40 CFR 133.104]
+
+(a) Sampling and test procedures for pollutants listed in this Chapter shall
+be in accordance with guidelines promulgated by the Administrator in 40
+CFR part 136.
+
+(b) Chemical oxygen demand (COD) or total organic carbon (TOC) maybe
+substituted for BOD-5 when a long-term BOD:COD or BOD:TOC correlation
+has been demonstrated.
+
+Subsection VI. Treatment equivalent to secondary treatment. [see 40 CFR
+133.105]
+
+This subsection describes the minimum level of effluent quality attainable by
+facilities eligible for treatment equivalent to secondary treatment
+(Subsection II(g)) in terms of the parameters--BOD-5, SS and pH. All
+requirements for the specified parameters in paragraphs(a), (b) and (c) of
+this subsection shall be achieved except as provided for in Subsection IV, or
+paragraphs (d), (e) or (f) of this subsection.
+
+(a) BOD-5.
+
+(1) The 30-day average shall not exceed 45 mg/l
+
+(2) The 7-day average shall not exceed 65 mg/l.
+
+(3) The 30-day average percent removal shall not be less than 65 percent.
+06 096 Me. Code R. Ch. 525 § 3 Secondary Treatment. [see 40 Cfr
+          133] (Code of Maine Rules (2021 Edition))
+
+
+(b) SS. Except where SS values have been adjusted in accordance with
+Subsection IV(c):
+
+(1) The 30-day average shall not exceed 45 mg/l.
+
+(2) The 7-day average shall not exceed 65 mg/l.
+
+(3) The 30-day average percent removal shall not be less than 65 percent.
+
+(c) pH. The requirements of Subsection III(c) shall be met.
+
+(d) Alternative State requirements. Except as limited by paragraph(f) of this
+subsection, and after notice and opportunity for public comment, the
+Department, subject to EPA approval, is authorized to adjust the minimum
+levels of effluent quality set forth in paragraphs (a)(1), (a)(2), (b)(1) and
+(b)(2) of this subsection for trickling filter facilities and in paragraphs (a)(1)
+and (a)(2) of this subsection for waste stabilization pond facilities, to
+conform to the BOD-5 and SS effluent concentrations consistently
+achievable through proper operation and maintenance (Subsection II(f)) by
+the median (50th percentile) facility in a representative sample of facilities
+within a State or appropriate contiguous geographical area that meet the
+definition of facilities eligible for treatment equivalent to secondary
+treatment (Subsection II(g)).
+
+(e) CBOD-5 limitations:
+
+(1) Where data are available to establish CBOD-5 limitations for a treatment
+works subject to this subsection, the NPDES permitting authority may
+substitute the parameter CBOD-5 for the parameter BOD-5 in Subsections
+VI(a)(1), (a)(2) and (a)(3), on a case-by-case basis provided that the levels of
+CBOD-5 effluent quality are not less stringent than the following:
+
+(i) The 30-day average shall not exceed 40 mg/l.
+
+(ii) The 7-days average shall not exceed 60 mg/l.
+
+(iii) The 30-day average percent removal shall not be less than 65 percent.
+
+(2) Where data are available, the parameter CBOD-5 may be used for
+effluent quality limitations established under paragraph (d) of this
+subsection. Where concurrent BOD effluent data are available, they must be
+submitted with the CBOD data as a part of the approval process outlined in
+paragraph (d) of this subsection.
+
+(f) Permit adjustments. Any permit adjustment made pursuant to this
+Chapter may not be any less stringent than the limitations required
+06 096 Me. Code R. Ch. 525 § 3 Secondary Treatment. [see 40 Cfr
+          133] (Code of Maine Rules (2021 Edition))
+
+
+pursuant to Subsections VI(a)-(e). Furthermore, permitting authorities shall
+require more stringent limitations when adjusting permits if:
+
+(1) For existing facilities the permitting authority determines that the 30-day
+average and 7-day average BOD-5 and SS effluent values that could be
+achievable through proper operation and maintenance of the treatment
+works, based on an analysis of the past performance of the treatment works,
+would enable the treatment works to achieve more stringent limitations, or
+
+(2) For new facilities, the permitting authority determines that the 30-day
+average and 7-day average BOD-5 and SS effluent values that could be
+achievable through proper operation and maintenance of the treatment
+works, considering the design capability of the treatment process and
+geographical and climatic conditions, would enable the treatment works to
+achieve more stringent limitations.
+  06 096 Me. Code R. Ch. 525 § 4 General Provisions. [see 40 Cfr
+         part 401] (Code of Maine Rules (2021 Edition))
+
+
+Section 4. General Provisions. [see 40 CFR part 401]
+
+Subsection I. Scope and purpose. [see 40 CFR 401.10] Regulations
+promulgated or proposed under Section 5 and Chapter 528 prescribe
+effluent limitations guidelines for existing sources, standards of
+performance for new sources and pretreatment standards for new and
+existing sources pursuant to sections 301, 304 (b)and (c), 306 (b) and (c),
+307 (b) and (c) and 316(b) of the Federal Water Pollution Control Act, as
+amended (the ``Act''), 33 U.S.C. 1251,1311, 1314 (b) and (c), 1316 (b) and (c),
+1317 (b) and (c) and 1326(b); 86 Stat. 816; Pub. L. 92-500. Point sources of
+discharges of pollutants are required to comply with these regulations,
+where applicable, and permits issued by States or the Environmental
+Protection Agency (EPA) under the National Pollutant Discharge
+Elimination System (NPDES) established pursuant to section 402 of the Act
+must be conditioned upon compliance with applicable requirements of
+sections 301 and 306 of the Act (as well as certain other requirements). This
+Section sets forth the legal authority and general definitions which will apply
+to all regulations issued concerning specific classes and categories of point
+sources under Section 5 and Chapter 528 which follow. In certain instances
+the regulations applicable to a particular point source category or sub
+category will contain more specialized definitions. Except as provided in
+Subsection VIII, in the case of any conflict between regulations issued under
+this Section and regulations issued under Section 5 and Chapter 528, the
+latter more specific regulations shall apply.
+
+Subsection II. General definitions. [see 40 CFR 401.11]
+
+For the purposes of the regulations incorporated by section 5 of this chapter:
+
+(a)- (l) [reserved]
+
+(m) The terms state water pollution control agency, interstate agency, State,
+municipality, person, territorial seas, contiguous zone, biological
+monitoring, schedule of compliance, and industrial user shall be defined in
+accordance with section 502 of the Act unless the context otherwise
+requires.
+
+(n) The term noncontact cooling water means water used for cooling which
+does not come into direct contact with any raw material, intermediate
+product, waste product or finished product.
+
+(o) The term noncontact cooling water pollutants means pollutants present
+in noncontact cooling waters.
+  06 096 Me. Code R. Ch. 525 § 4 General Provisions. [see 40 Cfr
+         part 401] (Code of Maine Rules (2021 Edition))
+
+
+(p) The term blowdown means the minimum discharge of recirculating
+water for the purpose of discharging materials contained in the water, the
+further buildup of which would cause concentration in amounts exceeding
+limits established by best engineering practice.
+
+(q)-(r) [reserved] (s) The following abbreviations shall have the following
+meanings:
+
+(1) BOD5 means five-day biochemical oxygen demand;
+
+(2) COD means chemical oxygen demand;
+
+(3) TOC means total organic carbon;
+
+(4) TDS means total dissolved solids;
+
+(5) TSS means total suspended non-filterable solids;
+
+(6) kw means kilowatt(s);
+
+(7) kwh means kilowatt hour(s);
+
+(8) Mw means megawatt(s);
+
+(9) Mwh means megawatt hour(s);
+
+(10) hp means horsepower;
+
+(11) mm means millimeter(s);
+
+(12) cm means centimeter;
+
+(13) m means meter(s);
+
+(14) in. means inch;
+
+(15) ft means foot (feet);
+
+(16) l means liter(s);
+
+(17) cu m means cubic meter(s);
+
+(18) k cu m means 1000 cubic meter(s);
+
+(19) gal means gallon(s);
+
+(20) cu ft means cubic foot (feet);
+  06 096 Me. Code R. Ch. 525 § 4 General Provisions. [see 40 Cfr
+         part 401] (Code of Maine Rules (2021 Edition))
+
+
+(21) mg means milligram(s);
+
+(22) g means gram(s);
+
+(23) kg means kilogram(s);
+
+(24) kkg means 1000 kilogram(s);
+
+(25) lb means pound(s);
+
+(26) sq m means square meter(s);
+
+(27) ha means hectare(s);
+
+(28) sq ft means square foot (feet); and
+
+(29) ac means acre(s).
+
+Subsection III. Law authorizing establishment of effluent limitations
+guidelines for existing sources, standards of performance for new sources
+and pretreatment standards of new and existing sources. [see 40 CFR
+401.12]
+
+(a) Section 301(a) of the Act provides that ``except as in compliance with
+this section and sections 302, 306, 307, 318, 402 and 404 of this Act, the
+discharge of any pollutant by any person shall be unlawful.''
+
+(b) Section 301(b) of the Act requires the achievement by not later than July
+1, 1977, of effluent limitations for point sources, other than publicly owned
+treatment works, which require the application of the best practicable
+control technology currently available as determined by the Administrator
+pursuant to section 304(b)(1) of the Act. Section 301(b) also requires the
+achievement by not later than July 1, 1983, of effluent limitations for point
+sources, other than publicly owned treatment works, which require the
+application of the best available technology economically achievable which
+will result in reasonable further progress toward the national goal of
+eliminating the discharge of all pollutants, as determined in accordance with
+regulations issued by the Administrator pursuant to section 304(b)(2) of the
+Act.
+
+(c) Section 304(b) of the Act requires the Administrator to publish
+regulations providing guidelines for effluent limitations setting forth the
+degree of effluent reduction attainable through the application of the best
+practicable control technology currently available and the degree of effluent
+reduction attainable through the application of the best control measures
+  06 096 Me. Code R. Ch. 525 § 4 General Provisions. [see 40 Cfr
+         part 401] (Code of Maine Rules (2021 Edition))
+
+
+and practices achievable including treatment techniques, process and
+procedure innovations, operating methods and other alternatives.
+
+(d) Section 304(c) of the Act requires the Administrator, after consultation
+with appropriate Federal and State agencies and other interested persons to
+issue information on the process, procedures, or operating methods which
+result in the elimination or reduction of the discharge of pollutants to
+implement standards of performance under section 306 of the Act.
+
+(e) Section 306(b)(1)(B) of the Act requires the Administrator, after a
+category of sources is included in a list published pursuant to section
+306(b)(1)(A) of the Act, to propose regulations establishing Federal
+standards of performances for new sources within such category. Standards
+of performance are to provide for the control of the discharge of pollutants
+which reflect the greatest degree of effluent reduction which the
+Administrator determines to be achievable through application of the best
+available demonstrated control technology, processes, operating methods,
+or other alternatives, including, where practicable, a standard permitting no
+discharge of pollutants.
+
+(f) Section 307(b) provides that the Administrator shall establish
+pretreatment standards which shall prevent the discharge of any pollutant
+into publicly owned treatment works which pollutant interferes with, passes
+through untreated, or otherwise is incompatible with such works.
+
+(g) Section 307(c) of the Act provides that the Administrator shall
+promulgate pretreatment standards for sources which would be ``new
+sources'' under section 306 (if they were to discharge pollutants directly to
+navigable waters) at the same time standards of performance for the
+equivalent category of new sources are promulgated.
+
+(h) Section 316(b) of the Act provides that any standard established
+pursuant to section 301 or section 306 of the Act and applicable to a point
+source shall require that the location, design, construction, and capacity of
+cooling water intake structures reflect the best technology available for
+minimizing adverse environmental impact.
+
+(i) Section 402(a)(1) of the Act provides that the Administrator may issue
+permits for the discharge of any pollutant upon condition that such
+discharge will meet all applicable requirements under sections 301,302, 306,
+307, 308 and 403 of this Act. In addition, section 402(b)(1)(A) of the Act
+requires that permits issued by States under the National Pollutant
+Discharge Elimination System (NPDES) established by the Act must apply,
+and insure compliance with any applicable requirements of sections 301,
+302, 306, 307 and 403 of the Act.
+  06 096 Me. Code R. Ch. 525 § 4 General Provisions. [see 40 Cfr
+         part 401] (Code of Maine Rules (2021 Edition))
+
+
+Subsection IV Test procedures for measurement. [see 40 CFR 401.13]
+
+The test procedures for measurement which are prescribed at 40 CFR part
+136 shall apply to expressions of pollutant amounts, characteristics or
+properties in effluent limitations guidelines and standards of performance
+and pretreatment standards as set forth at Subsection 5 and Chapter 528,
+unless otherwise specifically noted or defined.
+
+Subsection V. Cooling water intake structures. [see 40 CFR 401.14]
+
+The location, design, construction and capacity of cooling water intake
+structures of any point source for which a standard is established pursuant
+to section 301 or 306 of the Act shall reflect the best technology available for
+minimizing adverse environmental impact, in accordance with the
+provisions of 40 CFR part 402.
+
+Subsection VI. Toxic pollutants. [see 40 CFR 401.15]
+
+The following comprise the list of toxic pollutants designated pursuant to
+section 307(a)(1) of the Act:
+
+1. Acenaphthene
+
+2. Acrolein
+
+3. Acrylonitrile
+
+4. Aldrin/Dieldrin \1\
+
+5. Antimony and compounds \2\
+
+6. Arsenic and compounds
+
+7. Asbestos
+
+8. Benzene
+
+9. Benzidine \1\
+
+10. Beryllium and compounds
+
+11. Cadmium and compounds
+
+12. Carbon tetrachloride
+
+13. Chlordane (technical mixture and metabolites)
+  06 096 Me. Code R. Ch. 525 § 4 General Provisions. [see 40 Cfr
+         part 401] (Code of Maine Rules (2021 Edition))
+
+
+14. Chlorinated benzenes (other than di-chlorobenzenes)
+
+15. Chlorinated ethanes (including 1,2-di-chloroethane, 1,1,1-
+
+trichloroethane, and hexachloroethane)
+
+16. Chloroalkyl ethers (chloroethyl and mixed ethers)
+
+17. Chlorinated naphthalene
+
+18. Chlorinated phenols (other than those listed elsewhere; includes
+trichlorophenols and chlorinated cresols)
+
+19. Chloroform
+
+20. 2-chlorophenol
+
+21. Chromium and compounds
+
+22. Copper and compounds
+
+23. Cyanides
+
+24. DDT and metabolites \1\
+
+25. Dichlorobenzenes (1,2-, 1,3-, and 1,4-di-chlorobenzenes)
+
+26. Dichlorobenzidine
+
+27. Dichloroethylenes (1,1-, and 1,2-dichloroethylene)
+
+28. 2,4-dichlorophenol
+
+29. Dichloropropane and dichloropropene
+
+30. 2,4-dimethylphenol
+
+31. Dinitrotoluene
+
+32. Diphenylhydrazine
+
+33. Endosulfan and metabolites
+
+34. Endrin and metabolites \1\
+
+35. Ethylbenzene
+
+36. Fluoranthene
+  06 096 Me. Code R. Ch. 525 § 4 General Provisions. [see 40 Cfr
+         part 401] (Code of Maine Rules (2021 Edition))
+
+
+37. Haloethers (other than those listed elsewhere; includes
+chlorophenylphenyl ethers, bromophenylphenyl ether,
+bis(dichloroisopropyl) ether, bis-(chloroethoxy) methane and
+polychlorinated diphenyl ethers)
+
+38. Halomethanes (other than those listed elsewhere; includes methylene
+chloride, methylchloride, methylbromide, bromoform,
+dichlorobromomethane
+
+39. Heptachlor and metabolites
+
+40. Hexachlorobutadiene
+
+41. Hexachlorocyclohexane
+
+42. Hexachlorocyclopentadiene
+
+43. Isophorone
+
+44. Lead and compounds
+
+45. Mercury and compounds
+
+46. Naphthalene
+
+47. Nickel and compounds
+
+48. Nitrobenzene
+
+49. Nitrophenols (including 2,4-dinitrophenol, dinitrocresol)
+
+50. Nitrosamines
+
+51. Pentachlorophenol
+
+52. Phenol
+
+53. Phthalate esters
+
+54. Polychlorinated biphenyls (PCBs) \1\
+
+55. Polynuclear aromatic hydrocarbons (including benzanthracenes,
+benzopyrenes, benzofluoranthene, chrysenes, dibenz-anthracenes, and
+indenopyrenes)
+
+56. Selenium and compounds
+
+57. Silver and compounds
+  06 096 Me. Code R. Ch. 525 § 4 General Provisions. [see 40 Cfr
+         part 401] (Code of Maine Rules (2021 Edition))
+
+
+58. 2,3,7,8-tetrachlorodibenzo-p-dioxin (TCDD)
+
+59. Tetrachloroethylene
+
+60. Thallium and compounds
+
+61. Toluene
+
+62. Toxaphene \1\
+
+63. Trichloroethylene
+
+64. Vinyl chloride
+
+65. Zinc and compounds
+
+\1\ Effluent standard promulgated (40 CFR part 129)
+
+\2\ The term compounds shall include organic and inorganic compounds
+
+Subsection VII. Conventional pollutants. [see 40 CFR 401.16]
+
+The following comprise the list of conventional pollutants designated
+pursuant to section 304(a)(4) of the Act:
+
+1. Biochemical oxygen demand (BOD)
+
+2. Total suspended solids (non filterable) (TSS)
+
+3. pH
+
+4. Fecal coliform
+
+5. Oil and grease
+
+Subsection VIII. pH Effluent limitations under continuous monitoring. [see
+40 CFR 401.17]
+
+(a) Where a permittee continuously measures the pH of wastewater
+pursuant to a requirement or option in a National Pollutant Discharge
+Elimination System (NPDES) permit issued pursuant to section 402 of the
+Act, the permittee shall maintain the pH of such wastewater within the
+range set forth in the applicable effluent limitations guidelines, except
+excursions from the range are permitted subject to the following limitations:
+  06 096 Me. Code R. Ch. 525 § 4 General Provisions. [see 40 Cfr
+         part 401] (Code of Maine Rules (2021 Edition))
+
+
+(1) The total time during which the pH values are outside the required range
+of pH values shall not exceed 7 hours and 26 minutes in any calendar
+month; and
+
+(2) No individual excursion from the range of pH values shall exceed 60
+minutes.
+
+(b) The Department, may adjust the requirements set forth in paragraph (a)
+of this section with respect to the length of individual excursions from the
+range of pH values, if a different period of time is appropriate based upon
+the treatment system, plant configuration or other technical factors.
+
+(c) For purposes of this subsection, an excursion is an unavoidable
+malfunction as defined in 38 MRSA, §349(9)(B) in which the pH value of
+discharge wastewater exceeds the range set forth in the applicable effluent
+limitations guidelines.
+  06 096 Me. Code R. Ch. 525 § 5 Effluent Standards for Specific
+ Industrial Point Source Categories. (Code of Maine Rules (2021
+                            Edition))
+
+Section 5. Effluent Standards for Specific Industrial Point Source
+Categories.
+
+For the purposes of this Chapter, effluent limitations for discharges from
+new and existing industrial activities discharging to Waters of the State and
+pretreatment standards for new and existing industrial activities discharging
+to publicly owned treatment works shall not exceed those set forth in the
+following parts of 40 CFR, effective July 1, 1998, which are incorporated
+herein by reference.
+
+(1) Part 405, Dairy products processing point source category.
+
+(2) Part 406, Grain mills point source category.
+
+(3) Part 407, Canned and preserved fruits and vegetables processing point
+source category.
+
+(4) Part 408, Canned and preserved seafood processing point source
+category.
+
+(5) Part 409, Sugar processing point source category.
+
+(6) Part 410, Textile mills point source category.
+
+(7) Part 411, Cement manufacturing point source category.
+
+(8) Part 412, Feedlots point source category.
+
+(9) Part 413, Electroplating point source category.
+
+(10) Part 414, Organic chemicals, plastics, and synthetic fibers.
+
+(11) Part 415, Inorganic chemicals manufacturing point source category.
+
+(12) Part 416, Reserved.
+
+(13) Part 417, Soap and detergent manufacturing point source category.
+
+(14) Part 418, Fertilizer manufacturing point source category.
+
+(15) Part 419, Petroleum refining point source category.
+
+(16) Part 420, Iron and steel manufacturing point source category.
+
+(17) Part 421, Nonferrous metals manufacturing point source category.
+
+(18) Part 422, Phosphate manufacturing point source category.
+  06 096 Me. Code R. Ch. 525 § 5 Effluent Standards for Specific
+ Industrial Point Source Categories. (Code of Maine Rules (2021
+                            Edition))
+
+(19) Part 423, Steam electric power generating point source category.
+
+(20) Part 424, Ferroalloy manufacturing point source category.
+
+(21) Part 425, Leather tanning and finishing point source category.
+
+(22) Part 426, Glass manufacturing point source category.
+
+(23) Part 427, Asbestos manufacturing point source category.
+
+(24) Part 428, Rubber manufacturing point source category.
+
+(25) Part 429, Timber products processing point source category.
+
+(26) Part 430, Pulp, paper, and paperboard point source category.
+
+(27) Part 431, The builders' paper and board mills point source category.
+
+(28) Part 432, Meat products point source category.
+
+(29) Part 433, Metal finishing point source category.
+
+(30) Part 434, Coal mining point source category BPT, BAT, BCT limitations
+and new sources performance standards.
+
+(31) Part 435, Oil and gas extraction point source category.
+
+(32) Part 436, Mineral mining and processing point source category.
+
+(33) Part 439, Pharmaceutical manufacturing point source category.
+
+(34) Part 440, Ore mining and dressing point source category.
+
+(35) Part 443, Effluent limitations guidelines for existing sources and
+standards of performance and pretreatment standard for new sources for
+the paving and roofing materials (tars and asphalt) point source category.
+
+(36) Part 446, Paint formulating point source category.
+
+(37) Part 447, Ink formulating point source category.
+
+(38) Part 454, Gum and wood chemicals manufacturing point source
+category.
+
+(39) Part 455, Pesticide chemicals.
+
+(40) Part 457, Explosives manufacturing point source category.
+  06 096 Me. Code R. Ch. 525 § 5 Effluent Standards for Specific
+ Industrial Point Source Categories. (Code of Maine Rules (2021
+                            Edition))
+
+(41) Part 458, Carbon black manufacturing point source category.
+
+(42) Part 459, Photographic point source category.
+
+(43) Part 460, Hospital point source category.
+
+(44) Part 461, Battery manufacturing point source category.
+
+(45) Part 463, Plastics molding and forming point source category.
+
+(46) Part 464, Metal molding and casting point source category.
+
+(47) Part 465, Coil coating point source category.
+
+(48) Part 466, Porcelain enameling point source category.
+
+(49) Part 467, Aluminum forming point source category.
+
+(50) Part 468, Copper forming point source category.
+
+(51) Part 469, Electrical and electronic components point source category.
+
+(52) Part 471, Nonferrous metals forming and metal powders point source
+category.
+
+AUTHORITY: 38 MRSA §§ 341-D and 414-A
+
+APA EFFECTIVE DATE: April 5, 1999
+
+EFFECTIVE DATE: This rule became effective upon the approval of the U.S.
+Environmental Protection Agency of related parts of the State's application
+to administer the National Pollutant Discharge Elimination System program
+of the Federal Clean Water Act, pursuant to 40 CFR part 123. This approval
+was granted through a January 12, 2001 (the presumed effective date) letter
+from Mindy S. Lubber of the United States Environmental Protection
+Agency to Governor Angus S. King, Jr. The APA Office was notified of this
+action through a memo, which included a copy of the Lubber letter, from
+Dennis Merrill of the Department of Environmental Protection dated
+January 23, 2001.
+

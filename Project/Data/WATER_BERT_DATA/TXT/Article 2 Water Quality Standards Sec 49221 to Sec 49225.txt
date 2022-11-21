@@ -1,0 +1,301 @@
+ARS 49-221 Water quality standards in general (Arizona Revised
+                  Statutes (2021 Edition))
+
+
+§ 49-221. Water quality standards in general
+
+A. The director shall adopt, by rule, water quality standards for all navigable
+waters and for all waters in all aquifers to preserve and protect the quality of
+those waters for all present and reasonably foreseeable future uses.
+
+B. The director may adopt, by rule, water quality standards for waters of the
+state other than those described in subsection A of this section, including
+standards for the use of water pumped from an aquifer that does not meet
+the standards adopted pursuant to section 49-223, subsections A and B and
+that is put to a beneficial use other than drinking water. These standards
+may include standards for the use of water pumped as part of a remedial
+action. In adopting such standards, the director shall consider the economic,
+social and environmental costs and benefits that would result from the
+adoption of a water quality standard at a particular level or for a particular
+water category.
+
+C. In setting standards pursuant to subsection A or B of this section, the
+director shall consider, but not be limited to, the following:
+
+1. The protection of the public health and the environment.
+
+2. The uses that have been made, are being made or with reasonable
+probability may be made of these waters.
+
+3. The provisions and requirements of the clean water act and safe drinking
+water act and the regulations adopted pursuant to those acts.
+
+4. The degree to which standards for one category of waters could cause
+violations of standards for other, hydrologically connected, water categories.
+
+5. Guidelines, action levels or numerical criteria adopted or recommended
+by the United States environmental protection agency or any other federal
+agency.
+
+6. Any unique physical, biological or chemical properties of the waters.
+
+D. Water quality standards shall be expressed in terms of the uses to be
+protected and, if adequate information exists to do so, numerical limitations
+or parameters, in addition to any narrative standards that the director
+deems appropriate.
+
+E. The director may adopt by rule water quality standards for the direct
+reuse of reclaimed water. In establishing these standards , the director shall
+consider the following:
+ARS 49-221 Water quality standards in general (Arizona Revised
+                  Statutes (2021 Edition))
+
+
+1. The protection of public health and the environment.
+
+2. The uses that are being made or may be made of the reclaimed water.
+
+3. The degree to which standards for the direct reuse of reclaimed water may
+cause violations of water quality standards for other hydrologically
+connected water categories.
+
+F. If the director proposes to adopt water quality standards for agricultural
+water, the director shall consult, cooperate, collaborate and, if necessary,
+enter into interagency agreements and memoranda of understanding with
+the Arizona department of agriculture relating to its administration,
+pursuant to title 3, chapter 3, article 4.1, of this state's authority relating to
+agricultural water under the United States food and drug administration
+produce safety rule (21 Code of Federal Regulations part 112, subpart E) and
+any other federal produce safety regulation, order or guideline or other
+requirement adopted pursuant to the FDA food safety modernization act (
+P.L. 111-353; 21 United States Code sections 2201 through 2252 ). For the
+purposes of this subsection:
+
+1. "Agricultural water":
+
+(a) Means water that is used in a covered activity on produce where water is
+intended to, or is likely to, contact produce or food contact surfaces.
+
+(b) Includes all of the following:
+
+(i) Water used in growing activities, including irrigation water, water used
+for preparing crop sprays and water used for growing sprouts.
+
+(ii) Water used in harvesting, packing and holding activities, including water
+used for washing or cooling harvested produce and water used for
+preventing dehydration of produce.
+
+2. "Covered activity" means growing, harvesting, packing or holding
+produce. Covered activity includes processing produce to the extent that the
+activity is within the meaning of farm as defined in section 3-525.
+
+3. "Harvesting" has the same meaning prescribed in section 3-525.
+
+4. "Holding" has the same meaning prescribed in section 3-525.
+
+5. "Packing" has the same meaning prescribed in section 3-525.
+
+6. "Produce" has the same meaning prescribed in section 3-525.
+
+(Amended by L. 2018, ch. 48,s. 46, eff. 8/3/2018.)
+     ARS 49-222 Water quality standards for navigable waters
+            (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-222. Water quality standards for navigable waters
+
+A. Standards for the quality of navigable waters shall assure water quality, if
+attainable, which provides for protecting the public health and welfare, and
+shall enhance the quality of water taking into consideration its use and value
+for public water supplies, the propagation of fish and wildlife and
+recreational, agricultural, industrial and other purposes including
+navigation.
+
+B. Not later than January 1, 1990, the director shall adopt standards for the
+quality of all navigable waters which establish numeric limitations on the
+concentrations of each of the toxic pollutants listed by the administrator
+pursuant to section 307 of the clean water act ( 33 United States Code
+section 1317).
+
+C. In setting numeric standards for the quality of navigable waters, the
+director may consider the effect of local water quality characteristics on the
+toxicity of specific pollutants and the varying sensitivities of local affected
+aquatic populations to such pollutants, and the extent to which the natural
+flow of the stream is intermittent or ephemeral, as a result of which the
+instream flow consists mostly of treated wastewater effluent, except that
+such standards shall not, in any event, be inconsistent with the clean water
+act. In applying such standards the director may establish appropriate
+mixing zones.
+  ARS 49-223 Aquifer water quality standards (Arizona Revised
+                   Statutes (2021 Edition))
+
+
+§ 49-223. Aquifer water quality standards
+
+A. Primary drinking water maximum contaminant levels established by the
+administrator before August 13, 1986 are adopted as drinking water aquifer
+water quality standards. The director may only adopt additional aquifer
+water quality standards by rule. Within one year after the administrator
+establishes additional primary drinking water maximum contaminant levels,
+the director shall open a rule making docket pursuant to section 41-1021 for
+adoption of those maximum contaminant levels as drinking water aquifer
+water quality standards. If substantial opposition is demonstrated in the rule
+making docket regarding a particular constituent, the director may adopt for
+that constituent the maximum contaminant level as a drinking water aquifer
+water quality standard upon making a finding that this level is appropriate
+for adoption in Arizona as an aquifer water quality standard. In making this
+finding, the director shall consider whether the assumptions about
+technologies, costs, sampling and analytical methodologies and public
+health risk reduction used by the administrator in developing and
+implementing the maximum contaminant level are appropriate for
+establishing a drinking water aquifer water quality standard. For purposes of
+this subsection "substantial opposition" means information submitted to the
+director that explains with reasonable specificity why the maximum
+contaminant level is not appropriate as an aquifer water quality standard.
+
+B. The director may adopt by rule numeric drinking water aquifer water
+quality standards for pollutants for which the administrator has not
+established primary drinking water maximum contaminant levels or for
+which a maximum contaminant level has been established but the director
+has determined it to be inappropriate as an aquifer water quality standard
+pursuant to subsection A of this section. These standards shall be based on
+the protection of human health. In establishing numeric drinking water
+aquifer water quality standards, the director shall rely on technical protocols
+appropriate for the development of aquifer water quality standards and shall
+base the standards on credible medical and toxicological evidence that has
+been subjected to peer review.
+
+C. Any person may petition the director to adopt a numeric drinking water
+aquifer quality standard for any pollutant for which no drinking water
+aquifer quality standard exists. The director shall grant the petition and
+institute rule making proceedings adopting a numeric standard as provided
+under subsection B of this section within one hundred eighty days if the
+petition shows that the pollutant is a toxic pollutant, that the pollutant has
+been, or may in the future be, detected in any of the state's drinking water
+aquifers, and that there exists technical information on which a numeric
+standard might reasonably be based. Within one year of the commencement
+of the rule making proceeding, the director shall either adopt a numeric
+  ARS 49-223 Aquifer water quality standards (Arizona Revised
+                   Statutes (2021 Edition))
+
+
+standard or make and publish a finding that, pursuant to subsection B of
+this section, the development of a numeric standard is not possible. The
+decision to not adopt a numeric standard shall, for purposes of judicial
+review, be treated in the same manner as a rule adopted pursuant to title 41,
+chapter 6.
+
+D. For purposes of assessing compliance with each aquifer water quality
+standard adopted pursuant to this section, the director shall for purposes of
+articles 3 and 4 of this chapter, and may for purposes of other provisions of
+this title, identify sampling and analytical protocols appropriate for
+detecting and measuring the pollutant in the aquifers in the state.
+
+E. Within one year from the reclassification of an aquifer to a non-drinking
+water status, pursuant to section 49-224, the director shall adopt water
+quality standards for that aquifer. For any pollutants which were not the
+basis for the reclassification, the applicable standard shall be identical with
+the standard for those pollutants adopted pursuant to subsections A and B
+of this section. For any pollutants which were the basis for reclassification,
+the standard shall be sufficient to achieve the purpose for which the aquifer
+was reclassified but shall minimize unnecessary degradation of the aquifer
+by taking into consideration the potential long-term uses of the aquifer and
+the short-term and long-term benefits of the activities resulting in
+discharges into the aquifer.
+
+F. The director shall adopt water quality standards for an aquifer for which a
+petition has been submitted pursuant to section 49-224, subsection D
+sufficient to achieve the non-drinking water use for which that aquifer was
+classified, taking into consideration the potential long-term uses of that
+aquifer and the short-term and long-term benefits of the discharging
+activities creating that aquifer.
+
+G. In any action pursuant to this title, aquifer water quality protection
+provisions, including monitoring requirements, may be imposed only for
+pollutants for which aquifer water quality standards have been established
+that are likely to be present in a discharge. Indicator parameters and quality
+assurance parameters appropriate for such pollutants also may be specified.
+       ARS 49-224 Aquifer identification, classification and
+     reclassification (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-224. Aquifer identification, classification and
+reclassification
+
+A. Not later than June 30, 1987 the director shall, by rule, identify and
+define the boundaries of all aquifers in this state utilizing, to the maximum
+extent possible, data available from the department of water resources.
+
+B. All aquifers in this state identified and defined under subsection A of this
+section and any other aquifers subsequently discovered, identified and
+defined shall be classified for drinking water protected use unless the
+classification is changed in the manner provided in subsection C of this
+section.
+
+C. The director, after consulting with the appropriate groundwater users
+advisory council established pursuant to title 45, chapter 2, article 2 if the
+aquifer is in an active management area, and a public hearing held pursuant
+to section 49-208, may change the classification of an aquifer or part of an
+aquifer for a protected use other than drinking water on making all of the
+following findings:
+
+1. The identified aquifer or part of an aquifer is or will be so hydrologically
+isolated from other aquifers or other parts of the same aquifer that there is
+no reasonable probability that poorer quality water from the identified
+aquifer or part of an aquifer will cause or contribute to a violation of aquifer
+water quality standards in other aquifers or parts of the same aquifer.
+
+2. Water from the identified aquifer or part of an aquifer is not being used as
+drinking water.
+
+3. The short-term and long-term benefits to the public that would result
+from the degradation of the quality of the water in the identified aquifer or
+part of an aquifer below standards established pursuant to section 49-223,
+subsections A and B would significantly outweigh the short-term and long-
+term costs to the public of such degradation. Benefits and costs to be
+considered include economic, social and environmental.
+
+D. Owners or operators of facilities whose discharges are solely responsible
+for creating an aquifer may petition the director for a classification of the
+aquifer for a non-drinking water use. The director may, by rule, classify that
+aquifer for a non-drinking water use upon making the findings prescribed in
+subsection C, paragraphs 1 and 2 of this section.
+
+E. The director shall provide for public participation in proceedings under
+this section pursuant to section 49-208 and shall hold at least one public
+       ARS 49-224 Aquifer identification, classification and
+     reclassification (Arizona Revised Statutes (2021 Edition))
+
+
+hearing at a location as near as practicable to the aquifer proposed for
+reclassification.
+ ARS 49-225 Water quality monitoring (Arizona Revised Statutes
+                        (2021 Edition))
+
+
+§ 49-225. Water quality monitoring
+
+A. The director of environmental quality , with the advice and cooperation of
+the Arizona department of agriculture and the director of water resources
+when appropriate , shall conduct ongoing monitoring of the waters of the
+state including the state's navigable waters and aquifers to detect the
+presence of new and existing pollutants, determine compliance with
+applicable water quality standards, determine the effectiveness of best
+management practices, agricultural best management practices and best
+available demonstrated control technologies, evaluate the effects of
+pollutants on public health or the environment and determine water quality
+trends.
+
+B. The director shall maintain a statewide database of groundwater and soils
+sampled for pollutants. All agencies shall submit to the director, in a timely
+manner, the results of any groundwater or soils sampling for pollutants and
+the results of any groundwater or soils sampling that detect any pollutants.
+
+C. The director shall establish minimum requirements and schedules for
+groundwater and soils sampling that will ensure precise and accurate
+results. The requirements shall be distributed to all agencies that conduct
+sampling. All sampling conducted shall meet the minimum requirements
+established pursuant to this subsection.
+
+(Amended by L. 2018, ch. 192,s. 3, eff. 8/3/2018.)
+

@@ -1,0 +1,40 @@
+**Reference Toxicant Data
+Name of Toxicant:______________________________________________________________
+Dates of Test(s): ________________________________________________________________
+Species and Age:________________________________________________________________
+In-house or Commercially Obtained Test Organisms:___________________________________
+LC50 or IC25:___________________________________________________________________
+**Please attach all ref. tox. raw data for each test organism used.
+SUMMARY OF TEST CONDITIONS
+CERIODAPHNIA DUBIA
+
+PIMEPHALES PROMELAS
+
+Test Type: Chronic or Acute
+Renewal or Non-renewal
+Test Concentrations (% Effluent)
+Age of Test Org.
+Amount and Type of food
+How often fed
+Test Chamber Volume
+Type of Chamber
+# of Org./Chamber
+# of reps.
+Description of Control Water
+Single, Multiple or Continuous Temp.
+Readings
+
+Test Results (Acute and/or Chronic)
+TEST SPECIES
+
+48-HOUR LC50
+
+96-HOUR LC50
+
+118
+
+IC25 SURVIVAL
+
+IC25 REPR. OR GROWTH
+
+

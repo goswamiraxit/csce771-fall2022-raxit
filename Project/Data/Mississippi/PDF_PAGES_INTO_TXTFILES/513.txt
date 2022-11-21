@@ -1,0 +1,56 @@
+Table 2 Assessment Categories
+Assessment Categories
+
+Definitions of Categories
+
+Category 1
+
+All uses associated with the Assessment Unit have a use attainment
+status of “Fully Supporting”
+All uses associated with the Assessment Unit that have been
+assessed are “Fully Supporting” but there is insufficient data to
+determine if remaining designated uses are met
+Insufficient data to determine whether any designated uses are met
+More specific categories of 4A, 4B, and 4C are required
+TMDL has been completed
+Other required control measures will result in
+attainment of WQS
+Impairment or threat not caused by a pollutant
+Available data indicate that at least one designated use is not being
+supported and a TMDL is needed
+
+Category 2
+
+Category 3
+Category 4
+4A
+4B
+4C
+Category 5
+
+5-alt
+
+Available data indicate that at least one designated use is not being
+supported, but an alternative restoration approach is being
+implement rather than development of a TMDL.
+
+The §303(d) list includes streams that are impaired that do not have completed Total Maximum
+Daily Loads (TMDLs). Once the TMDL is completed, but prior to the stream being restored,
+MDEQ modifies the assessment category of the stream. An impaired stream without a TMDL is
+assessed in category 5. A stream with a TMDL, but still impaired, is assessed in category 4A.
+The §303(d) lists all of the category 5 waters. Completed TMDLs may be found on the TMDL
+website at:
+https://www.mdeq.ms.gov/wp-content/uploads/TMDLs/
+For a listing of all assessed waters and their assigned category, please see the §305(b) Water
+Quality Assessment Report listed below:
+https://www.mdeq.ms.gov/water/field-services/water-quality-assessment/
+
+E. Monitoring Data
+Assessments for 2020 are based on current site-specific monitoring data believed to accurately
+portray existing water quality conditions. A water body is considered monitored if sufficient (in
+quantity, quality, and frequency) physical, chemical, biological, bacteriological, and/or fish
+tissue data were collected and assessed on the water body data from January 1, 2014 to
+December 31, 2018.
+8
+
+

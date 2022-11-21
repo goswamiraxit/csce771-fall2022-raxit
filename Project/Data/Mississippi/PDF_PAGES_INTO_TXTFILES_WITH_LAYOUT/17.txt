@@ -1,0 +1,49 @@
+(82)   "Water Quality Standards" the criteria and requirements set forth in State of
+       Mississippi Water Quality Criteria for Intrastate, Interstate, and Coastal Waters.
+       Water quality standards are standards composed of designated present and future
+       most beneficial uses (classification of waters), the numerical and narrative criteria
+       applied to the specific water uses or classification, and the Mississippi
+       antidegradation policy.
+
+(83)   "Water quality based effluent limitation (WQBEL)" means an effluent limitation,
+       which may be more stringent than a technology based effluent limitation,
+       determined as necessary by the Department to ensure that water quality standards
+       in a receiving body of water will not be violated.
+
+(84)   "Water quality criteria" are elements of State water quality standards, expressed
+       as constituent concentrations, levels, or narrative statements, representing a
+       quality of water that supports the present and future most beneficial uses.
+
+(85)   "Waters of the State" means all waters within the jurisdiction of this State,
+       including all streams, lakes, ponds, wetlands, impounding reservoirs, marshes,
+       watercourses, waterways, wells, springs, irrigation systems, drainage systems, and
+       all other bodies or accumulations of water, surface and underground, natural or
+       artificial, situated wholly or partly within or bordering upon the State, and such
+       coastal waters as are within the jurisdiction of the State, except lakes, ponds, or
+       other surface waters which are wholly landlocked and privately owned, and which
+       are not regulated under the Federal Clean Water Act (33 U.S.C.1251, et seq..).
+
+(86)   "Weekly average" means the average of "daily discharges" over a calendar week,
+       calculated as the sum of all "daily discharges" measured during a calendar week
+       divided by the number of "daily discharges" measured during that week. The
+       weekly average for fecal coliform bacteria is the geometric mean of all "daily
+       discharges" measured in a calendar week. In computing the geometric mean for
+       fecal coliform bacteria, one (1) shall be substituted for sample results of zero. For
+       self-monitoring purposes, the value to be reported is the single highest weekly
+       average computed during a calendar month.
+
+(87)   "Yearly average" means the average of "daily discharges" over a calendar year,
+       calculated as the sum of all "daily discharges" measured during the calendar year
+       divided by the number of "daily discharges" measured during the calendar year.
+       The yearly average for fecal coliform bacteria is the geometric mean of "daily
+       discharges" during the calendar year. In computing the geometric mean for fecal
+       coliform bacteria, the value one (1) shall be substituted for sample results of zero.
+
+(88)   "Yearly maximum" means the highest "daily discharge" measured over a calendar
+       year.
+
+(89)   "Zone of mixing" or "Mixing Zone" constitutes an area whereby physical mixing
+       of a wastewater effluent with a receiving water body occurs.
+
+                                        17
+

@@ -1,0 +1,680 @@
+      06 096 Me. Code R. Ch. 851 Standards for Generators of
+      Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+Chapter 851: STANDARDS FOR GENERATORS OF HAZARDOUS WASTE
+
+SUMMARY: This rule establishes standards and requirements for persons
+who generate hazardous waste.
+
+l. Legal Authority. This rule is authorized by and adopted under 38
+M.R.S. §§ 1301 et seq.
+
+2. Preamble. It is the purpose of the Department of Environmental
+Protection, consistent with legislative policy, to provide effective controls for
+the management of hazardous waste. This rule provides for one of these
+controls by establishing certain standards which must be met by generators
+of hazardous waste.
+
+Portions of this rule refer to federal regulations of the United States
+Environmental Protection Agency (EPA). Unless otherwise specified, the
+federal regulations referenced are those interim final or final regulations
+revised as of July 1, 1988, as they appeared in volume 40 of the Code of
+Federal Regulations (C.F.R.). Where specifically stated, the terms of a
+referenced federal regulation are hereby adopted as terms of this rule,
+except that in regulations incorporated thereby, "EPA" shall mean "the
+Maine Department of Environmental Protection (DEP)"; "Administrator",
+"Regional Administrator" and "Director" shall mean "the Maine Board of
+Environmental Protection or its designated representative", and the phrase
+"treat, store, and/or dispose" shall mean "handle". In addition, where the
+terms of federal regulations hereby incorporated by reference differ from or
+are inconsistent with other terms of this Chapter or Chapters 850-860, the
+more stringent of the requirements shall apply. Other changes to regulations
+incorporated hereby are as expressly made in this rule.
+
+NOTE: Other requirements for generators appear in other rules of the
+Department dealing with specific aspects of hazardous waste management.
+See, for example, Chapter 857, Hazardous Waste Manifest Requirements,
+Chapter 856, Licensing of Hazardous Waste Facilities, Chapter 854,
+Standards for Hazardous Waste Facilities, and Chapter 852, Land Disposal
+Restrictions.
+
+3. Definitions
+
+A. Board. "Board" means Board of Environmental Protection.
+
+B. Department. "Department" has the same meaning as in the Rule
+Concerning the Processing of Applications and Other Administrative
+Matters, 06-096 C.M.R. ch. 2.
+     06 096 Me. Code R. Ch. 851 Standards for Generators of
+     Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+NOTE: As used in this rule, "department" may refer to either the "board" or
+the "commissioner". Under certain circumstances, Maine statutes require
+that the board, rather than the commissioner, perform duties that may be
+described or referenced in this rule (e.g. licensing of commercial hazardous
+waste facilities pursuant to 38 M.R.S. §1319-R; licensing of projects of
+"statewide significance" pursuant to 38 M.R.S. §341-D).
+
+C. Generator. "Generator" means a person whose act or process produces
+a waste which is or may be hazardous or whose act first causes a hazardous
+waste to become subject to regulation.
+
+(1) Large Quantity Generator. "Large Quantity Generator" means a
+generator that does any one of the following:
+
+(a) Generates 100 kilograms (approximately 27 gallons) or more of
+hazardous waste per calendar month,
+
+(b) Generates in a calendar month acute hazardous wastes in quantities
+greater than those set forth in Section 3(A)(5)(c) of Chapter 850,
+
+(c) Accumulates more than 600 kilograms (approximately 165 gallons) of
+hazardous waste at any one time, or
+
+(d) Accumulates at any one time acute hazardous wastes in quantities
+greater than those set forth in Section 3(A)(5)(c) of Chapter 850.
+
+(2) Small Quantity Generator. "Small Quantity Generator" means a
+generator that does all of the following:
+
+(a) Generates less than 100 kilograms (approximately 27 gallons) of
+hazardous waste per calendar month,
+
+(b) Accumulates a total of no more than 55 gallons (approximately 200
+kilograms) of hazardous waste at any one time, and
+
+(c) Generates in a calendar month acute hazardous wastes in quantities no
+more than those set forth in Section 3A)(5)(c) of Chapter 850 and
+accumulates at any one time acute hazardous wastes in quantities no more
+than those set forth in Section 3(A)(5)(c) of Chapter 850.
+
+(3) Small Quantity Generator Plus. "Small Quantity Generator Plus"
+means a generator that does all of the following:
+
+(a) Generates less than 100 kilograms (approximately 27 gallons) of
+hazardous waste per calendar month,
+     06 096 Me. Code R. Ch. 851 Standards for Generators of
+     Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+(b) Accumulates over 55 gallons (approximately 200 kilograms), but no
+more than 600 kilograms (approximately 165 gallons) of hazardous waste at
+any one time, and
+
+(c) Generates in a calendar month acute hazardous wastes in quantities no
+more than those set forth in Section 3(A)(5)(c) of Chapter 850 and
+accumulates at any one time acute hazardous wastes in quantities no more
+than those set forth in Section 3(A)(5)(c) of Chapter 850.
+
+D. Handle. "Handle" means to store, transfer, collect, separate, salvage,
+process, reduce, recover, incinerate, treat or dispose of.
+
+E. Site. "Site" means the same or geographically contiguous property which
+may be divided by a public or private right-of-way, provided that the
+entrance and exit between the properties is at a crossroads intersection and
+access is by crossing as opposed to going along the right-of-way.
+Noncontiguous properties owned by the same person but connected by a
+right-of-way which he controls and to which the public does not have access
+is also considered site property.
+
+F. Waste. "Waste" means any useless, unwanted or discarded substance or
+material, whether or not such substance or material has any other or future
+use and includes any substance or material that is spilled, leaked, pumped,
+poured, emitted, disposed, emptied, or dumped onto the land or into the
+water or ambient air.
+
+G. Double Walled Tank. "Double Walled Tank" means a tank that is
+enclosed within a second outer wall and that includes secondary
+containment or a leak detection system that allows for only minimal
+discharges during leakage for tank piping. An automatic leak detection
+system monitors the cavity between the inner and outer walls of the double
+walled tank.
+
+4. Applicability
+
+A. A generator who handles hazardous waste on the site of its generation
+also must comply with applicable standards and requirements set forth in
+Chapters 850, 852, 854, 855, 856 and 857.
+
+B. Any person who imports hazardous waste from a foreign country into the
+State of Maine shall comply with the standards and requirements applicable
+to generators established in this rule and in Chapter 857.
+
+C. A farmer who generates waste pesticides in his own use which are
+hazardous waste and who complies with all of the requirements of Section
+      06 096 Me. Code R. Ch. 851 Standards for Generators of
+      Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+10 of this rule is not required to comply with other standards in this rule or
+in Chapters 852, 854, 855 and 856 with respect to such pesticides.
+
+5. Hazardous Waste Determination. A person who generates a waste
+shall determine if that waste is hazardous by using the following method:
+
+A. First determine if the waste is excluded from regulation under Chapter
+850 of the Department's rules.
+
+B. Then determine if the waste is listed as a hazardous waste in Chapter 850
+of the Department's rules.
+
+C. If the waste is not listed as a hazardous waste in Chapter 850, the person
+shall determine whether the waste is identified by characteristic, as a
+hazardous waste in Chapter 850 by either:
+
+(l) Testing the waste according to the methods set forth in Chapter 850, or
+according to an equivalent method approved under Chapter 850; or
+
+(2) Applying knowledge of the hazard characteristic of the waste in light of
+the materials or the processes used.
+
+6. Identification Numbers
+
+A. No person shall generate hazardous waste without first having obtained a
+generator identification number specific for the site of waste generation
+except as provided for a small quantity generator below.
+
+(1) The identification number shall be comprised of the identification
+number assigned to the generator by the United States Environmental
+Protection Agency and/or any identifying number or letter as may be
+assigned by the Department.
+
+NOTE: A generator may obtain an EPA identification number by applying to
+the Department of Environmental Protection, Bureau of Remediation and
+Waste Management, State House Station #17, Augusta, Maine 04333-0017
+using EPA form 8700-12 "Notification of RCRA Subtitle C Activities".
+
+(2) A small quantity generator as defined by Chapter 851, Section 3(C)(2) of
+the Department's rules does not require an EPA identification number but is
+assigned the state identification number ME X020000000.
+
+B. A generator shall not offer his hazardous wastes to any transporter unless
+that transporter has obtained an identification number and shall not offer
+hazardous wastes to a waste facility unless the facility has obtained an
+identification number or is not required to have such a number.
+      06 096 Me. Code R. Ch. 851 Standards for Generators of
+      Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+C. A generator shall file a subsequent application (notification) of regulated
+waste activity to reflect any change in ownership or operation of the site.
+
+NOTE: Changes in operation means changes in operators including tenants
+who lease a facility from an owner.
+
+7. Transportation Requirements
+
+A. A generator shall not offer hazardous waste in any quantity to a
+transporter who is not licensed by the State of Maine to transport hazardous
+waste nor shall he transport the waste himself without a transporter license.
+
+NOTE: Licensing requirements for transporters are set out in Chapter 853,
+Licensing of Transporters of Hazardous Waste.
+
+B. A generator shall transport, or offer for transport, hazardous waste only
+to a waste facility for hazardous waste which is authorized to handle the
+waste under a State program, and if applicable, under the Federal hazardous
+waste regulatory program.
+
+8. Pre-Transport Requirements
+
+A. Before a generator removes or allows the removal of hazardous waste
+from the site of its generation, he shall:
+
+(1) Package the waste in accordance with the applicable Federal Department
+of Transportation regulations on packaging under 49 C.F.R. Parts 173, 178,
+and 179;
+
+NOTE: "C.F.R." refers to the Code of Federal Regulations, a publication of
+the United States government in which appear all regulations of the Federal
+administrative agencies. Copies of the Federal Department of
+Transportation regulations referred to above may be obtained from the
+United States Government Printing Office, Washington, DC 20402.
+
+(2) Label each package in accordance with the applicable Federal
+Department of Transportation regulations on hazardous materials under 49
+C.F.R. Part 172;
+
+(3) Mark each package of hazardous waste in accordance with the applicable
+Federal Department of Transportation regulations on hazardous materials
+under 49 C.F.R. Part 172;
+
+(4) Mark each container of 110 gallons or less used in such transportation
+with the following words and information displayed in accordance with the
+requirements of 49 C.F.R. 172.304:
+      06 096 Me. Code R. Ch. 851 Standards for Generators of
+      Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+HAZARDOUS WASTE--Federal Law Prohibits Improper Disposal. If found,
+contact the nearest police or public safety authority or the Maine
+Department of Environmental Protection (1-800-482-0777) or the nearest
+office of the United States Environmental Protection Agency.
+
+Generator's Name & Address _______________________________
+
+_______________________________
+
+Manifest Document Number _______________________________
+
+NOTE: For State-only hazardous wastes, if they also are not DOT regulated
+hazardous materials, the requirements of 49 C.F.R. 172.304 do not apply.
+Thus for any such wastes, instead of following the marking requirements
+specified above, generators should instead mark each container as follows:
+
+State Hazardous Waste - State Law Prohibits Improper Disposal. If found,
+contact the nearest police or public safety authority or the Maine
+Department of Environmental Protection (1-800-482-0777).
+
+Generator's Name & Address ________________________________
+
+________________________________
+
+Manifest Document Number ________________________________
+
+(5) Placard or offer the initial transporter the appropriate placards according
+to Federal Department of Transportation regulations for hazardous
+materials under 49 C.F.R. Part 172, Subpart F.
+
+B. A generator may accumulate hazardous waste on the site of its generation
+for ninety (90) days or less without a license, provided that:
+
+(1) All such waste is transported off-site before or on the 90th day;
+
+(2) The waste is placed in containers or tanks which meet the requirements
+of Section 8(A)(1) of this rule and which are managed in accordance with
+standards contained in this rule and Chapter 855, Section 9(C) (containers),
+and Chapter 855, Section 9(D) (tanks) except that the requirements of 40
+C.F.R. 265.197(c) and 40 C.F.R. 265.200 do not apply.
+
+(3) The date upon which each period of accumulation begins is clearly
+marked and visible for inspection on each container or tank and while being
+accumulated on-site each container or tank is labeled or marked clearly with
+the words, "Hazardous Waste";
+     06 096 Me. Code R. Ch. 851 Standards for Generators of
+     Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+(4) Each container is properly labeled and marked as required by Section
+8(A)(2), (3) and (4) of this rule prior to shipment offsite; and
+
+(5) The generator complies with all requirements imposed by 40 C.F.R.
+264.16, 264.31-264.37, and 264.51-264.56 which are hereby adopted and
+incorporated by reference, provided however, that the reference in 40 C.F.R.
+264.52(b) to "Part 112 of this Chapter, or Part 1510 of Chapter V" shall read
+"Part 112 or Part 1510 of volume 40 of EPA's Code of Federal Regulations" or
+the provisions of 38 M.R.S. §1317 et seq. and the rules promulgated
+thereunder, whichever is more stringent.
+
+NOTE: Generators using hazardous waste compactors exempt from
+licensing under Chapter 856, Section 6(E) shall comply with all the
+requirements of Chapter 851 for the on-site accumulation of hazardous
+waste in tanks.
+
+C. No generator shall accumulate hazardous waste for more than 90 days
+without a license, unless the Department grants an extension of up to 30
+days due to unforeseen, temporary, and uncontrolled circumstances. A
+generator who does accumulate hazardous waste for more than ninety (90)
+days without an extension granted by the Department is an operator of a
+storage facility for hazardous waste and, as such, is subject to the
+requirements of Chapters 854, 855 and 856 of the Department's rules except
+that:
+
+A generator may accumulate on-site as much as 55 gallons of each
+hazardous waste or one quart of each acutely hazardous waste identified or
+listed in Chapter 850 of the Department's rules in containers labeled with
+the words "hazardous waste" at a satellite accumulation area, without a
+license or interim status and without complying with Section 8(B)(1) of this
+rule, provided the generator complies with all other requirements of this
+rule. A satellite accumulation area must be at or near any point of generation
+where wastes initially accumulate, which is under the control of the operator
+of the process generating the waste. A generator who accumulates hazardous
+waste or acutely hazardous waste under this subsection must upon
+accumulating either 55 gallons (200 kg) of a hazardous waste or 1 quart (1
+kg) of a acutely hazardous waste immediately label the container with the
+date (accumulation start date) and relocate the container to the generator
+storage facility within 72 hours. At such time the generator shall comply
+with Section 8(B)(1) of this rule.
+
+NOTE: Satellite accumulation areas are required to meet all applicable
+generator standards except for the 90-day accumulation time limitation,
+including but not limited to labeling (except the accumulation start date is
+not required until the quantity limit is reached), container management, and
+     06 096 Me. Code R. Ch. 851 Standards for Generators of
+     Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+weekly inspection requirements. For the purposes of this section, "all other
+requirements of this rule" means 8(B)(2),13(B)(1), 13(C)(1), (3), (4), 13(D)(1)
+and (2).
+
+9. Record keeping and Reporting
+
+A. A generator must keep a copy of all test results, waste analyses and other
+determinations made in accordance with Section 5 of this rule for a period of
+time not less than ten (10) years from the date that the waste was last sent to
+on-site or off-site handling.
+
+B. A generator must retain copies of all reports filed with the Department or
+the United States Environmental Protection Agency for a period of time not
+less than ten (10) years from the due date of the report.
+
+C. A generator must retain the log books required under Section 13(D) for a
+minimum of one (1) year.
+
+D. The periods of retention referred to in the previous paragraphs are
+extended automatically during the course of any unresolved enforcement
+action regarding regulated activity or as requested by the Commissioner,
+Department of Environmental Protection or by the Regional Administrator
+or Administrator of the United States Environmental Protection Agency.
+
+E. A generator who removes or allows the removal of his hazardous waste
+from the site of its generation shall submit an Annual Report:
+
+(1) On forms specified by the Department and containing information
+required by the Department as specified on those forms.
+
+NOTE: Required information shall include that information required by
+EPA Form 8700-13A and 40 C.F.R. 262.41(a)(1)-(8) as a minimum. It is the
+Department's intention to also require appropriate annual information on a
+generator's progress towards meeting the hazardous waste reduction goals
+specified in the Maine Toxics Use Reduction Act.
+
+(2) To the Department;
+
+(3) No later than March 1st for the preceding calendar year.
+
+F. A generator who handles his hazardous waste on the site of its generation
+shall submit an Annual Report covering those wastes including any
+universal wastes:
+
+(1) In accordance with the provisions of Chapter 854, Section 6C(11);
+      06 096 Me. Code R. Ch. 851 Standards for Generators of
+      Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+(2) To the Department;
+
+(3) No later than March 1st for the preceding calendar year.
+
+Except that a generator shall not be required to file an annual report if the
+only hazardous wastes generated are universal wastes.
+
+G. A generator shall comply with the applicable reporting and record
+keeping requirements of Chapter 857, Hazardous Waste Manifest
+Requirements, and 856, Licensing of Hazardous Waste Facilities; Chapter
+854, Standards for Hazardous Waste Facilities; and 852, Land Disposal
+Restrictions.
+
+H. The Department, as it deems necessary for the effective management of
+hazardous waste, may require generators to furnish additional reports
+concerning quantities and handling of wastes identified or listed in Chapter
+850 of the Department's rules.
+
+10. Farmers. A farmer, disposing of waste pesticides from his own use on
+his own farm which are hazardous wastes, is not required to comply with the
+standards in this rule or other standards in Chapters 852, 854, 855 or 856
+for those wastes provided he collects wash and rinse water from the cleaning
+of spray equipment and triple rinses each emptied pesticide container in
+accordance with Chapter 850, Section 3(C)(4)(c) of the Department's rules
+and disposes of the pesticide residues on his own farm in a manner
+consistent with the disposal instructions on the pesticide label. The
+containers must then be disposed of in accordance with rules administered
+by the Pesticide Control Board, Maine Department of Agriculture.
+
+NOTE: The Pesticide Control Board phone number is (207) 287-2731.
+
+11. Closure
+
+A. A generator, who no longer generates waste at a site, shall remove all
+hazardous waste and hazardous waste residues to a facility licensed to
+handle the waste. Remaining containers, tanks, liners, bases, materials,
+equipment, structures and soil containing or contaminated with hazardous
+waste or hazardous waste residues shall be decontaminated or disposed of at
+a facility licensed to handle the waste, except as provided in paragraph (B).
+A generator shall provide 45 days written notice to the Department prior to
+closure and shall submit to the Department, within 10 days of completion of
+closure, certification that closure was completed in accordance with the
+provisions of this rule. The certification shall be made by the generator and
+by an independent State of Maine registered professional engineer and shall
+      06 096 Me. Code R. Ch. 851 Standards for Generators of
+      Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+be submitted within ninety (90) days from the date when wastes were no
+longer generated at the site.
+
+B. If a generator conducting closure of a tank system demonstrates that all
+contaminated soil cannot be practicably removed or decontaminated as
+required by paragraph (A) above, then the generator must close the tank
+system and perform post-closure care in accordance with the closure and
+post-closure requirements that apply to landfills under Chapter 855, Section
+9(H). In addition, for the purposes of closure, post-closure, and financial
+responsibility, such a tank system is then considered to be a landfill, and the
+generator must meet all the requirements for landfills in Chapter 855,
+Sections 9(A)(15) and (16).
+
+C. As part of the written notice prior to closure in paragraph (A), the
+generator shall provide the Department with a detailed summary of all past
+or present releases of hazardous waste or constituents from tanks or
+containers used to accumulate hazardous waste under this Chapter. Based
+upon this summary, the frequency and nature of releases, whether the
+releases were addressed under a Department authorized remediation plan,
+and other available information, the Department may require the generator
+to prepare a closure plan for Department review and approval prior to the
+initiation of closure operations. The Department will notify the generator
+within 30 days of a properly filed closure notice if a closure plan will be
+required to be filed with the Department.
+
+D. Change of site or installation ownership, or the vacating of the site by the
+generator shall constitute cessation of generation and shall initiate closure of
+all the units which will not continue to be used.
+
+NOTE: Partial closures are required for those units that will not be used by a
+new owner or tenant.
+
+12. Prohibitions
+
+A. No generator may treat or dispose of hazardous waste on-site unless
+licensed to do so pursuant to Chapter 856 of the Department's Rules, except
+as provided in Chapter 856, Section 6(E).
+
+B. The storage of hazardous waste in an underground or in-ground tank is
+prohibited after December 31, 1987, except:
+
+A hazardous waste which is hazardous because of its ignitability may be
+accumulated and stored in underground or in-ground tanks if such storage
+is in double walled tanks meeting the requirements of 40 C.F.R.
+265.193(e)(3), which are hereby adopted and incorporated by reference.
+      06 096 Me. Code R. Ch. 851 Standards for Generators of
+      Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+NOTE: Tanks which have previously held hazardous wastes are required to
+be closed under the provisions of this Rule.
+
+C. For generators that store hazardous wastes in excess of 5,000 gallons at
+any one time, no storage shall occur unless licensed under Chapter 856 of
+the Department's rules:
+
+(1) on land defined as a wetland under statutes or regulations administered
+by the Department, Department of Conservation, Department of Inland
+Fisheries and Wildlife, Department of Marine Resources, or the State
+Planning Office; or
+
+(2) on land that overlies any portion of or surface or subsurface sand and
+gravel aquifer or a high yield aquifer, unless the storage area is underlain by
+a synthetic liner which meets the design requirements of 854,8B(4).
+
+D. No generator may discharge hazardous waste via a sewer system
+containing domestic sewage to a publicly owned treatment works (POTW)
+unless the generator has received an abbreviated permit under Chapter 856
+and the discharge is in compliance with such license or if the generator is
+eligible for an exemption pursuant to Chapter 850, Section 3(A)(4)(a)(ii).
+
+13. Management Standards
+
+A. Performance Standards. Generators shall manage their waste to
+prevent or minimize risk to the environment.
+
+B. Design Standards
+
+(1) A generator must accumulate and store its containerized hazardous
+waste upon a base which is a firm working surface, such as asphalt or
+concrete, which is impervious and which must be kept entire and which is
+constructed of a minimum thickness of four (4) inches and shall be
+constructed to prevent spillage from leaving the area.
+
+NOTE: Examples of such a structure are a base constructed with a raised
+berm of at least six (6) inches around the entire facility or a location that is
+enclosed with a roof and walls.
+
+(2) Each building or separate container storage area must have a
+containment and collection system the capacity of which must exceed 20%
+of the total capacity of all containers and tanks used to store wastes or 110%
+of the capacity of the largest container or tank, whichever is greater. This
+system must also provide for sufficient freeboard to allow for containment
+and collection of precipitation resulting from a 24 hour, 25 year storm,
+unless the storage facility is enclosed.
+      06 096 Me. Code R. Ch. 851 Standards for Generators of
+      Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+(3) A tank must be designed and installed so that it can be fully inspected for
+structural integrity, deterioration, and leaks, except that a tank whose base
+cannot be fully inspected must be designed and installed to meet the
+requirements of 40 C.F.R. 265.193(e)(3) for double walled tanks, which is
+hereby adopted and incorporated by reference.
+
+(4) Uncovered tanks must be designed to assure at least 2 feet of freeboard
+at all times.
+
+(5) Overtopping of tanks during continuous feed must be prevented by a
+system of automatic shutoff or by automatic diversion of the waste feed into
+a tank having at least 30 percent of the volume of the primary tank.
+
+C. Operation
+
+(1) A container must not be used for the storage of hazardous waste for a
+period of time exceeding the design life of the container.
+
+(2) Any pipeline and pipeline valves that transfers hazardous waste to or
+from a tank must be inspected and pressure tested at least annually or tested
+at least annually by a method reviewed and approved by the Department to
+determine structural integrity. All tanks and piping valves must be internally
+inspected at least annually to determine fitness for use, except for the tank
+portion of double walled tanks with continuous interstitial monitoring which
+must be tested in accordance with Chapter 691, Section 7(C)(2) of the
+Regulation for Registration, Installation, Operation & Closure of
+Underground Oil Storage Facilities. The date of the most recent inspection
+and testing of a tank must be painted in a prominent location on the tank. A
+tank or pipeline that fails the test or is determined to be unsafe shall be
+removed or repaired to the satisfaction of the Department. Results which
+show failure of a tank or piping or that are shown through an inspection to
+be unsafe shall be submitted to the Department within 10 days of the tank
+testing or inspection. A log of the dates and results of all inspections and
+testing must be maintained pursuant to Sections 9(C) and 13(D)(3).
+
+(3) Hazardous waste must not be stored in containers or tanks which are
+rusted, bulging or leaking.
+
+(4) Containers or tanks must be compatible with the type of waste stored
+therein.
+
+(5) Containers or tanks used to store hazardous waste must not be used to
+store foodstuffs or animal feed or any substance likely to come into contact
+with foodstuffs or animal feed.
+      06 096 Me. Code R. Ch. 851 Standards for Generators of
+      Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+(6) Containers or tanks holding incompatible hazardous wastes must not be
+stored in the same enclosure, building or structure unless they are
+segregated in a manner that prevents the wastes from coming into contact
+with one another under any circumstance, including simultaneous leakage
+or failure of a container(s) or tank(s).
+
+(7) All hazardous waste containers must be stored in a manner that allows
+access for inspection and for remedial action if any container is found to be
+rusting, bulging or leaking or waste is spilled or discharged. In any event:
+
+(a) Containers with a capacity of ten (10) gallons or more must not be
+stacked in rows in excess of four (4) wide and two (2) high.
+
+(b) Aisle space between rows of containers must be sufficient to allow the
+unobstructed movement of personnel, fire protection equipment, spill
+control equipment and decontamination equipment to any area of facility
+operation in any emergency but in no event shall the aisle space be less than
+thirty six (36) inches wide. Rows not exceeding a single container in width
+and two (2) high may be stacked adjacent to walls or other components of
+the storage facility.
+
+(c) The facility must be established, constructed, altered and operated in
+compliance with the requirements of:
+
+(i) 40 C.F.R. Part 264.14, Security;
+
+(ii) 40 C.F.R. Part 264, Subpart C. Preparedness and Prevention, and in
+addition, the precautions required to be taken by 40 C.F.R. Part 264.17 must
+meet applicable requirements of codes, standards and rules of the
+Department of Public Safety (State Fire Marshal's Office), the aid
+agreements required by 264.37 must be in writing, on file with each party to
+the agreement and with the Department, readily accessible to facility
+personnel, and reviewed and updated annually.
+
+D. Inspection, Surveying and Record keeping
+
+(1) Weekly inspections of all containers of hazardous waste, including
+containers at satellite accumulation areas, shall be made and recorded in a
+log book which shall be kept at the facility to ensure at least the following:
+
+(a) No containers are rusting, bulging or leaking.
+
+(b) All hazardous waste containers are stored and managed according to 7(a)
+and 7(b) above.
+     06 096 Me. Code R. Ch. 851 Standards for Generators of
+     Hazardous Waste (Code of Maine Rules (2021 Edition))
+
+
+(2) The log book shall contain the name of the person conducting the
+inspection, the date and time of the inspection, and the conclusions or
+results of each inspection.
+
+(3) The annual tank, valve and pipe testing and inspection, results shall be
+recorded in the log book.
+
+E. Air, Ground Water and Surface Water Monitoring. The Board
+may require ground water, surface water and air quality monitoring in
+accordance with the requirements of Sections 8(D), 8(E), and 8(F) of
+Chapter 856 of the Department's rules if it determines that such monitoring
+is necessary to ensure protection of public health and safety or of the
+environment.
+
+AUTHORITY: 38 M.R.S. §§ 1301 et seq.
+
+EFFECTIVE DATE: November 24, 1980
+
+AMENDED March 23, 1983
+
+February 10, 1985
+
+November 30, 1986
+
+March 16, 1994
+
+EFFECTIVE DATE
+
+(ELECTRONIC CONVERSION): May 4, 1996
+
+AMENDED: January 23, 2001
+
+MINOR CORRECTIONS: March 5, 2001
+
+July 23, 2008 - informational note added to Section 8(4)
+
+AMENDED: September 3, 2013 - filing 2013-217
+
+June 11, 2018 - filing 2018-099
+

@@ -1,0 +1,40 @@
+                    Water Body       Water                  Impaired
+     Basin                                       County                        Pollutant                        Location
+                      Name          Body Id                   Use
+
+South                                                      Aquatic Life    Biological      Near Carlisle from headwaters to mouth at Bayou
+Independent       Storm Creek       602811    Claiborne    Use Support     Impairment      Pierre
+
+South             West Fork                                Aquatic Life    Biological
+Independent       Thompson Creek    611411    Wilkinson    Use Support     Impairment      From headwaters to LA state line
+
+South                                         Jefferson,   Aquatic Life    Biological      At Tillman from headwaters to MWS 6035 boundary
+Independent       Willis Creek      603411    Claiborne    Use Support     Impairment      near Tillman Road bridge
+
+South                                                      Aquatic Life    Biological      Near Rosetta from headwaters mouth at Homochitto
+Independent       Zeigler Creek     607811    Franklin     Use Support     Impairment      River
+
+                                                           Aquatic Life                    Near Burnstown from Unnamed Tributary north of
+Tennessee River   Bear Creek        701111    Tishomingo   Use Support     pH              County Road 86 to Alabama
+
+Tombigbee                                                  Aquatic Life    Biological      From headwaters to confluence with Little
+River             Alamuchee Creek   818311    Lauderdale   Use Support     Impairment      Alamuchee Creek
+
+Tombigbee                                                  Aquatic Life    Biological
+River             Alamuchee Creek   818411    Lauderdale   Use Support     Impairment      From Little Alamuchee Creek to MS/AL state line
+
+Tombigbee                                                  Aquatic Life    Biological
+River             Ash Creek         816012    Noxubee      Use Support     Impairment      From headwaters to mouth at Noxubee River
+
+Tombigbee                                                  Aquatic Life    Biological
+River             Black Creek       810013    Lowndes      Use Support     Impairment      From headwaters to end near MWS 8207 boundary
+
+Tombigbee                                     Lee,         Aquatic Life    Biological      Near Mooreville from headwaters to confluence with
+River             Boguefala Creek   819211    Itawamba     Use Support     Impairment      Greenwood Creek
+                                              Lee,
+Tombigbee                                     Itawamba,    Aquatic Life    Biological      At Richmond from headwaters to mouth at Boguefala
+River             Boguegaba Creek   802711    Monroe       Use Support     Impairment      Creek
+
+
+                                                                          38
+

@@ -1,0 +1,40 @@
+              Water Body      Water                    Impaired
+    Basin                                 County                          Pollutant                       Location
+                Name         Body Id                     Use
+
+Tombigbee                              Oktibbeha,     Aquatic Life    Biological
+River       Browning Creek   812913    Noxubee        Use Support     Impairment      From headwaters to mouth at Noxubee River
+                                                                                      Near Greenwood Springs from confluence with
+Tombigbee   Buttahatchee                              Aquatic Life                    Sipsey Creek to MWS 8068 boundary near
+River       River            806711    Monroe         Use Support     pH              confluence with Alsup Creek
+
+Tombigbee                              Chickasaw,     Aquatic Life    Biological
+River       Cane Creek       807411    Clay           Use Support     Impairment      From headwaters to mouth at Houlka Creek
+
+Tombigbee                                             Aquatic Life    Biological
+River       Casey Creek      800812    Prentiss       Use Support     Impairment      From headwaters to mouth at Donivan Creek
+
+Tombigbee                                             Aquatic Life    Biological      Near Houston from headwaters to mouth at Houlka
+River       Chico Creek      820912    Chickasaw      Use Support     Impairment      Creek
+
+Tombigbee   Chinchahoma                               Aquatic Life
+River       Creek            812811    Oktibbeha      Use Support     Sediment        From headwaters to mouth at Noxubee River
+
+Tombigbee                                             Aquatic Life    Biological      From confluence with Little Coonewah Creek to
+River       Coonewah Creek   805311    Lee            Use Support     Impairment      mouth at Town Creek
+
+Tombigbee                                             Aquatic Life    Biological
+River       Dry Creek        804214    Clay, Monroe   Use Support     Impairment      From headwaters to mouth at Town Creek
+
+Tombigbee                                             Aquatic Life    Biological      Near West Point from headwaters to mouth at Town
+River       Fuller Creek     804112    Monroe, Clay   Use Support     Impairment      Creek
+
+Tombigbee                              Chickasaw,     Aquatic Life    Biological
+River       Goodfood Creek   807012    Pontotoc       Use Support     Impairment      From headwaters to mouth at Chuquatonchee Creek
+
+Tombigbee                                             Aquatic Life    Biological
+River       Greens Creek     810312    Lowndes        Use Support     Impairment      From headwaters to mouth of Tombigbee River
+
+
+                                                                     39
+

@@ -1,0 +1,48 @@
+             toxicity will be determined in accordance with the Water Quality
+             Standards Handbook: Second Edition (EPA-823-B-94-005a, August
+             1994) and Technical Support Document for Water Quality-Based Toxics
+             Control (EPA-505/2-90-001, March 1991). Regardless of the results of
+             chronic or acute toxicity bioassay surveys, the concentrations of toxic
+             substances shall not exceed the chronic or acute values, except as provided
+             for in Rules 2.2.F.5(a) and 2.2.F.5(b).
+
+      (b)    Human Health - The concentration of toxic substances shall not exceed the
+             level necessary to protect human health through exposure routes of fish
+             (and shellfish) tissue consumption, water consumption, or other routes
+             identified as appropriate for the water body.
+
+(2)   Numeric criteria for all waters are established herein for certain toxic pollutants
+      for which the Environmental Protection Agency (EPA) has published national
+      criteria for the protection of aquatic life and human health pursuant to Section
+      304(a) of the Federal Clean Water Act in addition to chlorine and ammonia. The
+      pollutants are listed in Table 2 and are expressed as the dissolved phase of the
+      parameter.
+
+(3)   Ammonia toxicity shall be evaluated according to EPA guidelines published in
+      1999 Update of Ambient Water Quality Criteria for Ammonia; EPA document
+      number EPA-822-R-99-014 or Ambient Water Quality Criteria for Ammonia
+      (Saltwater) - 1989; EPA document number 440/5-88-004. This material related to
+      ammonia toxicity is hereby incorporated by reference including any subsequent
+      amendments and editions.
+
+(4)   Application of Numerical Criteria:
+
+      (a)    When evaluating human health effects all waters must comply with the
+             Organisms Only criteria except for waters classified as Public Water
+             Supply and all stream segments within 50 stream miles upstream of a
+             drinking water intake. Stream segments that are classified as Public Water
+             Supply or are within 50 miles upstream of a drinking water intake shall
+             comply with the Water and Organisms criteria.
+
+      (b)    When applying acute or chronic toxicity or human health criteria the
+             following stream flows shall be used:
+
+             Acute Toxicity - 7Q10
+             Chronic Toxicity - 7Q10
+             Human Health - Mean Annual Flow
+
+      (c)    Criteria for certain metals may be modified on a site-specific basis when a
+             water effect ratio (WER) is conducted in accordance with Rule 2.6.C.2.a.
+
+                                      166
+

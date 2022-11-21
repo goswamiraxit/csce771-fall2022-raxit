@@ -1,0 +1,48 @@
+A parameter fails the screen when the appropriate instream concentration or effluent
+concentration (as per above) exceeds the appropriate criterion.
+
+MDEQ will use the chronic and acute water quality criteria and/or values as described in State of
+Mississippi Water Quality Criteria for Intrastate, Interstate, and Coastal Waters. If the
+permittee's discharge evaluation is based on species not found in Mississippi, the permittee may
+submit an alternative criterion as per the State's Water Quality Standards. However, said
+criterion shall conform to EPA's accepted procedures / rationale and is subject to both State and
+EPA approval.
+
+E.     Toxicity Limits.
+
+Chemical specific limits shall be placed in a permittee's permit if any of the parameters evaluated
+in the toxic screening procedure indicate the reasonable potential for violation of the appropriate
+criteria (Acute, Chronic, and Human Health). The only exception is when a permittee fails the
+criteria due only to the application of the variability factor, that is a number of samples less than
+12. In the case of the preceding exception, the permittee shall be required to monitor those
+parameters at a frequency of at least once per month for twelve months with the toxicity
+screening procedures being reapplied and the permit modified accordingly. The limits for the
+subject parameters will not be established until the subject data is received.
+
+Toxicity limitations may take two forms; (1) chemical specific numerical limitations placed on
+the effluent, and/or (2) whole effluent bioassays with whole effluent toxicity (WET) limits.
+Chemical numerical limits will be calculated by mass balance back to the effluent using the
+appropriate instream criteria. The Permit Board will consider the utilization of alternative
+approaches described in EPA's TSD for calculating WQBELs where sufficient supporting
+documentation is submitted by the applicant. Mixing zones may be utilized in certain
+circumstances as allowed in the "State of Mississippi Water Quality Criteria for Intrastate,
+Interstate, and Coastal Waters".
+
+In the absence of WET testing data, WET monitoring will be required upon failure of the acute
+or chronic chemical specific criteria screening. Failure of WET testing will be a basis for permit
+WET limitations. Failure will be defined as follows: an acute test that results in an LC50 < 3 *
+IWC, or a chronic test that results in an IC25 < IWC. The IC25 refers to the Inhibition
+Concentration 25, which shall be defined as a point estimate of the effluent concentration that
+would cause a 25% reduction in a non-lethal biological measurement of the test organisms, such
+as reproduction or growth.
+
+The establishment of a WET limit versus WET monitoring shall be in accordance with 40 CFR
+122.44(d), which is incorporated herein and adopted by reference. If chronic toxicity is
+indicated, the permit shall limit toxicity by requiring the IC25 of the effluent to equal or exceed
+the IWC. When acute toxicity is indicated, the toxicity limit will take the following form:
+
+                    Effluent 48-hour LC50 > 3 * IWC (not to exceed 100%)
+
+
+                                                 88
+

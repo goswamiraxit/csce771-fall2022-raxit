@@ -1,0 +1,41 @@
+               Water Body        Water                       Impaired
+     Basin                                   County                             Pollutant                        Location
+                 Name           Body Id                        Use
+
+Pascagoula
+River        Sandy Run          418613    Lamar             Recreation      Pathogens       From headwaters to mouth at Black Creek
+
+Pascagoula                                                  Aquatic Life    Biological      From confluence with Penantly Creek to confluence
+River        Souenlovie Creek   404811    Clarke, Jasper    Use Support     Impairment      with Twistwood Creek
+                                                                            Total
+                                                                            Nitrogen,       At Meridian from headwaters to confluence with
+Pascagoula                                                  Aquatic Life    Total           Unnamed Tributary at MWS 4237 boundary
+River        Sowashee Creek     400811    Lauderdale        Use Support     Phosphorus
+                                                                            Total
+                                                                            Nitrogen,
+Pascagoula                                                  Aquatic Life    Total
+River        Sowashee Creek     423711    Lauderdale        Use Support     Phosphorus      From MWS 4008 boundary to MWS 4009 boundary
+                                                                            Total
+                                                                            Nitrogen,
+Pascagoula                                                  Aquatic Life    Total           From confluence with Unnamed Tributary at MWS
+River        Sowashee Creek     400911    Lauderdale        Use Support     Phosphorus      4237 boundary to confluence with Okatibbee Creek
+
+Pascagoula                                                  Aquatic Life    Biological      From confluence of Talahata Creek to confluence of
+River        Tallahala Creek    413711    Jones, Jasper     Use Support     Impairment      Big Reely Creek
+
+Pascagoula                                                  Aquatic Life    Biological      From confluence with Big Reely Creek to MWS 4138
+River        Tallahala Creek    413712    Jones             Use Support     Impairment      boundary
+
+Pascagoula                                                  Aquatic Life    Biological      From MWS 4137 boundary to confluence with
+River        Tallahala Creek    413812    Jones             Use Support     Impairment      Tallahoma Creek
+
+Pascagoula                                Jones, Forrest,   Aquatic Life                    From confluence with Courtney Creek to MWS 4156
+River        Tallahala Creek    415511    Perry             Use Support     pH, TN, TP      boundary near Hammock Branch
+
+Pascagoula                                                  Aquatic Life    Biological      From confluence with Horse Creek to confluence
+River        Tallahoma Creek    412911    Jones             Use Support     Impairment      with Tallahala Creek
+
+
+
+                                                                           31
+

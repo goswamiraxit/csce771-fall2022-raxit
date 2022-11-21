@@ -1,0 +1,216 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+Tombigbee
+River
+
+Talking Warrior
+Creek
+
+812711
+
+Oktibbeha
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to MWS 8128 boundary
+
+Tombigbee
+River
+
+Town Creek
+
+804111
+
+Monroe, Clay
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Hang Kettle
+Creek
+
+Tombigbee
+River
+
+Town Creek
+
+804211
+
+Clay
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Hang Kettle Creek to mouth at
+Tenn-Tom Waterway
+
+Tombigbee
+River
+
+Town Creek
+
+808912
+
+Clay
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At West Point from headwaters to Tibbee Creek
+
+Tombigbee
+River
+
+Tulip Creek
+
+804912
+
+Lee
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Tupelo from headwaters to mouth at Town Creek
+
+Tombigbee
+River
+
+Unnamed
+Tributary To
+Catalpa Creek
+
+809012
+
+Lowndes
+
+Aquatic Life
+Use Support
+
+Sediment,
+TN, TP
+
+Near Stephens from headwaters to mouth at Catawpa
+Creek
+
+Tombigbee
+River
+
+Unnamed
+Tributary To
+Gilmer Creek
+
+810412
+
+Lowndes
+
+Aquatic Life
+Use Support
+
+Sediment
+
+Near Artesia from headwaters to mouth at gilmer
+Creek
+
+Tombigbee
+River
+
+Wet Water Creek
+
+813812
+
+Lowndes,
+Noxubee
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Brooksville from headwaters to Noxubee River
+
+Tombigbee
+River
+
+Wolf Creek
+
+803412
+
+Monroe
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Mattubby Creek
+
+Tombigbee
+River
+
+Wolf Creek
+
+818811
+
+Prentiss
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Twentymile Creek
+
+Tombigbee
+River
+
+Woodruff Creek
+
+808212
+
+Clay
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Underwood Creek
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+43
+
+Location
+
+

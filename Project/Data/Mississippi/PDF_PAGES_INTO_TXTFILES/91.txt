@@ -1,0 +1,47 @@
+The conversion factor to cfs is slightly less than 1.01 and is generally ignored. Attached to Rule
+1.1.2 collectively as Exhibit "C" and incorporated herein by reference is a table of runoff
+coefficients and a map showing average storm event intensity over Mississippi. The area is
+estimated using GIS software applications.
+Calculation:
+
+Q = I * ((C1 * A1 ) + (C2 * A2 ) + ....)
+For large watersheds without an applicable gaging station, Best Professional Judgment (BPJ)
+will be used.
+(2)
+
+Stormwater Limits Determination
+(a)
+
+Effluent Limitations Guidelines (ELG)
+
+(1) The Code of Federal Regulation (CFR), Title 40, provides effluent
+limitations guidelines that address storm water discharges for the
+following facilities: Cement Manufacturing (40 CFR Part 411);
+Concentrated Animal Feeding Operations (CAFO) (40 CFR Part 412);
+Fertilizer Manufacturing (40 CFR Part 418); Petroleum Refining (40
+CFR Part 419); Iron and Steel Manufacturing (40 CFR Part 420);
+Phosphate Manufacturing (40 CFR Part 422); Steam Electric (40 CFR
+Part 423); Bleached Papergrade Kraft and Soda Subcategory of the Pulp,
+Paper and Paperboard (40 CFR Part 430) Meat and Poultry Products (40
+CFR Part 432); Coal Mining (40 CFR Part 434); Oil and Gas (40 CFR
+Part 435); Mineral Mining and Processing (40 CFR Part 436);
+Centralized Waste Treatment Point Source (40 CFR Part 437); Metal
+Products and Machinery (40 CFR Part 438); Pharmaceutical
+Manufacturing (40 CFR Part 439); Ore Mining and Dressing (40 CFR
+Part 440); Transportation Equipment Cleaning (40 CFR Part 442);
+Asphalt Emission (40 CFR Part 443);.and Concentrated Aquatic Animal
+Production (40 CFR Part 451). All of the foregoing CFR parts are
+incorporated herein and adopted by reference.
+(2) When limits are given in the CFR, they are generally concentration
+values in mg/l. These concentration values will be used for the permit
+limits if protective of human health, welfare, or the environment.
+(3) When concentration limits are not given in the CFR, Water Quality
+Standards and/or best professional judgment will be used to determine
+the facility's discharge limits.
+(b)
+
+Water Quality Standards (WQS).
+
+91
+
+

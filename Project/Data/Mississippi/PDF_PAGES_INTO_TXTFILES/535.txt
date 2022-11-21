@@ -1,0 +1,212 @@
+Water Body
+Name
+
+Water
+Body Id
+
+Pascagoula
+River
+
+Okatibbee Creek
+
+401111
+
+Lauderdale
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From MWS 4010 boundary to mouth at
+Chickasawhay River
+
+Pascagoula
+River
+
+Okatibbee Creek
+
+401011
+
+Lauderdale
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Savoy from confluence with Sowashee Creek to
+MWS 4011 boundary
+
+Pascagoula
+River
+
+Okatibbee Creek
+
+401011
+
+Lauderdale
+
+Aquatic Life
+Use Support
+
+Total
+Nitrogen, pH
+
+Near Savoy from confluence with Sowashee Creek to
+MWS 4011 boundary
+
+Pascagoula
+River
+
+Okatoma Creek
+
+410511
+
+Covington
+
+Aquatic Life
+Use Support
+
+Total
+Nitrogen
+
+From confluence with Roger Creek to confluence
+with Big Swamp Creek
+
+Pascagoula
+River
+
+Penantly Creek
+
+404712
+
+Jasper
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Souenlovie Creek
+
+Pascagoula
+River
+
+Penders Creek
+
+400412
+
+Kemper
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth of Chickasawhay Creek
+
+Pascagoula
+River
+
+Prairie Creek
+
+413911
+
+Jasper
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Heildelberg from headwaters to mouth at Bogue
+Homo
+
+Pascagoula
+River
+
+Red Creek
+
+420711
+
+George
+
+Aquatic Life
+Use Support
+
+pH
+
+From MWS 4206 Boundary at confluence with Bluff
+Creek to MWS 4209 boundary at Red Creek Road
+
+Pascagoula
+River
+
+Reese Creek
+
+416212
+
+Forest
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From Temple Rd to mouth at Leaf River
+
+Pascagoula
+River
+
+Rocky Creek
+
+403311
+
+Clarke
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Buckatunna Creek
+
+Pascagoula
+River
+
+Rocky Creek
+
+426211
+
+George
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Escatawpa River
+
+Basin
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+30
+
+Location
+
+

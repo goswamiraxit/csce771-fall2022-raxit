@@ -1,0 +1,223 @@
+Basin
+
+South
+Independent
+
+Water Body
+Name
+
+Hatcher Bayou
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+690411
+
+Warren
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Vicksburg from MWS 6902 boundary at Fisher
+Ferry Road to mouth at Hennesy Bayou
+
+Aquatic Life
+Use Support
+
+pH
+
+From MWS 6074 Boundary to the confluence with
+Dry Creek
+
+South
+Independent
+
+Homochitto River
+
+607812
+
+Amite,
+Franklin,
+Wilkinson
+
+South
+Independent
+
+Mud Island Creek
+
+604811
+
+Jefferson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Fairchilds Creek to confluence
+with North Fork Coles Creek
+
+South
+Independent
+
+Muddy Bayou
+
+600212
+
+Claiborne,
+Jefferson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Alcorn from impoundment in headwaters to
+mouth at Dowd Creek
+
+South
+Independent
+
+North Dry Creek
+
+606112
+
+Franklin
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Bude from headwaters to mouth at Homochitto
+River
+
+South
+Independent
+
+Paces Bayou
+
+690311
+
+Warren
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Redbone Creek to mouth at
+Hennesy Bayou
+
+South
+Independent
+
+Pickneyville
+Creek
+
+611211
+
+Wilkinson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Pickneyville from headwaters to mouth at Little
+Bayou Sara
+
+South
+Independent
+
+Saint Catherines
+Creek
+
+600611
+
+Adams
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Natchez from confluence with Melvin Bayou to
+mouth at Mississippi River
+
+South
+Independent
+
+Saint Catherines
+Creek
+
+600511
+
+Adams
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Natchez from headwaters to confluence with
+Melvin Bayou
+
+South
+Independent
+
+Sandy Creek
+
+608811
+
+Adams
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Swafford Creek to mouth at
+Homochitto Creek
+
+South
+Independent
+
+Stafford Creek
+
+613212
+
+Amite,
+Wilkinson
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Comite Creek
+
+37
+
+

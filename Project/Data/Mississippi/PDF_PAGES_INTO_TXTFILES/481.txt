@@ -1,0 +1,49 @@
+Priority List, or if the change is made after adoption of the Intended Use Plan, funds
+reserved for this project may be released and made available to other projects.
+
+2. By May 1, 2020*, a completed WPCRLF loan application and all associated documents
+required by the WPCRLF regulations and the “Guidance For Water Pollution Control
+Revolving Loan Fund Projects Funded Beginning Federal FY 2016 (October 1, 2015 and
+After)” must be submitted to MDEQ. Prior to preparing these documents the loan
+recipient and/or consulting engineer should request and attend a pre-application
+conference. This deadline must be met to be able to qualify for the Previous Year
+Standby Category in the FY-21 IUP.
+3. By August 1, 2020 all approvable documents and responses to Department comments
+necessary for loan award must be submitted to the Department for review and approval.
+This deadline must be met to be able to qualify for the Previous Year Standby Category
+in the FY-21 IUP. Projects on the Planning List or projects on the current year list that
+had their funds released should also meet this deadline in order to allow for Department
+reviews/approvals necessary for loan award prior to the end of the fiscal year.
+4. By September 15, 2020 any “Small/Low Income” or “Green Project Reserve” funds that
+have not been awarded to a project may be released and made available to any project
+that is ready for loan award on a first-come, first-served basis.
+(*Note: Due to unavoidable delays in preparation of the FY-20 IUP, and adequate
+funds availability, projects for which this deadline was not met, but which may
+proceed to become ready for award before the end of the FY, have also been
+included on the FY-20 Priority List, provided that their inclusion did not adversely
+impact funding for any projects which met the deadline.)
+G.
+
+Priority Point Formula for Existing Facilities (Not Meeting Final Limits) Category
+Projects.
+1. Priority points for these projects will be calculated using the following formula for each
+stream classification impacted:
+Priority Points =
+
+(Stream Classification Factor)
+X
+(Existing Water Quality Problem Factor)
+X
+(Achievement of Stream Use Factor)
+
+Calculation of Factors:
+a.
+
+Stream Classification Factor - Factors will be assigned as follows based on
+the type of stream that the present wastewater discharge impacts:
+Stream Classification
+Factor
+
+481
+
+

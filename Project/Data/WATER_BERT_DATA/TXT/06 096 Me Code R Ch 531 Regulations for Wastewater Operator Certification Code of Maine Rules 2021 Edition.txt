@@ -1,0 +1,369 @@
+06 096 Me. Code R. Ch. 531 Regulations for Wastewater Operator
+       Certification (Code of Maine Rules (2021 Edition))
+
+
+Chapter 531. REGULATIONS FOR WASTEWATER OPERATOR
+CERTIFICATION
+
+SUMMARY. These rules establish the criteria that a person must meet in
+order to be certified as an operator of a wastewater treatment plant.
+Treatment plants are classified as Grades I-V Biological Treatment, Grade I-
+III Physical/Chemical Treatment, or Spray Irrigation Treatment System
+according to population equivalents or type of treatment. Certification for
+each operator Grade I-V Biological, Grade I-III Physical/Chemical or Small
+or Large Spray Irrigation Treatment Systems is based on education and
+experience. There are provisions for substituting education for experience as
+well as certain work experience for actual treatment plant experience.
+
+1. General Conditions
+
+A. Applicability. A person who is an operator of a wastewater treatment
+plant which requires a certified operator under the provisions of Title 32,
+MRSA, Chapter 62, is subject to these rules.
+
+B. Contract Operators. A proposed contract for facility operation by any
+firm or individual must be approved by the Maine Department of
+Environmental Protection (Department) within 2 weeks of the contractor
+being retained by the permittee. The guidelines for the review of operational
+contracts are available upon request.
+
+C. Provisional Certification. Graduates of the New England Regional
+Wastewater Institute at Southern Maine Vocational Technical Institute,
+South Portland, Maine (now Southern Maine Community College); the
+Environmental Technology Course at Eastern Maine Vocational Technical
+Institute, Bangor, Maine (now Eastern Maine Community College); or other
+equivalent programs, are eligible for Grade III or lower examination and
+certification. The examination must be as administered by the Department.
+Such certification shall be provisional pending successful completion of one
+year of work experience in a Grade II or higher treatment facility under the
+direct supervision of a fully certified operator. Following this year, a full
+certificate may be requested. The Department shall then evaluate the quality
+of the work experience. This evaluation must determine the operators
+overall proficiency in operations and maintenance of wastewater treatment
+systems, process control, laboratory procedures and sludge handling
+processes. If satisfactory, a full certificate will be awarded. This provisional
+upgrade must be requested, it is not automatic.
+
+D. Applicability to Professional Engineers. Violation of 32 M.R.S.A.
+§§4171 - 4182, Sewage Treatment Operators, by an operators who is a
+06 096 Me. Code R. Ch. 531 Regulations for Wastewater Operator
+       Certification (Code of Maine Rules (2021 Edition))
+
+
+registered professional engineers will be reported to the Maine State Board
+of Registration for Professional Engineers.
+
+E. Display of Certificate. The wastewater treatment plant operator's
+certificate issued by the Department must be displayed in a prominent
+location at the operator's place of work.
+
+F. Qualification to Operate Plants by Grade. A wastewater treatment
+plant operator, unlessqualifying under 32 MRSA § 4177, who is certified by
+the Department is considered qualified to operate a plant grade equal to or
+lower than the certificate grade. An operators qualified under 32 MRSA §
+4177 is only permitted to operate the plant in which he or she was employed
+at the time the certificate was issued.
+
+2. Classification of Wastewater Treatment Plants
+
+A. Classification of Biological Treatment Plants. A biological
+wastewater treatment plant is classified on a population equivalent (P.E.) of
+0.2 lbs. of Biochemical Oxygen Demand (BOD) and 100 gallons per person
+per day. The treatment plant design capacity will be the major classification
+criteria in determining such population equivalent. Plant grade will be
+determined on the following basis except as noted in Section 2(C).
+
+Size (P.E.)      Secondary- Biological Advanced Treatment* Other Defined Treatment**
+Up to 5,000      II                    III                 I
+5,000 to 15,000 III                    IV                  II
+15,000 to 50,000 IV                    V                   III
+50,000 and over V                      V                   IV
+
+*Advanced treatment includes one or more of the following.
+
+1. Advanced biological/chemical methods;
+
+2. Ion Exchange, Reverse Osmosis or Electrodialysis; or,
+
+3. Chemical recovery or Carbon regeneration.
+
+**Other defined treatment includes one or more of the following.
+
+1. Separate sludge digestion with gas collection; or,
+
+2. Mechanical sludge dewatering or sludge incineration.
+
+B. Classification of Physical/Chemical Treatment Plants. A
+physical/chemical treatment plants is classified by the Department following
+06 096 Me. Code R. Ch. 531 Regulations for Wastewater Operator
+       Certification (Code of Maine Rules (2021 Edition))
+
+
+a standard evaluation of the facility. These facilities will be classified as
+Grades I, II, or III.
+
+C. Classification of Spray Irrigation Treatment Plants. A treatment
+system including one or more stabilization ponds followed by spray
+irrigation with no direct discharge to a surface water body is classified as
+Spray Irrigation Treatment Systems (SITS).
+
+1. A Spray Irrigation Treatment System used to treat only domestic sanitary
+wastewater having a spray irrigation site size of 10 acres or less is classified
+as Grade I Spray Irrigation Systems (SITS-I)
+
+2. All other Spray Irrigation Treatment Systems are classified as Grade 2
+Spray Irrigation Systems (SITS-II).
+
+D. Upgrade of Downgrade of Plant Classification. The Department
+may upgrade or downgrade individual plants if, in its opinion, the
+complexity of the plant and degree of skill required for its operation are not
+properly accounted for in the above categories.
+
+3. Requirements For Certification
+
+A. Operator Grades Five grades of biological treatment system operators,
+three grades of physical/chemical treatment system operators and two
+grades of Spray Irrigation Treatment System operators are established to
+parallel the previously described classification of wastewater treatment
+plants. A Grade I certified operator is considered qualified to supervise the
+operation of a Grade I plant; a Grade V certified operator is considered
+qualified to supervise the operation of Grade V or lower plants. A person
+certified to operate a Spray Irrigation Treatment Systems is considered
+qualified to supervise and operate only systems meeting the criteria
+established by the Department. A person currently certified to operate a
+Grade II biological treatment system or higher may operate a Spray
+Irrigation Treatment System without obtaining additional certification.
+
+B. Qualifications for Certification. Each applicant shall satisfy the
+experience requirements for the grade of certification requested. Education
+may be substituted for experience as set forth below. Educational
+substitutions will be based on the following.
+
+(1) High school education or equivalent is credited for two years of
+experience.
+
+(2) Post high school education in approved areas of engineering, science
+and/or related fields. 30 semester hours, or equivalent, equals 1 year.
+06 096 Me. Code R. Ch. 531 Regulations for Wastewater Operator
+       Certification (Code of Maine Rules (2021 Edition))
+
+
+(3) Specialized training courses will be evaluated on the basis of training
+credits; six classroom hours of approved courses equals one credit, 45
+credits equals one year. Examples. 36 hour course= 6 credits; Sacramento
+Course= 15 credits per volume.
+
+(4) A person attending a course approved by the Department where
+attendance credit is given in Continuing Education Units (C.E.U.s) is
+credited with 10 training hours for each C.E.U. earned.
+
+(5) All experience or education submitted in support of applications that is
+not specified in this section shall be evaluated on an individual basis.
+
+C. Examination Requirement. Qualifying examinations are required of
+all applicants for certification. Persons holding valid certificates in other
+states may be certified at a comparable grade level without examination,
+providing all other requirements are met. The applicant must have passed a
+written examination in the other state before reciprocity can be granted. The
+other state must also grant reciprocity to operators certified by the State of
+Maine.
+
+D. Types of Certificates. Certificates will be issued attesting to the
+holder's ability to operate one or more of three general types of treatment
+systems.
+
+B= Systems utilizing biological means of treatment;
+
+P/C= Systems utilizing physical or chemical means of treatment; or,
+
+SITS= Systems using spray irrigation as the means of treatment.
+
+A certificate authorizes the holder to operate only that type system for which
+the certificate was issued.
+
+E. General Requirements and Definitions
+
+(1) An applicant for a certificate is required to pass an examination for that
+grade.
+
+(2) Work experience in a treatment plant is defined as that gained in actual
+performance of important operating functions within any wastewater
+treatment facility.
+
+(3) Work experience in a related field includes activities such as plant
+operation, pilot studies, design, planning, wastewater treatment plant
+construction, related laboratory work. Activities must be of a kind related to
+the type of treatment process indicated in the application.
+06 096 Me. Code R. Ch. 531 Regulations for Wastewater Operator
+       Certification (Code of Maine Rules (2021 Edition))
+
+
+(4) See Section 3(B) for educational substitutions. High school education is
+not considered related education for certification purposes.
+
+(5) Grade I Operator
+
+The applicant for this grade shall submit satisfactory evidence of graduation
+from high school or at least two years experience operating a wastewater
+treatment plant.
+
+(6) Grade II Operator
+
+(A) The applicant for this grade shall submit satisfactory evidence of at least
+four years experience in a wastewater treatment plant. Education may be
+substituted for no more than three years of experience; or
+
+(B) Submit satisfactory evidence of three years of related education and one
+year of related work experience.
+
+(7) Grade III Operator
+
+(A) The applicant for this grade shall submit satisfactory evidence of at least
+five years experience in a wastewater treatment plant. Education may be
+substituted for no more than three years of experience; or
+
+(B) Submit satisfactory evidence of at least three years of related education
+and two years of related work experience.
+
+(8) Grade IV Operator
+
+(A) The applicant for this grade shall submit satisfactory evidence of at least
+six years experience in a wastewater treatment plant, three years of which
+must have been as operator of a Grade II or higher plant. Education may be
+substituted for no more than three years of experience; or
+
+(B) Submit satisfactory evidence of at least four years of related education
+and three years of work experience at a Grade II or higher plant.
+
+(9) Grade V Operator
+
+(A) The applicant for this grade shall submit satisfactory evidence of at least
+eight years experience in a wastewater treatment plant, four years of which
+must have been as operator of a Grade III or higher plant. Education may be
+substituted for no more than four years of experience; or
+
+(B) Submit satisfactory evidence of at least four years of related education
+and four years of work experience at a Grade III or higher plant.
+06 096 Me. Code R. Ch. 531 Regulations for Wastewater Operator
+       Certification (Code of Maine Rules (2021 Edition))
+
+
+(10) Grade SITS - I and Grade SITS - II Operator
+
+The applicant for this grade shall submit satisfactory evidence of graduation
+from high school or at least two years experience operating a Small Spray
+Irrigation treatment system.
+
+F. Advanced Treatment Examination. In addition to satisfying the
+minimum requirements for operating plants of the appropriate grade level,
+the operators of an advanced treatment plants must demonstrate by passing
+an examination approved by the Department, that he or she possesses
+special knowledge of advanced wastewater treatment. Applicants passing
+such examinations will be awarded certificates so indicating.
+
+4. Certification Procedure
+
+A. Application Requirements. A candidate for a wastewater treatment
+plant operator's certificate shall complete an application as furnished by the
+Department. The notarized application, with appropriate fee, must be
+forwarded to the address specified by the Department. A completed
+applications with all supporting documentation must be received at least six
+weeks prior to the examination date. Applications received after the
+published application date will be held for the next examination period.
+
+B. Application Process. An applicant having the necessary qualifications,
+as set forth in Section 3, for initial certification or for upgrading present
+classification, will be notified of the scheduled time and place of
+examination. An applicant not possessing the necessary qualifications for
+the requested grade will be allowed to reapply for a lower grade as qualified
+based on his or her education and experience . An applicant may be
+examined up to three months prior to being fully qualified for the desired
+grade.
+
+C. Reexamination. In the event that an applicant fails to pass an
+examination, the applicant may be re-examined in the same or lower grade
+at the next scheduled examination.
+
+D. Training Requirement. The Department shall issue a permanent
+certificate indicating the classification level of treatment system for which
+the individual is qualified to act as operator. Certification must be renewed
+on a biennial basis. Certificate holders with a Grade I-V Biological
+Wastewater Treatment Plant Operator Certificate, a Grade I-III
+Physical/Chemical Wastewater Treatment Plant Operator Certificate, or a
+SITS-II Spray Irrigation Treatment System Operator Certificate shall be
+required to show proof of completion of at least 18 clock hours of training
+during the period that his or her current certificate was in effect before the
+06 096 Me. Code R. Ch. 531 Regulations for Wastewater Operator
+       Certification (Code of Maine Rules (2021 Edition))
+
+
+certificate may be renewed for the next biennial period. No more than 6
+hours of safety training may be used to comply with this requirement. A
+certificate holder with SS-1 Spray Irrigation Treatment System Operator
+Certificate is required to show proof of completion of at least 6 clock hours
+of training during the period that their current certificate was in effect
+before the certificate may be renewed for the next biennial period. The
+Department may require an operator who performs permit compliance
+laboratory work in a facility and who does not adequately demonstrate
+proper sampling and analysis procedures and techniques during regular
+compliance inspections to attend additional approved laboratory training.
+This training must be approved by the Bureau of Land and Water Quality. A
+list of approved courses is available upon request.
+
+E. Maintenance of Current Address. Each certificate holder shall be
+responsible for maintaining a current address on file with the Bureau of
+Land and Water Quality. Address changes must be submitted to this Bureau
+at least two months prior to the expiration of the current renewal period.
+This certificate will be valid continuously when biennial renewal
+requirements are satisfied prior to the expiration of the current renewal
+period, unless otherwise revoked as provided by 32 M.R.S.A. §4175.
+
+5. Failure To Renew; Reinstatement
+
+A. Failure to Renew. Acertificate which is not renewed by the deadline for
+renewal becomes inactive. No person, firm or corporation, either municipal
+or private, may rely on an inactive certificate to satisfy the requirement of 32
+M.R.S.A. §4181.
+
+B. Reactivation within Six Months of inactivation. A certificate
+holder who allows his or her certificates to lapse shall be reinstated if he or
+she pays an appropriate administrative fee and shows proof of completion of
+the clock hours of approved training required in Section 4(D) during the
+period from two years before to six months after the renewal deadline.
+
+C. Reactivation after Six Months of inactivation. A certificate that
+has been inactive for more than six months but less than two years may be
+reinstated if the certificate holder pays an appropriate administrative fee
+and meets all the requirements for initial certification specified in Section 3.
+However, the Departmentmay, in its discretion, waive the examination
+requirement, if it finds that the holder of the certificate has performed his or
+her duties satisfactorily and in a manner that demonstrates that an
+examination is not necessary.
+
+D. Loss of Certification. A certificate holders who allows his or her
+certificates to remain inactive for two years or longer shall be removed from
+06 096 Me. Code R. Ch. 531 Regulations for Wastewater Operator
+       Certification (Code of Maine Rules (2021 Edition))
+
+
+the master list of certified operators as maintained by the Department. A
+certificate holder whose name has been so deleted isrequired to submit an
+application for initial certification and examination to be certified in the
+future.
+
+AUTHORITY. 32 M.R.S.A. Section 4179
+
+EFFECTIVE DATE: March 28, 1975
+
+Amended: May 20, 1977
+
+Amended: February 8, 1978
+
+Amended: May 4, 1984
+
+Amended: May 11, 1987
+
+EFFECTIVE DATE (ELECTRONIC CONVERSION): May 4, 1996
+
+EFFECTIVE DATE: May 8, 2006 - filing 2006-166
+

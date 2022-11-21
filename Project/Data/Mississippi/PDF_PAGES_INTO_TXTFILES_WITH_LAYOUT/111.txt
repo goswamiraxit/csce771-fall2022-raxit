@@ -1,0 +1,52 @@
+of the effluent to safe 10 levels11. The first phase of the TREP will include increased monitoring
+to characterize the toxicity of the effluent.
+
+6.    If the IC25 of any test is less than the IWC%, then the effluent will be considered
+unacceptably chronically toxic, and this will constitute a violation of Part I of this permit.
+
+7.     In addition to the specific conditions of this permit, the permittee shall comply with all
+applicable conditions of 40 CFR 122.7 and 40 CFR 122.61 (06-03-93).
+
+II.     ACUTE BIOASSAY REQUIREMENTS
+
+The Water Quality Standards of Mississippi require that all waters be free from substances in
+concentrations or combinations which are harmful to humans, animals, or aquatic life (State of
+Mississippi, Water Quality Criteria for Intrastate, Interstate and Coastal Waters (current edition).
+In accordance with such requirements, the permittee is authorized to discharge from outfall(s)
+only in accordance with the following conditions:
+
+1.      The permittee shall submit any existing toxicity data for review by the Mississippi Office
+of Pollution Control within 30 days of the effective date of this permit.
+
+2.      The permittee shall perform static renewal (tests that exceed 48 hours shall be renewed),
+definitive (a control and five effluent concentrations) toxicity tests at 25°C in accordance with
+Methods for Measuring the Acute Toxicity of Effluents to Freshwater and Marine Organisms,
+Fourth Edition, (EPA-600/4-90/027) or the most recent edition. Acute toxicity tests will be
+conducted on 24-hour composite samples of effluent, and tests must be initiated within 36-hours
+of completion of the sampling period.
+
+(a)    If the Mississippi Office of Pollution Control determines the receiving stream is
+freshwater, the permittee must use both the following test organisms and test durations:
+
+        (1)     Pimephales promelas (< 24-hrs.of age) - 96 hour
+        (2)     Ceriodaphnia dubia - 48 hour
+
+(b)     If the Mississippi Office of Pollution Control determines the receiving stream is marine
+or estuarine, the permittee must use both the following test organisms and test durations:
+
+        (1)     Menidia beryllina - 96 hour
+        (2)     Americamysis - 48 hour
+
+(c)Dilution water used for these tests shall consist of reagent grade water, defined as distilled or
+deionized water that does not contain substances which are toxic to the test organisms. For
+freshwater tests, dilution water shall consist of reagent grade chemicals or mineral water
+combined to make moderately hard dilution water according to Methods for Measuring the
+
+10
+ Safe levels will be determined by Title 11, Part 6, Chapter 2.
+11
+ In large rivers, lakes, and estuaries the permittee must provide a schematic map showing isopleths of waste
+concentrations.
+
+                                                   111
+

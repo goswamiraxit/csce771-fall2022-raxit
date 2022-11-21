@@ -1,0 +1,754 @@
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+Chapter 530: SURFACE WATERS TOXICS CONTROL PROGRAM
+
+SUMMARY: The surface waters of the State are managed to prevent
+contamination from toxic pollutants in toxic amounts in order to meet the
+goals of the Clean Water Act and Maine's water quality standards. Toxic
+compounds may not be discharged in amounts that may cause toxic impacts
+on aquatic organisms or effect human health. This rule sets forth effluent
+monitoring requirements and procedures to establish safe levels for the
+discharge of toxic pollutants such that existing and designated uses of
+surface waters are maintained and protected and narrative and numeric
+water quality criteria are met.
+
+1. General Provisions
+
+A. Definitions. The definitions in Chapter 520 are applicable to this
+Chapter.
+
+B. Discharge of toxics limited. No person may discharge any toxic
+substance in any amount or concentration, either alone or in combination
+with substances already in the receiving water or discharge, that may cause
+or contribute to the failure of any classified body of surface water to attain
+its existing and designated uses or to meet narrative or numeric water
+quality criteria.
+
+C. Applications for discharge licenses. A person filing an application
+with the Department for a waste discharge license must identify in that
+application all substances that may be discharged and are toxic or have toxic
+characteristics. The Department may require a person to conduct additional
+testing or provide additional information to supplement or amend a license
+application as necessary to fully characterize an existing or proposed
+discharge in order to determine the potential for the discharge of toxic
+substances. This may be in addition to routine testing otherwise required by
+this rule.
+
+2. WET Testing and Chemical-Specific Testing for Toxic
+Pollutants
+
+A. Dischargers subject to this section
+
+All licensed dischargers of industrial process wastewater or domestic wastes
+discharging to surface waters of the State must meet the testing
+requirements of this section. Dischargers of other types of wastewater are
+subject to this subsection when and if the Department determines that
+toxicity of effluents may have reasonable potential to cause or contribute to
+exceedences of narrative or numerical water quality criteria. For the
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+purposes of this rule, industrial process wastewater is that which comes in
+contact with or results from a manufactured product, except for those
+processes that involve only washing and/or packing a raw material without
+addition of chemicals to the product.
+
+The following dischargers are exempt from testing requirements of this rule
+unless the Department determines that there is a need for testing based on
+the nature, location or circumstances of an individual discharge.
+
+(1) Discharges from individual discharge points licensed to discharge less
+than 50,000 gallons per day of solely domestic wastewater and with a
+chronic dilution factor of at least 50 to 1, provided no holding tank wastes
+containing chemicals are accepted by the facility;
+
+(2) Discharges from residential overboard discharge systems; or
+
+(3) Discharges from combined sewer overflow discharge points, provided
+the owner of the sewerage system is conducting or participating in a
+discharge abatement program. See Chapter 570, Combined Sewer Overflow
+Abatement.
+
+B. Categorization of dischargers. The basis of this categorization is the
+relative risk of toxic contamination of receiving water by a discharge.
+Dilution of the discharge in the receiving water is the primary variable used
+to determine the testing frequency. In determining dilution for a discharge,
+the Department shall use the chronic dilution factor as calculated pursuant
+to section 4(A) of this rule. The Department may assign a discharger to a
+higher testing frequency level if its outfall configuration or local conditions
+indicate a disproportional increase in the risk of acute toxic effects.
+
+Level I Those dischargers having a chronic dilution factor of less than 20 to
+1.
+
+Level II Those dischargers having a chronic dilution factor of at least 20 but
+less than 100 to 1.
+
+Level III Those dischargers having a chronic dilution factor of at least 100
+but less than 500 to 1, or dischargers having a chronic dilution factor of
+more than 500 to 1 and a permitted flow of 1 million gallons per day or
+greater.
+
+Level IV Those dischargers having a chronic dilution factor of at least 500 to
+1 and a permitted flow of less than 1 million gallons per day.
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+C. Scope of testing. Dischargers must conduct testing using the following
+organisms for Whole Effluent Toxicity (WET) testing and/or chemical tests
+for specific compounds.
+
+(1) Marine WET organisms. Test species for discharges to marine waters
+are Mysid shrimp, Mysidopsis bahia (acute only) and the sea urchin,
+Arbacia punctulata, (chronic only), or other organisms specified by the
+Department. All WET testing must be reported as a No Observed Effect
+Level.
+
+NOTE: In estuarine situations, the Department shall specify whether marine
+or freshwater organisms are best suited for an individual discharge.
+
+(2) Freshwater WET organisms. Test species for discharges to
+freshwater are the water flea, Ceriodaphnia dubia and the brook trout,
+Salvelinus fontinalis or other salmonid fish species approved by the
+Department, or other organisms specified by the Department. All WET
+testing must be reported as a No Observed Effect Level for both acute and
+chronic levels for each species.
+
+(3) "Priority pollutant" testing refers to analysis for levels of priority
+pollutants listed in Chapter 525, section (4)(VI) in a licensed discharge.
+
+(4) "Analytical chemistry" refers to a suite of chemical tests for ammonia
+nitrogen, total aluminum, total cadmium, total chromium, total copper, total
+hardness (fresh water only), total lead, total nickel, total silver, total zinc,
+total arsenic, total cyanide and total residual chlorine.
+
+(5) Chemical analyses for compounds in addition to those referred to in
+paragraphs (3) and (4) above may be required if the Department has reason
+to believe that specific discharges contain such compounds in
+concentrations that may prevent attainment of water quality standards of
+the waterbody. Additionally, the Department may require testing for other
+compounds that it identifies as being in use in the State and that pose a risk
+of causing toxic effects if discharged to the surface waters. Such testing may
+be required of specific types or groups of dischargers that may use, produce
+or receive the compound(s) in question.
+
+(6) All chemical testing must be carried out by approved methods that
+permit detection of a pollutant at existing levels in the discharge or that
+achieve detection levels as specified by the Department. When chemical
+testing results are reported as less then, or detected below the Department's
+specified detection limits, those results will be considered as not being
+present for the purposes of determining exceedences of water quality
+criteria.
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+(7) Whenever WET, priority pollutants and analytical chemistry tests are
+required during the same time period, all tests must be performed on the
+same initial sample of effluent.
+
+D. Test schedules. In order to characterize a discharged effluent, all
+dischargers subject to this section must carry out a toxicity testing program
+consisting of screening tests and surveillance tests according to the schedule
+set forth in this section. This testing program must be conducted on
+effluents representative of normal flow, production and operating
+conditions. All screening and surveillance testing conducted must be
+reported to the Department and all valid tests will be used to determine
+compliance with this rule. Where any test demonstrates that a discharge
+may cause or contribute to an exceedence of a numerical or narrative water
+quality criterion, additional tests must be conducted pursuant to an
+approved toxicity reduction program (see section 3(C)). Such testing may
+not be used to fulfill minimum testing requirements of this section.
+
+(1) Routine testing requirements. Screening tests must be performed
+during the fourth year of a discharger's license, but at least once every five
+years, unless otherwise directed by the Department in order to
+accommodate license renewal schedules. The screening testing period
+begins 24-months prior to the expiration of a discharger's license and
+proceeds for four (4) calendar quarters (1 year). During other years,
+surveillance testing must be conducted. More frequent testing may be
+required by the Department in order to properly characterize a discharge in
+consideration of changed conditions or receiving water requirements.
+
+Screening level testing
+
+Level WET Testing Priority pollutant testing Analytical chemistry
+I     4 per year   1 per year                4 per year
+II    2 per year   1 per year                4 per year
+III   1 per year   1 per year                4 per year
+IV    1 per year * 1 per year *              4 per year *
+
+Surveillance level testing
+
+Level WET Testing Priority pollutant testing Analytical chemistry
+I     2 per year   None required             4 per year
+II    1 per year   None required             2 per year
+III   1 per year   None required             1 per year
+IV    1 per year * None required *           1 per year *
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+*These routine testing requirements for Level IV are waived, except that the
+Department shall require an individual discharger to conduct testing under
+the following conditions.
+
+(a) The discharger's permit application or information available to the
+Department indicate that toxic compounds may be present in toxic amounts;
+or
+
+(b) Previous testing conducted by the discharger or similar dischargers
+indicates that toxic compounds may be present in toxic amounts.
+
+Additionally, new or substantially changed dischargers assigned to Level IV
+must conduct testing during the first two years of the discharge. Further
+testing is waived provided the testing done does not indicate any reasonable
+potential for exceedence as calculated pursuant to section 3(E).
+
+(2) Required testing must be representative of the discharge and any
+seasonal or other variations, and must be distributed during the year as
+follows.
+
+Tests
+         Distribution
+per year
+4        One test each calendar quarter
+         One test in January to June and one test 6 months later. For surveillance tests,
+2
+         different months will be used in 4 successive years.
+1        For surveillance tests, different calendar quarters will be used in 4 successive years.
+
+(3) Reduced testing
+
+(a) The Department may reduce testing requirements for dischargers that
+discharge less than 12 months per year in proportion to the actual number of
+months discharged, but to not less than one test per year where testing
+would otherwise be required. The Department may adjust test schedules to
+provide the most representative sampling program.
+
+(b) Dischargers in Levels III and IV may be waived from conducting
+surveillance testing for individual WET species or chemicals provided that
+testing in the preceding 60 months does not indicate any reasonable
+potential for exceedence as calculated pursuant to section 3(E).
+
+(c) Dischargers in Level II may reduce surveillance testing to one WET or
+specific chemical series every other year provided that testing in the
+preceding 60 months does not indicate any reasonable potential for
+exceedence as calculated pursuant to section 3(E).
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+(d) Dischargers in Level I may reduce surveillance testing to one WET or
+specific chemical series per year provided that testing in the preceding 60
+months does not indicate any reasonable potential for exceedence as
+calculated pursuant to section 3(E).
+
+(4) All dischargers having waived or reduced testing must file statements
+with the Department on or before December 31 of each year describing the
+following.
+
+(a) Changes in the number or types of non-domestic wastes contributed
+directly or indirectly to the wastewater treatment works that may increase
+the toxicity of the discharge;
+
+(b) Changes in the operation of the treatment works that may increase the
+toxicity of the discharge; and
+
+(c) Changes in industrial manufacturing processes contributing wastewater
+to the treatment works that may increase the toxicity of the discharge.
+
+(5) Waiver or Reduction of Testing of Industrial Discharges. The
+Department may waive or reduce testing or replace testing with
+requirements adequate to characterize the toxicity of identified pollutants
+when a discharger provides information adequate to:
+
+(a) Identify all toxic pollutants present or demonstrate that no toxic
+pollutants are used in its processes in toxic amounts;
+
+(b) Demonstrate that chemicals used in or formed by the discharger's
+industrial processes are not known or suspected to result in the formation of
+toxic pollutants in toxic amounts; and
+
+(c) Demonstrate the discharger does not process or treat waters known or
+suspected to contain toxic pollutants.
+
+3. Water Quality-based Effluent Limits for Waste Discharge
+Licenses. The Department shall establish appropriate discharge
+prohibitions, effluent limits and monitoring requirements in waste
+discharge licenses if a discharge contains pollutants that are or may be
+discharged at levels that cause, have reasonable potential to cause, or
+contribute to an ambient excursion in excess of a numeric or narrative water
+quality criteria or that may impair existing or designated uses. The licensee
+must also control whole effluent toxicity (WET) when discharges cause, have
+a reasonable potential to cause, or contribute to an ambient excursion above
+the narrative water quality criteria. In determining if effluent limits are
+required, the Department shall consider all information on file and effluent
+testing conducted during the preceding 60 months. However, testing done
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+in the performance of a Toxicity Reduction Evaluation (TRE) approved by
+the Department may be excluded from such evaluations.
+
+A. Specific pollutant approach. When specific toxic pollutants of known
+action and interaction are identified in a discharge or potential discharge,
+the water quality-based effluent limit is determined by use of the applicable
+numerical water quality criteria for the pollutants to protect aquatic life and
+human health and using the appropriate dilution described in section 4(A)
+below.
+
+NOTE: See section 4(F) for procedures to address multiple discharges into a
+common receiving water.
+
+B. Whole effluent approach. When the existing or proposed discharge
+contains two or more pollutants whose actions or interactions are unknown
+or when toxic components cannot be identified, WET effluent limits may be
+required for the protection of aquatic life. Whole effluent toxicity limits are
+the "acute no observed effect level" (A-NOEL) and the "chronic no observed
+effect level" (C-NOEL), expressed as percent effluent (the mathematical
+inverse of the applicable dilution factor), and must be greater than the actual
+receiving water concentrations (percent of effluent in receiving water at the
+appropriate dilution pursuant to section 4(A)).
+
+C. Determination of Exceedence of Criteria. The results of all testing
+required by this rule must be submitted to the Department not later than the
+next discharge monitoring report required by the discharger's license,
+provided, however, that the discharger may review the toxicity reports for up
+to 10 business days of their availability before submitting them. Using
+information and guidance provided by the Department, dischargers shall
+evaluate test results being submitted and identify to the Department
+possible exceedences of applicable water quality criteria. The Department
+shall review all testing data as received. If these data indicate that the
+discharge is causing an exceedence of applicable water quality criteria, then:
+(1) the licensee must, within 45 days of becoming aware of an exceedence,
+submit a TRE plan for review and approval and implement the TRE after
+Department approval; and (2) the Department must, within 180 days of the
+Department's written approval of the TRE plan, modify the waste discharge
+license to specify effluent limits and monitoring requirements necessary to
+control the level of pollutants and meet receiving water classification
+standards. Evaluations of the reasonable potential for exceedence of criteria
+must be conducted upon any license action, following the provisions of
+section 3(E). The Department shall utilize mass discharge criteria for
+evaluating individual exceedences of specific chemical pollutants.
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+When considering the need for license limits, the Department may exclude
+from evaluations tests in a series done for an individual pollutant or WET
+test during five years only if the discharger satisfactorily demonstrates
+through implementation of a TRE pursuant to this subsection that the
+cause(s) for a high result have been identified and corrected. Additionally,
+tests subsequent to the high test(s) must not show reasonable potential for
+exceedence of water quality criteria. In making these determinations, the
+Department shall not exclude tests solely because the values are higher than
+other values obtained by the discharger. The Department shall issue a
+license limit in situations where an exceedence is recorded due to a valid test
+and a cause for the exceedence cannot be identified and corrected.
+
+D. Expression of effluent limits. Where the need for effluent limits has
+been determined, limits derived from acute water quality criteria must be
+expressed as daily maximum values. Limits derived from chronic or human
+health criteria must be expressed as monthly average values.
+
+(1) For specific chemicals, effluent limits must be expressed in total quantity
+that may be discharged. Unless required by an applicable effluent limitation
+guideline adopted by the Department, all permit limitations for metals shall
+be expressed only as mass-based limits. If required, in establishing
+concentration, the Department may increase allowable values to reflect
+actual flows that are lower than permitted flows and/or provide
+opportunities for flow reductions and pollution prevention provided water
+quality criteria are not exceeded. With regard to concentration limits, the
+Department may review past and projected flows and set limits to reflect
+proper operation of the treatment facilities that will keep the discharge of
+pollutants to the minimum level practicable.
+
+(2) WET test effluent limits must be expressed as the maximum percent
+effluent that will not cause observable adverse effects on test organisms.
+
+E. Determination of Reasonable Potential to Exceed Receiving
+Water Quality Criteria. For effluent monitoring data and the variability
+of the pollutant in the effluent, the Department shall apply the statistical
+approach in Section 3.3.2 and Table 3-2 of USEPA's "Technical Support
+Document for Water Quality-Based Toxics Control" (USEPA Publication
+505/2-90-001, March, 1991, EPA, Office of Water, Washington, D.C.) to data
+to determine whether water-quality based effluent limits must be included
+in a waste discharge license. Where it is determined through this approach
+that a discharge contains pollutants or WET at levels that have a reasonable
+potential to cause or contribute to an exceedence of water quality criteria,
+appropriate water quality-based limits must be established in any licensing
+action.
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+F. Procedures for data analysis and effluent limit calculations
+
+(1) When a test result for a specific chemical is reported as not found in
+concentrations at a detection level specified by the Department pursuant to
+section 2(C)(6), the compound must be considered to be not present for the
+purposes of determining exceedences of water quality criteria.
+
+NOTE: Concentrations of compounds detected below levels specified by the
+Department must still be reported.
+
+(2) When the no observed effect level in a WET test is reported as being
+below the lowest dilution of effluent tested, the effluent is considered to be
+in exceedence of water quality criteria.
+
+(3) When all results are reported as below a detection level specified by the
+Department, the compound must be considered to have no reasonable
+potential to exceed water quality criteria. For the purposes of determining
+the coefficient of variation in calculating reasonable potential to exceed
+water quality criteria pursuant to section 3(E), when some results are
+reported as below a detectable amount, those values must be considered to
+be present at a level of one half of the detection level specified by the
+Department.
+
+(4) Flows used in calculations are to be governed by the following. For
+exceedence determinations with specific chemicals, calculations must be
+based on the facility's flow on the day the sample was collected for acute
+criteria and the monthly average flow for the chronic and human health
+criteria. Allowable discharge quantities must be calculated based on the
+facility's licensed flow and the appropriate design stream flow and water
+quality criteria. In situations where a discharger's flow augments the stream
+flow (as is the case with most POTW's), the Department's calculation of
+allowable mass limits must reflect the differences in dilution factors
+resulting from actual flows being less than the facility's full license amount.
+For determination of WET test exceedences and all reasonable potential
+determinations, the discharger's licensed flow must be used.
+
+4. Water Quality Based Limit Derivation. Water quality based limits
+must be developed by using the following procedures.
+
+A. Calculation of dilution factors. A simple dilution model using design
+stream flows specified in this section must be used to determine allowable
+effluent limits unless there is information that makes another model
+approved by the Department more appropriate. All substances are assumed
+to be persistent in the environment. With a non-continuous discharge (such
+as a lagoon which can be impounded or a continuous discharge prohibited
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+from discharging under specified conditions), the dilution factors can be
+based on a guaranteed minimum stream flow or tidal stage below which a
+discharge will not occur. The discharger must submit a request for a license
+modification that reflects a different minimum stream flow. If the
+Department approves an alternate stream flow, the license must include a
+monitoring and reporting requirement, and must include an accurate means
+of measuring stream flow that is calibrated annually.
+
+(1) Dilution factors (DF) for freshwater discharges are calculated using the
+following models:
+
+(a) If the entire water supply that ultimately makes up the effluent flow (Qe)
+is taken from the receiving water upstream of the location from which the
+stream design flow (Qr) is calculated or measured, then:
+
+DF= Qr/Qe
+
+(b) If the water supply is comprised of water taken from the receiving water
+(Qw) and/or from another location (Qo), then:
+
+DF= (Qr + Qo)/(Qw + Qo)
+
+(2) For estuaries where tidal flow is dominant and marine discharges,
+dilution factors are calculated as follows. These methods may be
+supplemented with additional information such as current studies or dye
+studies.
+
+(a) For discharges to the ocean, dilution must be calculated as near-field or
+initial dilution, or that dilution available as the effluent plume rises from the
+point of discharge to its trapping level, at mean low water level and slack
+tide for the acute exposure analysis, and at mean tide for the chronic
+exposure analysis using appropriate models determined by the Department
+such as MERGE, CORMIX or another predictive model.
+
+(b) For discharges to estuaries, dilution must be calculated using a method
+such as MERGE, CORMIX or another predictive model determined by the
+Department to be appropriate for the site conditions.
+
+(c) In the case of discharges to estuaries where tidal flow is dominant and
+marine waters, the human health criteria must be analyzed using a dilution
+equal to three times the chronic dilution factor.
+
+B. Stream design flows. For estuaries where tidal flow is not dominant
+and fresh waters, stream design flows used in the analyses of dilution factors
+from dilution models must be consistent with the exposure of the population
+at risk to any and all toxic pollutants. In situations where an island, channel
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+or other physical circumstance divides the flow of a stream, the Department
+shall use appropriate adjustments or assumptions that best describe that
+particular situation.
+
+(1) Analyses using numerical acute criteria for aquatic life must be based on
+1/4 of the 1Q10 stream design flow to prevent substantial acute toxicity
+within any mixing zone and to ensure a zone of passage of at least 3/4 of the
+cross-sectional area of any stream as required by Chapter 581. Where it can
+be demonstrated that a discharge achieves rapid and complete mixing with
+the receiving water by way of an efficient diffuser or other effective method,
+analyses may use a greater proportion of the stream design flow, up to and
+including all of it, as long as the required zone of passage is maintained.
+Flows that allow bioaccumulation of compounds to levels that are toxic,
+carcinogenic, mutagenic or teratogenic are not to be used in setting effluent
+limits.
+
+(2) Analyses using chronic criteria for aquatic life must be based on 7Q10
+stream design flow.
+
+(3) Analyses using human health criteria must be based on harmonic mean
+or other stream flows consistent with the duration of exposure.
+
+C. Background concentrations. The background concentration of
+specific chemicals must be included in all calculations using the following
+procedures. The Department may publish and periodically update a list of
+default background concentrations for specific pollutants on a regional,
+watershed or statewide basis. In doing so, the Department shall use data
+collected from reference sites that are measured at points not significantly
+affected by point and non-point discharges and best calculated to accurately
+represent ambient water quality conditions. The Department shall use the
+same general methods as those in section 4(D) to determine background
+concentrations. For pollutants not listed by the Department, an assumed
+concentration of 10% of the applicable water quality criteria must be used in
+calculations. Alternatively, dischargers may provide the Department with
+site specific information of the same nature to supplement or replace the
+foregoing values. Sampling plans and/or other means of developing site-
+specific information must be approved in writing in advance by the
+Department, and must be consistent with the concepts described in section
+4(D), below.
+
+D. Site-specific adjustments for local conditions. The Department
+may use available information to evaluate physical and chemical
+characteristics of a specific receiving water and adjust calculations of the
+degree to which they influence the relative toxicity of individual pollutants in
+that situation. The information may include tests conducted by the
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+Department, the discharger or another organization, provided that approved
+methods are used for sample collection and analysis. Once being accepted by
+the Department as valid data, this information may be used in place of the
+assumptions used to develop statewide water quality criteria for the effected
+pollutants and discharger.
+
+(1) While the Department may require or allow different sampling
+procedures best designed to provide relevant and meaningful information in
+specific situations, sampling plans must generally include collection of
+receiving water samples at appropriate locations at least once a month for a
+period of a year. Samples for temperature, pH and salinity must be collected
+at a point directly upstream or up current of the discharge. Samples for
+hardness or other characteristics must be collected at a point upstream in
+the receiving water not significantly influenced by point source or non-point
+source discharges that may affect the characteristic in question.
+
+(2) If a discharger wishes to have its effluent evaluated using water quality
+criteria expressed as dissolved metal instead of total metal, it may submit to
+the Department supporting test information. Upon finding the information
+appropriate and complete, the Department shall use that information to
+develop a translator value following guidance provided by EPA ("The Metals
+Translator: Guidance for Calculating a Total Recoverable Permit Limit From
+a Dissolved Criterion, USEPA publication 823-B-96-007, June 1996, EPA,
+Office of Water, Washington DC,). The testing done must include samples of
+the effluent and receiving water mixed in proportion to the discharger's
+dilution factor and analyzed for total and dissolved metal, and samples
+designed to evaluate the impact of loadings of total metal to receiving water
+system.
+
+In evaluating information submitted, the Department shall use the
+combination of chemical characteristics, stream flows and times of the year
+that best represent the most critical or sensitive conditions for assessment of
+toxic impacts by specific pollutants.
+
+E. Water quality reserve. In allocating assimilative capacity for toxic
+pollutants, the Department shall hold a portion of the total capacity in an
+unallocated reserve to allow for new or changed discharges and non-point
+source contributions. The unallocated reserve must be reviewed and
+restored as necessary at intervals of not more than five years. The water
+quality reserve must be not less than 15% of the total assimilative quantity.
+The Department may increase this amount where it has information that
+significant non-point sources of a pollutant are present in a watershed. The
+Department may allocate quantities held in water quality reserve to new or
+changed dischargers according to the principles of the State's anti-
+degradation policy described in 38 MRSA, section 464(4)(F).
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+Notwithstanding the above, for the purpose of calculating waste discharge
+license limits for toxic substances, the department may use any unallocated
+assimilative capacity that the Department has set aside for future growth if
+the use of that unallocated assimilative capacity would avoid an exceedence
+of applicable ambient water quality criteria or a determination by the
+Department of a reasonable potential to exceed applicable water quality
+criteria.
+
+F. Effect of multiple discharges. Where there is more than one
+discharge into the same fresh or estuarine receiving water or watershed, the
+Department shall consider the cumulative effects of those discharges when
+determining the need for and establishment of the level of effluent limits.
+The Department shall calculate the total allowable discharge quantity for
+specific pollutants, less the water quality reserve and background
+concentration, necessary to achieve or maintain water quality criteria at all
+points of discharge, and in the entire watershed. The total allowable
+discharge quantity for pollutants must be allocated consistent with the
+following principles.
+
+(1) Watershed-wide determinations of the total allowable discharge
+quantity, allocations to dischargers and the water quality reserve amount
+must be updated at intervals of not more than five years. The results of
+updated allocations will be made available to interested parties for
+comment.
+
+(2) Evaluations must be done for individual pollutants of concern in each
+watershed or segment to assure that water quality criteria are met at all
+points in the watershed and, if appropriate, within tributaries of a larger
+river.
+
+(3) The total assimilative capacity, less the water quality reserve and
+background concentration, may be allocated among the discharges
+according to the past discharge quantities for each as a percentage of the
+total quantity of discharges, or another comparable method appropriate for
+a specific situation and pollutant. If there is a need to reduce past discharge
+quantities, the Department may exclude de minimus discharges and for
+remaining discharges establish necessary reductions and effluent limits with
+proportional consideration of such factors as each facility's relative size and
+concentration of pollutants. Past discharges of pollutants must be
+determined using the average concentration discharged during the past five
+years and the facility's licensed flow. Where insufficient discharge data exist
+to accurately characterize a discharge, or for new discharges, the
+Department shall use an effluent concentration representative of similar
+discharges. For effluent concentrations reported as non-detectable, the
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+concentration must be taken as one-half of the detection level specified by
+the Department.
+
+(4) When calculating past discharge loads for use in this section, the
+Department may exclude data that represent improper control of pollutants,
+are non-representative of a discharge or violate the established effluent
+limits or water quality limits as calculated on an individual discharge basis
+for the facility.
+
+(5) The amount of allowable discharge quantity may be no more than the
+past discharge quantity calculated using the statistical approach referred to
+in section 3(E), but in no event may allocations cause the water quality
+reserve amount to fall below the minimum referred to in 4(E). Any
+difference between the total allowable discharge quantity and that allocated
+to existing dischargers must be added to the reserve.
+
+(6) The total allowable discharge quantity must be set to assure compliance
+with water quality criteria in downstream estuarine and marine waters.
+
+(7) In conducting evaluations, the Department shall use the same
+background concentrations and other receiving water characteristics for all
+discharges in an affected segment. (Adjustments made pursuant to sections
+4(C) or 4(D) may be developed in a common effort and applied to all
+dischargers in the affected segment.)
+
+5. WET Testing Procedures. Toxicity tests must be conducted by an
+experienced laboratory approved by the Department. The laboratory must
+follow the procedures described in the following USEPA methods manuals,
+except as modified by the Department on a case by case basis or as described
+in this section for the Salmonid Survival and Growth Test.
+
+A. EPA Methods Manuals
+
+U.S. Environmental Protection Agency. 2002. Methods for Measuring the
+Acute Toxicity of Effluents and Receiving Waters to Freshwater and
+Marine Organisms, 5 th ed. EPA 821-R-02-012. U.S. Environmental
+Protection Agency, Office of Water, Washington, D.C., October 2002 (the
+acute method manual)
+
+U.S. Environmental Protection Agency. 2002. Short-term Methods for
+Estimating the Chronic Toxicity of Effluents and Receiving Waters to
+Freshwater Organisms, 4 th ed. EPA 821-R -02-013. U.S. Environmental
+Protection Agency, Office of Water, Washington, D.C., October 2002 (the
+freshwater chronic method manual)
+    06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+         Program (Code of Maine Rules (2021 Edition))
+
+
+U.S. Environmental Protection Agency. 2002. Short-term Methods for
+Estimating the Chronic Toxicity of Effluents and Receiving Waters to
+Marine and Estuarine Organisms, 3 rd ed. EPA 821-R-02-014. U.S.
+Environmental Protection Agency, Office of Water, Washington, D.C.,
+October 2002 (the marine chronic method manual)
+
+B. Salmonid Survival and Growth Test. The Salmonid survival and
+growth test must follow the procedures for the fathead minnow larval
+survival and growth tests detailed in USEPA's freshwater acute and chronic
+methods manuals (see references above) with the following modifications:
+
+Species - Brook Trout, Salvelinus fontinalis, or other salmonid approved
+by the Department.
+
+Age - Less than six months old for the first test each year and less than
+twelve months for subsequent tests.
+
+Size - The largest fish must not be greater than 150% of the smallest.
+
+Loading Rate - < 0.5 g/l/day
+
+Feeding rate - 5% of body weight 3 times daily (15%/day)
+
+Temperature - 12°±1°C
+
+Dissolved Oxygen - 6.5 mg/l ,aeration if needed with large bubbles (> 1
+mm diameter) at a rate of <100/min
+
+Dilution Water - Receiving water upstream of discharge (or other ambient
+water approved by the Department)
+
+Dilution Series - A minimum of 5 effluent concentrations (including the
+instream waste concentrations bracketing acute and chronic dilutions
+calculated pursuant to Section D); a receiving water control; and control of
+known suitable water quality
+
+Duration - Acute= 48 hours
+
+- Chronic= 10 days minimum
+
+Test acceptability - Acute= minimum of 90% survival in 2 days
+
+- Chronic= minimum of 80% survival in 10 days; minimum growth of 20
+mg/gm/d dry weight in controls, (individual fish weighed, dried at 100°C to
+constant weight and weighed to 3 significant figures)
+
+AUTHORITY: 38 M.R.S.A. Sections 420 and 464
+   06 096 Me. Code R. Ch. 530 Surface Waters Toxics Control
+        Program (Code of Maine Rules (2021 Edition))
+
+
+EFFECTIVE DATE: October 12, 1994 (06-096 Chapter 584 repealed and
+replaced by this section)
+
+EFFECTIVE DATE (ELECTRONIC CONVERSION): May 4, 1996
+
+NON-SUBSTANTIVE CORRECTION: June 11, 1996 - Defective file from
+electronic conversion replaced.
+
+AMENDED: May 14, 1997
+
+AMENDED: August 13, 1997
+
+EFFECTIVE DATE: October 9, 2005 (filing 2005-401, 06-096 Chapter
+530.5 repealed and replaced by this rule and Chapter 584)
+
+NON-SUBSTANTIVE CORRECTION: May 17, 2006 - numbering within
+Section 2
+
+EFFECTIVE DATE: March 21, 2012 - filing 2012-74
+

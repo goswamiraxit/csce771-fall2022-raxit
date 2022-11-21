@@ -1,0 +1,40 @@
+                Water Body    Water                 Impaired
+     Basin                                County                       Pollutant                        Location
+                  Name       Body Id                  Use
+
+South                                              Aquatic Life    Biological
+Independent   Bear Creek     610514    Wilkinson   Use Support     Impairment      From headwaters to mouth at Buffalo River
+
+South                                              Aquatic Life    Biological
+Independent   Beaver Creek   608312    Wilkinson   Use Support     Impairment      From headwaters to mouth at Homochitto River
+
+South                                              Aquatic Life    Biological      From headwaters to confluence with North Fork
+Independent   Bolls Creek    604611    Jefferson   Use Support     Impairment      Coles Creek
+
+South                                              Aquatic Life    Biological
+Independent   Booths Creek   602813    Claiborne   Use Support     Impairment      From headwaters to mouth at Bayou Pierre
+
+South                                              Aquatic Life    Biological      Near Woodville from headwaters to mouth at Buffalo
+Independent   Browns Creek   609612    Wilkinson   Use Support     Impairment      River
+
+South                                              Aquatic Life    Biological      Near Busy Corner from headwaters to mouth at West
+Independent   Days Creek     612312    Amite       Use Support     Impairment      Fork Amite Creek
+
+South                                              Aquatic Life    Biological      Near White Apple from headwaters to mouth at
+Independent   Dry Bayou      608611    Franklin    Use Support     Impairment      Caney Branch
+
+South                                              Aquatic Life    Biological      At Garden City from headwaters to mouth at
+Independent   Dry Creek      608211    Franklin    Use Support     Impairment      Homochitto River
+
+South                                              Aquatic Life    Biological
+Independent   Dry Creek      608111    Wilkinson   Use Support     Impairment      From headwaters to mouth at Homochitto River
+
+South                                              Aquatic Life    Biological      From confluence of Stampley Creek and Compton
+Independent   Folkes Creek   605011    Jefferson   Use Support     Impairment      Creek to mouth at South Fork Coles Creek
+
+South                                              Aquatic Life    Biological      Near Union Church from headwaters to mouth at
+Independent   Garret Creek   603811    Jefferson   Use Support     Impairment      Foster Creek
+
+
+                                                                  36
+

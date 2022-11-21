@@ -1,0 +1,56 @@
+               Water    Water
+                                             Impaired
+   Basin       Body     Body      County                  Pollutant                     Location
+                                               Use
+               Name      Id
+                                             Aquatic
+Pascagoula    Reese                          Life Use     Biological
+River         Creek     416212   Forest      Support      Impairment   From Temple Rd to mouth at Leaf River
+                                 Jefferson
+                                 Davis,      Aquatic
+Pascagoula    Black              Marion,     Life Use     Biological   From headwaters to confluence with
+River         Creek     418412   Lamar       Support      Impairment   Monroe Creek
+
+Pascagoula    Sandy
+River         Run       418613   Lamar       Recreation   Pathogens    From headwaters to mouth at Black Creek
+              White                          Aquatic                   From confluence with Little White Sand
+              Sand               Jefferson   Life Use     Biological   Creek (Jaybird Creek) to mouth at Pearl
+Pearl River   Creek     516111   Davis       Support      Impairment   River
+                                             Aquatic
+South         Beaver                         Life Use     Biological   From headwaters to mouth at Homochitto
+Independent   Creek     608312   Wilkinson   Support      Impairment   River
+                                             Aquatic
+South         Zeigler                        Life Use     Biological   Near Rosetta from headwaters to mouth at
+Independent   Creek     607811   Franklin    Support      Impairment   Homochitto River
+                                             Aquatic
+Tombigbee     Black                          Life Use     Biological   From headwaters to end near MWS 8207
+River         Creek     810013   Lowndes     Support      Impairment   boundary
+                                             Aquatic
+Tombigbee     Greens                         Life Use     Biological   From headwaters to mouth of Tombigbee
+River         Creek     810312   Lowndes     Support      Impairment   River
+              Little                         Aquatic
+Tombigbee     Wolf                           Life Use     Biological   From headwaters to confluence with Wolf
+River         Creek     818812   Prentiss    Support      Impairment   Creek
+              Mineral                        Aquatic
+Tombigbee     Springs                        Life Use     Biological   From headwaters to mouth of Blackwater
+River         Branch    817312   Kemper      Support      Impairment   Creek
+                                             Aquatic
+Tombigbee     Minga                          Life Use     Biological   From headwaters to confluence with Mill
+River         Branch    806612   Monroe      Support      Impairment   Creek
+                                             Aquatic
+Tombigbee     Mubby                          Life Use     Biological   From headwaters to confluence with
+River         Creek     820011   Pontotoc    Support      Impairment   Chiwapa Creek
+                                             Aquatic
+Tombigbee     Tadpole                        Life Use     Biological
+River         Creek     803112   Monroe      Support      Impairment   From headwaters to Aberdeen Lake
+              Talking                        Aquatic
+Tombigbee     Warrior                        Life Use     Biological
+River         Creek     812711   Oktibbeha   Support      Impairment   From headwaters to MWS 8128 boundary
+                                             Aquatic
+Yazoo         Pelucia                        Life Use     Biological
+River         Creek     919311   Carroll     Support      Impairment   From headwaters to MWS 9192 boundary
+
+
+
+                                                  17
+

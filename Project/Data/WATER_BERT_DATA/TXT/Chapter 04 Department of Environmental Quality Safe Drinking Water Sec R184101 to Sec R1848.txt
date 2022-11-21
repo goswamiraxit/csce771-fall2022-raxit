@@ -1,0 +1,4241 @@
+  Ariz. Admin. Code R18-4-101 Authority and Purpose (Arizona
+             Administrative Code (2021 Edition))
+
+
+§ R18-4-101. Authority and Purpose
+
+A. This Chapter is created under the authority of A.R.S. Title 49, Chapter 2,
+Article 9, and the federal Safe Drinking Water Act, 42 U.S.C. 300 f through
+300j-26.
+
+B. The purposes of this Chapter include the following:
+
+1. To protect the public health and welfare by ensuring that all potable water
+distributed or sold to the public by public water systems is free from
+unwholesome, poisonous, deleterious, or other foreign substances, and filth
+or disease-causing substances or organisms; and
+
+2. To enable the state to maintain primary enforcement responsibility of the
+Safe Drinking Water Act, including the requirements of 40 CFR 141 and 142.
+
+(Former Section R9-20-504 repealed, new Section R9-20-504 adopted
+effective November 1, 1979 (Supp. 79-6). Former Section R9-20-504
+amended, renumbered as Section R9-20-501, then renumbered as Section
+R18-4-101 effective October 23, 1987 (Supp. 87-4). R18-4-101 recodified to
+R18-5-101 (Supp. 95-2). New Section adopted effective April 28, 1995 (Supp.
+95-2). Amended effective June 3, 1998 (Supp. 98-3). Amended effective
+December 8, 1998 (Supp. 98-4). Amended by final rulemaking effective
+September 23, 1999; the A.A.R. citation was not available at the time of
+publication and will appear in Supp. 99-4 (Supp. 99-3). Amended by final
+rulemaking at 5 A.A.R. 4456, effective September 23, 1999 (Supp. 99-4).
+Amended by final rulemaking at 8 A.A.R. 973, effective February 19, 2002
+(Supp. 02-1). Amended by final rulemaking at 8 A.A.R. 3046, effective May
+1, 2002 (Supp. 02-3). Section repealed; new Section made by final
+rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-102 Incorporation by Reference of 40
+ Cfr 141 and 142 (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-102. Incorporation by Reference of 40 Cfr 141 and 142
+
+A. Unless otherwise specified in this Chapter, all references to regulations in
+40 CFR 141 and 142 in this Chapter refer to the July 1, 2014, version of the
+regulations. Copies of the incorporated material are available for review at
+the Arizona Department of Environmental Quality, 1110 W. Washington St.,
+Phoenix, AZ, 85007, and are available from
+
+the U.S. General Printing office at
+http://www.gpo.gov/fdsys/browse/collectionCfr.action?collectionCode=CF
+R [File Link Not Available] .
+
+B. A reference to a federal statute or regulation in a federal statute or
+regulation incorporated by reference in this Chapter shall refer to and
+incorporate by reference the referenced statute or regulation as of the date
+specified in subsection (A), unless the referenced statute or regulation is
+incorporated by reference elsewhere in this Chapter in a modified form, in
+which case the reference shall be to the statute or regulation as incorporated
+in this Chapter.
+
+C. Documents incorporated by reference in a federal statute or regulation
+incorporated by reference in this Chapter are also incorporated by reference
+in this Chapter, as of the date specified in the federal statute or regulation.
+
+D. A federal rule incorporated by reference in this Chapter shall include all
+"Effective Date Notes" associated with the federal rule.
+
+E. The term "State" or "primacy agency" in the text of a federal statute or
+regulation incorporated by reference in this Chapter shall mean the Arizona
+Department of Environmental Quality unless otherwise noted.
+
+(Adopted as Section R9-20-502 and renumbered as Section R18-4-102
+effective October 23, 1987 (Supp. 87-4). R18-4-102 recodified to R18-5-
+102(Supp. 95-2). New Section adopted effective April 28, 1995 (Supp. 95-2).
+Amended effective June 3, 1998 (Supp. 98-3). Amended by final rulemaking
+at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1). Section repealed;
+new Section made by final rulemaking at 14 A.A.R. 2978, effective August
+30, 2008 (Supp. 08-3). Amended by final rulemaking at 22 A.A.R. 379,
+effective 4/2/2016.)
+   Ariz. Admin. Code R18-4-103 General - 40 Cfr 141, Subpart A
+          (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-103. General - 40 Cfr 141, Subpart A
+
+A.40 CFR 141, Subpart A ( 40 CFR 141.1 through 141.6), is incorporated by
+reference as of the date specified in R18-4-102, except for the changes listed
+in this Section; this incorporation does not include any later amendments or
+editions.
+
+B. The definition of "State" in 40 CFR 141.2 is not incorporated by reference.
+In addition to the terms defined in A.R.S. § § 49-201 and 49-351, and 40
+CFR 141.2, in this Chapter, unless otherwise specified, the terms listed below
+have the following meanings.
+
+"Air-gap separation" means a physical separation between the discharge end
+of a supply pipe and the top rim of its receiving vessel of at least 1 inch or
+twice the diameter of the supply pipe, whichever is greater.
+
+"ANSI/NSF Standard 60" means American National Standards
+Institute/NSF International Standard 60 - 2014a, Drinking Water
+Treatment Chemicals - Health Effects, November 17, 2014, incorporated by
+reference and on file with the Department. This material is available from
+NSF International, 789 N. Dixboro Road, P.O. Box 130140, Ann Arbor, MI
+48113-0140, USA; (734) 769-8010; http://www.nsf.org . This incorporation
+by reference includes no future editions or amendments.
+
+"ANSI/NSF Standard 61" means American National Standards
+Institute/NSF International Standard 61 - 2014a, Drinking Water System
+Components - Health Effects, October 19, 2014, incorporated by reference
+and on file with the Department. This material is available from NSF
+International, 789 N. Dixboro Road, P.O. Box 130140, Ann Arbor, MI 48113-
+0140, USA; (734) 769-8010; http://www.nsf.org . This incorporation by
+reference includes no future editions or amendments.
+
+"Backflow" means a reverse flow condition that causes water or mixtures of
+water and other liquids, gases, or substances to flow back into the
+distribution system. Backflow can be created by a difference in water
+pressure (backpressure), a vacuum or partial vacuum (backsiphonage), or a
+combination of both.
+
+"Backflow-prevention assembly" means a mechanical device used to prevent
+backflow.
+
+"Capacity" means the overall capability of a water system to consistently
+produce and deliver water meeting all national and state primary drinking
+water regulations in effect when new or modified operations begin. Capacity
+includes the technical, managerial, and financial capacities of the water
+   Ariz. Admin. Code R18-4-103 General - 40 Cfr 141, Subpart A
+          (Arizona Administrative Code (2021 Edition))
+
+
+system to plan for, achieve, and maintain compliance with applicable
+national and state primary drinking water regulations.
+
+"Capacity development" means improving public water system finances,
+management, infrastructure, and operations, so that the public water system
+can provide safe drinking water consistently, reliably, and cost-effectively.
+
+"Capacity development report" means an annual report adopted by the
+Department that describes progress made in improving technical,
+managerial, or financial capacity of public water systems in Arizona.
+
+"Cross connection" means a physical connection between a public water
+system and any source of water or other substance that may lead to
+contamination of the water provided by the public water system through
+backflow.
+
+"Distribution system" means a pipeline, appurtenance, device, and facility of
+a public water system that conducts water from a source or water treatment
+plant to persons served by the system.
+
+"Department" means the Arizona Department of Environmental Quality.
+
+"Double check valve assembly" means a backflow-prevention assembly that
+contains two independently acting check valves with tightly closing,
+resilient-seated shut-off valves on each end of the assembly and properly
+located, resilient-seated test cocks.
+
+"Elementary business plan" means a document containing all of the items
+necessary for a complete review of the technical, managerial, and financial
+capacity of a new public water system under Article 6 of this Chapter.
+
+"Entry point to the distribution system" means a compliance sampling point
+anywhere on a finished water line that is representative of a water source
+and located after the well, surface water intake, treatment plant, storage
+tank, or pressure tank, whichever is last in the process flow, but prior to
+where the water is discharged into the distribution system and prior to the
+first service connection.
+
+"EPA" means the United States Environmental Protection Agency.
+
+"Exclusion" means a waiver granted by the Department under R18-4-219
+from a requirement of this Chapter that is not a requirement contained in a
+federal drinking water law.
+
+"Exemption" means a form of temporary relief from a maximum
+contaminant level or treatment technique granted by the Department to a
+   Ariz. Admin. Code R18-4-103 General - 40 Cfr 141, Subpart A
+          (Arizona Administrative Code (2021 Edition))
+
+
+public water system, pending installation and operation of treatment
+facilities, acquisition of an alternate source, or completion of improvements
+in treatment processes to bring the system into compliance with drinking
+water regulations.
+
+"Financial capacity" means the ability of a public water system to acquire
+and manage sufficient financial resources for the system to achieve and
+maintain compliance with the federal Safe Drinking Water Act.
+
+"Groundwater system" means a public water system that is supplied solely
+by groundwater that is not under the direct influence of surface water.
+
+"Lead-free"
+
+has the same meaning prescribed in A.R.S. § 49-353(B).
+
+"Major stockholder" means a person who has 20% or more ownership
+interest in a public water system.
+
+"Master priority list" means a list created by the Department that ranks
+public water systems according to the criteria in R18-4-803.
+
+"Monitoring assistance program" means the program established by A.R.S. §
+49-360 to assist public water systems with mandatory monitoring for
+contaminants and administered by the Department under 18 A.A.C. 4.
+
+"Operational assistance" means professional or financial assistance provided
+to a public water system to improve the technical, managerial, or financial
+operations of the public water system.
+
+"Protected water source" means a groundwater source that:
+
+* Meets the requirements of A.A.C. R18-5-502(D);
+
+* Is not located within 100 feet of a drywell as defined by A.R.S. § 49-331(3),
+and
+
+* Is not located within 100 feet of a condition that can constitute an
+environmental nuisance as described in A.R.S. § 49-141(A).
+
+"Reduced pressure principle backflow-prevention assembly" means a
+backflow-prevention assembly that contains two independently acting check
+valves; a hydraulically operating, mechanically independent pressure
+differential relief valve located between the two check valves; tightly closing,
+resilient seated shut-off valves on each end of the check valve assembly; and
+properly located resilient seated test cocks.
+   Ariz. Admin. Code R18-4-103 General - 40 Cfr 141, Subpart A
+          (Arizona Administrative Code (2021 Edition))
+
+
+"Service connection" means a location at the meter or, in the absence of a
+meter, at the curbstop or building inlet.
+
+"Service line" means the water line that runs from the corporation stop at a
+water main to the building inlet, including any pigtail, gooseneck, or fitting.
+
+"State" means the Arizona Department of Environmental Quality, except
+during any time period during which the Department does not have primary
+enforcement responsibility pursuant to Section 1413 of the Act, the term
+"State" means the Regional Administrator of EPA Region 9.
+
+"System evaluation assistance" means assistance provided to assess the
+status of the public water system's technical, managerial, and financial
+components, with emphasis on infrastructure status.
+
+"Technical assistance" means operational assistance, system evaluation
+assistance, or both.
+
+"Treatment" means a process that changes the quality of water by physical,
+chemical, or biological means.
+
+"Treatment technique" means a treatment procedure promulgated by EPA
+in lieu of an MCL.
+
+"Variance" means relief from a maximum contaminant level or treatment
+technique granted by the Department to a public water system when
+characteristics of a system's raw water source preclude the system from
+complying with maximum contaminant levels prescribed by drinking water
+regulations, despite application of best technology, treatment techniques, or
+other means available to the system.
+
+"Water main" means a pipe that is exterior to buildings and is used to
+distribute drinking water to more than one property.
+
+"Water Infrastructure Finance Authority" means the entity created under
+A.R.S. § 49-1201 et seq. to provide financial assistance to political
+subdivisions, Indian tribes, and eligible drinking water facilities for
+constructing, acquiring, or improving wastewater treatment facilities,
+drinking water facilities, nonpoint source projects, and other related water
+quality facilities and projects.
+
+"Water treatment plant" means a process, device, or structure used to
+improve the physical, chemical, or biological quality of the water in a public
+water system. A booster chlorination facility that is designed to maintain an
+effective disinfectant residual in water in the distribution system is not a
+water treatment plant.
+   Ariz. Admin. Code R18-4-103 General - 40 Cfr 141, Subpart A
+          (Arizona Administrative Code (2021 Edition))
+
+
+C. 40 CFR 141.4, entitled "variances and exemptions, " is incorporated by
+reference subject to the following modifications:
+
+1. The phrase "entity with primary enforcement responsibility" is changed to
+"Department."
+
+2. When reviewing and acting on requests for variances and exemptions, the
+Department shall act in accordance with the procedures at 42 U.S.C. 300g-4
+and 300g - 5(2004) of the Act (Public Health Service Act § § 1415 and 1416),
+including:
+
+a. The Department shall require a public water system granted a variance
+under subsection (C) to comply with the requirements in a compliance
+schedule as expeditiously as practicable.
+
+b. The Department shall promptly notify EPA of all variances and
+exemptions granted by the Department in the manner specified in the Act.
+
+c. The Department shall enforce a schedule or other requirement on which a
+variance or exemption is conditioned under 42 U.S.C. 300g-3 and A.R.S. §
+49-354, as if the schedule or other requirement is part of a national primary
+drinking water regulation incorporated by reference in this Chapter.
+
+d. "Treatment technique requirement, " for the purpose of subsection (C),
+means a requirement in a national primary drinking water regulation which
+specifies for a contaminant, in accordance with 42 U.S.C. 300 f(1)(C)(ii),
+each treatment technique known to lead to a reduction in the level of the
+contaminant sufficient to satisfy the requirements of 42 U.S.C. 300g - 1(b).
+
+e. If the Department grants a variance or exemption, the Department shall
+prescribe:
+
+i. A compliance schedule that includes increments of progress or measures
+to develop an alternative source of water supply; and
+
+ii. An implementation schedule that includes such control measures as the
+Department deems necessary for each contaminant.
+
+D.40 CFR 142, 142.2, 142.20, and Subparts E, F, G, and K, are incorporated
+by reference as of the date specified in R18-4-102, with the following
+changes; this incorporation does not include any later amendments or
+editions. The following substitutions are to be applied in the listed order.
+
+1. 40 CFR 142.46, 142.302, 142.313 are not incorporated by reference.
+     Ariz. Admin. Code R18-4-103 General - 40 Cfr 141, Subpart A
+            (Arizona Administrative Code (2021 Edition))
+
+
+2. 40 CFR 142.20(a), (b). The phrase "States with primary enforcement
+responsibility" is changed to "the Department"; the second sentences in
+142.20(a) and 142.20(b) are deleted.
+
+3. 40 CFR 142.60(b), 142.61(b). The phrase "Administrator in a state that
+does not have primary enforcement responsibility or a state with primary
+enforcement responsibility (primacy state) that issues variances" is changed
+to "Department."
+
+4.
+
+40 CFR 142.40(a), (b); 142.41; 142.50(a); 142.51. The phrase "a State that
+does not have primary enforcement responsibility" is changed to "Arizona".
+
+5. 40 CFR 142.60(b), (c), (d); 142.61(b), (c). The phrase "Administrator or
+[`primacy' or `primary'] state that issues variances" is changed to
+"Department."
+
+6. 40 CFR 142.60(b), (d); 142.61(b), (d); 142.62(e), (g)(1); 142.65(a)(4). The
+phrase "Administrator or [the] primacy state" is changed to "Department";
+the phrase "Administrator's or primacy state's" is changed to
+"Department's."
+
+7. In 40 CFR 142, Subpart K:
+
+a. The phrases "[`a' or `the'] State or [the] Administrator, " "Administrator
+or State, " "the public water system, State and the Administrator, " and "a
+State exercising primary enforcement responsibility for public water systems
+(or the Administrator for other systems)" are changed to "the Department."
+
+b. 40 CFR 142.301. The last sentence is deleted.
+
+c. 40 CFR 142.303(b). The phrase "a State exercising primary enforcement
+responsibility for public water systems" is changed to "the Department."
+
+d. 40 CFR 142.306(b)(2). The phrase "(or by the Administrator in States
+which do not have primary enforcement responsibility)" is deleted.
+
+e. 40 CFR 142.308(a), 142.309(c). The phrase "the State, Administrator, or
+[the] public water system as directed by the State or Administrator" is
+changed to "the Department or the public water system, as determined by
+the Department."
+
+f. 40 CFR 142.308(b). The text of this subsection is replaced by the
+following: "At the time of proposal, the Department must publish a notice in
+the Arizona Administrative Register or a newspaper or newspapers of wide
+   Ariz. Admin. Code R18-4-103 General - 40 Cfr 141, Subpart A
+          (Arizona Administrative Code (2021 Edition))
+
+
+circulation in the affected region of the State. This notice shall include the
+information listed in paragraph (c) of this section."
+
+g. 40 CFR 142.308(c)(7). The phrase "the primacy agency" is changed to "the
+Department."
+
+8. In all parts of 40 CFR 142 incorporated by reference other than Subpart
+K, the term "Administrator" is changed to "Department"; the pronoun "he"
+is changed to "the Department"; and the pronoun "his" is changed to "the
+Department's."
+
+9. In all parts of 40 CFR 142 incorporated by reference, the term "a state" or
+"the state" is changed to "the Department"; the term "the State's" is changed
+to "the Department's."
+
+10. 40 CFR 142.62(h)(3). The term "State-approved" is changed to
+"Department-approved."
+
+11. In 40 CFR 142.44(b). The text of this subsection is replaced by the
+following: "Public notice of an opportunity for hearing on a variance
+schedule shall be circulated in a manner designed to inform interested and
+potentially interested persons of the proposed schedule, and shall meet the
+notice requirements of A.A.C. R18-1-401."
+
+12. In 40 CFR 142.54(b). The text of this subsection is replaced by the
+following: "Public notice of an opportunity for hearing on an exemption
+schedule shall be circulated in a manner designed to inform interested and
+potentially interested persons of the proposed schedule, and shall meet the
+notice requirements of A.A.C. R18-1-401."
+
+13. 40 CFR 142.44(d), 142.54(d). The third, fourth, and fifth sentences of
+these subsections are deleted.
+
+14. 40 CFR 142.44(e), 142.54(e). The text of these subsections is replaced by
+the following: "A hearing convened pursuant to paragraph (d) of this section
+shall be conducted according to the procedural requirements of A.A.C. R18-
+1-402."
+
+E. 40 CFR 141.5 is not incorporated by reference.
+
+(Former Section R9-20-505 repealed, new Section R9-20-505 adopted
+effective November 1, 1979 (Supp. 79-6). Former Section R9-20-505
+amended, renumbered as Section R9-20-503, then renumbered as Section
+R18-4-103 effective October 23, 1987 (Supp. 87-4). R18-4-103 recodified to
+R18-5-103 (Supp. 95-2). New Section adopted effective April 28, 1995 (Supp.
+95-2). Amended effective June 3, 1998 (Supp. 98-3). Amended by final
+   Ariz. Admin. Code R18-4-103 General - 40 Cfr 141, Subpart A
+          (Arizona Administrative Code (2021 Edition))
+
+
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Amended by final rulemaking at 8 A.A.R. 3046, effective May 1, 2002 (Supp.
+02-3). Section R18-4-103repealed; new Section made by final rulemaking at
+14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3). Amended by final
+rulemaking at 22 A.A.R. 379, effective 4/2/2016.)
+Ariz. Admin. Code R18-4-104 Maximum Contaminant Levels - 40
+Cfr 141, Subpart B (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-104. Maximum Contaminant Levels - 40 Cfr 141, Subpart
+B
+
+40 CFR 141, Subpart B ( 40 CFR 141.11 through 141.13 ), is incorporated by
+reference as of the date specified in R18-4-102; this incorporation does not
+include any later amendments or editions.
+
+(Former Section R9-20-506 repealed, new Section R9-20-506 adopted
+effective November 1, 1979 (Supp. 79-6). Amended effective March 19, 1980
+(Supp. 80-2). Former Section R9-20-506 amended, renumbered as Section
+R9-20-504, then renumbered as Section R18-4-104 effective October 23,
+1987 (Supp. 87-4). R18-4-104 recodified to R18-5-104 (Supp. 95-2). New
+Section adopted effective April 28, 1995 (Supp. 95-2). Amended effective
+June 3, 1998 (Supp. 98-3). Amended effective December 8, 1998 (Supp. 98-
+4). Amended by final rulemaking at 8 A.A.R. 973, effective February 19,
+2002 (Supp. 02-1). Amended by final rulemaking at 8 A.A.R. 3046, effective
+May 1, 2002 (Supp. 02-3). Amended under R1-1-109(B) to correct a
+manifest clerical error; subsection R18-4-104(J)(3) moved to its proper
+place as subsection R18-4-104(K)(3); compare at 8 A.A.R. 3086, July 26,
+2002 (Supp. 03-1). Section R18-4-104 renumbered to R18-4-211; new
+Section made by final rulemaking at 14 A.A.R. 2978, effective August 30,
+2008 (Supp. 08-3).)
+       Ariz. Admin. Code R18-4-105 Monitoring and Analytical
+     Requirements - 40 Cfr 141, Subpart C (Arizona Administrative
+                        Code (2021 Edition))
+
+§ R18-4-105. Monitoring and Analytical Requirements - 40 Cfr
+141, Subpart C
+
+A.40 CFR 141, Subpart C ( 40 CFR 141.21 through 141.29 and Appendix A), is
+incorporated by reference as of the date specified in R18-4-102, subject to
+the modifications specified in this Section; this incorporation does not
+include any later amendments or editions.
+
+B.
+
+40 CFR 141.21(c)(2), 141.21(d) and 141.21(f) are not incorporated by
+reference.
+
+C. 40 CFR 141.22: the last sentence of 141.22(a) is replaced by the following:
+"Turbidity measurements shall be made using analytical methods approved
+by EPA and the Arizona Department of Health Services."
+
+D. 40 CFR 141.23(k) is not incorporated by reference.
+
+E. 40 CFR 141.24(f)(17), 141.24(f)(20), and 141.24(h)(19) are not
+incorporated by reference.
+
+F. 40 CFR 141.25: the following text replaces the text of 40 CFR 141.25(a)
+and (b): "Analysis for the following contaminants shall be conducted to
+determine compliance with 40 CFR 141.66(radioactivity) using analytical
+methods approved by EPA and the Arizona Department of Health Services:
+
+1. Naturally occurring contaminants: gross alpha and beta, gross alpha,
+radium 226, radium 228, and uranium.
+
+2. Man-made contaminants: radioactive cesium, radioactive iodine,
+radioactive strontium 89, 90, tritium, and gamma emitters."
+
+G. 40 CFR 141.27, alternate analytical techniques, is not incorporated by
+reference; the following text is substituted in its place: "The use of an
+alternate analytical technique approved by EPA and the Arizona Department
+of Health Services shall not decrease the frequency of monitoring required
+by this Chapter."
+
+H. 40 CFR 141.28:
+
+1. In 40 CFR 141.28(a), the term "State" is changed to "Arizona Department
+of Health Services."
+
+2. In 40 CFR 141.28(b), the term "State" is changed to "Arizona Department
+of Health Services or Arizona Department of Environmental Quality."
+    Ariz. Admin. Code R18-4-105 Monitoring and Analytical
+  Requirements - 40 Cfr 141, Subpart C (Arizona Administrative
+                     Code (2021 Edition))
+
+3. A new subsection (c) is added: "A laboratory that performs drinking water
+analysis in Arizona shall be certified by EPA or the Arizona Department of
+Health Services."
+
+(Former Section R9-20-507 repealed, new Section R9-20-507 adopted
+effective November 1, 1979 (Supp. 79-6). Former Section R9-20-507
+amended, renumbered as Section R9-20-505, then renumbered as Section
+R18-4-105 effective October 23, 1987 (Supp. 87-4). R18-4-105 recodified to
+R18-5-105 (Supp. 95-2). New Section adopted effective April 28, 1995 (Supp.
+95-2). Amended effective June 3, 1998 (Supp. 98-3). Section repealed by
+final rulemaking at 8 A.A.R. 3046, effective May 6, 2002 (Supp. 02-3). New
+Section R18-4-105 renumbered from R18-4-105.01 at 8 A.A.R. 2756,
+effective June 6, 2002 (Supp. 02-3). Subsection citation in part 4 of Table 2
+corrected (Supp. 04-1). Section R18-4-105 and Tables 1 through 4 repealed;
+new Section made by final rulemaking at 14 A.A.R. 2978, effective August
+30, 2008 (Supp. 08-3). Amended by final rulemaking at 22 A.A.R. 379,
+effective 4/2/2016.)
+      Ariz. Admin. Code R18-4-105.01 Renumbered (Arizona
+               Administrative Code (2021 Edition))
+
+
+§ R18-4-105.01. Renumbered
+
+(New Section made by final rulemaking at 8 A.A.R. 3046, effective May 6,
+2002 (Supp. 02-3). Section renumbered to R18-4-105 at 8 A.A.R. 2756,
+effective June 6, 2002 (Supp. 02-3).)
+Ariz. Admin. Code R18-4-106 Reporting and Recordkeeping - 40
+Cfr 141, Subpart D (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-106. Reporting and Recordkeeping - 40 Cfr 141, Subpart
+D
+
+A.40 CFR 141, Subpart D ( 40 CFR 141.31 through 141.35 ), is incorporated
+by reference as of the date specified in R18-4-102; this incorporation does
+not include any later amendments or editions. The requirements in the
+following subsections are in addition to the requirements of 40 CFR 141,
+Subpart D.
+
+B. Department reporting forms. A public water system shall report to the
+Department the results of all analyses completed under this Chapter on
+Department-approved forms.
+
+C. Direct reporting. A public water system may contract with a laboratory or
+another agent to report monitoring results to the Department, but the public
+water system remains legally responsible for compliance with reporting
+requirements.
+
+(Adopted effective March 19, 1980 (Supp. 80-2). Former Section R9-20-508
+amended, renumbered as Section R9-20-506, then renumbered as Section
+R18-4-106 effective October 23, 1987 (Supp. 87-4). Amended subsection (F)
+effective November 30, 1988 (Supp. 88-4). R18-4-106 recodified to R18-5-
+106 (Supp. 95-2). New Section adopted effective April 28, 1995 (Supp. 95-2).
+Amended by final rulemaking at 8 A.A.R. 973, effective February 19, 2002
+(Supp. 02-1). Section R18-4-106 repealed; new Section made by final
+rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+  Ariz. Admin. Code R18-4-107 Special Regulations, Including
+Monitoring Regulations and Prohibition on Lead Use - 40 Cfr 141,
+   Subpart E (Arizona Administrative Code (2021 Edition))
+
+§ R18-4-107. Special Regulations, Including Monitoring
+Regulations and Prohibition on Lead Use - 40 Cfr 141, Subpart E
+
+40 CFR 141, Subpart E ( 40 CFR 141.40 through 141.43 ), is incorporated by
+reference as of the date specified in R18-4-102; this incorporation does not
+include any later amendments or editions.
+
+(Former Section R9-20-509 repealed, new Section R9-20-509 adopted
+effective November 1, 1979 (Supp. 79-6). Former Section R9-20-509
+amended, renumbered as Section R9-20-507, then renumbered as Section
+R18-4-107 effective October 23, 1987 (Supp. 87-4). Amended subsection (B)
+effective November 30, 1988 (Supp. 88-4). R18-4-107 recodified to R18-5-
+107 (Supp. 95-2). New Section adopted effective April 28, 1995 (Supp. 95-2).
+Section R18-4-107 repealed; new Section made by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+Ariz. Admin. Code R18-4-108 Maximum Contaminant Level Goals
+  and Maximum Residual Disinfectant Level Goals - 40 Cfr 141,
+     Subpart F (Arizona Administrative Code (2021 Edition))
+
+§ R18-4-108. Maximum Contaminant Level Goals and Maximum
+Residual Disinfectant Level Goals - 40 Cfr 141, Subpart F
+
+40 CFR 141, Subpart F ( 40 CFR 141.50 through 141.55 ), is incorporated by
+reference as of the date specified in R18-4-102; this incorporation does not
+include any later amendments or editions.
+
+(Former Section R9-20-510 repealed, new Section R9-20-510 adopted
+effective November 1, 1979 (Supp. 79-6). Former Section R9-20-510
+amended, renumbered as Section R9-20-508, then renumbered as Section
+R18-4-108 effective October 23, 1987 (Supp. 87-4). Amended subsection (D)
+effective November 30, 1988 (Supp. 88-4). R18-4-108 recodified to R18-5-
+108 (Supp. 95-2). New Section R18-4-108 renumbered from R18-4-109 and
+amended by final rulemaking at 8 A.A.R. 973, effective February 19, 2002
+(Supp. 02-1). Section R18-4-108 renumbered to R18-4-205; new Section
+made by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+      Ariz. Admin. Code R18-4-109 Primary Drinking Water
+    Regulations: Maximum Contaminant Levels and Maximum
+   Residual Disinfectant Levels - 40 Cfr 141, Subpart G (Arizona
+               Administrative Code (2021 Edition))
+§ R18-4-109. Primary Drinking Water Regulations: Maximum
+Contaminant Levels and Maximum Residual Disinfectant Levels -
+40 Cfr 141, Subpart G
+
+40 CFR 141, Subpart G ( 40 CFR 141.60 through 141.66 ), is incorporated by
+reference as of the date specified in R18-4-102; this incorporation does not
+include any later amendments or editions.
+
+(Former Section R9-20-511 repealed, new Section R9-20-511 adopted
+effective November 1, 1979 (Supp. 79-6). Former Section R9-20-511
+amended, renumbered as Section R9-20-509, then renumbered as Section
+R18-4-109 effective October 23, 1987 (Supp. 87-4). R18-4-109 recodified to
+R18-5-109 (Supp. 95-2). New Section adopted effective April 28, 1995
+(Supp. 95-2). Amended effective June 3, 1998 (Supp. 98-3). Former Section
+R18-4-109 renumbered to R18-4-108; new Section R18-4-109 made by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Section R18-4-109 repealed; new Section made by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-110 Filtration and Disinfection - 40 Cfr
+  141, Subpart H (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-110. Filtration and Disinfection - 40 Cfr 141, Subpart H
+
+A.40 CFR 141, Subpart H ( 40 CFR 141.70 through 141.76), is incorporated
+by reference as of the date specified in R18-4-102, subject to the
+modifications specified in this Section; this incorporation does not include
+any later amendments or editions.
+
+B. The text of 40 CFR 141.74(a) is replaced by the following: "Analytical
+requirements. In order to demonstrate compliance with the requirements of
+this Part, public water systems shall use analytical methods approved by
+EPA and the Arizona Department of Health Services for monitoring under
+this Part."
+
+(Former Section R9-20-512 repealed, new Section R9-20-512 adopted
+effective November 1, 1979 (Supp. 79-6). Former Section R9-20-512
+amended, renumbered as Section R9-20-510, then renumbered as Section
+R18-4-110 effective October 23, 1987 (Supp. 87-4). Amended subsection (B)
+effective November 30, 1988 (Supp. 88-4). R18-4-110 recodified to R18-5-
+110 (Supp. 95-2). New Section adopted effective April 28, 1995 (Supp. 95-2).
+Amended by final rulemaking at 8 A.A.R. 973, effective February 19, 2002
+(Supp. 02-1). Section R18-4-110 repealed; new Section made by final
+rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+Ariz. Admin. Code R18-4-111 Control of Lead and Copper - 40 Cfr
+  141, Subpart I (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-111. Control of Lead and Copper - 40 Cfr 141, Subpart I
+
+A.40 CFR 141, Subpart I ( 40 CFR 141.80 through 141.91 ), is incorporated by
+reference as of the date specified in R18-4-102, subject to the modifications
+specified in this Section; this incorporation does not include any later
+amendments or editions.
+
+B. The first sentence of 40 CFR 141.89(a) is replaced by the following:
+"Analyses for lead, copper, pH, conductivity, calcium, alkalinity,
+orthophosphate, silica, and temperature shall be conducted using analytical
+methods approved by EPA and the Arizona Department of Health Services.
+Analyses under this section for lead and copper shall be conducted by
+laboratories that have been certified by EPA or the Arizona Department of
+Health Services."
+
+C. The text of 40 CFR 141.89(a)(1) is not incorporated by reference.
+
+(Adopted as Section R9-20-511 and renumbered as Section R18-4-111
+effective October 23, 1987 (Supp. 87-4). R18-4-111 recodified to R18-5-111
+(Supp. 95-2). New Section adopted effective April 28, 1995 (Supp. 95-2).
+Amended by final rulemaking at 8 A.A.R. 973, effective February 19, 2002
+(Supp. 02-1). Section R18-4-111 repealed; new Section made by final
+rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-112 Use of Non-centralized Treatment
+  Devices - 40 Cfr 141, Subpart J (Arizona Administrative Code
+                          (2021 Edition))
+
+§ R18-4-112. Use of Non-centralized Treatment Devices - 40 Cfr
+141, Subpart J
+
+40 CFR 141.101 is incorporated by reference as of the date specified in R18-
+4-102; this incorporation does not include any later amendments or
+editions.
+
+(Former Section R9-20-517 repealed, new Section R9-20-517 adopted
+effective November 1, 1979 (Supp. 79-6). Amended effective March 19, 1980
+(Supp. 80-2). Former Section R9-20-517 amended, renumbered as Section
+R9-20-512, then renumbered as Section R18-4-112 effective October 23,
+1987 (Supp. 87-4). R18-4-112 recodified to R18-5-112 (Supp. 95-2). New
+Section adopted effective April 28, 1995 (Supp. 95-2). Section R18-4-112
+renumbered to R18-4-219; new Section made by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-113 Treatment Techniques - 40 Cfr 141,
+     Subpart K (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-113. Treatment Techniques - 40 Cfr 141, Subpart K
+
+40 CFR 141, Subpart K ( 40 CFR 141.110 through 141.111 ), is incorporated by
+reference as of the date specified in R18-4-102; this incorporation does not
+include any later amendments or editions.
+
+(Adopted as Section R9-20-513 and renumbered as Section R18-4-113
+effective October 23, 1987 (Supp. 87-4). Amended subsections (A) and (C)
+effective November 30, 1988 (Supp. 88-4). R18-4-113 recodified to R18-5-
+113 (Supp. 95-2). New Section adopted effective April 28, 1995 (Supp. 95-2).
+Section R18-4-113 repealed; new Section made by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+Ariz. Admin. Code R18-4-114 Disinfectant Residuals, Disinfection
+Byproducts, and Disinfection Byproduct Precursors - 40 Cfr 141,
+    Subpart L (Arizona Administrative Code (2021 Edition))
+
+§ R18-4-114. Disinfectant Residuals, Disinfection Byproducts, and
+Disinfection Byproduct Precursors - 40 Cfr 141, Subpart L
+
+A.40 CFR 141, Subpart L ( 40 CFR 141.130 through 141.135 ), is incorporated
+by reference as of the date specified in R18-4-102, subject to the
+modifications specified in this Section; this incorporation does not include
+any later amendments or editions.
+
+B. 40 CFR 141.131 is not incorporated by reference.
+
+C. In order to demonstrate compliance with the requirements of this
+Chapter:
+
+1. Public water systems shall use analytical methods approved by EPA and
+the Arizona Department of Health Services for monitoring under this
+Chapter; and
+
+2. Analyses of drinking water samples shall be conducted by laboratories
+that have been certified by EPA or the Arizona Department of Health
+Services.
+
+D. A party approved by the Department shall measure daily chlorite samples
+at the entrance to the distribution system.
+
+E. A public water system may measure residual disinfectant concentrations
+for chlorine, chloramines, and chlorine dioxide by using N, N-diethyl-p-
+phenylenediamine (DPD) colorimetric test kits. A party approved by the
+Department shall measure residual disinfectant concentration.
+
+(Former Section R9-20-519 repealed, new Section R9-20-519 adopted
+effective November 1, 1979 (Supp. 79-6). Former Section R9-20-519
+amended, renumbered as Section R9-20-514, then renumbered as Section
+R18-4-114 effective October 23, 1987 (Supp. 87-4). R18-4-114 recodified to
+R18-5-114 (Supp. 95-2). New Section adopted effective April 28, 1995 (Supp.
+95-2). Section R18-4-114 renumbered to R18-4-202; new Section made by
+final rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+        Ariz. Admin. Code R18-4-115 Renumbered (Arizona
+               Administrative Code (2021 Edition))
+
+
+§ R18-4-115. Renumbered
+
+(Former Section R9-20-520 repealed, new Section R9-20-520 adopted
+effective November 1, 1979 (Supp. 79-6). Former Section R9-20-520
+amended, renumbered as Section R9-20-515, then renumbered as Section
+R18-4-115 effective October 23, 1987 (Supp. 87-4). R18-4-115 recodified to
+R18-5-115 (Supp. 95-2). New Section adopted effective April 28, 1995 (Supp.
+95-2). Amended by final rulemaking at 8 A.A.R. 973, effective February 19,
+2002 (Supp. 02-1). Section R18-4-115 renumbered to R18-4-215 by final
+rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+        Ariz. Admin. Code R18-4-116 Renumbered (Arizona
+                Administrative Code (2021 Edition))
+
+
+§ R18-4-116. Renumbered
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Section R18-4-116 renumbered to R18-4-204 by final
+rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+Ariz. Admin. Code R18-4-117 Consumer Confidence Reports - 40
+Cfr 141, Subpart O (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-117. Consumer Confidence Reports - 40 Cfr 141, Subpart
+O
+
+40 CFR 141, Subpart O ( 40 CFR 141.151 through 141.155 and Appendix A), is
+incorporated by reference as of the date specified in R18-4-102; this
+incorporation does not include any later amendments or editions.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Section R18-4-117 renumbered to R18-4-209; new
+Section made by final rulemaking at 14 A.A.R. 2978, effective August 30,
+2008 (Supp. 08-3).)
+      Ariz. Admin. Code R18-4-118 Enhanced Filtration and
+  Disinfection - Systems Serving 10, 000 or More People - 40 Cfr
+   141, Subpart P (Arizona Administrative Code (2021 Edition))
+
+§ R18-4-118. Enhanced Filtration and Disinfection - Systems
+Serving 10, 000 or More People - 40 Cfr 141, Subpart P
+
+40 CFR 141, Subpart P ( 40 CFR 141.170 through 141.175 ), is incorporated
+by reference as of the date specified in R18-4-102; this incorporation does
+not include any later amendments or editions.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Section R18-4-118
+renumbered to R18-4-208; new Section made by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-119 Public Notification of Drinking
+Water Violations - 40 Cfr 141, Subpart Q (Arizona Administrative
+                      Code (2021 Edition))
+
+§ R18-4-119. Public Notification of Drinking Water Violations - 40
+Cfr 141, Subpart Q
+
+40 CFR 141, Subpart Q ( 40 CFR 141.201 through 141.211 and Appendices A,
+B, and C), is incorporated by reference as of the date specified in R18-4-102;
+this incorporation does not include any later amendments or editions.
+
+(Former Section R18-4-215 renumbered R18-4-119 pursuant to R1-1-404
+effective April 28, 1995 (Supp. 95-2). Amended effective June 3, 1998 (Supp.
+98-3). Amended by final rulemaking at 8 A.A.R. 973, effective February 19,
+2002 (Supp. 02-1). Section R18-4-119 renumbered to R18-4-213; new
+Section made by final rulemaking at 14 A.A.R. 2978, effective August 30,
+2008 (Supp. 08-3).)
+       Ariz. Admin. Code R18-4-120 Renumbered (Arizona
+               Administrative Code (2021 Edition))
+
+
+§ R18-4-120. Renumbered
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective December
+8, 1998 (Supp. 98-4). Section R18-4-120 renumbered to R18-4-206 by final
+rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+   Ariz. Admin. Code R18-4-121 Ground Water Rule - 40 Cfr 141,
+     Subpart S (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-121. Ground Water Rule - 40 Cfr 141, Subpart S
+
+A. 40 CFR Part 141, Subpart S ( 40 CFR 141.400 through 141.405 ), is
+incorporated by reference as of the date specified in R18-4-102, subject to
+the modifications specified in this Section; this incorporation does not
+include any later amendments or editions.
+
+B. 40 CFR 141.402(a)(4) is modified as follows:
+
+Consecutive and wholesale systems.
+
+(i) In addition to the other requirements of this paragraph (a), a consecutive
+ground water system that has a total coliform-positive sample, collected
+under § 141.21(a) until March 31, 2016 or under § § 141.854 through 141.857
+beginning April 1, 2016, within 24 hours of being notified of the total
+coliform-positive sample must:
+
+(A) Notify the wholesale system(s) and,
+
+(B) Collect a sample from its consecutive connection with the wholesale
+ground water system and analyze it for a fecal indicator under paragraph (c)
+of this section.
+
+(ii) If the sample collected under paragraph (a)(4)(i)(B) of this section is
+fecal indicator-positive, within 24 hours:
+
+(A) The consecutive system must notify the wholesale ground water system,
+and
+
+(B) Both systems must consult with the Department on additional sampling
+to meet the requirements of paragraph (a)(3) of this section.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Section R18-4-121 renumbered to R18-4-201; new
+Section made by final rulemaking at 14 A.A.R. 2978, effective August 30,
+2008 (Supp. 08-3). Amended by final rulemaking at 22 A.A.R. 379, effective
+4/2/2016.)
+      Ariz. Admin. Code R18-4-122 Enhanced Filtration and
+  Disinfection - Systems Serving Fewer Than 10, 000 People - 40
+ Cfr 141, Subpart T (Arizona Administrative Code (2021 Edition))
+
+§ R18-4-122. Enhanced Filtration and Disinfection - Systems
+Serving Fewer Than 10, 000 People - 40 Cfr 141, Subpart T
+
+40 CFR 141, Subpart T ( 40 CFR 141.500 through 141.571 ), is incorporated
+by reference as of the date specified in R18-4-102; this incorporation does
+not include any later amendments or editions.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective December
+8, 1998 (Supp. 98-4). Amended by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1). Section R18-4-122 renumbered to
+R18-4-207; new Section made by final rulemaking at 14 A.A.R. 2978,
+effective August 30, 2008 (Supp. 08-3).)
+Ariz. Admin. Code A Renumbered (Arizona Administrative Code
+                       (2021 Edition))
+
+
+APPENDIX A. Renumbered
+
+(New Appendix made by final rulemaking at 8 A.A.R. 973, effective February
+19, 2002 (Supp. 02-1). Appendix A repealed; new Appendix A made by final
+rulemaking at 8 A.A.R. 3046, effective May 1, 2002 (Supp. 02-3). Appendix
+A renumbered to a position after R18-4-125 at 8 A.A.R. 2756, effective June
+6, 2002 (Supp. 02-3).)
+    Ariz. Admin. Code R18-4-123 Initial Distribution System
+Evaluations - 40 Cfr 141, Subpart U (Arizona Administrative Code
+                          (2021 Edition))
+
+§ R18-4-123. Initial Distribution System Evaluations - 40 Cfr 141,
+Subpart U
+
+40 CFR 141, Subpart U ( 40 CFR 141.600 through 141.605 ), is incorporated
+by reference as of the date specified in R18-4-102; this incorporation does
+not include any later amendments or editions.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Section R18-4-123
+renumbered to R18-4-216; new Section made by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+  Ariz. Admin. Code R18-4-124 Stage 2 Disinfection Byproducts
+  Requirements - 40 Cfr 141, Subpart V (Arizona Administrative
+                     Code (2021 Edition))
+
+§ R18-4-124. Stage 2 Disinfection Byproducts Requirements - 40
+Cfr 141, Subpart V
+
+40 CFR 141, Subpart V ( 40 CFR 141.620 through 141.629 ), is incorporated
+by reference as of the date specified in R18-4-102; this incorporation does
+not include any later amendments or editions.
+
+(Adopted effective February 9, 1996 (Supp. 96-1). Section R18-4-124
+renumbered to R18-4-203; new Section made by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+     Ariz. Admin. Code R18-4-125 Enhanced Treatment for
+Cryptosporidium - 40 Cfr 141, Subpart W (Arizona Administrative
+                     Code (2021 Edition))
+
+§ R18-4-125. Enhanced Treatment for Cryptosporidium - 40 Cfr
+141, Subpart W
+
+40 CFR 141, Subpart W ( 40 CFR 141.700 through 141.723 ), is incorporated
+by reference as of the date specified in R18-4-102; this incorporation does
+not include any later amendments or editions.
+
+(Adopted effective February 9, 1996 (Supp. 96-1). Section R18-4-125
+renumbered to R18-4-214; new Section made by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+Ariz. Admin. Code R18-4-126 Revised Total Coliform Rule 40 Cfr
+Part 141, Subpart Y (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-126. Revised Total Coliform Rule 40 Cfr Part 141, Subpart
+Y
+
+A. 40 CFR Part 141, Subpart Y ( 40 CFR 141.851 through 141.861 ), is
+incorporated by reference as of the date specified in R18-4-102, subject to
+modifications specified in this Section; this incorporation does not include
+any later amendments or editions.
+
+B. 40 CFR 141.851(d), 141.852, 141.853(c)(2), and 141.854(h)(2)(i) - (ii) are
+not incorporated by reference.
+
+(Adopted by final rulemaking at 22 A.A.R. 379, effective 4/2/2016.)
+   Ariz. Admin. Code A Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX A. Repealed
+
+(New Appendix made by final rulemaking at 8 A.A.R. 973, effective February
+19, 2002 (Supp. 02-1). Appendix A repealed by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3).)
+        Ariz. Admin. Code R18-4-201 Enforcement (Arizona
+                Administrative Code (2021 Edition))
+
+
+§ R18-4-201. Enforcement
+
+A. A water supplier who constructs, operates, or maintains a public water
+system contrary to the provisions of this Chapter or fails to maintain the
+quality of water within the public water system as required by this Chapter is
+subject to the actions provided in A.R.S. § § 49-142 and 49-354.
+
+B. If the Department determines that a public water system is not in
+compliance with any of the provisions of this Chapter, the Department may
+issue an order to the water supplier that requires the public water system to
+make no further service connections or that limits the number of service
+connections until the Department determines that the public water system
+achieves compliance.
+
+C. The Department may determine compliance or initiate enforcement
+action based upon analytical results and other information compiled by the
+Department or other federal, state, or local agencies.
+
+D. The Department shall round compliance data to the same number of
+significant figures as the MCL in question to determine compliance with the
+MCL.
+
+(Former Section R9-8-212 repealed, new Section R9-8-212 adopted effective
+May 26, 1978 (Supp. 78-3). Amended effective August 7, 1979 (Supp. 79-4).
+Amended effective November 2, 1982 (Supp. 82-6). Amended by
+renumbering subsections (P) thru (W) as (Q) thru (X) and adding a new
+subsection (P) effective January 6, 1984 (Supp. 84-1). Former Section R9-8-
+212 renumbered without change as Section R18-4-212 (Supp. 87-3). Former
+Section R18-4-212 amended and renumbered as Section R18-4-201 effective
+June 30, 1989 (Supp. 89-2). Section repealed, new Section adopted effective
+August 8, 1991 (Supp. 91-3). Section repealed, new Section adopted effective
+April 28, 1995 (Supp. 95-2). Amended effective June 3, 1998 (Supp. 98-3).
+Section R18-4-201 repealed; new Section renumbered from R18-4-121 and
+amended by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+    Ariz. Admin. Code R18-4-202 Certified Operators (Arizona
+              Administrative Code (2021 Edition))
+
+
+§ R18-4-202. Certified Operators
+
+A water supplier of a public water system shall ensure that:
+
+1. The water system is operated in accordance with 18 A.A.C. 5, Article 1.
+
+2. The water system is operated by an operator who is properly certified
+pursuant to 18 A.A.C. 5, Article 1, to operate each water treatment plant in
+the system and the distribution system.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Section R18-4-202 repealed; new Section renumbered from R18-4-114 and
+amended by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+    Ariz. Admin. Code R18-4-203 Operation and Maintenance
+          (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-203. Operation and Maintenance
+
+A water supplier shall maintain and keep in proper operating condition all
+facilities used in production, treatment, and distribution of the water supply
+so as to comply with the requirements of this Chapter and 18 A.A.C. 5.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Section R18-4-203 renumbered to R18-4-210; new Section renumbered
+from R18-4-124 and amended by final rulemaking at 14 A.A.R. 2978,
+effective August 30, 2008 (Supp. 08-3).)
+     Ariz. Admin. Code R18-4-204 Emergency Operation Plans
+           (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-204. Emergency Operation Plans
+
+A. The water supplier for a community water system shall develop and keep
+an emergency operations plan in an easily accessible location. At a
+minimum, the emergency operations plan shall detail the steps that the
+community water system will take to assure continuation of service in the
+following emergency situations:
+
+1. Loss of a source;
+
+2. Loss of water supply due to major component failure;
+
+3. Damage to power supply equipment or loss of power;
+
+4. Contamination of water in the distribution system from backflow;
+
+5. Collapse of a reservoir, reservoir roof, or pumphouse structure;
+
+6. A break in a transmission or distribution line; and
+
+7. Chemical or microbiological contamination of the water supply.
+
+B. The emergency operations plan required by subsection (A) shall address
+all of the following:
+
+1. Provision of alternate sources of water during the emergency;
+
+2. Notice procedures for regulatory agencies, news media, and users;
+
+3. Disinfection and testing of the distribution system once service is
+restored;
+
+4. Identification of critical system components that shall remain in service or
+be returned to service quickly;
+
+5. Critical spare parts inventory; and
+
+6. Staff training in emergency response procedures.
+
+C. In the event that an emergency situation that is listed in subsection (A)
+occurs, the Emergency Operation Plan shall be implemented by the
+community water system.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Section R18-4-204 repealed;
+new Section renumbered from R18-4-116 and amended by final rulemaking
+at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-205 Sample Collection, Preservation,
+and Transportation (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-205. Sample Collection, Preservation, and
+Transportation
+
+A public water system shall collect each sample using the sample
+preservation, container, and maximum holding time procedure prescribed
+by the Arizona Department of Health Services in 9 A.A.C. 14, Article 6, and
+approved by EPA for the analytical method used.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Section R18-4-205 repealed; new Section renumbered
+from R18-4-108 and amended by final rulemaking at 14 A.A.R. 2978,
+effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-206 Monitoring and Sampling by the
+Department and Map Contractors (Arizona Administrative Code
+                       (2021 Edition))
+
+§ R18-4-206. Monitoring and Sampling by the Department and
+Map Contractors
+
+A. The Department may take samples from a public water system. If the
+Department takes a sample at a public water system, the Department shall
+forward a copy of the analytical results to the water supplier.
+
+B. If a public water system fails to monitor, the Department may monitor to
+determine compliance with MCLs. A public water system shall not use
+Department monitoring to satisfy monitoring requirements prescribed by
+this Chapter. This subsection does not apply to monitoring under the
+monitoring assistance program.
+
+C. A contractor shall take compliance samples for the categories of
+contaminants listed in A.R.S. § 49-360(A) for a public water system that
+participates in the monitoring assistance program.
+
+D. The sampling location for chemical contaminants must be the entry point
+to the distribution system or the compliance monitoring point specified by
+the Department, unless otherwise specified in this Chapter. An entry point
+to a distribution system is the point at which water is discharged into the
+distribution system from a well, storage tank, pressure tank, or water
+treatment plant.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended effective December 8, 1998 (Supp. 98-4).
+Section R18-4-206 repealed; new Section renumbered from R18-4-120 and
+amended by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+  Ariz. Admin. Code R18-4-207 Entry and Inspection of Public
+  Water Systems (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-207. Entry and Inspection of Public Water Systems
+
+A. A Department inspection shall comply with A.R.S. § 41-1009.
+
+B. 40 CFR 142.34(a) is incorporated by reference as of the date specified in
+R18-4-102, subject to the modifications specified in this Section; this
+incorporation does not include any later amendments or editions. The
+phrase "Administrator" is changed to "Department."
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 7 A.A.R. 5067, effective October 16, 2001 (Supp. 01-4).
+Section R18-4-207 repealed; new Section renumbered from R18-4-122 and
+amended by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+     Ariz. Admin. Code R18-4-208 Sanitary Surveys (Arizona
+              Administrative Code (2021 Edition))
+
+
+§ R18-4-208. Sanitary Surveys
+
+A. Each public water system shall undergo sanitary surveys in accordance
+with a schedule established by the Department, or when the Department
+determines that a sanitary survey is necessary to assure compliance with this
+Chapter.
+
+B. A sanitary survey shall be performed for a public water system at least
+once every five years; however, a non-community water system using only
+protected and disinfected ground water shall have a sanitary survey
+performed at least every 10 years.
+
+C. When establishing a sanitary survey schedule or determining that a
+sanitary survey is required prior to the next scheduled sanitary survey, the
+Department shall consider:
+
+1. The quality and quantity of the source water; and
+
+2. Whether the system is properly designed, maintained and operated.
+
+D. Proper operation and maintenance means operating and maintaining the
+public water system in compliance with this Chapter; 18 A.A.C. 5, Article 5;
+and in conformance with the applicable portions of Engineering Bulletin No.
+10, "Guidelines for the Construction of Water Systems, " incorporated by
+reference in A.A.C. R18-5-502.
+
+E. The Department shall review the results of a sanitary survey to determine
+whether the existing monitoring frequency is adequate, and whether any
+additional measures are required in order to ensure that the system will
+remain in compliance with this Chapter.
+
+F. In conducting a sanitary survey of a groundwater system, information on
+sources of contamination within a delineated wellhead protection area shall
+be considered by the Department instead of collecting new information, if
+the information was collected since the last time the system was subject to a
+sanitary survey.
+
+G. A water supplier shall make the changes to the design, operation, and
+maintenance of the public water system specified by the Department in
+order to bring the system into compliance with the requirements of this
+Chapter, and shall make the changes within the time limits set by the
+Department.
+
+H. A sanitary survey of a public water system shall be made by a
+representative of the Department, a professional engineer or sanitarian who
+     Ariz. Admin. Code R18-4-208 Sanitary Surveys (Arizona
+              Administrative Code (2021 Edition))
+
+
+is registered in Arizona, a certified water system operator, or other person
+approved by the Department.
+
+I. A sanitary survey shall comply with A.R.S. § 41-1009 when conducted by
+the Department.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Section R18-4-208 repealed; new Section renumbered
+from R18-4-118 and amended by final rulemaking at 14 A.A.R. 2978,
+effective August 30, 2008 (Supp. 08-3).)
+      Ariz. Admin. Code R18-4-209 Unsafe Supplies (Arizona
+               Administrative Code (2021 Edition))
+
+
+§ R18-4-209. Unsafe Supplies
+
+The Department may order a public water system to disconnect a source to
+protect the public health from an acute health risk that is attributable to the
+source. An acute health risk is posed when one of the following occurs:
+
+1. A violation of a MCL for total coliform and fecal coliform or E. coli are
+present that is attributable to the source,
+
+2. A violation of the MCL for nitrate or nitrite that is attributable to the
+source, or
+
+3. An occurrence of a waterborne disease outbreak that is attributable to the
+source.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended by final rulemaking at 7 A.A.R. 5067, effective
+October 16, 2001 (Supp. 01-4). Section R18-4-209 repealed; new Section
+renumbered from R18-4-117 by final rulemaking at 14 A.A.R. 2978, effective
+August 30, 2008 (Supp. 08-3).)
+   Ariz. Admin. Code R18-4-210 Total Coliform; Special Events
+          (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-210. Total Coliform; Special Events
+
+A. A water system that does not meet the definition of a public water system,
+but serves a large number of persons for a short duration of time, such as a
+special event, must take corrective action as required in R18-4-126 after
+receiving a positive coliform result, including taking additional samples until
+all samples test negative for total coliform and negative for E. coli if:
+
+1. The total number of user-days exceeds 600.
+
+2. A user-day is calculated by multiplying the number of days the event will
+run by the average number of persons expected to be served each day.
+
+B. The water system shall submit a minimum of two sample results to the
+Department at least seven days before the beginning of the special event.
+The water system shall submit a minimum of one additional sample result to
+the Department for each day of the special event.
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Amended effective August 7,
+1979 (Supp. 79-4). Amended subsection (C) and added subsection (D)
+effective January 6, 1984 (Supp. 84-1). Former Section R9-8-210
+renumbered without change as Section R18-4-210 (Supp. 87-3). Repealed
+effective June 30, 1989 (Supp. 89-2). New Section adopted effective August
+8, 1991 (Supp. 91-3). Section repealed, new Section adopted effective April
+28, 1995 (Supp. 95-2). Amended by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1). Section repealed by final
+rulemaking at 8 A.A.R. 3046, effective May 6, 2002 (Supp. 02-3). New
+Section R18-4-210 renumbered from R18-4-203 and amended by final
+rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).
+Amended by final rulemaking at 22 A.A.R. 379, effective 4/2/2016.)
+ Ariz. Admin. Code R18-4-211 Reporting Requirements (Arizona
+              Administrative Code (2021 Edition))
+
+
+§ R18-4-211. Reporting Requirements
+
+A. Cross connection incidents. A public water system shall submit a written
+cross connection incident report to the Department and the local county
+health department within five days of the occurrence of a cross connection
+problem that results in contamination of water provided by the public water
+system. The report shall address all of the following:
+
+1. Date and time of discovery of the cross connection incident,
+
+2. Nature of the cross connection incident,
+
+3. Affected area,
+
+4. Cause of the cross connection incident,
+
+5. Public health impact,
+
+6. Date and text of any public health advisory issued,
+
+7. Corrective action taken, and
+
+8. Date of completion of corrective action.
+
+B. Emergencies. A public water system shall notify the Department, by
+telephone or facsimile, as soon as possible but no later than 24 hours after
+the occurrence of any of the following emergencies:
+
+1. Loss of water supply from a source;
+
+2. Loss of water supply due to major component failure;
+
+3. Damage to power supply equipment or loss of power;
+
+4. Contamination of water in the distribution system from backflow;
+
+5. Collapse of a reservoir, reservoir roof, or pumphouse structure;
+
+6. Break in a transmission or distribution line that results in a loss of service
+to customers for more than four hours; and
+
+7. Chemical or microbiological contamination of the water supply.
+
+C. Waterborne disease outbreak. A public water system shall report to the
+Department the occurrence of a waterborne disease outbreak that may be
+attributable to water provided by the public water system as soon as possible
+ Ariz. Admin. Code R18-4-211 Reporting Requirements (Arizona
+              Administrative Code (2021 Edition))
+
+
+but no later than 24 hours after the public water system receives actual
+notice of the waterborne disease outbreak.
+
+D. Department requests for records. A public water system shall submit to
+the Department, within the time stated in the Department's request, copies
+of any records that the public water system is required to retain under this
+Chapter or copies of any documents that the Department is entitled to
+inspect under 42 U.S.C. 300j - 4(2001).
+
+E. Department reporting forms. A public water system shall report to the
+Department the results of all analyses completed under this Chapter on
+Department-approved forms.
+
+F. Direct reporting. A public water system may contract with a laboratory or
+another agent to report monitoring results to the Department, but the public
+water system remains legally responsible for compliance with reporting
+requirements.
+
+G. Forty eight-hour reporting requirement. A public water system shall
+report the failure to comply with any of the provisions of this Chapter to the
+Department within 48 hours, except where a different reporting period is
+specified in this Chapter.
+
+(Corrected A.R.S. reference (Supp. 77-3). Amended effective May 26, 1978
+(Supp. 78-3). Amended effective January 6, 1984 (Supp. 84-1). Former
+Section R9-8-211 renumbered without change as Section R18-4-211 (Supp.
+87-3). Amended effective Dec. 1, 1988 (Supp. 88-4). Repealed effective June
+30, 1989 (Supp. 89-2). New Section adopted effective August 8, 1991 (Supp.
+91-3). Section repealed, new Section adopted effective April 28, 1995 (Supp.
+95-2). Section R18-4-211 repealed; new Section renumbered from R18-4-104
+and amended by final rulemaking at 14 A.A.R. 2978, effective August 30,
+2008 (Supp. 08-3).)
+   Ariz. Admin. Code R18-4-212 Groundwater under the Direct
+ Influence of Surface Water (Arizona Administrative Code (2021
+                           Edition))
+
+§ R18-4-212. Groundwater under the Direct Influence of Surface
+Water
+
+A. The Department suspects the following sources to be groundwater under
+the direct influence of surface water:
+
+1. A spring;
+
+2. An infiltration gallery;
+
+3. A radial well collector, Ranney well, or horizontal well;
+
+4. A well that is less than 500 feet from a surface water, and:
+
+a. The Department conducts a vulnerability assessment and determines that
+the source is vulnerable to direct surface water influence, or
+
+b. The Department cannot assess the vulnerability of the groundwater
+source to direct surface water influence because of a lack of information or
+the uncertainty of available information on the local hydrogeology or well
+construction characteristics;
+
+5. A shallow well with perforations or well screens that are less than 50 feet
+below the ground surface;
+
+6. A hand-dug or auger-bored well without a casing;
+
+7. A groundwater source for which turbidity data is available that shows that
+the groundwater violates an interim MCL for turbidity;
+
+8. A groundwater source for which data is available that shows that total
+coliform, fecal coliform, or E. Coli are present in untreated groundwater
+from the source that are not related to new well development, source
+modification, repair, or maintenance; and
+
+9. Any groundwater source if the temperature of the groundwater fluctuates
+15% to 20% from the mean groundwater temperature over the course of a
+year or if changes in the temperature of the groundwater correlate to similar
+changes in the temperature of surface water.
+
+B. The Department shall conduct a sanitary survey of each public water
+system that the Department suspects is using a groundwater source under
+the direct influence of surface water.
+
+C. The Department shall provide written notice to a public water system that
+the Department suspects a groundwater source is under the direct influence
+of surface water. A public water system may submit information to the
+   Ariz. Admin. Code R18-4-212 Groundwater under the Direct
+ Influence of Surface Water (Arizona Administrative Code (2021
+                           Edition))
+
+Department to show that a groundwater source is not under the direct
+influence of surface water. Information that is submitted to show that a
+suspect groundwater source is not under the direct influence of surface
+water shall be in writing and shall be prepared by a qualified professional,
+such as a professional engineer registered in Arizona, registered geologist,
+water system operator, or hydrogeologist. The Department shall review any
+information submitted by a qualified professional to show a suspect
+groundwater source is not under the direct influence of surface water within
+90 days after receipt of the information and determine if the source remains
+suspect.
+
+D. If a groundwater source continues to be suspect after the analyses
+required in subsections (A) through (C), the Department may require a
+public water system that is suspected of using a groundwater source that is
+under the direct influence of surface water to conduct Microscopic Particle
+Analysis (MPA) monitoring of the groundwater source. A public water
+system may request that the Department allow the system to use an
+alternative method to determine whether a groundwater source is under the
+direct influence of surface water. An alternative method to determine
+whether a groundwater source is under the direct influence of surface water
+shall be approved by the Arizona Department of Health Services under 9
+A.A.C. 14, Article 6.
+
+E. A public water system shall conduct MPA monitoring as follows:
+
+1. Each sample shall be representative of the groundwater source. A public
+water system shall not take a sample of blended water or a sample of water
+from the distribution system.
+
+2. Each sample shall be collected and analyzed according to the procedures
+prescribed in the "Consensus Method for Determining Groundwaters Under
+the Direct Influence of Surface Water Using Microscopic Particulate
+Analysis (MPA), " EPA 910/9-92-029, United States Environmental
+Protection Agency, Environmental Services Division, Manchester
+Environmental Laboratory, 7411 Beach Dr. E., Port Orchard, WA 98366,
+October 1992 (and no future editions or amendments), which is
+incorporated by reference and on file with the Department.
+
+3. The Department shall schedule MPA monitoring at a time when the
+groundwater source is most susceptible to direct surface water influence.
+
+4. The Department shall use the MPA risk ratings in Table 1 to determine
+whether groundwater is under the direct influence of surface water.
+   Ariz. Admin. Code R18-4-212 Groundwater under the Direct
+ Influence of Surface Water (Arizona Administrative Code (2021
+                           Edition))
+
+a. If the MPA risk rating of the initial sample indicates a high or moderate
+risk of direct surface water influence, the public water system shall collect a
+second sample for MPA at the same location on a date scheduled by the
+Department. If the MPA risk rating of the second sample indicates a high or
+moderate risk of direct surface water influence, the Department shall
+determine that the groundwater is under the direct influence of surface
+water. If the risk rating of the second sample indicates a low risk of direct
+surface water influence, the public water system shall collect a third sample
+for MPA at the same location on a date scheduled by the Department. If a
+third sample is taken, the Department shall determine whether the
+groundwater is under the direct influence of surface water under subsection
+(E)(4)(c).
+
+b. If the MPA risk rating of the initial sample indicates a low risk of direct
+surface water influence, the public water system shall collect a second
+sample for MPA at the same location on a date scheduled by the
+Department. If the MPA risk rating of the second sample indicates a low risk
+of direct surface water influence, the Department shall determine that the
+groundwater is not under the direct influence of surface water. If the MPA
+risk rating of the second sample indicates a high or moderate risk of direct
+surface water influence, the public water system shall collect a third sample
+for MPA at the same location on a date scheduled by the Department. If a
+third sample is taken, the Department shall determine whether the
+groundwater is under the direct influence of surface water under subsection
+(E)(4)(c).
+
+c. If a third sample is required and the MPA risk rating of the third sample
+indicates a high or moderate risk of direct surface water influence, the
+Department shall determine that the groundwater is under the direct
+influence of surface water. If the MPA risk rating of the third sample
+indicates a low risk of direct surface water influence, the Department shall
+determine that the groundwater is not under the direct influence of surface
+water.
+
+F. If the Department determines a source to be groundwater under the
+direct influence of surface water under subsection (E) and a public water
+system demonstrates to the Department that it is feasible to take corrective
+action to prevent direct surface water influence, the Department shall
+establish a schedule of compliance for the public water system to take
+corrective action instead of requiring installation of filtration and
+disinfection treatment. A schedule of compliance to take corrective action
+shall require:
+
+1. Completion of corrective action no later than 18 months after receipt of
+the initial MPA monitoring results, and
+   Ariz. Admin. Code R18-4-212 Groundwater under the Direct
+ Influence of Surface Water (Arizona Administrative Code (2021
+                           Edition))
+
+2. A second round of MPA monitoring to determine whether the source is
+under the direct influence of surface water after completion of the corrective
+action.
+
+G. Except as provided in subsection (F), a public water system with a source
+that the Department determines to be groundwater under the direct
+influence of surface water shall provide filtration and disinfection required
+under 40 CFR 141 Subparts H, P, and T, as incorporated by reference in this
+Chapter, within 18 months after the date that the Department makes the
+final determination that the groundwater is under the direct influence of
+surface water.
+
+H. The Department shall provide a written notice to a public water system of
+a final determination that a groundwater source is under the direct influence
+of surface water. The notice shall contain the information required by A.R.S.
+§ 41-1092.03(A).
+
+I. A public water system may appeal a final determination that a
+groundwater source is under the direct influence of surface water by serving
+notice of appeal with the Department under the Uniform Administrative
+Hearing Procedures in A.R.S. Title 41, Chapter 6, Article 10. A public water
+system shall file notice of appeal with the Department within 30 days after
+receiving notice of the Department's determination that a groundwater
+source is under the direct influence of surface water. The Department shall
+notify the Office of Administrative Hearings which shall schedule a hearing
+on the appeal within 60 days after the date that notice of appeal is filed with
+the Department. Hearings shall be conducted according to the Uniform
+Administrative Hearing Procedures in A.R.S. Title 41, Chapter 6, Article 10.
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Section repealed, new
+Section adopted effective April 28, 1995 (Supp. 95-2). Amended effective
+June 3, 1998 (Supp. 98-3). Amended effective December 8, 1998 (Supp. 98-
+4). Section R18-4-212 repealed; new Section renumbered from R18-4-301.01
+and amended by final rulemaking at 14 A.A.R. 2978, effective August 30,
+2008 (Supp. 08-3).)
+Table 1 Decision Matrix for Determining Groundwater Under the
+Direct Influence of Surface Water (Arizona Administrative Code
+                         (2021 Edition))
+
+TABLE 1. Decision Matrix for Determining Groundwater Under
+the Direct Influence of Surface Water
+
+Initial Sample       Second Sample        Third Sample       Groundwater Under the Direct
+MPA Risk Rating MPA Risk Rating MPA Risk Rating Influence of Surface Water
+High                 High or Moderate                        Yes
+High                 Low                  High or Moderate Yes
+High                 Low                  Low                No
+Moderate             High or Moderate                        Yes
+Moderate             Low                  High or Moderate Yes
+Moderate             Low                  Low                No
+Low                  High or Moderate     High or Moderate Yes
+Low                  High or Moderate     Low                No
+Low                  Low                                     No
+(New Table 1 renumbered from R18-4-301.01, Table 1 by final rulemaking at
+14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+Ariz. Admin. Code R18-4-213 Standards for Additives, Materials,
+ and Equipment (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-213. Standards for Additives, Materials, and Equipment
+
+A. Each product added directly to water during production or treatment
+shall conform to ANSI/NSF Standard 60. Products covered by this
+subsection include but are not limited to:
+
+1. Coagulation and flocculation chemicals;
+
+2. Chemicals for corrosion and scale control;
+
+3. Chemicals for softening, precipitation, sequestering, and pH adjustment;
+
+4. Disinfection and oxidation chemicals;
+
+5. Chemicals for fluoridation, defluoridation, algae control, and
+dechlorination;
+
+6. Dyes and tracers;
+
+7. Antifreezes, antifoamers, regenerants, and separation process scale
+inhibitors and cleaners; and
+
+8. Water well drilling and rehabilitation aids.
+
+B. Except as identified in subsections (D) and (E), a material or product
+installed after January 1, 1993, that comes into contact with water or a water
+treatment chemical shall conform to ANSI/NSF Standard 61. Products and
+materials covered by this subsection include but are not limited to:
+
+1. Process media, such as carbon and sand;
+
+2. Joining and sealing materials, such as solvents, cements, welding
+materials, and gaskets;
+
+3. Lubricants;
+
+4. Pipes and related products, such as tanks and fittings;
+
+5. Mechanical devices used in treatment, transmission, or distribution
+systems such as valves, chlorinators, and separation membranes; and
+
+6. Surface coatings and paints.
+
+C. Evidence that a product conforms to the requirements of this Section
+shall be the appearance on the product or product package of a seal of a
+certifying entity that is accredited by the American National Standards
+Institute to provide the certification.
+Ariz. Admin. Code R18-4-213 Standards for Additives, Materials,
+ and Equipment (Arizona Administrative Code (2021 Edition))
+
+
+D. Chemicals and additives certified as conforming to the national sanitation
+foundation standards comply with the standards required by this section. ...
+In those instances where chemicals, additives and drinking water system
+components that come into contact with drinking water are essential to the
+design, construction or operation of the drinking water system and have not
+been certified by the national sanitation foundation or have national
+sanitation foundation certification but are not available from more than one
+source, the standards shall provide for the use of alternatives which include:
+
+1. Chemicals and additives composed entirely of ingredients determined by
+the environmental protection agency, the food and drug administration or
+other federal agencies as appropriate for addition to potable water or
+aqueous food.
+
+2. Chemicals and additives composed entirely of ingredients listed in the
+national academy of sciences water chemicals codex.
+
+3. Chemicals, additives and drinking water system components consistent
+with the specifications of the American water works association.
+
+4. Chemicals, additives and drinking water system components that are
+designed for use in drinking water systems and that are consistent with the
+specifications of the American society for testing and materials.
+
+5. Drinking water system components that are historically used or in use in
+drinking water systems consistent with standard practice and that have not
+been demonstrated during past applications in the United States to
+contribute to water contamination. A.R.S. § § 49-353.01(B) and (C) (2006).
+
+E. The Department exempts the following materials and products from the
+requirement to conform to ANSI/NSF Standard 61:
+
+1. A concrete structure, tank, or treatment tank basin that is constructed
+onsite if the structure, tank, or basin is not normally coated or sealed and
+the construction materials used in the concrete are consistent with
+subsection (D). If a coating or sealant is specified by the design engineer, the
+coating or sealant shall comply with ANSI/NSF Standard 61;
+
+2. An earthen reservoir or canal located upstream of water treatment;
+
+3. A water treatment plant that is comprised of components that comply
+with subsections (B), (C), and (D);
+
+4. A synthetic tank constructed of material that meets Food and Drug
+Administration standards for a material that comes into contact with
+Ariz. Admin. Code R18-4-213 Standards for Additives, Materials,
+ and Equipment (Arizona Administrative Code (2021 Edition))
+
+
+drinking water or aqueous food, or a galvanized steel tank, either of which
+is:
+
+a. Less than 15, 000 gallons in capacity, and
+
+b. Used in a public water system with 500 or fewer service connections; or
+
+5. A pipe, treatment plant component, or water distribution system
+component made of lead-free stainless steel.
+
+(Former Section R9-8-213 repealed, new Section R9-8-213 adopted effective
+May 26, 1978 (Supp. 78-3). Amended effective August 7, 1979 (Supp. 79-4).
+Amended effective January 6, 1984 (Supp. 84-1). Former Section R9-8-213
+renumbered without change as Section R18-4-213 (Supp. 87-3). Amended
+effective June 30, 1989 (Supp. 89-2). Section repealed, new Section adopted
+effective August 8, 1991 (Supp. 91-3). Section repealed, new Section adopted
+effective April 28, 1995 (Supp. 95-2). Amended effective June 3, 1998 (Supp.
+98-3). Section R18-4-213 repealed; new Section renumbered from R18-4-119
+and amended by final rulemaking at 14 A.A.R. 2978, effective August 30,
+2008 (Supp. 08-3).)
+        Ariz. Admin. Code R18-4-214 Hauled Water (Arizona
+                Administrative Code (2021 Edition))
+
+
+§ R18-4-214. Hauled Water
+
+A. All hauled water for delivery to a public water system shall be obtained
+from a source that is approved pursuant to 18 A.A.C. 5, Article 5, or a
+regulated public water system.
+
+B. Materials or products that come into contact with the water shall comply
+with R18-4-213(B).
+
+C. Roof hatches shall be fitted with a watertight cover.
+
+D. A bottom drain valve or other provisions to allow complete drainage and
+cleaning of a water transport container shall be provided.
+
+E. Hoses that are used to deliver drinking water shall be equipped with a cap
+and shall remain capped when not in use.
+
+F. A water hauler shall, at all times, maintain a residual free chlorine level of
+0.2 mg/l to 1.0 mg/l in the water that is hauled in a water transport
+container. A chlorine disinfectant shall be added at the time water is loaded
+into the container. The residual free chlorine level shall be measured each
+time water is off-loaded from the container. The water hauler shall maintain
+a log of all on-loading, chlorine disinfectant additions and residual-free
+chlorine measurements. Such records shall be maintained for at least three
+years and made available to the Department for review upon request.
+
+G. A water transport container shall be for hauling drinking water only. The
+container shall be plainly and conspicuously labeled "For Drinking Water
+Use Only."
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Section repealed, new
+Section adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 3046, effective May 1, 2002 (Supp. 02-3). Section
+R18-4-214 repealed; new Section renumbered from R18-4-125 and amended
+by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-
+3).)
+        Ariz. Admin. Code R18-4-214.01 Repealed (Arizona
+               Administrative Code (2021 Edition))
+
+
+§ R18-4-214.01. Repealed
+
+(New Section made by final rulemaking at 8 A.A.R. 3046, effective May 1,
+2002 (Supp. 02-3). Section R18-4-214.01 repealed by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+        Ariz. Admin. Code R18-4-214.02 Repealed (Arizona
+               Administrative Code (2021 Edition))
+
+
+§ R18-4-214.02. Repealed
+
+(New Section made by final rulemaking at 8 A.A.R. 3046, effective January
+1, 2004 (Supp. 02-3). R18-4-214.02 including Table 1 and Table 2 repealed
+by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-
+3).)
+    Ariz. Admin. Code R18-4-215 Backflow Prevention (Arizona
+               Administrative Code (2021 Edition))
+
+
+§ R18-4-215. Backflow Prevention
+
+A. A public water system shall protect its system from contamination caused
+by backflow through unprotected cross-connections by requiring the
+installation and periodic testing of backflow-prevention assemblies.
+Required backflow-prevention assemblies shall be installed as close as
+practicable to the service connection.
+
+B. A public water system shall ensure that a backflow-prevention assembly is
+installed whenever any of the following occur:
+
+1. A substance harmful to human health is handled in a manner that could
+permit its entry into the public water system. These substances include
+chemicals, chemical or biological process waters, water from public water
+supplies that has deteriorated in sanitary quality, and water that has entered
+a fire sprinkler system. A Class 1 or Class 2 fire sprinkler system is exempt
+from the requirements of this Section;
+
+2. A source of water supply exists on the user's premises that is not accepted
+as an additional source by the public water system or is not approved by the
+Department;
+
+3. An unprotected cross-connection exists or a cross-connection problem
+has previously occurred within a user's premises; or
+
+4. There is a significant possibility that a cross-connection problem will
+occur and entry to the premises is restricted to the extent that cross-
+connection inspections cannot be made with sufficient frequency or on
+sufficiently short notice to ensure that unprotected cross-connections do not
+exist.
+
+C. Unless a cross-connection problem is specifically identified, or as
+otherwise provided in this Section, the requirements of this Section shall not
+apply to single-family residences used solely for residential purposes.
+
+D. A backflow-prevention assembly required by this Section shall comply
+with the following:
+
+1. If equipped with test cocks, it shall have been issued a certificate of
+approval by:
+
+a. The University of Southern California Foundation for Cross-Connection
+Control and Hydraulic Research (USC-FCCCHR), or
+
+b. A third-party certifying entity that is unrelated to the product's
+manufacturer or vendor, and is approved by the Department.
+   Ariz. Admin. Code R18-4-215 Backflow Prevention (Arizona
+              Administrative Code (2021 Edition))
+
+
+2. If not equipped with test cocks, it shall be approved by a third-party
+certifying entity that is unrelated to the product's manufacturer or vendor
+and is approved by the Department.
+
+E. The minimum level of backflow protection that is provided to protect a
+public water system shall be the level recommended in Section 7.2 of the
+Manual of Cross-Connection Control, Ninth Edition, USC-FCCCHR, KAP-
+200 University Park MC-2531, Los Angeles, CA, 90089-2531, December
+1993, (and no future editions or amendments), incorporated by reference
+and on file with the Department. The types of backflow prevention that may
+be required, listed in decreasing order according to the level of protection
+they provide, include: an air-gap separation (AG), a reduced pressure
+principle backflow prevention (RP) assembly, a pressure vacuum breaker
+(PVB) assembly, and a double check valve (DC) assembly. Nothing
+contained in this Section shall prevent a public water system from requiring
+the use of a higher level of protection than the level required by this
+subsection.
+
+1. A public water system may make installation of a required backflow-
+prevention assembly a condition of service. A user's failure to comply with
+this requirement shall be sufficient cause for the public water system to
+terminate water service.
+
+2. Specific installation requirements for backflow prevention include the
+following:
+
+a. Any backflow prevention required by this Section shall be installed in
+accordance with the manufacturer's specifications.
+
+b. For an AG installation, all piping between the user's connection and the
+receiving tank shall be entirely visible unless otherwise approved in writing
+by the public water system.
+
+c. An RP assembly shall not be installed in a meter box, pit, or vault unless
+adequate drainage is provided.
+
+d. A PVB assembly may be installed for use on a landscape water irrigation
+system if the irrigation system conforms to all of the criteria listed below. An
+RP assembly is required whenever any of the criteria are not met.
+
+i. The water use beyond the assembly is for irrigation purposes only;
+
+ii. The PVB is installed in accordance with the manufacturer's specifications;
+
+iii. The irrigation system is designed and constructed to be incapable of
+inducing backpressure; and
+    Ariz. Admin. Code R18-4-215 Backflow Prevention (Arizona
+               Administrative Code (2021 Edition))
+
+
+iv. The injection of chemical pesticides and fertilizers, chemigation, is not
+used or provided in the irrigation system.
+
+F. Each backflow-prevention assembly required by this Section shall be
+tested at least annually, or more frequently if directed by the public water
+system or the Department. Each assembly shall also be tested after
+installation, relocation, or repair. An assembly shall not be placed in service
+unless it has been tested and is functioning as designed. The following
+provisions shall apply to the testing of backflow-prevention assemblies:
+
+1. Testing shall be in accordance with procedures described in Section 9 of
+the Manual of Cross-Connection Control. The public water system shall
+notify the water user when testing of backflow-prevention assemblies is
+needed. The notice shall specify the date by which the testing must be
+completed and the results forwarded to the public water system.
+
+2. Testing shall be performed by a person who is currently certified as a
+"general" tester by the California-Nevada Section of the American Water
+Works Association (CA-NV Section, AWWA), the Arizona State
+Environmental Technical Training (ASETT) Center, or other certifying
+authority approved by the Department.
+
+3. When a backflow-prevention assembly is tested and found to be defective,
+it shall be repaired or replaced in accordance with the provisions of this
+Section.
+
+G. A public water system shall maintain records of backflow-prevention
+assembly installations and tests performed on backflow-prevention
+assemblies in its service area. Records shall be retained by the public water
+system for at least three years and shall be made available for review by the
+Department upon request. These records shall include an inventory of
+backflow-prevention assemblies required by this Section and, for each
+assembly, all of the following information:
+
+1. Assembly identification number and description,
+
+2. Location,
+
+3. Date of tests,
+
+4. Description of repairs and recommendations for repairs made by the
+tester, and
+
+5. The tester's name and certificate number.
+   Ariz. Admin. Code R18-4-215 Backflow Prevention (Arizona
+              Administrative Code (2021 Edition))
+
+
+H. A public water system shall submit a written cross-connection incident
+report to the Department and the local health authority within five business
+days after a cross-connection problem occurs that results in contamination
+of the public water system. The report shall address all of the following:
+
+1. Date and time of discovery of the unprotected cross-connection,
+
+2. Nature of the cross-connection problem,
+
+3. Affected area,
+
+4. Cause of the cross-connection problem,
+
+5. Public health impact,
+
+6. Date and text of any public health advisory issued,
+
+7. Each corrective action taken, and
+
+8. Date of completion of each corrective action.
+
+I. An individual with direct responsibility for implementing a backflow
+prevention program for a water system serving more than 50, 000 persons,
+or an individual with direct responsibility for implementing a backflow
+prevention program for a for a water system serving 50, 000 or fewer
+persons if the Department has determined that such a need exists, shall be
+licensed as a "cross-connection control program specialist" by the CA-NV
+Section, AWWA, the ASETT Center, or another certifying authority
+approved by the Department.
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Section repealed, new
+Section adopted effective April 28, 1995 (Supp. 95-2). Amended effective
+June 3, 1998 (Supp. 98-3). Section R18-4-215 repealed; new Section
+renumbered from R18-4-115 and amended by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3).)
+     Ariz. Admin. Code R18-4-216 Vending Machines (Arizona
+              Administrative Code (2021 Edition))
+
+
+§ R18-4-216. Vending Machines
+
+An owner of a water vending machine shall be responsible for the proper
+operation of each water vending machine. The owner shall do all of the
+following:
+
+1. Clean and maintain each water vending machine according to the
+manufacturer's recommendations;
+
+2. Retain maintenance and cleaning records for one year;
+
+3. Have analyses performed at least once every six months for total coliform
+bacteria. Results of such analyses shall be retained for one year. If a sample
+is positive for total coliform, the water vending machine shall be removed
+from service, and all components shall be cleaned, replaced, or serviced. The
+water vending machine shall not be placed back into service until another
+total coliform bacteria analysis is performed and the result is negative; and
+
+4. Maintain in operable condition all ultraviolet, ozone, or other disinfection
+components and automatic disabling capabilities built into the vending
+machine for use in the event of a disinfection system malfunction.
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Section repealed, new
+Section adopted effective April 28, 1995 (Supp. 95-2). Amended effective
+June 3, 1998 (Supp. 98-3). Amended effective December 8, 1998 (Supp. 98-
+4). Amended by final rulemaking at 8 A.A.R. 973, effective February 19,
+2002 (Supp. 02-1). Section R18-4-216 repealed; new Section renumbered
+from R18-4-123 and amended by final rulemaking at 14 A.A.R. 2978,
+effective August 30, 2008 (Supp. 08-3).)
+      Ariz. Admin. Code R18-4-217 Use of Blending to Achieve
+     Compliance with Maximum Contaminant Levels (Arizona
+               Administrative Code (2021 Edition))
+
+§ R18-4-217. Use of Blending to Achieve Compliance with
+Maximum Contaminant Levels
+
+A. A public water system may use blending to achieve compliance with a
+MCL if all of the following requirements are met:
+
+1. The public water system has obtained the Department's written approval
+for a blending plan that includes the following elements:
+
+a. Detailed drawings and schematics that show flow, concentrations, and
+controls;
+
+b. Proposed automatic or electronic devices that will be incorporated to
+ensure that the blend remains in the desired range or shuts off the offending
+source or triggers an alarm when the blend falls out of the desired range;
+
+c. Individual test results from all sources proposed to be blended;
+
+d. Projected contaminant levels that will result from blending that show
+both best-case and worst-case scenarios;
+
+e. Identified techniques, and any other information requested by the
+Department, that show how the blending plan will produce water that will
+comply with MCLs; and
+
+2. The public water system has obtained the Department's written approval
+for a monitoring program designed to verify continued compliance with
+MCLs at all subsequent downstream service connections. This program shall
+include monitoring on at least a quarterly basis of both of the following:
+
+a. All sources contributing to the blend; and
+
+b. Blended water to ensure that the provisions of this Section are met.
+
+B. A public water system shall submit an amended blending plan to the
+Department to confirm that the new blend achieves compliance with MCLs
+whenever sources are added to or removed from service or the relative flow
+rates from blended sources are changed in a way that changes the blend.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended by final rulemaking at 7 A.A.R. 5067, effective
+October 16, 2001 (Supp. 01-4). Section R18-4-217 repealed; new Section
+renumbered from R18-4-221 and amended by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-218 Criteria and Procedures for Public
+ Water Systems Using Point-of-entry or Point-of-use Treatment
+      Devices (Arizona Administrative Code (2021 Edition))
+
+§ R18-4-218. Criteria and Procedures for Public Water Systems
+Using Point-of-entry or Point-of-use Treatment Devices
+
+A. A water supplier may use a point-of-entry (POE) or point-of-use (POU)
+treatment technology to achieve compliance with a MCL or treatment
+technique if the water supplier meets the requirements of this Section.
+
+B. A public water system may use a POE or POU treatment device to achieve
+compliance with a MCL, if the treatment device:
+
+1. Is not used to achieve compliance with an MCL or treatment technique for
+a microbial contaminant or an indicator for a microbial contaminant, in
+accordance with 42 U.S.C. 300g - 1(b)(4)(E)(ii) (2007);
+
+2. Is listed in 40 CFR 141 as an acceptable compliance technology for the
+applicable contaminant;
+
+3. Is certified against the applicable NSF/ANSI Standards;
+
+4. Is owned, controlled and maintained by a public water system or by a
+person under contract with the public water system to ensure proper
+operation, maintenance, and compliance with MCLs or treatment
+techniques; and
+
+5. Is equipped with mechanical warnings to ensure that customers are
+automatically notified of recommended system maintenance and or
+operational problems. This performance indication device shall provide
+notice to the end user at a defined moment in time without shutting off the
+POE or POU device.
+
+C. Prior to installing a POE or POU treatment device, a public water system
+shall obtain the Department's written approval of a POE or POU operation
+and maintenance (O & M) plan. A public water system shall submit an O &
+M plan to the Department that ensures proper long-term operation,
+maintenance, and monitoring of the POE or POU treatment devices. An O &
+M plan shall ensure that:
+
+1. The POE or POU treatment device provides health protection equivalent
+to the health protection provided by centralized water treatment.
+"Equivalent" means that water treated by the POE or POU treatment device
+meets all national primary drinking water regulations.
+
+2. A residential building, or a nonresidential building that uses water for
+human consumption, that is connected to the public water system has a POE
+or POU treatment device that is installed, operated, maintained, and
+ Ariz. Admin. Code R18-4-218 Criteria and Procedures for Public
+ Water Systems Using Point-of-entry or Point-of-use Treatment
+      Devices (Arizona Administrative Code (2021 Edition))
+
+monitored in a manner that assures continuous compliance with the MCLs,
+treatment techniques, and other requirements of this Chapter.
+
+3. Multi-unit residential and nonresidential buildings utilizing POU
+treatment devices to achieve compliance with this Chapter have a sufficient
+number of POU devices installed to provide adequate potable water for all
+residents, employees, and customers.
+
+4. The rights and responsibilities of persons served by the public water
+system are conveyed with the title upon the sale of property containing a
+POU treatment device, including but not limited to the following:
+
+a. The public water system owns and is responsible for maintaining a POU
+treatment device that is installed to meet the requirements of this Section;
+and
+
+b. Persons served by public water systems must grant public water system
+employees reasonable access to POU treatment devices, so that the devices
+can be properly maintained. Public water systems may discontinue water
+service to a customer who refuses to allow public water system employees to
+enter the customer's home or business to inspect and maintain POU
+treatment devices.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended by final rulemaking at 8 A.A.R. 973, effective
+February 19, 2002 (Supp. 02-1). Section R18-4-218 repealed; new Section
+renumbered from R18-4-222 and amended by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3).)
+Ariz. Admin. Code R18-4-219 Exclusions (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-219. Exclusions
+
+A. A water supplier may request an exclusion from any requirement
+contained in this Chapter if such requirement is not also a requirement
+contained in a federal drinking water law. The Department shall consider
+the application of a water supplier for an exclusion from compliance with
+portions of this Chapter if the water supplier satisfactorily demonstrates
+that:
+
+1. The request is not for a requirement that could be the subject of a variance
+or exemption under R18-4-103;
+
+2. The request is not for requirements relating to turbidity, nitrate, or
+microbiological contaminants; and
+
+3. The exclusion will not result in unreasonable risk to public health.
+
+B. An application for an exclusion shall contain the following information:
+
+1. The nature and duration of the exclusion requested,
+
+2. Analytical results of water quality sampling of the water system including
+tests conducted as required by this Chapter,
+
+3. An explanation and submittal of evidence that the exclusion will not result
+in an unreasonable risk to public health, and
+
+4. Other information that the applicant believes to be pertinent or that the
+Department requires.
+
+C. The Department shall take the following action on the application:
+
+1. If the Department grants the request for an exclusion, it shall notify the
+applicant of that decision in writing within 90 days of receipt of the
+application. Such notice shall identify the facility covered, the conditions
+and requirements of the exclusion, including control measures, and that the
+exclusion may be terminated upon a finding that the water system has failed
+to comply with any conditions or requirements of the exclusion.
+
+2. If the Department determines that an exclusion is not justified, it shall
+notify the applicant of the intention of denial within 90 days of receipt of the
+application, indicating the reasons for the proposed denial, and shall offer
+the applicant an opportunity to submit additional information to the
+Department within 30 days of the notice of intention to deny application.
+The Department shall make a final determination and notify the applicant
+Ariz. Admin. Code R18-4-219 Exclusions (Arizona Administrative
+                     Code (2021 Edition))
+
+
+within 30 days after receiving such additional information. If no additional
+information is submitted, the application shall be denied.
+
+D. In addition to reviewing a request submitted by a water supplier, the
+Department may, on its own initiative, grant exclusions to water systems,
+either individually or on a group basis, if the exclusions meet criteria
+prescribed in subsection (A).
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended effective December 8, 1998 (Supp. 98-4).
+Amended by final rulemaking at 8 A.A.R. 973, effective February 19, 2002
+(Supp. 02-1). Section R18-4-219 repealed; new Section renumbered from
+R18-4-112 and amended by final rulemaking at 14 A.A.R. 2978, effective
+August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-220 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-220. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Amended effective August 7,
+1979 (Supp. 79-4). Amended effective January 6, 1984 (Supp. 84-1). Former
+Section R9-8-220 renumbered without change as Section R18-4-220 (Supp.
+87-3). Section repealed effective June 30, 1989 (Supp. 89-2). New Section
+adopted effective August 8, 1991 (Supp. 91-3). Section repealed, new Section
+adopted April 28, 1995 (Supp. 95-2). Amended by final rulemaking at 8
+A.A.R. 973, effective February 19, 2002 (Supp. 02-1). Amended by final
+rulemaking at 8 A.A.R. 3046, effective May 1, 2002 (Supp. 02-3). Section
+R18-4-220 repealed by final rulemaking at 14 A.A.R. 2978, effective August
+30, 2008 (Supp. 08-3).)
+        Ariz. Admin. Code R18-4-221 Renumbered (Arizona
+                Administrative Code (2021 Edition))
+
+
+§ R18-4-221. Renumbered
+
+(Former Section R9-8-221 repealed, new Section R9-8-221 adopted effective
+May 26, 1978 (Supp. 78-3). Correction, subsection (D), paragraph (2),
+subparagraph (b), drinking water standard for silvex, should read 0.01 mg/l
+as amended effective May 26, 1978 (Supp. 82-3). Amended subsection (D)
+effective November 2, 1982 (Supp. 82-6). Amended effective January 6,
+1984 (Supp. 84-1). Former Section R9-8-221 renumbered without change as
+Section R18-4-221 (Supp. 87-3). Amended and new subsections (F) and (G)
+added effective June 30, 1989 (Supp. 89-2). Section repealed, new Section
+adopted effective August 8, 1991 (Supp. 91-3). Section repealed, new Section
+adopted effective April 28, 1995 (Supp. 95-2). Amended by final rulemaking
+at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1). Section R18-4-221
+renumbered to R18-4-217 by final rulemaking at 14 A.A.R. 2978, effective
+August 30, 2008 (Supp. 08-3).)
+        Ariz. Admin. Code R18-4-222 Renumbered (Arizona
+                Administrative Code (2021 Edition))
+
+
+§ R18-4-222. Renumbered
+
+(Former Section R9-8-222 repealed, new Section R9-8-222 adopted
+effective May 26, 1978 (Supp. 78-3). Amended effective January 6, 1984
+(Supp. 84-1). Former Section R9-8-222 renumbered without change as
+Section R18-4-222 (Supp. 87-3). Amended and new subsections (C) and (D)
+added effective June 30, 1989 (Supp. 89-2). Section repealed, new Section
+adopted effective August 8, 1991 (Supp. 91-3). Section repealed, new Section
+adopted effective April 28, 1995 (Supp. 95-2). Amended by final rulemaking
+at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1). Section R18-4-222
+renumbered to R18-4-218 by final rulemaking at 14 A.A.R. 2978, effective
+August 30, 2008 (Supp. 08-3).)
+   Ariz. Admin. Code R18-4-223 Use of Bottled Water (Arizona
+              Administrative Code (2021 Edition))
+
+
+§ R18-4-223. Use of Bottled Water
+
+A. A public water system may use bottled water on a temporary basis to
+avoid an unreasonable risk to health. A public water system shall not use
+bottled water to achieve compliance with a MCL.
+
+B. If a public water system uses bottled water to avoid an unreasonable risk
+to health, the public water system is responsible for the provision of
+sufficient quantities of bottled water to every person served by the public
+water system via door-to-door bottled water delivery.
+
+C. A public water system that uses bottled water as a condition for receiving
+a variance or an exemption shall comply with the following:
+
+1. The public water system shall develop and put in place a monitoring
+program approved by the Department that provides reasonable assurances
+that the bottled water meets applicable MCLs. The public water system shall
+monitor a representative sample of the bottled water to determine
+compliance with applicable MCLs during the first three-month period that it
+supplies the bottled water to the public and annually thereafter. Results of
+the bottled water monitoring program shall be provided to the Department
+annually; or
+
+2. The public water system shall receive a certification from the bottled
+water company that the bottled water supplied has been taken from an
+"approved source" as defined in 21 CFR 129.3(a); the bottled water company
+has conducted monitoring in accordance with 21 CFR 129.80(g)(1) through
+(3); and the bottled water does not exceed any MCLs or quality limits as set
+out in 21 CFR 165.110, 21 CFR 110, and 21 CFR 129. The public water system
+shall provide the certification to the Department in the first quarter after it
+supplies bottled water and annually thereafter. The Department may waive
+the certification requirements prescribed in this subsection if an approved
+monitoring program is already in place in another state; and
+
+3. The public water system is fully responsible for the provision of sufficient
+quantities of bottled water to every person served by the public water system
+via door-to-door bottled water delivery.
+
+(Former Section R9-8-223 repealed, new Section R9-8-223 adopted
+effective May 26, 1978 (Supp. 78-3). Amended effective August 7, 1979
+(Supp. 79-4). Amended subsection (D), paragraph (4) effective November 2,
+1982 (Supp. 82-6). Amended effective January 6, 1984 (Supp. 84-1). Former
+Section R9-8-223 renumbered without change as Section R18-4-223 (Supp.
+87-3). Amended and a new subsection (F) added effective June 30, 1989
+(Supp. 89-2). Section repealed, new Section adopted effective August 8, 1991
+   Ariz. Admin. Code R18-4-223 Use of Bottled Water (Arizona
+              Administrative Code (2021 Edition))
+
+
+(Supp. 91-3). Section repealed, new Section adopted effective April 28, 1995
+(Supp. 95-2). Amended by final rulemaking at 8 A.A.R. 973, effective
+February 19, 2002 (Supp. 02-1).)
+       Ariz. Admin. Code R18-4-224 Renumbered (Arizona
+               Administrative Code (2021 Edition))
+
+
+§ R18-4-224. Renumbered
+
+(Former Section R9-224 repealed, new Section R9-8-224 adopted effective
+May 26, 1978 (Supp. 78-3). Amended effective January 6, 1984 (Supp. 84-1).
+Former Section R9-8-224 renumbered without change as Section R18-4-224
+(Supp. 87-3). Amended effective June 30, 1989 (Supp. 89-2). Former
+Section R18-4-224 repealed effective August 8, 1991 (Supp. 91-3). New
+Section adopted effective December 8, 1998 (Supp. 98-4). Amended by final
+rulemaking at 7 A.A.R. 5067, effective October 16, 2001 (Supp. 01-4).
+Section R18-4-224 renumbered to R18-4-301 by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+       Ariz. Admin. Code R18-4-225 Renumbered (Arizona
+               Administrative Code (2021 Edition))
+
+
+§ R18-4-225. Renumbered
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Former Section R9-8-225
+renumbered without change as Section R18-4-225 (Supp. 87-3). Former
+Section R18-4-224 repealed effective August 8, 1991 (Supp. 91-3). New
+Section adopted effective December 8, 1998 (Supp. 98-4). Amended by final
+rulemaking at 7 A.A.R. 5067, effective October 16, 2001 (Supp. 01-4).
+Section R18-4-225 renumbered to R18-4-304 by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+       Ariz. Admin. Code R18-4-226 Renumbered (Arizona
+               Administrative Code (2021 Edition))
+
+
+§ R18-4-226. Renumbered
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Amended effective August 7,
+1979 (Supp. 79-4). Amended subsection (B) effective January 6, 1984 (Supp.
+84-1). Former Section R9-8-226 renumbered without change as Section
+R18-4-226 (Supp. 87-3). Amended effective June 30, 1989 (Supp. 89-2).
+Former Section R18-4-224 repealed effective August 8, 1991 (Supp. 91-3).
+New Section adopted effective December 8, 1998 (Supp. 98-4). Amended by
+final rulemaking at 7 A.A.R. 5067, effective October 16, 2001 (Supp. 01-4).
+Section R18-4-226 renumbered to R18-4-305 by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-227 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-227. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Amended effective January 6,
+1984 (Supp. 84-1). Former Section R9-3-227 renumbered without change as
+Section R18-4-227 (Supp. 87-3). Amended effective June 30, 1989 (Supp.
+89-2). Former Section R18-4-224 repealed effective August 8, 1991 (Supp.
+91-3).)
+ Ariz. Admin. Code R18-4-228 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-228. Repealed
+
+(Adopted effective June 30, 1989 (Supp. 89-2). Former Section R18-4-224
+repealed effective August 8, 1991 (Supp. 91-3).)
+ Ariz. Admin. Code R18-4-229 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-229. Repealed
+
+(Adopted effective June 30, 1989 (Supp. 89-2). Former Section R18-4-224
+repealed effective August 8, 1991 (Supp. 91-3).)
+ Ariz. Admin. Code R18-4-230 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-230. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Former Section R9-8-230
+renumbered without change as Section R18-4-230 (Supp. 87-3). Amended
+effective June 30, 1989 (Supp. 89-2). Section repealed, new Section adopted
+effective August 8, 1991 (Supp. 91-3). Repealed effective April 28, 1995
+(Supp. 95-2).)
+ Ariz. Admin. Code R18-4-231 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-231. Repealed
+
+(Former Section R9-8-231 repealed, new Section R9-8-231 adopted effective
+May 26, 1978 (Supp. 78-3). Former Section R9-8-231 renumbered without
+change as Section R18-4-231 (Supp. 87-3). Amended effective June 30, 1989
+(Supp. 89-2). Section repealed, new Section adopted effective August 8, 1991
+(Supp. 91-3). Repealed effective April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-232 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-232. Repealed
+
+(Former Section R9-8-232 repealed, new Section R9-8-232 adopted
+effective May 26, 1978 (Supp. 78-3). Amended effective January 6, 1984
+(Supp. 84-1). Former Section R9-8-232 renumbered without change as
+Section R18-4-232 (Supp. 87-3). Amended effective June 30, 1989 (Supp.
+89-2). Section repealed, new Section adopted effective August 8, 1991 (Supp.
+91-3). Repealed effective April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-233 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-233. Repealed
+
+(Former Section R9-8-233 repealed, new Section R9-8-232 adopted
+effective May 26, 1978 (Supp. 78-3). Former Section R9-8-233 renumbered
+without change as Section R18-4-233 (Supp. 87-3). Section repealed, new
+Section adopted effective August 8, 1991 (Supp. 91-3). Repealed effective
+April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-234 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-234. Repealed
+
+(Former Section R9-8-234 repealed, new Section R9-8-234 adopted
+effective May 26, 1978 (Supp. 78-3). Amended effective Feb. 20, 1980 (Supp.
+80-1). Amended effective January 6, 1984 (Supp. 84-1). Former Section R9-
+8-234 renumbered without change as Section R18-4-234 (Supp. 87-3).
+Amended effective June 30, 1989 (Supp. 89-2). Section repealed, new
+Section adopted effective August 8, 1991 (Supp. 91-3). Repealed effective
+April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-235 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-235. Repealed
+
+(Adopted effective January 6, 1984 (Supp. 84-1). Former Section R9-8-235
+renumbered without change as Section R18-4-235 (Supp. 87-3). Section
+repealed, new Section adopted effective August 8, 1991 (Supp. 91-3).
+Repealed effective April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-236 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-236. Repealed
+
+(Adopted effective January 6, 1984 (Supp. 84-1). Former Section R9-8-236
+renumbered without change as Section R18-4-236 (Supp. 87-3). Amended
+effective June 30, 1989 (Supp. 89-2). Section repealed, new Section adopted
+effective August 8, 1991 (Supp. 91-3). Repealed effective April 28, 1995
+(Supp. 95-2).)
+ Ariz. Admin. Code R18-4-237 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-237. Repealed
+
+(Adopted effective June 30, 1989 (Supp. 89-2). Section repealed, new
+Section adopted effective August 8, 1991 (Supp. 91-3). Repealed effective
+April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-238 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-238. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-239 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-239. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-240 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-240. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-241 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-241. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-242 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-242. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-243 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-243. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-244 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-244. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-245 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-245. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-246 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-246. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-247 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-247. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-248 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-248. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-249 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-249. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-250 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-250. Repealed
+
+(Former Section R9-8-250 repealed, new Section R9-8-250 adopted
+effective May 26, 1978 (Supp. 78-3). Former Section R9-8-250 renumbered
+without change as Section R18-4-250 (Supp. 87-3). Amended effective June
+30, 1989 (Supp. 89-2). Section repealed, new Section adopted effective
+August 8, 1991 (Supp. 91-3). Repealed effective April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-251 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-251. Repealed
+
+(Former Section R9-8-250 repealed, new Section R9-8-251 adopted effective
+May 26, 1978 (Supp. 78-3). Amended effective August 7, 1979 (Supp. 79-4).
+Amended by adding subsection (B) effective November 2, 1982 (Supp. 82-
+6). Former Section R9-8-251 renumbered without change as Section R18-4-
+251 (Supp. 87-3). Amended effective June 30, 1989 (Supp. 89-2). Repealed
+effective August 8, 1991 (Supp. 91-3). Repealed effective April 28, 1995
+(Supp. 95-2).)
+ Ariz. Admin. Code R18-4-252 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-252. Repealed
+
+(Former Section R9-8-252 repealed, new Section R9-8-252 adopted
+effective May 26, 1978 (Supp. 78-3). Amended effective August 7, 1979
+(Supp. 79-4). Amended subsection (A) effective January 6, 1984 (Supp. 84-
+1). Former Section R9-8-252 renumbered without change as Section R18-4-
+252 (Supp. 87-3). Amended by adding a new subsection (C) effective June
+30, 1989 (Supp. 89-2). Repealed effective August 8, 1991 (Supp. 91-3).)
+ Ariz. Admin. Code R18-4-253 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-253. Repealed
+
+(Former Section R9-8-253 repealed, new Section R9-8-253 adopted effective
+May 26, 1978 (Supp. 78-3). Amended effective August 7, 1979 (Supp. 79-4).
+Amended subsection (A) and deleted subsection (B) effective January 6,
+1984 (Supp. 84-1). Former Section R9-8-253 renumbered without change as
+Section R18-4-253 (Supp. 87-3). Repealed effective August 8, 1991 (Supp.
+91-3).)
+ Ariz. Admin. Code R18-4-260 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-260. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Former Section R9-8-260
+renumbered without change as Section R18-4-260 (Supp. 87-3). Amended
+effective June 30, 1989 (Supp. 89-2). Repealed effective April 28, 1995
+(Supp. 95-2).)
+ Ariz. Admin. Code R18-4-261 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-261. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Former Section R9-8-261
+renumbered without change as Section R18-4-261 (Supp. 87-3). Amended
+effective June 30, 1989 (Supp. 89-2). Repealed effective April 28, 1995
+(Supp. 95-2).)
+ Ariz. Admin. Code R18-4-262 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-262. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Former Section R9-8-262
+renumbered without change as Section R18-4-262 (Supp. 87-3). Repealed
+effective April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-263 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-263. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Amended effective January 6,
+1984 (Supp. 84-1). Former Section R9-8-263 renumbered without change as
+Section R18-4-263 (Supp. 87-3). Section repealed, new Section adopted
+effective August 8, 1991 (Supp. 91-3). Repealed effective April 28, 1995
+(Supp. 95-2).)
+ Ariz. Admin. Code R18-4-264 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-264. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Amended subsection (B)
+effective January 6, 1984 (Supp. 84-1). Former Section R9-8-264
+renumbered without change as Section R18-4-264 (Supp. 87-3). Repealed
+effective June 30, 1989 (Supp. 89-2). New Section adopted effective August
+8, 1991 (Supp. 91-3). Repealed effective April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-265 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-265. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Amended effective January 6,
+1984 (Supp. 84-1). Former Section R9-8-265 renumbered without change as
+Section R18-4-265 (Supp. 87-3). Amended subsections (B) and (C) effective
+June 30, 1989 (Supp. 89-2). Section repealed, new Section adopted effective
+August 8, 1991 (Supp. 91-3). Repealed effective April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-266 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-266. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Former Section R9-8-266
+renumbered without change as Section R18-4-266 (Supp. 87-3). Amended
+subsection (A) effective June 30, 1989 (Supp. 89-2). Section repealed, new
+Section adopted effective August 8, 1991 (Supp. 91-3). Repealed effective
+April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-267 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-267. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Amended effective August 7,
+1979 (Supp. 79-4). Amended effective January 6, 1984 (Supp. 84-1). Former
+Section R9-8-267 renumbered without change as Section R18-4-267 (Supp.
+87-3). Amended effective June 30, 1989 (Supp. 89-2). Section repealed, new
+Section adopted effective August 8, 1991 (Supp. 91-3). Repealed effective
+April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-268 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-268. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Amended effective January 6,
+1984 (Supp. 84-1). Former Section R9-8-268 renumbered without change as
+Section R18-4-268 (Supp. 87-3). Amended effective June 30, 1989 (Supp.
+89-2). Section repealed, new Section adopted effective August 8, 1991 (Supp.
+91-3). Repealed effective April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-269 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-269. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Former Section R9-8-269
+renumbered without change as Section R18-4-269 (Supp. 87-3). Amended
+subsection (A) effective June 30, 1989 (Supp. 89-2). Section repealed, new
+Section adopted effective August 8, 1991 (Supp. 91-3). Repealed effective
+April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-270 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-270. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Former Section R9-8-270
+renumbered without change as Section R18-4-270 (Supp. 87-3). Repealed
+effective June 30, 1989 (Supp. 89-2). New Section adopted effective August
+8, 1991 (Supp. 91-3). Repealed effective April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-271 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-271. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Former Section R9-8-271
+renumbered without change as Section R18-4-271 (Supp. 87-3). Amended
+effective June 30, 1989 (Supp. 89-2). Section repealed, new Section adopted
+effective August 8, 1991 (Supp. 91-3). Repealed effective April 28, 1995
+(Supp. 95-2).)
+ Ariz. Admin. Code R18-4-272 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-272. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Amended subsections (A) and
+(D) effective January 6, 1984 (Supp. 84-1). Former Section R9-8-272
+renumbered without change as Section R18-4-272 (Supp. 87-3). Amended
+effective June 30, 1989 (Supp. 89-2). Section repealed, new Section adopted
+effective August 8, 1991 (Supp. 91-3). Repealed effective April 28, 1995
+(Supp. 95-2).)
+ Ariz. Admin. Code R18-4-273 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-273. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Amended effective August 7,
+1979 (Supp. 79-4). Amended effective January 6, 1984 (Supp. 84-1). Former
+Section R9-8-273 renumbered without change as Section R18-4-273 (Supp.
+87-3). Amended effective June 30, 1989 (Supp. 89-2). Section repealed, new
+Section adopted effective August 8, 1991 (Supp. 91-3). Repealed effective
+April 28, 1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-280 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-280. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-281 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-281. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-282 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-282. Repealed
+
+(Adopted effective August 8, 1991 (Supp. 91-3). Repealed effective April 28,
+1995 (Supp. 95-2).)
+ Ariz. Admin. Code R18-4-290 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-290. Repealed
+
+(Adopted effective May 26, 1978 (Supp. 78-3). Former Section R9-8-290
+renumbered without change as Section R18-4-290 (Supp. 87-3). Amended
+effective June 30, 1989 (Supp. 89-2). Section repealed, new Section adopted
+effective August 8, 1991 (Supp. 91-3). Repealed effective April 28, 1995
+(Supp. 95-2).)
+   Ariz. Admin. Code 1 Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX 1. Repealed
+
+(Amended effective January 6, 1984 (Supp. 84-1). Amended effective June
+30, 1989 (Supp. 89-2). Repealed effective August 8, 1991 (Supp. 91-3).)
+   Ariz. Admin. Code 2 Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX 2. Repealed
+
+(Amended effective January 6, 1984 (Supp. 84-1). Amended effective June
+30, 1989 (Supp. 89-2). Repealed effective August 8, 1991 (Supp. 91-3).)
+   Ariz. Admin. Code 3 Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX 3. Repealed
+
+(Amended effective January 6, 1984 (Supp. 84-1). Amended effective June
+30, 1989 (Supp. 89-2). Repealed effective August 8, 1991 (Supp. 91-3).)
+   Ariz. Admin. Code 4 Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX 4. Repealed
+
+(Former Appendix 4 repealed, new Appendix 4 adopted effective January 6,
+1984 (Supp. 84-1). Amended effective June 30, 1989 (Supp. 89-2). Repealed
+effective August 8, 1991 (Supp. 91-3).)
+   Ariz. Admin. Code 5 Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX 5. Repealed
+
+(Former Appendix 5 renumbered as Appendix 6, new Appendix 5 adopted
+effective November 2, 1982 (Supp. 82-6). Amended effective June 30, 1989
+(Supp. 89-2). Repealed effective August 8, 1991 (Supp. 91-3).)
+   Ariz. Admin. Code 6 Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX 6. Repealed
+
+(Former Appendix 5 renumbered as Appendix 6 effective November 2, 1982
+(Supp. 82-6). Former Appendix 6 repealed, new Appendix 6 adopted
+effective January 6, 1984 (Supp. 84-1). Amended effective June 30, 1989
+(Supp. 89-2). Repealed effective August 8, 1991 (Supp. 91-3).)
+   Ariz. Admin. Code 7 Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX 7. Repealed
+
+(Adopted effective June 30, 1989 (Supp. 89-2). Repealed effective August 8,
+1991 (Supp. 91-3). )
+        Ariz. Admin. Code R18-4-301 Applicability (Arizona
+                Administrative Code (2021 Edition))
+
+
+§ R18-4-301. Applicability
+
+A. A public water system that serves 10, 000 or fewer persons shall
+participate in the monitoring assistance program. Within 60 days after
+receiving notice of participation in the monitoring assistance program from
+the Department, a public water system that determines that it serves more
+than 10, 000 persons shall substantiate its determination by submitting to
+the Department the portion of the most recent census provided by the
+Arizona Department of Economic Security, Research Administration,
+Population Statistics Unit that supports the public water system's
+determination.
+
+B. A public water system that is not obligated to participate in the
+monitoring assistance program may elect to participate in the monitoring
+assistance program if the owner of the public water system:
+
+1. Notifies the Department in writing of the public water system's intention
+to participate in the monitoring assistance program,
+
+2. Agrees to participate in the monitoring assistance program for a
+minimum of three years, and
+
+3. Pays the fees required by R18-4-304. Subject to payment of the required
+fees, the public water system's participation shall begin at the start of the
+next full calendar year of a compliance period.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 3046, effective May 1, 2002 (Supp. 02-3). Section
+R18-4-301 repealed; new Section renumbered from R18-4-224 and
+amended by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+      Ariz. Admin. Code R18-4-301.01 Renumbered (Arizona
+               Administrative Code (2021 Edition))
+
+
+§ R18-4-301.01. Renumbered
+
+(New Section adopted by final rulemaking at 5 A.A.R. 1686, effective April
+19, 1999 (Supp. 99-2). Amended by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1). Section R18-4-301.01 renumbered
+to R18-4-212 by final rulemaking at 14 A.A.R. 2978, effective August 30,
+2008 (Supp. 08-3))
+     Table 1 Renumbered (Arizona Administrative Code (2021
+                           Edition))
+
+
+TABLE 1. Renumbered
+
+(New Table made by final rulemaking at 8 A.A.R. 973, effective February 19,
+2002 (Supp. 02-1). Table 1 following R18-4-301.01 renumbered to R18-4-
+212, Table 1 by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+        Ariz. Admin. Code R18-4-301.02 Repealed (Arizona
+               Administrative Code (2021 Edition))
+
+
+§ R18-4-301.02. Repealed
+
+(New Section made by final rulemaking at 8 A.A.R. 3046, effective May 1,
+2002 (Supp. 02-3). Section R18-4-301.02 and Tables 1 and 2 repealed by
+final rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+     Ariz. Admin. Code R18-4-302 Contractor Responsibilities
+           (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-302. Contractor Responsibilities
+
+A. Under the monitoring assistance program, a contractor is authorized to
+collect, transport, analyze, and report water samples on behalf of a
+participating public water system. The contractor or a party designated by
+the contractor shall conduct baseline monitoring for all chemicals for which
+the system is required to monitor under this Chapter, except for copper,
+lead, disinfection byproducts, and microbiological contaminants, which
+remain the responsibility of the public water system. Baseline monitoring
+includes routine monitoring for contaminants included in the monitoring
+assistance program. Baseline monitoring does not include increased
+monitoring required by this Chapter when the results of baseline monitoring
+indicate the presence of a contaminant at a level that requires increased
+monitoring by a participating public water system.
+
+B. A contractor shall deliver copies of monitoring analysis results to the
+public water system and to the Department.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended by final rulemaking at 8 A.A.R. 3046, effective
+May 1, 2002 (Supp. 02-3). Section R18-4-302 repealed; new Section made
+by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-
+3).)
+       Ariz. Admin. Code R18-4-303 Public Water System
+  Responsibilities (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-303. Public Water System Responsibilities
+
+A. Although a contractor performs baseline monitoring when a public water
+system participates in the monitoring assistance program, the public water
+system remains legally responsible for compliance with all other
+requirements of this Chapter.
+
+B. The legal owner of a public water system participating in the monitoring
+assistance program shall notify the Department by July 1 of each year of:
+
+1. The legal owner's name, current mailing address, and phone number;
+
+2. The population currently served by the public water system;
+
+3. The public water system identification number; and
+
+4. The number of meters and service connections currently in the public
+water system.
+
+C. A public water system that participates in the monitoring assistance
+program shall not deny a contractor access to or restrict a contractor's access
+to the public water system or prevent a contractor from collecting a sample
+covered under the monitoring assistance program.
+
+D. Direct reporting. A public water system may contract with a laboratory or
+another agent to report monitoring results to the Department, but the public
+water system remains legally responsible for compliance with reporting
+requirements.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended by final rulemaking at 8 A.A.R. 3046, effective
+May 1, 2002 (Supp. 02-3). Section R18-4-303 repealed; new Section made
+by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-
+3).)
+Ariz. Admin. Code R18-4-304 Fees for the Monitoring Assistance
+     Program (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-304. Fees for the Monitoring Assistance Program
+
+A. The Department shall assess, and a public water system participating in
+the monitoring assistance program shall pay, the following annual fees,
+subject to adjustments referenced in subsection (B):
+
+1. An annual fee of $250, and
+
+2. A unit fee of $2.57 per meter or service connection.
+
+B. If the monitoring assistance fund has a surplus after execution of the
+previous year's contract, any surplus in excess of $200, 000 in any year shall
+be used to reduce future fees for public water systems that paid annual fees
+in the previous compliance period, in a manner consistent with the program
+invoicing system. In the first compliance period that a public water system
+participates in the monitoring assistance program, the public water system
+shall pay the full amount of annual fees due under this Section, and is not
+entitled to a fee reduction resulting from a surplus in the monitoring
+assistance fund from a prior compliance period.
+
+C. If a public water system serving 10, 000 or fewer persons at the beginning
+of a compliance period increases service during the compliance period so
+that the public water system serves more than 10, 000 persons annually, the
+public water system may elect to cease participation in the monitoring
+assistance program under the following conditions:
+
+1. If the monitoring assistance program has already conducted monitoring
+for the public water system during the compliance period, the public water
+system shall remain in the monitoring assistance program, and pay annual
+fees, for the remainder of the compliance period.
+
+2. If the monitoring assistance program has not conducted monitoring for
+the public water system during the compliance period, the public water
+system may cease participating in the monitoring assistance program, and if
+so, the Department shall refund any monitoring fees paid by the public
+water system during the compliance period.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Section R18-4-304 repealed;
+new Section renumbered from R18-4-225 and amended by final rulemaking
+at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+  Ariz. Admin. Code R18-4-305 Collection and Payment of Fees
+          (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-305. Collection and Payment of Fees
+
+A. The Department shall annually mail an invoice for fees to the legal owner
+of a public water system participating in the monitoring assistance program.
+The owner of the public water system shall pay the invoiced amount to the
+Department, at the address listed on the invoice, by the due date indicated
+on the invoice.
+
+B. The Department shall make refunds or billing corrections if a public water
+system demonstrates an error in the amount billed. The owner of a public
+water system shall send a written request for a refund or correction to the
+Department, at the address on the invoice, within 90 days of the invoice
+date.
+
+C. The Department may verify the number of meters and service
+connections of a participating public water system.
+
+D. The Department shall not waive fees prescribed by R18-4-304.
+
+E. The owner of a public water system that fails to pay fees assessed by the
+Department in a timely manner shall be subject to the penalties listed in
+A.R.S. § 49-354. Failure to notify the Department of the owner's current
+mailing address does not relieve the owner of a public water system from
+liability for penalties.
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Section R18-4-305
+renumbered to R18-4-306 by final rulemaking at 8 A.A.R. 973, effective
+February 19, 2002 (Supp. 02-1). New Section R18-4-305 renumbered from
+R18-4-226 and amended by final rulemaking at 14 A.A.R. 2978, effective
+August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-306 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-306. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Former Section R18-4-306
+repealed; new Section R18-4-306 renumbered from R18-4-305 and
+amended by final rulemaking at 8 A.A.R. 973, effective February 19, 2002
+(Supp. 02-1). Repealed by final rulemaking at 14 A.A.R. 2978, effective
+August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-307 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-307. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended by final rulemaking at 8 A.A.R. 973, effective
+February 19, 2002 (Supp. 02-1). Repealed by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-308 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-308. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Repealed by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+ Ariz. Admin. Code R18-4-309 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-309. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Repealed by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+ Ariz. Admin. Code R18-4-310 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-310. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended by final rulemaking at 8 A.A.R. 973, effective
+February 19, 2002 (Supp. 02-1). Repealed by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-311 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-311. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended by final rulemaking at 8 A.A.R. 973, effective
+February 19, 2002 (Supp. 02-1). Repealed by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-312 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-312. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Repealed by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+ Ariz. Admin. Code R18-4-313 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-313. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Repealed by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+ Ariz. Admin. Code R18-4-314 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-314. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended by final rulemaking at 8 A.A.R. 973, effective
+February 19, 2002 (Supp. 02-1). Repealed by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-315 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-315. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Repealed by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+ Ariz. Admin. Code R18-4-316 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-316. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended by final rulemaking at 8 A.A.R. 973, effective
+February 19, 2002 (Supp. 02-1). Repealed by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-317 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-317. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Repealed by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+ Table 1 Repealed (Arizona Administrative Code (2021 Edition))
+
+
+
+TABLE 1. Repealed
+
+(Table 1 adopted by final rulemaking at 5 A.A.R. 1686, effective April 19,
+1999 (Supp. 99-2). Table repealed by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1).)
+   Ariz. Admin. Code A Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX A. Repealed
+
+(New Appendix made by final rulemaking at 8 A.A.R. 973, effective February
+19, 2002 (Supp. 02-1). Appendix A repealed by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3).)
+   Ariz. Admin. Code B Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX B. Repealed
+
+(New Appendix made by final rulemaking at 8 A.A.R. 973, effective February
+19, 2002 (Supp. 02-1). Appendix B repealed by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3). )
+ Ariz. Admin. Code R18-4-401 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-401. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective December
+8, 1998 (Supp. 98-4). Former Section R18-4-401 repealed; new Section R18-
+4-401 renumbered from R18-4-402 and amended by final rulemaking at 8
+A.A.R. 973, effective February 19, 2002 (Supp. 02-1). Repealed by final
+rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-402 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-402. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended effective December 8, 1998 (Supp. 98-4).
+Former Section R18-4-402 renumbered to R18-4-401; new Section R18-4-
+402 renumbered from R18-4-403 and amended by final rulemaking at 8
+A.A.R. 973, effective February 19, 2002 (Supp. 02-1). Repealed by final
+rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-403 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-403. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Section repealed; new
+Section adopted effective June 3, 1998 (Supp. 98-3). Amended by final
+rulemaking at 7 A.A.R. 5067, effective October 16, 2001 (Supp. 01-4).
+Section R18-4-403 renumbered to R18-4-402 by final rulemaking at 8
+A.A.R. 973, effective February 19, 2002 (Supp. 02-1). New Section made by
+final rulemaking at 8 A.A.R. 3046, effective May 1, 2002 (Supp. 02-3).
+Repealed by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+ Ariz. Admin. Code R18-4-404 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-404. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective December
+8, 1998 (Supp. 98-4). Section repealed by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1).)
+ Ariz. Admin. Code R18-4-405 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-405. Repealed
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective December
+8, 1998 (Supp. 98-4). Section repealed by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1). )
+Ariz. Admin. Code R18-4-501 Recodified (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-501. Recodified
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Section recodified to R18-5-
+501 at 10 A.A.R. 585, effective January 30, 2004 (Supp. 04-1).)
+Ariz. Admin. Code R18-4-502 Recodified (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-502. Recodified
+
+(Adopted effective April 28, 1995 (Supp. 95-2). A.R.S. citation in subsection
+(D)(4) corrected (Supp. 04-1). Section recodified to R18-5-502 at 10 A.A.R.
+585, effective January 30, 2004 (Supp. 04-1).)
+Ariz. Admin. Code R18-4-503 Recodified (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-503. Recodified
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Section recodified to R18-5-503 at 10 A.A.R. 585, effective January 30, 2004
+(Supp. 04-1).)
+Ariz. Admin. Code R18-4-504 Recodified (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-504. Recodified
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended effective June 3,
+1998 (Supp. 98-3). Amended by final rulemaking at 8 A.A.R. 973, effective
+February 19, 2002 (Supp. 02-1). Section recodified to R18-5-504 at 10
+A.A.R. 585, effective January 30, 2004 (Supp. 04-1).)
+Ariz. Admin. Code R18-4-505 Recodified (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-505. Recodified
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Subsection citation in subsection (B) corrected (Supp. 04-1). Section
+recodified to R18-5-505 at 10 A.A.R. 585, effective January 30, 2004 (Supp.
+04-1).)
+Ariz. Admin. Code R18-4-506 Recodified (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-506. Recodified
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Section recodified to R18-5-506 at 10 A.A.R. 585, effective January 30, 2004
+(Supp. 04-1).)
+Ariz. Admin. Code R18-4-507 Recodified (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-507. Recodified
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Section recodified to R18-5-507 at 10 A.A.R. 585, effective January 30, 2004
+(Supp. 04-1).)
+Ariz. Admin. Code R18-4-508 Recodified (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-508. Recodified
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Section recodified to R18-5-508 at 10 A.A.R. 585, effective January 30, 2004
+(Supp. 04-1).)
+Ariz. Admin. Code R18-4-509 Recodified (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-509. Recodified
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Amended by final
+rulemaking at 8 A.A.R. 973, effective February 19, 2002 (Supp. 02-1).
+Section recodified to R18-5-509 at 10 A.A.R. 585, effective January 30, 2004
+(Supp. 04-1).)
+   Ariz. Admin. Code A Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX A. Repealed
+
+(New Appendix made by final rulemaking at 8 A.A.R. 973, effective February
+19, 2002 (Supp. 02-1). Appendix A repealed by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3).)
+   Ariz. Admin. Code B Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX B. Repealed
+
+(New Appendix made by final rulemaking at 8 A.A.R. 973, effective February
+19, 2002 (Supp. 02-1). Appendix B repealed by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3). )
+Ariz. Admin. Code C Renumbered (Arizona Administrative Code
+                       (2021 Edition))
+
+
+APPENDIX C. Renumbered
+
+(Adopted effective April 28, 1995 (Supp. 95-2). Appendix C renumbered to
+Appendix B without change effective June 3, 1998 (Supp. 98-3). )
+        Ariz. Admin. Code R18-4-601 Applicability (Arizona
+                Administrative Code (2021 Edition))
+
+
+§ R18-4-601. Applicability
+
+This Article applies to new CWSs and new NTNCWSs that begin operation
+on or after October 1, 1999. This Article does not apply to an existing public
+water system.
+
+(New Section adopted by final rulemaking effective September 23, 1999; the
+A.A.R. citation was not available at the time of publication and will appear in
+Supp. 99-4 (Supp. 99-3). Amended by final rulemaking at 5 A.A.R. 4456,
+effective September 23, 1999 (Supp. 99-4).)
+Ariz. Admin. Code R18-4-602 Elementary Business Plan (Arizona
+              Administrative Code (2021 Edition))
+
+
+§ R18-4-602. Elementary Business Plan
+
+A. To become a new public water system, an owner shall file an elementary
+business plan for review and approval by the Department, on a form
+provided by the Department. The elementary business plan shall meet the
+requirements of and contain all information required in R18-4-603, R18-4-
+604, and R18-4-605.
+
+B. An owner shall not commence operation of a public water system without
+Department approval under R18-4-606.
+
+C. If the owner of a new public water system fails to submit a complete
+application, the Department shall suspend the review process and send a
+notice of incomplete elementary business plan to the owner. The owner shall
+submit the missing information to the Department within 60 days of the
+date of the notice of incomplete elementary business plan. If missing
+information is not received at the Department within the 60 day time
+period, the Department shall deny the elementary business plan and return
+the elementary business plan to the owner.
+
+(New Section adopted by final rulemaking effective September 23, 1999; the
+A.A.R. citation was not available at the time of publication and will appear in
+Supp. 99-4 (Supp. 99-3). Amended by final rulemaking at 5 A.A.R. 4456,
+effective September 23, 1999 (Supp. 99-4).)
+ Ariz. Admin. Code R18-4-603 Technical Capacity Requirements
+         (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-603. Technical Capacity Requirements
+
+An owner of a new public water system shall submit the following to the
+Department for a determination of technical capacity:
+
+1. Documentation of a drinking water source adequacy minimum of 50
+gallons of water per person per day for a period of 100 years, a 100 year
+water availability designation from the Arizona Department of Water
+Resources (ADWR), or a Certificate of Assured Water Supply from ADWR;
+
+2. Documentation that the drinking water served to the public will meet the
+safe drinking water standards of this Chapter;
+
+3. Documentation that infrastructure, treatment, and storage design meets
+the requirements of this Chapter, Articles 2, 3, and 5;
+
+4. Documentation that the public water system is operated by a certified
+operator of the sufficient grade and type; and
+
+5. Documentation that contains at least the following:
+
+a. Day 1 to final build-out technical and engineering needs projections;
+
+b. Proposed water system design specification and proposed uses including
+commercial and domestic use phases;
+
+c. Information describing the life of the plant;
+
+d. A demonstration that all site-specific components meet nationally
+recognized standards, such as those established by the American Water
+Works Association, National Sanitation Foundation, or Underwriter's
+Laboratory;
+
+e. Manufacturers' specifications on components used in the construction of
+the water system; and
+
+f. Corrective action plan to address site-specific component replacement or
+repair protocols based on manufacturer's recommendations or engineer's
+specification.
+
+(New Section adopted by final rulemaking effective September 23, 1999; the
+A.A.R. citation was not available at the time of publication and will appear in
+Supp. 99-4 (Supp. 99-3). Amended by final rulemaking at 5 A.A.R. 4456,
+effective September 23, 1999 (Supp. 99-4).)
+Ariz. Admin. Code R18-4-604 Managerial Capacity Requirements
+         (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-604. Managerial Capacity Requirements
+
+An owner of a new public water system shall submit the following
+information as part of the elementary business plan to the Department for a
+determination of managerial capacity:
+
+1. A statement of how the public water system is owned, such as by major
+stockholders, board of directors, sole proprietor cooperative, governmental
+agency or district, corporation, limited partnership, or limited liability
+corporation;
+
+2. Name, address, and phone number of owner;
+
+3. Organizational chart of the new public water system;
+
+4. Staff job descriptions and responsibilities;
+
+5. Water system capital improvement plan up to the proposed full system
+build-out or for a five-year projection, whichever is greater;
+
+6. Certified operator grade and type that will be required by the new public
+water system, based upon water system design specifications;
+
+7. A statement of the intent to create a CWS or NTNCWS and any intent to
+transfer ownership of the public water system as part of the construction
+plan or project phase build-out;
+
+8. Method to ensure provision of information listed in Appendix B, item 4 to
+subsequent owners; and
+
+9. A disclosure statement signed by the owner setting forth the owner's
+responsibility to comply with the requirements of this Article and to disclose
+all information relevant to the operation of the public water system upon
+transfer of ownership as outlined in Appendix B.
+
+(New Section adopted by final rulemaking effective September 23, 1999; the
+A.A.R. citation was not available at the time of publication and will appear in
+Supp. 99-4 (Supp. 99-3). Amended by final rulemaking at 5 A.A.R. 4456,
+effective September 23, 1999 (Supp. 99-4).)
+ Ariz. Admin. Code R18-4-605 Financial Capacity Requirements
+         (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-605. Financial Capacity Requirements
+
+An owner of a new public water system shall submit information for a five-
+year financial capacity plan, or a financial capacity plan to the end of the
+build-out phase, whichever is longer, that demonstrates financial capacity
+and documents or contains all of the information listed in Appendices C and
+D.
+
+(New Section adopted by final rulemaking effective September 23, 1999; the
+A.A.R. citation was not available at the time of publication and will appear in
+Supp. 99-4 (Supp. 99-3). Amended by final rulemaking at 5 A.A.R. 4456,
+effective September 23, 1999 (Supp. 99-4).)
+ Ariz. Admin. Code R18-4-606 Review, Approval, Denial Process
+         (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-606. Review, Approval, Denial Process
+
+A. The Department shall review and evaluate technical capacity, based upon
+the requirements in R18-4-603 and Appendix A.
+
+B. The Department shall review and evaluate managerial capacity, based
+upon the requirements in R18-4-604 and Appendix A.
+
+C. The Department shall accept a financial determination made by the
+Arizona Corporation Commission (ACC) as meeting the financial capacity
+requirements contained in this Article for a new CWS or new NTNCWS
+under the jurisdiction of the ACC. The applicant shall submit documentation
+to the Department that verifies ACC approval of the public water system's
+financial capacity.
+
+D. The Department shall accept a financial determination as set forth in the
+certificate of assured water supply from the Arizona Department of Water
+Resources, Active Management Area Program (ADWR) as meeting the
+financial capacity requirements contained in this Article for a new CWS or
+new NTNCWS. The owner shall submit documentation to the Department
+that verifies ADWR approval of its financial capacity.
+
+E. If a new public water system does not fall under financial review
+jurisdiction of the ACC or ADWR, the new CWS or new NTNCWS shall
+submit to the Department for review a completed financial capacity portion
+of the elementary business plan. The Department shall review and evaluate
+financial capacity, based upon the requirements in R18-4-605 and
+Appendices A, C, and D.
+
+F. The Department shall notify an owner of a new public water system in
+writing of a deficiency in the elementary business plan or approve or deny
+the elementary business plan within 90 days of a receipt of a complete
+elementary business plan. The owner shall have 60 days from the date of a
+notice of deficiency to submit to the Department the information necessary
+to correct the deficiency in the elementary business plan. If the owner of the
+new public water system fails to send the requested information so that it is
+received by the Department within 60 days of the date of the notice of
+deficiency, the Department shall deny the elementary business plan and
+return it to the owner with a written explanation for the denial and
+information on the appeal process.
+
+G. If an owner modifies technical or managerial specifications at any time
+between the approval to construct and the approval of construction, the
+owner shall notify the Department of the need to modify the elementary
+business plan in the technical, managerial, and financial capacity
+ Ariz. Admin. Code R18-4-606 Review, Approval, Denial Process
+         (Arizona Administrative Code (2021 Edition))
+
+
+documentation. The Department shall revoke approval of the elementary
+business plan if the owner fails to notify the Department within 30 days of a
+modification.
+
+(New Section adopted by final rulemaking effective September 23, 1999; the
+A.A.R. citation was not available at the time of publication and will appear in
+Supp. 99-4 (Supp. 99-3). Amended by final rulemaking at 5 A.A.R. 4456,
+effective September 23, 1999 (Supp. 99-4).)
+  Ariz. Admin. Code R18-4-607 Appeals (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-607. Appeals
+
+An owner may appeal denial of an elementary business plan under A.R.S. §
+41-1092 et seq.
+
+(New Section adopted by final rulemaking effective September 23, 1999; the
+A.A.R. citation was not available at the time of publication and will appear in
+Supp. 99-4 (Supp. 99-3). Amended by final rulemaking at 5 A.A.R. 4456,
+effective September 23, 1999 (Supp. 99-4). )
+     Ariz. Admin. Code A Elementary Business Plan Checklist
+           (Arizona Administrative Code (2021 Edition))
+
+
+APPENDIX A. Elementary Business Plan Checklist
+
+Technical Capacity 1. Source Adequacy - Does the documentation
+demonstrate 50 gallons of water per person per day for 100 years or does the
+system have an Arizona Department of Water Resources Certificate of
+assured water supply? 2. Source Adequacy - Does the source approval
+information demonstrate that the source meets drinking water quality
+standards or have applicable drinking water technologies been described? 3. Yes No N/A
+Infrastructure - Do the design criteria meet the requirements of R18-4-502        _____ _____
+through R18-4-509 ? 4. Treatment - Do the design criteria include treatment _____ _____
+technologies approved by ADEQ in 18 A.A.C. 4, Articles 2, 3, and 5? 5. Does _____ _____
+the system have a certified operator of the appropriate grade and type? 6.        _____ _____
+Does the documentation include an elementary business plan containing             _____ _____
+technical and engineering needs projections for a time period covering day 1 _____ _____
+to final build-out or for a five-year time period, which ever is greater? 7. Does _____ _____
+the documentation include the proposed water system design specifications _____ _____
+and proposed uses including commercial and domestic use phases? 8. Does _____ _____
+the documentation include an elementary business plan containing the              _____ _____
+information on the components used in the design and construction of the          _____ _____
+system along with the components life span based upon manufacturer's              _____ _____
+specifications? 9. Does the documentation include an Operations and               _____ _____
+Maintenance Plan that contains standards that are nationally recognized on _____ _____
+all site-specific components, such as American Water Works Association,           _____ _____
+National Sanitation Foundation, or Underwriter's Laboratory? 10. Does the _____ _____
+documentation include an operation and maintenance plan with the                  _____
+manufacturer's specifications on all components used in the construction of
+the water system? 11. Does the documentation include an operations and
+maintenance plan and emergency operation plan to address site-specific
+component replacement or repair protocols based on manufacturer's
+recommendations or engineer's specifications?
+Managerial Capacity 12. Does the documentation include ownership type?            Yes No N/A
+Select all that apply. Sole Proprietor Major Stockholders Board of Directors _____ _____
+Cooperative Government Agency or District Corporation Limited Liability           _____ _____
+Corporation Partnership Other__________________________ 13. Does _____ _____
+the documentation include name, address, and telephone number of owner? _____ _____
+14. Does the documentation include an organizational chart of owners,             _____ _____
+management, and staff with their position or job titles? 15. Does the             _____ _____
+documentation include staff job descriptions and responsibilities? 16. Does _____ _____
+the documentation include a capital improvement plan up to the proposed           _____ _____
+full system build-out or for a five-year projection, whichever is greater? 17.    _____ _____
+Does the documentation identify the grade and type of certified operator that _____ _____
+will be needed to operate the system according to site-specific components? _____ _____
+18. Does the documentation identify the intent to create a CWS or NTNCWS? _____ _____
+19. Does the documentation transfer the ownership of the water system as          _____ _____
+     Ariz. Admin. Code A Elementary Business Plan Checklist
+           (Arizona Administrative Code (2021 Edition))
+
+
+part of the build-out phase of the project? 20. Does the documentation           _____ _____
+identify the policies or mechanisms to ensure that all system-specific           _____ _____
+technical, managerial, and financial information of the water system is          _____ _____
+transferred to a new owner? 21. Does the documentation include the owner's       _____ _____
+signed disclosure statement agreeing to comply with the requirements of          _____ _____
+these Articles and a general disclosure statement agreeing to disclose all       _____ _____
+information relevant to the operation of the water system to any transferee of   _____ _____
+ownership? (See Appendix B).                                                     _____ _____
+                                                                                 _____ _____
+                                                                                 _____ _____
+                                                                                 _____ _____
+                                                                                 _____ _____
+                                                                                 _____ _____
+                                                                                 _____ _____
+                                                                                 _____ _____
+                                                                                 _____
+Financial Capacity 22. Is the system regulated by the Arizona Corporation
+                                                                                Yes No N/A
+Commission (ACC) or ADWR? If Yes go to Question 23. If No go to Question
+                                                                                _____ _____
+25. 23. Has the system received an approval from the ACC on its fee structure,
+                                                                                _____ _____
+or ADWR on its financial capacity? 24. Systems regulated by the Arizona
+                                                                                _____ _____
+Corporation Commission or Department of Water Resources shall provide
+                                                                                _____ _____
+information required in 22 and 23 for the financial capacity determination
+                                                                                _____ _____
+review by ADEQ. 25. For New CWSs and NTNCWS NOT regulated by ACC, is
+                                                                                _____ _____
+all information listed in Appendices C and D included?
+(Appendix A adopted by final rulemaking effective September 23, 1999; the
+A.A.R. citation was not available at the time of publication and will appear in
+Supp. 99-4 (Supp. 99-3). Amended by final rulemaking at 5 A.A.R. 4456,
+effective September 23, 1999 (Supp. 99-4).)
+  Ariz. Admin. Code B Drinking Water Capacity Development
+Statement of Responsibility (Arizona Administrative Code (2021
+                           Edition))
+
+APPENDIX B. Drinking Water Capacity Development Statement
+of Responsibility
+
+Applicant Information: Name: Mailing Address Phone Number: Fax Number: E-mail:
+Statement Information: 1) Name of Water
+System:__________________________________________PWS ID#_____________ 2)
+Ownership Type (Please check all that apply): ____Sole Proprietor ____Major Stockholders
+____Board of Directors ____Cooperative ____Government Agency ____District ____Public Entit
+____Corporation ____Limited Liability Corporation ____Other (please explain)
+_________________________________________________________________ 3) Nam
+of Owner(s): (Check one) See below Attach a separate sheet if more space is needed Owner 1: Owner 2
+Owner 3: 4) Agencies with rules applicable to the Water System: (Please check all that apply)
+____Arizona Department of Environmental Quality ____Arizona Corporation Commission
+____Arizona Department of Water Resources ____Arizona Department of Real Estate ____Arizona
+Department of Commerce ____Arizona Department of Agriculture ____Arizona Department of
+Corrections ____Office of the Fire Marshal ____Arizona Land Department ____Arizona Departmen
+of Revenue ____Arizona Department of Transportation ____Maricopa County Environmental Servic
+____Pima County Department of Environmental Quality ____Environmental Protection Agency
+Region IX ____Other(s) please
+specify_________________________________________________________________
+_ page 1 of 2
+5) Statement of Intent (Select one): ____It IS the intent of the owner or developer of this NEW CWS o
+NTNCWS to transfer ownership of the water system. As part of the ownership transfer, it is understoo
+owner or developer has a responsibility to disclose and transfer ALL information relevant to the const
+operation of the water system to the new owner. ____It is NOT the intent of the owner to transfer ow
+NEW CWS or NTNCWS within one year of the completion of construction of the water system. 6) Date
+to begin operation: Month_________________ Day _____________ Year_______________
+Drinking Water Sources used: (Select all that apply) ____Ground Water ____Purchased Ground Wa
+____Surface Water ____Purchased Surface Water 8) Table of Contents of Systems Elementary Busin
+(Please check one): ____The Table of Contents of the Elementary Business Plan is attached. ____Th
+Contents of the Elementary Business Plan is summarized below.
+Summary______________________________________________________________ 9
+each current owner: Check if additional signature page is attached.____ I agree to comply with the re
+18 A.A.C. 4, Article 6. Print
+Name:____________________________Signature:__________________________Date:_
+Print
+Name:____________________________Signature:__________________________Date:_
+Print
+Name:____________________________Signature:__________________________Date:_
+page 2 of 2
+(Appendix B adopted by final rulemaking effective September 23, 1999; the
+A.A.R. citation was not available at the time of publication and will appear in
+Supp. 99-4 (Supp. 99-3). Amended by final rulemaking at 5 A.A.R. 4456,
+effective September 23, 1999 (Supp. 99-4).)
+    Ariz. Admin. Code C Financial Capacity for New Cwss and
+     Ntncwss (Arizona Administrative Code (2021 Edition))
+
+
+APPENDIX C. Financial Capacity for New CWSs and NTNCWSs
+
+Worksheet 1
+
+Owner:_______________________________________________
+____________________________________
+
+Completed
+by:__________________________________________________
+_____Date:___________________
+
+                                           Year 1    Year 2    Year 3    Year 4    Year 5
+5-Year Financial Projection                Projectio Projectio Projectio Projectio Projectio
+                                           n         n         n         n         n
+Enter Year:
+1. Beginning Cash on Hand
+a. Unmetered Water Revenue
+b. Metered Water Revenue
+c. Other Water Revenue
+d. Total Water Revenues (1a thru 1c)
+e. Connection Fees
+f. Interest and Dividend Income
+g. Other Income
+h. Total Cash Revenues (1d thru 1g)
+i. Additional Revenue Needed
+j. Loans, Grants or other Cash Injection
+(please specify)
+2. Total Cash Balance (1h to 1j)
+3. Total Cash Available (1+2)
+4. Operating Expenses
+a. Salaries and wages
+b. Employee Pensions and Benefits
+c. Utilities
+d. Chemicals
+e. Materials and Supplies
+f. Laboratory
+g. Contractual Services
+h. Insurance
+i. Miscellaneous
+j. Total Operations and Maintenance
+Expenses (4a thru 4i)
+k. Replacement Expenditures
+    Ariz. Admin. Code C Financial Capacity for New Cwss and
+     Ntncwss (Arizona Administrative Code (2021 Edition))
+
+
+l. Total Operations and Maintenance
+expenditures plus Replacement
+expenditures (4j+4k)
+m. Loan Principal/Capital Lease
+Payments
+n. Loan Interest Payments
+o. Capital Purchases (specify):
+5. Total Cash Paid Out (4m thru 4o)
+6. Ending Cash Position (3 - 5)
+7. Number of Customer Accounts
+8. Average Annual User Charge per
+account (1d/7)
+9. Coverage Ratio (1h-4l)/(4m+4n)
+10. Operating Ratio (1d/4l)
+11. End of Year Operating Cash (6 - 12)
+12. End of Year Reserves
+a. Operating Reserves
+b. Debt Service Reserve
+c. Capital Improvement Reserve
+d. Replacement Reserve
+e. Other
+Total Reserves (12a thru 12e)
+
+Arizona Financial Capacity For New
+
+CWSs and NTNCWSs
+
+Definitions for Worksheet 1
+
+5-Year Financial       Year 1         Year 2         Year 3        Year 4         Year 5
+Projection             Projection     Projection     Projection    Projection     Projection
+1. Beginning     For the current year budget, use the actual cash balance. For all other years,
+Cash on Hand     cash on hand should equal item #12 from the previous period.
+                 All cash received or estimated for water supplied to residential, commercial,
+a) Unmetered     industrial and public customers where the customer charge is not based on
+Water Revenue quantity, but is based on other criteria such as diameter of service pipe, room,
+                 or foot of frontage.
+                 All cash received or estimated for water supplied to residential, commercial,
+b) Metered
+                 industrial, and public customers where the charge is based on quantity of
+Water Revenue
+                 water delivered.
+c) Other water Other cash received or estimated from sales of water, sales for irrigation, sales
+revenues         for resale, inter-municipal sales, or ad valorem taxes.
+    Ariz. Admin. Code C Financial Capacity for New Cwss and
+     Ntncwss (Arizona Administrative Code (2021 Edition))
+
+
+d) Total Water
+                 Total 1(a) thru 1(c)
+Revenues
+e) Connection    All cash received or estimated for connection of customer service during the
+Fee              year.
+                 All cash received or estimated on interest income from securities, loans,
+f) Interest and
+                 notes, and similar instruments, whether the securities are carried as
+Dividend Income
+                 investments or included in sinking or reserve accounts.
+                 Other revenues collected or estimated during the period (such as
+                 disconnection or change in service fees, profit on materials billed to
+g) Other income
+                 customers, servicing of customer lines, late payment fees, rents, sales of
+                 assets, or ad valorem taxes (infrastructure portion).
+h) Total Cash
+                 Add 1(d) thru 1(g)
+Revenues
+i) Additional
+Revenues         Additional cash needed to cover cash needs.
+Needed
+j) Loans, Grants
+                 Includes loans or grants from financial institutions, inter-municipal loans,
+or other Cash
+                 state or federal sources.
+Injections
+2. Total Cash
+                 Add items 1(h) thru 1(j)
+Balance
+3. Total Cash
+                 Add items 1 and 2
+Available
+                 Use actual amounts paid when completing the prior year. Estimate the
+4. Operating
+                 amounts for projected years based on prior year amounts, trends, and other
+Expenses
+                 known variables.
+                 Cash expenditures made or estimated for salaries, bonuses, and other
+a) Salaries and
+                 considerations for work related to the operation and maintenance of the
+wages
+                 facility, including administration and compensation for officers and directors.
+b) Employee
+                 Paid vacations, paid sick leave, health insurance, unemployment insurance,
+Pensions and
+                 pension plan, and other similar liabilities.
+Benefits
+c) Utilities     Amounts paid or estimated for all fuel or electrical power.
+d) Chemicals     Amounts paid or estimated for chemicals used in treatment and distribution.
+                 Amounts paid or estimated for materials and supplies used for operation and
+e) Materials and
+                 maintenance of the new public water system other than those under
+Supplies
+                 contractual services.
+f) Laboratory    Amounts paid or estimated for laboratory and associated services.
+g) Contractual Amounts paid or estimated for outside engineering, accounting, legal,
+Services         managerial, and other services.
+                 Amounts paid or estimated for vehicle, liability, worker's compensation, and
+h) Insurance
+                 other insurance associated with the public water system.
+    Ariz. Admin. Code C Financial Capacity for New Cwss and
+     Ntncwss (Arizona Administrative Code (2021 Edition))
+
+
+                   Amounts paid or estimated for all expenses not included elsewhere (such as
+i) Miscellaneous
+                   permit fees, training, and certification fees).
+j) Total
+operation and
+                   Add amounts in lines 4(a) thru 4(i).
+maintenance
+expenditures
+k) Replacement     Amounts paid or estimated for replacement of equipment to maintain system
+expenditures       integrity (capital improvement plan).
+l) Total
+Operations and
+Maintenance
+expenditures       Add amounts in 4(j) and 4(k)
+plus
+Replacement
+expenditures
+m) Loan
+                   Include cash payments made or estimated for principal and interest on all
+Principal,
+                   loans, including vehicle loans and equipment on time payments, and capital
+Capital Lease or
+                   lease payments.
+Loan payment
+n) Loan Interest   Include cash payments made or estimated for interest on all loans, including
+payments           vehicle loans, and equipment on time payments, and capital lease payments.
+                   Amount of cash outlays or estimates for items such as equipment, building, or
+o) Capital
+                   vehicle purchases and leasehold improvements that were not a part of the
+Purchases
+                   initial design of the water system.
+5) Total Cash
+                   Add amounts in 4(m) thru 4(o)
+Paid Out
+6) Total Cash      Take Amount in 1 and subtract Amount in 5. If this amount is positive, there
+Available Minus    is operating cash left over after all calculated expenditure obligations have
+Expenditures       been met. If the number is negative, there are more expenses than there are
+Calculation        funds available to pay for the expenses to operate the water system.
+7) Number of
+Customer           Use most recent system data or expected increases.
+Accounts
+8) Average User
+Charge per         Take amount listed in 1(d) and divide it by amount listed in 7.
+Customer
+                   Take amount in 1(h) and subtract the amount in 4(l). Then divide that
+                   amount with the sum of 4(m) + 4(n). The equation looks like this: [1(h) - 4(l)]
+9) Coverage
+                   ) [4(m) + 4(n)] and measures the sufficiency of net operating profit to cover
+Ratio
+                   the debt service requirements of the system. A bond covenant might require
+                   the debt service to meet or exceed certain limits.
+10) Operating      Take amount in 1(d) and divide it by the amount in 4(l). The equation looks
+Ratio              like this: 1(d)) 4(l). This figure measures whether operating revenues are
+     Ariz. Admin. Code C Financial Capacity for New Cwss and
+      Ntncwss (Arizona Administrative Code (2021 Edition))
+
+
+                  sufficient to cover operation, maintenance, replacement expenses. An
+                  operating ratio of 1:0 is the minimum for a self-supporting facility. If there
+                  are debt service requirements, the operating ratio would have to be higher.
+11) End of Year
+                  All non-reserved cash. Add amounts from 6 thru 12.
+Operating Cash
+12) End of Year Do not include depreciation as a reserve unless there is actually a designated
+Reserves          depreciation reserve containing cash set aside for future expansion.
+a) Operating
+                  Funds set aside to meet cash flow, operating, and seasonal fluctuations.
+Cash Reserve
+b) Debt Service
+                  Funds specifically set aside to retire debt as it is scheduled.
+Reserve
+c) Capital
+                  Funds specifically set aside to meet long-term objectives for a major facility
+Improvement
+                  expansion, improvement, or the construction of a new facility.
+Reserve
+d) Replacement Funds specifically set aside for the future replacement of equipment needed
+Reserves          to maintain the integrity of the facility over the useful life of the equipment.
+e) Total End of
+                  Add amounts 12 (a) thru 12 (d).
+Year Reserves
+(Appendix C adopted by final rulemaking effective September 23, 1999; the
+A.A.R. citation was not available at the time of publication and will appear in
+Supp. 99-4 (Supp. 99-3). Amended by final rulemaking at 5 A.A.R. 4456,
+effective September 23, 1999 (Supp. 99-4). )
+   Ariz. Admin. Code D Water System Financial Viability Tests
+          (Arizona Administrative Code (2021 Edition))
+
+
+APPENDIX D. Water System Financial Viability Tests
+
+Test 1: Will the proposed water system collect sufficient revenues to meet all
+of its projected expenses?
+
+Measurements:
+
+a. Total Revenues - Total Expenses = Net Income > 0
+
+b. Total Revenues - One-Time Revenues - Interest Income - Other Income =
+Operating Revenues
+
+c. Total Expenses - One-Time Expenditures - Debt Service - Capital Outlays
+= Operating Expenditures
+
+d. Operating Revenues - Operating Expenses = Net Revenues > 0
+
+e. Operating Ratio = Operating Expenses = 1 Operating Revenues
+
+Test 2: Will the proposed water system generate reserves?
+
+The following measurements shall be > 0 at the time submitted:
+
+a. Operating Cash Reserve = $___________
+
+b. Replacement Reserve = $____________
+
+c. Working Capital = Current Assets - Current Liabilities
+
+Test 3: Are the proposed rates reasonable compared to the median
+household income of the area to be served?
+
+The following measurement shall be:
+
+Average Annual Rates < Median Household Income* x 2.5%.
+
+*The sources of median household income data include the most recent
+United States Census Bureau (USCB) data collected by the Department or
+generated by an impartial third party experienced in collecting income data
+and supplied to the Department by the applicant seeking viability
+determinations. Acceptable sources of income data, other than USCB data
+include feasibility studies, engineering reports, market studies, income
+surveys, or another source or collection methodology approved by the
+Department.
+
+(Appendix D adopted by final rulemaking effective September 23, 1999; the
+A.A.R. citation was not available at the time of publication and will appear in
+   Ariz. Admin. Code D Water System Financial Viability Tests
+          (Arizona Administrative Code (2021 Edition))
+
+
+Supp. 99-4 (Supp. 99-3). Amended by final rulemaking at 5 A.A.R. 4456,
+effective September 23, 1999; Test 1(e) amended to correct a manifest
+clerical error (Supp. 99-4). )
+ Ariz. Admin. Code R18-4-701 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-701. Repealed
+
+(New Section adopted by final rulemaking at 6 A.A.R. 2019, effective May
+10, 2000 (Supp. 00-2). Section R18-4-701 repealed by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-702 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-702. Repealed
+
+(New Section adopted by final rulemaking at 6 A.A.R. 2019, effective May
+10, 2000 (Supp. 00-2). Section R18-4-702 repealed by final rulemaking at
+14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-703 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-703. Repealed
+
+(New Section adopted by final rulemaking at 6 A.A.R. 2019, effective May
+10, 2000 (Supp. 00-2). Amended by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1). Amended by final rulemaking at 8
+A.A.R. 3046, effective May 1, 2002 (Supp. 02-3). Section R18-4-703
+repealed by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+ Ariz. Admin. Code R18-4-704 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-704. Repealed
+
+(New Section adopted by final rulemaking at 6 A.A.R. 2019, effective May
+10, 2000 (Supp. 00-2). Amended by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1). Amended by final rulemaking at 8
+A.A.R. 3046, effective May 1, 2002 (Supp. 02-3). Clarifying words "of Article
+1" added to subsection (A)(1) (Supp. 04-1). Section R18-4-703 and Table 1
+repealed by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+ Ariz. Admin. Code R18-4-705 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-705. Repealed
+
+(New Section adopted by final rulemaking at 6 A.A.R. 2019, effective May
+10, 2000 (Supp. 00-2). Amended by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1). Section R18-4-705 repealed by
+final rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-706 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-706. Repealed
+
+(New Section adopted by final rulemaking at 6 A.A.R. 2019, effective May
+10, 2000 (Supp. 00-2). Amended by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1). Section R18-4-706 repealed by
+final rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-707 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-707. Repealed
+
+(New Section adopted by final rulemaking at 6 A.A.R. 2019, effective May
+10, 2000 (Supp. 00-2). Amended by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1). Section R18-4-707 repealed by
+final rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-708 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-708. Repealed
+
+(New Section adopted by final rulemaking at 6 A.A.R. 2019, effective May
+10, 2000 (Supp. 00-2). Amended by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1). Section R18-4-708 repealed by
+final rulemaking at 14 A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+ Ariz. Admin. Code R18-4-709 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-709. Repealed
+
+(New Section adopted by final rulemaking at 6 A.A.R. 2019, effective May
+10, 2000 (Supp. 00-2). Amended by final rulemaking at 8 A.A.R. 973,
+effective February 19, 2002 (Supp. 02-1). Amended by final rulemaking at 8
+A.A.R. 3046, effective May 1, 2002 (Supp. 02-3). Section R18-4-709
+repealed by final rulemaking at 14 A.A.R. 2978, effective August 30, 2008
+(Supp. 08-3).)
+ Ariz. Admin. Code R18-4-710 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-710. Repealed
+
+(New Section adopted by final rulemaking at 6 A.A.R. 2019, effective May
+10, 2000 (Supp. 00-2). Section R18-4-710 repealed by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+   Ariz. Admin. Code A Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX A. Repealed
+
+(New Appendix made by final rulemaking at 8 A.A.R. 973, effective February
+19, 2002 (Supp. 02-1). Appendix A repealed by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3).)
+   Ariz. Admin. Code B Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX B. Repealed
+
+(New Appendix made by final rulemaking at 8 A.A.R. 973, effective February
+19, 2002 (Supp. 02-1). Appendix B repealed by final rulemaking at 14 A.A.R.
+2978, effective August 30, 2008 (Supp. 08-3). )
+   Ariz. Admin. Code C Repealed (Arizona Administrative Code
+                        (2021 Edition))
+
+
+APPENDIX C. Repealed
+
+(New Appendix C renumbered from Appendix B by final rulemaking at 8
+A.A.R. 973, effective February 19, 2002 (Supp. 02-1). Appendix C repealed
+by final rulemaking at 8 A.A.R. 3046, effective May 1, 2002 (Supp. 02-3). )
+ Ariz. Admin. Code R18-4-801 Repealed (Arizona Administrative
+                     Code (2021 Edition))
+
+
+§ R18-4-801. Repealed
+
+(New Section made by final rulemaking at 8 A.A.R. 262, effective December
+27, 2001 (Supp. 01-4). Section R18-4-801 repealed by final rulemaking at 14
+A.A.R. 2978, effective August 30, 2008 (Supp. 08-3).)
+Ariz. Admin. Code R18-4-802 Technical Assistance Plan (Arizona
+              Administrative Code (2021 Edition))
+
+
+§ R18-4-802. Technical Assistance Plan
+
+The Department shall include a technical assistance plan in the capacity
+development report it publishes annually. The technical assistance plan shall
+include a description of the types of technical assistance the Department
+expects to provide, the sources and uses of technical assistance, and a
+master priority list.
+
+(New Section made by final rulemaking at 8 A.A.R. 262, effective December
+27, 2001 (Supp. 01-4).)
+    Ariz. Admin. Code R18-4-803 Master Priority List (Arizona
+              Administrative Code (2021 Edition))
+
+
+§ R18-4-803. Master Priority List
+
+A. Each year the Department shall develop a master priority list that ranks
+public water systems according to their need for technical assistance.
+
+B. The Department shall rank public water systems on the master priority
+list based on consideration of the following criteria:
+
+1. Size of population served,
+
+2. Type of public water system,
+
+3. Type of ownership,
+
+4. Water source (surface water or ground water),
+
+5. Participation in the monitoring assistance program,
+
+6. History of major monitoring or reporting deficiencies,
+
+7. History of acute or non-acute MCL violations,
+
+8. History of operation or maintenance violations,
+
+9. Lack of a certified operator,
+
+10. Prior assistance from the Department or the Water Infrastructure
+Finance Authority within the last five years, and
+
+11. Any or other measurable objective criteria related to the technical,
+managerial, or financial capacity of a public water system.
+
+C. If all other criteria are equal, the Department shall assign priority to
+public water systems with the most operation or maintenance violations.
+
+D. The Department shall publish the master priority list annually in the
+Arizona Administrative Register and hold an oral proceeding to obtain
+public comment on the master priority list.
+
+(New Section made by final rulemaking at 8 A.A.R. 262, effective December
+27, 2001 (Supp. 01-4).)
+    Ariz. Admin. Code R18-4-804 Technical Assistance Awards
+           (Arizona Administrative Code (2021 Edition))
+
+
+§ R18-4-804. Technical Assistance Awards
+
+A. The Department shall award technical assistance to the public water
+systems with the highest ranking on the master priority list, as funding
+permits.
+
+B. The Department may provide technical assistance directly, or the
+Department may employ a consultant to provide the assistance.
+
+C. If a public water system refuses technical assistance offered by the
+Department, or the Department determines that a public water system is not
+able to proceed with technical assistance within the next fiscal year, the
+Department shall bypass the public water system on the master priority list.
+The Department shall replace a bypassed public water system with the
+public water system next in line to receive technical assistance in accordance
+with the priority criteria in R18-4-803(B).
+
+(New Section made by final rulemaking at 8 A.A.R. 262, effective December
+27, 2001 (Supp. 01-4). )
+

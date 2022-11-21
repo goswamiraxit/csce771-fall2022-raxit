@@ -1,0 +1,197 @@
+Table 3. Pollutant Change
+Water
+Body
+ID
+
+County
+
+Location
+
+Storm Creek
+
+602811
+
+Claiborne
+
+Near Carlisle from headwaters to mouth at
+Bayou Pierre
+
+Chinchanoma
+Creek
+
+812811
+
+Oktibbeha
+
+Shaw Creek
+
+812313
+
+Oktibbeha
+
+From headwaters to mouth at Noxubee
+River
+From headwaters to mouth at Noxubee
+River
+
+Tombigbee
+River
+
+Spring Creek
+
+809312
+
+Clay
+
+From headwaters to mouth at Tenn-Tom
+Waterway
+
+Tombigbee
+River
+
+Unnamed Tributary
+to Catalpa Creek
+
+809012
+
+Lowndes
+
+Near Stephens from headwaters to mouth
+at Catalpa Creek
+
+Sediment
+Total
+Nitrogen,
+Total
+Phosphorus
+and Sediment
+
+Tombigbee
+River
+
+Unnamed Tributary
+to Gilmer Creek
+
+810412
+
+Lowndes
+
+Near Artesia from headwaters to mouth at
+Gilmer Creek
+
+Sediment
+
+Tombigbee
+River
+
+Yellow Creek
+
+813211
+
+Winston,
+Noxubee
+
+Yazoo River
+
+Clear Creek
+
+904611
+
+Lafayette
+
+Yazoo River
+
+Hudson Creek
+
+904612
+
+Lafayette
+
+Yazoo River
+
+Jasper Creek
+
+900511
+
+Union
+
+Yazoo River
+
+Medlock Branch
+North Tippah
+Creek
+North Tippah
+Creek
+South Tippah
+Creek
+
+902514
+
+Tippah
+
+902512
+
+Tippah
+
+902515
+
+Tippah
+
+Near Betheden from headwaters to the
+Noxubee River
+From headwaters to confluence of Hudson
+Creek
+Near Sardis from headwaters to mouth at
+Clear Creek
+Near New Albany from headwaters to
+mouth at Little Tallahatchie River
+From headwaters to mouth at North
+Tippah Creek
+Near Ripley from confluence with
+Medlock Branch to mouth at Tippah River
+Near Ripley from headwaters to mouth at
+confluence with Medlock Branch
+
+902513
+
+Tippah
+
+From headwaters to mouth at Tippah River
+
+Basin
+
+South
+Independent
+Tombigbee
+River
+Tombigbee
+River
+
+Yazoo River
+Yazoo River
+Yazoo River
+
+Water Body Name
+
+Pollutant(s)
+
+Sediment
+Sediment
+Sediment
+
+Sediment
+Sediment
+Sediment
+Sediment
+Sediment
+Sediment
+Sediment
+Sediment
+
+B. Changes to the List this Cycle (TMDL Complete, Delistings)
+The waters in Table 4. Below have been removed from the current list because they have been
+included in a TMDL, have been found to support the designated use, or as a correction.
+
+12
+
+

@@ -1,0 +1,40 @@
+              Water Body       Water                    Impaired
+    Basin                                  County                          Pollutant                        Location
+                Name          Body Id                     Use
+
+Tombigbee   Talking Warrior                            Aquatic Life    Biological
+River       Creek             812711    Oktibbeha      Use Support     Impairment      From headwaters to MWS 8128 boundary
+
+Tombigbee                                              Aquatic Life    Biological      From headwaters to confluence with Hang Kettle
+River       Town Creek        804111    Monroe, Clay   Use Support     Impairment      Creek
+
+Tombigbee                                              Aquatic Life    Biological      From confluence with Hang Kettle Creek to mouth at
+River       Town Creek        804211    Clay           Use Support     Impairment      Tenn-Tom Waterway
+
+Tombigbee                                              Aquatic Life    Biological
+River       Town Creek        808912    Clay           Use Support     Impairment      At West Point from headwaters to Tibbee Creek
+
+Tombigbee                                              Aquatic Life    Biological
+River       Tulip Creek       804912    Lee            Use Support     Impairment      At Tupelo from headwaters to mouth at Town Creek
+            Unnamed
+Tombigbee   Tributary To                               Aquatic Life    Sediment,       Near Stephens from headwaters to mouth at Catawpa
+River       Catalpa Creek     809012    Lowndes        Use Support     TN, TP          Creek
+            Unnamed
+Tombigbee   Tributary To                               Aquatic Life                    Near Artesia from headwaters to mouth at gilmer
+River       Gilmer Creek      810412    Lowndes        Use Support     Sediment        Creek
+
+Tombigbee                               Lowndes,       Aquatic Life    Biological
+River       Wet Water Creek   813812    Noxubee        Use Support     Impairment      Near Brooksville from headwaters to Noxubee River
+
+Tombigbee                                              Aquatic Life    Biological
+River       Wolf Creek        803412    Monroe         Use Support     Impairment      From headwaters to mouth at Mattubby Creek
+
+Tombigbee                                              Aquatic Life    Biological
+River       Wolf Creek        818811    Prentiss       Use Support     Impairment      From headwaters to mouth at Twentymile Creek
+
+Tombigbee                                              Aquatic Life    Biological
+River       Woodruff Creek    808212    Clay           Use Support     Impairment      From headwaters to mouth at Underwood Creek
+
+
+                                                                      43
+

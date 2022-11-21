@@ -1,0 +1,888 @@
+Strengthening
+Operations &
+Maintenance
+through
+Water Safety
+Planning
+A Collection of Case Studies
+Strengthening
+Operations &
+Maintenance
+through
+Water Safety
+Planning
+A Collection of Case Studies
+WHO/CED/PHE/WSH/18.69
+
+
+© World Health Organization 2018                                             International Water Association 2018
+
+Some rights reserved. This work is available under the Creative              The International Water Association (IWA) is a global knowledge hub
+Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence                 for water professionals and anyone concerned about the future of
+(CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-               water. It has a seventy-year heritage connecting water professionals
+nc-sa/3.0/igo).                                                              worldwide to find solutions to the world’s water challenges as part
+                                                                             of a broader sustainability agenda. As a non-profit organisation with
+Under the terms of this licence, you may copy, redistribute and
+                                                                             members in more than 130 countries, the IWA connects scientists to
+adapt the work for non-commercial purposes, provided the work
+                                                                             practitioners and communities so that pioneering research delivers
+is appropriately cited, as indicated below. In any use of this work,
+                                                                             sustainable solutions. It further fosters technological innovation and
+there should be no suggestion that WHO endorses any specific
+                                                                             drives best practice through international frameworks and standards.
+organization, products or services. The use of the WHO logo is
+not permitted. If you adapt the work, then you must license your             The International Water Association (IWA) is a nongovernmental
+work under the same or equivalent Creative Commons licence. If               organisation (NGO) in Official Relations with WHO. WHO’s
+you create a translation of this work, you should add the following          network of NGOs in Official Relations contributes to promote the
+disclaimer along with the suggested citation: “This translation was          policies, strategies and programmes derived from the decisions
+not created by the World Health Organization (WHO). WHO is                   of the Organisation’s governing bodies. IWA’s role as an NGO in
+not responsible for the content or accuracy of this translation. The         Official Relations with WHO focuses on supporting countries to
+original English edition shall be the binding and authentic edition”.        implement intersectoral policies and interventions for protecting
+                                                                             health from immediate and longer term environmental threats. A long
+Any mediation relating to disputes arising under the licence shall
+                                                                             history of cooperation exits, built on previous joint activities between
+be conducted in accordance with the mediation rules of the World
+                                                                             WHO and IWA’s predecessors, the International Water Supply
+Intellectual Property Organization.
+                                                                             Association and the International Water Quality Association. A key
+Suggested citation. Strengthening operations and maintenance                 area of cooperation is drinking-water safety.
+through water safety planning: A collection of case studies. Geneva:
+                                                                             IWA’s Bonn Charter for Safe Drinking Water promotes the
+World Health Organization; 2018. Licence: CC BY-NC-SA 3.0 IGO.
+                                                                             application of water safety plans (WSPs) as expressed in the WHO
+Cataloguing-in-Publication (CIP) data. CIP data are available at             Guidelines for Drinking-water Quality. (Revisions to the WHO
+http://apps.who.int/iris.                                                    Guidelines will be taken as revisions to the Bonn Charter in as
+                                                                             much as the Bonn Charter refers to the Guidelines.) IWA promotes
+Sales, rights and licensing. To purchase WHO publications, see
+                                                                             WSPs with WHO through collaboration agreements, and through
+http://apps.who.int/bookorders. To submit requests for commercial
+                                                                             its membership of water utilities, research institutes, industry, and
+use and queries on rights and licensing, see http://www.who.int/
+                                                                             individual professionals. IWA is a registered charity in England
+about/licensing.
+                                                                             (Company registered in England No. 3597005 Registered Charity
+Third-party materials. If you wish to reuse material from this work          (England) No. 1076690).
+that is attributed to a third party, such as tables, figures or images, it
+is your responsibility to determine whether permission is needed for
+that reuse and to obtain permission from the copyright holder. The
+risk of claims resulting from infringement of any third-party-owned
+component in the work rests solely with the user.
+
+General disclaimers. The designations employed and the
+presentation of the material in this publication do not imply the
+expression of any opinion whatsoever on the part of WHO or IWA
+concerning the legal status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or
+boundaries. Dotted and dashed lines on maps represent approximate
+border lines for which there may not yet be full agreement.
+
+The mention of specific companies or of certain manufacturers’
+products does not imply that they are endorsed or recommended by
+WHO or IWA in preference to others of a similar nature that are not
+mentioned. Errors and omissions excepted, the names of proprietary
+products are distinguished by initial capital letters.
+
+All reasonable precautions have been taken by WHO or IWA to
+verify the information contained in this publication. However, the
+published material is being distributed without warranty of any kind,
+either expressed or implied. The responsibility for the interpretation
+and use of the material lies with the reader. In no event shall WHO
+or IWA be liable for damages arising from its use.
+
+
+
+Printed in the Netherlands.
+Table of Contents
+ACKNOWLEDGEMENTS                                                                             iv
+
+
+INTRODUCTION                                                                                 1
+
+
+
+Case Study 1 – AUSTRALIA                                                                     4
+   Fewer disinfection plant failures and associated incident management costs avoided
+
+
+
+Case Study 2 – BHUTAN                                                                        5
+   Improved operator capacity, more effective treatment and better microbial water quality
+
+
+
+Case Study 3 – INDIA                                                                         6
+	Reduced raw and treated water losses, less treatment plant down time and better
+   water quality
+
+
+
+Case Study 4 – MALAYSIA                                                                      7
+	Fewer fluoride exceedances and lower operating costs through reduced chemical
+   consumption
+
+
+
+Case Study 5 – PHILIPPINES (Metropolitan Cebu)                                               8
+   More effective and efficient treatment, better water quality and reduced water losses
+
+
+
+Case Study 6 – PHILIPPINES (Manila Water)                                                    9
+   Operational efficiencies and significant reductions in annual O&M costs
+
+
+
+Case Study 7 – PORTUGAL                                                                      10
+	Improved equipment calibration and maintenance, greater monitoring efficiencies and
+   considerable cost savings
+
+
+
+CONCLUSION: WSPS FOR STRONGER O&M                                                            11
+
+
+REFERENCES                                                                                   12
+
+
+ADDITIONAL READING                                                                           12
+
+
+
+
+                                                                                                  iii
+                                                                            Acknowledgements
+                                                                            The World Health Organization (WHO) and the International
+                                                                            Water Association (IWA) wish to express their appreciation to
+                                                                            all whose efforts made this publication possible. In particular,
+                                                                            WHO and IWA gratefully acknowledge the contributions of the
+                                                                            following experts.
+                                                                            Pritha Hariram (formerly IWA, The Netherlands) and Angella Rinehold
+                                                                            (WHO, Switzerland) coordinated the development of this document.
+                                                                            Strategic direction was provided by Jennifer De France and Bruce
+                                                                            Gordon (both WHO, Switzerland), as well as Tom Williams and Kirsten
+                                                                            de Vette (both IWA, The Netherlands). Marie R. Sagen (formerly IWA,
+                                                                            The Netherlands) provided technical editing support.
+
+                                                                            LEAD AUTHOR
+
+                                                                            Asoka Jayaratne, Yarra Valley Water, Australia
+
+                                                                            CASE STUDY CONTRIBUTORS
+
+                                                                            Sonabel S. Anarna, Department of Health, Philippines
+                                                                            Engku Azman Bin Tuan Mat, Ministry of Health, Malaysia
+                                                                            Bariah Binti Bakri, Ministry of Health, Malaysia
+                                                                            Bernaliza B. Espina, Manila Water, Philippines
+                                                                            Shashikant Hastak, Nagpur Municipal Corporation, India
+                                                                            Rebecca L. Husayan, Metro Cebu Water District, Philippines
+                                                                            Pawan Labhasetwar, National Environmental Engineering Research
+                                                                            Institute, India
+                                                                            Siti Norfadhilah Binti Zainal Abidin, Ministry of Health, Malaysia
+                                                                            Angella Rinehold, WHO, Switzerland
+                                                                            Sanjoy Roy, Orange City Water Private Limited, India
+                                                                            Rui Sancho, Águas do Algarve, Portugal
+                                                                            Praveen Sharan, Orange City Water Private Limited, India
+                                                                            Melita Stevens, Melbourne Water, Australia
+                                                                            Water Safety Plan Team in Wangdue, Bhutan
+                                                                            Humairah Yeoh Yee Voon, ABASS Consortium, Malaysia
+                                                                            Lyn Joceffin D. Zamora, Manila Water, Philippines
+
+
+                                                                            WHO and IWA also gratefully acknowledge the financial support
+                                                                            provided by the Ministry of Health, Labour and Welfare, Japan and the
+                                                                            Department of Foreign Affairs and Trade, Australia.
+
+
+
+
+iv   Strengthening Operations & Maintenance through Water Safety Planning
+    Introduction
+
+
+Strong operations and maintenance (O&M)        tariffs were insufficient1 to recover O&M
+programmes underpin the effectiveness and      costs (UN-Water & WHO, 2017).
+sustainability of any drinking-water supply
+system. Failure to adequately address O&M      Increased attention to and investment in
+can bring serious consequences, including      O&M are needed to ensure that water safety
+operational and/or infrastructural failures,   and service delivery targets are consistently
+contamination events and economic losses.      met and that public health is protected.
+Despite the critical role of O&M in the        With the ambition to achieve universal and
+provision of safe and adequate drinking-       equitable access to safe drinking-water
+water supplies, basic O&M functions            by 2030, as articulated in the Sustainable
+are often under-resourced – marked by          Development Goals, the role of effective
+undertrained staff and/or inadequate           O&M is critical to sustain improvements
+funding. In a recent global survey, half of    made in the Millennium Development Goal
+the 75 responding countries indicated that     era and ensure progress in the longer term.
+
+
+
+
+1
+    Defined as less than 80% of O&M costs
+
+
+
+
+                                                                            A Collection of Case Studies   1
+    Water safety plans (WSPs) contribute to improved O&M
+    by supporting the systematic assessment, prioritization
+    and management of risks from catchment to consumer,                    Defining O&M
+    including those related to inadequate O&M. Introduced in
+                                                                           Operations refers to the day-to-day “running” of a water
+    2004 in the third edition of the Guidelines for drinking-water
+                                                                           supply system under normal or emergency conditions.
+    quality (WHO, 2004) and the Bonn charter for safe drinking
+    water (IWA, 2004), the WSP approach is considered the                  Maintenance involves (a) scheduled or planned activities
+    most effective means of consistently ensuring the safety of            under normal operating conditions to maintain operational
+    a drinking-water supply. WSPs have been implemented in                 systems, equipment and assets essential to supplying
+    at least 93 countries, with 69 countries reporting to have             safe water to consumers (including the catchment, raw
+    policies or regulations in place or under development that             water storage, abstraction, treatment, distribution and
+    promote or require WSPs (WHO & IWA, 2017).                             customer interface); and (b) unscheduled activities during
+                                                                           unforeseen or emergency situations to bring the water
+    The Water safety plan manual (WHO & IWA, 2009) describes
+                                                                           supply system back to normal operating conditions. Most
+    the core elements of a WSP, many of which highlight the
+                                                                           maintenance activities require engagement of operational
+    critical role of effective O&M. (See text box for an overview of
+                                                                           personnel.
+    the linkage between WSPs and O&M.) WSPs are therefore
+    a valuable tool to strengthen O&M programmes. Indeed,
+    WSP implementation has resulted in a wide range of O&M
+    improvements across systems of various types, sizes and
+    resource levels globally.
+    This document presents seven case studies2 from six countries
+                                                                           The relationship between
+    around the world that highlight O&M benefits resulting from
+    WSP implementation. Figure 1 summarizes the wide range of
+                                                                           WSPs and O&M
+    benefits realised, which include catchments, treatment plants          O&M are central to successful implementation of
+    and distribution systems. These case studies contribute to a           WSPs. Identifying O&M-related hazards, determining
+    growing body of information on the outcomes of water safety            and validating associated control measures, monitoring
+    planning and may be useful in building support for WSPs                those control measures, preparing standard operating
+    among water sector senior managers, operational staff and              procedures (SOPs) for O&M activities and ensuring
+    other stakeholders. In addition, the experiences offer insights        sufficient training for O&M staff are essential components
+    into the particular WSP focus areas that are most likely to            of a WSP. The full benefits of a WSP cannot be realised
+    yield O&M benefits.                                                    without these key O&M processes.
+                                                                           WSPs drive O&M improvements. The risk assessment
+                                                                           process that underpins WSPs is a mechanism to identify
+                                                                           any gaps in a water supply system’s O&M practices and
+                                                                           the control measures required to manage risk to water
+                                                                           quality and service delivery. This gap analysis becomes the
+                                                                           platform to drive O&M process improvements.
+
+
+
+
+    2
+        The case studies in this document were prepared in 2016.
+
+
+
+2   Strengthening Operations & Maintenance through Water Safety Planning
+  O&M benefits highlighted in the case studies include the following:
+
+                                                              incident management
+                   increased operator
+                   awareness and training
+                                                    !!!       costs avoided
+
+
+
+
+                   enhanced treatment
+                                                              better microbiological
+                   plant performance
+                                                              quality of treated water
+
+
+
+
+                   reduced treatment
+                   chemical consumption
+                                                              reduced non-revenue water
+
+
+
+
+                   operational cost savings
+
+
+
+                                                              reduced raw water losses and
+                                                              improved raw water quality
+
+                   less treatment plant down time
+
+
+
+
+                                                              optimized water quality
+                   fewer critical limit                       monitoring equipment
+                   exceedances for chlorination,              and practices
+                   filtration and fluoridation
+
+
+
+
+                                                              better control of hazardous
+                   fewer disinfection
+                                                              events from catchment
+                   plant failures
+                                                              to consumer
+
+
+
+
+Figure 1: O&M benefits
+
+
+
+                                                                                 A Collection of Case Studies   3
+        Case Study 1 – AUSTRALIA
+        Fewer disinfection plant failures and associated incident management costs avoided
+
+        Yarra Valley Water is the largest retail water company in                                        enactment of the Victorian Safe Drinking Water Act.
+        Melbourne, Australia. Owned by the State Government of
+                                                                                                         The supply of undisinfected water by the wholesaler caused
+        Victoria, it provides water, sewerage and recycled water
+                                                                                                         by a disinfection plant failure was identified as one of the
+        services to over 2 million people in the northern and eastern
+                                                                                                         significant risks, or critical control points (CCPs), in both
+        suburbs of Melbourne. Yarra Valley Water and two other
+                                                                                                         the wholesaler’s and in the retailer’s WSPs. Significant
+        retail water companies receive their treated water supply
+                                                                                                         operational      improvements      were      therefore   made,
+        from the wholesaler, Melbourne Water. Melbourne Water
+                                                                                                         including continuous monitoring of key indicators
+        is responsible for catchment management, storage and
+                                                                                                         of water treatment (for example chlorine, turbidity,
+        treatment of the water supply before it enters Yarra Valley
+                                                                                                         filter head loss, fluoride); continuous review of CCP
+        Water’s water supply pipe network. Approximately 80% of
+                                                                                                         performance, including treatment plant failures; operator
+        the water supplied by Melbourne Water is sourced from
+                                                                                                         training; internal, external and regulatory audits; and
+        a fully protected catchment for which disinfection is the
+                                                                                                         well-established programmes of water treatment plant
+        only treatment required to produce safe water that meets
+                                                                                                         maintenance. As a result, a significant reduction in critical
+        stringent regulatory requirements. The remaining 20% of
+                                                                                                         limit breaches has been achieved since 1999, including
+        the water supplied by Melbourne Water is treated using
+                                                                                                         fewer disinfection plant failures (Figure 2). As disinfection
+        conventional treatment.
+                                                                                                         plant failure triggers a declaration of an incident, operational
+        Yarra Valley Water and Melbourne Water were pioneers in                                          expenditure on the order of 10 000-50 000 Australian dollars
+        applying risk assessment and risk management concepts                                            per incident has been avoided. Typical examples of costs
+        to water supply. The wholesale and retail water companies                                        avoided include mobilization of an incident management
+        introduced the Hazard Analysis and Critical Control Point                                        team, field work such as water mains cleaning (flushing, air
+        (HACCP) framework in 1999 and maintained accreditation                                           scouring, swabbing), spot chlorination of water storages, use
+        to the international standard of HACCP 9000. The HACCP                                           of bottled water, use of water tankers as an alternative water
+        Plan has since been integrated into the broader Drinking                                         supply, additional water quality sampling and laboratory
+        Water Risk Management Plan (equivalent to a WSP), which                                          testing, and customer and media communications.
+        is a regulatory requirement introduced in 2003 with the
+
+
+
+
+                                           20
+
+
+                                                      19
+
+
+                                           15
+
+
+
+
+                                                                                       12
+                                                             11
+    Number of Critical Limit Exceedances
+
+
+
+
+                                           10
+
+
+
+                                                                                                                    8
+
+                                            5                                                                6
+
+                                                                    4            4
+                                                                           3                   3     3                            3
+                                                                                                                           2                                  2
+                                            0                                                                                            0      1      1
+                                                     2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+                                                                                                                                                             Year
+                                                Figure 2: Reduction in critical limit exceedances at water treatment plants
+
+
+
+
+4      Strengthening Operations & Maintenance through Water Safety Planning
+Case Study 2 – BHUTAN                                  3
+
+
+Improved operator capacity, more effective treatment and better microbial water quality
+
+The water supply system in Wangdue, Bhutan, serves                          guidance on developing SOPs for key operational activities
+approximately 6 000 water users through 330 metered pipe                    such as chlorine batching and dosing, as well as water
+connections. Prior to delivery, the stream source undergoes                 quality sampling and testing. Treatment plant operators now
+sedimentation followed by pressure filtration and chlorination.             have the equipment and training to effectively chlorinate and
+                                                                            to conduct regular turbidity, pH and chlorine residual tests
+Before the WSP, the water supply system struggled with
+                                                                            across the water supply system.
+several infrastructural, operational and capacity issues.
+Challenges included insufficient treatment works, lack of                   Improvements to operations and infrastructure directly
+water quality monitoring equipment, undertrained system                     related to WSP implementation have significantly affected
+operators, limited staff numbers and many competing                         the quality of drinking-water delivered to consumers in
+responsibilities on staff time.                                             Wangdue. A review of water quality data from 2012 and
+                                                                            2013 revealed that none of the samples in the two years
+WSP implementation in Wangdue catalysed water supplier
+                                                                            complied with Bhutan’s faecal coliform target of 0 colony-
+action to implement low-cost solutions to address risks,
+                                                                            forming units (CFU) per 100 mL, i.e. 0% compliance (Table
+such as repairing fencing around the treatment plant. It also
+                                                                            1). Since WSP implementation began in earnest in May 2014,
+helped to leverage donor support for larger capital works,
+                                                                            water quality has improved markedly. Forty-one per cent of
+including installation of additional filters and an improved
+                                                                            all samples collected in 2014 (after May) complied with the
+chlorination system. The WSP also led to considerable
+                                                                            target for faecal coliforms, and 66% of samples collected in
+improvements in operator training and system operations. It
+                                                                            2015 (through July4) complied. It is anticipated that further
+prioritised the procurement of water quality testing equipment
+                                                                            water quality improvements will be achieved as the water
+and training on developing and implementing an ongoing
+                                                                            supplier continues to implement the WSP, including securing
+operational monitoring programme using the new equipment.
+                                                                            financial support for additional infrastructure improvement
+The comprehensive training programme also covered
+                                                                            needs (WHO & IWA, 2017).
+chlorination principles and practices, as well as practical
+
+
+
+
+                             Table 1: Changes in faecal coliform compliance following WSP implementation
+
+                                                                                  % of samples complying
+                                                                                  with 0 CFU/100mL limit
+                                 Year                           Number of samples     for faecal coliforms
+                                 2012                                             36                             0
+
+                                 2013                                              58                            0
+
+                                 2014 (after May)                                  37                           41
+
+                                 2015 (through July)                               67                           66
+
+
+
+
+3
+    This case study is an augmented version of a similar case study presented in the Global status report on water safety plans (WHO & IWA 2017).
+4
+    Only data through July 2015 were available for this analysis.
+
+
+
+
+                                                                                                                           A Collection of Case Studies   5
+                        Case Study 3 – INDIA
+                        Reduced raw and treated water losses, less treatment plant plant down time and better
+                        water quality
+
+
+                        A public–private partnership between Orange City Water                                             units (NTU),                 improving                              treatment    plant                 operational
+                        Private Limited as the private operator and Nagpur Municipal                                       performance.
+                        Corporation as the owner and regulator is responsible for
+                                                                                                                           Through the WSP, Orange City Water has also developed an
+                        drinking-water supply to 2.5 million people in the city of
+                                                                                                                           in-house technique for cleaning elevated service reservoirs;
+                        Nagpur, India.
+                                                                                                                           cleaning 56 such reservoirs increased reservoir capacity by
+                        Five water treatment plants supply the daily demand of 660                                         1-2% owing to removal of accumulated sludge.
+                        mega litres. Three treatment plants use conventional tube
+                                                                                                                           Approximately 496 kilometres of water mains have been
+                        settlers, rapid sand filters and chlorine disinfection. The
+                                                                                                                           replaced, significantly reducing physical water losses from
+                        treatment process at the other two plants consists of intake
+                                                                                                                           22% to 4%. Daily water supply hours have been boosted
+                        wells and a pre-settler (one plant only), a cascade aerator,
+                                                                                                                           from 2-4 hours (pre-WSP) to 4-24 hours (post-WSP) in 7 out
+                        multi-flow lamella settlers, rapid sand filters and chlorine gas
+                                                                                                                           of 10 water supply zones where the repair and rehabilitation
+                        disinfection.
+                                                                                                                           work is in progress or completed. Water quality compliance
+                        Several improvements to operations, infrastructure and                                             in terms of thermotolerant coliforms and residual chlorine at
+                        water quality have been realised since the implementation                                          100 randomly selected locations at the consumer end every
+                        of a WSP in 2011. Raw water supply to the water treatment                                          day increased from 79% in 2011 to 96% in 2016. Improved
+                        plants from the dilapidated, 48-kilometre open canal                                               communication between stakeholders also contributed to
+                        was prone to frequent contamination, water pilferage                                               O&M improvements.
+                        for agricultural use, seepage, leakage and evaporation.
+                                                                                                                           Implementation of these improvements was prioritized
+                        Implementing the WSP resulted in the replacement of
+                                                                                                                           using the improvement plan in the WSP, focusing on
+                        the open canal with a 2300 mm diameter closed pipeline.
+                                                                                                                           eliminating or reducing significant risks, as shown in Figure
+                        Raw water losses have been reduced by about 30%
+                                                                                                                           3. Improvements are consistently monitored to measure the
+                        and, as a result, down time related to raw water supply to the water
+                                                                                                                           effectiveness of the WSP.
+                        treatment plants has been reduced by 7-10 days in one year.
+                        Inlet turbidity decreased from 25 to 5 nephelometric turbidity
+
+
+                                  50
+
+
+                                  45
+                                                                                                                                                                                               Before WSP
+                                                                                                                                                                                               After WSP
+                                  40
+
+
+                                  35
+
+
+                                  30
+
+
+                                  25
+                                            Catchment and Raw Water Source
+
+
+
+
+                                                                                                                                                                Household Service Connection
+
+
+
+
+                                  20
+    Number of significant risks
+
+
+
+
+                                                                             Water Treatment Plants
+
+
+
+
+                                  15
+                                                                                                                                 Distribution Network
+
+
+
+
+                                                                                                                                                                                                              Household Storage
+                                                                                                      Service Reservoirs
+
+
+
+
+                                  10
+
+
+                                   5
+
+
+                                   0
+
+
+                                       Figure 3: Water quality risk reduction due to O&M improvements
+
+
+
+
+6                      Strengthening Operations & Maintenance through Water Safety Planning
+Case Study 4 – MALAYSIA
+Fewer fluoride exceedances and lower operating costs through reduced chemical
+consumption
+
+
+The Sungai Semenyih water treatment plant in Malaysia is          the need to upgrade the fluoridation system to ensure
+operated and maintained by the private consortium ABASS.          production of safe water. The upgrades to the dosing system,
+It supplies safe drinking-water to about 2 million residents in   combined with improvements in operational processes
+one of the most developed states in Malaysia, which includes      (enhanced maintenance and effective communications with
+Selangor, part of Kuala Lumpur, Cyberjaya, and the Federal        operational staff), greatly increased the performance of the
+Government Administrative Centre of Putrajaya.                    fluoride dosing system.
+The conventional water treatment process consists of              Figure 4 shows the decreasing trend in fluoride outliers and
+coagulation, flocculation, sedimentation, filtration and          consumption of sodium silicofluoride over the first four years
+chemical treatment. The chemicals used in the treatment           of WSP implementation (2012-2015). As is evident from
+process are aluminium sulfate, polymer, hydrated lime,            Figure 4, implementation of the WSP at Sungai Semenyih
+chlorine and sodium silicofluoride.                               water treatment plant dramatically reduced the number of
+                                                                  fluoride outliers against its internal control limit: from 88
+The Ministry of Health in Malaysia requires fluoride
+                                                                  cases in 2013 to just a single case in 2015. In addition, the
+levels in drinking-water to be between 0.4 mg/L and
+                                                                  consumption of sodium silicofluoride was reduced by 20%,
+0.6 mg/L in accordance with the National Drinking Water
+                                                                  resulting in cost savings.
+Quality Standard. Before WSP implementation, fluoride
+concentrations in treated water were higher than the internal     WSP implementation has driven capital improvements
+control limit, which was set within the range 0.45-0.58 mg/L.     and strengthened O&M processes, leading to significantly
+The unstable fluoride dosing system led to frequent               improved water quality and eventually reduced operational
+breakdowns and fluoride exceedances in treated water.             expenditure.
+Implementation of a WSP, which began in 2011, identified
+
+
+
+           Total Internal Control Limit Outlier                   Total Sodium SilicoFluoride Consumption (Metric Tons)
+
+                                                                       115.25 114.1
+                            88
+                                                                                         97.33   92.53
+
+                  62
+
+
+
+
+                                     17
+                                                  1
+                 2012     2013     2014      2015                       2012    2013     2014    2015
+
+           Figure 4: Operational performance improvements and reduction in operational costs due to WSP implementation
+
+
+
+
+                                                                                                            A Collection of Case Studies   7
+    Case Study 5 – THE PHILIPPINES (Metropolitan Cebu)
+    More effective and efficient treatment, better water quality and reduced water losses
+
+
+    The Metropolitan Cebu Water District in Cebu, Philippines, is                       In addition to water treatment plant upgrades and resulting
+    a government-owned corporation supplying drinking-water to                          operational improvements, significant improvements in the
+    a population of 1.3 million in four cities and four municipalities                  distribution system O&M processes were made through the
+    in the Metro Cebu area. The surface water treatment plant                           WSP process, including:
+    consists of pre-chlorination, sedimentation, sand filtration and
+                                                                                        l S OP for water main repairs amended to include specific
+    chlorination.
+                                                                                           requirements on water quality;
+    As a direct outcome of the WSP process, significant upgrades
+                                                                                        l storage facility constructed to prevent contamination of
+    were made to the treatment processes, including installation
+                                                                                           water pipes and fittings during storage; and
+    of baffling plates for the settling ponds and total rehabilitation
+    of the rapid sand filters and backwashing equipment. These                          l leak detection programme improved to prevent re-
+    capital improvements contributed to significant improvements                           contamination during low pressure events and to reduce
+    in operational performance of the sand filters to meet the                             non-revenue water.
+    turbidity control limits set out in the WSP. The improved filter
+                                                                                        Measurable improvements at Cebu Water District related to
+    backwash process ensures control limits for filter head loss
+                                                                                        the WSP are summarised in Table 2, including improved water
+    are not breached. In addition, improved sand filter performance
+                                                                                        quality, greater filter backwash efficiency and reduced water
+    increased the effectiveness of primary chlorination, and
+                                                                                        losses.
+    improved backwash time has reduced the operational cost of
+    backwash pumps by 60%.
+
+
+          Table 2: Quantification of benefits from O&M improvements resulting from WSP implementation
+
+
+                                                                              Pre-WSP Implementation               Post-WSP Implementation
+                                                                                  (before January 2009)                (after December 2015)
+
+
+              Positive Escherichia coli
+                                                                                      291 of 4 954 (6%)                      0 of 1 991 (0%)*
+              samples per month
+
+
+
+              Heterotopic plate count results
+                                                                                        38 of 1 375 (3%)                      0 of 1 580 (0%)
+              greater than 500 CFU/mL
+
+
+
+              Positive total coliforms
+                                                                                     532 of 4 954 (11%)                     85 of 1 991 (4%)*
+              samples per month
+
+
+
+              Sand filter performance:
+                                                                                         Too high to read                           1.95 NTU
+              turbidity
+
+
+
+              Sand filter performance:                                                      Every 8 hours                         Once a week
+              filter backwash cycle                                        Average duration = 10 minutes        Average duration = 3-5 minutes
+
+
+
+              Non-revenue water                                                                     31%                                  23%
+
+
+
+           *The reduction in the number of samples tested from 2009 to 2015 is due to adjustments made to accommodate
+           random samples and to decrease the number of samples collected from sample sites permanently listed in
+           the monitoring programme. The revised testing programme satisfies the requirements of the Philippine National
+           Standards for Drinking Water (2007).
+
+
+
+
+8   Strengthening Operations & Maintenance through Water Safety Planning
+Case Study 6 – THE PHILIPPINES (Manila Water)
+Operational efficiencies and significant reductions in annual O&M costs
+
+
+Manila Water Company, Inc. (Manila Water) serves more            WSP process, monitoring frequencies were better defined
+than 6 million customers in the East Zone of Metro Manila,       and reporting protocols enabled centralized performance
+Philippines, covering 23 cities and municipalities served        monitoring.
+through a network of over 5 000 kilometres of water mains
+                                                                 Improved operational controls, creation of SOPs, equipment
+in five water supply systems. The vast majority (97%) of the
+                                                                 calibration programmes, operator training and reduction
+supply is sourced from surface water. Manila Water operates
+                                                                 of the number of water quality tests (approved by the regulator)
+three conventional water treatment plants, one reverse-
+                                                                 since WSP implementation have helped Manila Water reduce
+osmosis plant and one deep well with direct chlorination.
+                                                                 annual O&M costs by 32.25 million Philippine pesos
+Following WSP implementation in 2009, an alert matrix            (approximately US$ 603 000). See Table 3. These
+system for critical water quality parameters was established     improvements have also helped Manila water to
+to facilitate improved monitoring and communication, as well     consistently achieve 100% microbiological compliance
+as escalation of unusual or unacceptable changes in water        with the Philippine National Standards for Drinking Water
+quality or treatment process. Across all treatment processes,    over the seven year period (2010-2016) following WSP
+critical operational parameters including turbidity, filter      implementation.
+head loss, pH and chlorine are monitored. Through the
+
+
+
+Table 3: O&M improvements and annual cost savings resulting from WSP implementation
+
+
+                                                                                                                            Savings
+                                                                                                                                (million
+                                                                Pre-WSP         Post-WSP          Reduction            Philippine peso)
+
+   Number of water quality tests (treatment plants)              34 831            11 054             23 277                       5.2
+
+   Number of water quality tests (distribution)                  42 321            34 202              8 119                       1.8
+
+   Average dirty water complaints/annum*                            150               <10         132 (92%)                           -
+
+   Chlorinator dosing system improvements                               -                 -                 -                      5.7
+
+   Chemical dosing optimization through                                 -                 -                 -                      5.0
+   selective operation of accelerators
+
+   Optimization of flocculator operation                                -                 -                 -                      1.6
+
+   Chemical dosing optimization from                                    -                 -                 -                      8.7
+   enhanced jar test results
+
+   Chemical efficiency                                                  -                 -                 -                    4.25
+
+                                                                                                      TOTAL                    32.25
+
+*Based on 2012 -2013 data from Rodriguez, Rizal water supply system. Improvements were due to a change in source water from
+groundwater to surface water and commissioning of the new treatment plant.
+
+
+
+
+                                                                                                            A Collection of Case Studies   9
+     Case Study 7 – PORTUGAL
+     Improved equipment calibration and maintenance, greater monitoring efficiencies and
+     considerable cost savings
+
+     Aguas do Algarve (AdA) is a public water supplier with                 by the online instrumentation through improved calibration
+     private management serving a population of approximately               and maintenance, which resulted in greater confidence in
+     410 000 people (up to 1.5 million people during the peak               readings and reduced reliance on laboratory testing. Also,
+     season) in 16 municipalities in Algarve, southern Portugal.            the WSP risk assessment process revealed that some online
+     AdA has approximately 160 employees supporting water                   instrumentation was unnecessary and could be removed
+     and wastewater bulk services.                                          from service. In addition, the frequency of laboratory testing
+                                                                            for other parameters (that is, those not monitored with the
+     Before WSP implementation, online monitoring equipment
+                                                                            online equipment) was reduced on the basis of the outcomes
+     was in place to monitor several parameters, including
+                                                                            of the risk assessment and prioritization.
+     chlorine, pH, turbidity and conductivity. However, the
+     quality of monitoring results was such that operators lacked           As a result of WSP implementation, a 56% reduction in the
+     confidence in readings and relied instead on manual sampling           cost of water quality monitoring was achieved through O&M
+     and laboratory testing. Through the WSP process, the WSP               costs avoided for the online instrumentation removed from
+     team focused on increasing the quality of data generated               service as well as reduced frequency of laboratory analysis.
+
+
+
+
+10   Strengthening Operations & Maintenance through Water Safety Planning
+Conclusion: WSPs for stronger O&M
+These case studies clearly demonstrate that significant O&M    l S OPs for key operational activities
+improvements have been achieved as a direct outcome of
+                                                               l training of operational staff
+WSP implementation. The experiences also highlight certain
+WSP focus areas that will help stakeholders realise the full   l risk-based prioritization for capital upgrades
+O&M benefit of water safety planning, including:
+                                                               l effective communication between stakeholders
+l r obust and efficient operational monitoring programmes
+                                                               Given the centrality of O&M to the WSP process, water safety
+l t reatment plant optimization                               planning is a valuable tool to strengthen O&M programmes,
+                                                               which requires greater attention and investment to ensure
+lp
+  reventive maintenance programmes
+                                                               drinking-water safety and improved service delivery.
+
+
+
+
+                                                                                                          A Collection of Case Studies   11
+     References
+     IWA (2004). The Bonn charter for safe drinking water. International Water Association (http://www.iwa-network.org/
+     downloads/1447946928-IWA%20bonn%20charter.pdf, accessed 6 July 2018).
+     UN-Water & WHO (2017). UN-Water global analysis and assessment of sanitation and drinking-water (GLAAS)
+     2017 report: financing universal water, sanitation and hygiene under the sustainable development goals. Geneva:
+     World Health Organization (http://www.who.int/water_sanitation_health/publications/glaas-report-2017/en/, accessed 6 July
+     2018).
+     WHO (2004). Guidelines for drinking-water quality. Third edition. Volume 1: recommendations. Geneva: World
+     Health Organization (http://www.who.int/water_sanitation_health/publications/gdwq3/en/; accessed 6 July 2018).
+     WHO & IWA (2009). Water safety plan manual: step-by-step risk management for drinking-water suppliers. Geneva:
+     World Health Organization (http://www.who.int/water_sanitation_health/publications/publication_9789241562638/en/,
+     accessed 22 February 2018).
+     WHO & IWA (2017). Global status report on water safety plans: a review of proactive risk assessment and risk
+     management practices to ensure the safety of drinking-water. Geneva: World Health Organization (http://www.who.
+     int/water_sanitation_health/publications/global-status-report-on-water-safety-plans/en/, accessed 6 July 2018).
+
+
+
+
+     Further reading
+     Hrudey SE, Hrudey EJ. Safe drinking water. International Water Association; 2004.
+     Water safety in distribution systems. Geneva: World Health Organization; 2014 (http://www.who.int/
+     water_sanitation_health/publications/water-safety-in-distribution-system/en/, accessed 6 July 2018).
+     Operation & Maintenance Network
+     (http://www.operationandmaintenance.net)
+     Water Safety Portal
+     (http://www.wsportal.org)
+
+
+
+
+12   Strengthening Operations & Maintenance through Water Safety Planning
+www.who.int                                    www.iwa-network.org
+WORLD HEALTH ORGANIZATION                      INTERNATIONAL WATER ASSOCIATION
+Water, Sanitation, Hygiene and                 Alliance House • 12 Caxton Street
+Health 20, Avenue Appia                        London SW1H 0QS United Kingdom
+1211 Geneva 27                                 Tel: +44 (0)20 7654 5500
+Switzerland                                    Fax: +44 (0)20 7654 5555
+Tel: +41 (0)22 791 3264                        E-mail: water@iwahq.org
+Fax: +41 (0)22 791 4857
+E-mail: gdwq@who.int                           Company registered in England No.3597005
+Website: www.who.int/water_sanitation_health   Registered Office as above
+                                               Registered Charity (England) No.1076690
+

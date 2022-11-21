@@ -1,0 +1,54 @@
+Table 1. Mississippi Water Body Classifications and Designated Uses
+MS Water Body Classification
+
+U.S. EPA Associated Designated Use
+
+Public Water Supply
+
+Drinking Water Supply
+
+Recreation
+
+Primary Contact Recreation
+
+Shellfish Harvesting
+
+Shellfish Consumption
+
+Fish and Wildlife
+
+Aquatic Life Use
+Fish Consumption
+Secondary Contact Recreation
+
+A water body classified as Public Water Supply, Recreation, or Shellfish Harvesting shall
+meet not only the criteria to support its respective classification, but also shall meet the
+criteria to support the Fish and Wildlife classification.
+C.
+
+Dissolved Oxygen: Dissolved oxygen concentrations shall be maintained at a daily
+average of not less than 5.0 mg/l with an instantaneous minimum of not less than 4.0
+mg/l.
+When possible, samples should be taken from ambient sites according to the following
+guidelines:
+For waters bodies that are not stratified, samples should be taken:
+At mid-depth if the total water column depth is 10 feet or less.
+At 5 feet from the water surface if the total water column depth is greater
+than 10 feet.
+For waters that are stratified, samples should be taken:
+At mid-depth of the epilimnion if the epilimnion depth is 10 feet or less.
+At 5 feet from the water surface if the epilimnion depth is greater than 10
+feet.
+
+D.
+
+pH: The normal pH of the waters shall be 6.0 to 9.0. The discharge of waters or
+wastewaters should not cause the pH to vary more than 1.0 unit within this range, nor be
+less than 6.0, nor be greater than 9.0. Variations may be allowed on a case-by-case basis
+if the Commission determines that there will be no detrimental effect on the water body’s
+designated uses as a result of the greater pH change. In black water streams and in those
+watersheds with highly acidic soils, the pH may be lower than 6.0 due to natural
+conditions.
+164
+
+

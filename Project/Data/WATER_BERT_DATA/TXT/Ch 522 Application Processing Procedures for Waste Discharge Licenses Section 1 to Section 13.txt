@@ -1,0 +1,538 @@
+06 096 Me. Code R. Ch. 522 § 1 References to Federal Regulations
+     and definitions. (Code of Maine Rules (2021 Edition))
+
+
+Section 1. References to Federal Regulations and definitions.
+
+Portions of this rule refer to federal regulations of the United States
+Environmental Protection Agency (EPA). Unless otherwise specified, the
+federal regulations referenced are those regulations effective as of July 1,
+1998, as they appear in volume 40 of the Code of Federal Regulations (CFR).
+Definitions for terms used in this rule may be found Chapter 520.
+ 06 096 Me. Code R. Ch. 522 § 2 Applicability of Chapter 2. (Code
+                of Maine Rules (2021 Edition))
+
+
+Section 2. Applicability of Chapter 2.
+
+Unless specified differently in this rule, the requirements of Chapter 2 of the
+department's rules, "Rules Concerning the Procession of Applications",
+applies to waste discharge license applications. In the event of
+inconsistencies with Chapter 2 of the Department's Rules, waste discharge
+license applications will be processed under the procedures set forth in this
+Chapter.
+ 06 096 Me. Code R. Ch. 522 § 3 Specialized Definitions. [see 40
+        Cfr 124.2] (Code of Maine Rules (2021 Edition))
+
+
+Section 3. Specialized Definitions. [see 40 CFR 124.2]
+
+(a) In addition to the definitions given in Chapter 520, the definitions below
+apply to this chapter.
+
+Consultation with the Regional Administrator (40 CFR 124.62(a)(2)) means
+review by the Regional Administrator following evaluation by a panel of the
+technical merits of all 301(k) applications approved by the Department. The
+panel (to be appointed by the Director of the Office of Water Enforcement
+and Permits) will consist of Headquarters, Regional, and State personnel
+familiar with the industrial category in question.
+
+UIC means the Underground Injection Control program under Part C of the
+Safe Drinking Water Act, including an ``approved program.''
+
+Variance (NPDES) means any mechanism or provision under section 301 or
+316 of CWA or under 40 CFR part 125, or in the applicable ``effluent
+limitations guidelines'' which allows modification to or waiver of the
+generally applicable effluent limitation requirements or time deadlines of
+CWA. This includes provisions which allow the establishment of alternative
+limitations based on fundamentally different factors or on sections 301(c),
+301(g), 301(h), 301(i), or 316(a) of CWA.
+
+(b) The term Director means the Department or Regional Administrator and
+is used when the accompanying provision is required of EPA-administered
+programs and of State programs under Secs. 123.25 (NPDES) or 145.11
+(UIC). The term Regional Administrator is used when the accompanying
+provision applies exclusively to EPA-issued permits and is not applicable to
+State programs under these sections.
+  06 096 Me. Code R. Ch. 522 § 4 Modification, revocation and
+reissuance, or termination of permits. [see 40 Cfr 124.5] (Code of
+                  Maine Rules (2021 Edition))
+
+Section 4. Modification, revocation and reissuance, or
+termination of permits. [see 40 CFR 124.5]
+
+(a) Permits may be modified, revoked and reissued, or terminated either at
+the request of any interested person (including the permittee) or upon the
+Department's initiative. However, permits may only be modified, revoked
+and reissued, or terminated for the reasons specified in 38 MRSA § 414-
+A(5). All requests shall be in writing and shall contain facts or reasons
+supporting the request.
+
+(b) [reserved]
+
+(c)
+
+(1) If the Department tentatively decides to modify or revoke and reissue a
+permit under 38 MRSA, Sections 414-A(5) and 341-D or 40 CFR 144.39
+(UIC), it shall prepare a draft permit under Section 5 incorporating the
+proposed changes. The Department may request additional information
+and, in the case of a modified permit, may require the submission of an
+updated application. In the case of revoked and reissued permits, the
+Department shall require the submission of a new application.
+
+(2) In a permit modification under this section, only those conditions to be
+modified shall be reopened when a new draft permit is prepared. All other
+aspects of the existing permit shall remain in effect for the duration of the
+unmodified permit. When a permit is revoked and reissued under this
+section, the entire permit is reopened just as if the permit had expired and
+was being reissued. During any revocation and reissuance proceeding the
+permittee shall comply with all conditions of the existing permit until a new
+final permit is reissued.
+
+(d) If the Department tentatively decides to terminate a permit under 38
+MRSA § 414-A(5), it shall issue a notice of intent terminate. A notice of
+intent to terminate is a type of draft permit which follows the same
+procedures as any draft permit prepared under Section 5.
+ 06 096 Me. Code R. Ch. 522 § 5 Draft permits. [see 40 Cfr 124.6]
+             (Code of Maine Rules (2021 Edition))
+
+
+Section 5. Draft permits. [see 40 CFR 124.6]
+
+(a) Once an application is complete, the Department shall tentatively decide
+whether to prepare a draft permit or to deny the application.
+
+(b) [reserved]
+
+(c) If the Department tentatively decides to issue an NPDES general permit,
+it shall prepare a draft general permit under paragraph (d) of this section.
+
+(d) If the Department decides to prepare a draft permit, it shall prepare a
+draft permit that contains the following information:
+
+(1) All conditions under Chapter 523 (NPDES) or Secs. 144.51 and 144.52
+(UIC);
+
+(2) All compliance schedules under Chapter 523 (NPDES) or 40 CFR 144.53
+(UIC);
+
+(3) All monitoring requirements under Chapter 523 (NPDES) or 40 CFR
+144.54 (UIC); and
+
+(4) For:
+
+(i) [reserved];
+
+(ii) UIC permits, permit conditions under 40 CFR 144.52;
+
+(iii) [reserved];
+
+(iv) [reserved];
+
+(v) NPDES permits, effluent limitations, standards, prohibitions, conditions
+under Chapter 523.
+
+(e) Draft permits shall be accompanied by a fact sheet if required under
+Section 6.
+   06 096 Me. Code R. Ch. 522 § 6 Fact sheet. [see 40 Cfr 124.8]
+              (Code of Maine Rules (2021 Edition))
+
+
+Section 6. Fact sheet. [see 40 CFR 124.8]
+
+(a) A fact sheet shall be prepared for every draft permit for a major UIC, or
+NPDES facility or activity, for every NPDES general permit (Chapter 529),
+for every NPDES draft permit that incorporates a variance or requires an
+explanation under Section 7, and for every draft permit which the
+Department finds is the subject of wide-spread public interest or raises
+major issues. The fact sheet shall briefly set forth the principal facts and the
+significant factual, legal, methodological and policy questions considered in
+preparing the draft permit. The Department shall send this fact sheet to the
+applicant and, on request, to any other person.
+
+(b) The fact sheet shall include, when applicable:
+
+(1) A brief description of the type of facility or activity which is the subject of
+the draft permit;
+
+(2) The type and quantity of wastes, fluids, or pollutants which are proposed
+to be or are being treated, stored, disposed of, injected, emitted, or
+discharged.
+
+(3) [reserved]
+
+(4) [reserved]
+
+(5) Reasons why any requested variances or alternatives to required
+standards do or do not appear justified;
+
+(6) A description of the procedures for reaching a final decision on the draft
+permit including:
+
+(i) The beginning and ending dates of the comment period under Section 8
+and the address where comments will be received;
+
+(ii) Procedures for requesting a hearing and the nature of that hearing; and
+
+(iii) Any other procedures by which the public may participate in the final
+decision.
+
+(7) Name and telephone number of a person to contact for additional
+information.
+
+(8) For NPDES permits, provisions satisfying the requirements of Section 7.
+  06 096 Me. Code R. Ch. 522 § 7 Additional information in fact
+ sheets. [see 40 Cfr 124.56] (Code of Maine Rules (2021 Edition))
+
+
+Section 7. Additional information in fact sheets. [see 40 CFR
+124.56]
+
+In addition to meeting the requirements of Section 6, NPDES fact sheets
+shall contain the following:
+
+(a) Any calculations or other necessary explanation of the derivation of
+specific effluent limitations and conditions, including a citation to the
+applicable effluent limitation guideline, performance standard, as required
+by Chapter 523 and reasons why they are applicable or an explanation of
+how the alternate effluent limitations were developed.
+
+(b)
+
+(1) When the draft permit contains any of the following conditions, an
+explanation of the reasons why such conditions are applicable:
+
+(i) Limitations to control toxic pollutants under Chapter 523;
+
+(ii) Limitations on internal waste streams under Chapter 523; or
+
+(iii) Limitations on indicator pollutants under Chapter 524.
+
+(iv) Limitations set on a case-by-case basis under Chapter 524, or pursuant
+to Section 405(d)(4) of the CWA.
+
+(2) For every permit to be issued to a treatment works owned by a person
+other than a State or municipality, an explanation of the Department's
+decision on regulation of users under Chapter 523; and
+
+(c) When appropriate, a sketch or detailed description of the location of the
+discharge or regulated activity described in the application.
+  06 096 Me. Code R. Ch. 522 § 8 Public notice of permit actions
+ and public comment period. [see 40 Cfr 124.10] (Code of Maine
+                     Rules (2021 Edition))
+
+Section 8. Public notice of permit actions and public comment
+period. [see 40 CFR 124.10]
+
+(a) Scope.
+
+(1) The Department shall provide for public notice that the following actions
+have occurred:
+
+(i) [reserved];
+
+(ii) A permit application is being filed;
+
+(iii) A hearing has been scheduled under Chapter 2;
+
+(b) Timing
+
+(1) Public notice of the filing of an application for a permit required under
+paragraph (a) of this section shall allow at least 30 days for public comment
+during which additional information or a hearing may be requested.
+
+(2) Public notice of a public hearing shall be given at least 30 days before the
+hearing. (Public notice of the hearing may be given at the same time as
+public notice of the permit application and the two notices may be
+combined.)
+
+(c) Methods Public notice of activities described in paragraph (a)(1) of this
+section shall be given by the following methods:
+
+(1) By mailing a copy of a notice to the following persons (any person
+otherwise entitled to receive notice under this paragraph may waive his or
+her rights to receive notice for any classes and categories of permits);
+
+(i) The applicant ( if necessary);
+
+(ii) Any other agency which the Department knows has issued or is required
+to issue a RCRA, UIC, PSD (or other permit under the Clean Air Act),
+NPDES, 404, sludge management permit, or ocean dumping permit under
+the Marine Research Protection and Sanctuaries Act for the same facility or
+activity (including EPA when the draft permit is prepared by the State);
+
+(iii) Federal and State agencies with jurisdiction over fish, shellfish, and
+wildlife resources and over coastal zone management plans, the Advisory
+Council on Historic Preservation, State Historic Preservation Officers,
+including any affected States.
+
+(iv) For NPDES permits only, any State agency responsible for plan
+development under CWA section 208(b)(2), 208(b)(4) or 303(e) and the
+  06 096 Me. Code R. Ch. 522 § 8 Public notice of permit actions
+ and public comment period. [see 40 Cfr 124.10] (Code of Maine
+                     Rules (2021 Edition))
+
+U.S. Army Corps of Engineers, the U.S. Fish and Wildlife Service and the
+National Marine Fisheries Service;
+
+(v) For NPDES permits only, any user identified in the permit application of
+a privately owned treatment works;
+
+(vi) [reserved];
+
+(vii)[reserved];
+
+(viii) For Class I injection well UIC permits only, state and local oil and gas
+regulatory agencies and state agencies regulating mineral exploration and
+recovery;
+
+(ix) Persons on a mailing list developed by:
+
+(A) Including those who request in writing to be on the list;
+
+(B) Soliciting persons for ``area lists'' from participants in past permit
+proceedings in that area; and
+
+(C) Notifying the public of the opportunity to be put on the mailing list
+through periodic publication in the public press and in such publications as
+Regional and State funded newsletters, environmental bulletins, or State law
+journals. (The Department may update the mailing list from time to time by
+requesting written indication of continued interest from those listed. The
+Department may delete from the list the name of any person who fails to
+respond to such a request.)
+
+(x)
+
+(A) To any unit of local government having jurisdiction over the area where
+the facility is proposed to be located; and
+
+(B) to each State agency having any authority under State law with respect to
+the construction or operation of such facility.
+
+(2)
+
+(i) As required in Chapter 2, publication of a notice in a daily or weekly
+newspaper within the area affected by the facility or activity;
+
+(3) [reserved]; and
+
+(4) Any other method reasonably calculated to give actual notice of the
+action in question to the persons potentially affected by it, including press
+releases or any other forum or medium to elicit public participation.
+  06 096 Me. Code R. Ch. 522 § 8 Public notice of permit actions
+ and public comment period. [see 40 Cfr 124.10] (Code of Maine
+                     Rules (2021 Edition))
+
+(d) Contents
+
+(1) All public notices. All public notices issued under this Chapter shall
+contain the following minimum information:
+
+(i) Name and address of the office processing the permit action for which
+notice is being given;
+
+(ii) Name and address of the permittee or permit applicant and, if different,
+of the facility or activity regulated by the permit, except in the case of
+NPDES draft general permits under Chapter 529;
+
+(iii) A brief description of the business conducted at the facility or activity
+described in the permit application or the draft permit, for NPDES general
+permits when there is no application.
+
+(iv) Name, address and telephone number of a person from whom interested
+persons may obtain further information, including copies of the draft permit
+or draft general permit, as the case may be, statement of basis or fact sheet,
+and the application; and
+
+(v) A brief description of the comment procedures required by Sections 9
+and 11 and the time and place of any hearing that will be held, including a
+statement of procedures to request a hearing (unless a hearing has already
+been scheduled) and other procedures by which the public may participate
+in the final permit decision.
+
+(vi) [reserved]
+
+(vii) For NPDES permits only, a general description of the location of each
+existing or proposed discharge point and the name of the receiving water.
+For draft general permits, this requirement will be satisfied by a map or
+description of the permit area.
+
+(viii) [reserved]
+
+(ix) Any additional information considered necessary or proper.
+
+(2) Public notices for hearings. In addition to the general public notice
+described in paragraph (d)(1) of this section, the public notice of a hearing
+under Chapter 2 shall contain the following information:
+
+(i) Reference to the date of previous public notices relating to the permit;
+
+(ii) Date, time, and place of the hearing; and
+  06 096 Me. Code R. Ch. 522 § 8 Public notice of permit actions
+ and public comment period. [see 40 Cfr 124.10] (Code of Maine
+                     Rules (2021 Edition))
+
+(iii) A brief description of the nature and purpose of the hearing, including
+the applicable rules and procedures.
+
+(e) In addition to the general public notice described in paragraph (d)(1) of
+this section, copies of the fact sheet, the permit application (if any) and the
+draft permit (if any) shall be made available to all persons identified in
+paragraphs c(1)(1), (ii), (iii) and (iv) of this section and to any other
+interested persons, including those responding to public notices and
+requesting information on certain applications. Persons provided with draft
+permits shall have at least 30 days in which to submit comments on the
+draft or to request a public hearing under section 9.
+06 096 Me. Code R. Ch. 522 § 9 Public comments and requests for
+     public hearings. (Code of Maine Rules (2021 Edition))
+
+
+Section 9. Public comments and requests for public hearings.
+
+[see 40 CFR 124.11] During the public comment period provided under
+Section 8, any interested person may submit written comments on the
+application or draft permit and may request a public hearing, if no hearing
+has already been scheduled. A request for a public hearing shall be in writing
+and shall state the nature of the issues proposed to be raised in the hearing.
+All comments shall be considered in making the final decision and shall be
+answered as provided in Section 12.
+    06 096 Me. Code R. Ch. 522 § 10 Public notice for thermal
+  discharge variances. [see 40 Cfr 124.57] (Code of Maine Rules
+                         (2021 Edition))
+
+Section 10. Public notice for thermal discharge variances. [see 40
+CFR 124.57]
+
+(a) Section 316(a) requests. In addition to the information required under
+Section 8(d)(1), public notice of an NPDES draft permit for a discharge
+where a CWA section 316(a) request has been filed under Chapter 523 shall
+include:
+
+(1) A statement that the thermal component of the discharge is subject to
+effluent limitations under CWA section 301 or 306 and a brief description,
+including a quantitative statement, of the thermal effluent limitations
+proposed under section 301 or 306;
+
+(2) A statement that a request under section 316(a) of the CWA has been
+filed and that alternative less stringent effluent limitations may be imposed
+on the thermal component of the discharge under section 316(a) and a brief
+description, including a quantitative statement, of the alternative effluent
+limitations, if any, included in the request; and
+
+(3) If the applicant has filed an early screening request under 40 CFR 125.72
+for a section 316(a) of the CWA variance, a statement that the applicant has
+submitted such a plan.
+      06 096 Me. Code R. Ch. 522 § 11 Public hearings. [see 40 Cfr
+             124.12] (Code of Maine Rules (2021 Edition))
+
+
+Section 11. Public hearings. [see 40 CFR 124.12]
+
+(a)
+
+(1) The Department shall hold a public hearing whenever it finds, on the
+basis of requests, a significant degree of public interest in a draft permit(s);
+
+(2) The Department may also hold a public hearing at its discretion,
+whenever, for instance, such a hearing might clarify one or more issues
+involved in the permit decision;
+
+(3) [reserved];
+
+(4) Public notice of the hearing shall be given as specified in Section 8.
+ 06 096 Me. Code R. Ch. 522 § 12 Response to comments. [see 40
+        Cfr 124.17] (Code of Maine Rules (2021 Edition))
+
+
+Section 12. Response to comments. [see 40 CFR 124.17]
+
+(a) At the time that any final permit decision is issued, the Department shall
+issue a response to comments. States are only required to issue a response to
+comments when a final permit is issued. This response shall:
+
+(1) Specify which provisions, if any, of the draft permit have been changed in
+the final permit decision, and the reasons for the change; and
+
+(2) Briefly describe and respond to all significant comments on the draft
+permit raised during the public comment period, or during any hearing.
+
+(b) [reserved]
+
+(c) The response to comments shall be available to the public.
+  06 096 Me. Code R. Ch. 522 § 13 Decision on variances. [see 40
+        Cfr 124.62] (Code of Maine Rules (2021 Edition))
+
+
+Section 13. Decision on variances. [see 40 CFR 124.62]
+
+(a) The Department may grant or deny requests for the following variances
+(subject to EPA objection under 40 CFR 123.44 for State permits):
+
+(1) Extensions under CWA section 301(i) based on delay in completion of a
+publicly owned treatment works;
+
+(2) After consultation with the Regional Administrator, extensions under
+CWA section 301(k) based on the use of innovative technology; or
+
+(3) Variances under CWA section 316(a) for thermal pollution.
+
+(b) The State Department may deny, or forward to the Regional
+Administrator with a written concurrence, or submit to EPA without
+recommendation a completed request for:
+
+(1) A variance based on the economic capability of the applicant under CWA
+section 301(c); or
+
+(2) A variance based on water quality related effluent limitations under CWA
+section 302(b)(2).
+
+(c) The Regional Administrator may deny, forward, or submit to the EPA
+Office Director for Water Enforcement and Permits with a recommendation
+for approval, a request for a variance listed in paragraph (b) of this section
+that is forwarded by the Department, or that is submitted to the Regional
+Administrator by the requester where EPA is the permitting authority.
+
+(d) The EPA Office Director for Water Enforcement and Permits may
+approve or deny any variance request submitted under paragraph (c) of this
+section. If the Office Director approves the variance, the Director may
+prepare a draft permit incorporating the variance. Any public notice of a
+draft permit for which a variance or modification has been approved or
+denied shall identify the applicable procedures for appealing that decision
+under 40 CFR 124.64.
+
+(e) The Department may deny or forward to the Administrator (or his or her
+delegate) with a written concurrence a completed request for:
+
+(1) A variance based on the presence of ``fundamentally different factors''
+from those on which an effluent limitations guideline was based;
+
+(2) A variance based upon certain water quality factors under CWA section
+301(g).
+  06 096 Me. Code R. Ch. 522 § 13 Decision on variances. [see 40
+        Cfr 124.62] (Code of Maine Rules (2021 Edition))
+
+
+(f) The Administrator (or his or her delegate) may grant or deny a request
+for a variance listed in paragraph (e) of this section that is forwarded by the
+Department, or that is submitted to EPA by the requester where EPA is the
+permitting authority. If the Administrator (or his or her delegate) approves
+the variance, the Department or Regional Administrator may prepare a draft
+permit incorporating the variance. Any public notice of a draft permit for
+which a variance or modification has been approved or denied shall identify
+the applicable procedures for appealing that decision under 40 CFR 124.64.
+
+AUTHORITY: 38 MRSA § 341-D
+
+APA EFFECTIVE DATE: April 5, 1999
+
+EFFECTIVE DATE: This rule became effective upon the approval of the U.S.
+Environmental Protection Agency of related parts of the State's application
+to administer the National Pollutant Discharge Elimination System program
+of the Federal Clean Water Act, pursuant to 40 CFR part 123. This approval
+was granted through a January 12, 2001 (the presumed effective date) letter
+from Mindy S. Lubber of the United States Environmental Protection
+Agency to Governor Angus S. King, Jr. The APA Office was notified of this
+action through a memo, which included a copy of the Lubber letter, from
+Dennis Merrill of the Department of Environmental Protection dated
+January 23, 2001.
+

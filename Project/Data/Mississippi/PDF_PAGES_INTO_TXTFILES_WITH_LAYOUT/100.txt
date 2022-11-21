@@ -1,0 +1,50 @@
+3.       O'Conner-Dobbins equation may be used for streams with depths greater than 5 feet and
+where there are adequate stream depth profiles or reasonable estimates available. If stream flow
+is less than 280 cfs, Tsivoglou escape coefficient values should be considered.
+
+                                               12 .9 *V 0.5
+                                        Ka =
+                                                   D1.5
+where:
+V      = velocity in ft./sec.
+D      = depth in ft.
+Ka     = reaeration rate 1/day (base e @ 20°C).
+
+4.    A minimum Ka value of 0.15/day will be used except in the case mentioned under Kd
+where Ka/Kd is not less than 2.
+
+5.     In the WASP model COVAR may be considered.
+
+J.     Stream Background Conditions
+
+Assume the following stream background conditions unless data show otherwise.
+
+1.     DO = 85% of saturation at assumed stream temperature (table attached)
+
+2.     CBODU = 2.0 mg/l
+
+3.     CBOD5 = 1.33 mg/l
+
+4.     NBODU = 0.5 mg/l
+
+5.     NH3-N = 0.10 mg/l
+
+K.     Photosynthesis / Respiration
+
+1.     Input values for P and R (mg/l/day) can be determined in stream studies using the:
+
+(a)    Delta Method
+
+(b)    Diurnal Curve Method
+
+(c)    Light/Dark Bottle Method
+
+2.    In the absence of field data, P and R will be assumed to be 0.0 mg/l/day.             This
+assumption will be reevaluated for streams dominated by algae.
+
+L.     Sediment Oxygen Demand
+
+
+
+                                               100
+

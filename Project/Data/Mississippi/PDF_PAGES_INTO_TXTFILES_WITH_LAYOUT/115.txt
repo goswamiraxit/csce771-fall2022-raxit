@@ -1,0 +1,49 @@
+edition. These dilution waters will be deemed acceptable if the control organisms in the toxicity
+tests meet the minimum EPA criteria for chronic tests.
+
+(b)     If the Mississippi Office of Pollution Control determines the receiving waters are fresh
+water, the permittee shall conduct a Ceriodaphnia dubia Survival and Reproduction Test, and a
+Pimephales promelas Larval Survival and Growth Test on serial dilutions of effluent to
+determine if the discharge from outfall(s) is chronically toxic. Such testing will determine if the
+water affects the survival, growth, and reproduction of the test organisms. Static renewal tests
+will be conducted on three 24- hour composite samples of effluent. The first of these composite
+samples will be used to set up the tests and for the day 1 and day 2 renewals, the second of these
+composite samples will be used to renew the tests on days 3 and 4, and the third composite
+sample will be used to renew the tests on days 5 and 6. Not more than 36 hours will elapse
+between sampling and the first use of any of the composite samples. The chronic test(s) shall be
+considered valid only if the acceptability criteria referenced in Short-Term Methods for
+estimating the Chronic Toxicity of Effluents and Receiving Waters to Freshwater Organisms,
+(EPA/600/4-89/001), or the most recent edition, are met. All data shall be statistically analyzed
+according to the referenced manual.
+
+(c)     If the Mississippi Office of Pollution Control determines that the receiving water is
+estuarine, the permittee shall conduct a Menidia beryllina Larval Survival and Growth Test and a
+Americamysis Survival, Growth, and Fecundity Test on serial dilutions of effluent to determine if
+the discharge from outfall(s) is chronically toxic. Such testing will determine if the water affects
+the survival, growth, and fecundity of the test organisms. Static renewal tests will be conducted
+on three 24-hour composite samples of effluent. The first of these composite samples will be
+used to set up the tests and for the day 1 and day 2 renewals, the second of these composite
+samples will be used to renew the tests on days 3 and 4, and the third composite sample will be
+used to renew the tests on days 5 and 6. Not more than 36 hours will elapse between sampling
+and the first use of any of the composite samples. The chronic test(s) shall be considered valid
+only if the acceptability criteria referenced in Short-Term Methods for Estimating the Chronic
+Toxicity of Effluents and Receiving Waters to Marine and Estuarine Organisms, (EPA/600/4-
+87/028) or most recent edition are met. All test data shall be statistically analyzed according to
+the referenced manual.
+
+(d)     A standard reference toxicant quality assurance test (chronic) shall be conducted
+concurrently with the effluent tests using both species used in the toxicity tests. Alternatively, if
+a lab conducts monthly QA/QC reference toxicant tests with both species as part of their SOP,
+these results may be submitted in lieu of the above mentioned concurrent tests results. In either
+case, the reference toxicant test results must be submitted with the final report as well as on the
+Mississippi Office of Pollution Control NPDES Whole Effluent Toxicity Testing Report Form
+within two weeks of test completion. Final chronic toxicity test results shall be in report form as
+outlined in Methods for Measuring the Acute Toxicity of Effluents to Freshwater and Marine
+Organisms, Fourth Edition, (EPA-600/4-90/027) or most recent edition.
+
+4.      These chronic toxicity tests shall be initiated within 90 days of the date of issuance of the
+permit to evaluate wastewater toxicity. Such chronic toxicity tests shall be conducted once per
+quarter for a period of one year following the effective date of the permit. After the first year of
+
+                                                115
+

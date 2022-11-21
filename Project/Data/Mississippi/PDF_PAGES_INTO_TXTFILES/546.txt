@@ -1,0 +1,213 @@
+Water Body
+Name
+
+Water
+Body Id
+
+Tombigbee
+River
+
+Luxapallila Creek
+
+821611
+
+Lowndes
+
+Aquatic Life
+Use Support
+
+pH
+
+At Steens from Alabama state line (including
+tributary) to confluence with Yellow Creek
+
+Tombigbee
+River
+
+Mantachie Creek
+
+801611
+
+Lee,
+Itawamba
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Mantachie from headwaters to Hwy 371
+
+Tombigbee
+River
+
+Mcgee Creek
+
+808913
+
+Clay, Monroe
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Tibbee Creek
+
+Tombigbee
+River
+
+Mineral Springs
+Branch
+
+817312
+
+Kemper
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth of Blackwater Creek
+
+Tombigbee
+River
+
+Minga Branch
+
+806612
+
+Monroe
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Mill Creek
+
+Tombigbee
+River
+
+Moore Creek
+
+819611
+
+Lowndes
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Columbus from headwaters to the Tombigbee
+River
+
+Tombigbee
+River
+
+Mubby Creek
+
+820011
+
+Pontotoc
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Chiwapa Creek
+
+Tombigbee
+River
+
+Oak Slush Creek
+
+819612
+
+Lowndes
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Columbus from headwaters to the Ten-Tom
+Waterway
+
+Tombigbee
+River
+
+Okeelala Creek
+
+801011
+
+Prentiss, Lee
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Twentymile Creek
+
+Tombigbee
+River
+
+Osborne Creek
+
+800912
+
+Prentiss
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Twentymile Creek
+
+Tombigbee
+River
+
+Puncheon Creek
+
+801613
+
+Lee,
+Itawamba
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Mantachie from headwaters to mouth at
+Mantachie Creek
+
+Basin
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+41
+
+Location
+
+

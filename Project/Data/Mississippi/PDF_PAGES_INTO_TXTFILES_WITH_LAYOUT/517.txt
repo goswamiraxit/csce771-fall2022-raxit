@@ -1,0 +1,49 @@
+Table 3. Pollutant Change
+                                  Water
+   Basin      Water Body Name     Body      County                       Location                     Pollutant(s)
+                                   ID
+
+South                                                    Near Carlisle from headwaters to mouth at
+Independent   Storm Creek         602811   Claiborne     Bayou Pierre                                Sediment
+Tombigbee     Chinchanoma                                From headwaters to mouth at Noxubee
+River         Creek               812811   Oktibbeha     River                                       Sediment
+Tombigbee                                                From headwaters to mouth at Noxubee
+River         Shaw Creek          812313   Oktibbeha     River                                       Sediment
+Tombigbee                                                From headwaters to mouth at Tenn-Tom
+River         Spring Creek        809312   Clay          Waterway                                    Sediment
+                                                                                                     Total
+                                                                                                     Nitrogen,
+                                                                                                     Total
+Tombigbee     Unnamed Tributary                          Near Stephens from headwaters to mouth      Phosphorus
+River         to Catalpa Creek    809012   Lowndes       at Catalpa Creek                            and Sediment
+Tombigbee     Unnamed Tributary                          Near Artesia from headwaters to mouth at
+River         to Gilmer Creek     810412   Lowndes       Gilmer Creek                                Sediment
+Tombigbee                                  Winston,      Near Betheden from headwaters to the
+River         Yellow Creek        813211   Noxubee       Noxubee River                               Sediment
+                                                         From headwaters to confluence of Hudson
+Yazoo River   Clear Creek         904611   Lafayette     Creek                                       Sediment
+                                                         Near Sardis from headwaters to mouth at
+Yazoo River   Hudson Creek        904612   Lafayette     Clear Creek                                 Sediment
+                                                         Near New Albany from headwaters to
+Yazoo River   Jasper Creek        900511   Union         mouth at Little Tallahatchie River          Sediment
+                                                         From headwaters to mouth at North
+Yazoo River   Medlock Branch      902514   Tippah        Tippah Creek                                Sediment
+              North Tippah                               Near Ripley from confluence with
+Yazoo River   Creek               902512   Tippah        Medlock Branch to mouth at Tippah River     Sediment
+              North Tippah                               Near Ripley from headwaters to mouth at
+Yazoo River   Creek               902515   Tippah        confluence with Medlock Branch              Sediment
+              South Tippah
+Yazoo River   Creek               902513   Tippah        From headwaters to mouth at Tippah River    Sediment
+
+
+
+B. Changes to the List this Cycle (TMDL Complete, Delistings)
+
+The waters in Table 4. Below have been removed from the current list because they have been
+included in a TMDL, have been found to support the designated use, or as a correction.
+
+
+
+
+                                                    12
+

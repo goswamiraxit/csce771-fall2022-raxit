@@ -1,0 +1,50 @@
+            and human health impact on the receiving stream. Secondly, the Department
+            determines whether the data in an application have been submitted in strict
+            adherence with EPA accepted analytical procedures with all of the appropriate
+            parameters reported.
+
+            The second step involves the development of permit limits in accordance with
+            accepted state and national water quality criteria for those facilities exhibiting
+            potential toxicity. Permit limits may take the form of chemical specific and/or
+            whole effluent toxicity based limits.
+
+            The third step in the process involves additional testing and actual toxicity
+            reduction for those facilities which fail any whole effluent toxicity requirements
+            included in their permits. Permits addressing whole effluent toxicity have specific
+            language requiring the permittee to perform a Toxicity Reduction Evaluation
+            (TRE) upon non-compliance with the whole effluent toxicity limitations
+            contained in the permit.
+
+B.   Applicability.
+
+     (1)    Chemical Specific Application Data Requirements.
+
+            (a)       These procedures apply to the review of industrial and municipal
+                      applications for NPDES permits and pretreatment permits for the
+                      permittees which follow:
+
+                      (1)    all primary industries (major and minor);
+
+                      (2)    all major facilities; and
+
+                      (3)    all industrial and municipal facilities for which the application
+                             review indicate parameters above accepted quantitation levels.
+
+            (b)       Until such time as the Administrator of EPA promulgates, and the
+                      Commission prescribes, an NPDES application form for municipal
+                      facilities that addresses section 307(A) toxics, municipalities shall submit
+                      as part of their application the appropriate pages from EPA Form 3510-
+                      2C. Municipalities shall determine the toxic characteristics of their
+                      wastewater by analyzing for the toxic pollutants listed in Table III of
+                      Appendix D of 40 CFR 122 which is incorporated herein and adopted by
+                      reference.      Metal analysis shall be for total recoverable metals.
+                      Additionally, municipalities shall analyze for total hardness (mg/l as
+                      CaCO3) and any Section 307(A) toxic listed in an industrial user's
+                      pretreatment permit for any industrial category identified in 40 CFR 403,
+                      Appendix C which is incorporated herein and adopted by reference.
+                      Municipalities shall submit two influent and two effluent samples
+
+
+
+                                               81
+

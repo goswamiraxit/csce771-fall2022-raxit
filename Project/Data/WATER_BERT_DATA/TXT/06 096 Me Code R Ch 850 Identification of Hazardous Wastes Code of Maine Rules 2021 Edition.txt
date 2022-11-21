@@ -1,0 +1,5542 @@
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Chapter 850: IDENTIFICATION OF HAZARDOUS WASTES
+
+SUMMARY: This rule identifies hazardous wastes. These hazardous wastes
+are subject to regulation according to the provisions of 38 M.R.S., §1301, et
+seq. and to this and other rules adopted thereunder.
+
+NOTE: As used in this rule, "department" has the same meaning as in the
+Rule Concerning the Processing of Applications and Other Administrative
+Matters, 06-096 C.M.R. ch. 2, and may refer to either the "board" or the
+"commissioner". Under certain circumstances, Maine statutes require that
+the board, rather than the commissioner, perform duties that may be
+described or referenced in this rule (e.g. licensing of commercial hazardous
+waste facilities pursuant to 38 M.R.S. §1319-R; licensing of projects of
+"statewide significance" pursuant to 38 M.R.S. §341-D).
+
+l. Legal Authority. This rule is authorized and adopted under 38 M.R.S.
+§1319-O (1) and is intended to be consistent with applicable requirements of
+The Solid Waste Disposal Act, as amended by the Resource Conservation
+and Recovery Act of 1976 (RCRA), as amended, 42 U.S.C.A. 6901, et seq.
+and regulations promulgated by the United States Environmental Protection
+Agency (EPA) thereunder.
+
+2. Preamble. It is the purpose of the Department of Environmental
+Protection, consistent with legislative policy, to provide effective controls for
+the management of hazardous wastes. This rule is promulgated to identify
+hazardous wastes so that effective management measures can be
+implemented.
+
+3. Identification of Hazardous Wastes
+
+A. General
+
+(1) This rule identifies those wastes which are subject to regulation as
+hazardous wastes under 38 M.R.S. §1301, et seq.
+
+(2) Portions of this rule refer to federal regulations of the United States
+Environmental Protection Agency (EPA). Unless otherwise specified, the
+federal regulations referenced are those interim final or final regulations
+revised as of July 1, 1994, as they appeared in volume 40 of the Code of
+Federal Regulations (C.F.R.). References to test methods shall include
+regulations published on July 1, 2005, including 40 C.F.R. 260.11 which is
+hereby adopted by reference. Where specifically indicated, the terms of a
+referenced federal regulation are hereby adopted as terms of this rule,
+except that in regulations incorporated thereby, "EPA", "Administrator",
+"Regional Administrator" and "Director" shall mean "the Maine Department
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+of Environmental Protection or its designated representative"; and the
+phrase "treat, store, and/or dispose" shall mean "handle". In addition, where
+the terms of federal regulations hereby incorporated by reference differ from
+or are inconsistent with other terms of this Chapter or Chapters 850-860,
+the more stringent of the requirements shall apply. Other changes to
+regulations incorporated hereby are as expressly made in this rule.
+
+Waste. "Waste" means any useless, unwanted or discarded substance or
+material, whether or not such substance or material has any other or future
+use and includes any substance or material that is spilled, leaked, pumped,
+poured, emitted, disposed, emptied, or dumped onto the land or into the
+water or ambient air. This definition includes, without being limited to,
+materials which are used in a manner constituting disposal, burned for
+energy recovery, reclaimed or accumulated speculatively.
+
+NOTE: It is intended that the terms "materials which are used in a manner
+constituting disposal, burned for energy recovery, reclaimed or accumulated
+speculatively" should include all materials covered by 40 C.F.R. Section
+261.2(c)(1)-(4) and any amendments thereto.
+
+(3) Definition of hazardous waste
+
+(a) A waste is a hazardous waste if:
+
+(i) It is not excluded from regulation as a hazardous waste under Section
+3(A)(4) of this rule; and
+
+(ii) It meets any of the following criteria:
+
+a. It is listed in Section 3(C) and has not been excluded by EPA under 40
+C.F.R. 260.20 and 260.22 and excluded subsequently by the Department;
+
+b. It is a mixture of a non-hazardous waste and one or more hazardous
+wastes listed in Section 3(C) and has not been excluded by EPA under 40
+C.F.R. 260.20 and 260.22 and excluded subsequently by the Department; or
+
+c. It exhibits any of the characteristics of hazardous waste identified in
+Section 3(B) of this rule.
+
+(b) A waste which is not excluded from regulation under paragraph
+3(A)(3)(a)(i) of this section becomes a hazardous waste when any of the
+following events occur:
+
+(i) In the case of a waste listed in Section 3(C), when the waste first meets
+the listing description set forth in Section 3(C).
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(ii) In the case of a mixture of a non-hazardous waste and one or more listed
+hazardous wastes, when a hazardous waste listed in Section 3(C) is first
+added to the non-hazardous waste.
+
+(iii) In the case of any other waste (including a waste mixture), when the
+waste exhibits any of the characteristics identified in Section 3(B) of this
+rule.
+
+(c) Unless and until it meets the criteria of paragraph (d) below:
+
+(i) A hazardous waste will remain a hazardous waste.
+
+(ii) Any waste generated from the handling of a hazardous waste, including
+any sludge, spill residue, ash, emission control dust or leachate (but not
+including precipitation run-off), is a hazardous waste.
+
+(d) Any waste described in paragraph (c) above is not a hazardous waste if it
+meets the following criteria:
+
+(i) In the case of any waste, it does not exhibit any of the characteristics of
+hazardous waste identified in Section 3(B); however, such waste which
+exhibits a characteristic at the point of generation is still subject to the
+requirements of Chapter 852 even if the waste no longer exhibits a
+characteristic at the point of disposal.
+
+(ii) In the case of a waste which is a listed waste under Section 3(C), contains
+a waste listed under Section 3(C) or is derived from a waste listed in Section
+3(C), it also has been excluded from paragraph (c) by EPA under 40 C.F.R.
+260.20 and 260.22 and excluded subsequently by the Department.
+
+(4) Exclusions
+
+(a) Substances which are not hazardous wastes. The following
+materials are not hazardous wastes for the purpose of this rule:
+
+(i) Domestic sewage; and
+
+(ii) Any mixture of domestic sewage and other wastes that passes through a
+sewer system to a publicly-owned treatment works (POTW) for treatment,
+provided the mixture is a discharge of a non segregable waste at the site of
+generation, the mixture is a discharge from a source whose hazardous
+constituents are subject to categorical, local limits, and prohibitions
+established in accordance with Section 307(b) of the Clean Water Act, and
+the source is in compliance with those limits by means other than dilution
+and the hazardous constituents are sampled and analyzed no less frequently
+than annually. "Domestic sewage" means untreated sanitary wastes that
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+pass through a sewer system. The unknowing receipt of hazardous waste by
+a POTW does not cause the POTW to become a hazardous waste facility.
+
+NOTE: Unless the discharge is non segregable and is subject to categorical
+and local limits, persons discharging hazardous waste to POTWs via a sewer
+system containing domestic sewage or other means are subject to the
+applicable abbreviated license provisions of Chapter 856, Section 11.
+Dischargers to POTWs and POTWs are responsible for complying with the
+applicable provisions of Chapter 856, Section 11. See also Section 12(D) of
+Chapter 851. A waste is considered non-segregable when it is inherently
+mixed with wastewater and is not segregated in containers, tanks, pipes and
+sumps. A segregable waste cannot be introduced to wastewaters unless an
+abbreviated license is held for the activity.
+
+(iii) Industrial wastewater discharges that are point source discharges
+subject to regulation under Section 402 of the Clean Water Act, as amended,
+in so far as any hazardous waste present in the discharge is in fact regulated.
+
+NOTE: This exclusion applies only to the actual point source discharge. It
+does not exclude industrial wastewaters while they are being handled before
+discharge, or sludges that are generated by industrial wastewater treatment.
+The exclusion is further limited by the provisions under Chapter 856 for the
+abbreviated licensing of a POTW for treatment of a hazardous waste.
+
+(iv) Irrigation return flows.
+
+(v) Source, special nuclear or by-product material as defined by the Atomic
+Energy Act of l954, , 42 U.S.C.. 20ll et seq., as amended up to August 8,
+2005.
+
+(vi) Materials subjected to in-situ mining techniques which are not removed
+from the ground as part of the extraction process.
+
+(vii) Household waste, including household waste that has been collected,
+transported, stored, treated, disposed, recovered (e.g., refuse-derived fuel)
+or reused. "Household waste" means any waste material (including garbage,
+trash and sanitary wastes in septic tanks) derived from households
+(including single and multiple residences, hotels and motels, bunkhouses,
+picnic grounds, and day-use recreation areas.)
+
+(viii) Wastes resulting from agricultural activities which are returned to the
+soils as fertilizers. "Agricultural activities" means the growing of vegetables,
+fruit, seeds, nursery crops, poultry, livestock, field crops, cultivated or
+pasture hay and farm woodlot products, including Christmas trees.
+
+(ix) Mining overburden returned to the mine site.
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Note: Wastes from the extraction and beneficiation of metallic ores and
+minerals are regulated under Chapter 200 of the Department's rules, not
+Chapters 850-857.
+
+(x) Fly ash waste, bottom ash waste, slag waste, and flue emission control
+waste generated solely from the combustion of coal, other fossil fuels, or
+wood or generated primarily from the combustion of coal and/or other fossil
+fuels and/or wood, providing that the waste does not exhibit any of the
+characteristics of hazardous waste as defined in Section 3(B)(2), (3), (4), or
+(5) of this rule.
+
+(xi) Drilling fluids, produced waters. and other wastes associated with the
+exploration, development, or production of crude oil, natural gas or
+geothermal energy.
+
+(xii) A sample of waste or sample of water, soil, or air which is collected for
+the sole purpose of testing to determine its characteristics or composition
+provided it meets the requirements of 40 C.F.R. 261.4(d)(1)(i)-(vi) which are
+hereby adopted and incorporated by reference, and the sample collector
+shipping samples to a laboratory and a laboratory returning samples to a
+sample collector comply with 40 C.F.R. 261.4(d)(2) which is hereby adopted
+and incorporated by reference. This exemption does not apply if the
+laboratory determines the waste is hazardous but the laboratory is no longer
+meeting the requirements of this provision.
+
+(xiii) Commercial chemical product that is unused and which is reinserted
+into the onsite manufacturing process without any alteration and is used as
+a substitute for feedstock materials without placement on the land, or that is
+unused and unexpired and is shipped to the original manufacturer or
+distributor with their approval for use.
+
+(xiv) Waste from the leather tanning and finishing industry including
+chrome (blue) trimmings, chrome (blue) shavings, and buffing dust; and
+scrap tanned leather from the leather tanning industry, the shoe
+manufacturing industry, and other leather product manufacturing
+industries, provided the generator can demonstrate the waste meets the
+exemption criteria of 40 C.F.R. 261.4(b)(6)(i) which is hereby adopted and
+incorporated by reference, the waste is managed in a non oxidizing
+environment, and if disposed in Maine, is managed in a secure landfill.
+
+NOTE: Due to the potential conversion of trivalent chromium to hexavalent
+chromium in certain situations, the increased leachability of certain types of
+chrome waste, and the current management of the waste in oxidizing
+environments, the Department continues to have concerns with the
+disposition of this waste stream. These wastes will be managed in secure
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+landfills as special wastes under the Solid Waste Management Regulations,
+06-096 C.M.R. 400-405, 409, and 418.
+
+(xv) Pulping liquors (i.e: black liquor) that are reclaimed in a pulping liquor
+recovery furnace and then reused in the pulping process, provided the
+storage of such liquor, if any, prior to reuse occurs in a fully enclosed tank
+and the liquors are not accumulated speculatively as defined in 40 C.F.R.
+261.1(c)
+
+NOTE: For the purpose of this paragraph, pulping liquor that is spilled or
+otherwise released into the environment may qualify for this exemption only
+to the extent the liquor is recovered for subsequent reuse.
+
+(xvi) Scrap metal which is recycled or intended to be recycled, provided it is
+not accumulated speculatively as defined in 40 C.F.R. 261.1(c). "Scrap
+metal" means bits and pieces of metal parts (e.g., bars, turnings, rods,
+sheets, wire) or metal pieces that may be combined together with bolts or
+soldering (e.g. radiators, scrap automobiles, railroad box cars), which when
+worn or superfluous can be recycled and which are not otherwise mixed with
+or contaminated with non metal hazardous wastes.
+
+NOTE: It is the generator's responsibility to demonstrate to the Department
+that the scrap metal is being recycled.
+
+(xvii) Materials in unopened containers which are unused, unexpired and
+which meet the product specifications, provided the materials are not used
+in a manner constituting disposal (unless the product is normally applied to
+the land) or burned for energy recovery (unless the product is a fuel).
+
+(xviii) Unused, unexpired materials in an original container which meet the
+product specifications, provided the Chief Executive Officers or plant
+managers of the shipping and receiving facilities exchange letters
+acknowledging the exchange of material, the Department receives copies of
+these letters prior to shipment, and the materials are not used in a manner
+constituting disposal (unless the product is originally applied to the land) or
+burned for energy recovery (unless the product is a fuel.) The letter must
+contain the following information: (1) the type and quantity of material
+transferred; (2) the name, address and telephone number of the transferer
+and transferee; (3) the date of transfer; and (4) the proposed use of the
+materials by the transferee.
+
+(xix) Isopropyl alcohol is excluded when shown to be recycled by being used
+or reused as an effective substitute for commercial products provided the
+isopropyl alcohol is not being reclaimed and the generator and recycling
+facility is in compliance with the following:
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+The generator and if located in Maine, the recycler, must maintain the
+following documentation at the facility of the generator and, if located in
+Maine, at the recycling facility, and be available for the Department's
+inspection:
+
+(1) A description of the isopropyl alcohol to be used or reused;
+
+(2) Consistent with the requirements of 40 C.F.R. 261.2(f) a demonstration
+that a known market or disposition exists for the isopropyl alcohol. This
+demonstration must include documentation such as a contract that a
+material is used to substitute for another product; a description of the
+process by which the isopropyl alcohol is beneficially used or reused; a
+representative analysis of the isopropyl alcohol including the hazardous
+constituents found in 40 C.F.R. 261 Appendix VIII; and documentation that
+the use of the material does not introduce toxic constituents into the
+product, for which the material is used as a substitute, in concentrations that
+are higher than those found in analogous products consistent with 40 C.F.R.
+261.2(d)(3)(i)(B); and
+
+(3) Consistent with the requirements of 40 C.F.R. 261.2(f), a demonstration
+by the owners or operators of the receiving facilities that they are actually
+recycling the materials and documenting that they have the necessary
+equipment to do so.
+
+Isopropyl alcohol is not exempt under this provision and is a hazardous
+waste, even if the recycling involves use or reuse, consistent with 40 C.F.R.
+261.2(c) and (e) if the isopropyl alcohol or associated materials are
+reclaimed, used in a manner constituting disposal, or used to produce
+products that are applied to land, or burned for energy recovery, used to
+produce a fuel, or contained in fuels, or if materials are accumulated
+speculatively as defined in 40 C.F.R. 261.1(c)(8), or fed to a halogen acid
+furnace. A respondent in an action to enforce hazardous waste regulations
+who raises a claim that isopropyl alcohol is used or reused under this
+provision must demonstrate consistent with 40 C.F.R. 261.2(f), that there is
+a known market or disposition for the material, and that they meet the terms
+of the exclusion.
+
+(xx) Petroleum-contaminated media and debris that fail the test for the
+toxicity characteristic of Section 3(B)(5) of this Chapter (Waste Codes D018
+through D043) and are subject to the corrective action requirements of
+Chapter 691.
+
+(xxi) Debris (as defined in Section 3(A) of Chapter 852) that does not exhibit
+a hazardous waste characteristic, and which has been treated in accordance
+with Section 14(C) of Chapter 852 or the Department determines is no
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+longer contaminated with hazardous waste. Persons claiming this exclusion
+based on treatment will have the burden of proving by clear and convincing
+evidence in an enforcement action that the material meets all of the
+exclusion requirements.
+
+(xxii) Scrap metal including processed scrap metal, unprocessed home scrap
+metal, and unprocessed prompt scrap metal. As used in this Chapter:
+
+"Processed scrap metal" is scrap metal which has been manually or
+physically altered to either separate it into distinct materials to enhance
+economic value or to improve the handling of materials. Processed scrap
+metal includes, but is not limited to scrap metal which has been baled,
+shredded, sheared, chopped, crushed, flattened, cut, melted, or separated by
+metal type (i.e. sorted), and fines, drosses and related materials which have
+been agglomerated.
+
+"Home scrap metal" is scrap metal as generated by steel mills, foundries,
+and refineries such as turnings, cuttings, punchings, and borings.
+
+(xxiii) "Prompt scrap metal" is scrap metal as generated by the metal
+working/fabrication industries and includes such scrap metal as turnings,
+cuttings, punchings, and borings. Prompt scrap is also known as industrial
+or new scrap metal.Solid waste which consists of discarded arsenical-treated
+wood or wood products which fails the test for the Toxicity Characteristic for
+Hazardous Waste Code D004 through D017 and which is not a hazardous
+waste for any other reason if the waste is generated by persons who utilize
+the arsenical-treated wood and wood product for these materials' intended
+end use.
+
+(xxiv) EPA Hazardous Waste Nos. K060, K087, K141, K142, K143, K144,
+K145, K147, and K148, and any wastes from the coke by-products processes
+that are hazardous only because they exhibit the Toxicity Characteristic (TC)
+specified in Section 3(B)(5) of this Chapter when, subsequent to generation,
+these materials are recycled to coke ovens, to the tar recovery process as a
+feedstock to produce coal tar, or mixed with coal tar prior to the tar's sale or
+refining. This exclusion is conditioned on there being no land disposal of the
+wastes from the point they are generated to the point they are recycled to
+coke ovens or tar recovery or refining processes, or mixed with coal tar.
+
+(xxv) Used cutting oil from metal working operations that is otherwise
+identified in the Waste Oil Management Rules 06-096 C.M.R. ch. 860, §4 as
+a "waste oil which must be managed as a hazardous waste", provided that it:
+
+(1) Exceeds the allowable level for total halogens established in 06-096
+C.M.R. ch. 860(4)(C) (4000 ppm) due solely to the presence of chlorinated
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+paraffins as a constituent of the cutting oil itself, and not due to the mixing
+of a halogenated hazardous waste with the oil;
+
+(2) Is not mixed or contaminated with any other hazardous waste, and does
+not exhibit hazardous waste characteristics except as provided in 06-096
+C.M.R ch. 860(4)(C), as demonstrated through sampling and analysis,
+and/or knowledge of process;
+
+(3) Does not exceed the allowable levels established in 06-096 C.M.R. ch.
+860(4)(C) for arsenic, cadium, chromium, lead, PCBs, and flash point;
+
+(4) Is, or will be, processed through a tolling arrangement to reclaim the oil
+as described in 40 C.F.R. 279.24(c), or recycled through an arrangement at a
+facility authorized and equipped to recycle the waste, which is documented
+by a written contract, agreement, bill of sale or receipt from the recycling
+facility;
+
+(5) Is stored, prior to shipment to the recycling or processing facility, at the
+site of generation, on a firm, impervious surface constructed to prevent
+spillage from leaving the area, and in closed, non-leaking containers or tanks
+labeled with the words "Used Oil Containing Chlorinated Paraffins"; and,
+
+(6) Is transported from the site of generation to a facility authorized to
+handle the waste by a Maine-licensed waste oil transporter, and each
+shipment is documented by a bill of lading, a copy of which is retained by
+the generator for at least three years from the date of shipment.
+
+____________________________________________________
+_____
+
+NOTE: Used cutting oils determined not to be hazardous wastes pursuant
+to the above described exclusion may be subject to the provisions of 06-096
+C.M.R. ch. 860 (Waste Oil Management Rules) and/or 40 C.F.R. 279.10
+(Standards for the Management of Used Oil).
+
+____________________________________________________
+_____
+
+(b) Samples
+
+(i) Persons who generate or collect samples for the purpose of conducting a
+treatability study, as defined in 40 C.F.R. 260.10, are not subject to the
+requirements of this Chapter, Chapter 851, or Chapter 853, nor are such
+samples included in the quantity determinations of Section 3(A)(5) of this
+Chapter, under the circumstances specific in paragraph (ii) where the
+conditions in paragraph (iii) are met.
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(ii) The exclusion of paragraph (b)(i) shall apply when the sample is being
+collected and prepared for transportation by the generator or sample
+collector, the sample is being accumulated or stored by the generator or
+sample collector prior to transportation to a laboratory or testing facility, or
+the sample is being transported to the laboratory or testing facility for the
+purpose of conducting a treatability study.
+
+(iii) The exclusion of paragraph (b)(i) shall apply when the conditions of 40
+C.F.R. 261.4(e)(2)(i)-(vi) are met, provided however, that the generator shall
+provide the information required in 40 C.F.R. 261.4(e)(2)(vi) in its annual
+report, and prior approval has been obtained from the Department. The
+provisions of 40 C.F.R. 261.4(e)(2)(i)-(vi) are hereby adopted and
+incorporated by reference, except that the term "biennial" in 40 C.F.R.
+261.4(e)(2)(vi) shall mean "annual".
+
+(c) Solvent-Contaminated Wipes
+
+(i) For purposes of this subsection, "solvent-contaminated wipes" means
+woven or non-woven shop towels, rags, pads, or swabs made of wood pulp,
+fabric, cotton, polyester blends, or other material, that, after use or after
+cleaning up a spill, either:
+
+(1) Contains one or more of the F001 through F005 solvents listed in section
+3(C)(2) or the corresponding P- or U-listed solvents found in section
+3(C)(4);
+
+(2) Contains one or more solvents listed in section 3(C) which exhibit a
+hazardous waste characteristic found in section 3(B) when that
+characteristic results from a listed solvent; and/or,
+
+(3) Contains one or more solvents that are not listed in section 3(C) which
+exhibit only the hazardous waste characteristic of ignitability found in
+section 3(B)(2).
+
+(ii) The following solvent contaminated wipes are not considered hazardous
+waste from the point of generation, provided that the generator also
+complies with the provisions of 3(A)(4)(c)(iv) below:
+
+(1) Solvent-contaminated wipes that the generator either launders or dry
+cleans on-site, or sends off-site to be laundered or dry cleaned, and the on-
+site or off-site facility: is located in Maine or in a state that has adopted the
+exclusion at 40 C.F.R. 261.4(a)(26) as amended up to July 1, 2016 or
+adopted a state equivalent rule which is no less stringent than 40 C.F.R.
+261.4(a)(26), and its discharge, if any, is regulated under sections 301 and
+402 or section 307 of the Clean Water Act.
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(2) Solvent- contaminated wipes that are sent for disposal provided that:
+
+(a) They are not hazardous waste due to the presence of trichloroethylene;
+and,
+
+(b) The generator sends the solvent-contaminated wipes for disposal to: an
+authorized out-of-state facility in a state where the exclusion at 40 C.F.R.
+261.4(b)(18) as amended up to July 1, 2016 or a state equivalent rule which
+is no less stringent than 40 C.F.R. 261.4(b)(18) has been adopted; a
+municipal solid waste landfill regulated under the Department's Solid Waste
+Management Rules 09-096 C.M.R. Chapters 400 to 425; a hazardous waste
+landfill regulated under 06-096 C.M.R. 854 to 856; a municipal waste
+combustor or other combustion facility regulated under section 06-096
+C.M.R. 143; or, to a hazardous waste combustor, boiler, or industrial furnace
+regulated under 06-096 C.M.R. 854 to 856.
+
+(iii) Solvent-contaminated wipes that also contain listed hazardous waste
+other than solvents, or exhibit toxicity, corrosivity, or reactivity due to
+contaminants other than solvents, are not eligible for the exclusions in this
+section.
+
+(iv) All solvent-contaminated wipes excluded from the point of generation
+under sections 3(A)(4)(c)(ii) above must also meet the following provisions:
+
+(1) Containers in which solvent-contaminated wipes are stored must be used
+only for the storage of those wipes, and not for any other wipes or wastes.
+
+(2) No more than 180 days after the date on which a generator begins to
+accumulate solvent-contaminated wipes in any container, all solvent-
+contaminated wipes in that container shall be sent for cleaning or disposal;
+
+(3) Solvent-contaminated wipes, when accumulated, stored and transported,
+must be contained in non-leaking, closed containers. A container is
+considered closed where there is complete contact between the fitted lid and
+the rim, except when it is necessary to add or remove solvent-contaminated
+wipes;
+
+(4) Any container in which solvent-contaminated wipes are accumulated,
+stored or transported must be able to contain free liquids, should free
+liquids accumulate;
+
+(5) Containers in which solvent-contaminated wipes are accumulated,
+stored, or transported must be clearly labeled or marked with the words
+"Excluded Solvent-Contaminated Wipes";
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(6) When the container is full or the solvent-contaminated wipes are no
+longer being accumulated and/or when the container is being transported,
+the container must be sealed with all lids properly and securely affixed to the
+container and all openings tightly bound or closed sufficiently to prevent
+leaks and emissions;
+
+(7) At the point of being sent for cleaning on site or of being transported off
+site for cleaning or disposal, the solvent-contaminated wipes must contain
+no free liquids, as defined by 40 C.F.R. 260.10 as amended up to July 1,
+2016, and as determined by Method 9095B (Paint Filter Liquids Test),
+included in "Test Methods for Evaluating Solid Waste, Physical/Chemical
+Methods" (EPA Publication SW-846) (see Appendix XI);
+
+(8) Free liquids removed from the solvent-contaminated wipes or from the
+container holding the wipes must be managed in accordance with the
+hazardous waste management rules; and,
+
+(9) Generators must maintain the following documentation on site:
+
+(a) Name and address of the laundry, dry cleaner, landfill or combustor that
+is receiving the solvent-contaminated wipes;
+
+(b) Documentation that the 180-day accumulation time limit in subsection
+(iv)(2) above is being met; and
+
+(c) Description of the process the generator is using to ensure the solvent-
+contaminated wipes contain no free liquids at the point of being laundered
+or dry cleaned on-site, or being transported off-site for laundering, dry
+cleaning or disposal.
+
+(d) Treatability study
+
+(i) Samples undergoing a treatability study and the laboratory or testing
+facility conducting such treatability study (to the extent the facility is not
+
+otherwise subject to the requirements of Chapters 850-860) are not subject
+to the requirements of Chapters 850-860 provided the conditions in
+paragraph (d)(ii) are met. A mobile treatment unit (MTU) may qualify as a
+testing facility, and where a group of MTUs are located at the same site, the
+limitations of paragraph (d)(ii) apply to the entire group of MTUs as if the
+group were one MTU.
+
+(ii) The exclusion of paragraph (d)(i) shall apply when the conditions of 40
+C.F.R. 261.4(f)(1)-(11) are met (such provisions are hereby adopted and
+incorporated by reference, provided however, that references to "40 C.F.R.
+261.3" shall mean "this Chapter", "Parts 261 through 268 and Part 270 of
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+this Chapter" shall mean "Chapters 850-860" and "40 C.F.R. 261.4(e)" shall
+mean "paragraph (b)(i)-(iii) above") and prior approval has been obtained
+from the Department.
+
+(5) Special requirements for hazardous waste generated by small
+quantity generators
+
+(a) Except as otherwise provided in this section, if a person determines
+whether the waste he generates is hazardous under Chapter 851, Section 5
+and generates, in a calendar month, a total of less than 100 kilograms
+(220.46 lbs.) of hazardous wastes, those wastes are not subject to regulation
+under 38 M.R.S., §1301, et seq. and related rules, provided the generator
+complies with paragraph (d) below.
+
+NOTE: A small quantity generator is required to properly package for
+shipment, manifest, use a licensed hazardous waste transporter, and ship its
+hazardous waste to an authorized facility identified in Section 3(A)(5)(d)(v)
+of this chapter.
+
+(b) If a person whose waste has been excluded from regulation under
+paragraph (a) above accumulates hazardous wastes in quantities greater
+than 600 kilograms or acutely hazardous wastes in quantities greater than
+set forth in paragraph (c) of this section, all of those accumulated wastes are
+subject to regulation under 38 M.R.S. §1301 et seq. and related rules
+(Chapters 850-860 of the Department's rules).
+
+(c) If a person generates in a calendar month or accumulates at any time any
+of the following acutely hazardous wastes in quantities greater than set forth
+below, those wastes are subject to regulation under 38 M.R.S., §1301 et seq.
+and related rules. (Chapters 850-857 of the Department's Rules).
+
+(i) A total of one kilogram of commercial chemical products and
+manufacturing chemical intermediates having the generic names listed in
+Section 3(C)(4)(e) of this Chapter and off-specification commercial chemical
+products and manufacturing chemical intermediates which, if they met
+specifications, would have the generic names listed in Section 3(C)(4)(e) of
+this Chapter.
+
+(ii) A total of one kilogram of the following hazardous wastes listed in
+Section 3(C)(2)(a) of this rule: Industry and EPA hazardous waste Nos.
+F020, F021, F022, F023, F026, F027, and F028.
+
+(iii) Any containers identified in Section 3(C)(4)(c) of this Chapter that are
+larger than 20 liters in capacity;
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(iv) Ten (10) kilograms of inner liners from containers identified in Section
+3(C)(4)(c) of this Chapter;
+
+(v) A total of 100 kilograms of any residue or contaminated soil, water, or
+other debris resulting from the cleanup of a spill, into or on any land or
+water, of any commercial chemical products or manufacturing chemical
+intermediates having the generic names listed in Section 3(C)(4)(e) of this
+Chapter or any residue or contaminated soil, water, or other debris resulting
+from the cleanup of a spill, into or on any land or water, of any
+off-specification commercial chemical products or manufacturing chemical
+intermediates which, if they met specifications, would have the generic
+names listed in Section 3(C)(4)(e) of this Chapter;
+
+NOTE: Any person who exceeds the quantity requirements outlined in
+Sections 3(A)(5)(b) and 3(A)(5)(c) of this rule is subject to full regulation
+(i.e., regulation applicable to generators of greater than 100 kilograms per
+month of hazardous waste), including the requirements of Chapter 851,
+Section 8(B) that relate to accumulation times for hazardous waste. The
+time period in Section 8(B) of Chapter 851 begins when the accumulated
+wastes exceed the applicable exclusion limit.
+
+(d) In order for hazardous waste to be excluded from regulation under this
+section, the generator must:
+
+(i) Determine whether the waste generated is hazardous in accordance with
+Section 5 of Chapter 851;
+
+(ii) Store the waste in a container no greater than 55 gallons in size, label
+and package the hazardous waste in accordance with Section 8(A) and
+8(B)(3) of Chapter 851, and label the container with the date the container
+becomes full;
+
+(iii) Properly manifest the hazardous waste in accordance with Chapter 857;
+
+(iv) Utilize a licensed transporter in accordance with Section 7 of Chapter
+851;
+
+(v) Transport, or offer for transport, such waste only to a waste facility for
+hazardous waste which is authorized to handle the waste under a state
+program, and if applicable, under the federal hazardous waste regulatory
+program; and
+
+(vi) Ship off site such waste within 180 days of the date the drum becomes
+full; and
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(vii) If more than 55 gallons (approximately 200 kg) of a non-acutely
+hazardous waste is stored onsite, the generator must in addition:
+
+a. Manage the waste in accordance with Sections 8(B)(2), 11, 13(B)(1),(2),
+13(C)(1), (3), (4) and 13(D)(1), and (2) of Chapter 851; and
+
+b. In accordance with Chapter 851 Section 6, have a generator identification
+number assigned to the generator by the Maine Department of
+Environmental Protection if the generator will be operating under the
+provisions of 3(A)(5)(d)(vii) of this Chapter.
+
+NOTE: To be eligible for the reduced requirements of this section, a small
+quantity generator must store its waste in containers.
+
+(e) Hazardous waste subject to the reduced requirements of paragraph (d)
+that is mixed with non-hazardous waste remains subject to these reduced
+requirements as long as the resultant mixture does not exceed the quantity
+limitations identified in this section. If any person mixes a solid waste with a
+hazardous waste that exceeds a quantity exclusion level of this section, the
+mixture is subject to full regulation. Mixture of a characteristic hazardous
+waste with a non hazardous waste such that the mixture no longer exhibits a
+characteristic constitutes treatment which requires a license pursuant to
+Chapters 854 and 856.
+
+(6) Special requirements for hazardous waste which is
+beneficially used or reused
+
+(a) Activities that may be eligible for reduced licensing requirements
+because those activities involve hazardous waste which is beneficially used
+or reused are specified under Section 11 of Chapter 856, "Requirements for
+Facilities Licensed under the Abbreviated License Process."
+
+(b) Activities that involve recycling and reclamation of hazardous waste are
+considered forms of treatment and, as such, are subject to the requirements
+of Chapter 854 and 856 with respect to treatment of hazardous waste.
+
+(7) Residues of hazardous waste in empty containers. Any residue
+remaining in a container or an inner liner removed from a container that has
+held any hazardous waste other than hazardous waste identified as acute
+hazardous waste in Section 3(C)(2), 3(C)(3) or 3(C)(4)(e) is a hazardous
+waste unless the container is empty as defined below:
+
+(a) All wastes have been removed that can be removed using the practices
+commonly employed to remove materials from that type container and
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(b) No more than one inch of residue containing no free liquids remains on
+the bottom of the container or inner liner or
+
+NOTE: Removing free liquids from a container may include: draining the
+emptied container for at least thirty (30) seconds after the steady flow of
+hazardous waste has ceased and individual droplets are clearly evident and
+then performing that procedure two more times.
+
+(c) The container or inner liner has been triple rinsed using a solvent
+capable of removing the waste, or
+
+(d) If the container has held a hazardous waste that is a compressed gas, the
+pressure in the container is at atmospheric.
+
+Any residue remaining in a container or an inner liner removed from a
+container that has held an acute hazardous waste is empty if the container or
+inner liner has been triple rinsed using a solvent capable of removing the
+waste or, in the case of a container, the inner liner that prevented contact of
+the commercial chemical product or manufacturing chemical intermediate
+with the container, has been removed.
+
+(e) no more than 3% by weight of the total capacity remains in the container
+or inner liner if the container is less than or equal to 119 gallons; or
+
+no more than 0.3% by weight of the total capacity remains in the container
+or inner liner if the container is greater than 119 gallons.
+
+(8) The use of material which is contaminated or mixed with dioxin or any
+other hazardous waste identified in Chapter 850, for dust suppression or
+road treatment is prohibited.
+
+(9) No other fuel which contains any hazardous waste may be burned in any
+cement kiln or other boiler or industrial furnace unless licensed under
+Chapter 856.
+
+(10) Persons who generate, transport, or collect non-leaking spent lead acid
+batteries, or who store non-leaking spent batteries but do not reclaim or
+intend to reclaim them are not required to obtain a license for such a facility.
+
+(11) Owners or operators of facilities that store spent lead acid batteries
+before reclaiming them are required to obtain a license for such storage
+under Chapter 856.
+
+(12) Delistings: [RESERVED]
+
+RESERVED SPACE
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(13) Special Requirements for Universal Wastes
+
+(a) All generators of universal wastes must comply with either the full
+Hazardous Waste Management Rules, Chapter 850 through 857, including
+all requirements in this Section, or the alternative standards of Chapter 858.
+
+(b) Universal Wastes are:
+
+(i) Architectural paint
+
+(ii) Cathode ray tubes;
+
+(iii) Lamps;
+
+(iv) Mercury Devices;
+
+(v) Mercury thermostats;
+
+(vi) Motor Vehicle Mercury Switches;
+
+(vii) Totally enclosed, non leaking polychlorinated biphenyl (PCB) ballast;
+
+NOTE: Only mercury-containing lamps or lamps otherwise hazardous are
+included as universal wastes.
+
+NOTE: Batteries are managed as universal waste in accordance with Section
+(14).
+
+(c) Generators, owners or operators of any central accumulation or
+consolidation facility, and transporters of universal wastes are prohibited
+from conducting the following activities:
+
+(i) Disposing, diluting or treating universal wastes.
+
+NOTE: The intentional breaking of universal wastes including Cathode Ray
+Tubes is a form of treatment, and is therefore prohibited at locations other
+than the recycling facility.
+
+(ii) Sending a universal waste to any facility other than a central
+accumulation facility, a consolidation facility for universal waste, an
+approved recycling facility for universal wastes, or in the case of ballasts and
+the residues from mercury spill kits to an approved disposal or treatment
+facility.
+
+NOTE: Generators that self-transport waste must comply with universal
+waste transporter requirements, as provided in Section 11 of Chapter 853.
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+NOTE: Chapters 854 and 856 apply to a universal waste recycling facility.
+
+(d) Household hazardous waste, which meets the description of universal
+waste in Section 3(A)(13)(b) but which is exempt under Section
+3(A)(4)(a)(vii), when combined or mixed with universal wastes is no longer
+exempt and must be managed in accordance with the requirements of
+Chapter 850, 851, 853, 856, 857, and 858.
+
+(e) All generators of universal wastes must:
+
+(i) Determine whether the waste generated is hazardous in accordance with
+Section 5 of Chapter 851 and, pursuant to 38 M.R.S. §1663 determine that
+all mercury containing lamps are a universal waste; and
+
+(ii) Determine whether the waste is a universal waste under section 13(b)
+above;
+
+NOTE: If a hazardous waste is not eligible for regulation under the
+universal waste rules, then the full hazardous waste management rules
+apply.
+
+(iii) Immediately contain and transfer all releases of waste and residues
+resulting from spills or leaks from broken or ruptured universal waste to a
+container that meets the requirements of the Maine Hazardous Waste
+Management Rules (Chapter 850 through 857), except that waste and
+residues from incidental breakage may still be managed as a universal
+waste;
+
+(iv) Determine by testing, or handle as hazardous, clean up residues
+resulting from spills or leaks from events other than incidental breakage of
+lamps or CRTs in accordance with Maine Hazardous Waste Management
+Rules (Chapter 850 through 857) including generator accumulation time
+limit, storage and disposal standards, and count this waste toward the
+determination of hazardous waste generator status;
+
+(14) Special requirements for certain batteries
+
+Batteries that are described in 40 C.F.R. 273.2 revised as of July 1, 2001
+must be managed in accordance with 40 C.F.R. 273 revised as of July 1,
+2001, except that references to 40 C.F.R. Parts 260 through 272 shall mean
+850 through 857 of the Maine Hazardous Waste Management Rules and
+except that 40 C.F.R. 273.8(a)(2) is not adopted, and instead, batteries
+handled by federally conditionally exempt small quantity generators are
+regulated as small quantity handlers pursuant to 40 C.F.R. 273 Subpart B. In
+addition, instead of 40 C.F.R. 273.2(c), a battery becomes a waste on the
+date that it becomes useless, unwanted, or intended for disposal, and spent
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+lead acid batteries described in 40 C.F.R. 273.2(a)(2) and 273.2(b)(1) are
+regulated under 850 through 858 instead of 40 C.F.R. part 266, subpart G.
+
+B. Identification of hazardous wastes by characteristics
+
+(1) General
+
+(a) A waste which is not excluded from regulation as a hazardous waste
+under Section 3(A)(4) of this rule is a hazardous waste if it exhibits any of
+the characteristics identified in this rule.
+
+(b) A hazardous waste which is identified by a characteristic in this section is
+assigned every EPA Hazardous Waste Number that is applicable in Section
+3(B) of this Chapter. This number, alone or in combination with another
+number assigned by the Department as provided by rule, must be used in
+complying with regulatory requirements of Chapters 850 - 857 and Section
+3010 of RCRA.
+
+(c) For purposes of this Section 3(B) of this rule, the Department will
+consider a sample obtained using any of the applicable sampling methods
+specified in Appendix I of this rule to be a representative sample within the
+meaning of 40 C.F.R. 260.10 of EPA regulations. A person who desires to
+employ an alternative sampling method must demonstrate the equivalency
+of that method under the procedures set forth in 40 C.F.R. 260.20 and
+260.2l.
+
+(2) Characteristic of ignitability
+
+(a) A waste exhibits the characteristic of ignitability if a representative
+sample of the waste has any of the following properties:
+
+(i) It is a liquid, other than an aqueous solution containing less than 24
+percent alcohol by volume, and has a flash point less than 60º C (l40º F) as
+determined by a Pensky-Martens Closed Cup Tester, using the test method
+specified in ASTM Standard D-93-79 or D-93-80, or a Setaflash Closed Cup
+Tester, using the test method specified in ASTM standard D-3278-78, or as
+determined by an equivalent test method approved by the EPA under the
+procedures set forth in 40 C.F.R. 260.20 and 260.21.[1]
+
+(ii) It is not a liquid and is capable, under standard temperature and
+pressure, of causing fire through friction, absorption of moisture or
+spontaneous chemical changes and, when ignited, burns so vigorously and
+persistently that it creates a hazard.
+
+(iii) It is an ignitable compressed gas.
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(1) The term "compressed gas" shall designate any material or mixture
+having in the container an absolute pressure exceeding 40 p.s.i. at 70° F or,
+regardless of the pressure at 70° F, having an absolute pressure exceeding
+104 p.s.i. at 130° F; or any liquid flammable material having a vapor
+pressure exceeding 40 p.s.i. absolute at 100° F as determined by ASTM Test
+D-323.
+
+(2) A compressed gas shall be characterized as ignitable if any one of the
+following occurs:
+
+(a) Either a mixture of 13 percent or less (by volume) with air forms a
+flammable mixture or the flammable range with air is wider than 12 percent
+regardless of the lower limit. These limits shall be determined at
+atmospheric temperature and pressure. The method of sampling and test
+procedure shall be acceptable to the Bureau of Explosives and approved by
+the director, Pipeline and Hazardous Materials Technology, U.S.
+Department of Transportation (US DOT).
+
+(b) Using the Bureau of Explosives' Flame Projection Apparatus, the flame
+projects more than 18 inches beyond the ignition source with valve opened
+fully, or, the flame flashes back and burns at the valve with any degree of
+valve opening.
+
+(c) Using the Bureau of Explosives' Open Drum Apparatus, there is any
+significant propagation of flame away from the ignition source.
+
+(d) Using the Bureau of Explosives' Closed Drum Apparatus, there is any
+explosion of the vapor-air mixture in the drum.
+
+[Note: A description of the Bureau of Explosives' Flame Project Apparatus,
+Open Drum Apparatus, Closed Drum Apparatus, and methods of tests may
+be procured from the Bureau of Explosives.]
+
+(iv) It is an oxidizer. An oxidizer for the purpose of this rule is a substance
+such as a chlorate, permanganate, inorganic peroxide, or a nitrate, that
+yields oxygen readily to stimulate the combustion of organic matter.
+
+(1) An organic compound containing the bivalent -O-O- structure and which
+may be considered a derivative of hydrogen peroxide where one or more of
+the hydrogen atoms have been replaced by organic radicals must be classed
+as an organic peroxide unless:
+
+(a) The material meets the definition of a forbidden explosive or a Division
+1.1, 1.2, or 1.3 explosive, as defined in Section 3(B)(4)(viii) of Chapter 850, in
+which case it must be classed as an explosive,
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(b) The material is forbidden to be offered for transportation according to 49
+C.F.R. 172.101 and 49 C.F.R. 173.21,
+
+(c) It is determined that the predominant hazard of the material containing
+an organic peroxide is other than that of an organic peroxide, or
+
+(d) According to data on file with the Pipeline and Hazardous Materials
+Safety Administration in the US DOT, it has been determined that the
+material does not present a hazard in transportation.
+
+[Note: An organic peroxide is a type of oxidizer.]
+
+(b) A waste that exhibits the characteristic of ignitability has the EPA
+Hazardous Waste Number of D001.
+
+(3) Characteristic of corrosivity
+
+(a) A waste exhibits the characteristic of corrosivity if a representative
+sample of the waste has either of the following properties:
+
+(i) It is aqueous and has a pH less than or equal to 2 or greater than or equal
+to 12.5, as determined by a pH meter using either Method 9040 as specified
+in the "Test Methods for Evaluating Solid Waste, Physical/Chemical
+Methods," EPA Publication SW-846 as published July 1, 2005[2] or an
+equivalent test method approved by EPA under the procedures set forth in
+40 C.F.R. 260.20 and 260.21.
+
+(ii) It is a liquid and corrodes steel (SAE l020) at a rate greater than 6.35
+mm (0.250 inch) per year at a test temperature of 55º C (130º F) as
+determined by the test method specified in NACE (National Association of
+Corrosion Engineers) Standard TM-01-69[3] as standardized in "Test
+Methods for Evaluating Solid Waste, Physical/Chemical Methods," EPA
+Publication SW-846 or an equivalent test method approved by EPA under
+the procedures set forth in 40 C.F.R. 260.20 and 260.2l.
+
+(b) A waste that exhibits the characteristic of corrosivity has the EPA
+Hazardous Waste Number of D002.
+
+(4) Characteristic of reactivity
+
+(a) A waste exhibits the characteristic of reactivity if a representative sample
+of the waste has any of the following properties:
+
+(i) It is normally unstable and readily undergoes violent change without
+detonating.
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(ii) It reacts violently with water.
+
+(iii) It forms potentially explosive mixtures with water.
+
+(iv) When mixed with water, it generates toxic gases, vapors or fumes in a
+quantity sufficient to present a danger to human health or the environment.
+
+(v) It is a cyanide or sulfide bearing waste which, when exposed to pH
+conditions between 2 and l2.5, can generate toxic gases, vapors or fumes in a
+quantity sufficient to present a danger to human health or the environment.
+
+(vi) It is capable of detonation or explosive reaction if it is subjected to a
+strong initiating source or if heated under confinement.
+
+(vii) It is readily capable of detonation or explosive decomposition or
+reaction at standard temperature and pressure.
+
+(viii) It is a forbidden explosive as defined in 49 C.F.R. l73.54, or a Division
+1.1, 1.2, or 1.3 explosive as defined in 49 C.F.R. l73.50 and 49 C.F.R. l73.53.
+
+(b) A waste that exhibits the characteristic of reactivity has the EPA
+Hazardous Waste Number of D003.
+
+(5) Characteristic of toxicity
+
+(a) A waste exhibits the characteristic of toxicity if, using the Toxicity
+Characteristic Leaching Procedure (TCLP) Test Method 1311 in "Test
+Methods for Evaluating Solid Waste, Physcial/Chemical Methods", EPA
+Publication SW-846 (see Appendix III for information on obtaining SW-
+846), the extract from a representative sample of the waste contains any of
+the contaminants listed in Table 1 at the concentration equal to or greater
+than the respective value given in that table. Where the waste contains less
+than 0.5 percent filterable solids, the waste itself, after filtering using the
+methodology outlined in Method 1311, is considered to be the extract for the
+purpose of this section.
+
+(b) A waste that exhibits the characteristic of toxicity has the EPA Hazardous
+Waste Number specified in Table I which corresponds to the toxic
+contaminant causing it to be hazardous.
+
+Table I. Maximum Concentration of Contaminants for the
+Toxicity Characteristic
+
+EPA Hazardous                                                  Regulatory Level
+                 Contaminant                     CAS No.   5
+
+Waste No. 4                                                    (mg/L)
+06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+            (Code of Maine Rules (2021 Edition))
+
+
+D004        Arsenic                      7440-38-2 5.0
+D005        Barium                       7440-39-3 100.0
+D018        Benzene                      71-43-2 0.5
+D006        Cadmium                      7440-43-9 1.0
+D019        Carbon tetrachloride         56-23-5 0.5
+D020        Chlordane                    57-74-9 0.03
+D021        Chlorobenzene                108-90-7 100.0
+D022        Chloroform                   67-66-3 6.0
+D007        Chromium                     7440-47-3 5.0
+D023        o-Cresol                     95-48-7 200.0 7
+D024        m-Cresol                     108-39-4 200.0 7
+D025        p-Cresol                     106-44-5 200.0 7
+D026        Cresol                                 200.0 7
+D016        2,4-D                        94-75-7 10.0
+D027        1,4-Dichlorobenzene          106-46-7 7.5
+D028        1,2- Dichloroethane          107-06-2 0.5
+D029        1,1-Dichloroethylene         75-35-4 0.7
+D030        2,4-Dinitrotoluene           121-14-2 0.13 6
+D012        Endrin                       72-20-8 0.02
+D031        Heptachlor (and its epoxide) 76-44-8 0.008
+D032        Hexachlorobenzene            118-74-1 0.13 6
+D033        Hexachlorobutadiene          87-68-3 0.5
+D034        Hexachloroethane             67-72-1   3.0
+D008        Lead                         7439-92-1 5.0
+D013        Lindane                      58-89-9 0.4
+D009        Mercury                      7439-97-6 0.2
+D014        Methoxychlor                 72-43-5 10.0
+D035        Methyl ethyl ketone          78-93-3 200.0
+D036        Nitrobenzene                 98-95-3 2.0
+D037        Pentrachlorophenol           87-86-5 100.0
+D038        Pyridine                     110-86-1 5.0 6
+D010        Selenium                     7782-49-2 1.0
+D011        Silver                       7440-22-4 5.0
+D039        Tetrachloroethylene          127-18-4 0.7
+D015        Toxaphene                    8001-35-2 0.5
+D040        Trichloroethylene            79-01-6 0.5
+D041        2,4,5-Trichlorophenol        95-95-4 400.0
+D042        2,4,6-Trichlorophenol        88-06-2 2.0
+D017        2,4,5 - TP (Silvex)          93-72-1 1.0
+D043        Vinyl Chloride               75-01-4 0.2
+    06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+                (Code of Maine Rules (2021 Edition))
+
+
+4   Hazardous waste number.
+
+5   Chemical abstracts service number.
+
+6Quantitation limit is greater then the calculated regulatory level. The
+quantitiation limit therefore becomes the regulatory level.
+
+7If o-,m-, and p-Cresol concentrations cannot be differentiated, the total
+cresol (D026) concentration is used. The regulatory level of total cresol is
+200 mg/l.
+
+C. Identification of hazardous wastes by particular substance, by
+chemical class or as waste products of specific industrial
+activities
+
+(1) General
+
+(a) A waste is a hazardous waste if it is listed in Section 3(C) of this rule
+unless it has been excluded by EPA under 260.20 and 260.22 of EPA
+regulations and excluded subsequently by the Maine Board of
+Environmental Protection.
+
+(b) Each hazardous waste listed in this section is assigned an EPA
+Hazardous Waste Number and/or a number assigned by the Department as
+provided by rule. These numbers, alone or in combination, must be used in
+complying with regulatory requirements as provided by rule in Chapter 850
+- 857 and 3010 of RCRA.
+
+(c) Certain of the hazardous waste listed in Section 3(C)(2) or 3(C)(3) have
+exclusion limits that refer to Section 3(A)(5)(c).
+
+(2) Hazardous wastes from non-specific sources. A waste is a
+hazardous waste if it is listed below:
+
+(a) The F-listed wastes listed in the table below:
+
+                                                                                      Hazardou
+Industry and EPA                                                                      s
+                                Hazardous Waste
+Hazardous No.                                                                         Waste
+                                                                                      Code8
+                                The following waste halogenated solvents used in
+Generic:                        degreasing: tetrachloroethylene, trichloroethylene,
+                                methylene chloride, 1,1,1-trichloroethane, carbon      (T)
+F001                            tetrachloride and chlorinated fluorocarbons; all waste
+                                solvent mixtures/blends used in degreasing
+06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+            (Code of Maine Rules (2021 Edition))
+
+
+                       containing, before use, a total of ten percent or more
+                       (by volume) of one or more of the above halogenated
+                       solvents or those solvents listed in F002, F004, and
+                       F005; and still bottoms from the recovery of these
+                       waste solvents and waste solvent mixtures.
+                       The following waste halogenated solvents:
+                       tetrachloroethylene, methylene chloride,
+                       trichloroethylene, 1,1,1-trichloroethane,
+                       chlorobenzene, 1,1,2-trichloro-1,2,2-trifluoroethane,
+                       ortho-dichlorobenzene, trichlorofluoromethane and
+                       1,1,2-trichloroethane; all waste solvent
+F002                                                                             (T)
+                       mixtures/blends containing, before use, a total of ten
+                       percent or more (by volume) of one or more of the
+                       above halogenated solvents or those solvents listed in
+                       F001, F004, and F005; and still bottoms from the
+                       recovery of these waste solvents and waste solvent
+                       mixtures.
+                       The following waste non-halogenated solvents:
+                       xylene, acetone, ethyl acetate, ethyl benzene, ethyl
+                       ether, methyl isobutyl ketone, n-butyl alcohol,
+                       cyclohexanone, and methanol; all waste solvent
+                       mixtures/blends containing before use, only the
+                       above waste non-halogenated solvents; and all waste
+F003                                                                             (I)9
+                       solvent mixtures/blends containing, before use one
+                       or more of the above non-halogenated solvents, and,
+                       a total of ten percent or more (by volume) of one or
+                       more of those solvents listed in F001, F002, F004, or
+                       F005; and still bottoms from the recovery of these
+                       waste solvents and waste solvent mixtures.
+                       The following waste non-halogenated solvents:
+                       cresols and cresylic acid and nitrobenzene; all waste
+                       solvent mixtures/blends containing, before use, a
+                       total of ten percent or more (by volume) of one or
+F004                                                                             (T)
+                       more of the above non-halogenated solvents or those
+                       solvents listed in F001, F002, and F005; and still
+                       bottoms from the recovery of these waste solvents
+                       and waste solvent mixtures.
+                       The following waste non-halogenated solvents:
+                       toluene, methyl ethyl ketone, carbon disulfide,
+                       isobutanol, pyridine, benzene, 2-ethoxyethanol, and
+F005                                                                             (T, I)
+                       2-nitropropane; all waste solvent mixtures and
+                       blends containing before use, a total of ten percent or
+                       more (by volume) of one or more of the above
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+                                 non-halogenated solvents or those solvents listed in
+                                 F001, F002, or F004; and still bottoms from the
+                                 recovery of these waste solvents and waste solvent
+                                 mixtures.
+For the purposes of
+administering and enforcing
+this Rule, the Department
+presumes that a discharge to
+any land or surface or ground
+waters is the result of a
+discharge of hazardous waste
+if such discharge contains the
+presence of any waste
+identified in F001-F005. In
+order to overcome this
+presumption, a person must
+demonstrate to the
+satisfaction of the
+Commissioner through clear
+and convincing evidence that
+the waste was discharged
+prior to 1980 or that the
+waste, at the time of
+discharge, was not a
+hazardous waste as identified
+in F001-F005 above.
+                                 Wastewater treatment sludges from electroplating
+                                 operations except from the following processes: (1)
+                                 sulfuric acid anodizing of aluminum; (2) tin plating
+                                 on carbon steel; (3) zinc plating (segregated basis) on
+F006                                                                                       (T)
+                                 carbon steel; (4) aluminum or zinc-aluminum plating
+                                 on carbon steel; (5) cleaning/stripping associated
+                                 with tin, zinc and aluminum plating on carbon steel;
+                                 and (6) chemical etching and milling of aluminum.
+                                 Spent cyanide plating bath solutions from
+F007                                                                                       (R,T)
+                                 electroplating operations.
+                                 Plating bath residues from the bottom of plating
+F008                             baths from electroplating operations where cyanides       (R,T)
+                                 are used in the processes.
+                                 Spent stripping and cleaning bath solutions from
+F009                             electroplating operations where cyanides are used in      (R,T)
+                                 the process.
+F010                             Quenching bath residues from oil baths from metal         (R,T)
+06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+            (Code of Maine Rules (2021 Edition))
+
+
+                       heat treating operations where cyanides are used in
+                       the process.
+                       Spent cyanide solutions from salt bath pot cleaning
+F011                                                                          (R,T)
+                       from metal heat treating operations.
+                       Quenching wastewater treatment sludges from metal
+F012                   heat treating operations where cyanides are used in (T)
+                       the process.
+                       Wastewater treatment sludges from the chemical
+                       conversion coating of aluminum, except from
+F019                   zirconium phosphating in aluminum can washing          (T)
+                       when such phosphating is an exclusive conversion
+                       coating process.
+                       Wastes (except wastewater and spent carbon from
+                       hydrogen chloride purification) from the production
+                       or manufacturing use [as a reactant, chemical
+                       intermediate or component in a formulating process]
+F020                   of tri- or tetrachlorophenol, or of intermediates used (H)
+                       to produce their pesticide derivatives. (This listing
+                       does not include wastes from the production of
+                       Hexachlorophene from highly purified
+                       2,4,5-trichlorophenol.)
+                       Wastes (except wastewater and spent carbon from
+                       hydrogen chloride purification) from the production
+                       or manufacturing use (as a reactant, chemical
+F021                                                                          (H)
+                       intermediate or component in a formulating process)
+                       of pentachlorophenol, or of intermediates used to
+                       produce its derivatives.
+                       Wastes (except wastewater and spent carbon from
+                       hydrogen chloride purification) from the
+                       manufacturing use (as a reactant, chemical
+F022                                                                          (H)
+                       intermediate, or component in a formulating process)
+                       of tetra-, penta-, or hexachlorobenzenes under
+                       alkaline conditions.
+                       Wastes (except wastewater and spent carbon from
+                       hydrogen chloride purification) from the production
+                       of material on equipment previously used for the
+                       production or manufacturing use (as a reactant,
+                       chemical intermediate, or component in a
+F023                                                                          (H)
+                       formulating process) of tri-, and tetrachlorophenols.
+                       (This listing does not include wastes from equipment
+                       used only for the production or use of
+                       Hexachlorophene from highly purified
+                       2,4,5-trichlorophenol.)
+06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+            (Code of Maine Rules (2021 Edition))
+
+
+                       Process wastes, including but not limited to
+                       distillation residues, heavy ends, tars and reactor
+                       clean-out wastes from the production of certain
+                       chlorinated aliphatic hydrocarbons by free radical
+                       catalyzed processes. These chlorinated aliphatic
+F024                   hydrocarbons are those having carbon chain lengths (T)
+                       ranging from one to and including five, with varying
+                       amounts and positions of chlorine substitution. (This
+                       listing does not include, wastewaters, wastewater
+                       treatment sludges, spent catalysts, and wastes listed
+                       in 40 C.F.R. 261.31 or 261.32).
+                       Condensed light ends, spent filters, and filter aids,
+                       and spent dessicant wastes from the production of
+                       certain chlorinated aliphatic hydrocarbons, by free
+F025                   radicalized processes. These chlorinated aliphatic     (T)
+                       hydrocarbons are those having carbon chain lengths
+                       ranging from one to and including five, with varying
+                       amounts and positions of chlorine substitution.
+                       Wastes (except wastewater and spent carbon from
+                       hydrogen chloride purification) from the production
+                       of materials on equipment previously used for the
+F026                   manufacturing use (as a reactant, chemical             (H)
+                       intermediate, or component in a formulating process)
+                       of tetra-, penta-, or hexachlorobenzene under
+                       alkaline conditions.
+                       Discarded unused formulations containing tri-, tetra-,
+                       or pentachlorophenol or discarded unused
+                       formulations containing compounds derived from
+F027                   these chlorophenols. (This listing does not include    (H)
+                       formulations containing Hexachlorophene
+                       synthesized from prepurified 2,4,5-trichlorophenol as
+                       the sole component.)
+                       Residues resulting from the incineration or thermal
+F028                   treatment of soil contaminated with EPA Hazardous (T)
+                       Waste Nos. F020, F02l, F022, F023, F026, and F027.
+                       Petroleum refinery primary oil/water/solids
+                       separation sludge. Any sludge generated from the
+                       gravitational separation of oil/water/solids during
+                       the storage or treatment of process wastewaters and
+F037                                                                        (T)
+                       oily cooling wastewaters from petroleum refineries.
+                       Such sludges include, but are not limited to, those
+                       generated in: oil/water/solids separators; tanks and
+                       impoundments; ditches and other conveyances;
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+                              sumps; and stormwater units receiving dry weather
+                              flow. Sludge generated in stormwater units that do
+                              not receive dry weather flow, sludges generated from
+                              non-contact once-through cooling waters segregated
+                              for treatment from other processes or oily cooling
+                              waters, sludges generated in aggressive biological
+                              treatment units as defined in this Chapter (including
+                              sludges generated in one or more additional units
+                              after wastewaters have been treated in aggressive
+                              biological treatment units) and K051 wastes are not
+                              included in this listing.
+                              Petroleum refinery secondary (emulsified)
+                              oil/water/solids separation sludge. Any sludge
+                              and/or float generated from the physical and/or
+                              chemical separation of oil/water/solids in process
+                              wastewaters and oily cooling wastewaters from
+                              petroleum refineries. Such wastes include, but are not
+                              limitied to, all sludges and floats generated in:
+                              induced air flotation (IAF) units, tanks and
+                              impoundments, and all sludges generated in DAF
+F038                          units. Sludge generated in stormwater units that do (T)
+                              not receive dry weather flow, sludges generated from
+                              non-contact once-through cooling waters segregated
+                              for treatment from other processes or oily cooling
+                              waters, sludges generated in aggressive biological
+                              treatment units as defined in this Chapter (including
+                              sludges generated in one or more additional units
+                              after wastewaters have been treated in aggressive
+                              biological treatment unit) and F037, K048, and K051
+                              wastes are not included in this listing.
+                              Leachate (liquids that have percolated through land
+                              disposed wastes) resulting from the disposal of more
+                              than one restricted waste classified as hazardous
+                              under this chapter. (Leachate resulting from the
+F039                                                                                 (T)
+                              disposal of one or more of the following EPA
+                              Hazardous Wastes and no other Hazardous Wastes
+                              retains its EPA Hazardous Waste Number(s): F020,
+                              F021, F022, F026, F027, and/or F028).
+
+(b) The provisions of 40 C.F.R. 261.31(b) further defining the F037 and
+F038 listings are hereby adopted and incorporated by reference.
+
+(c) Polychlorinated biphenyl (PCB) and polychlorinated biphenyls (PCBs),
+where PCB and PCBs means any chemical substance that is limited to the
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+biphenyl molecule that has been chlorinated to varying degrees or any
+combination of substances which contains such substance.
+
+(i) Except as provided in (AA) below, any chemical substances or
+combination of substances that contain 50 parts per million (on a dry weight
+basis) or greater of PCBs are subject to these regulations. "PCB Item" as
+defined in 40 C.F.R. Part 761.3 as it appeared on July 1, 1982 is also subject
+to these regulations.
+
+Substances that are regulated by this rule include, but are not limited to,
+dielectric fluids, contaminated solvents, oils, waste oils, heat transfer fluids,
+hydraulic fluids, paints, sludges, slurries, dredge spoils, soils, materials
+contaminated as a result of spills, and other chemical substances or
+combination of substances, including impurities and byproducts.
+
+(AA) The use of waste oil that contains any detectable concentration of PCB
+as a sealant, coating, or dust control agent is prohibited. Prohibited uses
+include, but are not limited to, road oiling, general dust control, use as a
+pesticide or herbicide carrier, and use as a rust preventative on pipes.
+
+NOTE: Road oiling with waste oil is a prohibited act under Chapter 860 of
+the Department's Rules.
+
+(ii) Any chemical substance or combinations of chemical substances that
+contain less than 50 parts per million (ppm) PCBs as the result of dilution
+shall be subject to these regulations unless otherwise specifically provided
+by 40 C.F.R. 761, except that PCB contaminated media at an uncontrolled
+hazardous substance site managed, treated or disposed of in accordance
+with a Department approved removal or remedial action plan may be
+managed according to the concentrations detected in the media.
+
+(iii) For the purposes of this rule, the following are considered hazardous
+waste and are subject to regulation under 38 M.R.S., §1301, et seq.:
+
+(AA) PCB or PCBs that are useless, unwanted,discarded or intended to be
+discarded;
+
+(BB) PCB or PCBs that are "discharged" as defined by 38 M.R.S., §1317;
+
+NOTE: Any person to whom AA or BB. applies is considered a generator of
+hazardous waste.
+
+(CC) PCB or PCBs generated from off site, where the generator and the
+satellite facility are owned and operated by the same entity, other than those
+contained in a totally enclosed manner in equipment such as electrical
+transformers, capacitors, and hydraulic systems that are not intended to be
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+discarded, that are stored at a site which is used or capable of being used to
+store as follows:
+
+(1) greater than 165 gallons of PCBs for more than 10 working days is
+considered a storage facility for hazardous waste; or
+
+(2) less than 165 gallons of PCBs, for more than 10 working days, or greater
+than 165 gallons for less than 10 working days, is not considered to be a
+storage facility for hazardous waste, provided that the facility obtains an
+abbreviated license under Chapter 856, Section 11A(8); or
+
+(3) less than 165 gallons of PCBs for less than 10 working days are exempt
+from the hazardous waste storage facility licensing requirements.
+
+(DD) PCB or PCBs that are subjected to or intended to be subjected to
+treatment so as to reduce or otherwise alter the concentration of PCB or
+PCBs.
+
+NOTE: Any person to whom Section DD applies is considered a treatment
+facility for hazardous waste.
+
+(iv) Disposal of PCB and PCBs is excluded from regulation under Chapters
+854, 855 and 856 of the Department's rules in so far as that disposal is in
+fact regulated under 40 C.F.R. 761.
+
+NOTE: Federal law currently prohibits a State from regulating the disposal
+of PCB and PCBs. This exclusion does not apply to PCB and PCBs while they
+are being handled before disposal.
+
+(v) PCB and PCBs are identified as toxic wastes (T) and are assigned the
+Hazardous Waste Number M002.
+
+(vi) "Alteration" or "treatment" as used in the Department's rules shall not
+include the routine servicing of equipment where PCB or PCBs are
+contained in a totally enclosed manner.
+
+(3) Hazardous Wastes from specific sources. A waste is a hazardous
+waste if it is listed in the table below:
+
+                                                                                 Hazardou
+Industry and
+                                                                                 s
+EPA
+                  Hazardous Waste
+                                                                                 Waste
+Hazardous No.
+                                                                                 Code
+                  Bottom sediment sludge from the treatment of waste waters
+Wood                                                                             (T)
+                  from wood preserving processes that use creosote and/or
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Preservation:   pentachlorophenol.
+
+K001
+Inorganic
+pigments:       Wastewater treatment sludge from the production of chrome
+                                                                                 (T)
+                yellow and orange pigments.
+K002
+                Wastewater treatment sludge from the production of molybdate
+K003                                                                             (T)
+                orange pigments.
+                Wastewater treatment sludge from the production of zinc yellow
+K004                                                                             (T)
+                pigments.
+                Wastewater treatment sludge from the production of chrome
+K005                                                                             (T)
+                green pigments.
+                Wastewater treatment sludge from the production of chrome
+K006                                                                             (T)
+                oxide green pigments (anhydrous and hydrated).
+                Wastewater treatment sludge from the production of iron
+K007                                                                             (T)
+                blue pigments.
+                Oven residue from the production of chrome oxide green
+K008                                                                             (T)
+                pigments.
+Organic
+chemicals:      Distillation bottoms from the production of acetaldehyde from
+                                                                                 (T)
+                ethylene.
+K009
+                Distillation side cuts from the production of acetaldehyde from
+K010                                                                            (T)
+                ethylene.
+                Bottom stream from the wastewater stripper in the production of
+K011                                                                            (R,T)
+                acrylonitrile.
+                Bottom stream from the acetonitrile column in the production of
+K013                                                                            (R,T)
+                acrylonitrile.
+                Bottoms from the acetonitrile purification column in the
+K014                                                                            (T)
+                production of acrylonitrile.
+K015            Still bottoms from the distillation of benzyl chloride.         (T)
+                Heavy ends or distillation residues from the production of
+K016                                                                            (T)
+                carbon tetrachloride.
+                Heavy ends (still bottoms) from the purification column in the
+K017                                                                            (T)
+                production of epichlorohydrin.
+                Heavy ends from the fractionation column in ethyl chloride
+K018                                                                            (T)
+                production.
+                Heavy ends from the distillation of ethylene dichloride in
+K019                                                                            (T)
+                ethylene dichloride production.
+                Heavy ends from the distillation of vinyl chloride in vinyl
+K020                                                                            (T)
+                chloride monomer production.
+06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+            (Code of Maine Rules (2021 Edition))
+
+
+             Aqueous spent antimony catalyst waste from fluoromethanes
+K021                                                                             (T)
+             production.
+             Distillation bottom tars from the production of phenol/acetone
+K022                                                                             (T)
+             from cumene.
+             Distillation light ends from the production of phthalic anhydride
+K023                                                                             (T)
+             from naphthalene.
+             Distillation bottoms from the production of phthalic anhydride
+K024                                                                             (T)
+             from naphthalene.
+             Distillation bottoms from the production of nitrobenzene by the
+K025                                                                             (T)
+             nitration of benzene.
+             Stripping still tails from the production of methyl ethyl
+K026                                                                             (T)
+             pyridines.
+             Centrifuge and distillation residues from toluene diisocyanate
+K027                                                                             (R,T)
+             production.
+             Spent catalyst from the hydrochlorinator reactor in the
+K028                                                                             (T)
+             production of 1,1,1-trichloroethane.
+             Waste from the product steam stripper in the production of
+K029                                                                             (T)
+             1,1,1-trichloroethane.
+             Column bottoms or heavy ends from the combined production of
+K030                                                                             (T)
+             trichloroethylene and perchloroethylene.
+K083         Distillation bottoms from aniline production.                       (T)
+             Distillation or fractionation column bottoms from the production
+K085                                                                             (T)
+             of chlorobenzenes.
+             Distillation light ends from the production of phthalic anhydride
+K093                                                                             (T)
+             from ortho-xylene.
+             Distillation bottoms from the production of phthalic anhydride
+K094                                                                             (T)
+             from ortho-xylene.
+K095         Distillation bottoms from the production of l,l,l-tri-chloroethane. (T)
+             Heavy ends from the heavy ends column from the production of
+K096                                                                             (T)
+             l,l,l-trichloroethane.
+             Process residues from aniline extraction from the production of
+K103                                                                             (T)
+             aniline.
+             Combined wastewater streams generated from
+K104                                                                             (T)
+             nitrobenzene/aniline production.
+             Separated aqueous stream from the reactor product washing step
+K105                                                                             (T)
+             in the production of chlorobenzene.
+             Column bottoms from product separation from the production of
+K107                                                                             (C,T)
+             1,1-dimethylhydrazine (UDMH) from carboxylic acid hydrazides.
+             Condensed column overheads from product separation and
+K108         condensed reactor vent gases from the production of                 (I,T)
+             l,l-dimethylhydrazine (UDMH) from carboxylic acid hydrazides.
+K109         Spent filter cartridges from product purification from the          (T)
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+              production of 1,1-dimethylhydrazine (UDMH) from carboxylic
+              acid hydrazides.
+              Condensed column overheads from intermediate separation
+K110          from the production of 1,1-dimethylhydrazine (UDMH) from           (T)
+              carboxylic acid hydrazides.
+              Product washwaters from the production of dinitrotoluene via
+K111                                                                             (C,T)
+              nitration of toluene.
+              Reaction by-product water from the drying column in the
+K112          production of toluenediamine via hydrogenation of                  (T)
+              dinitrotoluene.
+              Condensed liquid light ends from the purification of
+K113          toluenediamine in the production of toluenediamine via             (T)
+              hydrogenation of dinitrotoluene.
+              Vicinals from the purification of toluenediamine in the
+K114          production of toluenediamine via hydrogenation of                  (T)
+              dinitrotoluene.
+              Heavy ends from the purification of toluenediamine in the
+K115          production of toluenediamine via hydrogenation of                  (T)
+              dinitrotoluene.
+              Organic condensate from the solvent recovery column in the
+K116          production of toluenedisocyanate via phosgenation of               (T)
+              dinitrotoluene.
+              Wastewater from the reactor vent gas scrubber in the production
+K117                                                                             (T)
+              of ethylene dibromide via bromination of ethene.
+              Spent adsorbent solids from the purification of ethylene
+K118          dibromide in the production of ethylene dibromide via              (T)
+              bromination of ethene.
+              Still bottoms from the purification of ethylene dibromide in the
+K136                                                                             (T)
+              production of ethylene dibromide via bromination of ethene.
+K119 10       Wastes from the decantor in the production of linuron.             (I,C,T)
+K120 10       Wastes from the spill control trap in production of linuron.       (I,T)
+              Wastewater from product filtration and water washing in the
+K121 10                                                                          (T)
+              production of bromacil.
+
+              Spent catalyst and filter media from the production of 1,1-
+K138 11                                                                          (T)
+              dimethylhydrazine (UDMH) from carboxylic acid hydrazides.
+              Distillation bottoms from the production of alpha-(or methyl-)
+              chlorinated toluenes, ring-chlorinated toluenes, benzoyl
+K149          chlorides and compounds with mixtures of these functional          (T)
+              groups. (This waste does not include still bottoms from the
+              distillation of benzyl chloride.)
+              Organic residuals, excluding spent carbon adsorbent, from the
+K150                                                                             (T)
+              spent chlorine gas and hydrochloric acid recovery processes
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+              associated with the production of alpha-(or methyl-) chlorinated
+              toluenes, ring-chlorinated toluenes, benzoyl chlorides, and
+              compounds with mixtures of these functional groups.
+              Wastewater treatment sludges, excluding neutralization and
+              biological sludges, generated during the treatment of
+              wastewaters from the production of alpha-(or-methyl-)
+K151                                                                           (T)
+              chlorinated toluenes, ring-chlorinated toluenes, benzoyl
+              chlorides, and compounds with mixtures of these functional
+              groups.
+Inorganic
+              Brine purification muds from the mercury cell process in
+chemicals:
+              chlorine production, where separately prepurified brine is not    (T)
+              used.
+K071
+              Chlorinated hydrocarbon waste from the purification step of the
+K073          diaphragm cell process using graphite anodes in chlorine        (T)
+              production.
+              Wastewater treatment sludge from the mercury cell process in
+K106                                                                          (T)
+              chlorine production.
+Pesticides:
+              By-product salts generated in the production of MSMA and
+                                                                                (T)
+              cacodylic acid.
+K031
+K032          Wastewater treatment sludge from the production of chlordane. (T)
+              Wastewater and scrub water from the chlorination of
+K033                                                                             (T)
+              cyclopentadiene in the production of chlordane.
+              Filter solids from the filtration of hexachloro-cyclopentadiene in
+K034                                                                             (T)
+              the production of chlordane.
+              Wastewater treatment sludges generated in the production of
+K035                                                                             (T)
+              creosote.
+              Still bottoms from toluene reclamation distillation in the
+K036                                                                             (T)
+              production of disulfoton.
+K037          Wastewater treatment sludges from the production of disulfoton. (T)
+              Wastewater from the washing and stripping of phorate
+K038                                                                             (T)
+              production.
+              Filter cake from the filtration of diethylphosphoro-dithioic acid
+K039                                                                             (T)
+              in the production of phorate.
+K040          Wastewater treatment sludge from the production of phorate.        (T)
+K041          Wastewater treatment sludge from the production of toxaphene. (T)
+              Heavy ends or distillation residues from the distillation of
+K042                                                                             (T)
+              tetrachlorobenzene in the production of 2,4,5-T.
+K043          2,6-Dichlorophenol waste from the production of 2,4-D.             (T)
+              Vacuum stripper discharge from the chlordane chlorinator in the
+K097                                                                             (T)
+              production of chlordane.
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+K098              Untreated process wastewater from the production of toxaphene. (T)
+K099              Untreated wastewater from the production of 2,4-D.             (T)
+                  Process wastewater (including supernates, filtrates, and
+K123              washwaters) from the production of ethylenebisdithiocarbamic (T)
+                  acid and its salts.
+                  Reactor vent scrubber water from the production of
+K124                                                                             (C,T)
+                  ethylenebisdithiocarbamic acid and its salts.
+                  Purification solids (including filtration, evaporation, and
+K125              centrifugation solids) from the production of                  (T)
+                  ethylenebisdithiocarbamic acid and its salts.
+                  Baghouse dust and floor sweepings in milling and packaging
+K126              operations from the production or formulation of               (T)
+                  ethylenebisdithiocarbamic acid and its salts.
+                  Wastewater from the reactor and spent sulfuric acid from the
+K131                                                                             (C,T)
+                  acid drier from the production of methyl bromide.
+                  Spent adsorbent and wastewater separator solids from the
+K132                                                                             (T)
+                  production of methyl bromide.
+Explosives:
+                  Wastewater treatment sludges from the manufacturing and
+                                                                                    (R)
+                  processing of explosives.
+K044
+                  Spent carbon from the treatment of wastewater containing
+K045                                                                                (R)
+                  explosives.
+                  Wastewater treatment sludges from the manufacturing,
+K046                                                                                (T)
+                  formulation and loading of lead-based initiating compounds.
+K047              Pink/red water from TNT operations.                               (R)
+Petroleum
+refining:         Dissolved air flotation (DAF) float from the petroleum refining
+                                                                                    (T)
+                  industry.
+K048
+K049              Slop oil emulsion solids from the petroleum refining industry.    (T)
+                  Heat exchanger bundle cleaning sludge from the petroleum
+K050                                                                                (T)
+                  refining industry.
+K051              API separator sludge from the petroleum refining industry.        (T)
+K052              Tank bottoms (leaded) from the petroleum refining industry.       (T)
+Iron and steel:
+                  Emission control dust/sludge from the primary production of
+                                                                                (T)
+                  steel in electric furnaces.
+K061
+K062            Spent pickle liquor from steel finishing operations.            (C,T)
+Primary copper:
+                Acid plant blowdown slurry/sludge resulting from the thickening
+                                                                                (T)
+                of blowdown slurry from primary copper production.
+K064
+Primary lead:
+                Surface impoundment solids contained in and dredged from        (T)
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+K065              surface impoundments at primary lead smelting facilities.
+Primary zinc:
+                  Sludge from treatment of process wastewater and/or acid plant
+                                                                                   (T)
+                  blowdown from primary zinc production.
+K066
+Primary
+aluminum:
+                  Spent potliners from primary aluminum reduction.                 (T)
+K088
+Ferroalloys:
+                  Emission control dust or sludge from ferrochromiumsilicon
+                                                                                   (T)
+                  production.
+K090
+                  Emission control dust or sludge from ferrochromium
+K091                                                                               (T)
+                  production.
+Secondary lead:
+                  Emission control dust/sludge from secondary lead smelting.       (T)
+K069
+                  Waste leaching solution from acid leaching of emission control
+K100                                                                               (T)
+                  dust/sludge from secondary lead smelting.
+Veterinary
+pharmaceuticals
+:
+                 Wastewater treatment sludges generated during the production
+K084             of veterinary pharmaceuticals from arsenic or organo-arsenic       (T)
+                 compounds.
+                 Distillation tar residues from the distillation of aniline-based
+K101             compounds in the production of veterinary pharmaceuticals          (T)
+                 from arsenic or organo-arsenic compounds.
+                 Residue from the use of activated carbon for decolorization in the
+K102             production of veterinary pharmaceuticals from arsenic or           (T)
+                 organo-arsenic compounds.
+                 Solvent washes and sludges, caustic washes and sludges, or water
+Ink formulation:
+                 washes and sludges from cleaning tubs and equipment used in
+                                                                                    (T)
+                 the formulation of ink from pigments, driers, soaps, and
+K086
+                 stabilizers containing chromium and lead.
+Coking:
+                 Ammonia still lime sludge from coking operations.                  (T)
+K060
+K087             Decanter tank tar sludge from coking operations.                   (T)
+                 Process residues from the recovery of coal tar, including, but not
+                 limited to, collecting sump residues from the proudction of coke
+K141             from coal or the recovery of coke byproducts produced from coal. (T)
+                 This listing does not include K087 (decanter tank tar sludges
+                 from coking operations).
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+                  Tar storage tank residues from the production of coke from coal
+K142                                                                                    (T)
+                  or from the recovery of coke byproducts produced from coal.
+                  Process residues from the recovery of light oil, including, but not
+                  limited to, those generated in stills, decanters and wash oil
+K143                                                                                    (T)
+                  recovery units from the recovery of coke byproducts produced
+                  from coal.
+                  Wastewater sump residues from light oil refining, including, but
+K144              not limited to, intercepting or contamination sump sludges from       (T)
+                  the recovery of coke byproducts produced from coal.
+                  Residues from naphthalene collection and recovery operations
+K145                                                                                    (T)
+                  from the recovery of coke byproducts produced from coal.
+K147              Tar storage tank residues from coal tar refining                      (T)
+                  Residues from coal tar distillation, including, but not limited to,
+K148                                                                                    (T)
+                  still bottoms.
+
+Hazard Codes:
+
+Ingitable Waste (I)
+
+Corrosive Waste (C)
+
+Reactive Waste (R)
+
+Toxicity Characteristic Waste (E)
+
+Acute Hazardous Waste (H)
+
+Toxic Waste (T)
+
+____________________________________________________
+__________________________
+
+(4) Discarded commercial chemical products, off-specification species,
+container residues, and spill residues thereof. The following materials or
+items are hazardous wastes if and when they are discarded or intended to be
+discarded, when they are mixed with other material and applied to the land
+for dust supression or road treatment, when they are otherwise applied to
+the land in lieu of their original intended use or when they are contained in
+products that are applied to the land in lieu of their original intended use or
+when, in lieu of their original intended use, they are produced for use as (or
+as a component of) a fuel, distributed for use as a fuel, or burned as a fuel:
+
+(a) Any commercial chemical product, or manufacturing chemical
+intermediate having the generic name listed in paragraphs (e) or (f) of this
+section.
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(b) Any off-specification commercial chemical product or manufacturing
+chemical intermediate which, if it met specifications, would have the generic
+name listed in paragraphs (e) or (f) of this section.
+
+(c) Any residue remaining in a container or an inner liner removed from a
+container that has held any commercial chemical product or manufacturing
+chemical intermediate having the generic name listed in paragraph (e) or (f)
+of this section, unless the container is empty as defined in Section 3(A)(7) of
+this Chapter. Containers which have contained medicinal nitroglycerin are
+considered empty if they meet the provisions of Section 3(A)(7)(a) and (b).
+
+(d) Any residue or contaminated soil, water or other debris resulting from
+the cleanup of a spill into or on any land or water of any commmercial
+chemical product or manufacturing chemical intermediate having the
+generic name listed in paragraph (e) or (f) of this section, or any residue or
+contaminated soil, water or other debris resulting from the cleanup of a
+spill, into or on any land or water, of any off-specification chemical product
+and manufacturing chemical intermediate which, if it met specifications,
+would have the generic name listed in paragraph (e) or (f) of this section.
+
+NOTE: The phrase "commercial chemical product or manufacturing
+chemical intermediate having the generic name listed in . . ." refers to a
+chemical substance manufactured or formulated for commercial or
+manufacturing use which consists of: (1) the commercially pure grade of the
+chemical, (2) any technical grades of the chemical that are produced or
+marketed, (3) any formulations in which the P or U listed chemical is the
+sole active ingredient regardless of the percent composition, or (4) effective
+Janaury 1, 1995, any formulations in which the P listed chemical is an active
+ingredient of 10% or more. It does not refer to a material, such as a
+manufacturing process waste, that contains any of the substances listed in
+paragraphs (e) or (f). Where a manufacturing process waste is deemed to be
+a hazardous waste because it contains a substance listed in paragraphs (e) or
+(f), such waste will be listed in either Section 3(C)(2) or Section 3(C)(3) or
+will be identified as a hazardous waste by the characteristics set forth in
+Section 3(B) of this rule.
+
+(e) The commercial chemical products, manufacturing chemical
+intermediates or off-specification commercial chemical products or
+manufacturing chemical intermediates referred to in paragraphs (a) through
+(d) of this section, are identified as acute hazardous wastes (H) and are
+subject to the small quantity exclusion defined in Section 3(A)(5)(c).
+
+NOTE: For the convenience of the regulated community the primary
+hazardous properties of these materials have been indicated by the letters T*
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(Human Toxicity), and R (Reactivity). Absence of a letter indicates that the
+compound is listed on the basis of animal toxicity data.
+
+These wastes and their corresponding EPA Hazardous Waste Numbers are:
+
+Hazardous
+
+Waste
+
+Number Substance
+
+P023 Acetaldehyde, chloro-
+
+P002 Acetamide, N-(aminothioxomethyl)-
+
+P057 Acetamide, 2-fluoro-
+
+P058 Acetic acid, fluoro-, sodium salt
+
+P002 1-Acetyl-2-thiourea
+
+P003 Acrolein
+
+P124 Actinomycin D*
+
+P070 Aldicarb
+
+P004 Aldrin
+
+P005 Allyl alcohol
+
+P006 Aluminum phosphide (R,T)
+
+P007 5-(Aminomethyl)-3-isoxazolol
+
+P008 4-Aminopyridine
+
+P009 Ammonium picrate (R)
+
+P119 Ammonium vanadate
+
+P125 Antimony, when in the form of particles 100 microns or less*
+
+P099 Argentate(1-), bis(cyano-C)-, potassium
+
+P010 Arsenic acid H3AsO4
+
+P012 Arsenic oxide As2O3
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+P011 Arsenic oxide As2O5
+
+P011 Arsenic pentoxide
+
+P012 Arsenic trioxide
+
+P038 Arsine, diethyl
+
+P036 Arsonous dichloride, phenyl-
+
+P054 Aziridine
+
+P067 Aziridine, 2-methyl-
+
+P150 Azinphos ethyl*
+
+P151 Azinphos methyl*
+
+P013 Barium cyanide
+
+P024 Benzenamine, 4-chloro-
+
+P077 Benzenamine, 4-nitro-
+
+P028 Benzene, (chloromethyl)-
+
+P042 1,2-Benzenediol, 4-[1-hydroxy-2-(methylamino)ethyl]-,(R)-
+
+P046 Benzeneethanamine, alpha, alpha-dimethyl-
+
+P014 Benzenethiol
+
+P001 2H-1-Benzopyran-2-one,4-hydroxy-3-(3-oxo-1-phenylbutyl)-, & salts,
+when present at concenentrations-greater than 0.3%
+
+P028 Benzyl chloride
+
+P015 Beryllium powder
+
+P126 4,4'-Bipyridinium, 1,1'-dimethyl,dichloride*
+
+P017 Bromoacetone
+
+P018 Brucine
+
+P045 2-Butanone, 3,3-dimethyl-1-(methylthio)-, O-[methylamino)carbonyl]
+oxime
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+P021 Calcium cyanide
+
+P021 Calcium cyanide Ca(CN)2
+
+P127 Carbamic acid, methyl-2,3-dihydro, 2,2-dimethyl-7-benzofuranyl
+ester*
+
+P128 Carbamic acid, methyl, 4-dimethylamino-3, 5-xylyl ester*
+
+P127 Carbofuran*
+
+P022 Carbon bisulfide (another name for carbon disulfide)
+
+P022 Carbon disulfide
+
+P095 Carbonic dichloride
+
+P095 Carbonyl chloride (alternative name for phosgene)
+
+P023 Chloroacetaldehyde
+
+P024 p-Chloroaniline
+
+P133 Chloroethanol*
+
+P143 Chlorofenvinphos*
+
+P129 Chlorine*
+
+P026 1-(o-Chlorophenyl)thiourea
+
+P027 3-Chloropropionitrile
+
+P029 Copper cyanide
+
+P029 Copper cyanide Cu(CN)
+
+P130 Coumaphos*
+
+P131 Coumarin,3-chloro-7 hydroxy-4-methyl,0-ester with 0,0-diethyl
+phosphorothioate*
+
+P131 Crotonic acid, 3-hydroxy-,methyl ester, dimethyl phosphate (E)*
+
+P030 Cyanides (soluble cyanide salts), not otherwise specified
+
+P031 Cyanogen
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+P033 Cyanogen chloride
+
+P033 Cyanogen chloride (CN)Cl
+
+P034 2-Cyclohexyl-4,6-dinitrophenol
+
+P134 Cycloheximide*
+
+P155 Demeton*
+
+P144 Dichlorvos*
+
+P146 Dicrotophos*
+
+P016 Dichloromethyl ether
+
+P036 Dichlorophenylarsine
+
+P037 Dieldrin
+
+P132 Diethylamine, 2,2'-dichloro-N-methyl-*
+
+P039 0,0-Diethyl S-[2-(ethylthio)ethyl] phosphorodithioate* (another name
+for Disulfoton)
+
+P038 Diethylarsine
+
+P041 Diethyl-p-nitrophenyl phosphate
+
+P040 O,O-Diethyl O-pyrazinyl phosphorothioate
+
+P043 Diisopropylfluorophosphate (DFP)
+
+P004 1,4,5,8-Dimethanonaphthalene,
+1,2,3,4,10,10-hexa-chloro-1,4,4a,5,8,8a,-hexahydro-,
+(1alpha,4alpha,4abeta,5alpha, 8alpha, 8abeta)-
+
+P060 1,4,5,8-Dimethanonaphthalene,
+1,2,3,4,10,10-hexa-chloro-1,4,4a,5,8,8a-hexahydro-,
+(1alpha,4alpha,4abeta,5beta,8beta,8abeta)-
+
+P037 2,7:3,6-Dimethanonaphth[2,3-b]oxirene,
+3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-,(1aalpha,2beta,2aalph
+a,3beta,6beta,6aalpha,7beta,7aalpha)-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+P051 2,7:3,6-Dimethanonaphth[2,3-b]oxirene,
+3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-,(1aalpha,2beta,2abeta
+,3alpha,6alpha,6abeta,7beta,7aalpha)-, & metabolites
+
+P044 Dimethoate
+
+P046 alpha,alpha-Dimethylphenethylamine
+
+P047 4,6-Dinitro-o-cresol, & salts
+
+P034 4,6-Dinitro-o-cyclohexylphenol (another name for 2-Cyclohexyl-4,6-
+dinitrophenol)
+
+P048 2,4-Dinitrophenol
+
+P020 Dinoseb
+
+P153 Dioxathion*
+
+P085 Diphosphoramide, octamethyl-
+
+P111 Diphosphoric acid, tetraethyl ester
+
+P039 Disulfoton
+
+P049 Dithiobiuret
+
+P050 Endosulfan
+
+P088 Endothall
+
+P051 Endrin
+
+P051 Endrin, & metabolites
+
+P042 Epinephrine
+
+P141 EPN*
+
+P046 Ethanamine, 1,1-dimethyl-2-phenyl- (alternative name for alpha,
+alpha-Dimethylphenethylamine)
+
+P031 Ethanedinitrile
+
+P066 Ethanimidothioic acid, N-[[methylamino) carbonyl]oxy]-,methyl ester
+
+P154 Ethion*
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+P101 Ethyl cyanide
+
+P054 Ethyleneimine
+
+P097 Famphur
+
+P156 Fensulfothion*
+
+P056 Fluorine
+
+P057 Fluoroacetamide
+
+P058 Fluoroacetic acid, sodium salt
+
+P065 Fulminic acid, mercury (2+) salt (R,T)
+
+P134 Glutarimide,3-(2-(3,5-dimethyl-2-oxocyclohexyl)-2 hydroxyethyl)*
+
+P059 Heptachlor
+
+P062 Hexaethyl tetraphosphate
+
+P135 Hydantoin, 5,5-diphenyl-*
+
+P136 Hydantoin, 5,5-diphenyl-monosodium salt*
+
+P116 Hydrazinecarbothioamide
+
+P068 Hydrazine, methyl-
+
+P063 Hydrocyanic acid
+
+P063 Hydrogen cyanide
+
+P096 Hydrogen phosphide
+
+P137 Hydroquinone*
+
+P060 Isodrin
+
+P138 Isonicotinic acid hydrazide*
+
+P007 3(2H)-Isoxazolone, 5-(aminomethyl)-
+
+P140 Leptophos*
+
+P092 Mercury, (acetato-0)phenyl-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+P065 Mercury fulminate (R,T)
+
+P082 Methanamine, N-methyl-N-nitroso-
+
+P064 Methane, isocyanato-
+
+P016 Methane, oxybis[chloro-
+
+P112 Methane, tetranitro- (R)
+
+P118 Methanethiol, trichloro-
+
+P050 6,9-Methano-2,4,3-benzodioxathiepin, 6,7,8,9,10,10- hexachloro-
+1,5,5a,6,9,9a-hexahydro-, 3-oxide
+
+P059 4,7-Methano-1H-indene, 1,4,5,6,7,8,8-heptachloro-
+3a,4,7,7a-tetrahydro-
+
+P066 Methomyl
+
+P068 Methyl hydrazine
+
+P064 Methyl isocyanate
+
+P069 2-Methyllactonitrile
+
+P071 Methyl parathion
+
+P131 Mevinphos*
+
+P128 Mexacarbate*
+
+P147 Monocrotophos*
+
+P158 Mustard gas
+
+P072 alpha-Naphthylthiourea
+
+P073 Nickel carbonyl
+
+P073 Nichol carbonyl Ni(CO)4 (T-4)-
+
+P074 Nichol cyanide
+
+P074 Nickel cynaide Ni(CN)2
+
+P075 Nicotine, & salts
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+P076 Nitric oxide
+
+P077 p-Nitroaniline
+
+P078 Nitrogen dioxide
+
+P132 Nitrogen mustard*
+
+P076 Nitrogen oxide NO
+
+P078 Nitrogen oxide NO2
+
+P081 Nitroglycerine (R)(T*)
+
+P082 N-Nitrosodimethylamine
+
+P084 N-Nitrosomethylvinylamine
+
+P085 Octamethylpyrophosphoramide
+
+P087 Osmium oxide OsO4 (T-4)-
+
+P087 Osmium tetroxide
+
+P088 7-Oxabicyclo[2.2.1]heptane-2,3-dicarboxylic acid
+
+P157 Oxydemeton-Methyl*
+
+P126 Paraquat*
+
+P089 Parathion
+
+P034 Phenol,2-cyclohexyl-4,6-dinitro-
+
+P048 Phenol, 2,4-dinitro-
+
+P047 Phenol, 2-methyl-4,6-dinitro-, & salts
+
+P020 Phenol, 2-(1-methylpropyl)-4,6-dinitro-
+
+P009 Phenol, 2,4,6-trinitro-, ammonium salt (R)
+
+P092 Phenylmercury acetate
+
+P093 Phenylthiourea
+
+P135 Phenytoin*
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+P136 Phenytoin sodium*
+
+P152 Phosmet*
+
+P094 Phorate
+
+P142 Phosacetim*
+
+P095 Phosgene
+
+P145 Phosphamidon
+
+P096 Phosphine
+
+P139 Phosphonic acid, (2,2,2-thrichloro-1, hydroxyethyl)-, dimethyl ester*
+
+P140 Phosphonothioic acid, phenyl-0-(4-bromo-2,5-dichlorophenyl)
+0-methyl ester*
+
+P141 Phosphorothioic acid, phenyl-,0-ethyl 0-(p-nitrophenyl) ester*
+
+P142 Phosphoramidiothioic acid, acetimidoyl-,0,0-bis(p-chlorophenyl)
+ester*
+
+P143 Phosphoric acid, 2-chloro-1-(2,4-dichlorophenyl) vinyl diethyl ester*
+
+P144 Phosphoric acid, 2,2-dichlorovinyl dimethyl ester*
+
+P041 Phosphoric acid, diethyl 4-nitrophenyl ester
+
+P145 Phosphoric acid, dimethyl ester, ester with
+2-chloro-N,N-diethyl-3-hydroxycrotonamide*
+
+P146 Phosphoric acid, dimethyl ester, ester with
+(E)-3-hydroxy-N,N-dimethylcrotonamide*
+
+P147 Phosphoric acid, dimethyl ester, ester with (E)-3-hydroxy-N,
+methyl-crotonamide*
+
+P148 Phosphorodithioic acid, S-(((p-chlorophenyl)thio)-methyl) 0,0-diethyl
+ester*
+
+P039 Phosphorodithioic acid, 0,0-diethyl S-[2-(ethylthio)ethyl] ester
+
+P094 Phosphorodithioic acid, 0,0-diethyl S-[ethylthio)methyl]ester
+
+P149 Phosphorodithioic acid, 0,0-diethyl-S-(((1,1-dimethylethyl)thio)
+methyl)ester*
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+P154 Phosphorodithioic acid, S,S'-methylene 0,0,0',0'-tetraethyl ester**
+
+P150 Phosphorodithioic acid, 0,0-diethyl ester, S-ester with
+3-(mercaptomethyl)-1,2,3-benzotriazin-4(3H)-one*
+
+P151 Phosphorodithioic acid, 0,0-dimethyl ester, S-ester with
+3-(mercaptomethyl)-1,2,3-benzotriazin-4(3H)-one*
+
+P152 Phosphorodithioic acid, 0,0-dimethyl ester, S-ester with
+N-(mercaptomethyl) phthalimide*
+
+P153 Phosphorodithioic acid, S,S'-p-dioxane-2,3-diyl 0,0,0',0'-tetra-ethyl
+ester*
+
+P155 Phosphorothioic acid, 0,0-diethyl 0-(2-(ethylthio)ethyl) ester, mixed
+with 0-0-diethyl S-(2-(ethylthio)ethyl) ester 7:3)*
+
+P156 Phosphorothioic acid, 0,0-diethyl 0-(p-methyl sulfinyl)phenyl) ester*
+
+P044 Phosphorodithioic acid, 0,0-dimethyl S-[2-methylamino)-2-oxoethyl]
+ester
+
+P043 Phosphorofluoridic acid, bis(1-methylethyl) ester
+
+P089 Phosphorothioic acid, 0,0-diethyl 0-(4-nitrophenyl) ester (T*)
+
+P040 Phosphorothioic acid, 0,0-diethyl 0-pyrazinyl ester
+
+P157 Phosphorothioic acid, S-(2-(ethyl-sulfinyl)ethyl)0,0-dimethyl ester*
+
+P097 Phosphorothioic acid, 0-[4-[(dimethylamino)sulfonyl]phenyl]
+0,0-dimethyl ester
+
+P071 Phosphorothioic acid, 0,0,-dimethyl 0-(4-nitrophenyl) ester
+
+P110 Plumbane, tetraethyl-
+
+P098 Potassium cyanide
+
+P098 Potassium cyanide K(CN)
+
+P099 Potassium silver cyanide
+
+P070 Propanal, 2-methyl-2-(methylthio)-,0-[(methylamino)carbonyl]oxime
+
+P101 Propanenitrile
+
+P027 Propanenitrile, 3-chloro-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+P069 Propanenitrile, 2-hydroxy-2-methyl-
+
+P081 1,2,3-Propanetriol, trinitrate (R) (T*)
+
+P017 2-Propanone, 1-bromo-(T*)
+
+P102 Propargyl alcohol
+
+P003 2-Propenal
+
+P005 2-Propen-1-0l
+
+P067 1,2-Propylenimine
+
+P102 2-Propyn-1-0l
+
+P008 4-Pyridinamine
+
+P075 Pyridine, 3-(1-methyl-2-pyrrolidinyl)-,(S)-, & salts (T*)
+
+P114 Selenious acid, dithallium(1+) salt
+
+P103 Selenourea
+
+P104 Silver cyanide
+
+P104 Silver cyanide Ag(Cn)
+
+P105 Sodium azide
+
+P106 Sodium cyanide
+
+P106 Sodium cyanide Na(CN)
+
+P108 Strychnidin-10-one, & salts (T*)
+
+P018 Strychnidin-10-one, 2,3-dimethoxy-
+
+P108 Strychnine, & salts (T*)
+
+P158 Sulfide, bis (2-chloro-ethyl)-*
+
+P115 Sulfuric acid, dithallium (1+) salt
+
+P149 Terbufos*
+
+P109 Tetraethyldithiopyrophosphate
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+P110 Tetraethyl lead
+
+P111 Tetraethyl pyrophosphate
+
+P112 Tetranitromethane (R)
+
+P062 Tetraphosphoric acid, hexaethyl ester
+
+P113 Thallic oxide
+
+P113 Thallium oxide Tl203
+
+P114 Thallium(l) selenite
+
+P115 Thallium(l) sulfate
+
+P109 Thiodiphosphoric acid, tetraethyl ester
+
+P045 Thiofanox
+
+P049 Thioimidodicarbonic diamide [(H2N)C(S)]2NH
+
+P014 Thiophenol
+
+P116 Thiosemicarbazide
+
+P026 Thiourea, (2-chlorophenyl)-
+
+P072 Thiourea, 1-naphthalenyl-
+
+P093 Thiourea, phenyl-
+
+P123 Toxaphene
+
+P139 Trichlorfon
+
+P118 Trichloromethanethiol
+
+P119 Vanadic acid, ammonium salt
+
+P120 Vanadium oxide V205
+
+P120 Vanadium pentoxide
+
+P084 Vinylamine, N-methyl-N-nitroso-
+
+P001 Warfarin, & salts, when present at concentrations greater than 0.3%
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+P121 Zinc cyanide
+
+P121 Zinc cyanide Zn(CN)2
+
+P122 Zinc phosphide Zn3P2, when present at concentrations greater than
+10% (R,T)
+
+____________________________________________________
+__________________________
+
+*49 FR 49792, December 21, 1984, Proposed Rule.
+
+(f) The commercial chemical products, manufacturing chemical
+intermediates, or off-specification commercial chemical products referred to
+in paragraphs (a) through (d) of this section, are identified as toxic wastes
+(T) unless otherwise designated and are subject to the small quantity
+exclusion defined in Section 3(A)(5)(a) and 3(A)(5)(b).
+
+NOTE: For the convenience of the regulated community, the primary
+hazardous properties of these materials have been indicated by the letters T
+(Toxicity), R (Reactivity), I (Ignitability) and C (Corrosivity). Absence of a
+letter indicates that the compound is only listed for toxicity.
+
+These wastes and their corresponding EPA Hazardous Waste Numbers are:
+
+Hazardous
+
+Waste
+
+Number Substance
+
+U001 Acetaldehyde (I)
+
+U034 Acetaldehyde, trichloro-
+
+U187 Acetamide, N-(4-ethoxyphenyl)-
+
+U005 Acetamide, N-9H-fluoren-2-yl-
+
+U240 Acetic acid, (2,4-dichlorophenoxy)-,salts & esters
+
+U112 Acetic acid ethyl ester (I)
+
+U144 Acetic acid, lead(2+)salt
+
+U214 Acetic acid, thallium (1+) salt
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+see F027 Acetic acid, (2,4,5-trichlorophenoxyl)-
+
+U002 Acetone (I)
+
+U003 Acetonitrile (I,T)
+
+U004 Acetophenone
+
+U005 2-Acetylaminofluorene
+
+U006 Acetyl chloride (C,R,T)
+
+U007 Acrylamide
+
+U008 Acrylic acid (I)
+
+U009 Acrylonitrile
+
+U011 Amitrole
+
+U012 Aniline (I,T)
+
+U136 Arsinic acid, dimethyl-
+
+U014 Auramine
+
+U015 Azaserine
+
+U010 Azirino[2',3':3,4]pyrrolo[1,2-a] indole-4,7-dione,
+6-amino-8-[[(aminocarbonyl) oxy]methyl]-l,la,2,8,8a,8b-
+hexahydro-8a-methoxy-5-methyl-,[1aS-(1aalpha, 8beta,8aalpha,8balpha)]-
+
+U157 Benz[j]aceanthrylene, l,2-dihydro-3-methyl-
+
+U016 Benz[c]acridine
+
+U017 Benzal chloride
+
+U192 Benzamide, 3,5-dichloro-N-(1,1-dimethyl-2- propynyl)-
+
+U018 Benz[a]anthracene
+
+U094 Benz[a]amthracene, 7,12-dimethyl-
+
+U012 Benzenamine (I,T)
+
+U014 Benzenamine, 4,4'-carbonimidoylbis[N,N-dimethyl
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U049 Benzenamine, 4-chloro-2-methyl-, hydrochloride
+
+U093 Benzenamine, N,N-dimethyl-4-(phenylazo)-
+
+U328 Benzenamine, 2-methyl-
+
+U353 Benzenamine, 4-methyl-
+
+U158 Benzenamine, 4,4'-methylenebis[2-chloro-
+
+U222 Benzenamine, 2-methyl-,hydrochloride
+
+U181 Benzenamine, 2-methyl-5-nitro-
+
+U019 Benzene (I,T)
+
+U038 Benzeneacetic acid, 4-chloro-alpha-(4-chlorophenyl)-alpha-hydroxy-,
+ethyl ester
+
+U030 Benzene, 1-bromo-4-phenoxy-
+
+U035 Benzenebutanoic acid, 4-[bis(2-chloroethyl)amino]-
+
+U037 Benzene, chloro-
+
+U221 Benzenediamine, ar-methyl-
+
+U028 1,2-Benzenedicarboxylic acid, bis(2-ethylhexyl) ester
+
+U069 1,2-Benzenedicarboxylic acid, dibutyl ester
+
+U088 1,2-Benzenedicarboxylic acid, diethyl ester
+
+U102 1,2-Benzenedicarboxylic acid, dimethyl ester
+
+U107 1,2-Benzenedicarboxylic acid, dioctyl ester
+
+U070 Benzene, 1,2-dichloro-
+
+U071 Benzene, 1,3-dichloro-
+
+U072 Benzene, 1,4-dichloro-
+
+U060 Benzene, 1,1'-(2,2-dichloroethylidene)bis[4-chloro
+
+U017 Benzene, (dichloromethyl)-
+
+U223 Benzene, 1,3,-diisocyanatomethyl-(R,T)
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U239 Benzene, dimethyl-(I,T)
+
+U201 1,3-Benzenediol
+
+U127 Benzene, hexachloro-
+
+U056 Benzene, hexahydro-(I)
+
+U220 Benzene, methyl-
+
+U105 Benzene, 1-methyl-2,4-dinitro-
+
+U106 Benzene, 2-methyl-1,3-dinitro-
+
+U055 Benzene, (l-methylethyl)-(I)
+
+U169 Benzene, nitro-
+
+U183 Benzene, pentachloro-
+
+U185 Benzene, pentachloronitro-
+
+U020 Benzenesulfonic acid chloride (C,R)
+
+U020 Benzenesulfonyl chloride (C,R)
+
+U207 Benzene, l,2,4,5-tetrachloro-
+
+U061 Benzene,1,1'-(2,2,2- trichloroethylidene)bis[4-chloro
+
+U247 Benzene, 1,1'-(2,2,2-trichloroethylidene)bis[4-methoxy-
+
+U023 Benzene, (trichloromethyl)-
+
+U234 Benzene, l,3,5-trinitro-
+
+U021 Benzidine
+
+U202 l,2-Benzisothiazol-3(2H)-one, l,l-dioxide, & salts
+
+U203 1,3-Benzodioxole, 5-(2-propenyl)-
+
+U141 1,3-Benzodioxole, 5-(1-propenyl)-
+
+U090 1,3-Benzodioxole, 5-(1-propyl-
+
+U084 Benzo[rst]pentaphene
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U248 2H-1-Benzopyran-2-one, 4-hydroxy-3-(3-oxo-1- phenyl-butyl)-, &
+salts, when present at concentrations of 0.3% or less
+
+U022 Benzo(a)pyrene
+
+U197 p-Benzoquinone
+
+U023 Benzotrichloride (C,R,T)
+
+U085 2,2'-Bioxirane
+
+U021 (l,l'-Biphenyl)-4,4'-diamine
+
+U073 (l,l'-Biphenyl)-4,4'-diamine, 3,3'-dichloro-
+
+U091 (l,l'-Biphenyl)-4,4'-diamine, 3,3'-dimethoxy-
+
+U095 (l,l'-Biphenyl)-4,4'- diamine, 3,3'-dimethyl-
+
+U354 Bromacil*
+
+U354 5-Bromo-3-sec-butyl-6-methyluracil*
+
+U225 Bromoform
+
+U030 4-Bromophenyl phenyl ether
+
+U128 l,3-Butadiene, 1,1,2,3,4, 4-hexachloro-
+
+U172 l-Butanamine, N-butyl-N-nitroso-
+
+U031 1-Butanol (I)
+
+U150 2-Butanone (I,T)
+
+U160 2-Butanone, peroxide (R,T)
+
+U053 2-Butenal
+
+U074 2-Butene, l,4-dichloro- (I,T)
+
+U143 2-Butenoic acid, 2-methyl-,
+7-[[2,3-dihydroxy-2-(1-methoxyethyl)-3-methyl-1-oxobutoxy][methyl]-2,3,5
+,7a-tetrahydro-1H-pyrrolizin-1-yl ester,[1S-[1 alpha(Z),7(2S*,3R*),7aalpha]]-
+
+U031 n-Butyl alcohol (I)
+
+U136 Cacodylic acid
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U032 Calcium chromate
+
+U238 Carbamic acid, ethyl ester
+
+U178 Carbamic acid, methylnitroso-, ethyl ester
+
+U097 Carbamic chloride, dimethyl-
+
+U114 Carbamodithioic acid, 1,2-ethanediylbis-, salts & esters
+
+U062 Carbamothioic acid, bis(1-methylethyl)-, S-(2,3-dichloro-2-propenyl)
+ester
+
+U215 Carbonic acid, dithallium (1+) salt
+
+U033 Carbonic difluoride
+
+U156 Carbonochloridic acid, methyl ester (I,T)
+
+U033 Carbon oxyfluoride (R,T)
+
+U211 Carbon tetrachloride
+
+U034 Chloral
+
+U035 Chlorambucil
+
+U036 Chlordane, alpha & gamma isomers
+
+U026 Chlornaphazin
+
+U037 Chlorobenzene
+
+U038 Chlorobenzilate
+
+U039 p-Chloro-m-cresol
+
+U042 2-Chloroethyl vinyl ether
+
+U044 Chloroform
+
+U046 Chloromethyl methyl ether
+
+U047 beta-Chloronaphthalene
+
+U048 o-Chlorophenol
+
+U049 4-Chloro-o-toluidine, hydrochloride
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U032 Chromic acid H2CrO4, calcium salt
+
+U050 Chrysene
+
+U051 Creosote
+
+U052 Cresol(Cresylic acid)
+
+U053 Crotonaldehyde
+
+U055 Cumene (I)
+
+U246 Cyanogen bromide (CN)Br
+
+U197 2,5-Cyclohexadiene-1,4-dione
+
+U056 Cyclohexane (I)
+
+U129 Cyclohexane,
+1,2,3,4,5,6-hexachloro-,(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-
+
+U057 Cyclohexanone (I)
+
+U130 1,3-Cyclopentadiene, 1,2,3,4,5,5-hexachloro-
+
+U058 Cyclophosphamide
+
+U240 2,4-D, salts & esters
+
+U059 Daunomycin
+
+U060 DDD
+
+U061 DDT
+
+U062 Diallate
+
+U063 Dibenz[a,h]anthracene
+
+U064 Dibenzo[a,i]pyrene
+
+U066 1,2-Dibromo-3-chloropropane
+
+U069 Dibutyl phthalate
+
+U070 o-Dichlorobenzene
+
+U071 m-Dichlorobenzene
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U072 p-Dichlorobenzene
+
+U073 3,3'-Dichlorobenzidine
+
+U074 l,4-Dichloro-2-butene (I,T)
+
+U075 Dichlorodifluoromethane
+
+U078 l,l-Dichloroethylene
+
+U079 l,2-Dichloroethylene
+
+U025 Dichloroethyl ether
+
+U027 Dichloroisopropyl ether
+
+U024 Dichloromethoxy ethane
+
+U081 2,4-Dichlorophenol
+
+U082 2,6-Dichlorophenol
+
+U355 N'(3,4-dichlorophenyl)-N-methoxy-N-methylurea*
+
+U084 1,3-Dichloropropene
+
+U085 1,2:3,4-Diepoxybutane (I,T)
+
+U108 1,4-Diethyleneoxide (alternative name for 1,4-Diethylene dioxide)
+
+U028 Diethylhexyl phthalate
+
+U086 N,N-Diethylhydrazine
+
+U087 O,O-Diethyl-S-methyl- dithiophosphate
+
+U088 Diethyl phthalate
+
+U089 Diethylstilbesterol
+
+U090 Dihydrosafrole
+
+U091 3,3'-Dimethoxybenzidine
+
+U092 Dimethylamine (I)
+
+U093 p-Dimethylaminoazobenzene
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U094 7,12-Dimethylbenz[a]anthracene
+
+U095 3,3'-Dimethylbenzidine
+
+U096 alpha,alpha-Dimethylbenzylhydroperoxide (R)
+
+U097 Dimethylcarbamoyl chloride
+
+U098 1,1-Dimethylhydrazine
+
+U099 1,2-Dimethylhydrazine
+
+U101 2,4-Dimethylphenol
+
+U102 Dimethyl phthalate
+
+U103 Dimethyl sulfate
+
+U105 2,4-Dinitrotoluene
+
+U106 2,6-Dinitrotoluene
+
+U107 Di-n-octyl phthalate
+
+U108 1,4-Dioxane
+
+U109 1,2-Diphenylhydrazine
+
+U110 Dipropylamine (I)
+
+U111 Di-N-propylnitrosamine
+
+U041 Epichlorohydrin
+
+U001 Ethanal (I)
+
+U174 Ethanamine, N-ethyl-N-nitroso-
+
+U155 1,2-Ethanediamine, N,N-dimethyl-N'-2-pyridinyl-N'-(2-thienyl
+methyl)
+
+U067 Ethane, 1,2-dibromo-
+
+U076 Ethane, 1,1-dichloro-
+
+U077 Ethane, 1,2-dichloro-
+
+U131 Ethane, hexachloro-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U024 Ethane, 1,1'-[methylenebis(oxy)]bis [2-chloro-
+
+U117 Ethane, 1,1'-oxybis-(I)
+
+U025 Ethane, 1,1'-oxybis[2-chloro-]
+
+U184 Ethane, pentachloro-
+
+U208 Ethane, 1,1,1,2-tetrachloro-
+
+U209 Ethane, 1,1,2,2-tetrachloro-
+
+U218 Ethanethioamide
+
+U226 Ethane, 1,1,1-trichloro-
+
+U227 Ethane, 1,1,2-trichloro-
+
+U359 Ethanol, 2-ethoxy-
+
+U173 Ethanol, 2,2'-(nitrosoimino)bis-
+
+U004 Ethanone, 1-phenyl-
+
+U043 Ethene, chloro-
+
+U042 Ethene, 2-chloroethoxy-
+
+U078 Ethene, 1,1-dichloro-
+
+U079 Ethene, 1,2-dichloro-, (E)-
+
+U210 Ethene, tetrachloro-
+
+U228 Ethene, trichloro-
+
+U112 Ethyl acetate (I)
+
+U113 Ethyl acrylate (I)
+
+U238 Ethyl carbamate (urethane)
+
+U117 Ethyl ether (I)
+
+U114 Ethylenebisdithiocarbamic acid, salts & esters
+
+U067 Ethylene dibromide
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U077 Ethylene dichloride
+
+U359 Ethylene glycol monoethyl ether
+
+U115 Ethylene oxide (I,T)
+
+U116 Ethylenethiourea
+
+U076 Ethylidene dichloride
+
+U118 Ethyl methacrylate
+
+U119 Ethyl methanesulfonate
+
+U139 Ferric dextran
+
+U120 Fluoranthene
+
+U122 Formaldehyde
+
+U123 Formic acid (C,T)
+
+U124 Furan (I)
+
+U125 2-Furancarboxaldehyde (I)
+
+U147 2,5-Furandione
+
+U213 Furan, tetrahydro-(I)
+
+U125 Furfural (I)
+
+U124 Furfuran (I)
+
+U206 Glucopyranose, 2-deoxy-2- (3-methyl-3-nitrosoureido)-, D-
+
+U206 D-Glucose, 2-deoxy-2-[[methylnitrosoamino)-carbonyl]amino]-
+
+U126 Glycidylaldehyde
+
+U163 Guanidine, N-methyl-N'-nitro-N-nitroso-
+
+U127 Hexachlorobenzene
+
+U128 Hexachlorobutadiene
+
+U130 Hexachlorocyclopentadiene
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U131 Hexachloroethane
+
+U132 Hexachlorophene
+
+U243 Hexachloropropene
+
+U133 Hydrazine (R,T)
+
+U086 Hydrazine, 1,2-diethyl-
+
+U098 Hydrazine, 1,1-dimethyl-
+
+U099 Hydrazine, 1,2-dimethyl-
+
+U109 Hydrazine, 1,2-diphenyl-
+
+U134 Hydrofluoric acid (C,T)
+
+U134 Hydrogen fluoride (C,T)
+
+U135 Hydrogen sulfide
+
+U135 Hydrogen sulfide H2S
+
+U096 Hydroperoxide, 1-methyl- 1-phenylethyl- (R)
+
+U136 Hydroxydimethylarsine oxide
+
+U116 2-Imidazolidinethione
+
+U137 Ideno[1,2,3-cd]pyrene
+
+U139 Iron dextran
+
+U190 1,3-Isobenzofurandione
+
+U140 Isobutyl alcohol (I,T)
+
+U141 Isosafrole
+
+U142 Kepone
+
+U143 Lasiocarpine
+
+U144 Lead acetate
+
+U146 Lead,bis(acetato-O)tetrahydroxy-tri-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U145 Lead phosphate
+
+U146 Lead subacetate
+
+U129 Lindane
+
+U355 Linuron*
+
+U163 MNNG
+
+U147 Maleic anhydride
+
+U148 Maleic hydrazide
+
+U149 Malononitrile
+
+U150 Melphalan
+
+U151 Mercury
+
+U152 Methacrylonitrile (I,T)
+
+U092 Methanamine, N-methyl- (I)
+
+U029 Methane, bromo-
+
+U045 Methane, chloro- (I, T)
+
+U046 Methane, chloromethoxy-
+
+U068 Methane, dibromo-
+
+U080 Methane, dichloro-
+
+U075 Methane, dichlorodifluoro-
+
+U138 Methane, iodo-
+
+U119 Methanesulfonic acid, ethyl ester
+
+U211 Methane, tetrachloro-
+
+U153 Methanethiol (I,T)
+
+U225 Methane, tribromo-
+
+U044 Methane, trichloro-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U121 Methane, trichlorofluoro-
+
+U036
+4,7-Methano-1H-indene,1,2,4,5,6,7,8,8-octach-loro-2,3,3a,4,7,7a-hexahydro
+-
+
+U154 Methanol (I)
+
+U155 Methapyrilene
+
+U142 1,3,4-Metheno-2H-cyclobuta[cd]pentalen-2-one,1a,3,3a,4,5,5,5a,5b,6-
+decachloro-octahydro-
+
+U247 Methoxychlor
+
+U154 Methyl alcohol (I)
+
+U029 Methyl bromide
+
+U186 1-Methylbutadiene (I)
+
+U045 Methyl chloride (I,T)
+
+U156 Methyl chlorocarbonate (I,T)
+
+U226 Methyl chloroform
+
+U157 3-Methylcholanthrene
+
+U158 4,4'-Methylenebis(2-chloroaniline)
+
+U068 Methylene bromide
+
+U080 Methylene chloride
+
+U159 Methyl ethyl ketone (MEK)(I,T)
+
+U160 Methyl ethyl ketone peroxide (R T)
+
+U138 Methyl iodide
+
+U161 Methyl isobutyl ketone (I)
+
+U162 Methyl methacrylate (I,T)
+
+U161 4-Methyl-2-pentanone (I)
+
+U164 Methylthiouracil
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U010 Mitomycin C
+
+U059 5,12-Naphthacenedione, 8-acetyl-10-[(3-
+amino-2,3,6-trideoxy)-alpha-L-lyxo-hexopyranosyl)oxy]-7,8,9,10-tetrahydr
+o-6,8,11-tri- hydroxy-1-methoxy-, (8S-cis)-
+
+U167 1-Naphthylamine
+
+U168 2-Naphthylamine
+
+U026 Naphthylamine, N,N'-bis(2-chloroethyl)-
+
+U165 Naphthalene
+
+U047 Naphthalene, 2-chloro-
+
+U166 l,4-Naphthalenedione
+
+U236 2,7-Naphthalenedisulfonic acid, 3,3'-[3,3'-dimethyl
+[1,1'-biphenyl]-4,4'-diyl)] bis(azo)bis[5-amino-4- hydroxy]-,tetrasodium salt
+
+U166 1,4-Naphthoquinone
+
+U167 alpha-Naphthylamine
+
+U168 beta-Naphthylamine
+
+U217 Nitric acid, thallium(1+) salt
+
+U169 Nitrobenzene (I,T)
+
+U170 p-Nitrophenol
+
+U171 2-Nitropropane (I,T)
+
+U172 N-Nitrosodi-n-butylamine
+
+U173 N-Nitrosodiethanolamine
+
+U174 N-Nitrosodiethylamine
+
+U176 N-Nitroso-N-ethylurea
+
+U177 N-Nitroso-N-methylurea
+
+U178 N-Nitroso-N-methylurethane
+
+U179 N-Nitrosopiperidine
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U180 N-Nitrosopyrrolidine
+
+U181 5-Nitro-o-toluidine
+
+U193 1,2-Oxathiolane, 2,2-dioxide
+
+U058 2H,-l,3,2-Oxazaphosphorin- 2-amine,
+N,N-bis(2-chloroethyl)tetrahydro-,2-oxide
+
+U115 Oxirane (I,T)
+
+U126 Oxiranecarboxyaldehyde
+
+U041 Oxirane, (chloromethyl)-
+
+U182 Paraldehyde
+
+U183 Pentachlorobenzene
+
+U184 Pentachloroethane
+
+U185 Pentachloronitrobenzene(PCNB)
+
+See F027 Pentachlorophenol
+
+U161 Pentanol,4-methyl-
+
+U186 1,3-Pentadiene (I)
+
+U187 Phenacetin
+
+U188 Phenol
+
+U048 Phenol, 2-chloro-
+
+U039 Phenol, 4-chloro-3-methyl-
+
+U081 Phenol, 2,4-dichloro-
+
+U082 Phenol, 2,6-dichloro-
+
+U089 Phenol, 4,4'-(1,2-diethyl-1,2-ethenediyl)bis-,(E)-
+
+U101 Phenol, 2,4-dimethyl-
+
+U052 Phenol, methyl-
+
+U132 Phenol, 2,2'-methylenebis[3,4,6-trichloro
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U170 Phenol, 4-nitro-
+
+See F027 Phenol, pentachloro-
+
+See F027 Phenol, 2,3,4,6-tetrachloro-
+
+See F027 Phenol, 2,4,5-trichloro-
+
+See F027 Phenol, 2,4,6-trichloro-
+
+U150 L-Phenylalanine, 4-bis(2-chloroethyl)amino]-
+
+U145 Phosphoric acid, lead (2+) salt(2:3)
+
+U087 Phosphorodithioic acid, 0,0-diethyl S-methyl ester
+
+U189 Phosphorous sulfide (R)
+
+U190 Phthalic anhydride
+
+U191 2-Picoline
+
+U179 Piperidine, 1-nitroso-
+
+U192 Pronamide
+
+U194 1-Propanamine (I,T)
+
+U111 1-Propanamine, N-nitroso-N-propyl-
+
+U110 1-Propanamine, N-propyl- (I)
+
+U066 Propane, l,2-dibromo-3-chloro-
+
+U083 Propane, 1,2-dichloro-
+
+U149 Propanedinitrile
+
+U171 Propane, 2-nitro- (I,T)
+
+U027 Propane, 2,2'oxybis[2-chloro-
+
+U193 l,3-Propane sultone
+
+See F027 Propanoic acid, 2-(2,4,5-trichlorophenoxy)-
+
+U235 l-Propanol, 2,3-dibromo-, phosphate (3:l)
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U140 1-Propanol, 2-methyl- (I,T)
+
+U002 2-Propanone (I)
+
+U007 2-Propenamide
+
+U084 1-Propene, 1,3-dichloro-
+
+U243 1-Propene, 1,1,2,3,3,3-hexachloro-
+
+U009 2-Propenenitrile
+
+U152 2-Propenenitrile, 2-methyl- (I,T)
+
+U008 2-Propenoic acid (I)
+
+U113 2-Propenoic acid, ethyl ester (I)
+
+U118 2-Propenoic acid, 2-methyl-, ethyl ester
+
+U162 2-Propenoic acid, 2-methyl-,methyl ester (I,T)
+
+U194 n-Propylamine (I,T)
+
+U083 Propylene dichloride
+
+U148 3,6-Pyridazinedione, 1,2-dihydro-
+
+U196 Pyridine
+
+U191 Pyridine, 2-methyl-
+
+U237 2,4-(1H,3H)-Pyrimidinedione, 5-[bis(2-chloro-ethyl)amino]-
+
+U164 4(lH)-Pyrimidinone, 2,3-di hydro-6-methyl-2-thioxo-
+
+U180 Pyrrolidine, 1-nitroso-
+
+U200 Reserpine
+
+U201 Resorcinol
+
+U202 Saccharin, and salts
+
+U203 Safrole
+
+U204 Selenious acid
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U204 Selenium dioxide
+
+U205 Selenium sulfide
+
+U205 Selenium sulfide SeS2 (R,T)
+
+U015 L-Serine, diazoacetate (ester)
+
+See F027 Silvex (2,4,5-TP)
+
+U206 Streptozotocin
+
+U103 Sulfuric acid, dimethyl ester
+
+U189 Sulfur phosphide (R)
+
+See F027 2,4,5-T
+
+U207 l,2,4,5-Tetrachlorobenzene
+
+U208 l,l,l,2-Tetrachloroethane
+
+U209 1,1,2,2-Tetrachloroethane
+
+U210 Tetrachloroethylene
+
+See F027 2,3,4,6-Tetrachlorophenol
+
+U213 Tetrahydrofuran (I)
+
+U214 Thallium acetate
+
+U215 Thallium carbonate
+
+U216 Thallium chloride
+
+U216 Thallium chloride TlCl
+
+U217 Thallium nitrate
+
+U218 Thioacetamide
+
+U153 Thiomethanol (I,T)
+
+U244 Thioperoxydicarbonic diamide [(H2N)C(S)]2S2,tetramethyl-
+
+U219 Thiourea
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U244 Thiram
+
+U220 Toluene
+
+U221 Toluenediamine
+
+U223 Toluene diisocyanate (R,T)
+
+U328 o-Toluidine
+
+U353 p-Toluidine
+
+U222 o-Toluidine hydrochloride
+
+U011 1H-l,2,4-Triazol-3-amine
+
+U227 l,l,2-Trichloroethane
+
+U228 Trichloroethylene
+
+U121 Trichloromonofluoromethane
+
+See F027 2,4,5- Trichlorophenol
+
+See F027 2,4,6- Trichlorophenol
+
+U234 1,3,5-Trinitrobenzene (R,T)
+
+U182 l,3,5-Trioxane, 2,4,6-Trimethyl-
+
+U235 Tris(2,3-dibromopropyl) phosphate
+
+U236 Trypan blue
+
+U237 Uracil mustard
+
+U176 Urea, N-ethyl-N-nitroso-
+
+U177 Urea, N-methyl-N-nitroso-
+
+U043 Vinyl chloride
+
+U248 Warfarin, & salts, when present at concentrations of 0.3% or less
+
+U239 Xylene (I)
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+U200 Yohimban-16-carboxylic acid,
+11,17-dimethoxy-18[(3,4,5-trimethoxybenzoyl)oxy]- methyl
+ester(3beta,16beta,17alpha,18beta,20alpha)-
+
+U249 Zinc phosphide Zn3P2, when present at concentrations of 10% or less
+
+* 50 FR 18626, May 1, 1985 Proposed Rule
+
+NOTE: all amendments to reference F027: 50 FR 2000, Jan. 14, 1985, Final
+Rule.
+
+D. Criteria for designation of hazardous waste as universal waste.
+
+In determining whether a waste may be designated a universal waste, the
+Maine Board of Environmental Protection must determine that:
+
+(1) the waste or category of the waste meets the definition of a hazardous
+waste;
+
+(2) the waste or category of the waste is a manufactured product that is not
+easily contaminated with other substances:
+
+(3) the waste or a category of the waste is not exclusive to a specific industry
+or group of industries, is commonly generated by a wide variety of types of
+establishments (including, for example, households, retail and commercial
+businesses, office complexes, small businesses, government organizations,
+as well as large industrial facilities);
+
+(4) the waste or category of waste is generated by a large number of
+generators (e.g., more than 1,000 nationally) and is frequently generated in
+relatively small quantities by each generator;
+
+(5) systems to be used for collecting the waste or category of waste including
+packaging, marking, labeling, storage, and tracking would ensure close
+stewardship of the waste;
+
+(6) the risk posed by the waste or category of waste during accumulation and
+transport is relatively low compared to other hazardous wastes, and specific
+management standards developed for the waste type would be protective of
+human health and the environment during accumulation and transport;
+
+(7) regulation of the waste or category of waste under the designation of
+universal waste will increase the likelihood that the waste will be diverted
+from non hazardous waste management systems to recycling, or where
+appropriate treatment or disposal, in compliance with the full hazardous
+waste regulations;
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+(8) regulation of the waste or category of waste under the designation of
+universal waste will improve implementation of and compliance with the
+hazardous waste regulatory program; and
+
+(9) such other factors as may be appropriate.
+
+APPENDIX I:
+
+REPRESENTATIVE SAMPLING METHODS
+
+(Appendix I of this rule corresponds to Appendix I of 40 C.F.R. 261)
+
+The methods and equipment used for sampling waste materials will vary
+with the form and consistency of the waste materials to be sampled. Samples
+collected using the sampling protocols listed below, for sampling waste with
+properties similar to the indicated materials, will be considered by the
+Agency [EPA] to be representative of the waste.
+
+Extremely viscous liquid--ASTM Standard D140-70 Crushed or powdered
+material--ASTM Standard D346-75 Soil or rock-like material--ASTM
+Standard D420-69 Soil-like material--ASTM Standard D1452-65
+
+Fly Ash-like material--ASTM Standard D2234-76 [ASTM Standards are
+available from ASTM, 1916 Race St., Philadelphia, PA 19103]
+
+Containerized liquid wastes--"COLIWASA" described in "Test Methods for
+Evaluating Solid Waste, Physical/Chemical Methods,"1 U.S. Environmental
+Protection Agency, Office of Land and Emergency Management,
+Washington, DC 20460, as published on July 1, 2005. .]
+
+Liquid waste in pits, ponds, lagoons, and similar reservoirs.--"Pond
+Sampler" described in "Test Methods for the Evaluation of Solid Waste,
+Physical/Chemical Methods."1
+
+This manual also contains additional information on application of these
+protocols.
+
+1These methods are also described in "Samplers and Sampling Procedures
+for Hazardous Waste Streams," EPA 600/2-80-018, January, 1980.
+
+APPENDIX II:
+
+METHOD 1311
+
+TOXICITY CHARACTERISTIC LEACHING PROCEDURE (TCLP)
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Test methods include those in federal regulations published on July 1, 2005,
+including 40 C.F.R. 260.11 which is incorporated by reference in Section
+3(A)(2) of this Chapter. The TCLP is published in EPA Publication SW-846
+"Test Methods for Evaluating Solid Waste, Physical/Chemical Methods".
+Instructions for obtaining SW-846 can be found in Appendix III.
+
+APPENDIX III: CHEMICAL ANALYSIS TEST METHODS
+
+(Appendix III of this rule corresponds to Appendix III of 40 C.F.R. 261.)
+
+Test methods include those in federal regulations published on July 1, 2005,
+including 40 C.F.R. 260.11 which is incorporated by reference in Section
+3(A)(2) of this Chapter. EPA Publication SW-846 "Test Methods for
+Evaluating Solid Waste, Physical/Chemical Methods" as published July 1,
+2005. shall be used in determining whether a sample contains a given toxic
+constituent.
+
+Prior to final sampling and analysis method selection, the analyst should
+consult the specific section or method described in SW-846 for additional
+guidance on which of the approved methods should be employed for a
+specific sample analysis situation.
+
+APPENDIX IV: RESERVED
+
+APPENDIX V: RESERVED
+
+APPENDIX VI: RESERVED
+
+APPENDIX VII: BASIS FOR LISTING HAZARDOUS WASTES
+
+Hazardous
+
+Waste Hazardous constituents
+
+Number for which listed
+
+F001 Tetrachloroethylene, methylene chloride, trichloroethylene,
+1,1,1-trichloroethane, carbon tetrachloride, chlorinated fluorocarbons.
+
+F002 Tetrachloroethylene, methylene chloride, trichloroethylene,
+1,1,1-trichloroethane, 1,1,2-trichloroethane, chloro- benzene,
+1,1,2-trichloro-1,2, 2-trifluoroethane, ortho-dichloro-benzene,
+trichlorofluoromethane.
+
+F003 N.A.
+
+F004 Cresols and cresylic acid, nitrobenzene.
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+F005 Toluene, methyl ethyl ketone, carbon disulfide, isobutanol, pyridine,
+2-ethoxyethanol, benzene, 2-nitropropane
+
+F006 Cadmium, hexavalent chromium, nickel, cyanide (complexed)
+
+F007 Cyanide (salts)
+
+F008 Cyanide (salts)
+
+F009 Cyanide (salts)
+
+F010 Cyanide (salts)
+
+F011 Cyanide (salts)
+
+F012 Cyanide (complexed)
+
+F019 Hexavalent chromium, cyanide (complexed)
+
+F020 Tetra- and pentachloro dibenzo-p-dioxins; tetra and
+pentachlorodibenzofurans; tri- and tetrachlorophenols and their
+chlorophenoxy derivative acids, esters, ethers, amine and other salts.
+
+F021 Penta- and hexachlorodibenzo-p-dioxins; penta- and
+hexachlorodibenzofurans; pentachlorophenol and its derivatives
+
+F022 Tetra-, penta-, and hexa- chlorodibenzo-p-dioxins; tetra-, penta, and
+hexachlorodibenzofurans
+
+F023 Tetra-, and pentachlorodibenzo-p-dioxins; tetra- and
+pentachlorodibenzofurans; tri- and tetrachlorophenols and their
+chlorophenoxy de-rivative acids, esters, ethers, amine and other salts.
+
+F024 Chloromethane, dichloro- methane, trichloromethane, carbon
+tetrachloride, chloroethylene, l,l-di- chloroethane, l,2-dichloro- ethane,
+trans-l-2-dichloro- ethylene, l,l-dichloro- ethylene, l,l,l-trichloro- ethane,
+l,l,2-trichloro- ethane, trichloroethylene, l,l,l,2-tetrachloroethane,
+1,1,2,2-tetrachloroethane, tetrachloroethylene, pentachloroethane,
+hexachloroethane, allyl chloride (3-chloropropene), dichloropropane,
+dichloropropene, 2-chloro-l,3-butadiene, hexachloro-l,3-butadiene,
+hexachlorocyclopentadiene, hexachlorocyclohexane, benzene,
+chlorobenzene, dichlorobenzenes, 1,2,4-trichlorobenzene,
+tetrachlorobenzene, pentachlorobenzene, hexachlorobenzene, toluene,
+naphthalene.
+
+F025 Chloromethane, dichloromethane, trichloromethane, carbon
+tetrachloride, chloroethylene, l,l-dichloroethane, l,2-dichloroethane,
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+trans-l,2-dichloroethylene, l,l-dichloroethylene, l,l,l-trichloroethane,
+1,1,2-trichloroethane, trichloroethylene, l,l,l,2-tetrachloroethane,
+l,l,2,2-tetrachloroethane, tetrachloroethylene, pentachloroethane,
+hexachloroethane, allyl chloride (3-chloropropene), dichloropropane,
+dichloropropene, 2-chloro-l, 3-butadiene, hexachloro-l, 3-butadiene,
+hexachloro- cyclopentadiene, hexachlorocyclohexane, benzene,
+chlorobenzene, dichlorobenzenes, 1,2,4-trichlorobenzene,
+tetrachlorobenzene, pentachlorobenzene, hexachlorobenzene, toluene,
+naphthalene
+
+F026 Tetra-, penta-, and hexachlorodibenzo-p-dioxins; tetra-, penta-, and
+hexa- chlorodibenzofurans
+
+F027 Tetra-, penta-, and hexachlorodibenzo-p-dioxins; tetra-, penta-, and
+hexachlorodibenzofurans; tri-, tetra-, and pentachlorophenols and their
+chlorophenoxy derivative acids, esters, ethers, amine, and other salts
+
+F028 Tetra-, penta-, and hexachlorodibenzo-p- dioxins; tetra-, penta-, and
+hexachlorodibenzofurans; tri-, tetra- and pentachloro- phenols and their
+chlorophenoxy derivative acids, esters, ethers, amine, and other salts
+
+F032 Benz(a)anthracene, benzol(a)pyrene, dibenz(a,h)-anthracene, indeno
+(1,2,3-cd)pyrene, pentachlorophenol, arsenic, chromium, tetra-, penta-,
+hexa-, heptachlorodibenzo-p-dioxins, tetra-, pentra-, hexa-,
+heptachlorodibenzofurans.
+
+F034 Benz(a)anthracene, benzo (k)fluoranthene, benzo(a)pyrene,
+dibenz(a,h)anthracene, indeno (1,2,3-cd)pyrene, naphthalene, arsenic,
+chromium.
+
+F035 Arsenic, chromium, lead.
+
+F037 Benzene, benzo(a)pyrene, chrysene, lead, chromium.
+
+F038 Benzene, benzo(a)pyrene, chrysene, lead, chromium.
+
+F039 All constitutents for which treatment standards are specified for multi-
+source leachate (wastewaters) and nonwastewater) under Section 14A of
+Chapter 852.
+
+K001 Pentachlorophenol, phenol, 2-chlorophenol, p-chloro- m-cresol,
+2,4-dimethyl- phenol, 2,4-dinitrophenol, trichlorophenols, tetra-
+chlorophenols, 2,4-dinitro- phenol, creosote, chrysene, naphthalene,
+fluoranthene, benzo(b)fluoranthene, benzo(a)pyrene, indeno
+(1,2,3-cd)pyrene, benz(a) anthracene, dibenz(a) anthracene,
+acenaphthalene.
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+K002 Hexavalent chromium, lead
+
+K003 Hexavalent chromium, lead
+
+K004 Hexavalent chromium
+
+K005 Hexavalent chromium, lead
+
+K006 Hexavalent chromium
+
+K007 Cyanide (complexed), hexavalent chromium
+
+K008 Hexavalent chromium
+
+K009 Chloroform, formaldehyde, methylene chloride, methyl chloride,
+paraldehyde, formic acid
+
+K010 Chloroform, formaldehyde, methylene chloride, methyl chloride,
+paraldehyde, formic acid, chloro- acetaldehyde
+
+K011 Acrylonitrile, acetonitrile, hydrocyanic acid
+
+K013 Hydrocyanic acid, acrylonitrile, acetonitrile
+
+K014 Acetonitrile, acrylamide
+
+K015 Benzyl chloride, chlorobenzene, toluene, benzotrichloride
+
+K016 Hexachlorobenzene, hexachlorobutadiene, carbon tetrachloride,
+hexachloro- ethane, perchloroethylene
+
+K017 Epichlorohydrin, chloro ethers [bis (chloromethyl) ether and bis
+(2-chloroethyl) ethers], trichloropropane, dichloropropanols
+
+K018 l,2-dichloroethane, tri- chloroethylene, hexachloro- butadiene,
+hexachlorobenzene
+
+K019 Ethylene dichloride, l,l,l- trichloroethane, l,l,2- trichloroethane, tetra-
+chloroethanes (l,l,2,2-tetra- chloroethane and l,l,l,2-tetrachloroethane),
+trichloroethylene, tetra- chloroethylene, carbon tetrachloride, chloroform,
+vinyl chloride, vinylidene chloride
+
+K020 Ethylene dichloride, l,l,l-trichloroethane, l,l,2-trichloroethane, tetra-
+chloroethanes (l,l,2,2-tetra- chloroethane and l,l,l,2-tetrachloroethane),
+trichloroethylene, tetrachloroethylene, carbon tetrachloride, chloroform,
+vinyl chloride, vinylidene chloride
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+K021 Antimony, carbon tetrachloride, chloroform
+
+K022 Phenol, tars (polycyclic aromatic hydrocarbons)
+
+K023 Phthalic anhydride, maleic anhydride
+
+K024 Phthalic anhydride, l,4-naphthoquinone
+
+K025 Meta-dinitrobenzene, 2,4-dinitrotoluene
+
+K026 Paraldehyde, pyridines, 2-picoline
+
+K027 Toluene diisocyanate, toluene-2,4-diamine
+
+K028 l,l,l-trichloroethane, vinyl chlorideK029 l,2-dichloroethane,
+l,l,l-trichloroethane, vinyl chloride, vinylidene chloride, chloroform
+
+K030 Hexachlorobenzene, hexachlorobutadiene, hexachloroethane, l,l,l,2-
+tetrachloroethane, l,l,2,2-tetrachloroethane, ethylene dichloride
+
+K031 Arsenic
+
+K032 Hexachlorocyclopentadiene
+
+K033 Hexachlorocyclopentadiene
+
+K034 Hexachlorocyclopentadiene
+
+K035 Creosote, chrysene, naphthalene, fluoranthene benzo(b)fluoranthene,
+benzo(a)pyrene, indeno (l,2,3-cd) pyrene, benzo (a)anthracene, dibenzo(a)
+anthracene, acenaphthalene
+
+K036 Toluene, phosphorodithioic and phosphorothioic acid esters
+
+K037 Toluene, phosphorodithioic and phosphorothioic acid esters
+
+K038 Phorate, formaldehyde, phosphorodithioic and phosphorothioic acid
+esters
+
+K039 Phosphorodithioic and phosphorothioic acid esters
+
+K040 Phorate, formaldehyde, phosphorodithioic and phosphorothioic acid
+esters
+
+K041 Toxaphene
+
+K042 Hexachlorobenzene, ortho- dichlorobenzene
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+K043 2,4-dichlorophenol, 2,6-dichlorophenol, 2,4,6-trichlorophenol
+
+K044 N.A.
+
+K045 N.A.
+
+K046 Lead
+
+K047 N.A.
+
+K048 Hexavalent chromium, lead
+
+K049 Hexavalent chromium, lead
+
+K050 Hexavalent chromium
+
+K051 Hexavalent chromium, lead
+
+K052 Lead
+
+K060 Cyanide, napthalene, phenolic compounds, arsenic
+
+K061 Hexavalent chromium, lead, cadmium
+
+K062 Hexavalent chromium, lead
+
+K064 Lead, Cadmium
+
+K065 Lead, Cadmium
+
+K066 Lead, Cadmium
+
+K068 Cyanide (Complexes)
+
+K069 Hexavalent chromium, lead, cadmium
+
+K071 Mercury
+
+K073 Chloroform, carbon tetra- chloride, hexachloroethane,
+trichloroethane, tetra- chloroethylene, dichloro- ethylene, 1,1,2,2-tetra-
+chloroethane
+
+K083 Aniline, diphenylamine, nitrobenzene, phenylenediamine
+
+K084 Arsenic
+
+K085 Benzene, dichlorobenzenes, trichlorobenzenes, tetra- chlorobenzene,
+pentachloro- benzene, hexachlorobenzene, benzyl chloride
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+K086 Lead, hexavalent chromium
+
+K087 Phenol, naphthalene
+
+K088 Cyanide (complexes)
+
+K090 Chromium
+
+K091 Chromium
+
+K093 Phthalic anhydride, maleic anhydride
+
+K094 Phthalic anhydride
+
+K095 1,1,2-trichloroethane, 1,1,1,2-tetrachloroethane,
+1,1,2,2-tetrachloroethane
+
+K096 1,2-dichloroethane, 1,1,1-trichloroethane, 1,1,2-trichloroethane
+
+K097 Chlordane, heptachlor
+
+K098 Toxaphene
+
+K099 2,4-dichlorophenol, 2,4,6-trichlorophenol
+
+K100 Hexavalent chromium, lead, cadmium
+
+K101 Arsenic
+
+K102 Arsenic
+
+Kl03 Aniline, nitrobenzene, phenylenediamine
+
+K104 Aniline, benzene, diphenylamine, nitrobenzene, phenylenediamine
+
+K105 Benzene, monochlorobenzene, dichlorobenzenes,
+2,4,6-trichlorophenol
+
+K106 Mercury
+
+K107 1,1-Dimethylhydrazine (UDMH)
+
+K108 1,1-Dimethylhydrazine (UDMH)
+
+K109 1,1-Dimethylhydrazine (UDMH)
+
+K110 1,1-Dimethylhydrazine (UDMH)
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+K111 2,4-Dinitrotoluene,
+
+K112 2,4-Toluenediamine, o-toluidine, p-toluidine, aniline
+
+K113 2,4-Toluenediamine, o-toluidine, p-toluidine, aniline
+
+K114 2,4-Toluenediamine, o-toluidine, p-toluidine
+
+K115 2,4-Toluenediamine,
+
+K116 Carbon tetrachloride, tetrachloroethylene, chloroform, phosgene
+
+K117 Ethylene dibromide
+
+K118 Ethylene dibromide
+
+K119** Chlorobenzene, linuron
+
+K120** Chlorobenzene, bromacil
+
+K121** Bromacil
+
+K123 Ethylene thiourea
+
+K124 Ethylene thiourea
+
+K125 Ethylene thiourea
+
+K126 Ethylene thiourea
+
+K131 Methyl bromide, dimethylsulfate
+
+K132 Methyl bromide
+
+K136 Ethylene dibromide
+
+K138 1,1-Dimethylhydrazine (UDMH)
+
+K141 Benzene, benz(a)anthracene, benzo(a)pyrene, benzo(b)fluoranthene,
+benzo(k)fluoranthene, dibenz(a,h)anthracene, indeno(1,2,3-cd)pyrene
+
+K142 Benzene, benz(a)anthracene, benzo(a)pyrene, benzo(b)fluoranthene,
+benzo(k)fluoranthene, dibenz(a,h)anthracene, indeno(1,2,3-cd)pyrene
+
+K143 Benzene, benz(a)anthracene, benzo(b)fluoranthene,
+benzo(k)fluoranthene
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+K144 Benzene, benz(a)anthracene, benzo(a)pyrene, benzo(b)fluoranthene,
+benzo(k)fluoranthene, dibenz(a,h)anthracene.
+
+K145 Benzene, benz(a)anthracene, benzo(a)pyrene, dibenz(a,h)anthracene,
+naphthalene
+
+K147 Benzene, benz(a)anthracene, benzo(a)pyrene,benzo(b)fluoranthene,
+benzo(k)fluoranthene, dibenz(a,h)anthracene, indeno(1,2,3-cd)pyrene
+
+K148 Benz(a)anthracene, benzo(a)pyrene, benzo(b)fluoranthene,
+benzo(k)fluoranthene, dibenz(a,h)anthracene, indeno(1,2,3-cd)pyrene
+
+K149 Benzotrichloride, benzyl chloride, chloroform, chloromethane,
+chlorobenzene, 1,4-dichlorobenzene, hexachlorobenzene,
+pentachlorobenzene, 1,2,3,5-tetrachlorobenzene, toluene
+
+K150 Carbon tetrachloride, chloroform, chloromethane, 1,4-
+dichlorobenzene, hexachlorobenzene, pentachlorobenzene, 1,2,4,5-
+tetrachlorobenzene, 1,1,2,2-tetrachloroethane, tetrachloroethylene, 1,2,4-
+trichlorobenzene
+
+K151 Benzene, carbon tetrachloride, chloroform, hexachlorobenzene,
+pentachlorobenzene, toluene, 1,2,4,5-tetrachlorobenzene,
+tetrachloroethylene
+
+* 55 FR 18507, May 2, 1990, proposed rule
+
+**50 FR 18626, May 1, 1985, Proposed Rule
+
+APPENDIX VIII: HAZARDOUS CONSTITUENTS
+
+Common name Chemical abstracts name
+
+Acenaphthene,5-nitro**
+
+Acetamide, N-(4-(5-nitro-2-furyl)-2-thiazolyl)-**
+
+Acetonitrile Same
+
+Acetophenone Ethanone, 1-phenyl-
+
+2-Acetylaminofluorene Acetamide, N-9H-fluoren-2-yl-
+
+Acetyl chloride Same
+
+1-Acetyl-2-thiourea Acetamide, N-(aminothioxomethyl)-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Acrolein 2-Propenal
+
+Acrylamide 2-Propenamide
+
+Acrylonitrile 2-Propenenitrile
+
+Actinomycin D**
+
+Aflatoxins Same
+
+Aldicarb Propanal,
+2-methyl-2-(methylthio)-,0-[(methylamino)carbonyl]oxime
+
+Aldrin 1,4,5,8-Dimethanona
+
+phthalene, 1,2,3,4,10,10-10-hexachloro-1,4,4a,5,
+
+8,8a-hexahydro-(1alpha,4alpha,4abeta,
+
+5alpha,8alpha,8abeta)-,
+
+Allyl alcohol 2-Propen-1-ol
+
+Allyl-chloride 1-Propane, 3-Chloro
+
+Aluminum phosphide Same
+
+3-Amino-9-ethyl carbazole**
+
+p-aminoazobenzene 4-(phenylazo) benzenamine-**)
+
+o-Aminoazotoluene o-Toluidine, 4-(o-tolylazo)-**
+
+4-Aminobiphenyl [1,1'-Biphenyl]-4 amine
+
+5-(Aminomethyl)-3-isoxazolol 3(2H)-Isoxazolone, 5-(aminomethyl)-
+
+4-Aminopyridine 4-Pyridinamine
+
+Amitrole 1H-1,2,4-Triazol-
+
+3-amine
+
+Ammonium vanadate Vanadic acid, ammonium salt
+
+Anilazine S-Triazine, 2,4-dichloro-6
+
+(o-chloroanilino)-**
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Aniline Benzenamine
+
+Aniline, 4-4'-methylenebis-(N-N-dimethyl-)-**
+
+Aniline, 4-4'-methylenebis-(2-methyl-)-**
+
+Aniline, 4,4'-thiodi-
+
+Aniline, 2,4,5-trimethyl-**
+
+0-Anisidine**
+
+0-Anisidine hydrochloride**
+
+0-Anisidine, 5-methyl-**
+
+0-Anisidine, 5-nitro-**
+
+Anthraquinone, 2-amino-**
+
+Anthraquinone, 1-amino-2-methyl-**
+
+Anthraquinone, 2-methyl-1-nitro-**
+
+Antimony Same
+
+Antimony compounds,N.O.S.1
+
+Aramite Sulfurous acid, 2-chloroethyl-2- [4-(1,1-dimethylethyl)-
+phenoxy]-1-methylethyl ester
+
+Arsenic Same
+
+Arsenic compounds, N.O.S.1
+
+Arsenic acid Arsenic acid H3AsO4
+
+Arsenic pentoxide Arsenic oxide As2O5
+
+Arsenic trioxide Arsenic oxide As2O3
+
+Asbestos**
+
+Auramine Benzenamine, 4,4'-carbonimidoylbis [N,N-dimethyl]-,
+monohydrochloride
+
+Azinphos ethyl Phosphorodithioic acid, O,O-diethyl ester, S-ester with
+3-(mercaptomethyl) -1,2,3-benzotriazin-4(3H)-one**
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Azinphos methyl Phosphorodithioic acid, O,O-dimethyl ester, S-ester with
+3-(mercaptomethyl)-1,2,3-benzotriazine-4(3H)-one**
+
+Azaserine L-Serine, diazoacetate (ester)
+
+Barban Carbanilic acid, m-chloro, 4-chloro-2-butynyl
+
+ester*
+
+Barbituric acid, 5-ethyl-5 phenyl-** 2,4,6 (1H,3H, 5H) - pyrimidinetrione
+
+Barium Same
+
+Barium compounds, N.O.S.1
+
+Barium cyanide Same
+
+Bendiocarb Carbamic acid, methyl-2,3-(dimethyl- methylenediox)phenyl
+ester
+
+Benz[c]acridine Same
+
+Benz[a]anthracene Same
+
+Benzal chloride Benzene, (dichloromethyl)-
+
+Benzene Same
+
+Benzenamine hydrochloride**
+
+Benzenearsonic acid Arsonic acid, phenyl-
+
+Benzidine [1,1'-Biphenyl]-4,4'-diamine
+
+Benzidine sulfate**
+
+Benzimidazolecarbamic acid, 1-(butyl-carbamoyl)-methyl ester
+
+Benzo[b]fluoranthene Benz[e] [acephenanthrylene
+
+Benzo[j]fluoranthene Same
+
+Benzo(k)fluoranthene Same
+
+Benzo[a]pyrene Same
+
+p-Benzoquinone 2,5-Cyclohexadiene-1,4-dione
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Benzotrichloride Benzene, (trichloromethyl)-
+
+Benzyl chloride Benzene, (chloromethyl)-
+
+Beryllium powder Same
+
+Beryllium compounds,N.O.S.1
+
+Biphenyl, 4-nitro-**
+
+Bromoacetone 2-Propanone, 1-bromo-
+
+Bromacil Uracil, 6-methyl-, 5-bromo-3-sec-butyl
+
+Bromoform Methane, tribromo-
+
+4-Bromophenyl phenyl ether Benzene, 1-bromo-4-phenoxy-
+
+Bromoxynil Benzonitrile, 3,5-dibromo-4-hydroxy*
+
+Brucine Strychnidin-10-one, 2,3-dimethoxy-
+
+1,3'-Butadiene, 2-chloro-**
+
+1-Butanol, 4-(butylnitrosamino)-**
+
+Butyl benzyl phthalate 1,2-Benzene dicarboxylic acid, butyl phenylmethyl
+ester
+
+Cacodylic acid Arsinic acid, dimethyl-
+
+Cadmium Same
+
+Cadmium compounds, N.O.S.1
+
+Calcium chromate Chromic acid H2CrO4,calcium salt
+
+Calcium cyanide Calcium cyanide Ca(CN)2
+
+Captafol 4-Cyclohexene-1,2-dicarboximide,
+N-(1,1,2,2-tetrachloroethyl)thio-**
+
+Captan 4-Cyclohexene-1,2-dicarboximide, N-(trichloromethyl)thio-
+
+Carbaryl Carbamic acid, methyl-, 1-naphthyl ester*
+
+Carbofuran Carbamic acid, methyl, 2,3-dihydro-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+2,2-dimethyl-7-benzofuranyl ester**
+
+Carbon disulfide Same
+
+Carbon oxyfluoride Carbonic difluoride
+
+Carbon tetrachloride Methane, tetrachloro
+
+Carbophenothion Phosphorodithioic acid S-(((p-chlorophenyl)thio)methyl)
+O,O-diethyl ester**
+
+Chloral Acetaldehyde, trichloro-
+
+Chlorambucil Benzenebutanoic acid, 4-[bis(2-chloroethyl)amino]-
+
+Chlordane 4,7-Methano-1 H-indene, 1,2,4,5,6,7,8,8-octachloro-2,3,3a,
+4,7,7a-hexahydro-.
+
+Chlordane(alpha and gamma isomers)
+
+Chlorfenvinphos Phosphoric acid, 2-chloro-1-(2,4-dichlorophenyl)vinyl
+diethyl ester**
+
+Chlorinated benzenes, N.O.S.1
+
+Chlorinated ethane, N.O.S.1
+
+Chlorinated fluorocarbons, N.O.S.1
+
+Chlorinated napthalene, N.O.S.1
+
+Chlorinated phenol, N.O.S.1
+
+Chlorine**
+
+Chlornaphazin 2-Naphthalenamine, N,N'-bis(2-chloroethyl)-
+
+Chloroacetaldehyde Acetaldehyde, chloro-
+
+Chloroalkyl ethers, N.O.S.1
+
+p-Chloroaniline Benzenamine, (4-chloro-
+
+Chlorobenzene Benzene, chloro-
+
+Chlorobenzilate Benzeneacetic acid,
+4-chloro-alpha-(4-chloro-phenyl)-alpha-hydroxy-, ethyl ester
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+p-Chloro-m-cresol Phenol, 4-chloro-3-methyl-
+
+Chloroethanol Ethanol, 2-chloro-**
+
+2-Chloroethyl vinyl ether Ethene, (2-chloroethoxy)-
+
+Chloroform Methane, trichloro-
+
+Chloromethyl methyl ether Methane, chloromethoxy-
+
+beta-Chloronaphthalene Naphthalene, 2-chloro-
+
+o-Chlorophenol Phenol,2-chloro-
+
+1-(o-Chlorophenyl)thiourea Thiourea, (2-chlorophenyl)-
+
+Chloroprene 1,3-Butadiene, 2-chloro-
+
+3-Chloropropionitrile Propanenitrile, 3-chloro-
+
+Chlorpyrifos Phosphorothioic acid, O,O-diethyl O-(3,5,6-trichloro-2-pyridyl)
+ester**
+
+Chromium Same
+
+Chromium compounds, N.O.S.1
+
+Chrysene Same
+
+Citrus red No. 2 2-Naphthalenol, 1-(2,5-dimethoxyphenyl)azo]-
+
+Clonitralid Salicylanilide, 2',5-dichloro-4'-nitro-, compound with
+2-aminoethanol (l:l)**
+
+Coal tar creosote Same
+
+Cobalt, when in the form of particles
+
+100 microns or less**
+
+Cobalt (II) chloride**
+
+Copper cyanide Copper cyanide CuCN
+
+Coumaphos Phosphorothioic acid,
+0-(3-chloro-4-methyl-2-oxo-2H-1-benzopyran-7-yl)0,0-diethyl ester
+(Coumarin, 3-chloro-7-hydroxy-4-methyl,-0-ester with 0,0-diethyl
+phosphorothioate)
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Coumarin, 3-chloro-7-hydroxy-4-methyl-0-ester with
+0,0-diethylphosphorothioate**
+
+Creosote Same
+
+Cresol (Cresylic acid) Phenol, methyl-
+
+Crotoxyphos 2-Butenoic acid, 3-((dimethoxyphos-phinyl)oxy)-,
+1-phenylethyl ester (Crotonic acid, 3-hydroxy-, alpha-methylbenzyl ester,
+dimethyl phosphate (E)-)
+
+Crotonaldehyde 2-Butenal
+
+Cyanides (soluble salts and complexes
+
+N.O.S1
+
+Cyanogen Ethanedinitrile
+
+Cyanogen bromide Cyanogen bromide (CN)Br
+
+Cyanogen chloride Cyanogen chloride (CN)Cl
+
+Cycasin beta-D-Glucopyranoside, (methyl-ONN-azoxy)methyl
+
+2-Cyclohexyl-4,6-dinitrophenol Phenol, 2-cyclohexyl-4,6-dinitro-
+
+Cyclophosphamide 2H-1,3,2-Oxazaphosphorin-2-amine,
+N,N-bis(2-chloroethyl)tetrahydro-,2-oxide
+
+2,4-D Acetic acid, (2,4-dichlorophenoxy)-
+
+2,4-D, salts, esters
+
+Daunomycin 5,12-Naphtha cenedione, 8-acetyl-10[(3-amino-2,3,6-trideoxy-
+alpha-L-lyxo-hexopyranosyl)oxy]-7,8,9,10-tetrahydro-6,8,11-trihydroxy-1-m
+ethyoxy-, (8S-cis)-
+
+DDD Benzene, 1,1'-(2,2-dichloroethylidene)
+
+bis(4-chloro-,
+
+DDE Benzene, 1,1'-(dichloroethenylidene)
+
+bis(4-chloro-
+
+DDT Benzene, 1,1'-(2,2,2-trichloro-ethylidene)bis(4-chloro-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Demeton Phosphorothioic acid, O,O-diethyl
+
+0-(2-(ethylthio)ethyl) ester, mixed with
+
+O,O-diethyl S-(2-(ethylthio)ethyl) ester (7:3)**
+
+Diallate Carbamothioic acid, bis(1-methyl-ethyl)-,
+S-(2,3-dichloro-2-propenyl) ester
+
+Diazinon Phosphorothioic acid, O,O-diethyl
+O-(2-isopropyl-6-methyl-4-pyrimidinyl) ester**
+
+Dibenz[a,h]acridine Same
+
+Dibenz[a,j]acridine Same
+
+Dibenz[a,h]anthracene Same
+
+7H-Dibenzo[c,g]carbazole Same
+
+Dibenzo[a,e]pyrene Naphtho[1,2,3,4-def] chrysene
+
+Dibenzo[a,h]pyrene Dibenzo[b,def] chrysene
+
+Dibenzo[a,i]pyrene Benzo[rst] pentaphene
+
+1,2-Dibromo-3-chloropropane Propane, 1,2-dibromo-3-chloro-
+
+Dibutyl phthalate 1,2-Benzenedi carboxylic acid, dibutyl ester
+
+Dichlone 1,4-Naphthalene dione, 2,3- dichloro-**
+
+o-Dichlorobenzene Benzene, 1,2-dichloro-
+
+m-Dichlorobenzene Benzene, 1,3,-dichloro-
+
+p-Dichlorobenzene Benzene, 1,4-dichloro-
+
+Dichlorobenzene, N.O.S.1 Benzene, dichloro-
+
+3,3'-Dichlorobenzidine [1,1'-Biphenyl] -4,4'-diamine, 3,3'-dichloro-
+
+1,4-Dichloro-2-butene 2-Butene,1,4-dichloro-
+
+Dichlorodifluoromethane Methane, dichlorodifluoro-
+
+Dichloroethylene, N.O.S.1 Dichloroethylene
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+1,1-Dichloroethylene Ethene, 1,1-dichloro-
+
+1,2-Dichloroethylene Ethene, 1,2-dichloro-, (E)-
+
+Dichloroethyl ether Ethane, 1,1'oxybis[2-chloro-
+
+Dichloroisopropyl ether Propane, 2,2'-oxybis[2-chloro-
+
+Dichloromethoxy ethane Ethane, 1,1'-[methylenebis(oxy)] bis[2-chloro-
+
+Dichloromethyl ether Methane, oxybis[chloro-
+
+2,4-Dichlorophenol Phenol, 2,4-dichloro-
+
+2,6-Dichlorophenol Phenol, 2,6-dichloro-
+
+Dichlorophenylarsine Arsonous dichloride, phenyl-
+
+Dichloropropane, N.O.S.1 Propane, dichloro-
+
+Dichloropropanol, N.O.S.1 Propanol, dichloro-
+
+Dichloropropene, N.O.S.1 Propene, dichloro-
+
+1,3-Dichloropropene Propene, 1,3-dichloro-
+
+Dichlorvos Phosphoric acid, 2,2-dichlorovinyl dimethyl ester**
+
+Dieldrin 2,7:3,6-Dimethanona phth[2,3-b]oxirene,
+3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a-octahydro-,(1aalpha,2beta,2aalph
+a,3beta,6beta,6aalpha,7beta,7aalpha)-
+
+1,2:3,4-Diepoxybutane 2,2'-Bioxirane
+
+Diethylarsine Arsine, diethyl-
+
+1,4-Diethyleneoxide 1,4-Dioxane
+
+Diethylhexyl phthalate 1,2-Benzenedi-carboxylic acid, bis(2-ethylhexyl)
+ester
+
+N,N'-Diethylhydrazine Hydrazine, 1,2-diethyl-
+
+O,O-Diethyl S-methyl dithiophosphate Phosphorodithioic acid, O,O-diethyl
+S-methyl
+
+ester
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Diethyl-p-nitrophenyl phosphate Phosphoric acid, diethyl 4-nitro-phenyl
+ester
+
+Diethyl phthalate 1,2-Benzenedi-carboxylic acid, diethyl ester
+
+O,O-Diethyl O-pyrazinyl phosphorothioate Phosphorothioc acid,
+O,O-diethyl O- pyrazinyl ester
+
+Diethylstilbesterol Phenol, 4,4'-(1,2-diethyl-1,2-ethenediyl) bis-(E)
+
+Diethyl sulfate Sulfuric acid, diethyl ester**
+
+Dihydrosafrole 1,3-Benzodioxole, 5-propyl-
+
+Diisopropylfluorophosphate (DFP) Phosphorofluoridic acid,
+bis(1-methylethyl) ester
+
+Dimethoate Phosphorodithioic acid, O,O-dimethyl
+S[2-(methylamino)-2-oxoethyl] ester
+
+3,3'-Dimethoxybenzidine [1,1'-Biphenyl]-4,-4'-diamine, 3,3'- dimethoxy-
+
+p-Dimethylaminoazobenzene Benzenamine, N,N-dimethyl-4-(phenylazo)-
+
+7,12-Dimethylbenz[a]anthracene Benz[a]anthracene,-7,12-dimethyl-
+
+3,3'-Dimethylbenzidine [1,1'-Biphenyl]-4,-4'-diamine,3,3'-dimethyl-
+
+Dimethylcarbamoyl chloride Carbamic chloride, dimethyl-
+
+1,1-Dimethylhydrazine Hydrazine, 1,1-dimethyl-
+
+1,2-Dimethylhydrazine Hydrazine, 1,2-dimethyl-
+
+alpha,alpha-Dimethylphenethylamine Benzeneethanamine, alpha,
+alpha-dimethyl-
+
+2,4-Dimethylphenol Phenol, 2,4-dimethyl-
+
+Dimethyl phthalate 1,2-Benzenedi-carboxylic acid, dimethyl ester
+
+Dimethyl sulfate Sulfuric acid, dimethyl ester
+
+Dinitrobenzene, N.O.S.1 Benzene, dinitro-
+
+4,6-Dinitro-o-cresol Phenol, 2-methyl-4,6-dinitro-
+
+4,6-Dinitro-o-cresol salts
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+2,4-Dinitrophenol Phenol, 2,4-dinitro-
+
+2,4-Dinitoluene Benzene, 1-methyl-2,4-dinitro-
+
+2,6-Dinitrotoluene Benzene, 2-methyl-1,3-dinitro-
+
+Dinocap Crotonic acid, 2-(1-methylheptyl)-4,6-dinitrophenyl ester
+
+Dinoseb Phenol, 2-(1-methylpropyl)-4,6-dinitro-
+
+Di-n-octyl phthalate 1,2-Benzenedi-carboxylic acid, dioctyl ester
+
+Diphenylamine Benzenamine, N-phenyl-
+
+1,2-Diphenylhydrazine Hydrazine, 1,2-diphenyl-
+
+Di-n-propylnitrosamine 1-Propanamine, N-nitroso-N-propyl
+
+Dioxathion Phosphorodithioic acid, S,S'-p-dioxane-2,3-
+
+diyl O,O,O',O'-tetraethyl ester**
+
+Disulfoton Phosphorodithioic acid, O,O-diethyl S-[2-(ethylthio)ethyl] ester
+
+Dithiobiuret Thioimidodicarbonic diamide [(H2N)C(S)]2NH
+
+Endosulfan 6,9-Methano-2,4,-3-benzodioxa-
+thiepin,6,7,8,9,10,10-hexachloro-1,5,5a,6,9,9a-hexahydro-, 3-oxide
+
+Endothall 7-Oxabicyclo-[2.2.1]heptane-2,-3-dicarboxylic acid
+
+Endrin 2,7:3,6-Dimetha-nonaphth[2,3-b]-oxirene,
+3,4,5,6,9,9-hexachloro-1a,2,2a,3,6,6a,7,7a,octa-hydro-(1aalpha,2beta,2abeta
+,3alpha,6alpha,6abeta,7beta,7aalpha)-
+
+Endrin metabolites
+
+Epichlorohydrin Oxirane, (chloromethyl)-
+
+Epinephrine 1,2-Benzenediol, 4-[1-hydroxy-2-(methylamino)ethyl]-,(R)-
+
+EPN Phosphonothioic acid, phenyl-,O-ethyl O-(p-nitrophenyl) ester**
+
+Ether, 2,4-dichlorophenyl p-nitrophenyl**
+
+Ethion Phosphorodithioic acid, S,S'-methylene
+
+O,O,O',O'-tetraethyl ester**
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Ethyl carbamate (urethane) Carbamic acid, ethyl ester
+
+Ethyl cyanide Propanenitrile
+
+Ethylenebisdithiocarbamic acid Carbamodithioic acid, 1,2-ethanediylbis-
+
+Ethylenebisdithiocarbamic acid, salts and esters.
+
+Ethylene dibromide Ethane, 1,2-dibromo-
+
+Ethylene dichloride Ethane, 1,2-dichloro-
+
+Ethylene glycol monoethyl ether Ethanol, 2-ethoxy-
+
+Ethyleneimine Aziridine
+
+Ethylene oxide Oxirane
+
+Ethylenethiourea 2-Imidazolid- inethione
+
+Ethylidene dichloride Ethane, 1,1-dichloro-
+
+Ethyl methacrylate 2-Propenoic acid, 2-methyl-,ethyl ester
+
+Ethyl methanesulfonate Methanesulfonic acid, ethyl ester
+
+Famphur Phosphorothioic acid, O-[4-[(dimethylamino)
+
+sulfonyl]phenyl]O,O-dimethyl ester
+
+Fensulfothion Phosphorothioic acid, O,O-diethyl
+O-(p-(methylsulfinyl)phenyl) ester**
+
+Fenthion Phosphorothioic acid, O,O-dimethyl-, O-(4-methylthio)-m-tolyl)
+ester**
+
+Fluchloralin p-Toluidine,
+N-(2-chloroethyl)-2,6-dinitro-N-propyl-alpha,alpha,alpha-trifluoro-**
+
+Fluoranthene Same
+
+Fluorine Same
+
+Fluoroacetamide Acetamide, 2-fluoro-
+
+Fluoroacetic acid, sodium salt Acetic acid, fluoro-, sodium salt
+
+Formaldehyde Same
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Formic acid Same
+
+Glutarimide, 3-(2-(3,5-dimethyl-2-oxocyclohexyl)-2-hydroxyethyl)-**
+
+Glycidylaldehyde Oxirane carboxyaldehyde
+
+Halomethanes, N.O.S.1
+
+Heptachlor 4,7-Methano-1H-indene, 1,4,5,6,7,8,8-heptachloro-3a,4,7,7a-
+tetrahydro-
+
+Heptachlor epoxide 2,5-Methano-2H-indeno[1,2-b]oxirene
+2,3,4,5,6,7,7-heptachloro-1a,1b,5,5a,6,6a-hexahydro-,
+1aalpha,1bbeta,2alpha,5alpha,5abeta, 6beta,6aalpha)-
+
+Heptachlor epoxide (alpha,beta,and gamma isomers).
+
+Hexachlorobenzene Benzene, hexachloro-
+
+Hexachlorobutadiene 1,3-Butadiene, 1,1,2,3,4,4-hexachloro-
+
+Hexachlorocyclopentadiene 1,3-Cyclo pentadiene, 1,2,3,4,5,5-hexachloro-
+
+Hexachlorodibenzo-p-dioxins
+
+Hexachlorodibenzofurans
+
+Hexachloroethane Ethane, hexachloro-
+
+Hexachlorophene Phenol, 2,2'-methylenebis[3,4,6-trichloro-
+
+Hexachloropropene 1-Propene,1,1,2,3,3,3-hexachloro-
+
+Hexaethyl tetraphosphate Tetraphosphoric acid, hexaethyl ester
+
+Hexamethyl phosphoramide Phosphoric triamide, hexamethyl-**
+
+Hydantoin, 5,5-diphenyl-** 2,4-Imidazo lidinedione, 5,5-diphenyl-
+
+Hydantoin, 5,5-diphenyl-, monosodium salt**
+
+Hydrazine Same
+
+Hydrogen cyanide Hydrocyanic acid
+
+Hydrogen fluoride Hydrofluoric acid
+
+Hydrogen sulfide Hydrogen sulfide H2S
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Hydroquinone**
+
+Hydroxylamine, N-nitroso-N-phenyl-, ammonium salt**
+
+Hypochlorous acid, calcium salt**
+
+Hypochlorous acid, sodium salt**
+
+Indeno[1,2,3-cd]pyrene Same
+
+Iron dextran Same
+
+Isobutyl alcohol 1-Propanol, 2-methyl-
+
+Isodrin 1,4,5,8-Dimethanonaphthalene,
+1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a,hexahydro-,(1alpha,4alpha,4abeta,5b
+eta,8beta,8abeta)-
+
+Isonicotinic acid hydrazide**
+
+Isosafrole 1,3-Benzo-dioxole,5-(1-propenyl)-
+
+Kepone 1,3,4-Metheno-2H-cyclobuta[cd] pentalen-2-one,
+1,1a,3,3a,4,5,5,5a,5b,6-decachlorooctahydro-
+
+Ketene**
+
+Lasiocarpine 2-Butenoic acid,
+2-methyl-,7-[[2,3-dihydroxy-2-(1-methoxyethyl)-3-methyl-1-oxobutoxy]met
+hyl]2,3,5,7a-tetrahydro-1H-pyrrolizin-1-yl
+ester,[1S-[1alpha(Z),7(2S*,3R*),7aalphal]]-
+
+Lead Same
+
+Lead compounds, N.O.S.1
+
+Lead acetate Acetic acid, lead(2+)salt
+
+Lead phosphate Phosphoric acid, lead(2+)salt(2:3)
+
+Lead subacetate Lead,bis-(acetato-O)tetrahydroxytri-
+
+Leptophos Phosphonothioic acid, phenyl-,0-(4-bromo-2,5-dichlorophenyl)
+O-methyl ester**
+
+Lindane Cyclohexane, 1,2,3,4,5,6-hexachloro-,
+(1alpha,2alpha,3beta,4alpha,5alpha,6beta)-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Linuron (Urea, N'-(3,4-dichlorophenyl)-N-methoxy-N-methyl-*
+
+Lithium**
+
+Malachite green Ammonium,
+(4-(p-(dimethylamino)-alpha-phenylbenzylidene)-2,5-cyclohexadien-1-ylide
+ne)-dimethyl-, chloride**
+
+Malathion Succinic acid, mercapto-, diethyl ester, S-ester with O,O-dimethyl
+phosphorodithioate**
+
+Maleic anhydride 2,5-Furandione
+
+Maleic hydrazide 3,6-Pyri dazinedione, 1,2-dihydro-
+
+Malononitrile Propanedinitrile
+
+Melphalan L-Phenylalanine, 4-[bis(2-chloro-ethyl)aminol]-
+
+Mercury Same
+
+Mercury compounds, N.O.S.1
+
+Mercury fulminate Fulminic acid, mercury(2+)salt
+
+Mestranol 17 alpha 19 Norpregna 1,3,5(10) trien 20 yn 17 ol, 3 methoxy **
+
+Methacrylonitrile 2-Propenenitrile, 2-methyl-
+
+Methapyrilene 1,2-Ethanediamine,
+N,N-dimethyl-N'-2-pyridinyl-N'-(2-thienylmethyl-
+
+Methomyl Ethanimidothioic acid, N-[[(methylamino)carbonyl]oxy]-,methyl
+ester
+
+Methoxychlor Benzene, 1,1'-(2,2,2-trichloro-ethylidene)bis[4-methoxy-
+
+Methyl bromide Methane, bromo-
+
+Methyl chloride Methane, chloro-
+
+Methyl chlorocarbonate Carbonochloridic acid, methyl ester
+
+Methyl chloroform Ethane, 1,1,1-trichloro-
+
+3-Methylcholanthrene Benz[j]acean-thrylene, 1,2-dihydro-3-methyl-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+4,4'-Methylenebis(2-chloroaniline) Benzenamine,
+4,4'-methylenebis[2-chloro-
+
+Methylene bromide Methane, dibromo-
+
+Methylene chloride Methane, dichloro-
+
+Methyl ethyl ketone (MEK) 2-Butanone
+
+Methyl ethyl ketone peroxide 2-Butanone, peroxide
+
+Methyl hydrazine Hydrazine, methyl-
+
+Methyl iodide Methane, iodo-
+
+Methyl isocyanate Methane, isocyanato
+
+2-Methyllactonitrile Propanenitrile, 2-hydroxy-2-methyl-
+
+Methyl methacrylate 2-Propenoic acid, 2-methyl-,methyl ester
+
+Methyl methanesulfonate Methanesulfonic acid, methyl ester
+
+Methyl parathion Phosphorothioic acid, O-O-dimethyl
+
+O-(4-nitrophenyl)ester
+
+Methylthiouracil 4(1H)-Pyrimidinone,2,3-dihydro-6-methyl-2-thioxo-
+
+Mevinphos 2-Butenoic acid, 3-((dimethoxyphos-phinyl)oxy)-, methyl ester
+(Crotonic acid, 3-hydroxy-, methyl ester, dimethyl phosphate, (E)-)
+
+Mexacarbate Carbamic acid, methyl,4-dimethylamino-3,5-xylyl ester**
+
+Mirex 1,3-Metheno-1H-cyclobuta-[cd]pentalene,
+1,1a,2,2,3,3a,4,5,5,5a,5b,6-dodecachlorooctahydro**
+
+Mitomycin C Azirino[2',3':3,4]pyrrolo[1,2-a]indole-4,7-dione,
+6-amino-8[[amino-carbonyl)oxy]methyl]-1,1a,2,8,8a,8b-hexahydro-8a-met
+hoxy-5-methyl-,[1aS-(1aalpha,8beta,8aalpha,8balpha)]-
+
+MNNG Guanidine, N-methyl-N'-nitro-N-nitroso-
+
+Monocrotophos Phosphoric acid, dimethyl ester, ester with
+(E)-3-hydroxy-N-methylcrotonamide
+
+Mustard Gas Ethane, 1,1'-thiobis[2-chloro-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Naled Phosphoric acid, 1,2-dibromo-2,2-dichloroethyl-dimethyl ester**
+
+Naphthalene Same
+
+1,5-Naphthalenediamine**
+
+1,4-Naphthoquinone 1,4-Naphthalene-dione
+
+alpha-Naphthylamine 1-Naphthalenamine
+
+beta-Naphthylamine 2-Naphthalenamine
+
+alpha-Naphthylthiourea Thiourea, 1-naphthalenyl-
+
+Nickel Same
+
+Nickel compounds, N.O.S.1
+
+Nickel carbonyl Nickel carbonyl Ni(CO)4 (T-4)-
+
+Nickel cyanide Nickel cyanide (Ni(CN)2
+
+Nicotine Pyridine, 3-(1-methyl-2-pyrrolidinyl)-, (S)-
+
+Nicotine salts
+
+Nithiazide Urea, 1-ethyl-3(5-nitro-2-thiazolyl)**
+
+Nitric oxide Nitrogen oxide NO
+
+Nitridazole 2-Imidazolidinone, 1-(5-nitro-2-thiazolyl-**
+
+p-Nitroaniline Benzenamine, 4-nitro-
+
+Nitrobenzene Benzene, nitro-
+
+Nitrogen dioxide Nitrogen oxide NO2
+
+Nitrogen mustard Ethanamine, 2-chloro-N-(2-chloroethyl)-N-methyl-
+
+Nitrogen mustard, hydrochloride salt
+
+Nitrogen mustard N-oxide Ethanamine,
+2-chloro-N-(2-chloro-ethyl)-N-methyl- ,N-oxide
+
+Nitrogen mustard, N-oxide, hydrochloride salt
+
+Nitroglycerin 1,2,3-Propanetriol, trinitrate
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+p-Nitrophenol Phenol, 4-nitro-
+
+2-Nitropropane Propane, 2-nitro-
+
+Nitrosamines, N.O.S.1
+
+N-Nitrosodi-n-butylamine 1-Butanamine, N-butyl-N-nitroso-
+
+N-Nitrosodiethanolamine Ethanol,2,2'-(Nitrosoimino)bis-
+
+N-Nitrosodiethylamine Ethanamine, N-ethyl-N-Nitroso-
+
+N-Nitrosodimethylamine Methanamine, N-methyl-N-nitroso-
+
+p-Nitrosodiphenylamine Diphenyl-amine, 4-nitroso-**
+
+N-Nitroso-N-ethylurea Urea, N-ethyl-N-nitroso-
+
+N-Nitrosomethylethylamine Ethanamine, N-methyl-N-nitroso-
+
+N-Nitroso-N-methylurea Urea, N-methyl-N-nitroso-
+
+N-Nitroso-N-methylurethane Carbamic acid, methylnitroso-,ethyl ester
+
+N-Nitrosomethylvinylamine Vinylamine, N-methyl-N-nitroso-
+
+N-Nitrosomorpholine Morpholine, 4-nitroso-
+
+N-Nitrosonornicotine Pyridine, 3-(1-nitroso-2-py-rrolidinyl)-, (S)-
+
+N-Nitrosopiperidine Piperidine, 1-nitroso-
+
+N-Nitrosopyrrolidine Pyrrolidine, 1-nitroso-
+
+N-Nitrososarcosine Glycine, N-methyl-N-nitroso-
+
+5-Nitro-o-toluidine Benzenamine, 2-methyl-5-nitro-
+
+Octamethylpyrophosphoramide Diphosphoramide, octamethyl-
+
+Osmium tetroxide Osmium oxide OsO4 (T-4)-
+
+2-Oxetanone**
+
+Oxydemeton-Methyl Phosphorothioic acid, S-(2-(ethyl-sulfinyl)ethyl)
+O,O-dimethyl ester**
+
+4,4'-Oxydianiline
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Paraldehyde 1,3,5,-Trioxane, 2,4,6-tri-methyl-
+
+Paraquat 4,4'-Bipyridinium, 1,1'-dimethyl-,dichloride**
+
+Parathion Phosphorothioic acid, O,O-diethyl O-(4-nitrophenyl)ester
+
+Pentachlorobenzene Benzene, pentachloro-
+
+Pentachlorodibenzo-p-dioxins
+
+Pentachlorodibenzofurans
+
+Pentachloroethane Ethane, pentachloro-
+
+Pentachloronitrobenzene (PCNB) Benzene, pentachloronitro-
+
+Pentachlorophenol Phenol, pentachloro-
+
+Peroxyacetic acid**
+
+Phenacetin Acetamide, N-(4-ethoxyphenyl)-
+
+Phenestrine Acetic acid,(4-(bis(2-chloroethyl)amino)
+
+phenyl),cholesteryl ester**
+
+Phenol Same
+
+m-Phenylenediamine, 4-chloro-**
+
+o-Phenylenediamine, 4-chloro-**
+
+Phenylenediamine Benzenediamine
+
+Phenylmercury acetate Mercury, (acetato-O)phenyl-
+
+Phenylthiourea Thiourea, phenyl-
+
+Phorate Phosphorodithioic acid,O,O-diethylS-[(ethylthio)methyl] ester
+
+Phosacetim Phosphoramidothioic acid, acetimidoyl-0,0-bis(p-chlorophenyl
+ester*
+
+Phosgene Carbonic dichloride
+
+Phosmet Phosphorodithioic acid, O,O-dimethyl ester, S-ester with
+N-(mercaptomethyl)phthalimide**
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Phosphamidon Phosphoric acid, dimethyl ester, ester with
+2-chloro-N,N-diethyl-3-hydroxy-crotonamide**
+
+Phosphine Same
+
+Phthalic acid esters, N.O.S.1
+
+Phthalic anhydride 1,3-Isobenzofurandione
+
+2-Picoline Pyridine, 2-methyl-
+
+Piperonyl sulfoxide Benzene, 1,2-(methylenedioxy)- 4-(2-octylsulfinyl)
+propyl**
+
+Polybrominated biphenyls**
+
+Polychlorinated biphenyls, N.O.S.1
+
+Potassium cyanide Potassium cyanide K(CN)
+
+Potassium pentachlorophenate Pentachlorophenol, potassium salt
+
+Potassium silver cyanide Argentate(1-),bis(cyano-C)-, potassium
+
+Pronamide Benzamide, 3,5-dichloro-N-(1,1-dimethyl-2- propynyl)-
+
+1,3-Propane sulfone 1,2-Oxathiolane, 2,2-dioxide
+
+Propargyl alcohol 2-Propyn-1-ol
+
+Propene, 3-chloro-**
+
+Propionitrile, 2-hydroxy-**
+
+n-Propylamine 1-Propanamine
+
+Propylthiouracil Uracil, 6-propyl-2-thio**
+
+Propylene dichloride Propane, 1,2-dichloro-
+
+1,2-Propylenimine Azinidine, 2-methyl-
+
+Propylthiouracil 4(1H)-Pyrimidinone,
+
+2,3-dihydro-6-propyl-2-thioxo-
+
+Pyridine Same
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Pyridine, 3-chloromethyl-, hydrochloride**
+Pyridine,2,6-diamino-3-(phenylazo)-, monohydrochloride**
+
+Monocrotaline (2,3,4-gh)Pyrrolizine-2,6(3H)-dione,
+(4,5,8,10,12,13,13a,13b-octahydro-4,5-dihy-droxy-3,4,5-trimethyl-2H-(1,6)di
+oxacycloundecino-**
+
+Reserpine Yohimban-16-carboxylic acid,
+11,17-dimethoxy-18-[(3,4,5-trimethoxybenzoyl)oxy]-methylester,
+(3beta,16beta,17alpha,18beta,20alpha)-
+
+Resorcinol 1,3-Benzenediol
+
+Rotenone (1)Benzopyrano (3,4-b)furo(2,3-h)(1)benzopyran-6(6aH)-one,
+1,2,12,12a-tetrahydro-2-alpha-isopropenyl-8,9-dimethoxy-**
+
+Saccharin 1,2-Benzisothiazol-3(2H)-one, 1,1-dioxide
+
+Saccharin salts
+
+Safrole 1,3-Benzodioxole, 5-(2-propenyl)-
+
+Selenium Same
+
+Selenium compounds, N.O.S.1
+
+Selenium dioxide Selenious acid
+
+Selenium sulfide Selenium sulfide SeS2
+
+Selenourea Same
+
+Semicarbazide**
+
+Silver Same
+
+Silver compounds, N.O.S.1
+
+Silver cyanide Silver cyanide Ag(CN)
+
+Silvex (2,4,5-TP) Propanoic acid, 2-(2,4,5-tri-chlorolorophenoxy)-
+
+Sodium cyanide Sodium cyanide Na(CN)
+
+Sodium pentachlorophenate Pentachlorophenol, Sodium salt
+
+Streptozotocin D-Glucose,
+2-deoxy-2-[[(methyl-nitrosoamino)carbonyl]amino]-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Strychnine Strychnidin-10-one
+
+Strychnine salts
+
+Styrene**
+
+Sulfallate Carbamic acid, diethyldithio-, 2-chloroallyl ester**
+
+TCDD Dibenzo[b,e]-[1,4]dioxin, 2,3,7,8-tetrachloro-
+
+Terbufos Phosphorodithioic acid, O-O-diethyl-S-
+(((1,1-dimethylethyl)thio)methyl)-ester**
+
+3,3',4,4'-Tetrachloroazobenzene* bis(3,4-dichloro-phenyl)diazene
+
+3,3',4,4'-Tetrachloroazoxybenzene* bis (3,4,-dichlorophenyl)diazene-l-oxide
+
+1,2,4,5-Tetrachlorobenzene Benzene, 1,2,4,5-tetrachloro
+
+Tetrachlorodibenzo-p-dioxins
+
+Tetrachlorodibenzofurans
+
+Tetrachloroethane, N.O.S.1 Ethane, tetrachloro-N.O.S.1
+
+1,1,1,2-Tetrachloroethane Ethane, 1,1,1,2-tetrachloro
+
+1,1,2,2-Tetrachloroethane Ethane, 1,1,2,2-tetrachloro
+
+Tetrachloroethylene Ethene, tetrachloro-
+
+2,3,4,6-Tetrachlorophenol Phenol, 2,3,4,6-tetrachloro
+
+2,3,4,6-Tetrachlorophenol, potassium salt 2,3,4,6-Tetrachlorophenol,
+potassium salt
+
+2,3,4,6-Tetrachlorophenol, sodium salt 2,3,4,6-Tetrachlorophenol, sodium
+salt
+
+Tetrachlorvinphos Phosphoric acid, 2-chloro-1-
+
+(2,4,5-trichlorophenyl)vinyl dimethyl ester**
+
+Tetraethyldithiopyrophosphate Thiodiphosphoric acid, tetraethyl ester
+
+Tetraethyl lead Plumbane, tetraethyl-
+
+Tetraethyl pyrophosphate Diphosphoric acid, tetraethyl ester
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Tetranitromethane Methane, tetranitro-
+
+Thallium Same
+
+Thallium compounds, N.O.S.1
+
+Thallium (III) oxide Thallium (III) oxide Tl2O3
+
+Thallium(I) acetate Acetic acid, thallium(1+)salt
+
+Thallium(I) carbonate Carbonic acid, dithallium(1+)salt
+
+Thallium(I) chloride Thallium chloride TlCl
+
+Thallium(I) nitrate Nitric acid, thallium(1+)salt
+
+Thallium selenite Selenious acid, dithallium(1+)salt
+
+Thallium(I)sulfate Sulfuric acid, dithallium(1+)salt
+
+Thioacetamide Ethanethioamide
+
+Thiofanox 2-Butanone,
+3,3-dimethyl-1-(methyl-thio)-,0-[(methylamino)carbonyl] oxime
+
+Thiomethanol Methanethiol
+
+Thiophenol Benzenethiol
+
+Thiosemicarbazide Hydrazine-carbothioamide
+
+Thiourea Same
+
+Thiram Thioperoxy-dicarbonic diamide [(H2N)C(S)]2S2, tetramethyl-
+
+Toluene Benzene, methyl
+
+Toluene, 2,4-diamino** 1,3-Benzenediamine, 4-methyl-
+
+Toluenediamine Benzenediamine, ar-methyl-
+
+Toluene-2,4-diamine 1,3-Benzenediamine, 4-methyl
+
+Toluene-2,6-diamine 1,3-Benzenediamine, 2-methyl-
+
+Toluene-3,4-diamine 1,2-Benzenediamine, 4-methyl-
+
+Toluene diisocyanate Benzene, 1,3-diisocyanatomethyl-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+o-Toluidine Benzeneamine, 2-methyl-
+
+o-Toluidine, 5-chloro**
+
+o-Toluidine hydrochloride Benzenamine, 2-methyl-,hydrochloride
+
+p-Toluidine Benzenamine, 4-methyl-
+
+Toxaphene Same
+
+Trichlorfon Phosphonic acid, (2,2,2-trichloro-1-hydroxyethyl)-,dimethyl
+ester**
+
+Triazene, 3,3'dimethyl-1-(p-chlorophenyl)-**
+
+1,2,4-Trichlorobenzene Benzene, 1,2,4-trichloro-
+
+1,1,2-Trichloroethane Ethane, 1,1,2-trichloro-
+
+Trichloroethylene Ethene, trichloro-
+
+Trichloromethanethiol Methanethiol, trichloro-
+
+Trichloromonofluoromethane Methane, trichlorofluoro-
+
+2,4,5-Trichlorophenol Phenol, 2,4,5-trichloro-
+
+2,4,6-Trichlorophenol Phenol, 2,4,6-trichloro-
+
+2,4,5-T Acetic acid, (2,4,5-trichloro- phenoxy)
+
+Trichloropropane, N.O.S.
+
+1,2,3-Trichloropropane Propane, 1,2,3-trichloro-
+
+Tricresyl phosphate Phosphoric acid, tri-o-tolyl ester**
+
+O,O,O-Triethyl phosphorothioate Phosphorothioic acid, O,O,O-triethyl ester
+
+Trifluralin p-Toluidine, alpha,alpha,alpha-
+trifluor-2,6-dinitro-N,N-dipropyl**
+
+Trimethyl phosphate Phosphoric acid, trimethyl ester**
+
+1,3,5-Trinitrobenzene Benzene, 1,3,5-trinitro-
+
+Tris(1-aziridinyl)phosphine sulfide Aziridine,
+1,1',1"-phosphinothioy-lidynetris-
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+Tris(2,3-dibromopropyl) phosphate 1-Propanol, 2,3-dibromo-,
+phosphate(3:1)
+
+Trypan blue 2,7-Naphthal-enedisulfonic acid,
+3,3'-[(3,3'-dimethyl[1,1'-biphenyl]-4,4'-diyl)bis(azo)]-bis[5-amino-4-hydrox
+y-, tetrasodium salt
+
+Uracil mustard 2,4-(1H,3H)-Pyrimidinedione, 5-[bis-(2-chloroethyl)amino]-
+
+Vanadium pentoxide Vanadium oxide, V2O5
+
+Vinyl chloride Ethene, chloro-
+
+Warfarin 2H-1-Benzopyran-2-one, 4-hydroxy-3- (3-oxo-1-phenylbutyl)-,
+when present at concentrations less than 0.3%
+
+Warfarin 2H-1-Benzopyran- 2-one, 4-hydroxy-3- (3-oxo-1-phenylbutyl)-,
+when present at concentrations greater than 0.3%
+
+Warfarin salts, when present at
+
+concentrations less than 0.3%
+
+Warfarin salts, when present at
+
+concentrations greater than 0.3%
+
+Zinc cyanide Zinc cyanide Zn(CN)2
+
+Zinc phosphide Zinc phosphide Zn3P2, when present at concentrations
+greater than 10%.
+
+Zinc phosphide Zinc phosphide Zn3P2, when present at concentrations of
+10% or less.
+
+Ziram Zinc, bis(dimethyldithiocarbamato)-**
+
+1The abbreviation N.O.S. (not otherwise specified) signifies those members
+of the general class not specifically listed by name in this appendix.
+
+*50 FR 18626, May 1, 1985, Proposed Rule
+
+**49 FR 49793, December 21, 1984, Proposed Rule
+
+APPENDIX IX: Reserved
+
+APPENDIX X: Reserved
+ 06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+             (Code of Maine Rules (2021 Edition))
+
+
+APPENDIX XI: PAINT FILTER TEST
+
+"Test Methods for Evaluating Solid Waste, Physical/Chemical Methods,"
+EPA Publication SW-846 [Third Edition]. See Appendix III for instructions
+on how to obtain copies of this publication.
+
+STATUTORY AUTHORITY: 38 M.R.S. §1301, et seq.
+
+EFFECTIVE DATE: July 1, 1980
+
+Amended: March 23, 1983
+
+Amended: June 20, 1983
+
+Amended: February 10, 1985
+
+Amended: November 30, 1986
+
+Amended: March 16, 1994
+
+EFFECTIVE DATE
+
+(ELECTRONIC CONVERSION): May 4, 1996
+
+Amended: January 23, 2001
+
+MINOR CORRECTIONS: March 5, 2001
+
+Amended: November 3, 2002
+
+Amended: July 20, 2004 - filing 2004-272
+
+Amended: February 8, 2012 - filing 2012-12
+
+Amended: March 11, 2015 - filing 2015-030
+
+Amended: June 11, 2018 - filing 2018-098
+
+
+
+[1]ASTM Standards are available from ASTM, 1916 Race Street,
+Philadelphia, PA 19103.
+
+[2]This document is available from the U.S. Government Printing Office as
+specified in Appendix III.
+
+[3]The NACE Standard is available from the National Association of
+Corrosion Engineers, P.O. Box 986, Katy, Texas 77450.
+     06 096 Me. Code R. Ch. 850 Identification of Hazardous Wastes
+                 (Code of Maine Rules (2021 Edition))
+
+
+8Hazard Codes:
+
+Ignitable Waste........................... (I)
+
+Corrosive Waste......................... (C)
+
+Reactive Waste........................... (R)
+
+Toxicity Characteristic Waste. (E)
+
+Acute Hazardous Waste........... (H)
+
+Toxic Waste................................ (T)
+
+9(I,T) should be used to specify mixtures containing ignitable and toxic
+constituents.
+
+1050 FR 18626, May 1, 1985, Proposed Rule
+
+11   55 FR 18507, May 2, 1990, Proposed Rule
+

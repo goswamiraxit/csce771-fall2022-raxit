@@ -1,0 +1,40 @@
+                Water Body       Water                      Impaired
+     Basin                                   County                            Pollutant                         Location
+                  Name          Body Id                       Use
+
+Pascagoula                                                 Aquatic Life    Biological      From confluence with Terrapin Creek to confluence
+River         Tallahoma Creek   412811    Jones            Use Support     Impairment      with Horse Creek
+
+Pascagoula                                                 Aquatic Life    Biological      Near Laurel from confluence with Piney Branch to
+River         Tallahoma Creek   412511    Jasper           Use Support     Impairment      MWS 4127 boundary
+
+Pascagoula                                                 Aquatic Life    Biological      From MWS 4125 boundary to confluence with
+River         Tallahoma Creek   412711    Jasper, Jones    Use Support     Impairment      Terrapin Creek
+
+Pascagoula                                                 Aquatic Life    Biological      From confluence with East Tiger Creek to mouth at
+River         Tiger Creek       414512    Jones            Use Support     Impairment      Bogue Homo
+
+Pascagoula                                                 Aquatic Life    Biological      From confluence of North and South Twistwood
+River         Twistwood Creek   423811    Jasper, Clarke   Use Support     Impairment      Creek to mouth at Souinlovie Creek
+              Unnamed
+Pascagoula    Tributary to                                 Aquatic Life    Biological
+River         Oakohay Creek     409014    Smith            Use Support     Impairment      From headwaters to mouth at Oakohay Creek
+
+Pascagoula    West Bouie                  Jefferson        Aquatic Life    Biological      Near Bassfield from headwaters to confluence with
+River         Creek             411212    Davis            Use Support     Impairment      Bouie River
+
+                                                           Aquatic Life    Biological      Near Pelahatchie from headwaters to mouth at
+Pearl River   Ashlog Creek      508313    Rankin           Use Support     Impairment      Pelahatchie Creek
+
+                                                           Aquatic Life    Biological      From confluence with Russell Creek to confluence
+Pearl River   Bahala Creek      513911    Copiah           Use Support     Impairment      with Little Bahala Creek
+
+                                                           Aquatic Life    Biological      Near Johnstons Station from outfall of Dixie Springs
+Pearl River   Beaver Creek      521413    Pike             Use Support     Impairment      Lake to mouth at Bogue Chitto River
+
+                                                           Aquatic Life    Biological      Near Harrisville from MWS 5131 boundary at Heed
+Pearl River   Big Creek         513211    Simpson          Use Support     Impairment      Neely Road bridge to mouth at strong River
+
+
+                                                                          32
+

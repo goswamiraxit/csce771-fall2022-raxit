@@ -1,0 +1,60 @@
+E. TMDL Successes (Category 4a to Category 2)
+
+The objective of any TMDL is to determine the loading capacity of the waterbody and to allocate
+that load among different pollutant sources so that the appropriate control actions can be taken
+and water quality standards achieved. The TMDL process is important for improving water
+quality because it serves as a link in the chain between water quality standards and
+implementation of control actions designed to attain those standards. The waters listed in Table 8
+have been the subject of one or more TMDLs and through corrective action to reduce the
+pollutant load are now successfully supporting the designated use. Maps of the TMDL
+Successes can be found in Appendix B.
+
+
+Table 8. TMDL Successes
+            Water Body     Water                    Impair
+ Basin                                County                    Pollutant            Location           Listing Change
+              Name        Body Id                   ed Use
+                                                    Aquatic                   Near Stewart from
+Big Black   Big Bywy                                Life Use   Total          headwaters to mouth at    TMDL Complete
+River       Creek         100811    Choctaw         Support    Nitrogen       McCurtain Creek           04/30/2007
+
+                                                    Aquatic                   Near Stewart from
+Big Black   Big Bywy                                Life Use   Total          headwaters to mouth at    TMDL Complete
+River       Creek         100811    Choctaw         Support    Phosphorus     McCurtain Creek           04/30/2007
+
+                                                    Aquatic                   Near Stewart from
+Big Black   Big Bywy                                Life Use   OE/ Low        headwaters to mouth at    TMDL Complete
+River       Creek         100811    Choctaw         Support    DO             McCurtain Creek           04/30/2007
+
+                                                    Aquatic                   Near Stewart from
+Big Black   Big Bywy                                Life Use                  headwaters to mouth at    TMDL Complete
+River       Creek         100811    Choctaw         Support    Sediment       McCurtain Creek           01/26/2007
+North
+Independe                                           Aquatic                   At Hernando from
+nt          Horn Lake                               Life Use   Nutrient       headwaters to Tennessee   TMDL Complete
+Streams     Creek         303411    De Soto         Support    Pollution      Line                      04/01/2006
+                                                               Organic
+North                                                          Enrichment /
+Independe                                           Aquatic    Low            At Hernando from
+nt          Horn Lake                               Life Use   Dissolved      headwaters to Tennessee   TMDL Complete
+Streams     Creek         303411    De Soto         Support    Oxygen         Line                      04/01/2006
+North
+Independe                                           Aquatic                   At Hernando from
+nt          Horn Lake                               Life Use                  headwaters to Tennessee   TMDL Complete
+Streams     Creek         303411    De Soto         Support    Sediment       Line                      11/30/2005
+North
+Independe                                           Aquatic                   Near Walls from
+nt          Horn Lake                               Life Use   Total          headwaters to MS/TN       TMDL Complete
+Streams     Creek         303411    De Soto         Support    Phosphorus     stateline                 04/01/2006
+                                                                              Near Maxie from
+                                                                              confluence with Bowens
+                                                                              Buy Creek at MWS
+Pascagoul   Beaver Dam                              Recreati                  boundary 4194 to MWS      TMDL Complete
+a River     Creek         419511    Forest, Perry   on         Pathogens      boundary 4196             12/15/1999
+                                                                              At Shubuta from MWS
+                                                                              boundary 4056 at County
+Pascagoul   Chickasaway             Clarke,         Recreati                  Road 275 to confluence    TMDL Complete
+a River     River         405911    Wayne           on         Pathogens      with Eucutta Creek        12/15/1999
+
+                                                       18
+

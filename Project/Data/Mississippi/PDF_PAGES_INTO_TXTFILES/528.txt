@@ -1,0 +1,172 @@
+RULE 9.9 IMPAIRED WATERS LISTING
+Table 10 Impaired Waters
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Holmes
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Franklin from headwaters to confluence with
+Unnamed Intermittent Tributary downstream of
+Highway 17 bridge
+
+103913
+
+Attala
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Seneasha Creek
+
+Fleetwood Creek
+
+109113
+
+Hinds
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Bakers Creek
+
+Big Black River
+
+Hamer Bayou
+
+109312
+
+Warren
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Big Black River
+
+Big Black River
+
+Hobuck Creek
+
+105511
+
+Madison
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Doaks Creek
+
+Big Black River
+
+Jims Bayou
+
+109311
+
+Warren
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Reganton from headwaters to mouth at Big
+Black River
+
+Big Black River
+
+Kyle Creek
+
+102811
+
+Holmes
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Big Black River
+
+Big Black River
+
+Little Bear Creek
+
+105712
+
+Madison
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Madison from headwaters to mouth at Bear
+Creek
+
+Big Black River
+
+Little Black
+Creek
+
+100511
+
+Webster
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Big Black River
+
+Big Black River
+
+Big Cypress
+Creek
+
+104812
+
+Big Black River
+
+Crooked Creek
+
+Big Black River
+
+23
+
+

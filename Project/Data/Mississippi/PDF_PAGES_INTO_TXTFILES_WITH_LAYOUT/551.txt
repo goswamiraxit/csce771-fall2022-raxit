@@ -1,0 +1,40 @@
+                Water Body        Water                 Impaired
+    Basin                                     County                       Pollutant                        Location
+                  Name           Body Id                  Use
+
+              Little Horse Pen             Calhoun,    Aquatic Life    Biological
+Yazoo River   Creek              914313    Grenada     Use Support     Impairment      From headwaters to mouth at Horsepen Creek
+              Little
+              Tallahatchie                             Aquatic Life    Biological      From confluence with Mud Creek to MWS 9019
+Yazoo River   River              901711    Union       Use Support     Impairment      boundary
+              Little
+              Tallahatchie                 Union,      Aquatic Life    Biological      From MWS 9017 boundary to confluence with Fice
+Yazoo River   River              901911    Lafayette   Use Support     Impairment      Creek
+
+              Little Topasaw               Webster,    Aquatic Life    Biological
+Yazoo River   Creek              913712    Chickasaw   Use Support     Impairment      Near Woodland from headwaters to Topasaw Creek
+
+                                                       Aquatic Life    Biological      Near Enterprise from headwaters to Little
+Yazoo River   Lockes Creek       901811    Union       Use Support     Impairment      Tallahatchie River
+
+                                                       Aquatic Life    Biological      Near Pontotoc from headwaters to confluence with
+Yazoo River   Lyon Creek         901111    Pontotoc    Use Support     Impairment      Lappatubby Creek
+
+                                                       Aquatic Life    Biological
+Yazoo River   Medlock Branch     902514    Tippah      Use Support     Impairment      From headwaters to mouth at North Tippah Creek
+
+                                                       Aquatic Life    Biological      Near Vardaman from headwaters to mouth at
+Yazoo River   Meridian Creek     913312    Calhoun     Use Support     Impairment      Yalobusha River
+
+                                                       Aquatic Life    Biological
+Yazoo River   Moore Bayou        931912    Coahoma     Use Support     Impairment      From headwaters to confluence with Cassidy Bayou
+
+              North Tippah                             Aquatic Life                    Near Ripley from headwaters confluence with
+Yazoo River   Creek              902515    Tippah      Use Support     Sediment        Medlock Branch
+
+              North Tippah                             Aquatic Life                    Near Ripley from confluence with Medlock Branch
+Yazoo River   Creek              902512    Tippah      Use Support     Sediment        to mouth at Tippah River
+
+
+                                                                      46
+

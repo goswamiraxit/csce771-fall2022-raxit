@@ -1,0 +1,59 @@
+   V.                         FY- 2020 Water Pollution Control (Clean Water) Revolving Loan Fund Project Detail Information
+
+   Projects/   Project     Communities            Project Schedule*                            Project Assistance                                       Technical Information
+    Permit      No.          Served
+   Number
+                                                                                                                                Initial
+                                                                               Type         Loam          Interest   Repay      Repay.      Type        Needs      Priority     Discharge
+                                            BCD         CSD           CCD    Assistance    Amount1          Rate     Period      Date     Project**   Category +   Ranking        Req.
+DCRUA/
+               2020-1    DeSoto County     09/30/20   09/30/21   09/30/22   Regular Loan   $5.5 M          0.8%      20 Yrs    03/30/23     212           I            1          N/A
+MS0028479
+WJCUD/         2020-2    Jackson County    09/30/20   12/31/20   06/30/22   Regular Loan    $2.5M          0.8%      20 Yrs.   10/31/22     212          IIIB          2          N/A
+Town of
+Pelahatchie/   2020-3    Rankin County     09/30/20   03/10/21    1/04/22   Regular Loan   $3.0 M          0.8%      20 Yrs    05/04/22     212           I            3          N/A
+MS0021008
+DCRUA/
+               2020-4    DeSoto County     09/30/20   09/30/21   09/30/22   Regular Loan   $12.8 M         0.8%      20 Yrs    03/30/23     212          IVB           6          N/A
+MS0053155
+WJCUD/         2020-5    Jackson County    09/30/20   10/31/20    4/30/22   Regular Loan    $7.8M          0.8%      20 Yrs.   10/31/22     212          IVA           7          N/A
+HCUA/
+               2020-6    Harrison County   09/30/20    1/23/22    1/23/23   Regular Loan    $4.0M          0.8%      20 Yrs.    8/15/23     212          IIIB          8          N/A
+MS0043141
+HCUA/
+               2020-7    Harrison County   09/30/20    1/23/22    1/23/23   Regular Loan    $4.0M          0.8%      20 Yrs.    8/15/23     212          IIIB          9          N/A
+MS0022373
+City of
+Cleveland/     2020-8    Cleveland         09/30/20   10/25/21   10/25/22   Regular Loan   $10.7 M         0.8%      20 Yrs    05/19/23     212          IIIA         11          N/A
+MS0020567
+City of
+               2020-9    Greenville        09/30/20   03/31/21   03/31/22   Regular Loan   $14.6 M         0.8%      20 Yrs    07/31/22     212          IIIB         12          N/A
+Greenville/
+DCRUA/
+               2020-10   DeSoto County     09/30/20   09/30/21   09/30/22   Regular Loan   $5.3 M          0.8%      20 Yrs    03/30/23     212          IVB          13          N/A
+MS0061271
+DCRUA/
+               2020-11   DeSoto County     09/30/20   09/30/21   09/30/22   Regular Loan   $5.7 M          0.8%      20 Yrs    03/30/23     212          IVB          14          N/A
+MS0061271
+DCRUA/
+               2020-12   DeSoto County     09/30/20   09/30/21   09/30/23   Regular Loan   $10.0 M         0.8%      20 Yrs.   03/30/24     212           I           15          N/A
+MS0061271
+Town of
+Tutwiler/      2020-13   Tutwiler          09/30/20   4/30/21    4/30/22    Regular Loan    $6.7M          0.8%      20 Yrs.   10/31/22     212           I           16          N/A
+MS0025054
+
+                                                                                           $92.6 M
+
+
+   Notes: - All of the loan projects will require an environmental review in accordance with the State SRF regulations and the supplemental “Guidance
+          For Water Pollution Control Revolving Loan Fund Projects Funded Beginning Federal FY 2016 (October 1, 2015 and After).”
+          + = Needs categories are defined in Federal regulations 40 CFR 35.2015.
+          *BCD = Binding Commitment Date
+          *CSD = Construction Start Date
+          *CCD = Construction Completion Date
+          **212 = Treatment works are defined in Section 212 of the Federal Clean Water Act.
+          **319 = Best Management Practices are defined in Section 319 of the Federal Clean Water Act.
+   1
+          Loan amounts have been rounded up to the next $100,000.
+                                                                             485
+

@@ -1,0 +1,209 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Pearl River
+
+Bogue Chitto
+River
+
+521111
+
+Lincoln
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Boone Creek to confluence
+with Myers Creek
+
+Pearl River
+
+Bogue Chitto
+River
+
+521311
+
+Lincoln
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Myers Creek to Johnson’s
+Station
+
+Pearl River
+
+Boone Creek
+
+521113
+
+Lincoln
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Brookhaven from headwaters to mouth at
+Bogue Chitto
+
+Pearl River
+
+Caney Creek
+
+511411
+
+Scott, Smith
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Pulaski from headwaters at W Moore Tower
+Road to mouth at Strong River
+
+Pearl River
+
+Clear Creek
+
+508611
+
+Rankin
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Pelahatchie from headwaters to mouth at
+Pelahatchie Creek
+
+Pearl River
+
+Cobbs Creek
+
+504111
+
+Leake
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Carthage from headwaters to mouth at Lobutcha
+Creek
+
+Pearl River
+
+Cole Creek
+
+506111
+
+Attala
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near French Camp from headwaters to MWS 5059
+boundary
+
+Pearl River
+
+Coon Creek
+
+503713
+
+Leake
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Renfroe from headwaters to mouth at Lobutcha
+Creek
+
+Pearl River
+
+Holiday Creek
+
+516311
+
+Jefferson
+Davis, Marion
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Unnamed Tributary at MWS
+5162 boundary to mouth at Pearl River
+
+Pearl River
+
+Hollybush Creek
+
+508612
+
+Rankin
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Pelahatchie from headwaters to mouth at Clear
+Creek
+
+Pearl River
+
+Hontokalo Creek
+
+504711
+
+Scott
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Steel from headwaters to mouth at Little Canal
+
+33
+
+

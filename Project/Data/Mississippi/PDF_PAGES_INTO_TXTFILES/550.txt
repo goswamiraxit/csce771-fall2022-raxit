@@ -1,0 +1,210 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Yazoo River
+
+Fannegusha
+Creek
+
+920911
+
+Holmes
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Ituma from Carroll/ Holmes County line To
+MWS 9211 boundary
+
+Yazoo River
+
+Fourmile Branch
+
+907211
+
+Lafayette
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Oxford from headwaters to mouth at Yellow
+Leaf Creek
+
+Yazoo River
+
+Hubbard Creek
+
+933711
+
+Tallahatchie
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Tandy from headwaters to Southlake Bayou
+
+Yazoo River
+
+James Wolf
+Creek
+
+910512
+
+Tate
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From MWS 9106 boundary at Hwy 4 to mouth at
+Hickahala Creek
+
+Yazoo River
+
+James Wolf
+Creek
+
+910611
+
+Tate
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to MWS 9105 boundary at Hwy 4
+
+Yazoo River
+
+Lake Beulah
+
+990411
+
+Bolivar
+
+Aquatic Life
+Use Support
+
+Yazoo River
+
+Lake Henry
+
+938312
+
+Leflore
+
+Aquatic Life
+Use Support
+
+Organic
+Enrichment/
+Low DO
+Chlorides,
+Organic
+Enrichment/
+Low DO
+
+Yazoo River
+
+Little Bogue
+
+916911
+
+Montgomery,
+Webster
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Duckworth from headwaters to confluence with
+Caffee Branch
+
+Yazoo River
+
+Little Bogue
+
+917011
+
+Montgomery
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Caggee Branch to confluence
+with Powell Creek
+
+Yazoo River
+
+Little Bogue
+
+917111
+
+Montgomery,
+Grenada
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Powell Creek to Batapan
+Bogue
+
+Yazoo River
+
+Little Coldwater
+Creek
+
+909112
+
+Marshall
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Coldwater River
+
+45
+
+Entire lake near Beulah
+
+Just South of Belzoni off Hwy 49W
+
+

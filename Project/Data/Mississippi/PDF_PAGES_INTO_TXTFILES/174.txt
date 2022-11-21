@@ -1,0 +1,128 @@
+Fresh Water
+CAS j
+
+58899
+7439921
+7439976
+7439976
+7440020
+108952
+87865
+7782492
+7440224
+8001352
+7440666
+
+Parameter
+gamma-BHC (Lindane)
+Lead, Total Dissolved
+Mercury (II), Total Dissolved
+Mercury
+Nickel, Total Dissolved
+Phenol
+Pentachlorophenol
+Total PCB
+Selenium, Total Dissolved
+Silver, Total Dissolved
+Toxaphene
+Zinc, Total Dissolved
+
+Salt Water
+
+Acute
+
+Chronic
+
+Acute
+
+0.95
+30 b,e
+2.1e
+
+0.08
+1.18 b,e
+0.012
+
+0.16
+210
+1.8
+
+b,e
+
+260
+300
+8.7 c
+0.02k
+11.8 a,e
+0.98 b,f
+0.73
+65 b,e
+
+b,e
+
+29
+102
+6.7 c
+0.014k
+4.6 e
+0.0002
+65 b,e
+
+174
+
+75
+300
+13 c
+1.0k
+290 e
+1.9
+0.21
+90
+
+Chronic
+
+Human Health
+Organisms
+Only
+
+Water &
+Organisms
+
+1.8
+
+0.98
+15
+
+8.3
+58
+7.9 c
+0.03k
+71 e
+
+0.153
+4600
+860000
+3.0
+0.000064k
+4200
+
+0.0002
+81
+
+0.00028
+26,000
+
+0.151
+610
+10000
+0.27
+0.000064k
+170
+100
+0.00028
+7,400
+
+8.1
+0.025
+
+

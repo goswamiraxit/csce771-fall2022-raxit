@@ -1,0 +1,49 @@
+EXHIBIT A to Chapter 1, Subchapters 1 and 2 - EMPIRICAL WATER BODY MODEL
+ASSUMPTIONS FOR CONVENTIONAL POLLUTANTS AND CONVENTIONAL
+WATER QUALITY MODELS
+
+I.  EMPIRICAL STREAM, LAKE, and ESTUARY MODEL ASSUMPTIONS FOR
+CONVENTIONAL POLLUTANTS
+
+A.     7Q10 Flow Values
+
+1.     The 7Q10 flow in unregulated, natural streams is to be determined from Low-flow and
+Flow-Duration Characteristics of Mississippi Streams, U.S.G.S., Report 90-4087 (hereinafter
+"Report 90-4087") or the most recent update of this publication.
+
+2.     7Q10 value of a gage will be used directly if gaging station is at or near the point of
+discharge.
+
+3.      7Q10 flow coefficients (7Q10 value in CFS/drainage area in square miles) of a gaging
+station will be used to calculate a 7Q10 value for a point discharge if there is a gaging station on
+the stream or on a nearby stream. An average 7Q10 flow coefficient may be used if there is more
+than one nearby gaging station.
+
+4.     7Q10 flow coefficients can be taken from Report 90-4087 if no gaging station is available.
+The value will be assumed to be in the middle of the given range.
+
+5.     A 7Q10 flow coefficient of 0.0 cfs will be used for intermittent streams or when the
+Report 90-4087 lists the 7Q10 flow coefficient as less than 0.01 cfs per square mile.
+
+6.      The annual 7Q10 flow will be used for seasonal winter allocations, unless data is available
+to determine seasonal or monthly 7Q10 flows.
+
+7.     Semi-annual, quarterly or monthly 7Q10 flows with their respective average maximum
+temperatures may be used to determine various seasonal wasteload allocations.
+
+8.     In regulated streams the legally guaranteed minimum flow will be used for allocations
+unless otherwise provided in these regulations.
+
+9.     Spatially distributed flow will be included to account for flow gained at 7Q10 from
+sources other than major tributaries.
+
+10.    Spatial flow will be calculated between gaging stations if available.
+
+11.     Spatial flows will be determined by using 7Q10 flow coefficients where sufficient gaging
+stations are not available.
+
+
+
+
+                                                96
+

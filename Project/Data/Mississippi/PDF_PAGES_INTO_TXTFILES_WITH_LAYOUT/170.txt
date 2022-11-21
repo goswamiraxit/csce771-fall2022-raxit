@@ -1,0 +1,48 @@
+(g)   For carcinogens, the concentrations of toxic substances will not result in
+      unacceptable health risk and will be based on a Cancer Potency Factor
+      (CPF). An unacceptable health risk for cancer will be considered to be
+      more than one additional case of cancer per one million people exposed
+      (10-6 risk level). Water quality standards or criteria used to calculate
+      water quality-based effluent limitations (and for all other purposes of
+      water quality criteria under Section 303(c) of the Clean Water Act) to
+      protect human health through the different exposure routes are determined
+      as follows:
+
+      (1)    Fish tissue consumption:
+
+
+             WQC = (Risk) x Body Weight / (CPF x (FCR x BCF))
+
+
+             where: WQC = water quality criterion
+             Risk = risk factor (10)
+             CPF = cancer potency factor
+             FCR = fish consumption rate (17.5 gm/person-day)
+             BCF = bioconcentration factor
+
+      BCF values are based on U.S. Environmental Protection Agency
+      publications pursuant to Section 304(a) of the Clean Water Act. FCR
+      values are average consumption rates for a 70 kg adult for a lifetime of the
+      population; alternative FCR values may be used when it is considered
+      necessary to protect localized populations which may be consuming fish at
+      a higher rate.
+
+      (2)    Water consumption (including a correction for fish consumption):
+
+
+             WQC = Risk x Body Weight / (CPF x (WCR + (FCR x BCF)))
+
+
+             where: WQC = water quality criterion
+             Risk = risk factor (10)
+             CPF = cancer potency factor
+             FCR = fish consumption rate (17.5 gm/person-day)
+             BCF = bioconcentration factor
+             WCR = water consumption rate (assumed to be 2 liters/day for
+             adults)
+
+      The equations listed in this subparagraph will be used to develop water
+      criteria or standards on a case-by-case basis for toxic substances that are
+
+                              170
+

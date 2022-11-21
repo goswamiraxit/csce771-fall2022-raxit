@@ -1,0 +1,343 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+521412
+
+Pike
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+Near Johnstons Station
+from headwaters to Bogue
+Chitto River
+
+521512
+
+Pike
+
+Recreati
+on
+
+Pathogens
+
+From headwaters to mouth
+at Bogue Chitto River
+
+TMDL Complete
+05/14/2010
+
+Wilkinson
+
+Aquatic
+Life Use
+Support
+
+sediment
+
+Near Darrington from
+headwaters to mouth at
+Homochitto River
+
+TMDL Complete
+03/25/2009
+
+Claiborne
+
+Aquatic
+Life Use
+Support
+
+sediment
+
+Near Lorman from
+headwaters to mouth at
+Bayou Pierre
+
+TMDL Complete
+03/25/2009
+
+Adams
+
+Aquatic
+Life Use
+Support
+
+sediment
+
+Near Ireland from
+headwaters to mouth at
+Homochitto River
+
+TMDL Complete
+03/25/2009
+
+Franklin
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+Near Bunkley from
+headwaters to mouth at
+Homochitto River
+
+TMDL Complete
+03/25/2009
+
+Adams
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+Carroll
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+Holmes
+
+Aquatic
+Life Use
+Support
+
+Holmes
+
+Aquatic
+Life Use
+Support
+
+Holmes
+
+Aquatic
+Life Use
+Support
+
+Yazoo
+
+Aquatic
+Life Use
+Support
+
+Pearl
+River
+
+Clabber
+Creek
+
+Pearl
+River
+
+Clear Creek
+
+South
+Independe
+nt
+
+Crooked
+Creek
+
+609011
+
+James Creek
+
+604211/
+604311
+
+418111
+
+415112
+
+South
+Independe
+nt
+
+Pretty Creek
+
+South
+Independe
+nt
+
+Richardson
+Creek
+
+607911
+
+Second Creek
+
+609111/
+609211
+
+Abiaca Creek
+
+991711/
+919811/
+920011
+
+Yazoo
+River
+
+Yazoo
+River
+
+Yazoo
+River
+
+Bee Lake
+
+Bee Lake
+
+Bee Lake
+
+Dump Lake
+
+Listing Change
+
+Wayne
+
+West Little
+Thompson
+Creek
+
+Yazoo
+River
+
+Location
+
+Aquatic
+Life Use
+Support
+
+Pascagoul
+a River
+
+Yazoo
+River
+
+Pollutant
+
+Jackson
+
+Pascagoula
+River
+
+South
+Independe
+nt
+
+Impair
+ed Use
+Aquatic
+Life Use
+Support
+
+Pascagoul
+a River
+
+South
+Independe
+nt
+
+County
+
+608311
+
+941711
+
+941711
+
+941711
+
+923011
+
+19
+
+Pathogens
+
+From MWS boundary
+4176 to MWS boundary
+4182
+
+TMDL Complete
+12/15/1999
+
+Sediment
+
+Near Good Hope from
+headwaters to mouth at
+Thompson Creek
+
+TMDL Complete
+05/18/2005
+TMDL Complete
+03/25/2009
+
+Sediment
+Organic
+Enrichment/
+Low
+Dissolved
+Oxygen
+
+Nutrients
+Organic
+Enrichment/
+Low
+Dissolved
+Oxygen
+
+Near Doloroso from
+headwaters to Homochitto
+River
+At Seven Pines from
+confluence with Coila
+Creek to MWS boundary
+9201
+
+TMDL Complete
+03/25/2009
+
+TMDL Complete
+04/15/2008
+
+Entire lake in Holmes
+County
+
+TMDL Complete
+06/30/2003
+
+Entire lake in Holmes
+County
+
+TMDL Complete
+06/30/2003
+
+Entire lake in Holmes
+County
+
+TMDL Complete
+06/30/2003
+
+Near Satartia off Dump
+Lake Road near boat ramp
+
+TMDL Complete
+06/30/2003
+
+

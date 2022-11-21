@@ -1,0 +1,39 @@
+(9)
+
+E. coli (Escherichia coli) is a common inhabitant of the intestinal tract of warm-blooded
+animals, and its presence in water samples is an indication of fecal pollution and the
+possible presence of enteric pathogens.
+
+(10) Enteric pathogens are a species of bacteria can be highly pathogenic when they enter and
+colonize the human digestive tract.
+(11) Grab samples are samples where the entire sample is collected in one uninterrupted
+interval.
+(12) Mean Annual Flow is the total of daily mean flows for the full period of record divided
+by the total days for the full period of record.
+(13) Membrane Filtration (MF) is a method of quantitative or qualitative analysis of
+bacterial or particulate matter in a water sample filtered through a membrane capable of
+retaining bacteria.
+(14) Most probable number (MPN) is the most probable number of coliform-group
+organisms per unit volume of sample water.
+(15) Point source is a stationary location or fixed facility from which pollutants are
+discharged or emitted. Also, any single identifiable source of pollution, e.g., a pipe,
+ditch, or ship.
+(16) 7Q10 is the average streamflow rate over seven consecutive days that may be expected
+to be reached as an annual minimum no more frequently than one year in ten years.
+(17) 7Q2 is the average streamflow rate over seven consecutive days that may be expected to
+be reached as an annual minimum no more frequently than one year in two years.
+(18) Stratification is the formation of layers of water within a water body that are of different
+densities. The density difference may be caused by variations of temperature, salinity,
+or concentrations of other dissolved substances within the water at different depths.
+(19) Threshold odor number is the number of times a sample needs to be diluted with clean
+water in order to reach the level that smell is not detectable.
+(20) Toxic substance means any substance or combination of substances (including diseasecausing agents), which after discharge and upon exposure, ingestion, inhalation, or
+assimilation into any organism, whether directly from the environment or indirectly by
+ingestion through food chains, has the potential to cause death, disease, behavioral
+abnormalities, cancer, genetic mutations, physiological malfunctions (including
+malfunctions or suppression in reproduction or growth) or physical deformities in such
+organisms or their offspring.
+
+162
+
+

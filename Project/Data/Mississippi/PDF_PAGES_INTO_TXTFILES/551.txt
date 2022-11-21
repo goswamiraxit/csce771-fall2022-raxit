@@ -1,0 +1,212 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Yazoo River
+
+Little Horse Pen
+Creek
+
+914313
+
+Calhoun,
+Grenada
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Horsepen Creek
+
+Yazoo River
+
+Little
+Tallahatchie
+River
+
+901711
+
+Union
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Mud Creek to MWS 9019
+boundary
+
+Yazoo River
+
+Little
+Tallahatchie
+River
+
+901911
+
+Union,
+Lafayette
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From MWS 9017 boundary to confluence with Fice
+Creek
+
+Yazoo River
+
+Little Topasaw
+Creek
+
+913712
+
+Webster,
+Chickasaw
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Woodland from headwaters to Topasaw Creek
+
+Yazoo River
+
+Lockes Creek
+
+901811
+
+Union
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Enterprise from headwaters to Little
+Tallahatchie River
+
+Yazoo River
+
+Lyon Creek
+
+901111
+
+Pontotoc
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Pontotoc from headwaters to confluence with
+Lappatubby Creek
+
+Yazoo River
+
+Medlock Branch
+
+902514
+
+Tippah
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at North Tippah Creek
+
+Yazoo River
+
+Meridian Creek
+
+913312
+
+Calhoun
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Vardaman from headwaters to mouth at
+Yalobusha River
+
+Yazoo River
+
+Moore Bayou
+
+931912
+
+Coahoma
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Cassidy Bayou
+
+Yazoo River
+
+North Tippah
+Creek
+
+902515
+
+Tippah
+
+Aquatic Life
+Use Support
+
+Sediment
+
+Near Ripley from headwaters confluence with
+Medlock Branch
+
+Yazoo River
+
+North Tippah
+Creek
+
+902512
+
+Tippah
+
+Aquatic Life
+Use Support
+
+Sediment
+
+Near Ripley from confluence with Medlock Branch
+to mouth at Tippah River
+
+46
+
+

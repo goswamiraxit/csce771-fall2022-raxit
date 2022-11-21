@@ -1,0 +1,282 @@
+10 144 Me. Code R. Ch. 235 § 1 General Provisions (Code of Maine
+                     Rules (2021 Edition))
+
+
+SECTION 1. GENERAL PROVISIONS
+
+A. Application and Scope. These rules shall apply to all producers and
+processors of bulk drinking water. The rules establish the sanitary
+requirements for the installation and maintenance of equipment used in
+processing, handling, and storage and the source of water.
+
+B. Constitutionality Clause. Should any section, paragraph, sentence,
+clause, or phrase of these regulations be declared unconstitutional or invalid
+for any reason, the remainder of said regulations shall not be affected
+thereby.
+ 10 144 Me. Code R. Ch. 235 § 2 Definitions (Code of Maine Rules
+                         (2021 Edition))
+
+
+SECTION 2. DEFINITIONS
+
+BULK WATER: Water intended for potable uses which is transported
+across municipal boundaries, in containers greater than 10 gallons for the
+purpose of treatment, packaging or human consumption.
+
+DEPARTMENT: The State of Maine Department of Health and Human
+Services, Maine CDC, Division of Environmental Health, Drinking Water
+Program, or its authorized representative.
+  10 144 Me. Code R. Ch. 235 § 3 Bulk Water Transport (Code of
+                  Maine Rules (2021 Edition))
+
+
+SECTION 3. BULK WATER TRANSPORT
+
+A. Prohibition. Except as otherwise provided in this section, no person
+may transport water for commercial purposes by pipeline or other conduit
+or by tank truck or in a container greater in size than 10 gallons beyond the
+boundaries of the municipality or township in which water is naturally
+located, or any bordering municipality or township. 22 M.R.S.A §2660-A
+defines when a permit is necessary to transport water for human
+consumption across town lines within the State of Maine.
+
+B. Exceptions. The prohibition in this section does not apply to:
+
+1. Any utility water as defined in Title 35-A.
+
+2. Water transported for use in well drilling, construction activities, concrete
+mixing, swimming pool filling, servicing portable toilets, firefighting,
+hospital operations, aquaculture, agricultural applications or civil
+emergencies.
+
+3. Water distilled as a by-product of a manufacturing process.
+
+4. Water transported from a water source that, before July 1, 1987, was used
+to supply water for bottling and sale, and which is used exclusively for
+bottling and is sold in its pure form, or as a carbonated or flavored beverage
+product.
+
+C. Permit Required. The Commissioner, after consultation with the
+Public Utilities Commission and the State Geologist, and upon the
+recommendations of the Department, may authorize transport of water for
+commercial purposes, if the Commissioner finds that:
+
+1. Transport of the water will not constitute a threat to public health, safety
+or welfare;
+
+2. The water is not available naturally in the location to which it will be
+transported; and
+
+3. Failure to authorize transport of the water would create a substantial
+hardship to the potential recipient of the water. Any authorization under this
+subsection must be for a period not to exceed 3 years, but may be renewed
+subject to the same criteria. [1997, c. 587, §2 (amd).]
+
+D. Emergencies. In case of an emergency, any person may transport water
+as necessary for the duration of the emergency, but the person transporting
+the water must inform the Department within 3 days and the Department
+may determine when the emergency is over.
+  10 144 Me. Code R. Ch. 235 § 3 Bulk Water Transport (Code of
+                  Maine Rules (2021 Edition))
+
+
+E. Penalty. Any person who transports water in violation of this section is
+guilty of illegal transport of water. Illegal transport of water is a Class D
+crime. Each shipment or day of transport, if by pipeline, is a separate
+offense.
+
+F. Source Approval. Bulk water sources shall meet the requirements of
+these Rules, or be approved by the state agency having local jurisdiction.
+Bulk water shall be loaded, transported and unloaded in a sanitary manner
+to ensure the overall safety and quality of the finished water product.
+
+G. Material. Bulk water tankers, storage tanks, hoses, pumps and
+connections used for loading, transporting and unloading of bulk water shall
+be constructed of materials that are FDA food-grade, smooth, non-
+absorbent and easily cleanable such as stainless steel (300 series).
+
+H. Dedicated Equipment. Tankers shall be dedicated for the hauling of
+bulk water only, for bottling purposes. Tankers that have been previously
+used to haul non-food commodities such as toxic materials, petroleum
+products, or other harmful substances shall not be used to haul drinking
+water for human consumption. Tankers shall be cleaned, sanitized and
+inspected internally for tank integrity on a routine basis.
+
+I. Cleaning and Disinfection Procedures for Mobile Bulk Storage
+Containers (MBSC)
+
+1. Inspect the container to ensure that it is watertight and free of debris.
+Remove all debris.
+
+2. Disinfect the container for 30 minutes using not less than 100 ppm
+chlorine solution. Alternatively, "super ozonated" (greater than 1 ppm) water
+may be used. Allow disinfected water to flow through all pipes and
+overflows. Use gloves and avoid breathing fumes (wear an OSHA approved
+chemical cartridge respirator if necessary). Take all necessary safety
+precautions in accordance with OSHA standards.
+
+3. Mix solution throughout the container. Scrub the inside of the container
+with a clean long handled brush to remove bio-film and other accumulated
+debris.
+
+4. Fill tank completely full, with not less than 10 ppm chlorine solution.
+Allow at least 1-hour contact time.
+
+5. Drain and rinse container with operations water.
+
+6. Fill tank with product (potable) water. Ensure that the free chlorine
+residual in the container is at least 2 mg/l. If ozonation is utilized, the ozone
+  10 144 Me. Code R. Ch. 235 § 3 Bulk Water Transport (Code of
+                  Maine Rules (2021 Edition))
+
+
+residual in the container shall be at least 0.2 mg/l. Record this measurement
+at the time of loading and unloading.
+
+7. Secure and lock access hatches to the container to prevent unauthorized
+access and potential contamination.
+
+8. An alternative cleaning and disinfection procedure may be employed in
+accordance with the tank manufacturer recommendations and with prior
+approval from the Department.
+
+J. Hoses and Connections. Connections (hoses) and pumps used for the
+loading and unloading of bulk water shall be properly maintained and stored
+to prevent contamination. When not in use, pumps, hoses, connections and
+fittings shall be properly capped, securely stored and protected from
+possible contamination. Manhole cover gaskets and safety seals shall be
+maintained to prevent possible contamination.
+
+K. Bacteria Sampling. Representative samples shall be taken from
+shipments of bulk water for the analyses of total coliform bacteria. The
+minimum frequency of sampling shall be one sample from each tanker on a
+weekly basis, or more frequently as determined by the Department.
+
+L. Records. Shall be maintained for a minimum of two years, to include
+the following information:
+
+1. Name of the transporter and/or driver.
+
+2. Tanker number.
+
+3. Date of shipment.
+
+4. Vendor and location of the source water.
+
+5. Name of the receiver and the location to which the water was shipped.
+
+6. Date of delivery.
+
+7. Date of tanker cleaning and sanitization (includes name of operator).
+
+8. The concentration of the disinfectant residual (if required by the local
+state agency having jurisdiction) at the time of loading and unloading.
+
+9. Results of total coliform bacteria testing performed on representative
+samples taken from shipments of bulk water for each tanker to be performed
+at least once per week.
+  10 144 Me. Code R. Ch. 235 § 3 Bulk Water Transport (Code of
+                  Maine Rules (2021 Edition))
+
+
+M. Tank Shed. Stationary (or non-mobile) bulk water storage containers
+shall be housed in an enclosed structure with concrete slab (or equivalent)
+foundation. The structure shall have adequate floor drainage. Doors and
+windows shall have 24-mesh screens to prevent pests from entering.
+   10 144 Me. Code R. Ch. 235 § 4 Records (Code of Maine Rules
+                         (2021 Edition))
+
+
+SECTION 4. RECORDS
+
+A. Records shall be maintained of all inspections and reports. Records of all
+water quality bacteriological and chemical testing shall be maintained for 5
+years by the water supplier and the Department.
+
+B. Records shall be maintained of daily production operations and shall
+include the date, number of units packaged and number of units delivered.
+The names of people who obtain water should also be maintained.
+10 144 Me. Code R. Ch. 235 § 5 Approval Required (Code of Maine
+                     Rules (2021 Edition))
+
+
+SECTION 5. APPROVAL REQUIRED
+
+A. Facilities. Plans and specifications for any major alternation of existing
+bulk water facilities or any new construction must be approved before any
+work is commenced.
+
+B. Treatment. Plans and specifications for any alteration of existing
+treatment processes or any new treatment process must be approved by the
+Department before installation is commenced. It is recommended that at
+least thirty (30) working days be allowed for plan review.
+
+C. Change in Ownership. The permit holder shall notify the Department
+within 5 days after any change in ownership, and at least 30 days prior to
+any change of the name or location of the plant and in all cases promptly
+submit to the Department written documentation reflecting such change(s).
+
+D. Change/Addition of a Source. Prior to the time that a water source is
+changed or a new source is used in addition to the existing approved
+source(s), if the new source is not a public water supply, the permit holder
+shall obtain an inspection and approval of the new source by the
+governmental authority having jurisdiction, and shall submit a copy of such
+inspection and approval to the Department. The permit holder shall also
+submit to the Department information in accordance with these Rules, prior
+to the sale of products using the new source. If the new source is a public
+water supply, the permit holder shall notify the Department of the change or
+addition of source.
+    10 144 Me. Code R. Ch. 235 § 6 Orders, Emergency Powers,
+          Penalties (Code of Maine Rules (2021 Edition))
+
+
+SECTION 6. ORDERS, EMERGENCY POWERS, PENALTIES
+
+A. Pursuant to 22 M.R.S. §2614, the Department is authorized to issue
+orders to any person to comply with the requirements of these regulations,
+and is further authorized to petition to compel compliance with such orders.
+
+B. Pursuant to 22 M.R.S. §2614, on receipt of information that due to the
+actual or threatened use of contaminants, or for other reasons, there is an
+imminent and substantial endangerment to the health of persons, the
+Department may take such actions, including, but not limited to, issuing
+emergency orders or commencing court action, as deemed necessary to
+protect the public health.
+
+C. Pursuant to 22 M.R.S. §§ 2617 and 2620, any person willfully violating
+any portion of these regulations, may be subject to a fine. Each day of
+operation in violation shall constitute a separate offense. In addition, as
+indicated in subparagraph (2) of 22 M.R.S. §2617, injunctive relief may be
+obtained to prevent the violation of any rule, in accordance with State law.
+
+STATUTORY AUTHORITY: 22 M.R.S. §§ 42 and 2601 et seq.
+
+EFFECTIVE DATE:
+
+December 7, 1979 - filing 79-530, as "Rules Relating to Bottled Water"
+
+AMENDED:
+
+November 1, 1983 - filing 83-334, as "Rules Relating to Bottled Water, Bulk
+Water, and Water Vending Machines", referred to as "Bottled Water Rules"
+(filed with Secretary of State November 17, 1983)
+
+EFFECTIVE DATE (ELECTRONIC CONVERSION):
+
+May 5, 1996
+
+AMENDED:
+
+May 7, 2001 - filing 2001-161
+
+NON-SUBSTANTIVE CORRECTIONS:
+
+March 30, 2004 - filing C-04-59 (spelling, rule citations and citation format
+only)
+
+AMENDED:
+
+May 9, 2016 - filing 2016-083, as "Rules Relating to Bulk Water"
+10 144 Me. Code R. Ch. 235 § 6 Orders, Emergency Powers,
+      Penalties (Code of Maine Rules (2021 Edition))
+

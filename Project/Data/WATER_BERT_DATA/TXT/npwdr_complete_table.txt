@@ -1,0 +1,687 @@
+National Primary
+Drinking Water Regulations
+                                            Potential health effects
+                        MCL or TT1                                           Common sources of contaminant in           Public Health
+ Contaminant                               from long-term3 exposure
+                         (mg/L)2                                                     drinking water                      Goal (mg/L)2
+                                                above the MCL
+
+                                       Nervous system or blood               Added to water during sewage/
+   Acrylamide              TT4
+                                       problems; increased risk of cancer    wastewater treatment
+                                                                                                                            zero
+
+                                       Eye, liver, kidney, or spleen
+                                                                             Runoff from herbicide used on row
+   Alachlor              0.002         problems; anemia; increased risk
+                                                                             crops
+                                                                                                                            zero
+                                       of cancer
+                                                                             Erosion of natural deposits of certain
+                    15 picocuries
+   Alpha/photon                                                              minerals that are radioactive and
+   emitters
+                      per Liter        Increased risk of cancer
+                                                                             may emit a form of radiation known
+                                                                                                                            zero
+                       (pCi/L)
+                                                                             as alpha radiation
+                                                                             Discharge from petroleum refineries;
+                                       Increase in blood cholesterol;
+   Antimony              0.006
+                                       decrease in blood sugar
+                                                                             fire retardants; ceramics; electronics;        0.006
+                                                                             solder
+                                       Skin damage or problems with          Erosion of natural deposits; runoff
+   Arsenic                0.010        circulatory systems, and may have     from orchards; runoff from glass &               0
+                                       increased risk of getting cancer      electronics production wastes
+   Asbestos            7 million
+                                       Increased risk of developing          Decay of asbestos cement in water
+   (fibers >10      fibers per Liter
+                                       benign intestinal polyps              mains; erosion of natural deposits
+                                                                                                                            7 MFL
+   micrometers)          (MFL)
+
+                                       Cardiovascular system or              Runoff from herbicide used on row
+   Atrazine              0.003
+                                       reproductive problems                 crops
+                                                                                                                            0.003
+
+                                                                             Discharge of drilling wastes; discharge
+   Barium                   2          Increase in blood pressure            from metal refineries; erosion                   2
+                                                                             of natural deposits
+
+                                       Anemia; decrease in blood             Discharge from factories; leaching
+   Benzene               0.005
+                                       platelets; increased risk of cancer   from gas storage tanks and landfills
+                                                                                                                            zero
+
+   Benzo(a)pyrene                      Reproductive difficulties;            Leaching from linings of water storage
+   (PAHs)
+                         0.0002
+                                       increased risk of cancer              tanks and distribution lines
+                                                                                                                            zero
+
+                                                                             Discharge from metal refineries and
+                                                                             coal-burning factories; discharge
+   Beryllium             0.004         Intestinal lesions
+                                                                             from electrical, aerospace, and
+                                                                                                                            0.004
+                                                                             defense industries
+                                                                             Decay of natural and man-made
+                                                                             deposits of certain minerals that are
+   Beta photon       4 millirems
+   emitters            per year
+                                       Increased risk of cancer              radioactive and may emit forms of              zero
+                                                                             radiation known as photons and beta
+                                                                             radiation
+
+                                                                             Byproduct of drinking water
+   Bromate                0.010        Increased risk of cancer
+                                                                             disinfection
+                                                                                                                            zero
+
+                                                                             Corrosion of galvanized pipes; erosion
+                                                                             of natural deposits; discharge
+   Cadmium               0.005         Kidney damage
+                                                                             from metal refineries; runoff from
+                                                                                                                            0.005
+                                                                             waste batteries and paints
+
+                                       Problems with blood, nervous          Leaching of soil fumigant used on rice
+   Carbofuran             0.04
+                                       system, or reproductive system        and alfalfa
+                                                                                                                            0.04
+
+
+
+
+LEGEND
+
+         DISINFECTANT            DISINFECTION         INORGANIC         MICROORGANISM           ORGANIC             RADIONUCLIDES
+                                  BYPRODUCT            CHEMICAL                                 CHEMICAL
+National Primary Drinking Water Regulations                                                                         EPA 816-F-09-004 | MAY 2009
+
+                                                       Potential health effects
+                                   MCL or TT1                                             Common sources of contaminant           Public Health
+        Contaminant                                   from long-term3 exposure
+                                    (mg/L)2                                                    in drinking water                   Goal (mg/L)2
+                                                           above the MCL
+
+         Carbon                                  Liver problems; increased risk of        Discharge from chemical plants and
+         tetrachloride
+                                     0.005
+                                                 cancer                                   other industrial activities
+                                                                                                                                      zero
+
+         Chloramines                             Eye/nose irritation; stomach             Water additive used to control
+         (as Cl2)
+                                   MRDL=4.01
+                                                 discomfort; anemia                       microbes
+                                                                                                                                   MRDLG=41
+
+                                                 Liver or nervous system problems;
+         Chlordane                   0.002
+                                                 increased risk of cancer
+                                                                                          Residue of banned termiticide               zero
+
+         Chlorine                                Eye/nose irritation; stomach             Water additive used to control
+         (as Cl2)
+                                   MRDL=4.01
+                                                 discomfort                               microbes
+                                                                                                                                   MRDLG=41
+
+                                                 Anemia; infants, young children,
+         Chlorine dioxide                                                                 Water additive used to control
+         (as ClO2)
+                                   MRDL=0.81     and fetuses of pregnant women:
+                                                                                          microbes
+                                                                                                                                  MRDLG=0.81
+                                                 nervous system effects
+
+                                                 Anemia; infants, young children,
+                                                                                          Byproduct of drinking water
+         Chlorite                      1.0       and fetuses of pregnant women:
+                                                                                          disinfection
+                                                                                                                                      0.8
+                                                 nervous system effects
+
+                                                                                          Discharge from chemical and
+         Chlorobenzene                 0.1       Liver or kidney problems
+                                                                                          agricultural chemical factories
+                                                                                                                                       0.1
+
+                                                                                          Discharge from steel and pulp mills;
+         Chromium (total)              0.1       Allergic dermatitis
+                                                                                          erosion of natural deposits
+                                                                                                                                       0.1
+
+                                                 Short-term exposure:
+                                                 Gastrointestinal distress. Long-
+                                                 term exposure: Liver or kidney
+                                   TT5; Action   damage. People with Wilson’s             Corrosion of household plumbing
+         Copper
+                                    Level=1.3    Disease should consult their             systems; erosion of natural deposits
+                                                                                                                                       1.3
+                                                 personal doctor if the amount of
+                                                 copper in their water exceeds the
+                                                 action level
+                                                 Short-term exposure:
+         Cryptosporidium               TT7       Gastrointestinal illness (e.g.,          Human and animal fecal waste                zero
+                                                 diarrhea, vomiting, cramps)
+                                                                                          Discharge from steel/metal
+         Cyanide                                 Nerve damage or thyroid
+         (as free cyanide)
+                                       0.2
+                                                 problems
+                                                                                          factories; discharge from plastic and       0.2
+                                                                                          fertilizer factories
+
+                                                 Kidney, liver, or adrenal gland          Runoff from herbicide used on row
+         2,4-D                        0.07
+                                                 problems                                 crops
+                                                                                                                                      0.07
+
+                                                                                          Runoff from herbicide used on
+         Dalapon                       0.2       Minor kidney changes
+                                                                                          rights of way
+                                                                                                                                      0.2
+
+         1,2-Dibromo-3-                                                                   Runoff/leaching from soil fumigant
+                                                 Reproductive difficulties;
+         chloropropane               0.0002
+                                                 increased risk of cancer
+                                                                                          used on soybeans, cotton,                   zero
+         (DBCP)                                                                           pineapples, and orchards
+
+                                                 Liver, kidney, or circulatory system     Discharge from industrial chemical
+         o-Dichlorobenzene             0.6
+                                                 problems                                 factories
+                                                                                                                                      0.6
+
+
+                                                 Anemia; liver, kidney, or spleen         Discharge from industrial chemical
+         p-Dichlorobenzene            0.075
+                                                 damage; changes in blood                 factories
+                                                                                                                                     0.075
+
+
+                                                                                          Discharge from industrial chemical
+         1,2-Dichloroethane          0.005       Increased risk of cancer
+                                                                                          factories
+                                                                                                                                      zero
+
+
+
+
+    LEGEND
+
+                 DISINFECTANT          DISINFECTION         INORGANIC              MICROORGANISM        ORGANIC             RADIONUCLIDES
+                                        BYPRODUCT            CHEMICAL                                   CHEMICAL
+National Primary Drinking Water Regulations                                                                      EPA 816-F-09-004 | MAY 2009
+
+                                                        Potential health effects
+                                     MCL or TT1                                                 Common sources of            Public Health
+         Contaminant                                   from long-term3 exposure
+                                      (mg/L)2                                              contaminant in drinking water      Goal (mg/L)2
+                                                            above the MCL
+
+                                                                                           Discharge from industrial
+         1,1-Dichloroethylene          0.007      Liver problems
+                                                                                           chemical factories
+                                                                                                                                0.007
+
+         cis-1,2-                                                                          Discharge from industrial
+         Dichloroethylene
+                                        0.07      Liver problems
+                                                                                           chemical factories
+                                                                                                                                 0.07
+
+         trans-1,2,                                                                        Discharge from industrial
+         Dichloroethylene
+                                         0.1      Liver problems
+                                                                                           chemical factories
+                                                                                                                                  0.1
+
+                                                  Liver problems; increased risk of        Discharge from industrial
+         Dichloromethane               0.005
+                                                  cancer                                   chemical factories
+                                                                                                                                 zero
+
+                                                                                           Discharge from industrial
+         1,2-Dichloropropane           0.005      Increased risk of cancer
+                                                                                           chemical factories
+                                                                                                                                 zero
+
+         Di(2-ethylhexyl)                         Weight loss, liver problems, or          Discharge from chemical
+         adipate
+                                         0.4
+                                                  possible reproductive difficulties       factories
+                                                                                                                                  0.4
+
+         Di(2-ethylhexyl)                         Reproductive difficulties; liver         Discharge from rubber and
+         phthalate
+                                       0.006
+                                                  problems; increased risk of cancer       chemical factories
+                                                                                                                                 zero
+
+                                                                                           Runoff from herbicide used on
+         Dinoseb                       0.007      Reproductive difficulties
+                                                                                           soybeans and vegetables
+                                                                                                                                0.007
+
+                                                                                           Emissions from waste
+                                                  Reproductive difficulties; increased     incineration and other
+         Dioxin (2,3,7,8-TCDD)     0.00000003
+                                                  risk of cancer                           combustion; discharge from
+                                                                                                                                 zero
+                                                                                           chemical factories
+
+         Diquat                         0.02      Cataracts                                Runoff from herbicide use             0.02
+
+
+         Endothall                       0.1      Stomach and intestinal problems          Runoff from herbicide use              0.1
+
+
+         Endrin                        0.002      Liver problems                           Residue of banned insecticide        0.002
+
+                                                                                           Discharge from industrial
+                                                  Increased cancer risk; stomach           chemical factories; an impurity
+         Epichlorohydrin                 TT   4
+                                                  problems                                 of some water treatment
+                                                                                                                                 zero
+                                                                                           chemicals
+
+                                                                                           Discharge from petroleum
+         Ethylbenzene                    0.7      Liver or kidney problems
+                                                                                           refineries
+                                                                                                                                  0.7
+
+                                                  Problems with liver, stomach,
+                                                                                           Discharge from petroleum
+         Ethylene dibromide          0.00005      reproductive system, or kidneys;
+                                                                                           refineries
+                                                                                                                                 zero
+                                                  increased risk of cancer
+                                                  Fecal coliforms and E. coli are
+                                                  bacteria whose presence indicates
+                                                  that the water may be contaminated
+                                                  with human or animal wastes.
+                                                  Microbes in these wastes may cause
+         Fecal coliform and
+         E. coli
+                                       MCL6       short term effects, such as diarrhea,    Human and animal fecal waste          zero6
+                                                  cramps, nausea, headaches, or
+                                                  other symptoms. They may pose a
+                                                  special health risk for infants, young
+                                                  children, and people with severely
+                                                  compromised immune systems.
+
+
+
+
+    LEGEND
+
+                 DISINFECTANT          DISINFECTION        INORGANIC          MICROORGANISM          ORGANIC           RADIONUCLIDES
+                                        BYPRODUCT           CHEMICAL                                 CHEMICAL
+National Primary Drinking Water Regulations                                                                         EPA 816-F-09-004 | MAY 2009
+
+                                                       Potential health effects
+                                    MCL or TT1                                           Common sources of contaminant          Public Health
+        Contaminant                                   from long-term3 exposure
+                                     (mg/L)2                                                  in drinking water                  Goal (mg/L)2
+                                                           above the MCL
+                                                                                         Water additive which promotes
+                                                  Bone disease (pain and
+                                                                                         strong teeth; erosion of natural
+         Fluoride                       4.0       tenderness of the bones); children
+                                                                                         deposits; discharge from fertilizer
+                                                                                                                                     4.0
+                                                  may get mottled teeth
+                                                                                         and aluminum factories
+                                                  Short-term exposure:
+         Giardia lamblia                TT7       Gastrointestinal illness (e.g.,        Human and animal fecal waste               zero
+                                                  diarrhea, vomiting, cramps)
+
+                                                  Kidney problems; reproductive
+         Glyphosate                     0.7
+                                                  difficulties
+                                                                                         Runoff from herbicide use                   0.7
+
+         Haloacetic acids                                                                Byproduct of drinking water
+         (HAA5)
+                                      0.060       Increased risk of cancer
+                                                                                         disinfection
+                                                                                                                                     n/a9
+
+                                                  Liver damage; increased risk of
+         Heptachlor                  0.0004
+                                                  cancer
+                                                                                         Residue of banned termiticide              zero
+
+                                                  Liver damage; increased risk of
+         Heptachlor epoxide          0.0002
+                                                  cancer
+                                                                                         Breakdown of heptachlor                    zero
+
+                                                  HPC has no health effects; it is an
+                                                  analytic method used to measure
+                                                  the variety of bacteria that are       HPC measures a range of bacteria
+         Heterotrophic plate
+         count (HPC)
+                                        TT7       common in water. The lower             that are naturally present in the           n/a
+                                                  the concentration of bacteria          environment
+                                                  in drinking water, the better
+                                                  maintained the water system is.
+                                                  Liver or kidney problems;
+                                                                                         Discharge from metal refineries
+         Hexachlorobenzene            0.001       reproductive difficulties; increased
+                                                                                         and agricultural chemical factories
+                                                                                                                                    zero
+                                                  risk of cancer
+
+         Hexachloro-
+         cyclopentadiene
+                                       0.05       Kidney or stomach problems             Discharge from chemical factories          0.05
+
+                                                  Infants and children: Delays in
+                                                  physical or mental development;
+                                   TT5; Action    children could show slight deficits    Corrosion of household plumbing
+         Lead
+                                   Level=0.015    in attention span and learning         systems; erosion of natural deposits
+                                                                                                                                    zero
+                                                  abilities; Adults: Kidney problems;
+                                                  high blood pressure
+
+                                                  Legionnaire’s Disease, a type of       Found naturally in water; multiplies
+         Legionella                     TT7
+                                                  pneumonia                              in heating systems
+                                                                                                                                    zero
+
+                                                                                         Runoff/leaching from insecticide
+         Lindane                     0.0002       Liver or kidney problems
+                                                                                         used on cattle, lumber, and gardens
+                                                                                                                                   0.0002
+
+                                                                                         Erosion of natural deposits;
+                                                                                         discharge from refineries and
+         Mercury (inorganic)          0.002       Kidney damage
+                                                                                         factories; runoff from landfills and
+                                                                                                                                    0.002
+                                                                                         croplands
+                                                                                         Runoff/leaching from insecticide
+         Methoxychlor                  0.04       Reproductive difficulties              used on fruits, vegetables, alfalfa,       0.04
+                                                                                         and livestock
+
+                                                  Infants below the age of six
+                                                  months who drink water
+                                                  containing nitrate in excess of        Runoff from fertilizer use; leaching
+         Nitrate (measured
+         as Nitrogen)
+                                        10        the MCL could become seriously         from septic tanks, sewage; erosion          10
+                                                  ill and, if untreated, may die.        of natural deposits
+                                                  Symptoms include shortness of
+                                                  breath and blue-baby syndrome.
+
+
+
+
+    LEGEND
+
+                 DISINFECTANT          DISINFECTION         INORGANIC           MICROORGANISM           ORGANIC            RADIONUCLIDES
+                                        BYPRODUCT            CHEMICAL                                   CHEMICAL
+National Primary Drinking Water Regulations                                                                            EPA 816-F-09-004 | MAY 2009
+
+                                                          Potential health effects
+                                    MCL or TT1                                              Common sources of contaminant          Public Health
+        Contaminant                                      from long-term3 exposure
+                                     (mg/L)2                                                     in drinking water                  Goal (mg/L)2
+                                                              above the MCL
+                                                     Infants below the age of six
+                                                     months who drink water
+                                                     containing nitrite in excess of        Runoff from fertilizer use; leaching
+         Nitrite (measured
+         as Nitrogen)
+                                         1           the MCL could become seriously         from septic tanks, sewage; erosion           1
+                                                     ill and, if untreated, may die.        of natural deposits
+                                                     Symptoms include shortness of
+                                                     breath and blue-baby syndrome.
+                                                                                            Runoff/leaching from insecticide
+         Oxamyl (Vydate)                0.2          Slight nervous system effects          used on apples, potatoes, and               0.2
+                                                                                            tomatoes
+
+                                                     Liver or kidney problems;              Discharge from wood-preserving
+         Pentachlorophenol            0.001
+                                                     increased cancer risk                  factories
+                                                                                                                                       zero
+
+
+         Picloram                       0.5          Liver problems                         Herbicide runoff                            0.5
+
+                                                     Skin changes; thymus gland
+                                                     problems; immune deficiencies;
+         Polychlorinated                                                                    Runoff from landfills; discharge of
+         biphenyls (PCBs)
+                                     0.0005          reproductive or nervous system
+                                                                                            waste chemicals
+                                                                                                                                       zero
+                                                     difficulties; increased risk of
+                                                     cancer
+         Radium 226
+         and Radium 228               5 pCi/L        Increased risk of cancer               Erosion of natural deposits                zero
+         (combined)
+                                                     Hair or fingernail loss; numbness      Discharge from petroleum and
+         Selenium                      0.05          in fingers or toes; circulatory        metal refineries; erosion of natural       0.05
+                                                     problems                               deposits; discharge from mines
+
+         Simazine                     0.004          Problems with blood                    Herbicide runoff                          0.004
+
+                                                     Liver, kidney, or circulatory system   Discharge from rubber and plastic
+         Styrene                        0.1
+                                                     problems                               factories; leaching from landfills
+                                                                                                                                        0.1
+
+                                                     Liver problems; increased risk of      Discharge from factories and dry
+         Tetrachloroethylene          0.005
+                                                     cancer                                 cleaners
+                                                                                                                                       zero
+
+                                                                                          Leaching from ore-processing sites;
+                                                     Hair loss; changes in blood; kidney,
+         Thallium                     0.002
+                                                     intestine, or liver problems
+                                                                                          discharge from electronics, glass,         0.0005
+                                                                                          and drug factories
+
+                                                     Nervous system, kidney, or liver       Discharge from petroleum
+         Toluene                         1
+                                                     problems                               factories
+                                                                                                                                         1
+
+                                                     Coliforms are bacteria that
+                                                     indicate that other, potentially       Naturally present in the
+         Total Coliforms           5.0 percent   8
+                                                     harmful bacteria may be present.       environment
+                                                                                                                                       zero
+                                                     See fecal coliforms and E. coli
+         Total                                       Liver, kidney, or central nervous
+                                                                                            Byproduct of drinking water
+         Trihalomethanes              0.080          system problems; increased risk
+                                                                                            disinfection
+                                                                                                                                       n/a9
+         (TTHMs)                                     of cancer
+
+                                                     Kidney, liver, or thyroid problems;    Runoff/leaching from insecticide
+         Toxaphene                    0.003
+                                                     increased risk of cancer               used on cotton and cattle
+                                                                                                                                       zero
+
+
+         2,4,5-TP (Silvex)             0.05          Liver problems                         Residue of banned herbicide                0.05
+
+         1,2,4-                                                                             Discharge from textile finishing
+         Trichlorobenzene
+                                       0.07          Changes in adrenal glands
+                                                                                            factories
+                                                                                                                                       0.07
+
+
+
+
+    LEGEND
+
+                 DISINFECTANT          DISINFECTION            INORGANIC         MICROORGANISM            ORGANIC           RADIONUCLIDES
+                                        BYPRODUCT               CHEMICAL                                  CHEMICAL
+National Primary Drinking Water Regulations                                                                                                                EPA 816-F-09-004 | MAY 2009
+
+                                            MCL or                        Potential health effects                                 Common sources of
+                                                                                                                                                                             Public Health
+          Contaminant                        TT1                         from long-term3 exposure                                contaminant in drinking
+                                                                                                                                                                              Goal (mg/L)2
+                                           (mg/L)2                            above the MCL                                              water
+                                                                                                                              Discharge from metal
+             1,1,1-
+             Trichloroethane
+                                              0.2         Liver, nervous system, or circulatory problems                      degreasing sites and other                            0.2
+                                                                                                                              factories
+             1,1,2-                                                                                                           Discharge from industrial
+             Trichloroethane
+                                            0.005         Liver, kidney, or immune system problems
+                                                                                                                              chemical factories
+                                                                                                                                                                                  0.003
+
+                                                                                                                              Discharge from metal
+             Trichloroethylene              0.005         Liver problems; increased risk of cancer                            degreasing sites and other                           zero
+                                                                                                                              factories
+                                                          Turbidity is a measure of the cloudiness of
+                                                          water. It is used to indicate water quality and
+                                                          filtration effectiveness (e.g., whether disease-
+                                                          causing organisms are present). Higher turbidity
+             Turbidity                        TT7         levels are often associated with higher levels of                   Soil runoff                                           n/a
+                                                          disease-causing microorganisms such as viruses,
+                                                          parasites, and some bacteria. These organisms
+                                                          can cause short term symptoms such as nausea,
+                                                          cramps, diarrhea, and associated headaches.
+
+             Uranium                       30μg/L         Increased risk of cancer, kidney toxicity                           Erosion of natural deposits                          zero
+
+                                                                                                                              Leaching from PVC pipes;
+             Vinyl chloride                 0.002         Increased risk of cancer
+                                                                                                                              discharge from plastic factories
+                                                                                                                                                                                   zero
+
+                                                          Short-term exposure: Gastrointestinal illness                       Human and animal fecal
+             Viruses (enteric)                TT7
+                                                          (e.g., diarrhea, vomiting, cramps)                                  waste
+                                                                                                                                                                                   zero
+
+                                                                                                                              Discharge from petroleum
+             Xylenes (total)                   10         Nervous system damage                                               factories; discharge from                              10
+                                                                                                                              chemical factories
+
+
+      LEGEND
+
+                      DISINFECTANT                  DISINFECTION                   INORGANIC             MICROORGANISM                     ORGANIC                  RADIONUCLIDES
+                                                     BYPRODUCT                      CHEMICAL                                               CHEMICAL
+
+
+NOTES
+1 Definitions                                                                                       • 	Giardia lamblia: 99.9 percent removal/inactivation
+  • 	Maximum Contaminant Level Goal (MCLG): The level of a contaminant in drinking                 • 	Viruses: 99.9 percent removal/inactivation
+      water below which there is no known or expected risk to health. MCLGs allow for a             • 	Legionella: No limit, but EPA believes that if Giardia and viruses are removed/
+      margin of safety and are non-enforceable public health goals.                                     inactivated, according to the treatment techniques in the surface water treatment rule,
+  • 	Maximum Contaminant Level (MCL): The highest level of a contaminant that is                       Legionella will also be controlled.
+      allowed in drinking water. MCLs are set as close to MCLGs as feasible using the               • 	Turbidity: For systems that use conventional or direct filtration, at no time can turbidity
+      best available treatment technology and taking cost into consideration. MCLs are                  (cloudiness of water) go higher than 1 nephelometric turbidity unit (NTU), and samples
+      enforceable standards.                                                                            for turbidity must be less than or equal to 0.3 NTU in at least 95 percent of the samples
+  • 	Maximum Residual Disinfectant Level Goal (MRDLG): The level of a drinking water                   in any month. Systems that use filtration other than the conventional or direct filtration
+      disinfectant below which there is no known or expected risk to health. MRDLGs do not              must follow state limits, which must include turbidity at no time exceeding 5 NTU.
+      reflect the benefits of the use of disinfectants to control microbial contaminants.           • 	HPC: No more than 500 bacterial colonies per milliliter
+  • 	Maximum Residual Disinfectant Level (MRDL): The highest level of a disinfectant               • 	Long Term 1 Enhanced Surface Water Treatment: Surface water systems or ground
+      allowed in drinking water. There is convincing evidence that addition of a disinfectant           water systems under the direct influence of surface water serving fewer than 10,000
+      is necessary for control of microbial contaminants.                                               people must comply with the applicable Long Term 1 Enhanced Surface Water
+  • 	Treatment Technique (TT): A required process intended to reduce the level of a                    Treatment Rule provisions (e.g. turbidity standards, individual filter monitoring,
+      contaminant in drinking water.                                                                    Cryptosporidium removal requirements, updated watershed control requirements for
+                                                                                                        unfiltered systems).
+2 Units are in milligrams per liter (mg/L) unless otherwise noted. Milligrams per liter are        • 	Long Term 2 Enhanced Surface Water Treatment: This rule applies to all surface water
+  equivalent to parts per million (ppm).                                                                systems or ground water systems under the direct influence of surface water. The rule
+3 Health effects are from long-term exposure unless specified as short-term exposure.                   targets additional Cryptosporidium treatment requirements for higher risk systems
+                                                                                                        and includes provisions to reduce risks from uncovered finished water storages facilities
+4	Each water system must certify annually, in writing, to the state (using third-party or              and to ensure that the systems maintain microbial protection as they take steps to
+  manufacturers certification) that when it uses acrylamide and/or epichlorohydrin to treat             reduce the formation of disinfection byproducts. (Monitoring start dates are staggered
+  water, the combination (or product) of dose and monomer level does not exceed the                     by system size. The largest systems (serving at least 100,000 people) will begin
+  levels specified, as follows: Acrylamide = 0.05 percent dosed at 1 mg/L (or equivalent);              monitoring in October 2006 and the smallest systems (serving fewer than 10,000
+  Epichlorohydrin = 0.01 percent dosed at 20 mg/L (or equivalent).                                      people) will not begin monitoring until October 2008. After completing monitoring
+                                                                                                        and determining their treatment bin, systems generally have three years to comply
+5 Lead and copper are regulated by a Treatment Technique that requires systems to                      with any additional treatment requirements.)
+   control the corrosiveness of their water. If more than 10 percent of tap water samples           • 	Filter Backwash Recycling: The Filter Backwash Recycling Rule requires systems that
+   exceed the action level, water systems must take additional steps. For copper, the action            recycle to return specific recycle flows through all processes of the system’s existing
+   level is 1.3 mg/L, and for lead is 0.015 mg/L.                                                       conventional or direct filtration system or at an alternate location approved by the state.
+6 A routine sample that is fecal coliform-positive or E. coli-positive triggers repeat samples-   8 No more than 5.0 percent samples total coliform-positive in a month. (For water systems
+   -if any repeat sample is total coliform-positive, the system has an acute MCL violation. A        that collect fewer than 40 routine samples per month, no more than one sample can be
+   routine sample that is total coliform-positive and fecal coliform-negative or E. coli-            total coliform-positive per month.) Every sample that has total coliform must be analyzed
+   negative triggers repeat samples--if any repeat sample is fecal coliform-positive or E.           for either fecal coliforms or E. coli. If two consecutive TC-positive samples, and one is also
+   coli-positive, the system has an acute MCL violation. See also Total Coliforms.                   positive for E. coli or fecal coliforms, system has an acute MCL violation.
+7 EPA’s surface water treatment rules require systems using surface water or ground                9 Although there is no collective MCLG for this contaminant group, there are individual
+water under the direct influence of surface water to (1) disinfect their water, and (2) filter       MCLGs for some of the individual contaminants:
+their water or meet criteria for avoiding filtration so that the following contaminants are          • 	Haloacetic acids: dichloroacetic acid (zero); trichloroacetic acid (0.3 mg/L)
+controlled at the following levels:                                                                  • 	Trihalomethanes: bromodichloromethane (zero); bromoform (zero);
+  • 	Cryptosporidium: 99 percent removal for systems that filter. Unfiltered systems are                dibromochloromethane (0.06 mg/L)
+      required to include Cryptosporidium in their existing watershed control provisions.
+National Primary Drinking Water Regulations                                                 EPA 816-F-09-004 | MAY 2009
+
+
+
+
+     NATIONAL SECONDARY DRINKING WATER REGULATION
+     National Secondary Drinking Water Regulations are non-enforceable guidelines regarding contaminants
+     that may cause cosmetic effects (such as skin or tooth discoloration) or aesthetic effects (such as taste,
+     odor, or color) in drinking water. EPA recommends secondary standards to water systems but does not
+     require systems to comply. However, some states may choose to adopt them as enforceable standards.
+
+
+      Contaminant                                          Secondary Maximum Contaminant Level
+
+      Aluminum                                            0.05 to 0.2 mg/L
+
+      Chloride                                            250 mg/L
+
+      Color                                               15 (color units)
+
+      Copper                                              1.0 mg/L
+
+      Corrosivity                                         Noncorrosive
+
+      Fluoride                                            2.0 mg/L
+
+      Foaming Agents                                      0.5 mg/L
+
+      Iron                                                0.3 mg/L
+
+      Manganese                                           0.05 mg/L
+
+      Odor                                                3 threshold odor number
+
+      pH                                                  6.5-8.5
+
+      Silver                                              0.10 mg/L
+
+      Sulfate                                             250 mg/L
+
+      Total Dissolved Solids                              500 mg/L
+
+      Zinc                                                5 mg/L
+
+
+
+
+     FOR MORE INFORMATION ON EPA’S                           ADDITIONAL INFORMATION:
+     SAFE DRINKING WATER:
+                                                             To order additional posters or other ground
+                                                             water and drinking water publications,
+                 visit: epa.gov/safewater                    please contact the National Service Center for
+                                                             Environmental Publications at: (800) 490-9198,
+                                                             or email: nscep@bps-lmit.com.
+                 call: (800) 426-4791
+

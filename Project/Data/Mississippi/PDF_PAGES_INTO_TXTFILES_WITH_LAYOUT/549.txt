@@ -1,0 +1,40 @@
+                Water Body       Water                  Impaired
+    Basin                                    County                        Pollutant                        Location
+                  Name          Body Id                   Use
+
+Tombigbee                                 Winston,     Aquatic Life    Biological      Near Betheden from headwaters to the Noxubee
+River         Yellow Creek      813211    Noxubee      Use Support     Impairment      River
+
+Tombigbee                                              Aquatic Life    Biological      At Tupelo from confluence of Bridge Creek to
+River         Yonaba Creek      804511    Lee          Use Support     Impairment      confluence of Town Creek
+
+                                          Chickasaw,   Aquatic Life    Biological      Near Atlanta from headwaters to mouth at Topashaw
+Yazoo River   Bear Creek        913812    Calhoun      Use Support     Impairment      Creek Canal
+
+                                                       Aquatic Life    Biological      From confluence with Unnamed Tributary near MWS
+Yazoo River   Beartail Creek    909712    Tate         Use Support     Impairment      9096 boundary to mouth at Coldwater River
+
+                                                       Aquatic Life    Biological      Near Duck Hill from headwaters to confluence with
+Yazoo River   Big Bogue         917311    Montgomery   Use Support     Impairment      Wilkins Creek
+
+                                                       Aquatic Life    Biological      From confluence with Tarrey Creek near MWS 9215
+Yazoo River   Black Creek       921713    Holmes       Use Support     Impairment      boundary to confluence with Harland Creek
+
+                                                       Aquatic Life    Biological
+Yazoo River   Bliss Creek       923411    Warren       Use Support     Impairment      Near Redwood from headwaters to the Yazoo River
+
+                                          Calhoun,     Aquatic Life    Biological
+Yazoo River   Buck Creek        913813    Webster      Use Support     Impairment      From headwaters to mouth at Topashaw Creek
+
+                                                       Aquatic Life    Biological      Near Grenada from headwaters to Grenada Lake
+Yazoo River   Butputter Creek   914511    Grenada      Use Support     Impairment      Flood Pool
+
+                                                       Aquatic Life    Biological
+Yazoo River   Cherry Creek      901212    Pontotoc     Use Support     Impairment      From headwaters to mouth at Lappatubby Creek
+
+                                                       Aquatic Life    Biological
+Yazoo River   Cowpen Creek      915312    Calhoun      Use Support     Impairment      Near Banner from headwaters to the Skuna River
+
+
+                                                                      44
+

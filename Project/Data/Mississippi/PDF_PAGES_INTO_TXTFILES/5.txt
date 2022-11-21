@@ -1,0 +1,83 @@
+Rule 1.2.7 Bibliography
+Exhibit A to Chapter 1, Subchapters 1 and 2 - Empirical Water Body Model Assumptions for
+Conventional Pollutants and Conventional Water Quality Models
+I. Empirical Stream, Lake, and Estuary Model Assumptions for
+Conventional Pollutants
+
+II.
+
+A.
+
+7Q10 Flow Values
+
+B.
+
+7Q2 Flow Values
+
+C.
+
+Temperature
+
+D.
+
+Velocity
+
+E.
+
+Depth
+
+F.
+
+Slope
+
+G.
+
+Kd (Carbonaceous Deoxygenation Rate)
+
+H.
+
+Kn (Nitrogenous Deoxygenation Rate)
+
+I.
+
+Ka (Reaeration Rate)
+
+J.
+
+Stream Background Conditions
+
+K.
+
+Photosynthesis / Respiration
+
+L.
+
+Sediment Oxygen Demand
+
+M.
+
+Wastewater Inputs
+
+N.
+
+Disinfection
+
+O.
+
+Chlorine Toxicity
+
+P.
+
+Instream Waste Concentration
+
+Q.
+
+Ammonia Toxicity
+
+Conventional Water Quality Models
+
+Exhibit B to Chapter 1, Subchapters 1 and 2 - Disinfection Requirements For Sanitary Sewage
+
+5
+
+

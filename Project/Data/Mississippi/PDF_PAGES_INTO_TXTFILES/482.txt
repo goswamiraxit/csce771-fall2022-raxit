@@ -1,0 +1,56 @@
+Ephemeral
+Fish & Wildlife (Q10/7 > 0)
+Recreation
+Shellfish Harvesting
+Public Water Supply
+
+1
+5
+15
+25
+30
+
+Stream classifications for all bodies of water within the State have been
+established and adopted by the Commission on Environmental Quality as part
+of the State Water Quality Standards.
+Recreational waters are those which have been classified as such by the
+Commission.
+b.
+
+Existing Water Quality Problem Factor - Factors will be assigned based on the
+extent of the water quality problem presently caused by the existing
+wastewater discharge. The Dissolved Oxygen Problem Factor, the Public
+Health/ Bacteria Problem Factor, the Ammonia Toxicity Problem Factor, and
+the Chlorine Toxicity Problem Factor will be added to arrive at the total
+Existing Water Quality Problem Factor.
+Water Quality Problem Factor = D. O. Problem Factor + Public
+Health/Bacteria Problem Factor + Ammonia Toxicity Problem Factor +
+Chlorine Toxicity Problem Factor + 1 (if a minimum of secondary treatment
+is not presently provided).
+i.
+
+Dissolved Oxygen Problem Factor - This factor will be determined
+by use of the BOD, and flow values specified in the present
+limitations of the NPDES permit, unless significantly different from
+present effluent characteristics. These limitations will be entered into
+the standard wasteload allocation formula and a minimum dissolved
+oxygen concentration in the stream will be predicted for the existing
+wastewater discharge. The dissolved oxygen deficit is the difference
+between the dissolved oxygen standard, which is normally 5.0 mg/l,
+and the predicted minimum dissolved oxygen in the stream.
+This dissolved oxygen deficit is then multiplied by the stream miles
+(or equivalent stream miles) which presently have a dissolved oxygen
+concentration below the designated standard to obtain the Dissolved
+Oxygen Problem Factor as shown below:
+Dissolved Oxygen Problem Factor = (D.O. deficit) x (Stream or
+Equivalent Stream miles below standard)
+In order to rank all projects (on both inland and estuary waters)
+together, it is necessary to develop a relationship between stream
+miles impacted and estuary waters impacted. The term "equivalent
+stream miles" has been developed for estuaries based on the premise
+that the surface area of a body of water most directly represents the
+value of the water body in terms of a fisheries resource, recreational
+
+482
+
+

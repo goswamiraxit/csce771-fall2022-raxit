@@ -1,0 +1,50 @@
+                      In determining limits for an Individual Storm Water Permit, a distinction
+                      is made between conventional pollutants and priority toxic pollutants (i.e.,
+                      metals, organic chemicals, etc.). For oxygen demanding pollutants the
+                      Storm Water Section, after making preliminary determinations for wet
+                      weather flows, will request a wasteload allocation determination from the
+                      Surface Water Division to establish limits for oxygen demanding
+                      pollutants. For toxics, including metals and organic chemicals, MDEQ
+                      will calculate limits at wet weather flows in two steps as follows:
+
+                      (1)    Determine stream and facility storm water flow rates:
+
+                             (i)       for streams with a gaging station, determine the site 7Q2
+                                       stream flow by use of the following equation:
+                                                                 SWA
+                                   Q = Site7Q2 = Gage7Q2 *
+                                                                 GWA
+Where:
+SWA = Site Watershed Area
+GWA = Gage Watershed Area
+
+
+                             (ii)      for small watersheds without a gaging station, measure the
+                                       watershed area using GIS computer software applications.
+                                       An appropriate runoff coefficient, C, for the entire
+                                       watershed region is used. The average storm event
+                                       intensity, I, is used. The stream flow rate is calculated as
+                                       follows:
+
+                                          QW S = C * I * AW S
+
+
+
+Where:
+Qws    = flow from the watershed in cfs
+Aws    = Area in acres
+I      = average storm event intensity in inches per hour
+C      = appropriate runoff coefficient
+WS     = watershed
+
+
+                             (iii)     Storm water flow rate from the industrial site can be
+                                       estimated by using the procedure set forth in (ii) above.
+                                       The drainage areas (pervious and impervious) are reported
+                                       in the application.
+
+                             QIndustry = I * ((C1 * A1 ) + (C2 * A2 ) + ....)
+
+
+                                                   92
+

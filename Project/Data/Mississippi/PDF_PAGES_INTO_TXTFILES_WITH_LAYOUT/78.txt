@@ -1,0 +1,50 @@
+       (2)      Coordinate with the Department to determine the information required, including
+                accepted methods of data collection and analyses, and quality control/quality
+                assurance requirements.
+
+       (3)      Use this information to help develop a Quality Assurance Project Plan (QAPP), or
+                its equivalent. The QAPP must be approved in writing by the Department prior to
+                beginning work.
+
+       (4)      Failure to comply with the QAPP may result in the Department’s rejection of
+                some or all of the data.
+
+Source: Miss. Code Ann. §§ 49-2-1, et seq. and 49-17-1, et seq.
+
+Rule 1.2.4 Waters Difficult To Model.
+
+A.     Losing flow streams.
+
+Many losing flow streams can and should be modeled to determine effluent limitations. Such
+models are only applicable to the point of zero flow.
+
+B.     Lakes.
+
+       (1)      Computerized and/or ecological type models may be used, if appropriate and
+                available.
+
+       (2)      For existing discharges, current effluent limits may be appropriate, if ambient
+                water quality data indicate water quality standards are met and no nuisance
+                conditions associated with the discharge exist.
+
+       (3)      Nutrient budget models may be used to determine if nutrient reductions are
+                needed. Nutrient contribution and abatement from both point and nonpoint
+                sources shall be considered.
+
+       (4)      Discharges to embayments and coves shall be evaluated on a case-by-case basis.
+                However, effluent limitations more stringent than TBEL may be required.
+
+       (5)      Diffuser outfalls for discharges to the main body of a lake may be required when
+                needed to eliminate localized water quality impacts.
+
+       (6)      Permit limitations for toxicants shall be determined based upon State, and/or EPA
+                recognized, procedures and best professional judgment in accordance with
+                applicable law.
+
+C.     Natural Wetlands
+
+
+
+
+                                               78
+

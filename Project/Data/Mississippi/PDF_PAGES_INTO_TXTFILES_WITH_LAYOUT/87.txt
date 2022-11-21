@@ -1,0 +1,52 @@
+            (5)     Develop acute, chronic, and human health tables listing parameters, Xw, Xwa, Xta,
+                    and appropriate criteria.
+                                              (Q * X r ) + (Qw * X w )
+                                         Xt = r
+                                                    Qr + Qw
+Where: IWC = Instream Wastewater Concentration (where facility water supply is not
+        receiving water)
+Qw      = maximum 30-day average wastewater flow, if available
+Qr      = receiving stream flow
+Xr      = receiving stream concentration
+Xw      = historical effluent data
+Xwa     = permit limits from previous permit or from effluent guidelines
+Xta     = the calculated instream concentration based on existing permit limits or the calculated
+limit based on current effluent guidelines
+Xt      = the calculated instream concentration based on historical effluent data from application
+
+If IWC is < one percent, do not develop the chronic table.
+
+If Qr = 0 then Xt = Xw * IWC/100
+
+NOTE:               To calculate Xta substitute Xwa for Xw Xwa = Permit Limit
+
+Where:              Number of samples is >12 & 7Q10 is >0 then;
+
+            TABLE                      Xw 5, 6                         Qr                     Xr7
+    Acute                       Maximum                         7Q10                Instream Background
+                                Concentration                                       Concentration
+    Chronic                     Long Term Average               7Q10                Instream Background
+                                Concentration                                       Concentration
+    Human Health                Long Term Average               Mean Annual         Instream Background
+                                Concentration                                       Concentration
+
+The appropriate criteria to use in each table are as follows:
+  IWC                   Acute                              Chronic                           Human Health
+ >1%     Compare Xt and Xta to Acute          Compare Xt and Xta to Chronic                  TSD
+         Water Quality Criterion Value Water Quality Criterion Value
+ <1%     Same as above                        Do Not Compare                                 Same as above
+
+
+5
+    from 2C application and/or other appropriate data sources
+
+6
+  if number of samples is <12 then Xw = (appropriate concentration * 10). The permittee may request utilization of
+alternative methods for determining reasonable potential set forth in the Technical Support Document for Water
+Quality-Based Toxics Control (EPA/505/2-90-001) or its amendments (TSD), subject to prior Permit Board review
+and approval of the method's implementation.
+7
+    if no instream background concentration exists Xr = 0
+
+                                                            87
+

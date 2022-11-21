@@ -1,0 +1,55 @@
+month grace period for implementation of tests procedures described in
+the most recent edition of the methods manuals. During this permit,
+MDEQ will accept test results derived using either procedure, provided
+the tests are conducted properly. The Permit Board may also require
+appropriate tests on a plant species, if it deems necessary to protect human
+health, welfare, or the environment.
+(c)
+
+C.
+
+The Permit Board may require WET testing as a condition of a permit
+application, as a condition of an NPDES permit, or as a condition of a
+regulatory order. In the case of a permit modification, WET testing may
+be required after the implementation of the modification. In addition, a
+modified application may be required for evaluation of toxicity.
+
+Application/Determination of Alternative Chemical Specific Limitations
+(1)
+
+The Permit Board shall issue NPDES permits with limits based on total
+recoverable metals, when appropriate, as specified in 40 CFR 122.45, which is
+incorporated herein and adopted by reference.
+
+(2)
+
+Alternative Chemical specific limitations for permits shall be calculated in
+accordance with the methods set forth below.
+(a)
+
+The first method is the establishment of a site specific Biological
+Translator that relates the existing water quality standard to a specific
+permit limit using the water effects ratio (WER) procedure described in
+Interim Guidance on Determination and Use of Water Effects Ratios for
+Metals February 1994 EPA No. 823-B-94-001, Streamlined Water-Effect
+Ratio Procedure for Discharge of Copper March 2001 EPA No. 822-R-01005 or the most recent edition.
+
+(b)
+
+The second method, applicable to metals, is the development of a
+Chemical Translator using site specific data to determine the dissolved
+fraction of the permitted metals. The water quality criterion is then
+divided by the dissolved fraction to provide a value to be used in the
+WLA. Two methods are available to the permittee for calculating the
+dissolved fraction.
+(1)
+
+The dissolved fraction may be calculated from site specific Total
+Suspended Solids (TSS) data and partitioning coefficients listed in
+the Technical Guidance Manual for Performing Wasteload
+Allocations. Book II: Streams and Rivers. Chapter 3 (EPA-440/484-022) which is referenced in the bibliography (Exhibit F to this
+Chapter).
+
+83
+
+

@@ -1,0 +1,52 @@
+the cost of a change order to include the piping would be an allowable cost,
+because:
+i.
+
+the piping would have been included in the original bid,
+
+ii.
+
+no additional construction or rework was required (beyond what would
+have been required if the work had originally been included),
+and
+
+iii.
+
+there was no cost impact on other portions of the project (since
+construction work had not begun).
+
+If this omission had been realized after substantial construction work had been
+completed, and therefore required rework, delay, or additional work beyond that
+which would have been required by defect free drawings, the cost of the piping
+would still have been allowable, but the additional cost of rework or delay would
+have been unallowable.
+The additional cost is measured as the difference between the cost which would
+have been included in the bid based on defect free drawings and the actual cost of
+the change order. For example, if a concrete tank had been constructed and was
+later found to be at an incorrect elevation due to an error in the design drawings
+and if it was necessary to demolish the tank and reconstruct it at the correct
+elevation, the entire change order would be unallowable, except for differences in
+excavation costs. If additional excavation was required to enable the tank to be
+constructed at the correct elevation (i.e., the incorrect elevation was too high), the
+cost of the additional excavation would be allowable. However, if too much
+excavation had been undertaken and fill was required to enable the tank to be
+constructed at the correct elevation (i.e., the incorrect elevation was too low), both
+the entire change order and the cost of the unnecessary excavation would be
+unallowable.
+Regardless of the allowability or unallowability of construction costs to correct
+errors and omissions, in no case are additional engineering, legal, inspection, or
+other costs allowable, except for the cost of inspecting allowable construction
+work, to the extent that such inspection costs would have been incurred to inspect
+the same construction if such construction had originally been included in defectfree drawings.
+(b)
+E.
+
+Equitable adjustments for differing site conditions.
+
+Professional Services
+The term professional services refers to engineering, legal, administrative, and similar
+services. Should any costs for such professional services be incurred prior to loan award,
+such costs will be allowable provided the loan recipient has requested and obtained
+300
+
+

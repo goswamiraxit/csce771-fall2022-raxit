@@ -1,0 +1,69 @@
+(1)
+Bacteria: Culturable e.coli should not exceed a geometric mean of 126 per 100 ml
+over a 30-day period, nor should the samples examined during a 30-day period exceed 410
+per 100 ml more than 10% of the time. There should be a minimum of 5 samples taken over
+a 30-day period with no less than 12 hours between individual samples.
+
+(2)
+
+Chlorides (Cl): There shall be no substances added which will cause the chloride
+content to exceed 230 mg/l in freshwater streams.
+
+(3)
+
+Specific Conductance: There shall be no substances added to increase the
+conductivity above 500 micromhos/cm for freshwater streams.
+
+(4)
+
+Dissolved Solids: There shall be no substances added to the waters that will cause
+the dissolved solids to exceed 500 mg/l for freshwater streams.
+
+(5)
+
+Threshold Odor: There shall be no substances added which will cause the
+threshold odor number to exceed 24 (at 60C) as a daily average.
+
+(6)
+
+Radioactive Substances: There shall be no radioactive substances added to the
+waters which will cause the gross beta activity (in the known absence of
+Strontium-90 and alpha emitters) to exceed 1000 picocuries per liter at any time.
+
+(7)
+
+Specific Chemical Constituents: In addition to the provisions in Section II.4. and
+10., the following concentrations (dissolved) shall not be exceeded at any time:
+Constituent
+Barium
+Fluoride
+Lead
+Nitrate (as N)
+
+B.
+
+Concentration (mg/l)
+2.0
+2.0
+0.015
+10.0
+
+SHELLFISH HARVESTING CLASSIFICATION
+Waters in this classification are for propagation and harvesting shellfish for sale or use as a
+food product. These waters shall meet the requirements set forth in the latest edition of the
+National Shellfish Sanitation Program, Manual of Operations, Part I, Sanitation of
+Shellfish Growing Areas, as published by the U. S. Public Health Service. Waters that meet
+the Shellfish Harvesting Area Criteria shall also be suitable for recreational purposes. In
+considering the acceptability of a proposed site for disposal of bacteria latent wastewater in
+or near waters with this classification, the Permit Board shall consider the relative
+proximity of the discharge to shellfish harvesting beds.
+(1)
+
+Bacteria: The median fecal coliform MPN (Most Probable Number) of the water
+shall not exceed 14 per 100 ml, and not more than 10% of the samples shall
+ordinarily exceed an MPN of 43 per 100 ml in those portions or areas most
+probably exposed to fecal contamination during most unfavorable hydrographic
+and pollutive conditions.
+176
+
+

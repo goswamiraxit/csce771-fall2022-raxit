@@ -1,0 +1,37 @@
+                                         TABLE 2 Notes
+
+a   The CMC = 1/[(f1/CMC1) + (f2/CMC2)] where f1 and f2 are the fractions of total selenium
+    that are treated as selenite and selenate, respectively, and CMC1 and CMC2 are 185.9 µg/l
+    and 12.83 µg/l. The value in the table is calculated assuming a worst case scenario in
+    which all selenium is present as selenate.
+b   Hardness dependent parameter. Criteria are indicated at hardness of 50 mg/l as CaCO3.
+    Equations for criteria calculation of hardness dependent parameters can be found in Quality
+    Criteria for Water. The equation is applicable for instream hardness ranges from 25 mg/l
+    to 400 mg/l. If instream hardness is less than 25 mg/l, then a hardness value of 25 mg/l
+    should be used to calculate the criteria. If instream hardness is greater than 400 mg/l, then
+    a hardness of 400 mg/l should be used to calculate the criteria.
+c   Criteria for pentachlorophenol are based on a pH dependent equation as found in Quality
+    Criteria for Water. Values listed are for a pH of 7.0 s.u.
+d   Site specific criteria for Mississippi Sound.
+e   Parameter subject to water effects ratio equations where:
+         CMC = WER * Acute
+         CCC = WER * Chronic
+f   Ammonia criteria are dependent on pH, temperature, and/or salinity. See Section II.10.C.
+
+g   Expressed as µg free cyanide (as CN)/L.
+
+h   Refers to the inorganic form only.
+
+i   Applies to the sum of  and  isomers.
+
+j   Chemical Abstracts Service (CAS) registry numbers, which provide a unique identification
+    for each chemical.
+
+k   This criterion applies to total PCBs (e.g., the sum of all congener or all isomer or homolog
+    or Aroclor analyses).
+
+
+
+
+                                              172
+

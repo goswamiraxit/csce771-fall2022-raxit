@@ -1,0 +1,203 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Big Black River
+
+Markham Creek
+
+108011
+
+Warren
+
+Aquatic Life
+Use Support
+
+Biological
+Impairmen
+
+From Headwaters To The Mouth Of Big Black River
+
+Big Black River
+
+Parker Creek
+
+103914
+
+Attala,
+Madison
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Seneasha Creek
+
+Big Black River
+
+Pepper/ Rucker
+Creek
+
+104511
+
+Yazoo
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Canton from headwaters to mouth at Beaver
+Run
+
+Big Black River
+
+Persimmon Creek
+
+106311
+
+Madison
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to confluence with Big Black River
+
+Big Black River
+
+Porter Creek
+
+107611
+
+Hinds
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Lynchburg from headwaters to mouth at Big
+Black River
+
+Big Black River
+
+Sand Creek
+
+101112
+
+Webster
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Calabrell Creek
+
+Big Black River
+
+Silver Creek
+
+108012
+
+Warren
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Big Black River
+
+Big Black River
+
+Spring Creek
+
+100211
+
+Webster
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Sara from headwaters to MWS 1001 boundary
+
+Big Black River
+
+Turkey Creek
+
+108711
+
+Hinds
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Fourteen Mile Creek
+
+Big Black River
+
+Willis Creek
+
+109511
+
+Warren
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Galloway from headwaters to mouth at Big
+Black River
+
+Big Black River
+
+Wolf Creek
+
+101312
+
+Montgomery,
+Webster
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Shelbyton from headwaters to confluence with
+Patts Branch
+
+24
+
+

@@ -1,0 +1,1454 @@
+    ARS 49-241 Permit required to discharge (Arizona Revised
+                   Statutes (2021 Edition))
+
+
+§ 49-241. Permit required to discharge
+
+A. Unless otherwise provided by this article, any person who discharges or
+who owns or operates a facility that discharges shall obtain an aquifer
+protection permit from the director.
+
+B. Unless exempted under section 49-250, or unless the director determines
+that the facility will be designed, constructed and operated so that there will
+be no migration of pollutants directly to the aquifer or to the vadose zone,
+the following are considered to be discharging facilities and shall be
+operated pursuant to either an individual permit or a general permit,
+including agricultural general permits, under this article:
+
+1. Surface impoundments, including holding, storage settling, treatment or
+disposal pits, ponds and lagoons.
+
+2. Solid waste disposal facilities except for mining overburden and wall rock
+that has not been and will not be subject to mine leaching operations.
+
+3. Injection wells.
+
+4. Land treatment facilities.
+
+5. Facilities that add a pollutant to a salt dome formation, salt bed
+formation, dry well or underground cave or mine.
+
+6. Mine tailings piles and ponds.
+
+7. Mine leaching operations.
+
+8. Underground water storage facilities.
+
+9. Sewage treatment facilities, including on-site wastewater treatment
+facilities.
+
+10. Wetlands designed and constructed to treat municipal and domestic
+wastewater for underground storage.
+
+C. The director shall provide public notice and an opportunity for public
+comment on any request for a determination from the director under
+subsection B of this section that there will be no migration of pollutants
+from a facility. A public hearing may be held at the discretion of the director
+if sufficient public comment warrants a hearing. The director may inspect
+and may require reasonable conditions and appropriate monitoring and
+reporting requirements for a facility managing pollutants that are
+determined not to migrate under subsection B of this section. The director
+    ARS 49-241 Permit required to discharge (Arizona Revised
+                   Statutes (2021 Edition))
+
+
+may identify types of facilities, available technologies and technical criteria
+for facilities that will qualify for a determination. The director's
+determination may be revoked on evidence that pollutants have migrated
+from the facility. The director may impose a review fee for a determination
+under subsection B of this section. Any issuance, denial or revocation of a
+determination may be appealed pursuant to section 49-323.
+
+D. The director shall annually make the fee schedule for aquifer protection
+permit applications available to the public on request and on the
+department's website, and a list of the names and locations of the facilities
+that have filed applications for aquifer protection permits, with a description
+of the status of each application, is available to the public on request.
+
+E. The director shall prescribe the procedures for aquifer protection permit
+applications and fee collection under this section. The director shall deposit,
+pursuant to sections 35-146 and 35-147, all monies collected under this
+section in the water quality fee fund established by section 49-210 and may
+authorize expenditures from the fund, subject to legislative appropriation, to
+pay reasonable and necessary costs of processing and issuing permits and
+administering the registration program.
+
+(Amended by L. 2018, ch. 192,s. 4, eff. 8/3/2018.)
+     ARS 49-241.01 Groundwater protection permit facilities;
+  schedule; definition (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-241.01. Groundwater protection permit facilities; schedule;
+definition
+
+A. The director shall complete the issuance or denial of aquifer protection
+permits or clean closure approval for all groundwater protection permit
+facilities on the following schedule:
+
+1. By January 1, 2004, for all groundwater protection permits for nonmining
+facilities.
+
+2. By January 1, 2006, for all groundwater protection permits for mining
+facilities.
+
+B. The failure by the director to issue or deny an aquifer protection permit
+for a groundwater protection permit facility within the time prescribed by
+this section does not excuse a person from continuing to comply with all
+statutory and regulatory requirements applicable to that person's facility.
+
+C. For purposes of this section, "groundwater protection permit facility"
+means either of the following:
+
+1. A facility for which a groundwater quality protection permit was issued
+pursuant to the Arizona administrative code and for which an aquifer
+protection permit has never been issued.
+
+2. A facility for which a notice of disposal was filed pursuant to the Arizona
+administrative code and for which an aquifer protection permit has never
+been issued.
+    ARS 49-241.02 Payment for aquifer protection permit fees;
+      definitions (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-241.02. Payment for aquifer protection permit fees;
+definitions
+
+A. Only for a one-time rule making after July 29, 2010, the director shall
+establish by rule fees for aquifer protection permits, including maximum
+fees and fees for individual or area-wide permits, complex and standard
+modifications to permits and clean closure of a nonpermitted facility. After
+the one-time rule making, the director shall not increase those fees by rule
+without specific statutory authority for the increase. Monies collected
+pursuant to this section shall be deposited, pursuant to sections 35-146 and
+35-147, in the water quality fee fund established by section 49-210.
+
+B. Each permit action application submitted by the applicant is subject to a
+maximum fee.
+
+C. Notwithstanding any other provision in this section, an applicant may
+request that the department waive the applicable maximum fee for
+processing an application for a permit action. On requesting the waiver, the
+applicant agrees to pay the total direct costs incurred by the department in
+processing the application and the department may process the application
+for a permit action.
+
+D. If the department contracts with a consultant under section 49-203, an
+applicant may request that the department expedite the application review
+by requesting that the department use the services of the consultant and
+agreeing to pay to the department the costs of the consultant's services
+regardless of the other provisions of this section.
+
+E. The department shall review the revenues derived from and expenses
+incurred for processing permit action applications through June 30, 2014 to
+determine the adequacy of the maximum fees, and by August 31, 2014, the
+department shall issue a report to the legislature on its findings.
+
+F. For the purposes of this section:
+
+1. "Complex modification" means, for purposes of the mining sector, any of
+the following:
+
+(a) Any new tailing impoundment, leach pad or stockpile, or process
+solution impoundment or conveyance required to have an individual permit
+under this article, unless this new facility is within an approved passive
+containment capture zone under section 49-243, subsection G, paragraph 1.
+
+(b) The expansion of the footprint of any tailing impoundment, leach pad or
+stockpile, or process solution impoundment or conveyance permitted under
+this article if the expanded facility is not located within a passive
+    ARS 49-241.02 Payment for aquifer protection permit fees;
+      definitions (Arizona Revised Statutes (2021 Edition))
+
+
+containment capture zone under section 49-243, subsection G, paragraph 1,
+and the expansion either:
+
+(i) Requires expansion of the pollutant management area and a new or
+relocated point of compliance.
+
+(ii) Extends over a geologic unit of higher hydraulic conductivity than the
+original facility, unless the original facility is lined and the same liner is
+extended to cover the entire expansion area.
+
+(c) A new or expanded waste rock pile is not considered to be a discharging
+facility under section 49-241, subsection B and may be categorized as a
+complex modification for purposes of this section only if the department
+determines all of the following:
+
+(i) The new or expanded waste rock pile otherwise qualifies as a discharging
+facility and is not exempted under section 49-250.
+
+(ii) The new or expanded waste rock pile is located outside of a passive
+containment capture zone under section 49-243, subsection G, paragraph 1.
+
+(iii) The new or expanded waste rock pile either requires expansion of the
+pollutant management area and a new or relocated point of compliance or it
+extends over a geologic unit of higher hydraulic conductivity than the
+original facility.
+
+2. "Maximum fee" means the maximum amount the director establishes by
+rule for services for a permit action.
+
+3. "Permit action" means:
+
+(a) Issuance of an individual or area-wide aquifer protection permit to
+operate or to close.
+
+(b) Issuance of a complex modification of an individual or area-wide aquifer
+protection permit.
+
+(c) Issuance of a clean closure approval.
+
+(d) Issuance of a standard modification of an individual or area-wide aquifer
+protection permit.
+
+(e) Denial of any application.
+
+(f) Processing any permit action application request that the applicant
+withdraws.
+    ARS 49-241.02 Payment for aquifer protection permit fees;
+      definitions (Arizona Revised Statutes (2021 Edition))
+
+
+G. The department shall adopt a rule to define "complex modification" for
+other nonmining aquifer protection permit sectors.
+  ARS 49-242 Procedural requirements for individual permits;
+ annual registration of permittees; fee (Arizona Revised Statutes
+                          (2021 Edition))
+
+§ 49-242. Procedural requirements for individual permits;
+annual registration of permittees; fee
+
+A. The director shall prescribe by rule requirements for issuing, denying,
+suspending or modifying individual permits, including requirements for
+submitting notices, permit applications and any additional information
+necessary to determine whether an individual permit should be issued, and
+shall prescribe conditions and requirements for individual permits.
+
+B. Each owner of an injection well, a land treatment facility, a dry well, an
+on-site wastewater treatment facility with a capacity of more than three
+thousand gallons per day, a recharge facility or a facility that discharges to
+navigable waters to whom an individual or area-wide permit is issued shall
+register the permit with the director each year and pay an annual
+registration fee for each permit based on the total daily discharge of
+pollutants pursuant to subsection E of this section.
+
+C. Each owner of a surface impoundment, a facility that adds a pollutant to a
+salt dome formation, salt bed formation, underground cave or mine, a mine
+tailings pile or pond, a mine leaching operation, a sewage or sludge pond or
+a wastewater treatment facility to whom an individual or area-wide permit is
+issued shall register the permit with the director each year and pay an
+annual registration fee for each permit based on the total daily influent of
+pollutants pursuant to subsection E of this section.
+
+D. Pending the issuance of individual or area-wide aquifer protection
+permits, each owner of a facility that is prescribed in subsection B or C of
+this section that is operating on September 27, 1990 pursuant to the filing of
+a notice of disposal or a groundwater quality protection permit issued under
+title 36 shall register the notice of disposal or the permit with the director
+each year and shall pay an annual registration fee for each notice of disposal
+or permit based on the total daily influent or discharge of pollutants
+pursuant to subsection E of this section.
+
+E. Only for a one-time rule making after the effective date of this
+amendment to this section, the director shall establish by rule an annual
+registration fee for facilities prescribed by subsections B, C and D of this
+section. The fee shall be measured in part by the amount of discharge or
+influent per day from the facility. After the one-time rule making, the
+director shall not increase those fees by rule without specific statutory
+authority for the increase.
+
+F. For a site with more than one permit subject to the requirements of this
+section, the owner or operator of the facility at that site shall pay the annual
+registration fee prescribed pursuant to subsection E of this section based on
+  ARS 49-242 Procedural requirements for individual permits;
+ annual registration of permittees; fee (Arizona Revised Statutes
+                          (2021 Edition))
+
+the permit that covers the greatest gallons of discharge or influent per day
+plus one-half of the annual registration fee for gallons of discharge or
+influent for each additional permit.
+
+G. The director shall prescribe the procedures to register the notice of
+disposal or permit and collect the fee under this section. The director shall
+deposit, pursuant to sections 35-146 and 35-147, all monies collected under
+this section in the water quality fee fund established by section 49-210 and
+may authorize expenditures from the fund to pay the reasonable and
+necessary costs of administering the registration program.
+    ARS 49-243 Information and criteria for issuing individual
+   permit; definition (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-243. Information and criteria for issuing individual permit;
+definition
+
+A. The director shall consider, and the applicant for an individual permit
+may be required to furnish with the application, the following information:
+
+1. The design of the discharge facility. When formal as-built submittals are
+unavailable, the applicant shall provide sufficient documentation to allow
+evaluation of those elements of the facility affecting discharge pursuant to
+the demonstration required in subsection B, paragraph 1 of this section.
+
+2. A description of how the facility will be operated.
+
+3. Existing and proposed pollutant control measures.
+
+4. A hydrogeologic study defining and characterizing the discharge impact
+area, including the vadose zone.
+
+5. The use of water from aquifers in the discharge impact area.
+
+6. The existing quality of the water in the aquifers in the discharge impact
+area.
+
+7. The characteristics of the pollutants discharged by the facility.
+
+8. Closure strategy.
+
+9. Any other relevant federal or state permits issued to the applicant.
+
+10. Any other relevant information the director may require.
+
+B. The director shall issue a permit to a person for a facility other than water
+storage at a storage facility pursuant to title 45, chapter 3.1 if the person
+demonstrates that either paragraphs 1 and 2 or paragraphs 1 and 3 of this
+subsection will be met:
+
+1. That the facility will be so designed, constructed and operated as to ensure
+the greatest degree of discharge reduction achievable through application of
+the best available demonstrated control technology, processes, operating
+methods or other alternatives, including, where practicable, a technology
+permitting no discharge of pollutants. In determining best available
+demonstrated control technology, processes, operating methods or other
+alternatives, the director shall take into account any treatment process
+contributing to the discharge, site specific hydrologic and geologic
+characteristics and other environmental factors, the opportunity for water
+conservation or augmentation and economic impacts of the use of
+    ARS 49-243 Information and criteria for issuing individual
+   permit; definition (Arizona Revised Statutes (2021 Edition))
+
+
+alternative technologies, processes or operating methods on an industry-
+wide basis. A discharge reduction to an aquifer achievable solely by means of
+site specific characteristics does not, in itself, constitute compliance with
+this paragraph. The requirements of this paragraph for wetlands designed
+and constructed to treat municipal and domestic wastewater for
+underground storage pursuant to section 49-241, subsection B may be met
+by including seepage through the bottom of the facility if it is demonstrated
+that site characteristics can act to achieve performance levels established as
+the best available demonstrated control technology by the director. In
+addition, the director shall consider the following factors for existing
+facilities:
+
+(a) Toxicity, concentrations and quantities of discharge likely to reach an
+aquifer from various types of control technologies.
+
+(b) The total costs of the application of the technology in relation to the
+discharge reduction to be achieved from such application.
+
+(c) The age of equipment and facilities involved.
+
+(d) The industrial and control process employed.
+
+(e) The engineering aspects of the application of various types of control
+techniques.
+
+(f) Process changes.
+
+(g) Non-water quality environmental impacts.
+
+(h) The extent to which water available for beneficial uses will be conserved
+by a particular type of control technology.
+
+2. That pollutants discharged will in no event cause or contribute to a
+violation of aquifer water quality standards at the applicable point of
+compliance for the facility.
+
+3. That no pollutants discharged will further degrade at the applicable point
+of compliance the quality of any aquifer that at the time of the issuance of
+the permit violates the aquifer quality standard for that pollutant.
+
+C. An applicant shall satisfy the requirements of subsection B, paragraph 1 of
+this section either by making a demonstration that the facility will meet the
+criteria of that paragraph or by agreeing to utilize the appropriate
+presumptive controls adopted by the director pursuant to section 49-243.01,
+subsection A.
+    ARS 49-243 Information and criteria for issuing individual
+   permit; definition (Arizona Revised Statutes (2021 Edition))
+
+
+D. In assessing technology, processes, operating methods and other
+alternatives for the purposes of this section, "practicable" means able to be
+reasonably done from the standpoint of technical practicality and, except for
+pollutants addressed in subsection I of this section, economically achievable
+on an industry-wide basis.
+
+E. The determination of economic impact on an industry-wide basis for
+purposes of subsection B, paragraph 1 of this section shall take into account
+differences in industry sectors, the type and size of the operation and the
+reasonableness of applying controls in an arid or semiarid setting.
+
+F. Control measures designed to further reduce discharge may not be
+required if the director determines that site specific conditions, in
+conjunction with technology, processes, operating methods or other
+alternatives are sufficient to meet the requirements of subsection B,
+paragraph 1 of this section.
+
+G. A discharging facility at an open pit mining operation shall be deemed to
+satisfy the requirements of subsection B, paragraph 1 of this section if the
+director determines that both of the following conditions are satisfied:
+
+1. The mine pit creates a passive containment that is sufficient to capture the
+pollutants discharged and that is hydrologically isolated to the extent that it
+does not allow pollutant migration from the capture zone. For the purposes
+of this paragraph, "passive containment" means natural or engineered
+topographical, geological or hydrological control measures that can operate
+without continuous maintenance. Monitoring and inspections to confirm
+performance of the passive containment do not constitute maintenance.
+
+2. The discharging facility employs additional processes, operating methods
+or other alternatives to minimize discharge.
+
+H. The director shall issue a permit to a person for water storage at a storage
+facility proposed under title 45, chapter 3.1 if the person demonstrates that
+the facility will be so designed, constructed and operated as to ensure that
+the project will not cause or contribute to the violation of any standard
+adopted pursuant to section 49-223 at the applicable point of compliance for
+the facility.
+
+I. With respect to the following pollutants, the permit applicant for a new
+facility must meet the criteria of subsection B, paragraph 1 of this section to
+limit discharges to the maximum extent practicable regardless of cost:
+    ARS 49-243 Information and criteria for issuing individual
+   permit; definition (Arizona Revised Statutes (2021 Edition))
+
+
+1. Any organic substance listed by the secretary of the department of health
+and human services pursuant to 42 United States Code section 241(b)(4), as
+known to be carcinogens or reasonably anticipated to be carcinogens.
+
+2. Any organic substance listed in 40 Code of Federal Regulations section
+261.33(e), regardless of whether the substance is a waste subject to
+regulation under the resource conservation recovery act ( P.L. 94-580; 90
+Stat. 2795).
+
+3. Any organic toxic pollutant that the director lists by rule after determining
+that minute amounts of that pollutant in drinking water will present a
+substantial short-term or long-term human health threat.
+
+J. The director, by rule, may prescribe requirements for issuing a single
+permit applicable to all similar facilities under common ownership and
+located in a contiguous geographic area in lieu of an individual permit for
+each facility.
+
+K. The director shall consider and may prescribe in the permit the following
+terms and conditions as necessary to ensure compliance with this article:
+
+1. Monitoring requirements.
+
+2. Record keeping and reporting requirements.
+
+3. Contingency plan requirements.
+
+4. Discharge limitations.
+
+5. Compliance schedule requirements.
+
+6. Closure requirements and, for a facility that cannot achieve clean closure,
+postclosure monitoring and maintenance requirements.
+
+7. Alert levels that, when exceeded, may require adjustments of permit
+conditions or appropriate actions as are required by the contingency plans.
+
+8. Such other terms and conditions as the director deems necessary to
+ensure compliance with this article.
+
+L. With the consent of the applicant or permittee, the director may include
+in an aquifer protection permit for an existing facility the requirement that
+the applicant or permittee undertake a remedial action, as defined in section
+49-281, to prevent, minimize or mitigate damage to the public health or
+welfare or to the waters of the state resulting from a discharge that occurred
+before August 13, 1986, if the following conditions are met:
+    ARS 49-243 Information and criteria for issuing individual
+   permit; definition (Arizona Revised Statutes (2021 Edition))
+
+
+1. The selection of remedial action, including the level and extent of cleanup,
+was determined according to the criteria in section 49-282.06 and the rules
+adopted pursuant to that section.
+
+2. The pollutant that was discharged constituted a hazardous substance.
+
+M. With the consent of the applicant or permittee, the director may include
+in an aquifer protection permit as a condition the mitigation measures
+authorized under section 49-286 instead of issuing a mitigation order under
+section 49-286.
+
+N. The director may deny a permit for a facility if the director determines
+that the applicant is incapable of fully carrying out the terms and conditions
+of the permit, including any conditions that require monitoring or installing
+and maintaining discharge control measures. The following apply to an
+application for a permit or to an issued permit:
+
+1. The director may require the applicant to furnish information, such as
+past performance, including compliance with or violations of similar laws or
+rules, and technical and financial competence, relevant to its capability to
+comply with the permit terms and conditions.
+
+2. For the purposes of evaluating an applicant's financial competence for
+closure, the director may consider a closure strategy and cost estimate
+rather than a detailed closure plan. Except for a state or federal agency or a
+county, city, town or other local governmental entity, the cost estimate shall
+be based on the cost for the applicant or permittee to hire a third party to
+conduct the closure strategy or plan unless the financial responsibility
+mechanism provided pursuant to this subsection is a self-assurance or a
+guarantee and the director determines that the applicant or permittee is
+technically and financially capable of closing the facility at its own cost and,
+if necessary, of conducting post-closure monitoring and maintenance.
+Except for a state or federal agency or a county, city, town or other local
+governmental entity, the permittee shall update its cost estimate:
+
+(a) For the duration of the permit on a periodic basis as scheduled in the
+permit but not more frequently than once every five years. The cost estimate
+shall be updated to adjust for inflation or as necessary to reflect increased or
+decreased costs resulting from changes to the facility or to the facility
+closure strategy or plan, or to any other relevant conditions related to the
+facility.
+
+(b) For a significant amendment as defined by rule adopted by the director,
+if required to address incremental changes in the cost estimate that result
+from the significant amendment.
+    ARS 49-243 Information and criteria for issuing individual
+   permit; definition (Arizona Revised Statutes (2021 Edition))
+
+
+3. Except for a state or federal agency or a county, city, town or other local
+governmental entity, the applicant or permittee shall demonstrate financial
+responsibility to cover the estimated costs to close the facility and, if
+necessary, to conduct post-closure monitoring and maintenance by
+providing to the director for approval a financial assurance mechanism or
+combination of mechanisms as prescribed in rules adopted by the director
+or in 40 code of federal regulations section 264.143 (f)(1) and (10) as of
+january 1, 2014. An applicant or permittee that demonstrates financial
+responsibility by means of a self-assurance or guarantee shall aggregate the
+estimated closure and post-closure costs for all aquifer protection permits in
+this state for which the applicant, permittee or guarantor has provided a
+self-assurance or a guarantee in order to determine whether the applicant,
+permittee or guarantor meets the applicable financial test.
+
+4. The permittee shall maintain its demonstration of financial responsibility
+prescribed in this subsection for the duration of the individual permit.
+Except for a state or federal agency or a county, city, town or other local
+governmental entity, the permittee shall periodically demonstrate financial
+responsibility and report to the director that the financial assurance
+mechanism is being maintained as scheduled in the permit and as
+prescribed in paragraph 3 of this subsection but not more frequently than
+once every two years. The permit's applicable reporting schedule shall be
+based on the type of financial assurance mechanism that is selected
+pursuant to this subsection.
+
+5. A demonstration of financial responsibility made for a facility as
+prescribed by section 49-770 shall suffice, in whole or in part, for any
+demonstration of financial responsibility prescribed by this section.
+
+6. A demonstration of financial assurance or competence required under
+this section or section 49-770 for a facility shall not be required before
+completion of construction but shall be required before the department
+issues approval to operate. Financial assurance for a facility is not required
+pursuant to this section if substantially similar financial assurance for that
+facility is required and has been provided pursuant to other federal, state or
+local laws, and evidence of that financial assurance is filed with the director.
+
+7. Financial information required to be supplied under this subsection is
+confidential.
+
+O. The director shall require an applicant for an individual permit to submit
+evidence that the discharging facility complies with applicable municipal or
+county zoning ordinances and regulations. The director shall not issue the
+permit unless it appears from the evidence submitted by the applicant that
+the facility complies with the applicable zoning ordinances and regulations.
+    ARS 49-243 Information and criteria for issuing individual
+   permit; definition (Arizona Revised Statutes (2021 Edition))
+
+
+P. The director may issue a single area-wide permit applicable to facilities
+under common ownership and located in a contiguous geographic area in
+lieu of an individual permit for each facility. In issuing an area-wide permit,
+the demonstration required under subsection B, paragraphs 2 and 3 of this
+section may be considered collectively for all facilities included in the
+permit. The director may evaluate discharge reduction collectively for
+existing facilities in the pollutant management area by considering any one
+or all of the factors set forth in subsection B, paragraph 1 of this section. The
+director may consolidate those permit conditions listed in subsection K of
+this section that have general applicability to the facilities included in the
+area-wide permit. An area-wide permit shall specify all of the following:
+
+1. A description of the pollutant management area and point or points of
+compliance.
+
+2. Those facilities that have been evaluated individually for meeting the
+criteria in subsection B, paragraph 1 of this section and that are included in
+the area-wide permit.
+
+3. For multiple facilities within the pollutant management area that are
+substantially similar in nature and, considered alone, would have a small
+discharge impact area compared to other facilities in the area, narrative
+permit conditions may be used to define the best available demonstrated
+control technology, processes, operating methods or other alternatives
+consistent with subsection B, paragraph 1 of this section replacing the need
+for an individual technical review.
+
+4. A compliance schedule for submittal and evaluation of information
+regarding design and discharge for existing facilities within the pollutant
+management area that, because of the small size, quantity or quality of
+discharge, or physical location with regard to the point or points of
+compliance, the director has determined that review for the purposes of
+subsection B, paragraph 1 of this section shall be conducted in the future. In
+determining the requirements and length of a compliance schedule for an
+area-wide permit, the director shall consider the character and impact of the
+discharge, the nature of the activities necessary to prepare appropriate
+technical submittals, the number of persons potentially affected by the
+discharge, the current state of treatment technology, and the age of the
+facility.
+
+Q. The director may expedite processing of an aquifer protection permit
+application by a permit applicant who proposes a new facility to discharge
+liquids that do not contain any pollutant in a concentration that exceeds a
+numeric aquifer water quality standard. The director shall not require the
+applicant to complete a hydrogeologic study in order to obtain the permit
+    ARS 49-243 Information and criteria for issuing individual
+   permit; definition (Arizona Revised Statutes (2021 Edition))
+
+
+unless the permit applicant is relying on site specific characteristics to meet
+the requirements of subsection B, paragraph 1 of this section or unless the
+study is necessary to demonstrate compliance with narrative aquifer water
+quality standards. Applications made pursuant to this subsection shall have
+precedence and be considered by the department before all other aquifer
+protection permit applications.
+
+(Amended by L. 2014, ch. 115,s. 2, eff. 7/24/2014.)
+ARS 49-243.01 Presumptive best available demonstrated control
+     technology (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-243.01. Presumptive best available demonstrated control
+technology
+
+A. The director may establish, by rule, presumptive best available
+demonstrated control technology, processes, operating methods or other
+alternatives, consistent with section 49-243, subsection B, paragraph 1, for a
+class of facilities, if the director determines that the facilities in that class are
+substantially similar in nature. Once presumptive controls are established by
+rule for a particular class of facilities the director shall review those rules
+every five years and, if appropriate, revise the rules for that class of facilities.
+
+B. An owner or operator of a facility who applies for an individual permit
+under section 49-243 shall be deemed to have demonstrated that the design
+meets the requirements of section 49-243, subsection B, paragraph 1, if the
+application incorporates the presumptive controls for that class of facilities
+established pursuant to subsection A of this section.
+
+C. A person or group of persons who own or operate facilities that are
+required to obtain a permit pursuant to this article may petition the director
+to establish by rule presumptive best available demonstrated control
+technology, processes, operating methods or other alternatives for that class
+of facilities. The director may grant the petition if he determines that the
+following conditions have been met:
+
+1. The petition identifies the class of facilities for which rule adoption is
+requested.
+
+2. The petition includes a description of the presumptive controls for the
+requested class of facilities.
+
+3. The petition complies with section 41-1033.
+
+4. The class of facilities described in the petition satisfies subsection A of this
+section.
+
+D. The owner or operator of a facility with a permit shall not be required to
+obtain a new or modified permit because of rules adopted or revised
+pursuant to subsection A of this section. Any complete application that is
+filed before the effective date of any rules adopted or revised pursuant to this
+section shall be processed by the department without requiring compliance
+with the rules adopted or revised pursuant to subsection A of this section.
+ARS 49-244 Point of compliance (Arizona Revised Statutes (2021
+                          Edition))
+
+
+§ 49-244. Point of compliance
+
+The director shall designate a point or points of compliance for each facility
+receiving a permit under this article. For the purposes of this chapter, the
+point of compliance is the point at which compliance must be determined
+for either the aquifer water quality standards or, if an aquifer water quality
+standard is exceeded at the time the aquifer protection permit is issued, the
+requirement that there be no further degradation of the aquifer as provided
+in section 49-243, subsection B, paragraph 3. The point of compliance shall
+be a vertical plane downgradient of the facility that extends through the
+uppermost aquifers underlying that facility. For an aquifer that has no
+existing or reasonably foreseeable drinking water beneficial use, the director
+may establish monitoring for compliance in another aquifer in lieu of
+monitoring in the uppermost aquifer. The point of compliance shall be
+determined as follows:
+
+1. Except as provided in paragraph 2 of this section , for a pollutant that is a
+hazardous substance the point of compliance is the limit of the pollutant
+management area. The pollutant management area is the limit projected in
+the horizontal plane of the area on which pollutants are or will be placed.
+The pollutant management area includes horizontal space taken up by any
+liner, dike or other barrier designed to contain pollutants in the facility. If
+the facility contains more than one discharging activity, the pollutant
+management area is described by an imaginary line circumscribing the
+several discharging activities.
+
+2. A point of compliance for hazardous substances other than that identified
+in paragraph 1 of this section may be approved by the director if the facility
+owner or operator can demonstrate either:
+
+(a) That it is technically impracticable or inappropriate considering the
+likely fate or transport of a pollutant in an aquifer to monitor at the
+boundary specified in paragraph 1 of this section.
+
+(b) The alternative point of compliance will allow installation and operation
+of the monitoring facilities that are substantially less costly. Such a request
+by a facility owner or operator under this paragraph must be supported by
+an analysis of the volume and characteristics of the pollutants that may be
+discharged and the ability of the vadose zone to attenuate the particular
+pollutants that may be discharged, including such factors as climate,
+hydrology, geology and soil chemistry. In no event shall an alternative point
+of compliance be further from the boundary specified in paragraph 1 of this
+section than is necessary for purposes of this paragraph, subdivisions (a)
+and (b) of this paragraph , and in no event shall it be so located as to result
+in an increased threat to an existing or reasonably foreseeable drinking
+ARS 49-244 Point of compliance (Arizona Revised Statutes (2021
+                          Edition))
+
+
+water source. In addition an alternate compliance point for a hazardous
+substance pursuant to this subdivision shall never be further downgradient
+than any of the following:
+
+(i) The property boundary.
+
+(ii) Any point of an existing or reasonably foreseeable future drinking water
+source.
+
+(iii) Seven hundred fifty feet from the edge of the pollutant management
+area.
+
+3. For pollutants that are not hazardous substances the director, in
+identifying a point of compliance, shall take into account the volume and
+characteristics of the pollutants, the practical difficulties associated with
+implementation of applicable water pollution control requirements, whether
+the facility is a new facility or an existing facility, water conservation and
+augmentation and the site-specific characteristics of the facility, including,
+but not limited to, climate, hydrology, geology, soil chemistry and pollutant
+levels in the aquifer. The point of compliance must be so located as to ensure
+protection of all current and reasonably foreseeable future uses of the
+aquifer.
+
+(Amended by L. 2014, ch. 115,s. 3, eff. 7/24/2014.)
+ ARS 49-245 Criteria for issuing general permit (Arizona Revised
+                    Statutes (2021 Edition))
+
+
+§ 49-245. Criteria for issuing general permit
+
+A. The director may issue by rule a general permit for a defined class of
+facilities if all of the following apply:
+
+1. The cost of issuing individual permits cannot be justified by any
+environmental or public health benefit that may be gained from issuing
+individual permits.
+
+2. The facilities, activities or practices in the class are substantially similar in
+nature.
+
+3. The director is satisfied that appropriate conditions under a general
+permit for operating the facilities or conducting the activity will meet the
+applicable requirements in section 49-243 or, as to facilities for which the
+director has established best management practices, section 49-246.
+
+B. In addition to other applicable enforcement actions, if a person violates
+the conditions of a general permit, the director may revoke the general
+permit for that person and require that the person obtain an individual
+permit. A general permit may be revoked, modified or suspended at any
+time by the director if necessary to comply with this chapter.
+
+C. Rules establishing a general permit shall include terms and conditions to
+ensure that all discharges and facilities will meet the requirements of this
+chapter and shall provide for the collective or individual revocation of the
+general permit if necessary to ensure compliance with this chapter.
+
+D. Rules adopted pursuant to subsection A of this section may require a
+person who owns or operates a facility seeking coverage under a general
+permit to notify the director of the person's intent to operate the facility
+pursuant to the general permit and pay the applicable fee required pursuant
+to section 49-203.
+   ARS 49-245.01 Storm water general permit (Arizona Revised
+                    Statutes (2021 Edition))
+
+
+§ 49-245.01. Storm water general permit
+
+A. A general permit is issued for facilities used solely for the management of
+storm water and that are regulated by the clean water act, including
+catchments, impoundments and sumps, provided the following conditions
+are met:
+
+1. The owner or operator of the facility has obtained a national pollutant
+discharge elimination system permit issued pursuant to the clean water act
+for any storm water discharges at the facility, or that the facility has applied,
+and not been denied coverage, for this type of permit for any storm water
+discharges at the facility.
+
+2. The owner or operator notifies the director that the facility has met the
+requirements of paragraph 1 of this subsection.
+
+3. The owner or operator of the facility has in place any required storm
+water pollution prevention plan.
+
+B. If the director determines that discharges of storm water from a facility or
+facilities covered by this general permit are causing a violation of aquifer
+water quality standards at the applicable point of compliance, the director
+may revoke the general permit of the facility or facilities or may require that
+an individual permit be obtained pursuant to section 49-243. If the director
+determines that discharges of storm water from a facility or facilities covered
+by this general permit, with reasonable probability, may cause a violation of
+aquifer water quality standards at the applicable point of compliance, the
+director may require a facility or facilities covered by the general permit to
+obtain an individual permit pursuant to section 49-243.
+ ARS 49-245.02 General permit for certain discharges associated
+ with man-made bodies of water (Arizona Revised Statutes (2021
+                          Edition))
+
+§ 49-245.02. General permit for certain discharges associated
+with man-made bodies of water
+
+A. A general permit is issued for the following discharges:
+
+1. Disposal in vadose zone injection wells of storm water mixed with
+reclaimed wastewater or groundwater, or both, from man-made bodies of
+water associated with golf courses, parks and residential common areas,
+provided that:
+
+(a) The vadose zone injection wells are registered pursuant to section 49-
+332.
+
+(b) The discharge occurs only in response to storm events.
+
+(c) With the exception of the aquifer water quality standard for
+microbiological contaminants, the reclaimed wastewater meets aquifer
+water quality standards before being placed into the body of water, as
+documented by a water quality analysis submitted with the vadose zone
+injection well registration. The owner or operator of the vadose zone
+injection wells shall demonstrate continued compliance with this
+subdivision by submitting to the department the results of any monitoring
+required as part of an aquifer protection permit or wastewater reuse permit
+for any facility providing reclaimed wastewater to the man-made body of
+water. For purposes of this general permit, monitoring shall be conducted at
+least semiannually. The monitoring results shall be submitted to the
+department semiannually beginning six months after registration made to
+subdivision (a) of this paragraph.
+
+(d) The vadose zone injection wells shall be located at least one hundred feet
+from any water supply well.
+
+(e) A vertical separation of forty feet shall be provided between the bottom
+of the vadose zone injection wells and the water table to allow the aquifer
+water quality standard for microbiological contaminants to be met in the
+uppermost aquifer.
+
+(f) The vadose zone injection wells are not used for any other purpose.
+
+2. Subsurface discharges from man-made bodies of water associated with
+golf courses, parks and residential common areas, provided that:
+
+(a) The body of water contains only groundwater, storm water or reclaimed
+wastewater, or a combination thereof.
+ ARS 49-245.02 General permit for certain discharges associated
+ with man-made bodies of water (Arizona Revised Statutes (2021
+                          Edition))
+
+(b) The reclaimed wastewater complies with the terms of a wastewater reuse
+permit before being placed into the body of water.
+
+(c) The body of water is lined and maintained to achieve a hydraulic
+conductivity of 10-7 cm/sec or less.
+
+3. Point source discharges to waters of the United States from man-made
+bodies of water associated with golf courses, parks and residential common
+areas that contain only groundwater, storm water or reclaimed wastewater,
+or a combination thereof, provided that:
+
+(a) The discharges are subject to a valid national pollutant discharge
+elimination system permit.
+
+(b) The discharges occur only in response to storm events.
+
+(c) With the exception of the aquifer water quality standard for
+microbiological contaminants, the reclaimed wastewater meets aquifer
+water quality standards before being placed into the body of water.
+
+B. If the director determines that discharges from a facility covered by this
+general permit are causing a violation of aquifer water quality standards, the
+director may revoke the general permit of the facility or may require that an
+individual permit be obtained pursuant to section 49-243. If the director
+determines that discharges from a facility covered by this general permit
+may cause, with reasonable probability, a violation of aquifer water quality
+standards, the director may require the facility to obtain an individual
+permit pursuant to section 49-243.
+ ARS 49-246 Criteria for developing best management practices
+          (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-246. Criteria for developing best management practices
+
+A. Pursuant to section 49-245, the director may issue a general permit for
+facilities requiring implementation of best management practices
+appropriate to the class of discharges to be regulated. The director shall:
+
+1. Identify the aquifer water quality problem which must be addressed and
+determine that protection of aquifer water quality standards can be
+accomplished through development and implementation of a best
+management practice for the class of discharge.
+
+2. Assign a specific advisory committee to create the specific class best
+management practice to regulate the problem and report its
+recommendations to the director on a specified schedule.
+
+3. On issuing a general permit containing best management practices, make
+a reasonable effort to notify persons conducting or managing the activity
+subject to the best management practices of the requirements of the best
+management practices contained in the general permit.
+
+B. The director may establish best management practices for the following
+facilities or activities:
+
+1. On-site facilities for urban runoff.
+
+2. Storm sewers.
+
+3. Urban runoff.
+
+4. Silvicultural activities.
+
+5. Septic tank systems.
+
+C. The director may by rule establish best management practices for
+additional facilities or activities pursuant to this section, if all of the
+following apply:
+
+1. The facilities or activities meet the criteria in section 49-245, subsection A,
+paragraphs 1 and 2.
+
+2. The individual facilities or activities within the class are conducted over a
+large geographic area.
+   ARS 49-247 Agricultural general permits; best management
+  practices for regulated agricultural activities (Arizona Revised
+                      Statutes (2021 Edition))
+
+§ 49-247. Agricultural general permits; best management
+practices for regulated agricultural activities
+
+A. The director shall adopt by rule , pursuant to the requirements of this
+section, agricultural general permits consisting of best management
+practices for regulated agricultural activities. Agricultural general permits
+are not subject to section 49-245 or 49-246. Except as provided in
+subsection G of this section, a person is not required to obtain an individual
+permit for a regulated agricultural activity.
+
+B. The terms and conditions of agricultural general permits adopted
+pursuant to this section shall be agricultural best management practices
+which have been determined by the director to be the most practical and
+effective means of reducing or preventing the discharge of pollutants by
+regulated agricultural activities. Agricultural best management practices
+may vary within the state, according to regional and hydrogeologic
+conditions. The director may waive the use of best management practices in
+a designated region if the director determines that existing regulated
+agricultural activities will not cause or contribute to a violation of the
+adopted water quality standards.
+
+C. The director shall adopt, by rule, agricultural best management practices .
+
+D. In adopting agricultural best management practices, the director shall
+consider:
+
+1. The availability, the effectiveness and the economic and institutional
+considerations of alternative technologies.
+
+2. The potential nature and severity of discharges from regulated
+agricultural activities and their effect on public health and the environment.
+
+E. In adopting best management practices for regulated agricultural
+activities, the director shall require the application of all economically
+feasible best management practices which have been determined by the
+director to be the most practical and effective means of reducing or
+preventing the discharge of pollutants by regulated agricultural activities but
+shall not require application of more stringent practices if such a
+requirement would result in cessation of the regulated activity.
+
+F. Compliance with best management practices adopted pursuant to this
+section constitutes compliance with this article.
+
+G. If the director, after providing a person with notice and an opportunity
+for a hearing , determines that the person has violated the applicable best
+management practices, the director may revoke the agricultural general
+   ARS 49-247 Agricultural general permits; best management
+  practices for regulated agricultural activities (Arizona Revised
+                      Statutes (2021 Edition))
+
+permit for that person and require that the person obtain a permit pursuant
+to section 49-241.
+
+H. The director may periodically reexamine, evaluate and propose any
+modification to or waiver of agricultural best management practices
+necessary to meet the requirements of this article .
+
+(Amended by L. 2017, ch. 315,s. 21, eff. 8/9/2017.)
+ARS 49-248 [Repealed] (Arizona Revised Statutes (2021 Edition))
+
+
+
+§ 49-248. [Repealed]
+
+(Repealed by L. 2017, ch. 315,s. 22, eff. 8/9/2017.)
+   ARS 49-249 Aquifer pollution information (Arizona Revised
+                   Statutes (2021 Edition))
+
+
+§ 49-249. Aquifer pollution information
+
+The director shall make available to the public upon request and on the
+agency's web site every five years the levels of pollutants in aquifers in this
+state and the effects of regulation under this chapter in general and best
+management practices in particular on controlling or reducing pollution in
+aquifers.
+    ARS 49-250 [Effective Until ninety days after adjournment]
+      Exemptions (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-250. [Effective Until ninety days after adjournment]
+Exemptions
+
+A. The director may, by rule, exempt specifically described classes or
+categories of facilities from the aquifer protection permit requirements of
+this article on a finding either that there is no reasonable probability of
+degradation of the aquifer or that aquifer water quality will be maintained
+and protected because the discharges from the facilities are regulated under
+other federal or state programs that provide the same or greater aquifer
+water quality protection as provided by this article.
+
+B. The following are exempt from the aquifer protection permit requirement
+of this article:
+
+1. Household and domestic activities.
+
+2. Household gardening, lawn watering, lawn care, landscape maintenance
+and related activities.
+
+3. The noncommercial use of consumer products generally available to and
+used by the public.
+
+4. Ponds used for watering livestock and wildlife.
+
+5. Mining overburden returned to the excavation site including any common
+material that has been excavated and removed from the excavation site and
+has not been subjected to any chemical or leaching agent or process of any
+kind.
+
+6. Facilities used solely for surface transportation or storage of groundwater,
+surface water for beneficial use or reclaimed water that is regulated
+pursuant to section 49-203, subsection A, paragraph 6 for beneficial use.
+
+7. Discharge to a community sewer system.
+
+8. Facilities that are required to obtain a permit for the direct reuse of
+reclaimed water.
+
+9. Leachate resulting from the direct, natural infiltration of precipitation
+through undisturbed regolith or bedrock if pollutants are not added to the
+leachate as a result of any material or activity placed or conducted by man
+on the ground surface.
+
+10. Surface impoundments used solely to contain storm runoff, except for
+surface impoundments regulated by the federal clean water act.
+    ARS 49-250 [Effective Until ninety days after adjournment]
+      Exemptions (Arizona Revised Statutes (2021 Edition))
+
+
+11. Closed facilities. However, if the facility ever resumes operation the
+facility shall obtain an aquifer protection permit and the facility shall be
+treated as a new facility for purposes of section 49-243.
+
+12. Facilities for the storage of water pursuant to title 45, chapter 3.1 unless
+reclaimed water is added.
+
+13. Facilities using central Arizona project water for underground storage
+and recovery projects under title 45, chapter 3.1, article 6.
+
+14. Water storage at a groundwater saving facility that has been permitted
+under title 45, chapter 3.1.
+
+15. Application of water from any source, including groundwater, surface
+water or wastewater, to grow agricultural crops or for landscaping purposes,
+except as provided in section 49-247.
+
+16. Discharges to a facility that is exempt pursuant to paragraph 6 if those
+discharges are regulated pursuant to 33 United States Code section 1342.
+
+17. Solid waste and special waste facilities when rules addressing aquifer
+protection are adopted by the director pursuant to section 49-761 or 49-855
+and those facilities obtain plan approval pursuant to those rules. This
+exemption shall only apply if the director determines that aquifer water
+quality standards will be maintained and protected because the discharges
+from those facilities are regulated under rules adopted pursuant to section
+49-761 or 49-855 that provide aquifer water quality protection that is equal
+to or greater than aquifer water quality protection provided pursuant to this
+article.
+
+18. Facilities used in:
+
+(a) Corrective actions taken pursuant to chapter 6, article 1 of this title in
+response to a release of a regulated substance as defined in section 49-1001
+except for those off-site facilities that receive for treatment or disposal
+materials that are contaminated with a regulated substance and that are
+received as part of a corrective action.
+
+(b) Response or remedial actions undertaken pursuant to article 5 of this
+chapter or pursuant to CERCLA.
+
+(c) Corrective actions taken pursuant to chapter 5, article 1 of this title or the
+resource conservation and recovery act of 1976, as amended ( 42 United
+States Code sections 6901 through 6992 ).
+   ARS 49-250 [Effective Until ninety days after adjournment]
+     Exemptions (Arizona Revised Statutes (2021 Edition))
+
+
+(d) Other remedial actions that have been reviewed and approved by the
+appropriate governmental authority and taken pursuant to applicable
+federal or state laws.
+
+19. Municipal solid waste landfills as defined in section 49-701 that have
+solid waste facility plan approval pursuant to section 49-762.
+
+20. Storage, treatment or disposal of inert material.
+
+21. Structures that are designed and constructed not to discharge and that
+are built on an impermeable barrier that can be visually inspected for
+leakage.
+
+22. Pipelines and tanks designed, constructed, operated and regularly
+maintained so as not to discharge.
+
+23. Surface impoundments and dry wells that are used to contain storm
+water in combination with discharges from one or more of the following
+activities or sources:
+
+(a) Firefighting system testing and maintenance.
+
+(b) Potable water sources, including waterline flushings.
+
+(c) Irrigation drainage and lawn watering.
+
+(d) Routine external building wash down without detergents.
+
+(e) Pavement wash water where no spills or leaks of toxic or hazardous
+material have occurred unless all spilled material has first been removed and
+no detergents have been used.
+
+(f) Air conditioning, compressor and steam equipment condensate that has
+not contacted a hazardous or toxic material.
+
+(g) Foundation or footing drains in which flows are not contaminated with
+process materials.
+
+(h) Occupational safety and health administration or mining safety and
+health administration safety equipment.
+
+24. Industrial wastewater treatment facilities designed, constructed and
+operated as required by section 49-243, subsection B, paragraph 1 and using
+a treatment system approved by the director to treat wastewater to meet
+aquifer water quality standards prior to discharge, if that water is stored at a
+groundwater storage facility pursuant to title 45, chapter 3.1.
+   ARS 49-250 [Effective Until ninety days after adjournment]
+     Exemptions (Arizona Revised Statutes (2021 Edition))
+
+
+25. Any point source discharge caused by a storm event and authorized in a
+permit issued pursuant to section 402 of the clean water act.
+
+26. Except for class V wells, any underground injection well covered by a
+permit issued under article 3.2 of this chapter or under 42 United State code
+section 300 h -1(c). this exemption does not apply until the date that the
+United States environmental protection agency approves the department's
+underground injection control permit program established pursuant to
+article 3.2 of this chapter.
+
+(Amended by L. 2018, ch. 170,s. 3, eff. 8/3/2018.)
+
+This section is set out more than once. See also A.R.S. § 49-2502, effective
+ninety days after adjournment.
+       ARS 49-250 [Effective ninety days after adjournment]
+       Exemptions (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-250. [Effective ninety days after adjournment] Exemptions
+
+A. The director , by rule, may exempt specifically described classes or
+categories of facilities from the aquifer protection permit requirements of
+this article on a finding either that there is no reasonable probability of
+degradation of the aquifer or that aquifer water quality will be maintained
+and protected because the discharges from the facilities are regulated under
+other federal or state programs that provide the same or greater aquifer
+water quality protection as provided by this article.
+
+B. The following are exempt from the aquifer protection permit requirement
+of this article:
+
+1. Household and domestic activities.
+
+2. Household gardening, lawn watering, lawn care, landscape maintenance
+and related activities.
+
+3. The noncommercial use of consumer products generally available to and
+used by the public.
+
+4. Ponds used for watering livestock and wildlife.
+
+5. Mining overburden returned to the excavation site including any common
+material that has been excavated and removed from the excavation site and
+has not been subjected to any chemical or leaching agent or process of any
+kind.
+
+6. Facilities used solely for surface transportation or storage of groundwater,
+surface water for beneficial use or reclaimed water that is regulated
+pursuant to section 49-203, subsection A, paragraph 6 for beneficial use.
+
+7. Discharge to a community sewer system.
+
+8. Facilities that are required to obtain a permit for the direct reuse of
+reclaimed water.
+
+9. Leachate resulting from the direct, natural infiltration of precipitation
+through undisturbed regolith or bedrock if pollutants are not added to the
+leachate as a result of any material or activity placed or conducted by man
+on the ground surface.
+
+10. Surface impoundments used solely to contain storm runoff, except for
+surface impoundments regulated by the federal clean water act.
+       ARS 49-250 [Effective ninety days after adjournment]
+       Exemptions (Arizona Revised Statutes (2021 Edition))
+
+
+11. Closed facilities. However, if the facility ever resumes operation the
+facility shall obtain an aquifer protection permit and the facility shall be
+treated as a new facility for purposes of section 49-243.
+
+12. Facilities for the storage of water pursuant to title 45, chapter 3.1 unless
+reclaimed water is added.
+
+13. Facilities using central Arizona project water for underground storage
+and recovery projects under title 45, chapter 3.1, article 6.
+
+14. Water storage at a groundwater saving facility that has been permitted
+under title 45, chapter 3.1.
+
+15. Application of water from any source, including groundwater, surface
+water or wastewater, to grow agricultural crops or for landscaping purposes,
+except as provided in section 49-247.
+
+16. Discharges to a facility that is exempt pursuant to paragraph 6 of this
+subsection if those discharges are regulated pursuant to 33 United States
+Code section 1342.
+
+17. Solid waste and special waste facilities when rules addressing aquifer
+protection are adopted by the director pursuant to section 49-761 or 49-855
+and those facilities obtain plan approval pursuant to those rules. This
+exemption shall only apply if the director determines that aquifer water
+quality standards will be maintained and protected because the discharges
+from those facilities are regulated under rules adopted pursuant to section
+49-761 or 49-855 that provide aquifer water quality protection that is equal
+to or greater than aquifer water quality protection provided pursuant to this
+article.
+
+18. Facilities used in:
+
+(a) Corrective actions taken pursuant to chapter 6, article 1 of this title in
+response to a release of a regulated substance as defined in section 49-1001
+except for those off-site facilities that receive for treatment or disposal
+materials that are contaminated with a regulated substance and that are
+received as part of a corrective action.
+
+(b) Response or remedial actions undertaken pursuant to article 5 of this
+chapter or pursuant to CERCLA.
+
+(c) Corrective actions taken pursuant to chapter 5, article 1 of this title or the
+resource conservation and recovery act of 1976, as amended ( 42 United
+States Code sections 6901 through 6992).
+       ARS 49-250 [Effective ninety days after adjournment]
+       Exemptions (Arizona Revised Statutes (2021 Edition))
+
+
+(d) Other remedial actions that have been reviewed and approved by the
+appropriate governmental authority and taken pursuant to applicable
+federal or state laws.
+
+19. Municipal solid waste landfills as defined in section 49-701 that have
+solid waste facility plan approval pursuant to section 49-762.
+
+20. Storage, treatment or disposal of inert material.
+
+21. Structures that are designed and constructed not to discharge and that
+are built on an impermeable barrier that can be visually inspected for
+leakage.
+
+22. Pipelines and tanks designed, constructed, operated and regularly
+maintained so as not to discharge.
+
+23. Surface impoundments and dry wells that are used to contain storm
+water in combination with discharges from one or more of the following
+activities or sources:
+
+(a) Firefighting system testing and maintenance.
+
+(b) Potable water sources, including waterline flushings.
+
+(c) Irrigation drainage and lawn watering.
+
+(d) Routine external building wash down without detergents.
+
+(e) Pavement wash water where no spills or leaks of toxic or hazardous
+material have occurred unless all spilled material has first been removed and
+no detergents have been used.
+
+(f) Air conditioning, compressor and steam equipment condensate that has
+not contacted a hazardous or toxic material.
+
+(g) Foundation or footing drains in which flows are not contaminated with
+process materials.
+
+(h) Occupational safety and health administration or mining safety and
+health administration safety equipment.
+
+24. Industrial wastewater treatment facilities designed, constructed and
+operated as required by section 49-243, subsection B, paragraph 1 and using
+a treatment system approved by the director to treat wastewater to meet
+aquifer water quality standards prior to discharge, if that water is stored at a
+groundwater storage facility pursuant to title 45, chapter 3.1.
+       ARS 49-250 [Effective ninety days after adjournment]
+       Exemptions (Arizona Revised Statutes (2021 Edition))
+
+
+25. Any point source discharge caused by a storm event and authorized in a
+permit issued pursuant to section 402 of the clean water act.
+
+26. Except for class V wells that are operating as prescribed by rules adopted
+pursuant to article 3.3 of this chapter or 42 United States Code section 300
+h-1(c), any underground injection well covered by a permit issued under
+article 3.3 of this chapter or under 42 United States Code section 300h-1(c).
+
+(Amended by L. 2021, ch. 32,s. 1, eff. ninety days after adjournment.
+Amended by L. 2018, ch. 170,s. 3, eff. 8/3/2018.)
+
+This section is set out more than once. See also A.R.S. § 49-2501, effective
+until ninety days after adjournment.
+   ARS 49-251 Temporary emergency waiver (Arizona Revised
+                  Statutes (2021 Edition))
+
+
+§ 49-251. Temporary emergency waiver
+
+A. A facility owner or operator may apply for, and the director may issue, a
+temporary emergency waiver of compliance with the requirement to obtain a
+permit or with any applicable permit requirement, surface or aquifer water
+quality standard or discharge limitation if the waiver will not endanger
+human health or welfare, and if the director finds any of the following:
+
+1. That an emergency of such severity exists that water supplies for domestic
+uses will be inadequate to meet demand unless the facility is able to
+temporarily exceed one or more water quality standards or discharge
+limitations by its discharge into waters of the state.
+
+2. That there has been a breakdown of equipment or upset of operations
+resulting in a discharge to waters of the state in excess of one or more water
+quality standards or discharge limitations, and both of the following apply:
+
+(a) The breakdown or upset was beyond the control of the facility owner or
+operator and the facility was being operated in compliance with this chapter
+before the discharge.
+
+(b) The breakdown or upset will be corrected in a reasonable period of time.
+
+3. That the activity that is the subject of the waiver is necessary to protect
+human health or welfare or minimize potential adverse impacts to the
+environment.
+
+B. A temporary emergency waiver of compliance issued by the director may
+be subject to such reasonable terms and conditions as the director deems
+necessary. The director may grant a waiver after the occurrence of the
+activity that is subject to the waiver if the applicant demonstrates that
+exigent circumstances made it impractical to secure the waiver in advance.
+
+C. As a condition to the issuance of a temporary emergency waiver of
+compliance, the director may require the facility owner or operator to
+provide notice of the waiver to all downstream or downgradient users
+directly affected by both:
+
+1. Publication on not less than three consecutive days, or on three
+consecutive weeks in the case of weekly publications, in a newspaper or
+newspapers of general circulation in the area in which the emergency or
+breakdown has occurred or is occurring.
+
+2. Furnishing a copy of the publication to the radio and television stations
+serving the area in which the emergency or breakdown has occurred or is
+occurring.
+   ARS 49-251 Temporary emergency waiver (Arizona Revised
+                  Statutes (2021 Edition))
+
+
+D. The facility owner or operator shall furnish a copy of the publication to
+the director.
+
+E. A temporary emergency waiver of compliance issued pursuant to this
+section shall remain in effect as long as necessary to accommodate the
+emergency but in no event longer than ninety days.
+
+F. A person operating under a temporary emergency waiver is not subject to
+section 49-262 or 49-263 for discharges allowed under the temporary
+emergency waiver but is subject to article 5 of this chapter.
+ ARS 49-252 Closure notification and approval (Arizona Revised
+                   Statutes (2021 Edition))
+
+
+§ 49-252. Closure notification and approval
+
+A. A person who owns or operates a dry well subject to this article or a
+groundwater protection permit facility as defined in section 49-241.01,
+subsection C or a person who has been issued a permit pursuant to this
+article shall notify the director of the intent to permanently cease an activity
+for which the facility or a portion of the facility was designed or operated.
+
+B. Within ninety days of the notification in subsection A of this section, the
+owner or operator shall submit a closure plan to the director.
+
+C. Within sixty days of submittal of a complete closure plan, the director
+shall determine whether or not the closure plan is for a clean closure.
+
+D. If the director determines that the closure plan is for a clean closure, the
+director shall send a letter of approval to the owner or operator and no
+aquifer protection permit shall be required.
+
+E. If the director determines that the proposed closure plan achieves a
+closure condition other than clean closure, the owner or operator shall
+submit either an application for an aquifer protection permit or a request to
+modify a current aquifer protection permit in order to address closure
+activities and postclosure monitoring and maintenance at the facility. The
+director shall require submittal of a permit application or a request to
+modify a permit within ninety days or a reasonable time not to exceed one
+year, if the applicant can supply a scope of work justifying a schedule for
+collecting the technical information necessary to apply.
+

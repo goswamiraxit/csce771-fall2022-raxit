@@ -1,0 +1,1687 @@
+Pharmaceuticals
+in drinking-water
+Pharmaceuticals
+in drinking-water
+WHO Library Cataloguing-in-Publication Data
+
+Pharmaceuticals in drinking-water.
+
+
+1.Water pollutants, Chemical. 2.Pharmaceutical preparations. 3.Water purification. 4.Potable water. I.World Health Organization.
+
+ISBN 978 92 4 150208 5			                         (NLM classification: WA 30.5)
+
+
+
+© World Health Organization 2012
+
+All rights reserved. Publications of the World Health Organization are available on the WHO web site (www.who.int) or can be purchased
+from WHO Press, World Health Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland (tel.: +41 22 791 3264; fax: +41 22 791
+4857; e-mail: bookorders@who.int).
+Requests for permission to reproduce or translate WHO publications – whether for sale or for noncommercial distribution – should be
+addressed to WHO Press through the WHO web site (http://www.who.int/about/licensing/copyright_form/en/index.html).
+
+The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on
+the part of the World Health Organization concerning the legal status of any country, territory, city or area or of its authorities, or concerning
+the delimitation of its frontiers or boundaries. Dotted lines on maps represent approximate border lines for which there may not yet be full
+agreement.
+
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or recommended by the
+World Health Organization in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of
+proprietary products are distinguished by initial capital letters.
+
+All reasonable precautions have been taken by the World Health Organization to verify the information contained in this publication. However,
+the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation
+and use of the material lies with the reader. In no event shall the World Health Organization be liable for damages arising from its use.
+
+Design by paprika-annecy.com
+
+Printed in France
+Contents
+
+
+
+List of acronyms and abbreviations                                         vi    3. Treatment technologies for removal of pharmaceuticals
+                                                                                    from water                                                            15
+Acknowledgements                                                          vii
+                                                                                   3.1 Introduction                                                       16
+Executive summary                                                         viii
+                                                                                   3.2 Removal of pharmaceuticals by wastewater treatment processes       16
+1. Occurrence of pharmaceuticals in water                                   1
+  1.1 Advances in analytical and detection methods                          3      3.3 Removal of pharmaceuticals by drinking-water treatment processes   18
+
+  1.2 Occurrence of pharmaceuticals in surface water                        4      3.4 Conclusion                                                         20
+
+  1.3 Occurrence of pharmaceuticals in drinking-water                       6    4. Preventing pharmaceuticals in drinking-water                          23
+
+  1.4 Conclusion                                                            6      4.1 Improved regulations and guidance on pharmaceutical waste
+                                                                                        management                                                        24
+2. Human health risk assessment for pharmaceuticals in
+   drinking-water                                                           7      4.2 Pharmaceutical take-back programmes                                25
+
+  2.1 Introduction                                                          8      4.3 Raising consumer awareness                                         26
+
+  2.2 Assessing risks associated with pharmaceuticals in drinking-water     8      4.4 Conclusion                                                         26
+
+  2.3 Applying the MTD approach: a Drinking Water Inspectorate study      10     5. Conclusions, recommendations and knowledge gaps                       27
+
+  2.4 Applying the ADI approach                                            12      5.1 Conclusions                                                        28
+
+      2.4.1 Awwa Research Foundation study                                 12      5.2 Recommendations                                                    28
+
+      2.4.2 Australian Guidelines for Water Recycling                      13      5.3 Knowledge gaps and future research                                 29
+
+ 2.5 Conclusion                                                           13     References                                                               30
+     List of acronyms and abbreviations
+
+
+     ADI                                     acceptable daily intake      NF                                           nanofiltration
+     DWEL                             drinking-water equivalent level     NOAEL                    no-observed-adverse-effect level
+     EDC                               endocrine disrupting chemical      NSAID                 non-steroidal anti-inflammatory drug
+     FAO     Food and Agriculture Organization of the United Nations      PAC                           powdered activated carbon
+     GAC                                  granular activated carbon       PoD                                     point of departure
+     GC                                         gas chromatography        PUB                      Public Utilities Board (Singapore)
+     LC                                       liquid chromatography       RO                                         reverse osmosis
+     LOAEL                       lowest-observed-adverse-effect level     SF                                           sand filtration
+     LOQ                                        limit of quantification   TDI                                  tolerable daily intake
+     MF                                                 microfiltration   UF                                            ultrafiltration
+     MOE                                         margin of exposure       USA                              United States of America
+     MS                                           mass spectrometry       USEPA       United States Environmental Protection Agency
+     MS/MS                                tandem mass spectrometry        UV                                               ultraviolet
+     MTD                                  minimum therapeutic dose        WHO                           World Health Organization
+     nd                                                  not detected     WSH     Water, Sanitation, Hygiene and Health unit (WHO)
+
+
+
+
+vi
+Acknowledgements
+
+
+The World Health Organization (WHO) wishes to express its appreciation to all those who contributed to the preparation and development of this document
+through the provision of their time, expertise and experience.
+
+WHO thanks the United States Environmental Protection Agency (USEPA) and Public Utilities Board (PUB) Singapore for their financial and technical support in
+developing this guidance to address an emerging issue for drinking-water.
+
+WHO acknowledges the contributions of the members of the Working Group on Pharmaceuticals in Drinking-water, who provided important technical inputs for
+WHO’s consideration in the development of this document. The working group members are:
+
+•   Dr Joe Cotruvo, Independent Consultant, Joseph Cotruvo and Associates, United States of America (USA)
+•   Dr Mary Couper, formerly Quality Assurance and Safety: Medicines, WHO, Switzerland
+•   Dr David Cunliffe, Department of Health, Environmental Health Service, Australia
+•   Mr John Fawell, Independent Consultant, England
+•   Ms Michèle Giddings, Water, Air and Climate Change Bureau, Health Canada, Canada
+•   Dr Edward Ohanian, USEPA, USA
+•   Professor Choon Nam Ong, National University of Singapore, Singapore
+•   Dr Hans Sanderson, Danish National Environmental Research Institute, Aarhus University, Denmark
+•   Dr Dai Simizaki, National Institute of Public Health, Japan
+•   Professor Giampaolo Velo, University of Verona, Italy
+
+Special appreciation is extended to Mr John Fawell, independent consultant, England, who provided valuable time and technical expertise in the development
+of this document. Appreciation also goes to Dr Emma Goslan, Cranfield University, England, who contributed technical inputs to the chapter on the efficacy of
+removal of pharmaceuticals during wastewater and drinking-water treatment.
+
+The development and production of this document were coordinated and managed by staff of the Water, Sanitation, Hygiene and Health (WSH) unit of WHO,
+including Mr Robert Bos (Coordinator, WSH), Mr Bruce Gordon and Mr Chee-Keong Chew (technical officers). Ms Carolyn Vickers and Dr Angelika Tritscher,
+WHO Headquarters, provided valuable inputs related to chemical risk assessments.
+
+The professional editing services of Ms Marla Sheffer of Ottawa, Canada, and the secretarial support provided by Ms Penny Ward are also gratefully
+acknowledged.
+
+
+
+
+                                                                                                                                                                vii
+       Executive summary
+
+       Background                                                                                      More importantly, it emphasizes the need to prioritize this emerging issue in the
+                                                                                                       overall context of water safety management, which includes microbial and other
+       In the last decade, traces of pharmaceuticals, typically at levels in the nanograms             chemical risks that may threaten the safety of drinking-water.
+       to low micrograms per litre range, have been reported in the water cycle,
+       including surface waters, wastewater, groundwater and, to a lesser extent,                      Scope
+       drinking-water. Advances in analytical technology have been a key factor
+       driving their increased detection. Their presence in water, even at these very                  This report focuses primarily on reviewing the risks to human health associated
+       low concentrations, has raised concerns among stakeholders, such as drinking-                   with exposure to trace concentrations of pharmaceuticals in drinking-water. It
+       water regulators, governments, water suppliers and the public, regarding the                    does not discuss the potential impacts on aquatic ecosystems or the broader
+       potential risks to human health from exposure to traces of pharmaceuticals via                  physical environment.
+       drinking-water.
+
+       Following requests from several Member States for information regarding                         Occurrence of pharmaceuticals in water
+       the potential health impacts of residual concentrations of pharmaceuticals in
+       drinking-water, this issue was added to the work plan of the World Health                       Pharmaceuticals are synthetic or natural chemicals that can be found in
+       Organization (WHO) Drinking-water Quality Committee in 2005. It was                             prescription medicines, over-the-counter therapeutic drugs and veterinary
+       proposed that a working group of experts be assembled to undertake a rapid                      drugs. Pharmaceuticals contain active ingredients that have been designed
+       review of the state of the science of pharmaceuticals in drinking-water and                     to have pharmacological effects and confer significant benefits to society.
+       develop guidance and recommendations in a report and fact sheet.                                The occurrence of pharmaceuticals in the environment and the water cycle
+                                                                                                       at trace levels (in the range of nanograms to low micrograms per litre) has
+       A WHO working group that comprised experts in toxicology, water chemistry,                      been widely discussed and published in literature in the past decade. The
+       water quality and health, water treatment, pharmacology, and drinking-water                     increase in detection is largely attributable to the advances in analytical
+       regulation and policy was formed in 2009. Consultations were held in 2009                       techniques and instrumentation. Many surveys and studies have confirmed
+       and 2010 with the Drinking-water Quality Committee and additional experts                       the presence of pharmaceuticals in municipal wastewater and effluents,
+       to review and summarize the available scientific knowledge and evidence.                        and these have been identified as a major source of pharmaceuticals in
+                                                                                                       drinking-water (Figure ES1).
+       A literature review was a key source of evidence. This examined the fate and
+       occurrence of pharmaceuticals in water, exposure to pharmaceuticals in drinking-                Routine monitoring programmes to test drinking-water for pharmaceuticals
+       water, assessment of the human health risk associated with pharmaceuticals                      have not been implemented, as is the case for regulated chemical and
+       in drinking-water, removal of pharmaceuticals during wastewater and drinking-                   microbial parameters. Generally, data on the occurrence of pharmaceuticals
+       water treatment, and preventive management measures to reduce potential                         in drinking-water have resulted from ad hoc surveys or targeted research
+       exposure to pharmaceuticals in drinking-water.                                                  projects and investigations. Available studies have reported that concentrations
+                                                                                                       of pharmaceuticals in surface waters, groundwater and partially treated
+       This report, originally published in 20111, contains the key findings and                       water are typically less than 0.1 µg/l (or 100 ng/l), and concentrations in
+       recommendations of the working group and consultations with experts in the                      treated water are generally below 0.05 µg/l (or 50 ng/l).
+       Drinking Water Quality Committee. It aims to provide practical guidance and
+       recommendations for managing the emerging concern about pharmaceuticals in                      More systematic studies will help to further our understanding of the transport,
+       drinking-water, taking into consideration the evidence from the literature review.              occurrence and fate of pharmaceuticals in the environment, especially
+                                                                                                       drinking-water sources. Standardization of protocols for sampling and
+                                                                                                       analysing pharmaceuticals would help to facilitate the comparison of data.
+       	This publication is the professionally designed version of the technical document, WHO/HSE/
+       1
+
+         WSH/11.05. This version supercedes the 2011 version.
+viii
+Figure ES1: Fate and transport of pharmaceuticals in the environment (adapted from Ternes, 1998)
+
+                excretion                                                                                                 excretion
+
+
+
+
+                                                                                                                                                 Veterinary drugs • Feed additives
+                                                                       disposal
+
+                sewage                                                                       (runoff)                  (liquid) manure
+Human drugs
+
+
+
+
+                              (leakages)                                waste
+
+                   STP                            (digested sludge)                                                          soil
+
+                                                                      landfill site
+
+              surface water                                                                                             groundwater
+
+
+
+                                                                      Drinking-water
+Note: STP is sewage treatment plant
+
+
+
+
+Human health risk assessment for                                                      departure (PoD) in these studies to assess potential risks to human health
+                                                                                      through exposure to pharmaceuticals in drinking-water. Margins of exposure
+pharmaceuticals in drinking-water                                                     (MOEs) were derived by comparing measured or modelled exposure levels
+                                                                                      in drinking-water with a reference exposure concentration, which was usually
+Pharmaceuticals are normally governed by stringent regulatory processes and           the ADI or MTD or sometimes a drinking-water equivalent level (DWEL). A
+require rigorous preclinical and clinical studies to assess their efficacy and        judgement of safety could then be based on the magnitude of this MOE for
+safety before commercialization. Therefore, pharmaceuticals are generally             the pharmaceutical under consideration. In other words, screening values to
+better characterized than other environmental contaminants.                           determine whether further action is warranted could be derived from the ADI
+                                                                                      or the MTD, with uncertainty factors applied as appropriate.
+This report reviews human health risk assessments of pharmaceuticals in
+drinking-water conducted in the United Kingdom, Australia and the United              Analysis of the results indicated that appreciable adverse health impacts
+States of America (USA). The approaches of acceptable daily intake                    to humans are very unlikely from exposure to the trace concentrations
+(ADI) or minimum therapeutic dose (MTD) were adopted as the point of                  of pharmaceuticals that could potentially be found in drinking-water.
+
+
+                                                                                                                                                                                     ix
+    Concentrations of pharmaceuticals in drinking-water are generally more than      investigated, whereas chloramines have lower removal efficiency.
+    1000-fold below the MTD, which is the lowest clinically active dosage. The       Compounds that showed high removal by free chlorine but low removal
+    findings from these three case-studies are in line with the evidence published   by chloramines include antibiotics, such as sulfamethoxazole, trimethroprim
+    over the past decade, which suggests that appreciable risks to health arising    and erythromycin.
+    from exposure to trace levels of pharmaceuticals in drinking-water are
+    extremely unlikely.                                                              Advanced water treatment processes, such as ozonation, advanced
+                                                                                     oxidation, activated carbon and membranes (e.g. nanofiltration, reverse
+                                                                                     osmosis), are able to achieve higher removal rates (above 99%) for targeted
+    Treatment technologies for removal of                                            pharmaceutical compounds in various studies in the published literature.
+    pharmaceuticals from drinking-water
+                                                                                     Advanced and costly water treatment technology will not be able to
+    Having established that raw sewage and wastewater effluents are a major          completely remove all pharmaceuticals to concentrations less than the
+    source of pharmaceuticals found in surface waters and drinking-water, it is      detection limits of the most sensitive analytical procedures at all times.
+    important to consider and characterize the efficiency of processes for the       Therefore, it is imperative that the toxicological relevance of various
+    removal of pharmaceuticals during wastewater and drinking-water treatment.       compounds be considered in the context of appreciable risks to human
+    Most of the research has been conducted at the laboratory scale or at full       health. An informed risk assessment is essential before scarce resources are
+    scale in developed countries, including the USA, Japan, the Republic of          allocated to upgrade or invest in additional advanced treatment processes
+    Korea and countries in Europe.                                                   to reduce trace concentrations of pharmaceuticals in drinking-water.
+
+    Even though wastewater and drinking-water treatment processes are not
+    designed specifically to remove pharmaceuticals, they may do so to
+                                                                                     Preventing pharmaceuticals in drinking-
+    varying degrees. Pharmaceuticals are not “unusual” chemicals; their removal      water
+    efficiencies during wastewater and drinking-water treatment are dependent
+    on their physical and chemical properties. In cases where regulations require    Conventional drinking-water quality monitoring that focuses on end-product
+    controls to mitigate risks from exposure to pesticides, treatment barriers may   testing is resource intensive in terms of capital investment and human
+    already be optimized to remove pharmaceuticals.                                  resources. Coupled with an expanding list of chemical contaminants in
+                                                                                     drinking-water and water sources that may be of insignificant health concern,
+    Conventional wastewater treatment facilities generally have activated sludge     an overemphasis on end-product monitoring and the upgrading of treatment
+    processes or other forms of biological treatment such as biofiltration. These    infrastructure is not a sustainable, optimal use of limited resources.
+    processes have demonstrated varying removal rates for pharmaceuticals,
+    ranging from less than 20% to greater than 90%. The efficiency of these          As outlined in the WHO Guidelines for Drinking-water Quality, the water
+    processes for the removal of pharmaceuticals varies within and between           safety plan approach is “the most effective means of consistently ensuring
+    studies and is dependent on operational configuration of the wastewater          the safety of a drinking-water supply … through the use of a comprehensive
+    treatment facility. Factors influencing removal include sludge age, activated    risk assessment and risk management approach that encompasses all
+    sludge tank temperature and hydraulic retention time. Comparatively,             steps in the water supply from catchment to consumer”. Water safety plans
+    advanced wastewater treatment processes, such as reverse osmosis,                highlight the importance of considering risk assessment and risk management
+    ozonation and advanced oxidation technologies, can achieve higher removal        comprehensively from source to tap and adopting preventive measures to
+    rates for pharmaceuticals.                                                       address the source of risks.
+
+    Studies on conventional drinking-water treatment processes have shown            Adapting the water safety plan approach to the context of pharmaceuticals
+    that coagulation is largely ineffective in removing pharmaceuticals. Free        in drinking-water means that preventing pharmaceuticals from entering the
+    chlorine is able to remove up to approximately 50% of the pharmaceuticals        water supply cycle during their production, consumption (i.e. excretion) and
+
+
+
+
+x
+disposal is a pragmatic and effective means of risk management. Preventive       chemical properties of the compounds. Conventional treatment processes
+measures need to be applied as close as possible to the source of the risk       with chlorination (free chlorine) can remove about 50% of these compounds,
+and hazard.                                                                      whereas advanced treatment processes, such as ozonation, advanced
+                                                                                 oxidation, activated carbon and membranes (e.g. reverse osmosis,
+Inappropriate disposal practices, such as flushing unwanted or excess            nanofiltration), can achieve higher removal rates; reverse osmosis, for
+drugs down toilets and sinks and discarding them into household waste, are       example, can remove more than 99% of large pharmaceutical molecules.
+common and may be the main contributors to pharmaceuticals in wastewater
+and other environmental media, such as surface waters and landfill leachate.
+                                                                                 Recommendations
+Preventive measures, such as policies promoting or regulations governing
+                                                                                 Trace quantities of pharmaceuticals in drinking-water are very unlikely to pose
+disposal practices at concentrated point sources (e.g. health-care and
+                                                                                 risks to human health because of the substantial MOE or margin of safety
+veterinary facilities), can reduce the amount of pharmaceutical waste entering
+                                                                                 between the concentrations detected and the concentrations likely to evoke
+water bodies. In addition, take-back programmes, guidance and enhanced
+                                                                                 a pharmacological effect.
+consumer education will support efforts for the proper disposal of medicines
+and reduce the impact of pharmaceuticals entering our water sources.
+                                                                                 Concerns over pharmaceuticals should not divert the attention and valuable
+                                                                                 resources of water suppliers and regulators from the various bacterial, viral
+Conclusions                                                                      and protozoan waterborne pathogens and other chemical priorities, such as
+                                                                                 lead and arsenic.
+Published literature and national studies have shown that concentrations of
+pharmaceuticals in surface water and groundwater sources impacted by             The current levels of exposure to pharmaceuticals in drinking-water also
+wastewater discharges are typically less than 0.1 µg/l (or 100 ng/l), and        suggest that the development of formal guideline values for pharmaceuticals
+concentrations in treated drinking-water are usually well below 0.05 µg/l (or    in the WHO Guidelines for Drinking-water Quality is unwarranted.
+50 ng/l). There are few comprehensive, systematic studies on the occurrence
+of pharmaceuticals in drinking-water. Limited data on the occurrence of          Routine monitoring of pharmaceuticals in water sources and drinking-
+pharmaceuticals in drinking-water are a challenge in assessing potential         water at the national level and the installation of specialized drinking-
+human health risks from exposure to trace concentrations of pharmaceuticals      water treatment infrastructure to reduce the very low concentrations of
+in drinking-water.                                                               pharmaceuticals in drinking-water are not currently deemed necessary
+                                                                                 given the limited additional health benefits. However, where specific
+Several approaches to screen and prioritize pharmaceuticals have been            circumstances, such as a catchment survey, indicate a potential for elevated
+published in peer-reviewed literature. These approaches usually apply the        concentrations of pharmaceuticals in the water cycle (surface water,
+principles of the PoD to derive an MOE between the reported worst-case           groundwater, wastewater effluent and drinking-water), relevant stakeholders
+exposure and the MTD, the ADI or sometimes the DWEL.                             could undertake targeted, well-designed and quality-controlled investigative
+                                                                                 studies to obtain more information to assess potential health risks arising
+Targeted investigations conducted in the United Kingdom, the USA and             from exposure through drinking-water. If necessary, screening values could
+Australia found that pharmaceuticals are largely present in drinking-water       be developed and an assessment of the need for treatment enhancement
+at concentrations several orders of magnitude (more than 1000-fold) below        could also be considered within the context of other risks and priorities using
+the MTD and largely below the calculated ADIs and DWELs. The substantial         the water safety plan.
+margins of safety for individual compounds suggest that appreciable adverse
+impacts on human health are very unlikely at current levels of exposure in       Human exposure to pharmaceuticals through drinking-water can be
+drinking-water.                                                                  reduced through a combination of preventive measures, such as take-back
+                                                                                 programmes, regulations, public guidance and consumer education to
+From a treatment perspective, pharmaceuticals are not unusual organic            encourage the proper disposal of unwanted pharmaceuticals and minimize
+chemicals, and treatment removal rates depend on the physical and                the introduction of pharmaceuticals into the environment.
+
+
+
+
+                                                                                                                                                                   xi
+      Enhanced risk communication to the public and public education efforts on
+      water quality issues from the human health standpoint will help the public
+      to better understand this issue relative to other hazards, such as pathogenic
+      microbial risks. This means conveying the risks of exposure to very low
+      concentrations of pharmaceuticals in drinking-water to the public using plain
+      language.
+
+
+      Knowledge gaps and future research
+      Although current published risk assessments indicate that trace concentrations
+      of pharmaceuticals in drinking-water are very unlikely to pose risks to human
+      health, knowledge gaps exist in terms of assessing risks associated with long-
+      term exposure to low concentrations of pharmaceuticals and the combined
+      effects of mixtures of pharmaceuticals.
+
+      Future research in these areas may be beneficial to better characterize
+      potential health risks from long-term, low-level exposure to pharmaceuticals,
+      particularly for sensitive subpopulations.
+
+      One of the key challenges in estimating exposures to pharmaceuticals
+      in drinking-water and assessing the potential risks to human health is the
+      limited occurrence data for such a diverse group of human and veterinary
+      pharmaceuticals. Implementing monitoring programmes is resource intensive
+      in terms of costs, human resources and infrastructure, and there is also a lack of
+      standardized sampling and analysis protocols to support monitoring studies.
+      Future research should focus on filling these knowledge gaps, including by
+      providing support to practitioners through the development of cost-effective
+      methods and protocols for prioritizing pharmaceuticals within the context of
+      an overall risk assessment for all drinking-water hazards.
+
+      Noting that pharmaceuticals in drinking-water are an emerging issue, WHO
+      will continue to review relevant scientific evidence and, where necessary,
+      update the guidance provided in this report.
+
+
+
+
+xii
+1   Occurrence of
+    pharmaceuticals in water
+    1. Occurrence of pharmaceuticals in water
+
+
+    Pharmaceuticals are synthetic or natural chemicals that can be found in                Pharmaceuticals and their metabolites undergo natural attenuation by
+    prescription medicines, over-the-counter therapeutic drugs and veterinary drugs,       adsorption, dilution or degradation in the environment, depending on their
+    and they contain active ingredients that evoke pharmacological effects and             hydrophobicity and biodegradability and on the temperature. Therefore,
+    confer significant benefits to society. The ubiquitous use of pharmaceuticals          pharmaceuticals in water sources and drinking-water are often present at
+    in human and veterinary medical practices, aquaculture and agricultural                trace concentrations, as these compounds would have undergone metabolism
+    products has led to the continual release of a wide array of pharmaceutical            and removal through natural processes and, if applicable, wastewater and
+    chemicals into our environment. As illustrated in Figure 1, pharmaceuticals            drinking-water treatment processes.
+    enter the environment through many routes, including human or animal excreta,
+    wastewater effluent, treated sewage sludge, industrial waste, medical waste
+    from health-care and veterinary facilities, landfill leachate and biosolids.
+
+
+
+
+    Figure 1: Fate of pharmaceuticals in the environment (adapted from Ternes, 1998)
+
+                    excretion                                                                                                 excretion
+
+
+
+
+                                                                                                                                                     Veterinary drugs • Feed additives
+                                                                            disposal
+    Human drugs
+
+
+
+
+                     sewage                                                                      (runoff)                  (liquid) manure
+
+                                  (leakages)                                 waste
+
+                       STP                             (digested sludge)                                                         soil
+
+                                                                           landfill site
+
+                  surface water                                                                                             groundwater
+
+
+
+                                                                           Drinking-water
+
+    Note: STP is sewage treatment plant
+
+
+
+2
+1.1 Advances in analytical and                                                               Figure 2: An illustration of analytical methods applied to detect pharmaceuticals in
+                                                                                                          water and wastewater (adapted from Fatta et al., 2007)
+    detection methods
+                                                                                                                                                        GC-MS or GC-MS2
+The increase in reported detections of very low concentrations of
+                                                                                                                                                        after derivatization
+pharmaceuticals in various environmental matrices, including the water cycle                                                                            Aspirin
+(e.g. surface water, groundwater, treated wastewater effluent and drinking-                           GC-MS or GC-MS2                                   Etofibrate
+water), is mainly attributable to technological advances in the sensitivity and                       without derivatization                            Etofyllinclofibrat
+accuracy of detection equipment and analytical methods. Gas chromatography                            Aspirin                                           Flurbiprofen
+                                                                                                      Codeine                                           Ketoprofen
+with mass spectrometry (GC-MS) or tandem mass spectrometry (GC-MS/MS)                                                                                   Nadolol
+                                                                                                      Cyclophosphamide
+and liquid chromatography with mass spectrometry (LC-MS) or tandem mass                               Galaxolide                                        Tolfenamic acid
+spectrometry (LC-MS/MS)2 are advanced methods that are able to determine                              Pentoxyfylline
+                                                                                                                             Carbamazepine
+target compounds to the nanogram per litre level and are commonly applied                             Tonalide
+                                                                                                                             Diazepam
+for the detection of pharmaceutical compounds in water and wastewater. The                            Triclosan
+                                                                                                                             Ibuprofen
+selection of methods is dependent on the physical and chemical properties of                                                 Paracetamol
+                                                                                                                                         Bezafibrate              Mefenamic acid
+the target compound. LC-MS/MS analysis is more suitable for measuring target                                                 Phenazone
+                                                                                                                                         Clofibrate               Metoprolol
+compounds that are more polar and highly soluble in water, whereas GC-MS/                                                                Diclofenac               Naproxen
+MS is better for more volatile target compounds. Figure 2 provides examples                                                              Fenofibrate              Propranolol
+                                                                                                                                         Fenoprofen               Propyphenazone
+of pharmaceuticals in water and wastewater that can be detected using these                                                              Gemfibrozil              Roxithromycin
+advanced analytical methods (Fatta et al., 2007).                                                                                        Indomethacine            Salbutamol
+                                                                                                                                         Iopromide                Sulfamethoxazole
+Whereas improved detection and analytical capabilities will allow us to
+learn more about the fate and occurrence of pharmaceutical chemicals in the
+environment, including the water cycle, it is important to recognize that detection                  LC-MS or LC-MS2           Cyclophosphamide      Erythromycin           Spiramycin
+of these compounds does not directly correlate to human health risks that could                      17α-Ethinylestradiol      Dapsone               Furosemide             Sulfacetamide
+be verified by available human risk assessment methods. In addition, there is                        17β-Estradiol             Demethyl diazepam     Iomeprol               Sulfadiazine
+                                                                                                     Acetyl-sulfamethoxazole   Dextropropoxyphene    Lincomycin             Sulfadimethoxine
+currently no standardized practice or protocol for the sampling and analytical                       Amidotrizoic acid         Dicloxacillin         Methotrexate           Sulfadimidine
+determination of pharmaceuticals in water or any other environmental media                           Aminopyrine               Doxycycline           Norfloxacin            Sulfaguanidine
+that ensures the comparability and quality of the data generated.                                    Amoxycillin               Estrone               Oleandomycin           Sulfamethazine
+                                                                                                     Anhydro-erythromycin      Hydrochlorothiazide   Simvastatin            Sulfapyridine
+                                                                                                     Atenolol                  Iopamidol             Sotalol                Sulfasalazine
+                                                                                                     Betaxolol                 Lofepramine           Omeprazole             Sulfathiazine
+2
+    GC-MS/MS and LC-MS/MS are referred to as GC-MS2 and LC-MS2, respectively, in Figure 2.
+                                                                                                     Bisoprolol                Metronidazole         Oxacillin              Tamoxifen
+                                                                                                     Chloramphenicol           Ofloxacin             Oxytetracycline        Terbutaline
+                                                                                                     Chlortetracycline         Enalapril             Penicillin G           Tetracycline
+                                                                                                     Ciprofloxacin             Furazolidone          Penicillin V           Tilmicosin
+                                                                                                     Clarithromycin            Ifosfamide            Pindolol               Trimethoprim
+                                                                                                     Clenbuterol               Ketorolac             Piroxicam              Tylosin
+                                                                                                     Cloxacillin               Methicillin           Ranitidine             Virginiamycin
+                                                                                                                               Nafcillin             Ronidazole
+
+
+
+                                                                                                                                                                                               3
+    1.2 Occurrence of pharmaceuticals in                                             Table 1. 
+                                                                                              Excretion rates of unmetabolized active ingredients for
+                                                                                                   selected pharmaceuticals
+        surface water
+    Scientists demonstrated the presence of pharmaceuticals in the environment                                              Parent
+                                                                                                          Pharmaceutical
+    more than 30 years ago, with studies in the United States of America (USA)       Compound                               compound     Reference
+                                                                                                          product group
+    in the 1970s that reported the presence of heart medications, pain relievers                                            excreted (%)
+    and birth control medications in wastewater (Tabak & Bunch, 1970; Garrison,      Amoxycillin          Antibiotic        60           Bound & Voulvoulis (2005)
+    Pope & Allen, 1976; Hignite & Azarnoff, 1977). The most cited reference in
+    the peer-reviewed literature on the occurrence of pharmaceuticals in surface     Atenolol             Beta blocker      90           Bound & Voulvoulis (2005)
+    waters is the survey by the United States Geological Survey, in which more       Bezafibrate          Lipid regulator   50           Bound & Voulvoulis (2005)
+    than 50 pharmaceuticals in 139 streams across 30 states in the USA were
+                                                                                     Carbamazepine Antiepileptic            3            Bound & Voulvoulis (2005)
+    investigated during 1999 and 2000 (Kolpin et al., 2002).
+                                                                                     Cetirizine           Antihistamine     50           Bound & Voulvoulis (2005)
+    Many peer-reviewed and published studies have shown that the primary             Clofibric acid       Active metabolite 6            Alder et al. (2006)
+    sources of pharmaceuticals entering surface water are from excretion and
+    bathing through treated or untreated municipal wastewater effluent discharges    Diclofenac           Anti-inflammatory 15           Alder et al. (2006)
+    into receiving surface water bodies (Buser, Muller & Theobald, 1998; Ternes,     Erythromycin         Antibiotic        25           Bound & Voulvoulis (2005)
+    1998; Buser, Poiger & Muller, 1999; Daughton & Ternes, 1999; Daughton,
+    2001; Heberer et al., 2001; Heberer, Reddersen & Mechlinski, 2002; Kolpin        Felbamate            Antiepileptic     40–50        Bound & Voulvoulis (2005)
+    et al., 2002) and improper disposal of pharmaceutical waste and excess           Ibuprofen            Analgesic         10           Bound & Voulvoulis (2005)
+    medication by consumers and health-care and veterinary facilities into sewers
+    and drains. Table 1 illustrates several classes of pharmaceuticals found in      Source: DWI (2007)
+    wastewater influent in a study conducted by the Drinking Water Inspectorate
+    in the United Kingdom.
+
+    A monitoring programme in the United Kingdom focused on 12 pharmaceutical
+    compounds or their metabolites in surface waters (Ashton, Hilton & Thomas,
+    2004). The results showed that a range of pharmaceuticals from different
+    therapeutic classes were present in both effluents from sewage treatment works
+    and receiving waters in England. The values reported were within the same
+    range as those reported in continental Europe and the USA, where more
+    extensive monitoring has been conducted. Results in the published literature
+    for studies conducted in the USA and Europe also suggest that usage data
+    are positively associated with concentrations of pharmaceuticals measured in
+    effluent and in surface water bodies receiving the treated effluent. Tables 2
+    and 3 show additional illustrative examples of pharmaceuticals that have been
+    found in the United Kingdom and other European countries, respectively.
+
+
+
+
+4
+Table 2. Measured concentrations of selected pharmaceuticals in the aquatic environment in the United Kingdom
+
+                                                                     Median (maximum) concentration (ng/l)
+Compound                                                                                                         References
+                                                Sewage treatment works effluent         Stream or river waters
+Bleomycin                                       11 (19)                                 nd (17)                  Aherne, Hardcastle & Nield (1990)
+Clotrimazole                                    14 (27)                                 21 (34)                  Roberts & Thomas (2006)
+                                                —                                       7 (22)                   Thomas & Hilton (2004)
+Diclofenac                                      424 (2349)                              < LOQ (568)              Ashton, Hilton & Thomas (2004)
+                                                289 (598)                               < LOQ                    Roberts & Thomas (2006)
+                                                —                                       < LOQ (195)              Thomas & Hilton (2004)
+Dextropropoxyphene                              195 (585)                               58 (682)                 Ashton, Hilton & Thomas (2004)
+                                                37 (64)                                 12 (98)                  Roberts & Thomas (2006)
+Erythromycin                                    —                                       < LOQ (80)               Thomas & Hilton (2004)
+                                                < LOQ (1842)                            < LOQ (1022)             Ashton, Hilton & Thomas (2004)
+Fluoxetine                                      202 (290)                               5 (70)                   Roberts & Thomas (2006)
+                                                7.6–52.9                                2–43.7                   Boucard & Gravell (2006)
+Ibuprofen                                       3086 (27 256)                           826 (5044)               Ashton, Hilton & Thomas (2004)
+                                                2972 (4239)                             297 (2370)               Roberts & Thomas (2006)
+                                                —                                       48 (930)                 Thomas & Hilton (2004)
+ Mefenamic acid                                 133 (1440)                              62 (366)                 Ashton, Hilton & Thomas (2004)
+                                                340 (396)                               < LOQ                    Roberts & Thomas (2006)
+                                                —                                       < LOQ (196)              Thomas & Hilton (2004)
+ Norfluoxetine                                  5.2–30.7                                4.5–83.0                 Boucard & Gravell (2006)
+ Paracetamol                                    < 20                                    —                        Roberts & Thomas (2006)
+                                                —                                       555                      Bound & Voulvoulis (2006)
+ Propanolol                                     76 (284)                                29 (215)                 Ashton, Hilton & Thomas (2004)
+                                                304 (373)                               61 (107)                 Roberts & Thomas (2006)
+                                                —                                       < LOQ (56)               Thomas & Hilton (2004)
+ Sulfamethoxazole                               < LOQ (132)                             < LOQ                    Ashton, Hilton & Thomas (2004)
+ Tamoxifen                                      < LOQ (42)                              < LOQ                    Ashton, Hilton & Thomas (2004)
+ Tetracycline                                   —                                       ~1000                    Watts et al. (1983)
+ Theophylline                                   —                                       ~1000                    Watts et al. (1983)
+
+ Trimethoprim                                   70 (1288)                               < LOQ (42)               Ashton, Hilton & Thomas (2004)
+                                                271 (322)                               9 (19)                   Roberts & Thomas (2006)
+                                                —                                       7 (569)                  Thomas & Hilton (2004)
+LOQ, limit of quantification; nd, not detected (below the detection limit)
+Source: DWI (2007)                                                                                                                                   5
+    Table 3. Concentrations of selected pharmaceuticals found in European surface waters
+
+                                                                                         Median (maximum) concentrations (ng/l)
+     Compound
+                                         Austria                              Finland             France                       Germany                       Switzerland
+     Bezafibrate                         20 (160)                             5 (25)              102 (430)                    350 (3100)                    —
+     Carbamazepine                       75 (294)                             70 (370)            78 (800)                     25 (110)                      30–150
+     Diclofenac                          20 (64)                              15 (40)             18 (41)                      150 (1200)                    20–150
+     Ibuprofen                           nd                                   10 (65)             23 (120)                     70 (530)                      nd (150)
+     Iopromide                           91 (211)                             —                   7 (17)                       100 (910)                     —
+     Roxithromycin                       nd                                   —                   9 (37)                       < LOQ (560)                   —
+     Sulfamethoxazole      a             nd                                   —                   25 (133)                     30 (480)                      —
+     LOQ, limit of quantification; nd, not detected (below the detection limit)
+     a Includes the human metabolite N4 -acetyl-sulfamethoxazole.
+
+     Source: Ternes et al. (2005)
+
+
+
+    1.3 Occurrence of pharmaceuticals in                                                           been detected in untreated water sources, such as wastewater, surface waters
+                                                                                                   and groundwaters (Focazio et al., 2008) in the water cycle, largely attributable to
+        drinking-water                                                                             pharmaceuticals of very high usage, including antihyperlipidaemic compounds and
+                                                                                                   non-steroidal anti-inflammatory drugs (NSAIDs).
+    Most countries (if any) do not have monitoring programmes to routinely test for
+    pharmaceuticals in drinking-water owing to practical difficulties, such as high costs and
+    lack of availability of routine analytical technologies and laboratory infrastructure to
+                                                                                                   1.4 Conclusion
+    detect a diverse range of pharmaceuticals and their metabolites. As a result, the majority
+                                                                                                   The occurrence of pharmaceuticals in the environment, including the water cycle, at
+    of the occurrence data for pharmaceuticals in drinking-water and surface waters come
+                                                                                                   concentrations ranging from nanograms to low micrograms per litre has been widely
+    from targeted research projects, targeted investigations and ad hoc surveys, most of
+                                                                                                   discussed and published in the literature in the past decade (Heberer, Schmidt-Bäumler
+    which were designed to develop, test and fine-tune detection and analytical methods.
+    Nevertheless, they did provide an initial indication of the presence of pharmaceuticals        & Stan, 1998; Zuccato et al., 2000; Heberer et al., 2001, 2004; Stackelberg et al.,
+    in the environment.                                                                            2004, 2007; Zühlke et al., 2004; Jones, Lester & Voulvoulis, 2005; Vieno, Tuhkanen
+                                                                                                   & Kronberg, 2005; Loraine & Pettigrove, 2006; Snyder et al., 2006; Vanderford &
+    Studies in the USA have detected very low levels of pharmaceuticals in finished                Snyder, 2006; Loos et al., 2007; Pérez & Barceló, 2007; Togola & Budzinski, 2008;
+    drinking-water. The highest concentration reported was 40 ng/l for meprobamate                 Mompelat, Le Bot & Thomas, 2009).
+    (Benotti et al., 2009). Studies have also found several pharmaceuticals in tap water at
+    concentrations ranging from nanograms to low micrograms per litre in several countries         The published literature and national studies have shown that concentrations of
+    in Europe, including Germany, the Netherlands and Italy (Huerta-Fontela, Galceran &            pharmaceuticals in surface water and groundwater sources impacted by wastewater
+    Ventura, 2011). Two separate studies in Germany (Reddersen, Heberer & Dünnbier,                discharges are typically less than 0.1 µg/l (or 100 ng/l), and concentrations in treated
+    2002; Zühlke et al., 2004) found phenazone and propylphenazone (an analgesic and               drinking-water are usually well below 0.05 µg/l (or 50 ng/l).
+    an antipyretic drug, respectively) in Berlin drinking-water, with the highest concentration
+    being 400 ng/l for phenazone. This high value was largely attributed to groundwater,           There are few comprehensive, systematic monitoring studies on pharmaceuticals in
+    used as a drinking-water source, contaminated with sewage (Jones, Lester & Voulvoulis,         drinking-water, and limited occurrence data are a challenge in assessing potential
+    2005). In the Netherlands, traces of antibiotics, antiepileptics and beta blockers were        human health risks from exposure to trace concentrations of pharmaceuticals in drinking-
+    detected in the drinking-water supply at concentrations below 100 ng/l, with most              water. In addition, there is no standardized protocol for the sampling and analytical
+    concentrations below 50 ng/l (Mons, Hoogenboom & Noij, 2003).                                  determination of pharmaceuticals. More systematic studies, using comparable methods,
+                                                                                                   will help further research on the transport, occurrence and fate of these compounds in
+    To date, between 15 and 25 pharmaceuticals have been detected in treated drinking-             various environmental media, and standardization of protocols for their sampling and
+    water worldwide, as reported in the peer-reviewed scientific literature (Jones, Lester         analytical determination would help to facilitate the comparison of data.
+    & Voulvoulis, 2005; Benotti et al., 2009). More pharmaceutical compounds have
+6
+2
+    Human health risk
+    assessment for pharmaceuticals
+    in drinking-water
+    2. Human health risk assessment for pharmaceuticals
+    in drinking-water
+
+    2.1 Introduction                                                                    optimally, the lowest concentration at which adverse effects are detected,
+                                                                                        which is the lowest-observed-adverse-effect level (LOAEL), in combination
+                                                                                        with an additional uncertainty factor. The PoD may also be derived through a
+    Regulatory approval processes for pharmaceuticals require thorough
+                                                                                        benchmark dose based on statistical evaluation of the dose–response curve of
+    assessments to demonstrate the efficacy and safety of active compounds. These
+                                                                                        the critical study (FAO/WHO, 2009).
+    assessments determine the margin of safety associated with human consumption
+    and take into account the risk–benefit equation. Those pharmaceuticals that
+                                                                                        Health risks from pharmaceuticals in water have been most frequently assessed
+    are most widely used, particularly those approved for over-the-counter sales,
+                                                                                        using the minimum therapeutic dose (MTD, the lowest concentration that evokes
+    require the most stringent assessment and require a substantial margin of safety.
+                                                                                        a desired therapeutic effect among target populations) as the PoD (DWI, 2007;
+    Most of the pharmaceuticals that are likely to be found in water fall into the
+                                                                                        Bull et al., 2011). This is due to practical reasons, including the lack of readily
+    high usage category, because it is those substances that will be present in
+                                                                                        available toxicological data in the public domain that would be necessary
+    the greatest quantity. The assessments for approval for particular uses cover
+                                                                                        to derive a NOAEL/LOAEL or benchmark dose. The MTD is usually a dose
+    a series of preclinical, clinical and sometimes mechanistic studies and are
+                                                                                        below those concentrations where, in rare instances, unacceptable adverse
+    usually performed at doses close to the intended therapeutic dose. For those        or toxic effects are observed. Therefore, the use of the MTD as a PoD for risk
+    substances that will be widely used, some studies are also conducted at doses       assessment would often result in the development of conservative screening
+    well above those anticipated. Because of these stringent regulatory approval        values (reference concentrations used to determine whether further action is
+    processes, pharmaceuticals will be better characterized and controlled than         warranted, as described below).
+    most environmental contaminants.
+                                                                                        The application of the MTD to inform the derivation of screening values does
+    Concern has been raised, however, because exposure to pharmaceuticals               present certain limitations. The MTD is determined by controlled studies in
+    through drinking-water is an unintended and involuntary exposure over               specific preselected populations, which may not be based on the sensitivities
+    potentially long periods of time. Moreover, there are few scientific risk           of vulnerable subpopulations that would not normally be given the drug. In
+    assessments of exposure to low levels of pharmaceuticals, both as individual        addition, in specific cases, such as with cytotoxic cancer treatment drugs,
+    species or as mixtures, in drinking-water.                                          the MTD may be at a concentration above which toxic effects are observed.
+                                                                                        Notwithstanding this, especially in cases where the margins of exposure
+    2.2 Assessing risks associated with                                                 (MOEs) are substantial, use of the MTD could be considered a pragmatic and
+                                                                                        sensible method to broadly assess and screen risks.
+        pharmaceuticals in drinking-water
+                                                                                        The main challenges in assessing risks include the limited occurrence
+    Chemical risk assessment methods for substances found in food and drinking-         data available for pharmaceuticals in drinking-water, the diverse range
+    water involve establishing an acceptable daily intake (ADI) or tolerable daily      of pharmaceuticals in use, the wide variation in the use of individual
+    intake (TDI) based on a variety of calculations (e.g. from extrapolations,          pharmaceuticals between countries, the limited number of data in the public
+    applications of uncertainty factors) applied to a selected point of departure       domain and technical limitations relating to assessing risks from chronic
+    (PoD) from the toxicological and epidemiological database. A common and             exposure to low doses of pharmaceuticals and mixtures. Nonetheless, several
+    widely accepted PoD is that concentration at which no adverse effects are           publicly available approaches (USEPA, 2008b) have been used for screening
+    detected, which is the no-observed-adverse-effect level (NOAEL), or, less           and prioritizing pharmaceuticals for assessing the potential risks to human
+
+
+
+
+8
+health from exposure to low concentrations of pharmaceuticals in drinking-          intake per kilogram of body weight. WHO uses a value of 60 kg for an adult
+water. These reports (DWI, 2007; USEPA, 2008b; Bull et al., 2011) have              and assumes consumption of 2 litres of drinking-water per day. Usually for
+been subject to scrutiny and peer review. These studies have used the MTD           substances for which an ADI is derived, exposure can also be from food and
+as the PoD for the risk assessment, with subsequent application of uncertainty      air, and so a proportion of the ADI is allocated to drinking-water to allow for
+factors to derive screening values and margins of safety against which to assess    exposure from other sources. In the case of pharmaceuticals, exposure from
+the potential risk.                                                                 other sources is negligible, and so the allocation can be high, even 100%.
+                                                                                    For individuals taking the pharmaceutical for medical purposes, the additional
+These screening values are values against which to judge the likelihood that a      amount from drinking-water is so small as to make no difference.
+particular substance could be of concern at the concentrations observed and so
+warrant further, more detailed investigation. Screening values are also used to     The MTD, or the lowest clinically effective dose, is usually equivalent to the
+identify those substances from a long list that are the most important and should   lowest dose prescribed or recommended and takes into account the number of
+be considered more closely. As indicated above, there are two approaches            doses in a day. These values are derived from an assessment of the balance
+that have been used. An ADI or TDI is an amount that can be ingested daily          between efficacy and safety. The approach used to derive a screening value for
+for an extended period, generally a lifetime, without significant risk to health.   drinking-water is to divide the MTD by a factor that would provide reasonable
+The large uncertainty factors frequently involved in establishing an ADI or TDI     assurance that effects, either pharmacological or toxic, would be extremely
+generally serve to provide assurance that exposure exceeding the ADI or TDI         unlikely. The derivation of this factor is based on expert judgement, as are the
+for shorter periods, or sometimes for longer periods if the exceedance is small,    uncertainty factors used in the derivation of the ADI. The use of the MTD as a
+is unlikely to have any deleterious effect. However, any exceedance of the          starting point for assessing potential risks of pharmaceuticals to human health
+ADI or TDI needs to be evaluated on a case-by-case basis, as it is very much        or for deriving guideline values has been applied by Schwab et al. (2005) in a
+dependent on the substance and its toxicological profile.                           human health risk assessment of pharmaceuticals in surface waters in the USA
+                                                                                    and by Versteegh, van der Aa & Dijkman (2007), Webb et al. (2003), van der
+ADIs are typically set by determining the dose at which no adverse effect is        Aa et al. (2009) and Bull et al. (2011). DWI (2007) also used the MTD as the
+observed (the NOAEL) or, less optimally, the lowest level at which an adverse       basis for assessing the risk from pharmaceuticals in drinking-water.
+effect is observed (the LOAEL). In both cases, uncertainty factors are applied
+to reflect uncertainties in extrapolation from experimental animals to humans,      The screening values developed are then used as reference points against which
+in the likely variation within the exposed population or important gaps in the      the results of monitoring can be judged. In some cases, because monitoring
+database, to derive the ADI. These uncertainty factors are based on expert          data are so limited, modelling has been used to develop worst-case estimates
+judgement, but there is a considerable body of experience in their use. Data        of potential exposure through water. The screening values are then used as the
+from well-conducted studies, where a clear dose–response relationship has           criteria to support decision-making when a chemical is detected in source water
+been demonstrated, are preferred, typically using experimental animal models;       or drinking-water. If the concentration of a particular pharmaceutical exceeds
+however, where suitable data on human populations are available, these              the screening value, then further evaluations of the toxicity and occurrence of
+would normally be preferred. The approaches used in developing guideline            the pharmaceutical compound might be warranted. On the other hand, if the
+or screening values for chemicals in drinking-water are described in chapter 8      concentration is below the screening value, this strongly suggests that adverse
+of the WHO Guidelines for Drinking-water Quality (WHO, 2011). Using                 health impacts should not be expected.
+an ADI to determine a suitable level for drinking-water requires assumptions
+to be made regarding body weight, as an ADI is usually presented as an
+
+
+
+
+                                                                                                                                                                       9
+     2.3 Applying the MTD approach: a                                                    From the worst-case deterministic modelling, only 10 substances showed an
+                                                                                         MOE less than 1000, of which 4 were illegal drugs, with highly precautionary
+         Drinking Water Inspectorate study3                                              values for the lowest active dose. In only one case was the exposure ratio less
+                                                                                         than 100, and this was a unique case, as a combined total for all NSAIDs
+     The Drinking Water Inspectorate for England and Wales commissioned a                was used, but compared against the lowest individual MTD for any of the
+     comprehensive desk-based review of current knowledge on and estimation of           NSAIDs in the group. The results therefore suggested that even in this worst-
+     potential levels of 396 pharmaceuticals and 11 illegal drugs in drinking-water      case situation, there is no significant health risk from intake of pharmaceuticals
+     in the United Kingdom based on specific demographic and usage data on               via drinking-water.
+     active pharmaceutical ingredients and using modelled concentrations based
+     on actual catchments. The DWI (2007) approach was to determine an MOE               When probabilistic modelling was used to obtain a more realistic estimate
+     for each pharmaceutical by comparing the MTD with the theoretical maximum           of concentrations in drinking-water, the estimated concentrations of all but
+     intake from drinking-water.                                                         one substance were significantly lower. The MOEs for all substances were
+                                                                                         significantly greater than 1000, and only tetrahydrocannabinol and oseltamivir
+     The modelled concentrations from drinking-water intake were based on two            carboxylate had an MOE less than 1000 (Table 4).
+     methods: 1) a deterministic method that resulted in estimates of worst-case
+     concentrations in drinking-water and 2) a probabilistic method that resulted in     The DWI (2007) study led to the conclusion that a majority of the
+     more realistic estimates of the concentrations in drinking-water. Pharmaceuticals   pharmaceuticals had MOEs greater than 1000, suggesting a substantial
+     considered were first evaluated using the deterministic method; for those           margin of safety against potential adverse health impacts from exposure to
+     24 compounds that had the lowest MOEs, further evaluation was done using            trace concentrations of pharmaceuticals in drinking-water.
+     the probabilistic method.
+
+     The health end-point used in this review was the MTD. Owing to insufficient
+     data, an MTD value of 10 mg per day was used for topically applied
+     pharmaceuticals and a conservative MTD value of 1 mg per day was used for
+     pharmaceuticals for which there were no data, including illegal drugs. For the
+     DWI (2007) evaluation, an uncertainty factor of 1000 was applied for all the
+     compounds as a precautionary value to extrapolate below the level at which
+     effects might be seen. The resultant screening values were used for determining
+     the priority substances for further examination by probabilistic modelling. This
+     additional uncertainty factor, which is widely accepted as a precautionary step
+     by the medical profession, also provides an additional reassurance with regard
+     to exposure of infants and young children.
+
+     The MOE for each of the targeted pharmaceuticals was derived by comparing
+     the maximum estimated concentrations in drinking-water with the MTD. The
+     results allow an assessment of the significance of individual pharmaceuticals
+     through drinking-water exposure.
+
+
+     3
+         This section is based on DWI (2007).
+
+
+
+
+10
+Table 4. Probabilistic modelling data for the top 24 drugs from worst-case deterministic modelling
+
+ Drug name                                                      Mean PECdw (µg/l)    MTD (mg)   MOE           Comments
+
+ Total NSAIDs                                                           2.74            7.5           2 737 Combination of 19 anti-inflammatory drugs
+ Cannabis (tetrahydrocannabinol)                                        1.377           1               726 Illegal drug
+ Oseltamivir carboxylate (Tamiflu active metabolite)                 107               52              486 Used under pandemic conditions
+ LSD                                                                    0.097           1          10 309 Illegal drug
+ Cocaine (methylbenzoylecgonine)                                        0.029           1          34 483 Illegal drug
+ Aminophylline                                                          0.15            1           6 667 Smooth muscle relaxant
+ Beclometasone                                                          0.005           0.05       10 000 Anti-asthmatic
+ Zidovudine                                                             0.057           0.5         8 772 Antiviral
+ Ecstasy                                                                0.487           1           2 053 Illegal drug
+ Acamprosate                                                            0.435           1           2 299 Alcoholism treatment
+ Total statins                                                          1.27            5             3 937 Cholesterol reduction
+ Nitroglycerine                                                         0.035 4         0.15        4 234 Vasodilator
+ Heroin (diamorphine)                                                   0.004 49        1         222 717 Illegal drug
+ Simvastatin                                                            1.18            5           4 227 Cholesterol reduction
+ Codeine                                                                0.015 7        20       1 277 139 Narcotic analgesic
+ Ramipril                                                               0.153           1.25          8 177 Diuretic
+ Lisinopril                                                             0.396           2.5           6 316 Angiotensin converting enzyme inhibitor
+ Methadone                                                              0.082 2         1          12 173 Opioid agonist
+ Furosemide                                                             1.74           20          11 507 Diuretic
+ Amphetamine                                                            0.017 4         1          57 405 Illegal drug
+ Norethisterone                                                         0.023 6         0.35       14 824 Progesterone derivative
+ Doxazosin                                                              0.006 81        1         146 843 Alpha blocker
+ Bendroflumethiazide                                                    0.275           2.5         9 094 Diuretic
+ Cyclosporin                                                            0.000 8         2       2 500 000 Immunosuppression
+ LSD, lysergic acid diethylamide; PECdw, predicted concentration in drinking-water
+ Source: DWI (2007)
+
+
+
+
+                                                                                                                                                        11
+     2.4 Applying the ADI approach                                                           Table 5. 
+                                                                                                      Principles for deriving ADIs for compounds considered
+                                                                                                          in this study
+         2.4.1 Awwa Research Foundation study                                   4
+
+                                                                                             Category of analytes                   Derivation of ADIs
+     The Awwa Research Foundation commissioned a study to provide critical
+     information regarding the occurrence of and risk assessment for pharmaceuticals         Compounds that are not                 Dividing the highest dose at
+     and potential endocrine disrupting chemicals (EDCs) in drinking-water. The              carcinogenic                           which an effect was not observed
+     study examined 62 chemicals, including 20 pharmaceuticals and active                                                           (NOAEL) or the lowest dose at
+     metabolites, 26 potential EDCs, 5 steroid hormones and 11 phytoestrogens                                                       which an effect was observed
+     (natural estrogens from plants). The health value applied in this study was the                                                (LOAEL) in animal or human toxicity
+     ADI, and a conservative approach was taken in the process of developing the                                                    studies by uncertainty factors
+     ADI values, as illustrated in Table 5.                                                                                         to account for extrapolation to
+                                                                                                                                    potentially sensitive populations
+     In this study, the ADIs were converted to drinking-water equivalent levels              Compounds with positive evidence       A linear extrapolation model was
+     (DWELs) in micrograms per litre (or parts per billion) based on assumptions of          of carcinogenicity in high-dose        used to predict the tumorigenic
+     a 70 kg body weight in adults and consumption of 2 litres per day.                      animal studies and data on tumour      response at low dose level
+                                                                                             incidence per dose level
+     Even with the use of advanced and highly sensitive analytical procedures (with
+                                                                                             Carcinogenic compounds with            A safe dose corresponding to a
+     reporting limits in the nanograms per litre or parts per trillion range), none of the
+                                                                                             reported evidence in animal studies,   cancer risk of one in a million was
+     pharmaceuticals tested in this study were detected in finished drinking-water
+                                                                                             but no available tumour incidence      estimated
+     above the calculated health risk thresholds. Adopting a conservative worst-
+                                                                                             data
+     case scenario approach, the maximum detected concentrations in finished and
+     piped drinking-water were used to calculate DWELs for each of the target
+     pharmaceuticals. It was found that none of the pharmaceuticals detected in
+     drinking-water exceeded their corresponding ADI.                                        Table 6. MOEs calculated for compounds considered in the Awwa
+                                                                                                          Research Foundation study
+     The minimum margin of safety or MOE for each compound tested was
+     calculated by dividing the DWEL by the maximum detected water concentration.
+     According to United States Environmental Protection Agency (USEPA) policy,              Compound                                                         MOE
+     compounds with MOEs greater than 100 would generally indicate a low level               Atenolol                                                        2 700
+     of concern. Table 6 contains the calculated MOEs for some of the compounds
+     that were detected in drinking-water; these were orders of magnitude above              Diazepam                                                      110 000
+     100, suggesting a low level of concern.                                                 Fluoxetine                                                     41 000
+                                                                                             Meprobamate                                                     6 000
+                                                                                             Norfluoxetine                                                 44 000
+                                                                                             Sulfamethoxazole                                            6 000 000
+                                                                                             Triclosan                                                   2 200 000
+
+
+
+
+     4
+         This section is based on Snyder et al. (2008).
+
+
+12
+    2.4.2 Australian Guidelines for Water                                           2.5 Conclusion
+          Recycling5
+                                                                                    Risk assessments from the United Kingdom, the USA and Australia have applied
+The Australian Guidelines for Water Recycling were developed to serve as an         the ADI or the MTD approaches, in conjunction with uncertainty factors, to
+authoritative reference for using recycled wastewater to augment drinking-water     derive screening values for pharmaceuticals in drinking-water. Analysis of the
+supplies. These guidelines were established to protect against microbial and        results indicated that adverse human health impacts are very unlikely from
+chemical risks, including pharmaceuticals. The pharmaceuticals considered           exposure to the trace concentrations of pharmaceuticals that could potentially
+were categorized into two groups: those used solely for humans and those            be found in treated drinking-water. Available data have shown that for
+used for agricultural and veterinary purposes.                                      those substances that have been detected, the concentrations are more than
+                                                                                    1000 - fold less than the MTD, which is the lowest clinically active dosage.
+For veterinary pharmaceuticals, the health end-point is determined based
+on ADIs established for pharmaceuticals used for agricultural and veterinary        These findings are in line with other studies over the past decade that also
+purposes by organizations such as the Joint FAO/WHO Expert Committee                supported the conclusion that discernible risks to health arising from trace levels
+on Food Additives, the Australian Therapeutic Goods Administration and the          of pharmaceuticals in drinking-water are extremely unlikely (e.g. Christensen,
+European Medicines Agency.                                                          1998; Schulman et al., 2002; Webb et al., 2003; Jones, Lester & Voulvoulis,
+                                                                                    2005; Bercu et al., 2008; Snyder, 2010).
+For human pharmaceuticals, the health end-point was a surrogate ADI, which
+was derived by dividing the lowest daily therapeutic dose by safety factors         Given the low likelihood of human health risk, it is not considered necessary
+ranging from 1000 to 10 000. The use of the lowest daily therapeutic dose as        to implement routine monitoring programmes that are resource intensive and
+a starting point for deriving guideline values or assessing risk has been adopted   detract from other drinking-water concerns that are more important and more
+by others (Webb et al., 2003; Schwab et al., 2005; DWI, 2007; Versteegh,            acute, particularly the threat of waterborne pathogens. However, where specific
+van der Aa & Dijkman, 2007; Bull et al., 2011). With respect to pharmaceutical      circumstances indicate a potential for elevated concentrations, screening values
+metabolites in source waters, it was considered that the activity of metabolites    and targeted investigative monitoring could be considered.
+is generally lower than that of the parent compound, and application of safety
+factors in the range of 1000–10 000 should provide a safety buffer that is          Future research could consider investigating the robustness and feasibility
+sufficiently conservative.                                                          of adapting the concept of the threshold of toxicological concern, which
+                                                                                    is currently more widely used for food additives and contaminants, as an
+For most pharmaceuticals, a safety factor of 1000 was applied to the lowest         alternative screening-level risk assessment, rather than developing values
+daily therapeutic dose; it consists of a 10-fold factor for sensitive humans,       for each substance individually (Kroes et al., 2004). Research could also
+a 10-fold factor for infants and children and a 10-fold factor for the lowest       look into improvement to risk assessment methodology to address concerns
+therapeutic dose not being a no-effect level. In addition, a factor of 10 was       related to pharmaceutical mixtures and the effects of chronic, low-level
+added for cytotoxic drugs as a result of the higher toxicity associated with        exposure to pharmaceutical, including exposure of sensitive subpopulations,
+these compounds and for hormonally active steroids, which are active at very        such as pregnant women and patients with particular diseases and medical
+low concentrations and for which there is a high public perception of adverse       treatments (Rowney, Johnson & Williams, 2009). The WHO Framework for Risk
+effects.                                                                            Assessment of Combined Exposure to Multiple Chemicals (Meek et al., 2011)
+                                                                                    could be utilized to further consider the issue of mixtures.
+In applying the guidelines, the calculated guideline values for the
+pharmaceuticals were compared with the highest concentrations measured in
+secondary treated effluent to derive the MOEs. Most of the calculated MOEs
+are more than 1000; given that this does not take into account reductions
+achieved by treatment processes, it is unlikely that pharmaceutical chemicals
+will be present at levels approaching the recommended guideline values or
+cause any adverse impacts on human health.
+
+5
+    This section is based on NRMMC, EPHC & NHMRC (2008).
+
+
+                                                                                                                                                                          13
+3   Treatment technologies for
+    removal of pharmaceuticals
+    from water
+     3. Treatment technologies for removal of
+     pharmaceuticals from water
+
+     3.1 Introduction                                                                   retention time. For example, the majority of pharmaceuticals are relatively
+                                                                                        hydrophobic and therefore less effectively removed by sorption to sludge
+     Many studies have reported the presence of pharmaceuticals in effluents            (Vieno, Tuhkanen & Kronberg, 2007). Treatment removal efficiency could
+     from wastewater treatment facilities (Ternes, 1998; Andreozzi et al., 2003;        therefore vary significantly between different treatment facilities or at different
+     Miao et al., 2004; Paxéus, 2004; Castiglioni et al., 2006; Vieno, Tuhkanen         time periods within the same treatment facility (Vieno, Tuhkanen & Kronberg,
+     & Kronberg, 2007) and identified these effluents as the main conveyors of          2007).
+     pharmaceuticals and their metabolites into receiving water sources, such as
+     rivers, lakes, reservoirs and groundwater aquifers, that are used for drinking-    Table 7 collates the results of several studies to illustrate the removal rates that
+     water supply (Heberer, 2002; Ternes & Joss, 2006; Xu et al., 2007; Zhang,          can be expected by different wastewater treatment processes. These are based
+     Geissen & Gal, 2008; Huerta-Fontela, Galceran & Ventura, 2011).                    on observations of treatment processes ranging from single unit processes to
+                                                                                        full-scale wastewater treatment facilities found in the various studies.
+     The presence of trace concentrations of pharmaceuticals in the water cycle,
+     typically in the nanogram to low microgram per litre range, has raised questions   Table 7 demonstrates that conventional wastewater treatment facilities with
+     concerning the efficacy of drinking-water and wastewater treatment processes       activated sludge processes can achieve higher removal efficiency than
+     in removing pharmaceuticals. The majority of research studies on treatment         simple biological filters. Removal rates for pharmaceuticals can vary and
+     efficacy have been conducted in Europe and the USA, with some studies              could sometimes be limited (Kasprzyk-Hordern, Dinsdale & Guwy, 2009),
+     conducted in developed countries in Asia (Lee et al., 2008; Simazaki et al.,       depending on such factors as sludge age (DWI, 2007), activated sludge tank
+     2008; Van De Steene, Stove & Lambert, 2010; Huerta-Fontela, Galceran               temperature and hydraulic retention time (Wick et al., 2009; Gabet-Giraud et
+     & Ventura, 2011). In addition, there are more studies that focus on removal        al., 2010).
+     efficacies at laboratory scale or by single treatment processes rather than at
+     full scale, especially for drinking-water treatment processes.                     Advanced wastewater treatment processes, such as ozonation, membrane
+                                                                                        treatment and advanced oxidation, can generally achieve higher removal rates
+     This chapter provides an overview of the removal of pharmaceuticals by             (up to 100%) for pharmaceuticals compared with conventional processes.
+     conventional and advanced wastewater and drinking-water treatment                  For example, another bench-scale study showed that advanced oxidation
+     processes based on the published literature.                                       processes can achieve up to 100% removal for diclofenac (Klavarioti,
+                                                                                        Mantzavinos & Kassinos, 2009).
+     3.2 Removal of pharmaceuticals by                                                  Prediction of removal rates for wastewater treatment processes is possible
+         wastewater treatment processes                                                 for pharmaceuticals with very similar chemical structures. However, practical
+                                                                                        difficulties do exist in predicting removal rates between different wastewater
+     Conventional wastewater treatment facilities typically have biological             treatment facilities, as highly variable removal rates are obtained for beta
+     degradation using the activated sludge process, whereas advanced facilities        blockers, depending on the wastewater treatment facility under consideration.
+     have tertiary treatment processes, such as reverse osmosis, ozonation and          For example, the beta blockers betaxolol, bisprolol, carazolol and metprolol
+     advanced oxidation technologies. Pharmaceuticals are a diverse group of            are significantly removed by activated sludge processes, with reported removal
+     chemicals, with varying physical and chemical properties (Jelic et al., 2011).     rates varying from 65% to about 90% (Ternes, 1998; Gabet-Giraud et al.,
+     Treatment efficacy depends on these physical and chemical characteristics          2010), whereas low removal rates of less than 20% and approximately 32%
+     (e.g. hydrophobicity), their reactivity towards different treatment processes      are reported for soltalol and propranolol, respectively, in other studies (Bendz
+     and process control, such as solids retention time, temperature and hydraulic      et al., 2005; Gabet-Giraud et al., 2010).
+
+
+16
+Table 7. C
+          onventional and advanced wastewater treatment processes and their expected range of removal efficiency for pharmaceuticals
+
+Treatment process                                     Removal range (%)          Water source                    Areas studied                Reference
+
+> Conventional wastewater treatment processes
+
+Activated sludge                                      11–99                      Raw sewage                      Australia                    Watkinson, Murby & Costanzo (2007)
+                                                      7–100                      Primary settled sewage          Europe, Japan                DWI (2007)
+                                                      < 20–80                    Primary settled sewage          France                       Gabet-Giraud et al. (2010)
+                                                      −193–86 a                  Primary settled sewage          Europe                       Vieno, Tuhkanen & Kronberg (2007)
+                                                      8–98                       Not specified                   Brazil, Europe, Japan        Ziylan & Ince (2011)
+Biological filtration                                 6–71                       Primary settled sewage          Europe                       DWI (2007)
+Primary settling                                      3–45                       Not specified                   Brazil, Europe, Japan        Ziylan & Ince (2011)
+Coagulation, filtration and settling                  5–36                       Not specified
+Sand filtration                                       0–99                       Activated sludge effluent
+
+> Advanced wastewater treatment processes
+
+Ozonation                                             1–99                       Activated sludge effluent       Brazil, Europe, Japan        Ziylan & Ince (2011)
+                                                      86–100                     Secondary effluent              France                       Gabet-Giraud et al. (2010)
+Ozonation/ultrasound and sonocatalysis                23–45                      Not specified                   Europe, India, Japan,        Ziylan & Ince (2011)
+                                                                                                                 Turkey, USA
+Ozonation and catalytic ozonation                     > 9–100
+UV irradiation                                        29                         Not specified                   Brazil, Europe, Japan        Ziylan & Ince (2011)
+Photolysis (UV/hydrogen peroxide)                     52–100                     Not specified                   Europe, India, Japan,        Ziylan & Ince (2011)
+                                                                                                                 Turkey, USA
+Dark and light Fenton                                 80–100
+UV/TiO2                                               > 95
+Biomembrane                                           23–99                      Treated effluent                Brazil, Europe, Japan        Ziylan & Ince (2011)
+Microfiltration and reverse osmosis                   91–100                     Secondary treated               Australia                    Watkinson, Murby & Costanzo (2007)
+                                                                                 effluent
+Reverse osmosis                                       62–97                      Secondary treated               France                       Gabet-Giraud et al. (2010)
+                                                                                 effluent
+Ultrasound                                            24–100                     Not specified                   Europe, India, Japan,        Ziylan & Ince (2011)
+                                                                                                                 Turkey, USA
+UV, ultraviolet
+a
+  .The removal of some pharmaceuticals appears to be negative. This has been attributed to the way in which removal is calculated, without hydraulic retention time being considered. This
+    means that the effluent sample does not directly correspond to the influent sample. In the case of carbamazepine, the increase observed was consistent, and the most probable cause was
+    reported to be conversion of carbamazepine glucuronides and other conjugated metabolites to the parent compound by enzymatic processes in the treatment plant (Ternes et al., 1999; Vieno,
+    Tuhkanen & Kronberg, 2007).
+                                                                                                                                                                                                 17
+     3.3 Removal of pharmaceuticals by                                                     Chlorination and ozonation can achieve higher removal rates, with efficacy
+                                                                                           a function of chemical structure and treatment conditions, such as pH and
+         drinking-water treatment processes                                                oxidant dose (Zwiener & Frimmel, 2000; Adams et al., 2002; Huber et al.,
+                                                                                           2003, 2005; Snyder et al., 2003; Ternes et al., 2003; Pinkston & Sedlak,
+     Treated effluents from wastewater treatment facilities that have an impact on         2004; Kim et al., 2007). In some studies, free chlorine was found to oxidize
+     receiving water bodies constitute the main source of pharmaceuticals in surface       approximately half of the pharmaceuticals investigated, but chloramine was
+     waters, which could be used for drinking-water supply (Rahman, Yanful &               comparatively less efficient. Antibiotics such as sulfamethoxazole, trimethroprim
+     Jasim, 2009). Other possible pathways of pharmaceuticals to drinking-water            and erythromycin are among the compounds that showed high removal by
+     sources include leaching of pharmaceuticals to groundwater (Gomes & Lester,           free chlorine (Khiari, 2007). Advanced oxidation processes using ozone with
+     2003) from sources such as leaking sewage systems and pipes.                          hydrogen peroxide greatly improve oxidation and are frequently applied in
+                                                                                           wastewater recycling processes for indirect potable reuse to convert recalcitrant
+     None of the wide range of drinking-water treatment processes available have           organic chemicals.
+     been designed specifically to remove pharmaceuticals that may be present
+     in source waters. Nonetheless, removal of pharmaceuticals during drinking-            PAC and GAC can achieve high removal of pharmaceutical target compounds,
+     water treatment is largely dependent on their physical and chemical properties,       especially hydrophobic compounds. Removal efficacy is a function of contact
+     and treatment processes can therefore achieve some level of removal. For              time, organic loading, chemical structure, solubility and carbon type (Ternes
+     example, biodegradation on slow sand filters and/or sorption to particles             et al., 2002; Yoon et al., 2003; Snyder et al., 2006). Iopromide, ibuprofen,
+     removed by coagulation may help reduce the levels of some pharmaceuticals             meprobamate, sulfamethoxazole and diclofenac were some of the compounds
+     present in drinking-water sources; granular activated carbon (GAC) and                found to be most resistant to activated carbon removal (Khiari, 2007).
+     powdered activated carbon (PAC) are increasingly adopted in drinking-
+     water treatment to remove pesticides and improve taste and odour, and these           Membrane treatment is highly effective in removing chemicals from water, and
+     processes may remove some pharmaceuticals by sorption (or biodegradation              removal efficacy is a function of physical and chemical properties, such as
+     on GAC). Groundwater sources that are used for drinking-water typically have          molecular weight, hydrophobicity, polarity, chemical nature and pore size of
+     low particulate matter and organic matter content. Therefore, drinking-water          the membranes. Some studies (Yoon et al., 2006; Khiari, 2007) suggested
+     treatment is mostly single-stage disinfection, without multiple treatment barriers.   that nanofiltration (NF) can achieve better removal rates for most target
+                                                                                           compounds than ultrafiltration (UF)/microfiltration (MF) membranes as a result
+     Table 8 summarizes the findings in various published studies on the removal           of both hydrophobic adsorption and size exclusion. Higher molecular weight
+     efficiencies of conventional and advanced water treatment processes for               substances would be removed by size exclusion, especially by NF membranes.
+     pharmaceuticals in drinking-water. The majority of these studies focused              Reverse osmosis (RO) was highly effective, despite trace quantities of some
+     on bench-scale removal by spiking water samples with target compounds,                target compounds breaching RO membranes. However, a double-pass RO
+     subjecting these samples to treatment and measuring the resulting                     system was reported to remove all target compounds to below detection limits
+     concentrations. However, some full-scale studies at drinking-water treatment          (Khiari, 2007).
+     facilities have been carried out.
+                                                                                           Ultraviolet (UV) irradiation at typical disinfection dosages was ineffective
+     Bench-scale studies using both alum and ferric chloride as coagulants                 for removing most target compounds, even though it can achieve more
+     for natural water or pure water samples spiked with pharmaceutical target             than 50% removal of sulfamethoxazole (antibiotic), triclosan (antimicrobial)
+     compounds showed that coagulation (with or without chemical softening) is             and diclofenac (NSAID). However, a combination of higher-dose UV
+     largely ineffective in removing pharmaceutical target compounds (Westerhoff           (400 mJ/cm2 and higher) with hydrogen peroxide (3 mg/l and above)
+     et al., 2005; Yoon et al., 2006; Snyder et al., 2007). An Awwa Research               removed most target compounds (Rosenfeldt & Linden, 2004; Khiari, 2007).
+     Foundation project also concluded that coagulation was largely ineffective for
+     pharmaceutical removal in bench-scale, pilot-scale and full-scale investigations
+     (Khiari, 2007).
+
+
+
+
+18
+Table 8. D
+          rinking-water treatment processes and their expected range of removal of pharmaceuticals
+
+                                                                               Country studied (no.
+Treatment process                        Removal range (%)   Scale                                     Reference
+                                                                               of compounds)
+RO                                       > 99                Pilot             Germany (6)             Heberer, Reddersen & Mechlinski (2002)
+RO1                                      70–91               Bench             Japan (6)               Kimura et al. (2004)
+RO2                                      10–85               Bench
+UV/H2O2                                  3 – > 95            Bench             USA (2)                 Rosenfeldt & Linden (2004)
+Coag                                     24–72               Bench             USA (49)                Westerhoff et al. (2005)
+PAC (20 mg/l)                            > 80                Bench
+PAC (1 mg/l)                             40–75               Bench
+CI2                                      25–75               Bench
+O3                                       5–95                Bench
+O3                                       33–100              Bench             Germany (9)             McDowell et al. (2005)
+ClO2                                     0–100               Bench             Germany (11)            Huber et al. (2005)
+NF1                                      > 98                Bench             Australia (3)           Nghiem, Schäfer & Elimelech (2005)
+NF2                                      > 80                Bench
+UF                                       < 30                Bench             USA (27)                Yoon et al. (2006)
+NF                                       30–90               Bench
+Coag                                     < 5–30              Bench             Finland (5)             Vieno, Tuhkanen & Kronberg (2006)
+Cl2                                      20–100              Bench             Japan (9)               Simazaki et al. (2008)
+PAC                                      > 98                Bench
+Coag                                     < 15                Bench
+Constructed wetlands                     28–60               Pilot             Singapore (4)           Zhang et al. (2011)
+Aeration/SF                              25 – > 95           Full              Germany (5)             Reddersen, Heberer & Dünnbier (2002)
+O3/Coag/Sed/Cl2                          100                 Full              USA (2)                 Boyd et al. (2003)
+PAC/Coag/Sed                             0                   Full              USA (1)
+Cl2                                      100                 Full              USA (1)
+Coag                                     0                   Full              Republic of Korea (6)   Kim et al. (2007)
+UF                                       0                   Full
+GAC                                      100                 Full
+
+
+
+
+                                                                                                                                                19
+     Table 8. (continued)
+
+                                                                                                                   Country studied (no.
+         Treatment process                                     Removal range (%)          Scale                                                 Reference
+                                                                                                                   of compounds)
+         NF                                                    30 – > 90                  Full                     Spain (12)                   Radjenović et al. (2008)
+         RO                                                    45 – > 90                  Full
+         Disinfection                                          2–97                       Full                     France (7) a                 ANSES (2011)
+         Physical and chemical                                 31–94                      Full
+         O3 + AC                                               47–97                      Full
+         Membranes                                             6–68                       Full
+         Pre-Cl2                                               0 – > 99                   Full                     Spain (35)                   Huerta-Fontela, Galceran & Ventura (2011)
+         Coag/Floc/SF                                          < 30–100                   Full
+         O3                                                    5 – > 99                   Full
+         GAC                                                   55 – > 75                  Full
+         Cl2                                                   14–100                     Full
+         AC, activated carbon; Cl2, chlorine; ClO2, chlorine dioxide; Coag, coagulation; Floc, flocculation; GAC, granular activated carbon; H2O2, hydrogen peroxide; NF, nanofiltration; O3,
+         ozonation; PAC, powdered activated carbon; RO, reverse osmosis; Sed, sedimentation; SF, sand filtration; UF, ultrafiltration; UV, ultraviolet
+         a
+           Note that this was a national study incorporating 78 instances of pharmaceutical removal.
+     .
+
+
+     Conclusion
+                                                                                                        Advanced wastewater treatment processes that comprise membranes,
+     This chapter has provided an overview of the removal of pharmaceuticals
+                                                                                                        advanced oxidation technologies, etc. have shown higher removal efficiencies
+     by conventional and advanced wastewater and drinking-water treatment
+                                                                                                        for pharmaceuticals (e.g. advanced oxidation processes can achieve up to
+     processes based on the published literature.
+                                                                                                        100% removal for diclofenac) (Klavarioti, Mantzavinos & Kassinos, 2009).
+                                                                                                        However, conventional treatment is generally sufficient to meet regulatory
+     Conventional wastewater treatment typically consists of activated sludge                           requirements, and capital-intensive advanced treatment processes are not
+     processes. Biological treatment, such as activated sludge and biofiltration,                       commonly adopted for wastewater treatment (Spellman, 2010).
+     has demonstrated significant removal rates for pharmaceuticals that are
+     biodegradable or readily bind to particles (Ternes et al., 1999; Joss et al.,                      With respect to conventional drinking-water treatment, bench-scale studies
+     2005; Kim et al., 2007). However, removal rates for pharmaceuticals can                            showed that coagulation (with or without chemical softening) is largely
+     vary within and between studies (Kasprzyk-Hordern, Dinsdale & Guwy, 2009;                          ineffective in removing pharmaceuticals (Westerhoff et al., 2005; Yoon et al.,
+     Wick et al., 2009), depending on such factors as sludge age (DWI, 2007),                           2006; Snyder et al., 2007). Free chlorine was found to oxidize approximately
+     activated sludge tank temperature and hydraulic retention time. For example,                       half of the pharmaceuticals investigated, and chloramine was less efficient.
+     diclofenac removal in the activated sludge process ranges from 21% to 50%,                         Antibiotics such as sulfamethoxazole, trimethroprim and erythromycin are
+     but this can be optimized by operating the process at a sludge age of eight                        among the compounds that showed high removal by free chlorine (Khiari,
+     days or more (Ziylan & Ince, 2011).                                                                2007).
+
+
+
+
+20
+Advanced water treatment processes such as ozonation, advanced oxidation,
+activated carbon and membrane processes (nanofiltration, reverse osmosis)
+were demonstrated to achieve higher removal rates (above 99%) for targeted
+pharmaceutical compounds in various published literature studies. However,
+advanced oxidation processes can lead to incomplete degradation products,
+such as metabolites, and future research could consider the value and feasibility
+of studying the formation and impact of these metabolites (Celiz, Tso & Aga,
+2009).
+
+For drinking-water sources that are contaminated with pesticides, advanced
+treatment may already be in place to meet regulations. In such cases, removal
+of pharmaceuticals during treatment may already be optimized.
+
+Most importantly, it is prudent to note that advanced and costly water
+treatment technology will not be able to completely remove all micropollutants
+to concentrations below the detection limits of the most sensitive analytical
+procedures at all times. Therefore, it is imperative to consider the toxicological
+relevance of various compounds in the context of appreciable risks to human
+health. Increased or rapidly changing exposure arising from specific local
+circumstances (e.g. a significant increase in the concentration of pharmaceuticals
+in surface waters impacted by wastewater discharge) should be investigated.
+
+An informed risk assessment considering the above principles is essential
+before allocating scarce resources to upgrade or invest in additional advanced
+treatment processes to reduce trace concentrations of pharmaceuticals in
+drinking-water.
+
+In view of the substantial margin of safety for consumption of very low
+concentrations of pharmaceuticals in drinking-water (Chapter 2 in this report),
+concerns over pharmaceuticals should not divert the attention and resources of
+water suppliers and regulators from other chemical and pathogenic microbial
+priorities. For example, although the government in Australia has issued
+proposed guideline values for 84 pharmaceuticals for water reuse schemes,
+microbial pathogens remain their overriding priority in water reuse (NRMMC,
+EPHC & NHMRC, 2008).
+
+
+
+
+                                                                                     21
+4   Preventing pharmaceuticals
+    in drinking-water
+     4. Preventing pharmaceuticals in drinking-water
+
+
+     Conventional drinking-water quality monitoring that places emphasis       and 11.5% were flushed down sinks or toilets (Bound & Voulvoulis,
+     on end-product testing is very resource intensive in terms of capital     2005). Similarly, proper and well-managed disposal practices at
+     investment and human resources. With an expanding list of chemical        concentrated point sources such as health-care and veterinary facilities
+     contaminants detected in drinking-water and water sources that may        will help mitigate the entry of pharmaceuticals into our environment.
+     be of insignificant health concern, an overemphasis on end-product
+     monitoring and the upgrading of treatment infrastructure is clearly not   Currently, tighter rules and regulations apply to controlled substances
+     sustainable or an optimal use of limited resources.                       and cytotoxic drugs than for other pharmaceuticals. Despite this,
+                                                                               disposal to sewers is not precluded (USEPA, 2008a). Disposal of non-
+     Chapter 4 in the fourth edition of the WHO Guidelines for Drinking-       controlled substances tends to be more variable and is often developed
+     water Quality states that the water safety plan is “the most effective    on a local, jurisdictional or regional basis. A scan of the current
+     means of consistently ensuring the safety of a drinking-water             literature, which is not exhaustive, revealed a few broadly categorized
+     supply… through the use of a comprehensive risk assessment and            preventive measures in Australia, Canada, the USA and European
+     risk management approach that encompasses all steps in the water          countries that could potentially reduce the entry of pharmaceuticals into
+     supply from catchment to consumer” (WHO, 2011). The key principles        our environment. These measures are described below.
+     of water safety plans underline the importance of looking at risk
+     assessment and risk management across the entire water cycle starting     4.1 Improved regulations and
+     at source. Adapting this full life cycle approach to pharmaceuticals in
+     drinking-water means that preventing pharmaceuticals from entering            guidance on pharmaceutical waste
+     the environment during their production, consumption and disposal is a        management
+     pragmatic and effective means of risk management.
+                                                                               All health-care facilities should have policies and procedures in place
+     Inappropriate disposal practices, such as flushing unwanted or excess     for the correct management of pharmaceutical waste. In Australia,
+     drugs down toilets and sinks and discarding them in household waste,      the Environmental Protection Authority and the National Health and
+     are common and often a significant contributor of pharmaceuticals         Medical Research Council had guidelines on the management of
+     present in wastewater and other environmental media (e.g. surface         waste generated in health-care facilities. The National Health and
+     waters and landfill leachate). A survey from Germany’s Management         Medical Research Council stated that, where possible, pharmaceutical
+     Strategies for Pharmaceutical Residues in Drinking Water research         waste should be incinerated and should not be sent to landfills or
+     programme showed that consumers discarded 23% of liquid                   discharged to sewers (NHMRC, 1999). Licensed waste disposal
+     pharmaceuticals prescribed and 7% of tablets. While some went into        companies collected all clinical and pharmaceutical waste for disposal
+     household trash, the equivalent amount of pharmaceuticals that was        in authorized waste disposal facilities.
+     flushed away is approximately 364 tons every year (Lubick, 2010).
+     Another survey of households in the United Kingdom in 2003 found that     In the USA, frequently used pharmaceuticals, such as epinephrine,
+     63% of unwanted pharmaceuticals were discarded in household waste         warfarin and selected chemotherapeutic agents, are regulated as
+
+
+
+24
+hazardous waste under the Resource Conservation and Recovery              These programmes can be of different scales, ranging from small one-day
+Act. Failure to comply with the regulations under this Act through        collection events to regular and systematic regional collection, ongoing
+improper management and disposal of waste can potentially constitute      return of unused and excess medicines to participating pharmacies and
+serious violations and incur heavy penalties. To guide stakeholders on    mail-back programmes where excess medicines are returned in prepaid
+acceptable disposal practices, the USEPA supported the development of     packs to government-supervised mailboxes (SCBWMI, 2005). Several
+Managing Pharmaceutical Waste: A 10-Step Blueprint for Health Care        household hazardous waste collection programmes have also added
+Facilities in the United States, which recommends a stepwise approach     pharmaceuticals to the list over the years (Glassmeyer et al., 2009).
+to help health-care facilities develop and implement a comprehensive
+pharmaceutical hazardous waste management programme. This                 In Australia, the Commonwealth Department of Health & Ageing
+blueprint adopts the best practices in waste minimization to meet         Services provided funds to establish a system for the collection and
+regulatory compliance for pharmaceutical waste disposal and               disposal of unwanted medicines, known as the Return Unwanted
+safeguard human health and the environment in a cost-effective manner     Medicines (RUM) Project. Estimates from RUM showed that in 2010–
+(Pines & Smith, 2006).                                                    2011, more than 34 tonnes of unwanted medicines on average were
+                                                                          collected monthly by community pharmacies across Australia and
+To this end, the USEPA (2010b) has also drafted a guidance document,      subsequently incinerated according to guidelines (RUM, 2011).
+Best Management Practices for Unused Pharmaceuticals at Health Care
+Facilities, to advise health-care and veterinary facilities on reducing   In the USA, many scheduled pharmaceutical collection events facilitate
+pharmaceutical waste, on pharmaceutical waste management and              prudent disposal of unwanted medications at the regional level, such
+on application of disposal regulations. The aim is to help reduce the     as the successful “Great Lakes Earth Day Challenge”, which collected
+amount of pharmaceuticals that are discharged to water bodies.            4.5 million pills for safe disposal. The USEPA has also awarded grants
+                                                                          to support take-back of non-controlled, unused medicines at pharmacies
+4.2 Pharmaceutical take-back                                              and mail-back of unused medicines with appropriate involvement of
+                                                                          law enforcement (USEPA, 2010a). Other mechanisms to reduce the
+    programmes                                                            entry of pharmaceuticals into the environment include establishing
+                                                                          best management practices for handling solid wastes and minimizing
+To augment regulations, take-back programmes have been established        discharge from landfills.
+by government and private organizations in several countries to reduce
+the amount of drugs entering our environment (Daughton, 2003,             Canada has formal stewardship programmes for household
+2004; Glassmeyer et al., 2009; Teleosis Institute, 2009). A survey of     pharmaceutical waste at the provincial level or in cities that provide
+households in the United Kingdom in 2003 showed that 22% of excess        convenient options for consumers to return pharmaceuticals to community
+pharmaceuticals were returned to pharmacists; although take-back          pharmacies for safe disposal.
+programmes were effective, further improvement is needed (Bound &
+Voulvoulis, 2005).
+
+
+
+
+                                                                                                                                                     25
+     Europe has widespread standardized take-back programmes. In the           4.4 Conclusion
+     2010 report Pharmaceuticals in the Environment: Results of an EEA
+     Workshop, the European Environment Agency (EEA, 2010) stated that         Appropriate regulations governing disposal practices at point sources of
+     most countries in Europe collect unused drugs separately from household   hazards, widespread take-back programmes, guidance and enhanced
+     waste, usually at pharmacies (a handful also have separate collection     consumer education will support efforts for the proper disposal of
+     sites alongside pharmacies). The national systems are operated and        unwanted and excess medicines and reduce the environmental impact
+     funded by the pharmaceuticals industry, retail pharmacies or the          of pharmaceuticals entering our environment, including water sources.
+     public sector. The operation of the take-back programmes may be the
+     responsibility of the retail pharmacies or of public or private waste     As most pharmaceuticals enter the water cycle through wastewater
+     contractors (Teleosis Institute, 2009).                                   discharges or from poorly controlled manufacturing or production
+                                                                               facilities that are primarily associated with generic medicines, the
+     4.3 Raising consumer awareness                                            discharge of untreated or poorly treated wastewater to water bodies
+                                                                               used as drinking-water sources should be strongly discouraged.
+     Consumers are accustomed to disposing of unwanted and expired
+     medicines through household waste and sewers. Such improper
+     disposal practices release pharmaceuticals into our environment,
+     wastewater and water sources. There is therefore a need to raise
+     public awareness and encourage consumers to adopt proper disposal
+     practices for unwanted pharmaceuticals. In Australia, the RUM Project
+     focuses on raising consumer awareness to inform consumers of the
+     appropriate option for drug disposal (RUM, 2010). In addition to
+     regulations under New York’s Drug Management and Disposal Act, the
+     New York State Department of Environmental Conservation publishes
+     posters for all pharmacies and retail stores that sell drugs to advise
+     consumers on the proper storage and disposal of unwanted medication
+     (DEC, 2010). Consumers can then serve as environmental stewards to
+     reduce water pollution.
+
+
+
+
+26
+5   Conclusions,
+    recommendations
+    and knowledge gaps
+     5. Conclusions, recommendations and knowledge gaps
+
+
+     Pharmaceuticals are synthetic or natural chemicals that can be found in              Targeted investigations conducted in the above-mentioned countries found
+     prescription medicines, over-the-counter therapeutic drugs and veterinary drugs.     that traces of pharmaceuticals in drinking-water are largely present at several
+     They contain active ingredients that are designed to achieve pharmacological         orders of magnitude (more than 1000-fold) below the lowest therapeutic dose
+     effects and confer significant benefits to society. Pharmaceuticals are primarily    and largely below the calculated ADIs. The substantial margins of safety for
+     introduced into the environment via human excretion, sewage effluent, improper       individual compounds suggest that appreciable adverse impacts on human
+     drug disposal, agricultural runoff, and livestock and veterinary waste. The          health are very unlikely at current levels of exposure in drinking-water.
+     ubiquitous use of pharmaceuticals in various settings has resulted in a continuous
+     discharge of pharmaceuticals and metabolites into the environment, leading to        From a treatment perspective, pharmaceuticals are not unusual organic
+     their “pseudo-persistence” in the environment. Significant advancements in the       chemicals, and treatment removal rates are reasonably predictable based
+     sensitivity of detection and analytical technologies and methods have made it        upon the physical and chemical properties of the compounds. Conventional
+     possible to detect very low concentrations of pharmaceuticals in the range of        treatment processes with coagulation, filtration and chlorination can remove
+     nanograms to low micrograms per litre in the water cycle. As pharmaceuticals         about 50% of these compounds, whereas advanced treatment, such as
+     contain active ingredients that are designed to achieve specific pharmacological     ozonation, advanced oxidation, activated carbon and membrane processes
+     effects based on their biological reactivity and biochemical properties, their       (e.g. reverse osmosis, nanofiltration), can achieve higher removal rates; reverse
+     presence at trace concentrations in the water cycle has generated concerns           osmosis, for example, can remove more than 99% of large pharmaceutical
+     among various stakeholders, including governments, regulators and the public,        molecules.
+     over potential risks to human health through very low level exposure via
+     drinking-water.
+                                                                                          5.2 Recommendations
+     5.1 Conclusions                                                                      The substantial margin of safety for consumption of very low concentrations of
+                                                                                          pharmaceuticals in drinking-water suggests that appreciable adverse impacts on
+     Targeted investigative studies conducted in the United Kingdom, the USA and          human health are very unlikely. As such, concerns over pharmaceuticals should
+     Australia have shown that concentrations of pharmaceuticals in surface water         not divert attention and valuable resources of water suppliers and regulators
+     and groundwater sources impacted by wastewater discharges are typically              from other priorities, such as pathogenic microbial water quality issues. The
+     less than 0.1 µg/l (or 100 ng/l). Detection in treated drinking-water is rare;       low risk to human health from current levels of exposure in drinking-water
+     if pharmaceuticals are present, their concentrations are usually well below          suggests that development of formal guideline values for pharmaceuticals in the
+     0.05 µg/l (or 50 ng/l). There are, however, very few systematic monitoring           WHO Guidelines for Drinking-water Quality and the installation of specialized
+     programmes or comprehensive, systematic studies on the occurrence of                 treatment processes to reduce trace concentrations of pharmaceuticals are not
+     pharmaceuticals in drinking-water, and limited occurrence data present one           warranted.
+     of the key challenges in assessing the potential risks associated with trace
+     concentrations of pharmaceuticals in drinking-water.                                 Routine monitoring programmes for pharmaceuticals in water sources and
+                                                                                          drinking-water and additional or specialized drinking-water treatment to reduce
+     Nonetheless, several approaches to screen and prioritize pharmaceuticals have        very low concentrations of pharmaceuticals in drinking-water are not deemed
+     been published in the peer-reviewed literature. MTDs, ADIs and sometimes the         necessary due to the limited public health benefits. However, where local
+     DWELs have been used as reference values by which to derive a margin of              circumstances, such as a catchment survey, indicate a potential for elevated
+     safety between these and the reported or predicted worst-case exposure in            levels of pharmaceuticals in the water cycle (surface water, groundwater,
+     drinking-water.                                                                      wastewater effluent and drinking-water), relevant stakeholders could undertake
+
+
+
+28
+targeted, well-designed and quality-controlled investigative studies to obtain
+more information with which to assess the potential health risks arising from
+                                                                                  5.3 Knowledge gaps and future
+exposure through drinking-water. If necessary, screening values could be              research
+developed based on the MTD or the ADI approaches, and an assessment
+of the need for treatment enhancement could also be considered within the         Although current risk assessments indicate that very low concentrations of
+context of other risks and priorities using water safety plans.                   pharmaceuticals in drinking-water are very unlikely to pose any risks to human
+                                                                                  health, there are knowledge gaps in terms of assessing the risks associated
+Reduction of human exposure to pharmaceuticals through drinking-water can         with long-term, low-level exposures to pharmaceuticals and possible combined
+be achieved through a combination of preventive measures, such as take-           effects of chemical mixtures, including pharmaceuticals. Future research
+back programmes, regulations, public guidance and consumer education to           investigating the possible additive or synergistic effects of mixtures would be
+encourage the proper disposal of unwanted pharmaceuticals and minimize            beneficial for an accurate exposure assessment to determine whether there are
+the introduction of pharmaceuticals into the environment. It is also imperative   any potential risks to human health, taking into account sensitive subpopulations.
+to enhance public communication and education on water quality issues from
+the human health standpoint. For example, conveying to the public the potential   One of the key challenges in estimating exposures to pharmaceuticals in
+health risks from exposure to very low concentrations of pharmaceuticals in       drinking-water and assessing the potential risks to human health is the limited
+drinking-water will help them to better understand this issue relative to other   occurrence data for the diverse group of human and veterinary pharmaceuticals
+hazards, such as waterborne pathogenic microorganisms. However, in the            in use today. Implementing monitoring programmes is resource intensive in
+long term, improvement of wastewater treatment to more efficiently remove         terms of costs, human resources and infrastructure, and there is also a lack of
+a range of organic substances that are seen as emerging contaminants of           standardized sampling and analysis protocols to support monitoring studies.
+concern would provide a more sustainable and comprehensive solution in            As such, future research looking into cost-effective methods to prioritize
+preventing their entry into the water environment.                                pharmaceuticals within the context of an overall risk assessment will benefit our
+                                                                                  appreciation of low levels of pharmaceuticals in drinking-water from a human
+                                                                                  health perspective.
+
+
+
+
+                                                                                                                                                                       29
+     References
+
+     Adams C et al. (2002).                                                                 Boucard T, Gravell A (2006).
+     Removal of antibiotics from surface and distilled water in conventional water          Personal communication: Concentrations of fluoxetine and norfluoxetine in UK
+     treatment processes. Journal of Environmental Engineering, 128:253–260.                sewage effluents and river waters. United Kingdom Environment Agency [cited in
+                                                                                            DWI, 2007].
+     Aherne GW, Hardcastle A, Nield AH (1990).
+     Cytotoxic drugs and the aquatic environment: estimation of bleomycin in river and      Bound JP, Voulvoulis N (2005).
+     water samples. Journal of Pharmacy and Pharmacology, 42:741–742 [cited in              Household disposal of pharmaceuticals as a pathway for aquatic contamination in
+     DWI, 2007].                                                                            the United Kingdom. Environmental Health Perspectives, 113:1705–1711.
+
+     Alder AC et al. (2006).                                                                Bound JP, Voulvoulis N (2006).
+     Consumption and occurrence. In: Ternes TA, Joss A, eds. Human pharmaceuticals,         Predicted and measured concentrations for selected pharmaceuticals in UK rivers:
+     hormones and fragrances: the challenge of micropollutants in urban water               implications for risk assessment. Water Research, 40:2885–2892 [cited in DWI,
+     management. London, IWA Publishing [cited in DWI, 2007].                               2007].
+
+     Andreozzi R et al. (2003).                                                             Boyd GR et al. (2003).
+     Ozonation and H2O2/UV treatment of clofibric acid in water: a kinetic investigation.   Pharmaceuticals and personal care products (PPCPs) in surface water and treated
+     Journal of Hazardous Materials, B103:233–246.                                          waters of Louisiana, USA and Ontario, Canada. Science of the Total Environment,
+                                                                                            311:135–149.
+     ANSES (2011).
+     Campagne nationale d’occurrence des résidus de médicaments dans les eaux               Bull RJ et al. (2011).
+     destinées à la consommation humaine. Ressources en eaux brutes et eaux traitées.       Therapeutic dose as the point of departure in assessing potential health hazards
+     Nancy, Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement    from drugs in drinking water and recycled municipal wastewater. Regulatory
+     et du travail, Laboratoire d’Hydrologie de Nancy.                                      Toxicology and Pharmacology, 60:1–19.
+
+     Ashton D, Hilton M, Thomas KV (2004).                                                  Buser HR, Muller MD, Theobald N (1998).
+     Investigating the environmental transport of human pharmaceuticals to streams in the   Occurrence of the pharmaceutical drug clofibric acid and the herbicide mecoprop
+     United Kingdom. Science of the Total Environment, 333:167–184 [cited in DWI,           in various Swiss lakes and in the North Sea. Environmental Science & Technology,
+     2007].                                                                                 32(1):188–192.
+
+     Bendz D et al. (2005).                                                                 Buser HR, Poiger T, Muller MD (1999).
+     Occurrence and fate of pharmaceutically active compounds in the environment, a         Occurrence and environmental behavior of the chiral pharmaceutical drug ibuprofen
+     case study: Hoje River in Sweden. Journal of Hazardous Materials, 122:195–204.         in surface waters and in wastewater. Environmental Science & Technology,
+                                                                                            33(15):2529–2535.
+     Benotti MJ et al. (2009).
+     Pharmaceuticals and endocrine disrupting compounds in U.S. drinking water.             Castiglioni S et al. (2006).
+     Environmental Science & Technology, 43(3):597–603.                                     Removal of pharmaceuticals in sewage treatment plants in Italy. Environmental
+                                                                                            Science & Technology, 40:357–363.
+     Bercu JP et al. (2008).
+     Human health risk assessment for three neuropharmaceutical compounds in surface        Celiz MD, Tso J, Aga DS (2009).
+     waters. Regulatory Toxicology and Pharmacology, 50:420–427.                            Pharmaceutical metabolites in the environment: analytical challenges and ecological
+                                                                                            risks. Environmental Toxicology and Chemistry, 28(12):2473–2484.
+
+
+
+30
+Christensen FM (1998).                                                                 Fatta D et al. (2007).
+Pharmaceuticals in the environment—a human risk? Regulatory Toxicology and             Analytical methods for tracing pharmaceutical residues in water and wastewater.
+Pharmacology, 28:212–221.                                                              Trends in Analytical Chemistry, 26(6):515–533.
+
+Daughton CG (2001).                                                                    Focazio MJ et al. (2008).
+Pharmaceuticals and personal care products in the environment: overarching issues      A national reconnaissance for pharmaceuticals and other organic wastewater
+and overview. ACS Symposium Series, 791:2–38.                                          contaminants in the United States—II) Untreated drinking water sources. Science of
+                                                                                       the Total Environment, 402:201–216.
+Daughton CG (2003).
+Cradle-to-cradle stewardship of drugs for minimizing their environmental disposition
+                                                                                       Gabet-Giraud V et al. (2010).
+while promoting human health. II. Drug disposal, waste reduction and future
+                                                                                       Occurrence and removal of estrogens and beta blockers by various processes in
+directions. Environmental Health Perspectives, 111:775–785.
+                                                                                       wastewater treatment plants. Science of the Total Environment, 408:4257–4269.
+Daughton CG (2004).
+PPCPs in the environment: future research—beginning with the end always in mind.       Garrison AW, Pope JD, Allen FR (1976).
+In: Kümmerer K, ed. Pharmaceuticals in the environment, 2nd ed. Springer, pp.          GC/MS analysis of organic compounds in domestic wastewaters. In: Keith LH, ed.
+463–495.                                                                               Identification and analysis of organic pollutants in water. Ann Arbor, MI, Ann Arbor
+                                                                                       Science Publishers Inc., pp. 517–556.
+Daughton CG, Ternes TA (1999).
+Pharmaceuticals and personal care products in the environment: agents of subtle        Glassmeyer ST et al. (2009).
+change? Environmental Health Perspectives, 107(Suppl. 6):907–938.                      Disposal practices for unwanted residential medications in the United States.
+                                                                                       Environment International, 35:566–572.
+DEC (2010).
+Drugs in New York’s waters: how drugs get into our waters and why DEC                  Gomes RL, Lester JN (2003).
+is concerned. New York State Department of Environmental Conservation                  Endocrine disrupters in drinking water and water reuse. In: Birkett JW, Lester JN, eds.
+(http://www.dec.ny.gov/chemical/45083.html).                                           Endocrine disrupters in wastewater and sludge treatment processes. Boca Raton, FL,
+                                                                                       CRC Press, pp. 219–266.
+DWI (2007).
+Desk based review of current knowledge on pharmaceuticals in drinking water and        Heberer T (2002).
+estimation of potential levels. Final report prepared by Watts and Crane Associates    Occurrence, fate, and removal of pharmaceutical residues in the aquatic
+for Drinking Water Inspectorate, Department for Environment, Food and Rural Affairs
+                                                                                       environment: a review of recent research data. Toxicology Letters, 131:5–17.
+(Defra Project Code: CSA 7184/WT02046/DWI70/2/213; http://dwi.defra.
+gov.uk/research/completed-research/reports/dwi70-2-213.pdf).
+                                                                                       Heberer T, Reddersen K, Mechlinski A (2002).
+EEA (2010).                                                                            From municipal sewage to drinking water: fate and removal of pharmaceutical
+Pharmaceuticals in the environment: results of an EEA workshop. Copenhagen,            residues in the aquatic environment in urban areas. Water Science & Technology,
+European Environment Agency (EEA Technical Report No. 1; http://www.eea.europa.        46:81–88.
+eu/publications/pharmaceuticals-in-the-environment-result-of-an-eea-workshop).
+                                                                                       Heberer T, Schmidt-Bäumler K, Stan HJ (1998).
+FAO/WHO (2009).                                                                        Occurrence and distribution of organic contaminants in the aquatic system in
+Principles and methods for the risk assessment of chemicals in food. Rome, Food        Berlin. Part II: Substituted phenols in Berlin surface water. Acta Hydrochimica et
+and Agriculture Organization of the United Nations; Geneva, World Health               Hydrobiologica, 26:272–278.
+Organization (Environmental Health Criteria 240).
+
+                                                                                                                                                                                 31
+     Heberer T et al. (2001).                                                                 Kimura K et al. (2004).
+     Occurrence of pharmaceutical residues in sewage, river, ground, and drinking             Rejection of neutral endocrine disrupting compounds (EDCs) and pharmaceutical
+     water in Greece and Berlin (Germany). In: Daughton C, Jones-Lepp T, eds.                 active compounds (PhACs) by RO membranes. Journal of Membrane Science,
+     Pharmaceuticals and personal care products in the environment; scientific and            245(1–2):71–78.
+     regulatory issues. Washington, DC, American Chemical Society.
+                                                                                              Klavarioti M, Mantzavinos D, Kassinos D (2009).
+     Heberer T et al. (2004).                                                                 Removal of residual pharmaceuticals from aqueous systems by advanced oxidation
+     Field studies on the fate and transport of pharmaceutical residues in bank filtration.   processes. Environment International, 35:402–417.
+     Ground Water Monitoring and Remediation, 24:70–77.
+                                                                                              Kolpin DW et al. (2002).
+     Hignite C, Azarnoff DL (1977).                                                           Pharmaceuticals, hormones, and other organic wastewater contaminants in U.S.
+     Drugs and drug metabolites as environmental contaminants: chlorophenoxyisobutyrate       streams, 1999–2000: a national reconnaissance. Environmental Science &
+     and salicylic acid in sewage water effluent. Life Sciences, 20(2):337–341.               Technology, 36:1202–1211.
+
+     Huber MM et al. (2003).                                                                  Kroes R et al. (2004).
+     Oxidation of pharmaceuticals during ozonation and advanced oxidation processes.          Structure-based thresholds of toxicological concern (TTC): guidance for application
+     Environmental Science & Technology, 37:1016–1024.                                        to substances present at low levels in the diet. Food and Chemical Toxicology,
+                                                                                              42:65–83.
+     Huber MM et al. (2005).
+     Oxidation of pharmaceuticals during water treatment with chlorine dioxide. Water         Lee S et al. (2008).
+     Research, 39:3607–3617.                                                                  Efficient removals of tris(2-chloroethyl) phosphate (TCEP) and perchlorate using NF
+                                                                                              membrane filtrations. Desalination, 221:234–237.
+     Huerta-Fontela M, Galceran MT, Ventura F (2011).
+     Occurrence and removal of pharmaceuticals and hormones through drinking water            Loos R et al. (2007).
+     treatment. Water Research, 45:1432–1442.                                                 Polar herbicides, pharmaceutical products, perfluorooctanesulfonate (PFOS),
+                                                                                              perfluorooctanoate (PFOA), and nonylphenol and its carboxylates and ethoxylates
+     Jelic A et al. (2011).                                                                   in surface and tap waters around Lake Maggiore in Northern Italy. Analytical and
+     Occurrence, partition and removal of pharmaceuticals in sewage water and sludge          Bioanalytical Chemistry, 387:1469–1478.
+     during wastewater treatment. Water Research, 45:1165–1176.
+                                                                                              Loraine GA, Pettigrove ME (2006).
+     Jones OA, Lester JN, Voulvoulis N (2005).                                                Seasonal variations in concentrations of pharmaceuticals and personal care
+     Pharmaceuticals: a threat to drinking water? Trends in Biotechnology, 23(4):163–         products in drinking water and reclaimed wastewater in Southern California.
+     167.                                                                                     Environmental Science & Technology, 40:687–695.
+
+     Joss A et al. (2005).                                                                    Lubick N (2010).
+     Removal of pharmaceuticals and fragrances in biological wastewater treatment.            Drugs in the environment: do pharmaceutical take-back programs make a
+     Water Research, 39:3139–3152.                                                            difference? Environmental Health Perspectives, 118(5):A211–A214.
+
+     Kasprzyk-Hordern B, Dinsdale RM, Guwy AJ (2009).                                         McDowell DC et al. (2005).
+     The removal of pharmaceuticals, personal care products, endocrine disruptors and         Ozonation of carbamazepine in drinking water: identification and kinetic study of
+     illicit drugs during wastewater treatment and its impact on the quality of receiving     major oxidation products. Environmental Science & Technology, 39:8014–8022.
+     waters. Water Research, 43:363–380.
+                                                                                              Meek ME et al. (2011).
+     Khiari D (2007).                                                                         Risk assessment of combined exposure to multiple chemicals: a WHO/IPCS
+     Endocrine disruptors, pharmaceuticals, and personal care products in drinking            framework. Regulatory Toxicology and Pharmacology, 60:S1–S14.
+     water: an overview of AwwaRF research to date. Denver, CO, Awwa Research
+     Foundation.                                                                              Miao X-S et al. (2004).
+                                                                                              Occurrence of antimicrobials in the final effluent of wastewater treatment plants in
+     Kim SD et al. (2007).                                                                    Canada. Environmental Science & Technology, 38(13):3533–3541.
+     Occurrence and removal of pharmaceuticals and endocrine disruptors in South
+     Korean surface, drinking, and waste waters. Water Research, 41:1013–1021.
+
+
+32
+Mompelat S, Le Bot B, Thomas O (2009).                                                  Rahman MF, Yanful EK, Jasim SY (2009).
+Occurrence and fate of pharmaceutical products and by-products, from resource to        Occurrences of endocrine disrupting compounds and pharmaceuticals in the
+drinking water. Environment International, 35:803–814.                                  aquatic environment and their removal from drinking water: challenges in the context
+                                                                                        of the developing world. Desalination, 248:578–585.
+Mons MN, Hoogenboom AC, Noij THM (2003).
+Pharmaceuticals and drinking water supply in the Netherlands. Nieuwegein, Kiwa          Reddersen K, Heberer T, Dünnbier U (2002).
+Water Research (Kiwa Report No. BTO 2003.040).                                          Identification and significance of phenazone drugs and their metabolites in ground-
+                                                                                        and drinking water. Chemosphere, 49:539–544.
+Nghiem LD, Schäfer AI, Elimelech M (2005).
+                                                                                        Roberts PH, Thomas KV (2006).
+Pharmaceutical retention mechanisms by nanofiltration membranes. Environmental
+                                                                                        The occurrence of selected pharmaceuticals in wastewater effluent and surface
+Science & Technology, 39(19):7698–7705.
+                                                                                        waters of the lower Tyne catchment. Science of the Total Environment, 356:143–
+                                                                                        153 [cited in DWI, 2007].
+NHMRC (1999).
+National guidelines for waste management in the health industry. Canberra,              Rosenfeldt EJ, Linden KG (2004).
+National Health and Medical Research Council (http://www.nhmrc.gov.au/_files_           Degradation of endocrine disrupting chemicals bisphenol A, ethinyl estradiol and
+nhmrc/file/publications/synopses/withdrawn/eh11.pdf).                                   estradiol during UV photolysis and advanced oxidation processes. Environmental
+                                                                                        Science & Technology, 38:5476–5486.
+NRMMC, EPHC, NHMRC (2008).
+Australian guidelines for water recycling: managing health and environmental risks      Rowney NC, Johnson AC, Williams RJ (2009).
+(PHASE 2). Augmentation of drinking water supplies. Natural Resource Management         Cytotoxic drugs in drinking water: a prediction and risk assessment exercise for the
+Ministerial Council, Environment Protection and Heritage Council and National           Thames catchment in the United Kingdom. Environmental Toxicology and Chemistry,
+Health and Medical Research Council (http://www.qwc.qld.gov.au/prw/pdf/                 28(12):2733–2743.
+agwr-augmentation-drinking-water-supplies-08-05.pdf).
+                                                                                        RUM (2010).
+Paxéus N (2004).                                                                        Consumer awareness. Cheltenham, The National Return and Disposal of Unwanted
+                                                                                        Medicine Limited, Returning Unwanted Medicine Project (http://www.returnmed.
+Removal of selected non-steroidal anti-inflammatory drugs (NSAIDs), gemfibrozil,
+                                                                                        com.au/consumer-awareness).
+carbamazepine, β-blockers, trimethoprin and triclosan in conventional wastewater
+treatment plants in five EU countries and their discharge to the aquatic environment.
+                                                                                        RUM (2011).
+Water Science & Technology, 50(5):253–260.                                              Collection 2010–2011. Cheltenham, The National Return and Disposal of Unwanted
+                                                                                        Medicine Limited, Returning Unwanted Medicine Project (http://www.returnmed.
+Pérez S, Barceló D (2007).                                                              com.au/collections).
+Application of advanced MS techniques to analysis and identification of human
+and microbial metabolites of pharmaceuticals in the aquatic environment. Trends in      SCBWMI (2005).
+Analytical Chemistry, 26(6):494–514.                                                    Discussion paper on pharmaceutical disposal to sewer systems. White paper
+                                                                                        prepared by the Emerging Contaminants Working Group of the Santa Clara Basin
+Pines E, Smith C (2006).                                                                Watershed Management Initiative (http://www.scbwmi.org/PDFs/WMI_Pharm_
+Managing pharmaceutical waste: a 10-step blueprint for health care facilities in        White_Paper_FinalMarch05.pdf).
+the United States. Hospitals for a Healthy Environment (http://www.premierinc.
+com/quality-safety/tools-services/safety/topics/pharma-waste/downloads/h2e-             Schulman LJ et al. (2002).
+pharma-blueprint-04-15-06.pdf).                                                         A human health risk assessment of pharmaceuticals in the aquatic environment.
+                                                                                        Human and Ecological Risk Assessment, 8:657–680.
+Pinkston KE, Sedlak DL (2004).
+                                                                                        Schwab RW et al. (2005).
+Transformation of aromatic ether- and amine-containing pharmaceuticals during
+                                                                                        Human pharmaceuticals in US surface waters: a human health risk assessment.
+chlorine disinfection. Environmental Science & Technology, 38:4019–4025.
+                                                                                        Regulatory Toxicology and Pharmacology, 42:296–312.
+
+Radjenović J et al. (2008).                                                             Simazaki D et al. (2008).
+Rejection of pharmaceuticals in nanofiltration and reverse osmosis membrane             Removal of selected pharmaceuticals by chlorination, coagulation–sedimentation
+drinking water treatment. Water Research, 42(14):3601–3610.                             and powdered activated carbon treatment. Water Science & Technology,
+                                                                                        58(5):1129–1135.
+
+                                                                                                                                                                               33
+     Snyder SA (2010).                                                                      Ternes TA et al. (1999).
+     Occurrence of pharmaceuticals in U.S drinking water. ACS Symposium Series,             Behavior and occurrence of estrogens in municipal sewage treatment plants—1.
+     1048:69–80.                                                                            Investigations in Germany, Canada and Brazil. Science of the Total Environment,
+                                                                                            225:81–90.
+     Snyder SA et al. (2003).
+     Pharmaceuticals, personal care products and endocrine disruptors in water:             Ternes TA et al. (2002).
+     implications for the water industry. Environmental Engineering Science, 20:449–        Removal of pharmaceuticals during drinking water treatment. Environmental Science
+     469.                                                                                   & Technology, 36:3855–3863.
+
+     Snyder SA et al. (2006).                                                               Ternes TA et al. (2003).
+     Role of membranes and activated carbon in the removal of endocrine disruptors          Ozonation: a tool for removal of pharmaceuticals, contrast media and musk
+     and pharmaceuticals. Desalination, 202:156–181.                                        fragrances from wastewater? Water Research, 37:1976–1982.
+
+     Snyder SA et al. (2007).                                                               Ternes TA et al. (2005).
+     Removal of EDCs and pharmaceuticals in drinking water and reuse treatment              Assessment of technologies for the removal of pharmaceuticals and personal care
+     processes. Denver, CO, Awwa Research Foundation.                                       products in sewage and drinking water to improve the indirect potable water reuse.
+                                                                                            POSEIDON project detailed report (EU Contract No. EVK1-CT-2000-00047).
+     Snyder SA et al. (2008).
+     Toxicological relevance of EDCs and pharmaceuticals in drinking water. Denver,         Thomas KV, Hilton MJ (2004).
+     CO, Awwa Research Foundation.                                                          The occurrence of selected human pharmaceutical compounds in UK estuaries.
+                                                                                            Marine Pollution Bulletin, 49:436–444 [cited in DWI, 2007].
+     Spellman FR (2010).
+     Spellman’s standard handbook for wastewater operators. Volume III. Advanced            Togola A, Budzinski H (2008).
+     level, 2nd ed. CRC Press.                                                              Multi-residue analysis of pharmaceutical compounds in aqueous samples. Journal of
+                                                                                            Chromatography A, 1177:150–158.
+     Stackelberg PE et al. (2004).
+     Persistence of pharmaceutical compounds and other organic wastewater                   USEPA (2008a).
+     contaminants in a conventional drinking-water treatment plant. Science of the Total    Health services industry study: management and disposal of unused pharmaceuticals
+     Environment, 329:99–113.                                                               (interim technical report). Washington, DC, United States Environmental Protection
+                                                                                            Agency (EPA-821-R-08-013).
+     Stackelberg PE et al. (2007).
+     Efficiency of conventional drinking-water-treatment processes in removal of            USEPA (2008b).
+     pharmaceuticals and other organic compounds. Science of the Total Environment,         Approaches to screening for risk from pharmaceuticals in drinking-water and
+     377(2–3):255–272.                                                                      prioritization for further evaluation. Washington, DC, United States Environmental
+                                                                                            Protection Agency (Contract No. C-07-021, WA-B-02, Task 6 under the supervision
+     Tabak HH, Bunch RL (1970).                                                             of Dr O. Conerly).
+     Steroid hormones as water pollutants. I. Metabolism of natural and synthetic
+     ovulation-inhibiting hormones by microorganisms of activated sludge and primary        USEPA (2010a).
+     settled sewage. Developments in Industrial Microbiology, 11:367–376.                   Report released on pharmaceutical mail-back pilot program funded by EPA: Agency
+                                                                                            provided $150,000 grant to University of Maine’s Center on Aging to undertake
+     Teleosis Institute (2009).                                                             study. Washington, DC, United States Environmental Protection Agency (http://
+     Medicine take back locations. Berkeley, CA, Teleosis Institute (http://www.teleosis.   yosemite.epa.gov/opa/admpress.nsf/d0cf6618525a9efb85257359003fb69d
+     org/gpp-locations.php).                                                                /97c00306844616bb852577270052ab58!OpenDocument).
+
+     Ternes T (1998).                                                                       USEPA (2010b).
+     Occurrence of drugs in German sewage treatment plants and rivers. Water                Guidance document: Best management practices for unused pharmaceuticals at
+     Research, 32:3245–3260.                                                                health care facilities. Draft. Washington, DC, United States Environmental Protection
+                                                                                            Agency (EPA-821-R-10-006; http://water.epa.gov/scitech/wastetech/guide/upload/
+     Ternes TA, Joss A, eds (2006).                                                         unuseddraft.pdf).
+     Human pharmaceuticals, hormones and fragrances: the challenge of micropollutants
+     in urban water management. London, IWA Publishing.
+
+
+34
+van der Aa NGFM et al. (2009).                                                          WHO (2011).
+Drugs of abuse and tranquilizers in Dutch surface waters, drinking water and            Guidelines for drinking-water quality, 4th ed. Geneva, World Health Organization.
+wastewater. Results of screening monitoring 2009. Bilthoven, National Institute for
+Public Health and the Environment (RIVM Report No. 703719064/2010).                     Wick A et al. (2009).
+                                                                                        Fate of beta blockers and psycho-active drugs in conventional wastewater treatment.
+Vanderford BJ, Snyder SA (2006).                                                        Water Research, 43(4):1060–1074.
+Analysis of pharmaceuticals in water by isotope dilution liquid chromatography/
+tandem mass spectrometry. Environmental Science & Technology, 40:7312–7320.             Xu W-H et al. (2007).
+                                                                                        Determination of selected antibiotics in the Victoria Harbour and the Pearl River,
+Van De Steene JC, Stove CP, Lambert WE (2010).                                          South China using high-performance liquid chromatography–electrospray ionization
+A field study on 8 pharmaceuticals and 1 pesticide in Belgium: removal rates in         tandem mass spectrometry. Environmental Pollution, 145(3):672–679.
+waste water treatment plants and occurrence in surface water. Science of the Total
+Environment, 408:3448–3453.                                                             Yoon Y et al. (2003).
+                                                                                        HPLC-fluorescence detection and adsorption of bisphenol A, 17β-estradiol,
+Versteegh JFM, van der Aa NGFM, Dijkman E (2007).                                       and 17α-ethynyl estradiol on powdered activated carbon. Water Research,
+Pharmaceuticals in drinking water and drinking water sources. Results of the            37(14):3530–3537.
+monitoring program 2005/2006. Bilthoven, National Institute for Public Health and
+the Environment, pp. 1–53 (RIVM Report No. 703719016/2007).                             Yoon Y et al. (2006).
+                                                                                        Nanofiltration and ultrafiltration of endocrine disrupting compounds, pharmaceuticals
+Vieno NM, Tuhkanen T, Kronberg L (2005).                                                and personal care products. Journal of Membrane Science, 270:88–100.
+Seasonal variation in the occurrence of pharmaceuticals in effluents from a sewage
+treatment plant and in the recipient water. Environmental Science & Technology,         Zhang DQ et al. (2011).
+39:8220–8226.                                                                           Removal of pharmaceutical compounds in tropical constructed wetlands. Ecological
+                                                                                        Engineering, 37(3):460–464.
+Vieno N, Tuhkanen T, Kronberg L (2006).
+Removal of pharmaceuticals in drinking water treatment: effect of chemical              Zhang YJ, Geissen SU, Gal C (2008).
+coagulation. Environmental Technology, 27:183–192.                                      Carbamazepine and diclofenac: removal in wastewater treatment plants and
+                                                                                        occurrence in water bodies. Chemosphere, 73(8):1151–1161.
+Vieno N, Tuhkanen T, Kronberg L (2007).
+Elimination of pharmaceuticals in sewage treatment plants in Finland. Water             Ziylan A, Ince NH (2011).
+Research, 41:1001–1012.                                                                 The occurrence and fate of anti-inflammatory and analgesic pharmaceuticals
+                                                                                        in sewage and fresh water: treatability by conventional and non-conventional
+Watkinson AJ, Murby EJ, Costanzo SD (2007).                                             processes. Journal of Hazardous Materials, 187(1–3):24–36.
+Removal of antibiotics in conventional and advanced wastewater treatment:
+implications for environmental discharge and wastewater recycling. Water Research,      Zuccato E et al. (2000).
+41(18):4164–4176.                                                                       Presence of therapeutic drugs in the environment. Lancet, 355(9217):1789–1790.
+
+Watts CD et al. (1983).                                                                 Zühlke S et al. (2004).
+Identification of non-volatile organics in water using field desorption mass            Detection and identification of phenazone-type drugs and their microbial
+spectrometry and high performance liquid chromatography. In: Angeletti G, Bjørseth      metabolites in ground and drinking water applying solid-phase extraction and gas
+A, eds. Analysis of organic micropollutants in water. Dordrecht, D. Reidel Publishing   chromatography with mass spectrometric detection. Journal of Chromatography A,
+Co., pp. 120–131 [cited in DWI, 2007].                                                  1050:201–209.
+
+Webb S et al. (2003).                                                                   Zwiener C, Frimmel FH (2000).
+Indirect human exposure to pharmaceuticals via drinking water. Toxicology Letters,      Oxidative treatment of pharmaceuticals in water. Water Research, 34(6):1881–
+142:157–167.                                                                            1885.
+
+Westerhoff P et al. (2005).
+Fate of endocrine disruptor, pharmaceutical, and personal care product chemicals
+during simulated drinking water treatment processes. Environmental Science &
+Technology, 39(17):6649–6663.
+
+
+                                                                                                                                                                                35
+Reports of trace concentrations of pharmaceuticals
+in the water cycle have raised concerns among
+various stakeholders, such as drinking-water
+regulators, governments, water suppliers and the
+public, over potential human health risks from
+exposure to very low levels of pharmaceuticals in
+drinking-water.
+
+This technical report aims to provide practical
+guidance and recommendations in managing
+concerns over pharmaceuticals in drinking-water,
+taking into consideration the available scientific
+knowledge and evidence. It emphasizes the
+importance to prioritize this emerging issue in the
+overall context of water safety management, which
+includes microbial and other chemical risks that may
+threaten the safety of drinking-water.
+
+
+
+
+                                                       ISBN 978 92 4 150208 5
+

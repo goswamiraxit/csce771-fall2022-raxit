@@ -1,0 +1,199 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Pascagoula
+River
+
+Sandy Run
+
+418613
+
+Lamar
+
+Recreation
+
+Pathogens
+
+From headwaters to mouth at Black Creek
+
+Pascagoula
+River
+
+Souenlovie Creek
+
+404811
+
+Clarke, Jasper
+
+Aquatic Life
+Use Support
+
+From confluence with Penantly Creek to confluence
+with Twistwood Creek
+
+Pascagoula
+River
+
+Sowashee Creek
+
+400811
+
+Lauderdale
+
+Aquatic Life
+Use Support
+
+Pascagoula
+River
+
+Sowashee Creek
+
+423711
+
+Lauderdale
+
+Aquatic Life
+Use Support
+
+Pascagoula
+River
+
+Sowashee Creek
+
+400911
+
+Lauderdale
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+Total
+Nitrogen,
+Total
+Phosphorus
+Total
+Nitrogen,
+Total
+Phosphorus
+Total
+Nitrogen,
+Total
+Phosphorus
+
+Pascagoula
+River
+
+Tallahala Creek
+
+413711
+
+Jones, Jasper
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence of Talahata Creek to confluence of
+Big Reely Creek
+
+Pascagoula
+River
+
+Tallahala Creek
+
+413712
+
+Jones
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Big Reely Creek to MWS 4138
+boundary
+
+Pascagoula
+River
+
+Tallahala Creek
+
+413812
+
+Jones
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From MWS 4137 boundary to confluence with
+Tallahoma Creek
+
+Pascagoula
+River
+
+Tallahala Creek
+
+415511
+
+Jones, Forrest,
+Perry
+
+Aquatic Life
+Use Support
+
+pH, TN, TP
+
+From confluence with Courtney Creek to MWS 4156
+boundary near Hammock Branch
+
+Pascagoula
+River
+
+Tallahoma Creek
+
+412911
+
+Jones
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Horse Creek to confluence
+with Tallahala Creek
+
+31
+
+At Meridian from headwaters to confluence with
+Unnamed Tributary at MWS 4237 boundary
+
+From MWS 4008 boundary to MWS 4009 boundary
+
+From confluence with Unnamed Tributary at MWS
+4237 boundary to confluence with Okatibbee Creek
+
+

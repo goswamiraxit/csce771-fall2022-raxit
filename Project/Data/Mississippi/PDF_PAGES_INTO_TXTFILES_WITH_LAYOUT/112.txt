@@ -1,0 +1,50 @@
+Acute Toxicity of Effluents and Receiving Waters to Fresh water and Marine Organisms, Fourth
+Edition, (EPA-600/4-90/027) or most recent edition. For estuarine testing, dilution water shall
+consist of synthetic seawater or hyper-saline brine combined to achieve a salinity of 20 parts per
+thousand according to Methods for Measuring the Acute Toxicity of Effluents and Receiving
+Waters to Freshwater and Marine Organisms, Fourth Edition, (EPA-600/4-90/027) or most
+recent edition. These dilution waters will be deemed acceptable if the survival of the control
+organisms in the toxicity tests is 90% or greater.
+
+(d)     A standard reference toxicant quality assurance test (acute) shall be conducted
+concurrently with the effluent tests using both species used in the toxicity tests. Alternatively, if
+a lab conducts monthly QA/QC reference toxicant tests for both species as part of their SOP,
+these results may be submitted in lieu of the above mentioned concurrent tests. In either case the
+reference toxicant test results must be submitted in the final report as well as on the Mississippi
+Office of Pollution Control NPDES Whole Effluent Toxicity Testing Report Form.
+
+3.      The permittee shall conduct the first series of tests specified in Section 2 above within 90
+days of the commencement of the discharge. The tests shall be conducted quarterly thereafter for
+twelve (12) consecutive months, provided that the acute LC50 is greater than or equal to the
+product of 3 times the IWC%. After the first year of testing, the frequency of monitoring will be
+reduced to once per six months for the life of the permit. Sampling shall be timed to cover the
+seasonal extremes of the year (hot- dry and cold-wet). The results of these acute toxicity tests
+shall be reported to the Mississippi Environmental Quality Permit Board on the next quarterly
+discharge monitoring report. Final acute toxicity test results shall be in report form as outlined in
+Methods for Measuring the Acute Toxicity of Effluents to Fresh water and Marine Organisms,
+Fourth Edition, (EPA-600/4-90/027) or most recent edition. Along with this report, the permittee
+must submit a completed Mississippi Office of Pollution Control NPDES Whole Effluent
+Toxicity Testing Report Form within two weeks following test completion.
+
+4.       If either toxicity test results in an LC50 value of less than the product of 3 times the
+IWC%, the permittee shall initiate a second toxicity test within 2 weeks after the completion of
+the first toxicity test using the organism(s) that failed. The LC50 determinations from these tests
+shall be reported to the Mississippi Environmental Quality Permit Board within two weeks after
+completion of the test.
+
+(a)In the event that the results of any toxicity test reveals that the LC50 of the permittee's effluent
+is less than the product of 3 times the IWC%, then this finding will constitute a violation of Part I
+of this permit. In the event the permittee passes the second toxicity test, the permittee shall
+resume testing in accordance with the testing schedule set forth in the permit. In the event the
+permittee fails the second WET test, the permittee shall submit a Toxicity Reduction Evaluation
+Plan (TREP) within 45 days following completion of the follow-up tests to reduce the toxicity of
+the effluent to safe levels12. The first phase of the TREP shall include monitoring to characterize
+the toxicity of the effluent.
+
+(b)    In addition to the specific conditions of this permit, the permittee shall comply with all
+applicable conditions of 40 CFR 122.7 and 40 CFR 122.61 (06-03-93).
+12
+     Safe levels will be determined by WPC-2.
+
+                                                 112
+

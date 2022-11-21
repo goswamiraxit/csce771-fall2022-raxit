@@ -1,0 +1,345 @@
+Basin
+
+Yazoo
+River
+
+Water Body
+Name
+
+Dump Lake
+
+Yazoo
+River
+
+Dump Lake
+
+Yazoo
+River
+
+Lake
+Washington
+
+Yazoo
+River
+
+Lake
+Washington
+
+Yazoo
+River
+
+Yazoo
+River
+
+Mossy Lake
+
+Mossy Lake
+
+Yazoo
+River
+
+Mossy Lake
+
+Yazoo
+River
+
+North Fork
+Tillatoba
+Creek
+
+Yazoo
+River
+
+Roebuck
+Lake
+
+Yazoo
+River
+
+Roebuck
+Lake
+
+Yazoo
+River
+
+Roebuck
+Lake
+
+Yazoo
+River
+
+Roebuck
+Lake
+
+Yazoo
+River
+Yazoo
+River
+Yazoo
+River
+
+Short Creek
+
+Six Mile Lake
+
+Six Mile Lake
+
+Water
+Body Id
+
+County
+
+Impair
+ed Use
+
+Pollutant
+
+Location
+
+Listing Change
+
+Yazoo
+
+Aquatic
+Life Use
+Support
+
+Nutrients
+
+Near Satartia off Dump
+Lake Road near boat ramp
+
+TMDL Complete
+06/30/2003
+
+Yazoo
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+Near Satartia off Dump
+Lake Road near boat ramp
+
+TMDL Complete
+06/30/2003
+
+Washington
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+Entire Lake Washington
+
+TMDL Complete
+06/30/2003
+
+Washington
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+Entire Lake Washington
+
+TMDL Complete
+06/30/2003
+
+Leflore
+
+Aquatic
+Life Use
+Support
+
+Entire lake near Swiftown
+
+TMDL Complete
+06/30/2003
+
+Leflore
+
+Aquatic
+Life Use
+Support
+
+Nutrients
+Organic
+Enrichment/
+Low
+Dissolved
+Oxygen
+
+Entire lake near Swiftown
+
+TMDL Complete
+06/30/2003
+
+942211
+
+Leflore
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+Entire lake near Swiftown
+
+TMDL Complete
+04/17/2008
+
+906611
+
+Yalobusha,
+Tallahatchie
+
+Aquatic
+Life Use
+Support
+
+From headwaters to mouth
+at Tillatoba Creek
+
+TMDL Complete
+04/17/2008
+
+Leflore
+
+Aquatic
+Life Use
+Support
+
+Sediment
+Organic
+Enrichment/
+Low
+Dissolved
+Oxygen
+
+Entire lake near Itta Bena
+
+TMDL Complete
+04/17/2008
+
+Leflore
+
+Aquatic
+Life Use
+Support
+
+Total
+Nitrogen
+
+Entire lake near Itta Bena
+
+TMDL Complete
+06/11/2008
+
+Leflore
+
+Aquatic
+Life Use
+Support
+
+Total
+Phosphorus
+
+Entire lake near Itta Bena
+
+TMDL Complete
+06/11/2008
+
+Leflore
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+Entire lake near Itta Bena
+
+TMDL Complete
+04/17/2008
+
+922711
+
+Yazoo
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+From Headwaters To
+Mouth at the Yazoo River
+
+TMDL Complete
+04/17/2008
+
+937711
+
+Leflore,
+Sunflower
+
+Aquatic
+Life Use
+Support
+
+Nutrients
+
+Near Money at CR 541
+Bridge
+
+TMDL Complete
+06/30/2003
+
+937711
+
+Leflore,
+Sunflower
+
+Aquatic
+Life Use
+Support
+
+Sediment
+
+Near Money at CR 541
+Bridge
+
+TMDL Complete
+04/17/2008
+
+923011
+
+923011
+
+944611
+
+944211
+
+942211
+
+942211
+
+938212
+
+938212
+
+938212
+
+938212
+
+20
+
+

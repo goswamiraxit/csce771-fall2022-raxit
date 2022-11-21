@@ -1,0 +1,536 @@
+Waterborne Zoonoses
+
+Please go to the Table of Contents page to access the entire publication.
+ World Health Organization titles with IWA Publishing
+Water Quality: Guidelines, Standards and Health edited by Lorna Fewtrell and Jamie Bartram. (2001)
+
+
+                            WHO Drinking Water Quality Series
+Assessing Microbial Safety of Drinking Water: Improving Approaches And Methods edited by
+Al Dufour, Mario Snozzi, Wolfgang Koster, Jamie Bartram, Elettra Ronchi and Lorna Fewtrell. (2003)
+
+Water Treatment and Pathogen Control: Process Efficiency in Achieving Safe Drinking Water by
+Mark W LeChevallier and Kwok-Keung Au. (2004)
+
+Safe Piped Water: Managing Microbial Water Quality in Piped Distribution Systems by Richard
+Ainsworth. (2004)
+
+Forthcoming
+Fluoride in Drinking Water edited by K. Bailey, J. Chilton, E. Dahi, M. Lennon, P. Jackson
+and J. Fawell.
+
+Arsenic in Drinking Water by WHO/World Bank/UNICEF as a cooperative effort of a series
+of UN agencies.
+
+           WHO Emerging Issues in Water & Infectious Disease Series
+Heterotrophic Plate Counts and Drinking-water Safety: The Significance of HPCs for Water Quality
+and Human Health edited by J. Bartram, J. Cotruvo, M. Exner, C. Fricker, A. Glasmacher. (2003)
+
+Pathogenic Mycobacteria in Water: A Guide to Public Health Consequences, Monitoring and
+Management edited by S. Pedley, J. Bartram, G. Rees, A. Dufour and J. Cotruvo. (2004)
+
+Waterborne Zoonoses: Identification, Causes and Control edited by J.A. Cotruvo, A. Dufour, G. Rees,
+J. Bartram, R. Carr, D.O. Cliver, G.F. Craun, R. Fayer, and V.P.J. Gannon. (2004)
+
+Forthcoming
+Water Recreation and Disease: An Expert Review of the Plausibility of Associated Infections,
+their Acute Effects, Sequelae and Mortality edited by K. Pond.
+
+
+
+    For further details contact: Portland Customer Services, Commerce Way, Colchester, Essex, CO2 8HP, UK.
+     Tel: +44 (0) 1206 796351; Fax: +44 (0) 1206 799331; Email: sales@portland-services.com; or order online at:
+                                     www.iwapublishing.com
+Waterborne Zoonoses
+Identification, Causes, and Control
+
+
+
+Edited by
+J.A. Cotruvo, A. Dufour, G. Rees, J. Bartram,
+R. Carr, D.O. Cliver, G.F. Craun, R. Fayer and
+V.P.J. Gannon
+
+
+
+
+World Health Organization
+Published on behalf of the World Health Organization by
+IWA Publishing, Alliance House, 12 Caxton Street, London SW1H 0QS, UK
+Telephone: +44 (0) 20 7654 5500; Fax: +44 (0) 20 7654 5555; Email: publications@iwap.co.uk
+www.iwapublishing.com
+
+First published 2004
+© World Health Organization (WHO) 2004
+Printed by TJ International (Ltd), Padstow, Cornwall, UK
+Index prepared by Indexing Specialists (UK) Ltd, Hove, East Sussex, UK.
+
+
+Apart from any fair dealing for the purposes of research or private study, or criticism or review, as permitted under the UK
+Copyright, Designs and Patents Act (1998), no part of this publication may be reproduced, stored or transmitted in any form or
+by any means, without the prior permission in writing of the publisher, or, in the case of photographic reproduction, in
+accordance with the terms of licences issued by the Copyright Licensing Agency in the UK, or in accordance with the terms of
+licenses issued by the appropriate reproduction rights organization outside the UK. Enquiries concerning reproduction outside
+the terms stated here should be sent to IWA Publishing at the address printed above. The publisher makes no representation,
+express or implied, with regard to the accuracy of the information contained in this book and cannot accept any legal
+responsibility or liability for errors or omissions that may be made.
+
+Disclaimer
+The opinions expressed in this publication are those of the authors and do not necessarily reflect the views or policies of the International
+Water Association, USEPA or the World Health Organization. IWA, USEPA, WHO and the editors will not accept responsibility for any
+loss or damage suffered by any person acting or refraining from acting upon any material contained in this publication.
+      In addition, the mention of specific manufacturers’ products does not imply that they are endorsed or recommended in preference to
+others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished by
+initial capital letters.
+      The designations employed and the presentation of the material in this publication do not imply the expression of any opinion
+whatsoever on the part of the World Health Organization concerning the legal status of any country, territory, city or area or of its
+authorities, or concerning the delimitation of its frontiers or boundaries. Dotted lines on maps represent approximate border lines for which
+there may not yet be full agreement.
+
+British Library Cataloguing-in-Publication Data
+A CIP catalogue record for this book is available from the British Library
+
+WHO Library Cataloguing-in-Publication Data
+      Waterborne zoonoses : identification, causes, and control / edited by
+       J. A. Cotruvo ... [et al.].
+       (Emerging issues in water and infectious diseases series)
+       1.Water microbiology 2.Water - parasitology 3.Zoonoses - etiology
+       4.Disease reservoirs 5.Emerging diseases - etiology I.Cotruvo, Joseph A.
+             ISBN 92 4 156273 0                               (LC/NLM classification: QW 80)
+             ISSN 1728-2160
+ISBN 1 84339 058 2 (IWA Publishing)
+Please click on the different sections for access to the PDF files.
+
+
+
+
+Contents
+
+
+
+
+Preface                                                                       ix
+Acknowledgements                                                             xii
+List of acronyms and abbreviations                                           xv
+
+SECTION I: EXPERT CONSENSUS                                                   1
+
+Chapter 1: Expert consensus                                                   3
+Expert Meeting Group Report
+
+SECTION II: AN INTRODUCTION TO EMERGING WATERBORNE
+ZOONOSES AND GENERAL CONTROL PRINCIPLES            17
+J. Bartram and R. Carr
+
+Chapter 2: Emerging zoonotic diseases and water                              19
+C. Bolin, C. Brown and J. Rose
+
+Chapter 3: What are the criteria for determining whether a disease is zoonotic
+and water related?                                                            27
+C.L. Moe
+
+                                       [v]
+vi                            Waterborne Zoonoses
+
+Chapter 4: Impacts of anthropogenic and environmental factors on the
+distribution of zoonoses                                                       46
+F. Dangendorf
+
+Chapter 5: The control envelope and risk management                            66
+R. Carr and J. Bartram
+
+SECTION III: WATER-RELATED ZOONOSIS DISEASE IMPACTS —
+GEOGRAPHICAL PREVALENCE                               91
+A. Dufour
+
+Chapter 6: Tropical organisms in Asia/Africa/South America                     93
+K. Suresh and H.V. Smith
+
+Chapter 7: Incidence of the major zoonotic diseases transmitted by water in
+Mexico, Central America, and the Caribbean                                    113
+R. Ramírez-Porras and J. Williams
+
+Chapter 8: Waterborne outbreaks caused by zoonotic pathogens in the USA       120
+G.F. Craun, R.L. Calderon and M.F. Craun
+
+Chapter 9: Symptoms, treatments, and health consequences of waterborne
+zoonotic diseases                                                      136
+S. Kanarat
+
+SECTION IV: EPIDEMIOLOGICAL DATA, CASE-STUDIES
+AND OUTBREAKS                                                                 151
+G.F. Craun
+
+Chapter 10: Epidemiological studies and surveillance                          154
+G.F. Craun, D.G. Till and G. McBride
+
+Chapter 11: Zoonoses in Scotland — food, water, or contact?                   167
+W.J. Reilly and L.M. Browning
+
+Chapter 12: Potential public health risk of Campylobacter and other
+zoonotic waterborne infections in New Zealand                                 191
+D.G. Till and G.B. McBride
+                                   Contents                         vii
+
+SECTION V: CATEGORIES OF WATERBORNE
+DISEASE ORGANISMS                                                  209
+D.O. Cliver and R. Fayer
+
+Chapter 13: Verocytotoxin-producing Escherichia coli and other
+diarrhoeagenic E. coli                                             213
+K. Mølbak and F. Scheutz
+
+Chapter 14: Salmonella and other enteric organisms                 228
+D. Lightfoot
+
+Chapter 15: Prospects of waterborne viral zoonoses                 242
+D.O. Cliver and C.L. Moe
+
+Chapter 16: Waterborne zoonotic protozoa                           255
+R. Fayer
+
+Chapter 17: Cyclosporiasis                                         283
+J.H. Cross and J.B. Sherchand
+
+Chapter 18: Major helminth zoonoses in water                       291
+T. Endo and Y. Morishima
+
+Chapter 19: Human fascioliasis                                     305
+S. Mas-Coma
+
+Chapter 20: Leptospirosis and other potential zoonoses in water    323
+C. Bolin, C. Brown and J. Rose
+
+SECTION VI: ANALYSIS OF ZOONOTIC MICROORGANISMS                    335
+A. Dufour and D. Till
+
+Chapter 21: Managing risk of waterborne zoonotic disease through
+water quality surveillance                                         338
+D. Till, K. Field and A. Dufour
+
+Chapter 22: Faecal source identification                           349
+K.G. Field
+
+Chapter 23: Rapid methods for the detection and enumeration of
+microorganisms in water                                            367
+D.Y.C. Fung
+viii                        Waterborne Zoonoses
+
+SECTION VII: PREVENTION AND CONTROL OF
+WATERBORNE ZOONOSES                                                      377
+V.P.J. Gannon
+
+Chapter 24: Control of zoonotic waterborne pathogens in animal reservoirs 380
+V.P.J. Gannon
+
+Chapter 25: Control of zoonotic pathogens in animal wastes               409
+V.P.J. Gannon, F. Humenik, M. Rice, J.L. Cicmanec, J.E. Smith Jr
+and R. Carr
+
+Chapter 26: Control of zoonotic diseases in drinking-water               426
+J.L. Cicmanec, J.E. Smith Jr and R. Carr
+
+SECTION VIII: RISK ASSESSMENT AND REGULATION                             437
+J.A. Cotruvo
+
+Chapter 27: A regulatory perspective on zoonotic pathogens in water      439
+S.A. Schaub
+
+Chapter 28: The Stockholm framework for guidelines for microbial
+contaminants in drinking-water                                           452
+R. Carr and J. Bartram
+
+Chapter 29: Quantitative microbial risk assessment issues                460
+G.B. McBride
+
+SECTION IX: FUTURE EMERGING WATERBORNE ZOONOSES                          471
+
+Chapter 30: Waterborne zoonoses: Emerging pathogens and emerging
+patterns of infection                                                    472
+V.P.J. Gannon, C. Bolin and C.L. Moe
+
+INDEX                                                                    485
+Preface
+
+
+
+
+Investigating important emerging issues in water and infectious disease and
+communicating discoveries create challenges, which are addressed by an
+initiative being undertaken by the World Health Organization (WHO) Water
+Sanitation and Health Unit, the US Environmental Protection Agency (US EPA)
+Office of Research and Development, and other collaborators. The initiative
+seeks to accelerate the identification of actual and perceived issues, to bring
+together information and knowledge in critical areas, and to disseminate
+information to policy-makers and practitioners in a timely fashion. This
+initiative has resulted in the publication of several cutting-edge documents that
+critically analyse emerging issues in water and infectious disease and present
+balanced assessments of how these will impact disease transmission through
+water with emphasis on management options for preventing and controlling
+waterborne disease.
+    Other issues dealt with in the Emerging Issues in Water and Infectious
+Disease initiative include:
+
+
+
+
+                                        [ix]
+x                            Waterborne Zoonoses
+
+•   heterotrophic plate counts and drinking-water safety;
+•   pathogenic mycobacteria in water;
+•   the H2S method for the detection of faecal contamination of drinking-water;
+•   water recreation and disease;
+•   respiratory transmission of faecally excreted viruses; and
+•   toxic cyanobacteria in water.
+
+   This publication was developed from the workshop on “Zoonosis and
+Waterborne Disease,” held in Annapolis, Maryland, USA, on 2–4 September
+2003. The workshop was sponsored by the WHO units dealing with Water,
+Sanitation and Health and with Strategy Development and Monitoring of
+Zoonoses, Foodborne Disease and Kinetoplastidae, working with US EPA’s
+Office of Research and Development and Office of Ground Water and Drinking
+Water. Twenty-nine experts from 14 countries and diverse disciplines, including
+sanitary and veterinary microbiology, animal health, agriculture, animal waste
+management, public health, water epidemiology, medicine, sanitary engineering,
+food safety, and regulatory policy, attended the workshop. They examined the
+roles of zoonoses in current and future waterborne disease and prepared the
+chapters published here.
+   Participants at the workshop were asked to:
+
+•   review current waterborne zoonotic disease threats;
+•   identify new disease candidates based on disease agent characteristics; and
+•   evaluate current control strategies to identify agents that might fall outside
+    of the current control envelope.
+
+    The workshop participants reviewed information on zoonotic organisms
+linked to waterborne diseases in humans and focused on the organism
+characteristics, human activities, and environmental conditions that could lead
+to future concerns from evolving or emerging organisms. Animal vector factors
+discussed included feral/wild animals, domestic animals, intensive grazing,
+feedlots, abattoirs, and other elements. Emergence related to translocation of
+microorganisms resulting from human and animal movement, food production,
+irrigation, food handling, distribution from distant areas, climate change, and
+other appropriate contributing factors was discussed.
+    This publication was developed from technical inputs to the workshop,
+workshop deliberations and revisions to the technical materials based on the
+suggestions of expert technical reviewers.
+    The goal of this publication is to provide guidance to agencies concerned
+with human and animal health and water and wastewater service providers
+worldwide to anticipate potential future waterborne zoonotic disease problems
+                                     Preface                                    xi
+
+and to determine whether current practices will be protective or whether new
+approaches need to be developed or deployed to protect health. This publication
+presents information on how zoonotic pathogens can be best managed at the
+source (i.e., through animal management practices, treatment of animal wastes,
+runoff management); through water treatment (wastewater and drinking-water);
+or through a combination of multiple barriers.
+   We hope that this publication provides useful information in describing the
+significance of zoonotic microorganisms as threats to the quality of ambient water
+and drinking-water and to public health throughout the world. We hope that this
+will facilitate the development of cross-sectoral initiatives to manage current
+health threats and to anticipate and manage health threats from emerging
+waterborne zoonotic pathogens.
+Acknowledgements
+
+
+
+
+The World Health Organization (WHO) wishes to express its appreciation to all
+those whose efforts made the production of this book possible.
+   We acknowledge and appreciate the exceptional efforts of all of the workshop
+participants, authors who contributed to the development of individual chapters in
+this book, and expert reviewers as listed below:
+
+   Jamie Bartram, WHO, Geneva, Switzerland
+   Carole Bolin, Michigan State University, East Lansing, MI, USA
+   Peter Braam, WHO, Geneva, Switzerland
+   Corrie Brown, University of Georgia, Athens, GA, USA
+   Lynda M. Browning, Scottish Centre for Infection and Environmental Health,
+      Glasgow, Scotland
+   Rebecca L. Calderon, Office of Research and Development, US Environmental
+      Protection Agency, Research Triangle Park, NC, USA
+   Richard Carr, WHO, Geneva, Switzerland
+   John Cicmanec, Office of Research and Development, US Environmental
+      Protection Agency, Cincinnati, OH, USA
+
+                                        [xii]
+                            Acknowledgements                                  xiii
+
+Dean O. Cliver, Food Safety Laboratory and WHO Collaborating Centre for
+    Food Virology, School of Veterinary Medicine, University of California,
+    Davis, CA, USA
+Joseph Cotruvo, Joseph Cotruvo & Associates, Washington, DC, USA
+Gunther Craun, G.F. Craun and Associates, Staunton, VA, USA
+Michael F. Craun, G.F. Craun and Associates, Staunton, VA, USA
+John Cross, Division of Tropical Public Health, Department of Preventive Medicine
+    and Biometrics, Uniformed Services University, Bethesda, MD, USA
+Friederike Dangendorf, Institute of Hygiene and Public Health, University of
+    Bonn, Bonn, Germany
+Alfred Dufour, Office of Research and Development, US Environmental
+    Protection Agency, Cincinnati, OH, USA
+Andrea Ellis, WHO, Geneva, Switzerland
+Takuro Endo, Department of Parasitology, National Institute of Infectious
+    Diseases, Tokyo, Japan
+Ronald Fayer, Agricultural Research Service, US Department of Agriculture,
+    Beltsville, MD, USA
+Kate Field, Department of Microbiology, Oregon State University, Corvallis,
+    Oregon, USA
+Daniel Y.C. Fung, Department of Animal Science and Industry, Kansas State
+    University, Manhattan, KS, USA
+Victor P.J. Gannon, Public Health Branch, Animal Diseases Research Institute,
+    Health Canada, Lethbridge, Alberta, Canada
+Frank Humenik, College of Agricultural and Life Sciences, Animal Waste
+    Management Program, North Carolina State University, Raleigh, NC, USA
+Sasitorn Kanarat, Hygiene and Microbiology, Ministry of Agriculture, Bangkok,
+    Thailand
+Diane Lightfoot, Microbiological Diagnostic Unit, Public Health Laboratory,
+    University of Melbourne, Victoria, Melbourne, Australia
+Santiago Mas-Coma, Department of Parasitology, Faculty of Pharmacy, University
+    of Valencia, Burjassot, Valencia, Spain
+Graham McBride, National Institute of Water and Atmospheric Research,
+    Hamilton, New Zealand
+Francois-Xavier Meslin, WHO, Geneva, Switzerland
+Christine Moe, Department of International Health, Rollins School of Public
+    Health, Emory University, Atlanta, GA, USA
+Kåre Mølbak, Statens Serum Institut, Copenhagen, Denmark
+Yasuyuki Morishima, Department of Parasitology, National Institute of Infectious
+    Diseases, Tokyo, Japan
+Rosa Gabriella Ramίrez-Porras, Department of Veterinary Epidemiology and
+    Public Health, Veterinary Faculty, Yucatan, Mexico
+xiv                              Waterborne Zoonoses
+
+      Gareth Rees, Askham-Bryan College, Askham-Bryan, York, North Yorkshire, UK
+      William Reilly, Scottish Centre for Infection and Environmental Health, Glasgow,
+         Scotland
+      Mark Rice, College of Agricultural and Life Sciences, Animal Waste Management
+         Program, North Carolina State University, Raleigh, NC, USA
+      Joan Rose, Michigan State University, East Lansing, MI, USA
+      Stephen Schaub, Office of Water, Office of Science and Technology, US
+         Environmental Protection Agency, Washington, DC, USA
+      Flemming Scheutz, Statens Serum Institut, Copenhagen, Denmark
+      Jeevan B. Sherchand, Tribhuvan University Teaching Hospital, Kathmandu, Nepal
+      Huw V. Smith, Scottish Parasite Diagnostic Laboratory, Glasgow, Scotland
+      James E. Smith, Jr., Office of Research and Development, US Environmental
+         Protection Agency, Cincinnati, OH, USA
+      Mark Sobsey, University of North Carolina, Chapel Hill, NC, USA
+      K. Suresh, Department of Parasitology, Faculty of Medicine, University of
+         Malaya, Kuala Lumpur, Malaysia
+      Desmond Till, Public Health Microbiologist Consultant, Wellington, New Zealand
+      Jose Williams, Department of Veterinary Epidemiology and Public Health,
+         Veterinary Faculty, Yucatan, Mexico
+
+   Special thanks are due to Penny Ward, Water, Sanitation and Health Programme,
+WHO, Geneva, who provided administrative support for the meeting and to the
+development of this book, and Marla Sheffer of Ottawa, Canada, who edited the
+final document.
+   We would like to express our gratitude to the US Environmental Protection
+Agency Office of Research and Development for sponsoring the initiative on
+Emerging Issues in Water and Infectious Disease and providing financial
+support for this workshop and publication. We would also like to thank the US
+Environmental Protection Agency Office of Water for further support to this
+workshop.
+List of acronyms and abbreviations
+
+
+
+
+A/EEC   attaching and effacing E. coli
+AFLP    amplified fragment length polymorphism
+AFO     animal feeding operation
+AGI     acute gastrointestinal illness of unknown origin
+AIDS    acquired immunodeficiency syndrome
+ARCC    average rate of correct classification
+ATP     adenosine triphosphate
+BFP     bundle-forming pilus
+BSE     bovine spongiform encephalopathy
+CAFO    concentrated animal feeding operation
+CDSC    Communicable Disease Surveillance Centre (England and Wales)
+CFU     colony-forming unit
+CI      confidence interval
+CJD     Creutzfeldt-Jakob disease
+CUP     carbon-source utilization
+CWD     chronic wasting disease
+DAEC    diffuse adherent E. coli
+DALY    disability-adjusted life year
+                             [xv]
+xvi                Waterborne Zoonoses
+
+DBP      disinfection by-product
+DEC      diarrhoeagenic E. coli
+DNA      deoxyribonucleic acid
+DT       definitive phage type
+EAEC     enteroadherent E. coli
+EAggEC   enteroaggregative E. coli
+EHEC     enterohaemorrhagic E. coli
+EIEC     enteroinvasive E. coli
+EPA      Environmental Protection Agency (USA)
+EPEC     enteropathogenic E. coli
+epg      eggs per gram of faeces
+ESWTR    Enhanced Surface Water Treatment Rule (USA)
+ETEC     enterotoxigenic E. coli
+HACCP    hazard analysis and critical control points
+HAV      hepatitis A virus
+HBV      hepatitis B virus
+HEV      hepatitis E virus
+HIV      human immunodeficiency virus
+HUS      haemolytic uraemic syndrome
+ID       infective dose
+ID50     median infective dose
+Ig       immunoglobulin
+IID      infectious intestinal disease
+IPCC     Intergovernmental Panel on Climate Change
+LEE      locus of enterocyte effacement
+LH-PCR   length heterogeneity polymerase chain reaction
+LT       heat-labile enterotoxin
+LU       livestock unit
+MAP      Mycobacterium avium (ssp. paratuberculosis)
+MAR      multiple antibiotic resistance
+MBM      meat and bone meal
+MCL      Maximum Contaminant Level (USA)
+MCLG     Maximum Contaminant Level Goal (USA)
+MOR      matched odds ratio
+MPN      most probable number
+mRNA     messenger ribonucleic acid
+MST      microbiological source tracking
+NASBA    nucleic acid sequence-based amplification
+NPDES    National Pollutant Discharge Elimination System (USA)
+NTU      nephelometric turbidity unit
+              List of acronyms and abbreviations                  xvii
+
+OIE       Office International des Epizooties (World Organization for
+          Animal Health)
+PCR       polymerase chain reaction
+PEAS      possible estuary-associated syndrome
+PFGE      pulsed-field gel electrophoresis
+PT        phage type
+QMRA      quantitative microbial risk assessment
+QRA       quantitative risk assessment
+rDNA      ribosomal deoxyribonucleic acid
+REP-PCR   repetitive extragenic palindromic polymerase chain reaction
+RFLP      restriction fragment length polymorphism
+RNA       ribonucleic acid
+rRNA      ribosomal ribonucleic acid
+SARS      severe acute respiratory syndrome
+SCCWRP    Southern California Coastal Water Research Project (USA)
+SMX       sulfamethoxazole
+STEC      Shiga toxin-producing E. coli
+STh       heat-stable enterotoxin (human)
+STp       heat-stable enterotoxin (porcine)
+TMDL      total maximum daily load
+TMP       trimethoprim
+T-RFLP    terminal restriction fragment length polymorphism
+TSE       transmissible spongiform encephalopathy
+UDG       uracil-D-glycosylase
+USA       United States of America
+US EPA    United States Environmental Protection Agency
+UV        ultraviolet
+VBNC      viable but non-culturable
+vCJD      variant Creutzfeldt-Jakob disease
+VTEC      verocytotoxin-producing E. coli
+WHO       World Health Organization
+WSP       water safety plan
+YLD       years lived with a disability
+YLL       years of life lost to premature death
+

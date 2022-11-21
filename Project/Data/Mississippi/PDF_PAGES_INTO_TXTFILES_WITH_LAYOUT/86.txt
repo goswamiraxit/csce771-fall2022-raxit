@@ -1,0 +1,55 @@
+                                chemical by chemical listing of the quantitation levels used is provided
+                                with the application.
+
+          (2)     Calculate/Determine Permit Limits.
+
+                  Technology/federal guidelines based permit limits are calculated using current
+                  facility data and federal guidelines. If existing permit limits are more stringent
+                  and are being attained, use existing permit limits.
+
+          (3)     Calculate Appropriate Flows
+
+                  Appropriate 7Q10 and annual average flows will be calculated in accordance with
+                  the methods found in Techniques for Estimating 7-Day, 10-Year Low-Flow
+                  Characteristics for Ungaged Sites on Streams in Mississippi (USGS Report 91-
+                  4130), and Low-Flow and Flow-Duration Characteristics of Mississippi Streams
+                  (USGS Report 90-4087) or the most recent edition, respectively.
+
+          (4)     Determine IWC for Chronic, Acute, and Human Health Conditions3
+                                                      Qw
+                                      IWC = 100 *
+                                                   Qr + Qw
+
+Where: IWC =        Instream Wastewater Concentration (where facility water supply is not
+receiving water.)
+Qr4     = Receiving water flow at appropriate low flow
+Qw      = For non-domestic facilities - Maximum 30-day average wastewater flow, if available;
+Domestic facilities - design flow; Hydrographic control release facilities - appropriate
+wastewater to stream flow ratio.
+
+
+3
+  For calculation of all instream waste concentrations, and instream pollutant concentrations for chronic toxicity and
+human health screening, instantaneous complete mixing will be assumed unless addressed otherwise in the
+regulations. IWC is expressed in a percentage throughout these regulations. For acute screening in streams and
+rivers, complete mixing will be assumed if the IWC is greater than or equal to 10%. If the IWC is less than 10%, the
+Permit Board may evaluate local acute toxic impacts and require application of mixing zones in accordance with the
+Mississippi Water Quality Standards.
+
+For oceans, bays, estuaries, and lakes, a Mixing Zone evaluation will be completed to determine the appropriate
+dilution factors for calculating IWC at the edge of the (regulatory) mixing zone and at the edge of the smaller area of
+discharged-induced mixing zone (ADIM). In the absence of a site specific evaluation, dilution at the edge of the
+mixing zone will be assumed to be one part effluent to six parts receiving water body. Mixing zones and associated
+instream calculations shall be performed as described in EPA's "Technical Support Document for Water Quality-
+Based Toxics Control" (EPA/505/2-90-001) March 1991, which is referenced in the bibliography (Exhibit F to this
+chapter).
+
+4
+    Where Qr      =        (7Q10 for Acute)
+                  =        (7Q10 for Chronic)
+                  =        (Mean annual flow for Human Health)
+If 7Q10 = 0 then Qr = 7Q10 for conditions except for human health and then Q r equals mean annual flow if available.
+
+
+                                                         86
+

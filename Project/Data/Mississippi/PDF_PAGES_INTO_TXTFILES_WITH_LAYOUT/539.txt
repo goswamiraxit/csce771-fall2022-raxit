@@ -1,0 +1,40 @@
+                Water Body         Water                     Impaired
+     Basin                                     County                           Pollutant                        Location
+                  Name            Body Id                      Use
+
+                                                            Aquatic Life    Biological      Near Bogue Chitto from headwaters to mouth at
+Pearl River   Land Creek          500911    Kemper          Use Support     Impairment      Bogue Chitto River
+
+                                                            Aquatic Life    Biological
+Pearl River   Line Creek          508312    Scott, Rankin   Use Support     Impairment      From headwaters to mouth at Pelahatchie Creek
+
+                                                            Aquatic Life    Biological
+Pearl River   Lynch Creek         509311    Hinds           Use Support     Impairment      At Jackson from headwaters to the Pearl River
+
+                                            Kemper,         Aquatic Life    Biological      Near Preston from headwaters to the Bogue Chitto
+Pearl River   Owl Creek           501111    Neshoba         Use Support     Impairment      River
+
+                                            Leake,          Aquatic Life    Biological
+Pearl River   Pellaphalia Creek   507212    Madison         Use Support     Impairment      From headwaters to mouth at Pearl River
+
+                                                            Aquatic Life    Biological      Near Redwater from headwaters to mouth at Cobbs
+Pearl River   Pickens Creek       504112    Leake           Use Support     Impairment      Creek
+
+                                                            Aquatic Life    Biological
+Pearl River   Price Creek         519512    Pearl River     Use Support     Impairment      From headwaters to confluence with W. Hobolochitto
+
+                                                            Aquatic Life    Biological      Near Polkville from headwaters to mouth at Strong
+Pearl River   Purvis Creek        511711    Rankin, Smith   Use Support     Impairment      River
+
+                                                            Aquatic Life    Biological      From headwaters to confluence with Simmons
+Pearl River   Rials Creek         512712    Simpson         Use Support     Impairment      Branch
+
+                                                            Aquatic Life    Biological      At St Ann from headwaters to MWS 5070 boundary
+Pearl River   Shiola Creek        507111    Leake           Use Support     Impairment      at St Ann Road
+
+                                                            Aquatic Life    Biological      Near Rockport from headwaters to mouth at the Pearl
+Pearl River   Steel Creek         513511    Copiah          Use Support     Impairment      River
+
+
+                                                                           34
+

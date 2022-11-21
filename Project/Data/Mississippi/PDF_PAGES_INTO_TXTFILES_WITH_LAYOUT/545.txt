@@ -1,0 +1,41 @@
+              Water Body         Water                  Impaired
+    Basin                                    County                        Pollutant                         Location
+                Name            Body Id                   Use
+
+Tombigbee                                              Aquatic Life    Total           Near Starkville from headwaters to the Noxubee
+River       Hollis Creek        812211    Oktibbeha    Use Support     Nitrogen        River
+
+Tombigbee                                              Aquatic Life    Total           Near Starkville from headwaters to the Noxubee
+River       Hollis Creek        812211    Oktibbeha    Use Support     Phosphorus      River
+
+Tombigbee                                              Aquatic Life    Biological      From Unnamed Trib near Mount Pleasant Church to
+River       Howard Creek        810011    Lowndes      Use Support     Impairment      mouth at Luxapallila Creek
+
+Tombigbee                                              Aquatic Life    Biological      Near Plantersville from headwaters to mouth at Town
+River       Leeper Creek        805112    Lee          Use Support     Impairment      Creek
+
+Tombigbee                                              Aquatic Life    Biological
+River       Little Wolf Creek   818812    Prentiss     Use Support     Impairment      From headwaters to confluence with Wolf Creek
+                                                                       Organic
+                                                                       Enrichment /
+                                                                       Low
+Tombigbee                                              Aquatic Life    Dissolved
+River       Loakfoma Lake       812914    Noxubee      Use Support     Oxygen          Near Oktoc near dam
+
+Tombigbee                                              Aquatic Life
+River       Loakfoma Lake       812914    Noxubee      Use Support     pH              Near Oktoc near dam
+
+Tombigbee                                              Aquatic Life    Biological      Near Mhoons Valley from headwaters to mouth at
+River       Long Branch         808312    Clay         Use Support     Impairment      Line Creek
+
+Tombigbee                                              Aquatic Life    Biological
+River       Long Branch         808512    Oktibbeha    Use Support     Impairment      Near Starkville from headwaters to Trim Cane Creek
+
+Tombigbee                                 Chickasaw,   Aquatic Life    Biological
+River       Long Creek          807612    Clay         Use Support     Impairment      From headwaters to mouth at Houlka Creek
+
+
+
+
+                                                                      40
+

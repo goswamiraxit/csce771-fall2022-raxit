@@ -1,0 +1,447 @@
+ARS 49-231 Definitions (Arizona Revised Statutes (2021 Edition))
+
+
+
+§ 49-231. Definitions
+
+In this article, unless the context otherwise requires:
+
+1. "Impaired water" means a navigable water for which credible scientific
+data exists that satisfies the requirements of section 49-232 and that
+demonstrates that the water should be identified pursuant to 33 United
+States Code section 1313(d) and the regulations implementing that statute.
+
+2. "Surface water quality standard" means a standard adopted for a
+navigable water pursuant to sections 49-221 and 49-222 and section 303(c)
+of the clean water act ( 33 United States Code section 1313(c) ).
+
+3. "TMDL implementation plan" means a written strategy to implement a
+total maximum daily load that is developed for an impaired water. TMDL
+implementation plans may rely on any combination of the following
+components that the department determines will result in achieving and
+maintaining compliance with applicable surface water quality standards in
+the most cost-effective and equitable manner:
+
+(a) Permit limitations.
+
+(b) Best management practices.
+
+(c) Education and outreach efforts.
+
+(d) Technical assistance.
+
+(e) Cooperative agreements, voluntary measures and incentive-based
+programs.
+
+(f) Load reductions resulting from other legally required programs or
+activities.
+
+(g) Land management programs.
+
+(h) Pollution prevention planning, waste minimization or pollutant trading
+agreements.
+
+(i) Other measures deemed appropriate by the department.
+
+4. "Total maximum daily load" means an estimation of the total amount of a
+pollutant from all sources that may be added to a water while still allowing
+the water to achieve and maintain applicable surface water quality
+standards. Each total maximum daily load shall include allocations for
+sources that contribute the pollutant to the water, as required by section
+303(d) of the clean water act ( 33 United States Code section 1313(d)) and
+ARS 49-231 Definitions (Arizona Revised Statutes (2021 Edition))
+
+
+
+regulations implementing that statute to achieve applicable surface water
+quality standards.
+  ARS 49-232 Lists of impaired waters; data requirements; rules
+           (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-232. Lists of impaired waters; data requirements; rules
+
+A. At least once every five years, the department shall prepare a list of
+impaired waters for the purpose of complying with section 303(d) of the
+clean water act ( 33 United States Code section 1313(d)). The department
+shall provide public notice and allow for comment on a draft list of impaired
+waters prior to its submission to the United States environmental protection
+agency. The department shall prepare written responses to comments
+received on the draft list. The department shall publish the list of impaired
+waters that it plans to submit initially to the regional administrator and a
+summary of the responses to comments on the draft list in the Arizona
+administrative register at least forty-five days before submission of the list to
+the regional administrator. Publication of the list in the Arizona
+administrative register is an appealable agency action pursuant to title 41,
+chapter 6, article 10 that may be appealed by any party that submitted
+written comments on the draft list. If the department receives a notice of
+appeal of a listing pursuant to section 41-1092, subsection B within forty-five
+days of the publication of the list in the Arizona administrative register, the
+department shall not include the challenged listing in its initial submission
+to the regional administrator. The department may subsequently submit the
+challenged listing to the regional administrator if the listing is upheld in the
+director's final administrative decision pursuant to section 41-1092.08, or if
+the challenge to the listing is withdrawn prior to a final administrative
+decision.
+
+B. In determining whether a water is impaired, the department shall
+consider only reasonably current credible and scientifically defensible data
+that the department has collected or has received from another source.
+Results of water sampling or other assessments of water quality, including
+physical or biological health, shall be considered credible and scientifically
+defensible data only if the department has determined all of the following:
+
+1. Appropriate quality assurance and quality control procedures were
+followed and documented in collecting and analyzing the data.
+
+2. The samples or analyses are representative of water quality conditions at
+the time the data was collected.
+
+3. The data consists of an adequate number of samples based on the nature
+of the water in question and the parameters being analyzed.
+
+4. The method of sampling and analysis, including analytical, statistical and
+modeling methods, is generally accepted and validated in the scientific
+community as appropriate for use in assessing the condition of the water.
+  ARS 49-232 Lists of impaired waters; data requirements; rules
+           (Arizona Revised Statutes (2021 Edition))
+
+
+C. The department shall adopt by rule the methodology to be used in
+identifying waters as impaired. The rules shall specify all of the following:
+
+1. Minimum data requirements and quality assurance and quality control
+requirements that are consistent with subsection B of this section and that
+must be satisfied in order for the data to serve as the basis for listing and
+delisting decisions.
+
+2. Appropriate sampling, analytical and scientific techniques that may be
+used in assessing whether a water is impaired.
+
+3. Any statistical or modeling techniques that the department uses to assess
+or interpret data.
+
+4. Criteria for including and removing waters from the list of impaired
+waters, including any implementation procedures developed pursuant to
+subsection F of this section. The criteria for removing a water from the list of
+impaired waters shall not be any more stringent than the criteria for adding
+a water to that list.
+
+D. In assessing whether a water is impaired, the department shall consider
+the data available in light of the nature of the water in question, including
+whether the water is an ephemeral water. A water in which pollutant
+loadings from naturally occurring conditions alone are sufficient to cause a
+violation of applicable surface water quality standards shall not be listed as
+impaired.
+
+E. If the department has adopted a numeric surface water quality standard
+for a pollutant and that standard is not being exceeded in a water, the
+department shall not list the water as impaired based on a conclusion that
+the pollutant causes a violation of a narrative or biological standard unless:
+
+1. The department has determined that the numeric standard is insufficient
+to protect water quality.
+
+2. The department has identified specific reasons that are appropriate for
+the water in question, that are based on generally accepted scientific
+principles and that support the department's determination.
+
+F. Before listing a navigable water as impaired based on a violation of a
+narrative or biological surface water quality standard and after providing an
+opportunity for public notice and comment, the department shall adopt
+implementation procedures that specifically identify the objective basis for
+determining that a violation of the narrative or biological criterion exists. A
+total maximum daily load designed to achieve compliance with a narrative
+or biological surface water quality standard shall not be adopted until the
+  ARS 49-232 Lists of impaired waters; data requirements; rules
+           (Arizona Revised Statutes (2021 Edition))
+
+
+implementation procedure for the narrative or biological surface water
+quality standard has been adopted.
+
+G. On request, the department shall make available to the public data used
+to support the listing of a water as impaired and may charge a reasonable fee
+to persons requesting the data.
+
+H. By January 1, 2002, the department shall review the list of waters
+identified as impaired as of January 1, 2000 to determine whether the data
+that supports the listing of those waters complies with this section. If the
+data that supports a listing does not comply with this section, the listed
+water shall not be included on future lists submitted to the United States
+environmental protection agency pursuant to 33 United States Code section
+1313(d) unless in the interim data that satisfies the requirements of this
+section has been collected or received by the department.
+
+I. The department shall add a water to or remove a water from the list using
+the process described in section 49-232, subsection A outside of the normal
+listing cycle if it collects or receives credible and scientifically defensible data
+that satisfies the requirements of this section and that demonstrates that the
+current quality of the water is such that it should be removed from or added
+to the list. A listed water may no longer warrant classification as impaired or
+an unlisted water may be identified as impaired if the applicable surface
+water quality standards, implementation procedures or designated uses
+have changed or if there is a change in water quality.
+   ARS 49-233 Priority ranking and schedule (Arizona Revised
+                    Statutes (2021 Edition))
+
+
+§ 49-233. Priority ranking and schedule
+
+A. Each list developed by the department pursuant to section 49-232 shall
+contain a priority ranking of navigable waters identified as impaired and for
+which total maximum daily loads are required pursuant to section 49-234
+and a schedule for the development of all required total maximum daily
+loads.
+
+B. In the first list submitted to the United States environmental protection
+agency after the effective date of this article, the schedule shall be sufficient
+to ensure that all required total maximum daily loads will be developed
+within fifteen years of the date the list is approved by the environmental
+protection agency. Total maximum daily loads that are required to be
+developed for navigable waters that are included for the first time on
+subsequent lists shall be developed within fifteen years of the initial
+inclusion of the water on the list.
+
+C. As part of the rule making prescribed by section 49-232, subsection C, the
+department shall identify the factors that it will use to prioritize navigable
+waters that require development of total maximum daily loads. At a
+minimum and to the extent relevant data is available, the department shall
+consider the following factors in prioritizing navigable waters for
+development of total maximum daily loads:
+
+1. The designated uses of the navigable water.
+
+2. The type and extent of risk from the impairment to human health or
+aquatic life.
+
+3. The degree of public interest and support, or its lack.
+
+4. The nature of the navigable water, including whether it is an ephemeral,
+intermittent or effluent-dependent water.
+
+5. The pollutants causing the impairment.
+
+6. The severity, magnitude and duration of the violation of the applicable
+surface water quality standard.
+
+7. The seasonal variation caused by natural events such as storms or weather
+patterns.
+
+8. Existing treatment levels and management practices.
+   ARS 49-233 Priority ranking and schedule (Arizona Revised
+                    Statutes (2021 Edition))
+
+
+9. The availability of effective and economically feasible treatment
+techniques, management practices or other pollutant loading reduction
+measures.
+
+10. The recreational and economic importance of the water.
+
+11. The extent to which the impairment is caused by discharges or activities
+that have ceased.
+
+12. The extent to which natural sources contribute to the impairment.
+
+13. Whether the water is accorded special protection under federal or state
+water quality law.
+
+14. Whether action that is taken or that is likely to be taken under other
+programs, including voluntary programs, is likely to make significant
+progress toward achieving applicable standards even if a total maximum
+daily load is not developed.
+
+15. The time expected to be required to achieve compliance with applicable
+surface water quality standards.
+
+16. The availability of documented, effective analytical tools for developing a
+total maximum daily load for the water with reasonable accuracy.
+
+17. Department resources and programmatic needs.
+ ARS 49-234 Total maximum daily loads; implementation plans
+          (Arizona Revised Statutes (2021 Edition))
+
+
+§ 49-234. Total maximum daily loads; implementation plans
+
+A. The department shall develop total maximum daily loads for those
+navigable waters listed as impaired pursuant to this article and for which
+total maximum daily loads are required to be adopted pursuant to 33 United
+States Code section 1313(d) and the regulations implementing that statute.
+The department may estimate total maximum daily loads for navigable
+waters not listed as impaired pursuant to this article, for the purposes of
+developing information to satisfy the requirements of 33 United States Code
+section 1313(d)(3), only after it has developed total maximum daily loads for
+all navigable waters identified as impaired pursuant to this article or if
+necessary to support permitting of new point source discharges.
+
+B. In developing total maximum daily loads, the department shall use only
+statistical and modeling techniques that are properly validated and broadly
+accepted by the scientific community. The modeling technique may vary
+based on the type of water and the quantity and quality of available data that
+meets the quality assurance and quality control requirements of section 49-
+232. The department may establish the statistical and modeling techniques
+in rules adopted pursuant to section 49-232, subsection C.
+
+C. Each total maximum daily load shall:
+
+1. Be based on data and methodologies that comply with section 49-232.
+
+2. Be established at a level that will achieve and maintain compliance with
+applicable surface water quality standards.
+
+3. Include a reasonable margin of safety that takes into account any lack of
+knowledge concerning the relationship between effluent limitations and
+water quality. The margin of safety shall not be used as a substitute for
+adequate data when developing the total maximum daily load.
+
+4. Account for seasonal variations that may include setting total maximum
+daily loads that apply on a seasonal basis.
+
+D. For each impaired water, the department shall prepare a draft estimate of
+the total amount of each pollutant that causes the impairment from all
+sources and that may be added to the navigable water while still allowing the
+navigable water to achieve and maintain applicable surface water quality
+standards. In addition, the department shall determine draft allocations
+among the contributing sources that are sufficient to achieve the total
+loadings. The department shall provide public notice and allow for comment
+on each draft estimate and draft allocation and shall prepare written
+responses to comments received on the draft estimates and draft allocations.
+ ARS 49-234 Total maximum daily loads; implementation plans
+          (Arizona Revised Statutes (2021 Edition))
+
+
+The department shall publish the determinations of total pollutant loadings
+that will not result in impairment and the draft allocations among the
+contributing sources that are sufficient to achieve the total loading that it
+intends to submit initially to the regional administrator, along with a
+summary of the responses to comments on the estimated loadings and
+allocations, in the Arizona administrative register at least forty-five days
+before submission of the loadings and allocations to the regional
+administrator. Notwithstanding this subsection, draft allocations shall be
+submitted to the regional administrator only if that submission is required
+by the rules that implement 33 United States Code section 1313(d).
+
+E. Publication of the loadings and allocations in the Arizona administrative
+register is an appealable agency action pursuant to title 41, chapter 6, article
+10 that may be appealed by any party that submitted written comments on
+the estimated loadings and allocations. If the department receives a notice of
+appeal of a loading and allocation pursuant to section 41-1092.03 within
+forty-five days of the publication of the loading and allocations in the
+Arizona administrative register, the department shall not submit the
+challenged loading and allocations to the regional administrator until either
+the challenge to the loading and allocation is withdrawn or the director has
+made a final administrative decision pursuant to section 41-1092.08.
+
+F. The department shall make reasonable and equitable allocations among
+sources when developing total maximum daily loads. At a minimum, the
+department shall consider the following factors in making allocations:
+
+1. The environmental, economic and technological feasibility of achieving
+the allocation.
+
+2. The cost and benefit associated with achieving the allocation.
+
+3. Any pollutant loading reductions that are reasonably expected to be
+achieved as a result of other legally required actions or voluntary measures.
+
+G. For each total maximum daily load, the department shall establish a
+TMDL implementation plan that explains how the allocations and any
+reductions in existing pollutant loadings will be achieved. Any reductions in
+loadings from nonpoint sources shall be achieved voluntarily. The
+department shall provide for public notice and comment on each TMDL
+implementation plan. Any sampling or monitoring components of a TMDL
+implementation plan shall comply with section 49-232.
+
+H. Each TMDL implementation plan shall provide the time frame in which
+compliance with applicable surface water quality standards is expected to be
+achieved. The plan may include a phased process with interim targets for
+ ARS 49-234 Total maximum daily loads; implementation plans
+          (Arizona Revised Statutes (2021 Edition))
+
+
+load reductions. Longer time frames are appropriate in situations involving
+multiple dischargers, technical, legal or economic barriers to achieving
+necessary load reductions, scientific uncertainty regarding data quality or
+modeling, significant loading from natural sources or significant loading
+resulting from discharges or activities that have already ceased.
+
+I. For navigable waters that are impaired due in part to historical factors
+that are difficult to address, including contaminated sediments, the
+department shall consider those historical factors in determining allocations
+for existing point source discharges of the pollutant or pollutants that cause
+the impairment. In developing total maximum daily loads for those
+navigable waters, the department shall use a phased approach in which
+expected long-term loading reductions from the historical sources are
+considered in establishing short-term allocations for the point sources.
+While total maximum daily loads and TMDL implementation plans are
+being completed, any permits issued for the point sources are deemed
+consistent with this article if the permits require reasonable reductions in
+the discharges of the pollutants causing the impairment and are not
+required to include additional reductions if those reductions would not
+significantly contribute to attainment of surface water quality standards.
+
+J. After a total maximum daily load and a TMDL implementation plan have
+been adopted for a navigable water, the department shall review the status
+of the navigable water at least once every five years to determine if
+compliance with applicable surface water quality standards has been
+achieved. If compliance with applicable surface water quality standards has
+not been achieved, the department shall evaluate whether modification of
+the total maximum daily load or TMDL implementation plan is required.
+   ARS 49-235 Rules (Arizona Revised Statutes (2021 Edition))
+
+
+
+§ 49-235. Rules
+
+The department shall adopt any rules necessary to implement this article.
+  ARS 49-236 Report (Arizona Revised Statutes (2021 Edition))
+
+
+
+§ 49-236. Report
+
+By September 1, 2005, the department shall submit a report to the governor,
+the speaker of the house of representatives and the president of the senate
+detailing progress made under this program and shall provide a copy to the
+secretary of state and the department of library, archives and public records.
+At a minimum, the report shall:
+
+1. Evaluate the effectiveness of the total maximum daily load program and
+identify any recommended statutory changes to make the program more
+efficient, effective and equitable.
+
+2. Assess the extent to which water quality problems that cannot be
+effectively addressed under the total maximum daily load program may be
+addressed under other federal or state laws.
+
+3. Identify the number of appeals of department decisions under this article
+sought pursuant to title 41, chapter 6, article 10 and the disposition of those
+appeals, and assess the impact of those appeals on the department's ability
+to administer the program effectively.
+   ARS 49-237 Impact of successful judicial appeal of Arizona
+ department of environmental quality decision (Arizona Revised
+                    Statutes (2021 Edition))
+
+§ 49-237. Impact of successful judicial appeal of Arizona
+department of environmental quality decision
+
+If a person appeals to court and succeeds in overturning or modifying a final
+administrative decision of the director pursuant to this article in an appeal
+initiated pursuant to title 41, chapter 6, article 10, within thirty days of the
+court's decision the department shall take the steps necessary to implement
+the court's decision, unless the director's decision that is overturned or
+modified was submitted to and approved by the regional administrator, in
+which case within thirty days of the court's decision the department shall
+request that the regional administrator modify the approval to reflect the
+court's decision.
+   ARS 49-238 Program termination (Arizona Revised Statutes
+                       (2021 Edition))
+
+
+§ 49-238. Program termination
+
+The program established by this article ends on July 1, 2020 pursuant to
+section 41-3102.
+

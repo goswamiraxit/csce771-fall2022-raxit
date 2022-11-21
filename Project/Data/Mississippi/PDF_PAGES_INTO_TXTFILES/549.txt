@@ -1,0 +1,208 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Tombigbee
+River
+
+Yellow Creek
+
+813211
+
+Winston,
+Noxubee
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Betheden from headwaters to the Noxubee
+River
+
+Tombigbee
+River
+
+Yonaba Creek
+
+804511
+
+Lee
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Tupelo from confluence of Bridge Creek to
+confluence of Town Creek
+
+Yazoo River
+
+Bear Creek
+
+913812
+
+Chickasaw,
+Calhoun
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Atlanta from headwaters to mouth at Topashaw
+Creek Canal
+
+Yazoo River
+
+Beartail Creek
+
+909712
+
+Tate
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Unnamed Tributary near MWS
+9096 boundary to mouth at Coldwater River
+
+Yazoo River
+
+Big Bogue
+
+917311
+
+Montgomery
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Duck Hill from headwaters to confluence with
+Wilkins Creek
+
+Yazoo River
+
+Black Creek
+
+921713
+
+Holmes
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From confluence with Tarrey Creek near MWS 9215
+boundary to confluence with Harland Creek
+
+Yazoo River
+
+Bliss Creek
+
+923411
+
+Warren
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Redwood from headwaters to the Yazoo River
+
+Yazoo River
+
+Buck Creek
+
+913813
+
+Calhoun,
+Webster
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Topashaw Creek
+
+Yazoo River
+
+Butputter Creek
+
+914511
+
+Grenada
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Grenada from headwaters to Grenada Lake
+Flood Pool
+
+Yazoo River
+
+Cherry Creek
+
+901212
+
+Pontotoc
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Lappatubby Creek
+
+Yazoo River
+
+Cowpen Creek
+
+915312
+
+Calhoun
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Banner from headwaters to the Skuna River
+
+44
+
+

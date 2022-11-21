@@ -1,0 +1,52 @@
+       use, etc. In calculation of "equivalent stream miles" it is assumed that
+       a typical stream width is 50 feet. The area (in square feet) of the
+       estuary impacted, as determined by the math model, is then divided
+       by {50 feet x 5,280 feet/mile} to give the "equivalent stream miles".
+       Equivalent stream miles will only be calculated for bay-like estuary
+       segments. All other estuary segments will be measured in actual
+       miles like freshwater streams.
+
+       For streams impacted by more than one discharge, the D.O. problem
+       factor will be determined by using the difference between the D.O.
+       factor with all discharges and the D.O. factor considering the
+       discharge in question removed. If there is more than one discharge
+
+        from the same project on the same stream, miles impacted will only
+       be counted once.
+
+ii.    Public Health/Bacteria Problem Factor - This factor will be
+       determined based on whether or not the existing discharge has a
+       bacterial impact on Recreational, Water Supply, Shellfish Harvesting
+       or Fish & Wildlife waters. Discharges into Ephemeral waters are
+       considered to have no bacterial impact, unless a public health problem
+       can be documented in the receiving stream.
+
+       A discharge into Recreational, Water Supply, or Fish & Wildlife
+       waters is considered to have a bacterial impact on such waters if the
+       discharge is not disinfected, or if present disinfection facilities are
+       inadequate. A discharge is considered to have a bacterial impact on
+       Shellfish harvesting waters if the National Shellfish Sanitation
+       Program Criteria are not met in the waters impacted by the discharge
+       or if present disinfection facilities are inadequate.
+
+       Factors will be assigned for the bacteria problem as follows:
+
+               No Impact       - 0
+               Bacteria Impact - 20
+
+iii.   Ammonia Toxicity Problem Factor - This factor will be determined
+       by use of the NH3, and flow values specified in the present limitations
+       of the NPDES permit, unless significantly different from the present
+       effluent characteristics. If an NH3 limit is not present in the permit, an
+       NH3 concentration typical of the effluent from the current facility will
+       be selected. As with the Dissolved Oxygen Problem Factor, these
+       limitations will be entered into the standard wasteload allocation
+       formula and an in-stream NH3 concentration will be predicted for the
+       existing wastewater discharge. The NH3 exceedance is the difference
+       between the predicted maximum NH3 in the stream and the acceptable
+       concentration (EPA Gold Book) protective of aquatic life.
+
+
+
+                         483
+

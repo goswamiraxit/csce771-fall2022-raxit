@@ -1,0 +1,40 @@
+               Water Body       Water                    Impaired
+     Basin                                  County                          Pollutant                         Location
+                 Name          Body Id                     Use
+
+Pascagoula                                              Aquatic Life    Biological
+River        Dry Creek         403811    Clark, Wayne   Use Support     Impairment      From headwaters to mouth at Buckatunna Creek
+
+Pascagoula                                              Aquatic Life    Biological
+River        Fallen Creek      424012    Clarke         Use Support     Impairment      From headwaters to mouth at Chickasawhay River
+
+Pascagoula                                              Aquatic Life    Biological      Near Carmichael from headwaters to mouth at
+River        Five Mile Creek   424211    Clarke         Use Support     Impairment      Buckatunna Creek
+
+Pascagoula                                              Aquatic Life    Biological      From outfall of Flint Creek Reservoir to mouth at
+River        Flint Creek       420211    Stone          Use Support     Impairment      Red Creek
+
+Pascagoula                                              Aquatic Life    Biological
+River        Gordon Creek      405011    Clarke         Use Support     Impairment      From headwaters to mouth at Souenlovie Creek
+
+Pascagoula                                              Aquatic Life    Biological      Near Heidelberg from headwaters to mouth at
+River        Horse Branch      413612    Jasper         Use Support     Impairment      Tallahattah Creek
+
+Pascagoula   Little Oakahay                             Aquatic Life    Biological
+River        Creek             408912    Smith          Use Support     Impairment      From headwaters to mouth at Oakohay Creek
+
+Pascagoula                               Lauderdale,    Aquatic Life    Biological      From confluence with Gays Branch to Mws 4031
+River        Long Creek        403011    Clarke         Use Support     Impairment      boundary
+
+Pascagoula                                              Aquatic Life    Biological
+River        Martin Creek      407813    Greene         Use Support     Impairment      From headwaters to Leaksville POTW outfall
+
+Pascagoula                                              Aquatic Life    Biological      From Leaksville POTW outfall downstream to mouth
+River        Martin Creek      407812    Greene         Use Support     Impairment      at Chakasawhay River
+
+Pascagoula                                              Aquatic Life    Biological
+River        Mill Creek        418612    Lamar          Use Support     Impairment      From headwaters to mouth at Black Creek
+
+
+                                                                       29
+

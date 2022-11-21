@@ -1,0 +1,55 @@
+     Type of            Instream CBODu          Instream CBOD5*           Kd (base e @ 20°C)
+    Treatment                 (mg/l)                  (mg/l)                    (day-1)
+ Lagoon
+                               > 15                     >10                           0.6
+ (CBOD5=30)
+ Lagoon
+                           < 15 and > 7            < 10 and > 4.7                     0.4
+ (CBOD5=30)
+ Lagoon
+                                <7                     < 4.7                          0.3
+ (CBOD5=30)
+ Mechanical
+                                >7                     > 4.7                          0.4
+ (CBOD5<30)
+ Mechanical
+                                <7                     < 4.7                          0.3
+ (CBOD5>10)
+ Mechanical
+                                 -                        -                           0.3
+ (CBOD5<10)
+
+Note these values are estimates. If actual data are available, they should be used.
+
+H.     Kn (Nitrogenous Deoxygenation Rate)
+
+1.     Kn has been found to range from 0.3 to 1.5 per day (at 20°C) in free-flowing streams
+containing greater than 2 to 3 mg/l of dissolved oxygen. Impounded streams or streams with low
+DO levels will exhibit Kn's as low as 0.0 to 0.3 per day.
+
+2.      In the absence of measured values, Kn (base e @ 20°C) will be assumed as 0.3 per day
+for streams with slope less than or equal to 20 ft./mile and 0.5 per day for streams with slope
+greater than 20 ft./mile. When actual data are available, the Kn rate will be determined
+according to the procedures outlined in EPA/600/3-85/040.
+
+I.     Ka (Reaeration Rate)
+
+1.      For small streams in Mississippi the most appropriate formula for calculating the
+reaeration coefficient is the one developed by E. C. Tsivoglou.
+
+                                          Ka = C * S *V
+Where:
+Ka     = reaeration rate, 1/day
+C      = escape coefficient, 1/ft.
+S      = slope, ft./mile
+V      = velocity, mile/day
+
+2.     Assume escape coefficients recommended for Mississippi.
+
+(a)    C = 0.11 for stream flow less than 10 cfs
+
+(b)    C = 0.0597 for greater than or equal to 10 cfs to a stream flow less than 280 cfs
+
+
+                                                99
+

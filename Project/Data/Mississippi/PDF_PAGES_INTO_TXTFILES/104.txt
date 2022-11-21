@@ -1,0 +1,24 @@
+Final ammonia allocations will be reported as ammonia nitrogen.
+NH3-N = NH3 x 0.822
+II.
+
+CONVENTIONAL WATER QUALITY MODELS
+
+The Department's freshwater quality model is a steady-state modified Streeter-Phelps dissolved
+oxygen sag model. The model includes the stream's carbonaceous and nitrogenous BOD
+ultimate demand, the stream's reaeration rate, the net photosynthetic demand and production, and
+the benthic oxygen demand. The model was developed in 1973 by the staff of the Civil
+Engineering Department at Mississippi State University. The STREAM model was updated by
+MSU in 2004 to work in a java and oracle computer environment. The model is used for both
+empirical and calibration purposes.
+For salt water modeling, nutrient modeling, and highly complex hydrology, the Department will
+use a combination of the Environmental Fluids Dynamic Code EFDC model for the hydrology
+and the WASP model. Both of these models are supported by EPA and are accessible in the
+public domain.
+The Department may utilize other models and/or documents which are approved by both the
+Department and EPA, are scientifically defensible and/or have been duly promulgated through
+the Federal Administrative Procedure Act.
+
+104
+
+

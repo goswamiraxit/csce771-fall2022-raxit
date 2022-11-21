@@ -1,0 +1,108 @@
+Basin
+
+Water Body
+Name
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+902513
+
+Tippah
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Tippah River
+
+941411
+
+Holmes
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Millstone Bayou
+
+Yazoo River
+
+Spring Branch
+Unnamed
+Tributary To
+Little
+Tallahatchie
+River
+
+901713
+
+Union
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Pinedale from headwaters to confluence with
+Unnamed Tributary just downstream of County Road
+46
+
+Yazoo River
+
+Whites Creek
+
+930111
+
+De Soto,
+Tunica
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Prichard from headwaters to Lake Comorant
+Bayou
+
+Yazoo River
+
+Yoda Creek
+
+915414
+
+Calhoun
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Skuna River
+
+Yazoo River
+
+Yazoo River
+
+South Tippah
+Creek
+
+Water
+Body Id
+
+48
+
+

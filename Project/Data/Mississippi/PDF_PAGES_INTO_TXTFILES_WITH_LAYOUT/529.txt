@@ -1,0 +1,40 @@
+                    Water Body       Water                   Impaired
+     Basin                                      County                          Pollutant                        Location
+                      Name          Body Id                    Use
+
+                                                            Aquatic Life    Biological
+Big Black River   Markham Creek     108011    Warren        Use Support     Impairmen       From Headwaters To The Mouth Of Big Black River
+
+                                              Attala,       Aquatic Life    Biological
+Big Black River   Parker Creek      103914    Madison       Use Support     Impairment      From headwaters to mouth at Seneasha Creek
+
+                  Pepper/ Rucker                            Aquatic Life    Biological      Near Canton from headwaters to mouth at Beaver
+Big Black River   Creek             104511    Yazoo         Use Support     Impairment      Run
+
+                                                            Aquatic Life    Biological
+Big Black River   Persimmon Creek   106311    Madison       Use Support     Impairment      From headwaters to confluence with Big Black River
+
+                                                            Aquatic Life    Biological      Near Lynchburg from headwaters to mouth at Big
+Big Black River   Porter Creek      107611    Hinds         Use Support     Impairment      Black River
+
+                                                            Aquatic Life    Biological
+Big Black River   Sand Creek        101112    Webster       Use Support     Impairment      From headwaters to mouth at Calabrell Creek
+
+                                                            Aquatic Life    Biological
+Big Black River   Silver Creek      108012    Warren        Use Support     Impairment      From headwaters to mouth at Big Black River
+
+                                                            Aquatic Life    Biological
+Big Black River   Spring Creek      100211    Webster       Use Support     Impairment      At Sara from headwaters to MWS 1001 boundary
+
+                                                            Aquatic Life    Biological
+Big Black River   Turkey Creek      108711    Hinds         Use Support     Impairment      From headwaters to mouth at Fourteen Mile Creek
+
+                                                            Aquatic Life    Biological      Near Galloway from headwaters to mouth at Big
+Big Black River   Willis Creek      109511    Warren        Use Support     Impairment      Black River
+
+                                              Montgomery,   Aquatic Life    Biological      Near Shelbyton from headwaters to confluence with
+Big Black River   Wolf Creek        101312    Webster       Use Support     Impairment      Patts Branch
+
+
+                                                                           24
+

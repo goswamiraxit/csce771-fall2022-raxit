@@ -1,0 +1,1398 @@
+Lead in drinking-water
+Health risks, monitoring and corrective actions
+
+
+
+
+                                                                                                                                              Photo © WHO / Fid Thompson
+Technical brief
+
+
+
+About this technical brief
+This technical brief provides guidance on managing lead                   background information on the potential health risks of lead
+contamination in drinking-water supplies, from hand pumps to              exposure and sources of lead exposure in the environment.
+piped supplies. The information in this brief is primarily intended for
+water suppliers and agencies responsible for overseeing the safety
+and acceptability of drinking-water in resource-limited settings.            As lead is a priority chemical hazard, a proactive approach to
+Certain sections of this brief are also useful for other stakeholders        identifying, assessing and managing lead in drinking-water
+involved in drinking-water quality management.                               should be adopted. This should include understanding lead
+                                                                             sources in drinking-water, monitoring lead in drinking-
+The information in this technical brief has been structured around           water (including in supplies known or suspected to contain
+actions to take when elevated lead concentrations are detected               lead materials), and adopting appropriate procurement and
+in drinking-water. These actions range from further monitoring,              installation programmes to prevent the introduction of lead
+informed by investigation of lead sources, to remedial measures              into new water systems.
+to reduce lead in drinking-water. The technical brief also includes
+Key messages
+
+Lead is recognized as a chemical of major public health concern. There is a need to decrease human exposure to all sources of lead
+in the environment, including in drinking-water.
+
+Lead should be included in national drinking-water quality standards and monitored as part of a drinking-water quality
+surveillance programme.
+
+The primary source of lead in drinking-water is leaching from lead-containing materials in water systems, including plumbing
+in buildings (e.g. homes, childcare facilities, schools) and hand pump components. These materials can be made of lead, lead-containing
+metal alloys, or polyvinyl chloride (PVC) or unplasticized polyvinyl chloride (uPVC) with lead stabilizers. Other exogenous sources include
+pollution or leaching from lead-containing bedrock.
+
+Prevention is the most effective action. For materials in contact with water, only low-lead or lead-free water system parts should be
+used when constructing new water systems or rehabilitating old ones. Programmes should be developed to support the adoption of standards,
+including appropriate procurement and installation of parts. Compliance with these standards should be monitored to minimize and ideally
+prevent the introduction of lead into new water systems.
+
+Elevated lead levels in drinking-water should trigger a systematic investigation to understand exposure and contamination
+sources, and to inform remedial actions. Where elevated lead levels in drinking-water are confirmed, remedial actions should be taken to
+progressively reduce lead concentrations to levels as low as reasonably achievable and ideally to below the World Health Organization
+provisional guideline value of 10 μg/L.
+
+Actions should take into consideration that lead concentrations in drinking-water can vary over time. Because of this
+variability, a probability-based adaptive sampling plan should be used to assess exposure. If prior knowledge exists about possible lead
+sources, sampling and actions can be directed towards these sources.
+
+Cooperation and coordination are critical, including with drinking-water suppliers, agencies responsible for overseeing drinking-water
+safety and agencies responsible for broader public health. Cooperation and coordination are needed to communicate about issues relating to
+lead in drinking-water and to understand the broader public health significance of lead in drinking-water. This understanding is appropriate
+to inform investment decisions and communications with the public.
+
+Remedial actions may include a combination of interim and long-term measures. Interim measures include alternative sources
+of safe water for vulnerable groups, certified lead removal units at points of consumption (e.g. at the customer tap), flushing at the tap or
+hand pump, or corrosion control. Longer-term measures include replacing materials in contact with drinking-water. Shutting down water
+supplies is generally considered an inappropriate response.
+
+Actions should be prioritized to areas where exposures or risks are high. Remedial actions should ideally be implemented first
+in settings with the highest lead concentrations in drinking-water, particularly focusing on infants, children and pregnant individuals.
+
+Lead in drinking-water should be considered as part of broader efforts to improve the safety of drinking-water and public
+health. Reducing any exposure to lead supports health protection efforts. However, reducing lead in drinking-water should also be part of
+an overall programme to reduce microbial and other priority chemical risks from drinking-water systems.
+
+
+
+
+2
+Introduction
+Lead is recognized as a chemical of major public health concern that should be included in national drinking-
+water quality standards and monitored as part of a drinking-water quality surveillance programme. Lead
+concentrations in drinking-water should be kept as low as reasonably achievable.
+
+Lead is a naturally occurring toxic metal. Its widespread use has caused                            exposures, particularly for children and women of childbearing age
+extensive environmental contamination, human exposure and health                                    (WHO, 2021a).
+problems in many parts of the world. It is a cumulative toxicant that
+can affect multiple body systems. Children are particularly vulnerable                              Given the public health significance of lead in drinking-water, WHO
+to the neurotoxic effects of lead (WHO, 2016a).                                                     has assessed this contaminant regularly in the Guidelines for drinking-
+                                                                                                    water quality (see Box 1). Lead can occur in drinking-water as a result
+Lead exposure causes a significant burden of disease: it is estimated                               of leaching or particulate release from lead-containing components or
+that lead exposure accounts for 0.9 million deaths per year (IHME,                                  materials. The lead content of the water depends on the lead content
+2020) and 30% of the global burden of developmental intellectual                                    of materials exposed to water, the duration of contact between the
+disability of unknown origin (WHO, 2019). The World Health                                          affected materials and the water, how and where in the supply system
+Organization (WHO) has identified lead as one of 10 chemicals                                       these materials are installed, and the overall water chemistry.
+of major public health concern needing action by Member States.
+                                                                                                    For piped water supplies, lead-containing components can include
+Lead as an additive in petrol was previously an important source                                    service connection pipes (between the water mains and buildings),
+of exposure, but from 2021 all countries have banned such use of                                    solder joints, and taps and fittings in household plumbing systems. In
+lead (UNEP, 2021). However, other important potential sources of                                    hand pump systems, lead contamination can come from lead-containing
+exposure to lead remain because of its widespread use, including in                                 components in pumps or well parts. In some cases, lead is present in the
+batteries, paint, aviation fuels, and ceramic glazes in food containers,                            water source itself, originating from the bedrock or pollution. Further,
+as well as in pipes and fittings, and other components in contact                                   regardless of source, lead can accumulate as deposits on galvanized or
+with drinking-water. Further efforts are required to reduce the use                                 cast iron components, which can then be released.
+and release of lead, and reduce environmental and occupational
+
+
+
+     BOX 1
+     Understanding the WHO drinking-water guideline value
+     Since 1993, the guideline value for lead in the WHO Guidelines for drinking-water quality has been 10 µg/L. In 2011, this health-based guideline
+     value was changed to a provisional value to reflect treatment achievability, recognizing that it is difficult to achieve lower than 10 µg/L with central
+     treatment. Previously, the guideline value was supported by the provisional tolerable weekly intake (PTWI) for infants and children established by
+     the Joint Food and Agriculture Organization of the United Nations (FAO)/WHO Expert Committee on Food Additives (JECFA). In 2010, the PTWI was
+     withdrawn because JEFCA concluded that it was no longer considered health-protective and that there is no apparent health-based threshold for
+     lead (i.e. no safe level of lead). At this time, JECFA reaffirmed that fetuses, infants and children are the population groups most sensitive to lead, with
+     neurodevelopment effects still considered the key end-point. However, uncertainties remain in the epidemiology of lead exposure, associated with
+     very low blood lead levels, and end-points (e.g. neurodevelopmental effects) that are affected by many other factors. Nevertheless, every effort
+     should be made to maintain lead levels in drinking-water as low as reasonably practical and below the guideline value when resources are available.
+
+     Although the guideline value of 10 µg/L has been in place since 1993, many authorities had standards that were higher than this until recently. For
+     example, in the European Union (EU), the decrease in the lead limit in drinking-water from 50 to 10 μg/L in 2011 (SCHER, 2011) was approached by
+     setting an interim limit of 25 μg/L (Postawa, 2015) for 5–15 years after the EU drinking-water directive took effect. Setting an interim limit allowed
+     water suppliers sufficient time to implement the necessary actions, recognizing the practical difficulties and time required to achieve the stricter
+     standard in many countries.1
+
+     Accordingly, exceeding the WHO provisional guideline value of 10 µg/L does not necessarily constitute an emergency unless concentrations are
+     continuously very high (e.g. over 100 µg/L). Where concentrations are high and vulnerable groups (fetuses, infants and children) are exposed, interim
+     remedial actions should be considered – for example, flushing if the source is suspected to be in the plumbing system or use of an alternative safe
+     drinking-water supply if the water source is contaminated.
+
+1
+
+1
+    In 2021, a new EU drinking-water directive lowered the limit further to 5 μg/L, which must be met by 12 January 2036 at the latest. This is in line with legislation in several other
+    countries. The parametric value for lead until that date is 10 μg/L. However, caution is needed when comparing limits because interpretation should be informed by the sampling
+    regime, which may or may not be specified in the regulation.
+
+                                                                                                                                                                                            3
+What to do if elevated lead levels are
+detected in drinking-water
+Elevated lead levels in drinking-water above the WHO guideline value or national standard should trigger
+a systematic investigation of exposure and the contamination source. Remedial actions, informed by
+investigations on source contamination, should be taken if elevated lead levels in drinking-water are
+confirmed.
+
+Fig. 1 describes a process to support systematic and sustainable           implemented (step 6) using an integrated and coordinated risk-based
+management when elevated lead levels are found in drinking-water.          approach, to maximize impact considering available resources. Since
+First, there is a need to understand what the sample represents,           investigations can take considerable time, it is essential to evaluate the
+including whether the elevated level is an isolated event, or typical      need to implement interim measures in parallel with taking actions
+and representative of exposure. In most cases, further sampling or         to increase understanding of lead exposure, sources of exposure and
+investigation is needed to understand exposure (step 1 in Fig. 1).         public health significance. Obtaining a comprehensive understanding
+                                                                           of these aspects, particularly step 4, should not significantly delay
+Communication is vital throughout the investigation and management         implementing cost-effective interim measures. The knowledge and
+process, starting with a dialogue between the water supplier and the       resources gained should inform further management actions.
+drinking-water regulator or other relevant authority when elevated
+lead in drinking-water is first detected. A wider communication            To verify the effectiveness of remedial measures – that is, that the
+process should be initiated when elevated lead levels have been            remedial actions have reduced lead concentrations to acceptable
+confirmed, including with water users. Interim remedial actions            levels in drinking-water – lead in drinking-water should be analysed
+may need to be taken if lead concentrations in water are high and          after implementation of the remedial actions (step 1). If subsequent
+vulnerable groups are exposed (step 2).                                    sampling shows acceptable lead levels, the process described in
+                                                                           Fig. 1 has reached an end, and lead should then be periodically
+Understanding the source of lead is the next step of the process, which    monitored in drinking-water as required by national standards and
+should inform further remedial actions, if needed (step 3). In parallel,   when circumstances that can affect lead release occur. If lead levels
+a more comprehensive investigation can be conducted to understand          remain elevated in subsequent monitoring, the actions described in
+the public health significance of lead in drinking-water compared with     Fig. 1 should be repeated.
+lead exposure from other sources (step 4).
+                                                                           Each of the steps in the flow chart is explained in more detail in the
+The information gathered in steps 1, 2, 3 and 4 should inform              following sections.
+prevention and remedial options. These should be assessed (step 5) and
+
+
+
+
+4
+FIG. 1
+Work flow for investigation and management when elevated lead levels are detected in drinking-water
+
+
+
+                                                                       Start
+
+
+                                                                      Elevated levels                              Is the current                 Document
+                                                                    of lead in drinking-              NO         management of lead       YES     and close
+                                                                          water?                                     long term?
+
+
+
+                                                                            YES
+
+
+
+                   Conduct sampling and                                  Do levels
+          STEP 1
+
+
+
+
+                   analysis of water to
+                                                   NO/                  represent
+                                                 UNKNOWN
+                                                                     typical exposure                                   NO
+                   assess exposure
+                                                                         to lead?
+
+
+
+                                                                            YES
+
+
+                                                                    Communicate and take
+                                                           STEP 2
+
+
+
+
+                                                                    precautionary actions,
+                                                                    if needed
+
+
+
+
+                                                                                               Investigate lead
+                                 STEP 3
+
+
+
+
+                                                                                      STEP 4
+
+
+
+
+                                          Investigate the source                               exposure from other
+                                          of lead                                              sources
+                                                           STEP 5
+
+
+
+
+                                                                    Investigate remedial
+                                                                    options
+
+
+
+
+                                                                    Implement and ensure
+                                                           STEP 6
+
+
+
+
+                                                                    effectiveness of
+                                                                    remedial actions
+
+
+
+
+Note: Diamonds indicate key decisions, and boxes indicate activities.
+
+
+
+
+                                                                                                                                      Technical brief     5
+    STEP 1     Conduct sampling and
+               analysis of water to
+               assess exposure
+
+Since lead concentrations in a water system can be highly variable and, therefore, highly dependent on the
+sampling strategy, an understanding of what the results represent is gained through further, structured
+sampling. Rarely should remedial actions be taken based on only a few samples.
+
+
+When elevated lead concentrations in drinking-water are initially        Second, more extensive areas or systems often need to be divided
+identified, subsequent sampling and analysis should aim to               into subareas or subsystems (Hoekstra et al., 2009). The division
+determine the extent to which lead is present and whether this           may be done geographically into, for example, townships, local
+may result in levels of exposure requiring further investigation.        government authorities, blocks or buildings, or according to where
+Laboratory and field methods for lead detection are summarized           water quality is expected to be uniform, based on prior knowledge,
+in Annex 1.                                                              thereby serving the purpose of testing a hypothesis. Dividing into
+                                                                         subsystems also makes it possible to prioritize areas to sample using
+Lead concentrations can vary significantly, depending on the source      a risk-based approach; this means that areas with high numbers
+of the lead, whether the lead released is dissolved or in particulate    of vulnerable groups, such as schools or childcare centres, can be
+form and the time for which the water is in contact with the leaded      assessed first (Health Canada, 2019).
+material (stagnation time) (Pieper et al., 2015; Deshommes et al.,
+2016; Chan et al., 2020). Exposure must therefore be assessed using      Third, the number of samples required in each subarea for a
+an appropriate sampling strategy, considering when, where and            representative description of exposure (i.e. average concentrations)
+how to take samples, and how many samples to take. This approach         depends on the assessed variability of measured concentrations and
+is applicable to assessing drinking-water exposure to lead for a         the desired certainty in the results. If the variability is too high,
+single household to wider scales, such as a city (Riblet et al., 2019;   another round of samples will be required to increase confidence.
+Triantafyllidou et al., 2021).
+                                                                         If resources are limited, the intensity of the sampling plan can
+Choosing where to take samples and                                       be modest initially. It can be expanded over time – for example,
+how many samples to take                                                 starting with sampling areas with high numbers of vulnerable
+                                                                         groups (e.g. childcare centres) or areas suspected to have the highest
+A sampling plan describes how many samples to take and where they        contamination, and subsequently expanding the area or increasing
+should be collected to understand lead exposure for a population         the number of samples to reduce the uncertainty of the assessment.
+of interest. A probability-based sampling plan is generally
+recommended since this approach is flexible and is suitable for          Even though the purpose of sampling is to assess exposure, rather
+producing representative statistics on an area or set of systems.        than to investigate the source, the data can direct the investigation
+                                                                         of the source. If other attributes, such as building type, plumbing
+First, a decision is needed on how prior knowledge should be             system/materials or hand pump materials, are recorded for each
+considered. Prior knowledge can include information from previous        sample, results can be interpreted for these, guiding the source
+surveys, and knowledge of particular building types, ages of             investigation. Because not all sources are necessarily sampled in
+distribution systems, types of pipework (e.g. lead service pipes),       a given monitoring round, the resulting data may not always be
+types of homes or types of pumps. The disadvantage of using prior        useful in identifying individual issues with every system. However,
+knowledge is that conclusions may be drawn too early, leaving            they can indicate trends for problematic components or source types.
+unknown lead-contaminated sites undetected. The benefit is that
+the process will be faster, and limited resources will be most
+effectively targeted, assuming correct assumptions.
+
+
+
+
+6            Lead in drinking-water: health risks, monitoring and corrective actions
+   BOX 2
+   Example of a sampling strategy for lead contamination in China, Hong Kong Special
+   Administrative Region (SAR)
+   After lead in drinking-water was initially identified in Hong Kong SAR in 2015 as a potential issue, the need to undertake sampling to cover large
+   areas including households was identified. To increase efficiency, authorities used a combination of different protocols, taking a tiered approach.
+
+   Tier 1
+   The first tier consisted of a single screening sample using random daytime (RDT) sampling. A 1 L unflushed sample was randomly taken during the
+   daytime.
+
+   Tier 2
+   The second-tier sample provided better representation of an individual’s potential exposure to lead. A 30-minute stagnation (30MS) sampling was
+   used. If exceedance was found in the Tier 1 sample, the Tier 2 sample was analysed to verify exposure of consumers to lead. The tap was flushed for 5
+   minutes and then stagnated for 30 minutes. After stagnation, a 1 L unflushed sample was taken at the tap.
+
+   Simultaneous sampling for exposure and the source of lead
+   While collecting the Tier 1 and Tier 2 samples, auxiliary samples were also taken simultaneously, which were only tested to provide supplementary
+   information if exceedance was found in the Tier 1 and Tier 2 samples. A number of 1 L sequential samples (generally 2–6) were taken from taps at
+   the premises for assessing whether the problem was confined to the premises or not. In addition, a 2-minute flushed sample was taken to confirm
+   the applicability of flushing advice provided to consumers as a mitigation measure in case of exceedance. The approach meant that all samples from
+   one apartment could be collected for analysis on one occasion by professional samplers.
+
+   The investigation determined that the soldered joints in the copper piping installed in a limited number of buildings were the dominant lead source
+   in the drinking-water, with brass fixtures and fittings identified as a second potential source.
+
+
+
+Choosing how and when to take samples                                             For assessing the average exposure of lead in water systems serving
+                                                                                  a larger population or a particular district or water supply zone,
+The sampling protocol describes how and when samples should be                    random daytime (RDT) sampling is often used, with or without prior
+collected. In practice, the sampling protocol to be implemented                   flushing, depending on whether or not household plumbing is of
+depends on the objective of the analysis and regulatory requirements.             concern. If the number of samples is sufficient, this strategy may
+Annex 2 shows examples of sampling protocols with different                       give a good representation of the overall exposure of a population
+purposes. The key components of most sampling protocols are:                      (Health Canada, 2019). However, results might be misleading at the
+    • stagnation time – the contact time between materials and                    household level because of the element of randomness, particularly
+      water, which determines the time available for chemical                     in relation to stagnation times (Schock & Lemieux, 2010). Some
+      equilibration between the materials and the water;                          studies have shown that concentrations can vary more than tenfold
+    • volume – the volumes of water captured, which determine                     using RDT sampling from the same tap over an extended period
+      the lead-contributing plumbing parts that can influence the                 (Cartier et al., 2011; Gora et al., 2020). See Box 2 for an example of a
+      result (depending on where the water stagnates) and how                     sampling approach applied in one country to assess both population
+      lead levels are averaged; and                                               and household exposure and the source of lead.
+    • flow rate – affects the extent to which scale and other
+      particles are likely to be included in samples.                             To ensure that the water sample represents the water used for
+                                                                                  consumption, a fixed proportion of water should be collected,
+When seeking to understand the average exposure to lead from                      either manually or using a sampling device. This strategy is called
+any source of water, the sample should ideally represent the water                composite proportional sampling. However, it is not practical for
+used for consumption, taking flow rates, flushing times, duration of              extensive sampling at many households.
+storage and amounts of water into account. However, information on
+the range of potential exposures, including frequencies of elevated               Sampling hand pump systems
+exposure and highest concentrations, is also important to better                  The sampling protocols in Annex 2 have generally been developed
+determine and understand the full range of exposures of concern.                  for piped water distribution systems. RDT sampling and composite
+                                                                                  proportional sampling are also applicable to non-piped systems such
+Sampling piped supplies                                                           as hand pumps. As with piped supplies, the principal components
+For piped water supplies, sampling should generally include                       – stagnation time, flow rate and volume – should be chosen to
+consumer taps, since the primary source of lead in drinking-water                 adequately represent how water is used.
+for these systems is often service connections or plumbing in
+buildings (WHO, 2022).
+
+                                                                                                                                 Technical brief           7
+    STEP 2     Communicate and take
+               precautionary actions,
+               if needed
+
+Communication is vital throughout the investigation and management process, starting with a dialogue
+between the water supplier and the drinking-water regulator or other relevant authority when elevated lead
+in drinking-water is first detected.
+
+
+Once elevated lead levels in drinking-water have been confirmed          and prevent dissemination of conflicting information from different
+(step 1), a wider communication process should be initiated to support   agencies, which has been shown to reduce trust (Sopory et al.,
+an efficient and coordinated response in affected communities.           2017a). Both social media and traditional media should be included
+                                                                         in the plan, together with other forms of communication, to achieve
+For this wider communication process, the following actions should       convergence of accurate information (WHO, 2017).
+be taken.
+                                                                         Decide when and what to communicate
+Form a task force
+                                                                         A systematic review of studies on how trust is created during
+A task force should be formed with a clear mandate to make               health-related events found it important to be transparent, to not
+decisions and to communicate with stakeholders and users. Who            be perceived as hiding negative information, to quickly disseminate
+to include in the group depends on the setting. Public health            information and to intervene when necessary (Sopory et al., 2017a).
+authorities are vital, as are local authorities and entities in charge   Communication needs to be active and provide information about
+of building codes, schools, and other locations where prevention and     initial results, ongoing work, planned work (both short and long
+management may be needed. In addition to official representatives,       term, related to both sampling and analysis and possible remedial
+other stakeholders such as plumbers and community leaders can be         actions) and uncertainties, to create trust and minimize the spread
+key resources to support behaviour change (Cole & Murphy, 2014;          of disinformation (Sopory et al., 2017b). Regular updates should
+Khaliq et al., 2021). In some settings, involvement of national          be provided as knowledge is gained from further sampling and
+academic institutions may be useful to support quality control           analysis. This includes providing updates after implementing
+activities relating to sampling and analysis.                            remedial actions, and addressing learnings from listening to and
+                                                                         engaging with users.
+
+    The five WHO risk communication principles                           Listen to and engage with users
+    (WHO, 2005)
+    1   TRUST
+    2   TRANSPARENCY                                                     Listening to and understanding public perceptions forms the basis
+    3   ANNOUNCING EARLY                                                 of a risk communication strategy, which should both inform and
+    4   LISTENING                                                        deal with fears. Information needs to be shaped so that the public
+    5   PLANNING                                                         and stakeholders see it as relevant to their lives (WHO Regional
+                                                                         Office for South-East Asia, 2019). Listening also enables early
+                                                                         identification of rumours and misinformation, and the collection of
+Plan for risk communication                                              necessary information about use of water systems, which is valuable
+                                                                         background information for investigations.
+Risk communication planning should support consistent messages
+from different information sources, which is one of the purposes of      Social media is one means of engaging with the public. It has evolved
+the task force. A communication plan for the task force should include   from being an information channel to a communication platform,
+details on who will communicate different messages, to whom and          although messages sometimes cannot be controlled. Social media
+when. Clear and consistent information is critical for issues such       can facilitate peer-to-peer communication, monitoring and response
+as lead in drinking-water. Inconsistent or contradictory guidance        to rumours, public reactions and concerns during an emergency, and
+coming from different stakeholders can undermine the credibility of      local-level responses. Another approach is to identify people the
+the information, leaving room for doubts and speculation (AWWA,          community trusts and involve them in decision-making to ensure
+2019). The task force could help avoid rapid changes in information      collaborative and accepted interventions (WHO, 2017).
+
+8            Lead in drinking-water: health risks, monitoring and corrective actions
+Provide advice on precautionary                                                        and vulnerable groups (fetuses, infants and children) are exposed.
+actions, if needed                                                                     If the source is suspected to be in the hand pump or plumbing/
+                                                                                       piping system, measures include flushing, using approved filters,
+Since further investigations by the water supplier and remedial                        or providing an alternative safe water supply (e.g. bottled water
+actions in plumbing systems may take time to complete,                                 certified by the responsible authorities). A contaminated water
+implementation of interim remedial measures may be justified to                        source requires approved filters or an alternative safe water supply.
+reduce lead exposure in the short term.                                                See step 5 for further details on temporary remedial options.
+
+Temporary measures that can be rapidly implemented may be
+particularly relevant when concentrations of lead in water are high
+    STEP 3
+
+
+
+
+              Investigate the source of
+              lead
+
+
+The primary source of lead in drinking-water is leaching from lead-containing materials in water systems, including
+service pipes, plumbing in homes (see Fig. 2) and other buildings, and components in well parts and hand pumps
+(see Fig. 3). These materials can be made of lead, lead-containing metal alloys, or polyvinyl chloride (PVC) or
+unplasticized polyvinyl chloride (uPVC) with lead stabilizers. Exogenous sources may be pollution or bedrock.
+                                   Lead sources in drinking-water from piped water supplies
+FIG. 2
+Plumbing terminology in houses mentioned in this brief
+                                           Taps: Fixtures inside the home
+                                           with brass or bronze parts                                                       PVC pipes with
+                                                                                                                            lead stabilizers
+
+
+
+
+               Copper pipe with
+               lead solder: Lead in
+               contact with many other
+               metals, including copper,                                                                                           Galvanized pipe:
+               will cause galvanic                                                                                                 Accumulates lead
+               corrosion                                                                                                    particles from upstream
+                                                                                                                               sources and releases
+                                                                                                                                          them later
+
+
+
+
+               Lead service line: The
+               service line is the pipe
+               that runs from the water                                                                                        Lead goose necks:
+               main to the home’s                                                                                          Goose necks and pigtails
+               internal plumbing                                                                                             are shorter pipes that
+                                                                                                                           connect the lead service
+                                                                                                                                   line to the main
+                                               Water
+                                               meter
+
+
+
+                                                                            Main water line
+
+Source: Adapted from USEPA.
+
+                                                                                                                                  Technical brief         9
+     FIG. 3
+     Components from hand pumps mentioned in this brief                                       BOX 3
+                                                                                              Source water contamination
+                                                                                              Although the primary sources of lead in drinking-water are
+                                                                                              lead-containing components in water systems, lead may come
+                                                                                              from the water source because of its natural occurrence in the
+                                                                                              bedrock or presence in anthropogenic sources, such as industrial
+                                                                                              pollution.
+
+                                                                                              Water sources can be contaminated through battery manufacturing
+                                                                                              and recycling, pottery or ceramics activities, mining (particularly
+                                                                                              sulfide mineral mining), paint manufacturing, lead smelting,
+                                                                                              municipal waste incineration and coal incineration (USEPA, 1998;
+                                                Rising main                                   Health Canada, 2019). Depending on the distribution patterns,
+                                                                                              pollution from these industries can be either diffuse or
+                                                                                              concentrated in certain areas.
+
+                                                                                              In specific geological regions, concentrations of naturally occurring
+                                                                                              lead in groundwater can be high, reaching more than tenfold the
+                                                                                              WHO provisional guideline value (Dahlqqvist et al., 2016; Liao et
+                                                                                              al., 2017; Pazand et al., 2018). At these locations, lead is a natural
+                                                                                              component of the bedrock. Mining of sulfide ores containing, for
+                                                                                              example, arsenic, tin, antimony, silver, gold, copper and bismuth
+                                                                                              can often indicate that lead might be present naturally and should
+                                                                                              be considered where effluent from such operations can
+                                                Water level
+                                                                                              contaminate water sources. However, lead tends to accumulate
+                                                                                              more often in sediments and soil than in surface water or
+                                                Pipe lined with brass or stainless steel
+                                                                                              groundwater; therefore, elevated levels of naturally occurring lead
+                                                                                              in water sources are rare.
+                                                Plunger
+                                                                                              When sampling to represent source water (i.e. the “true
+                                                                                              groundwater”), boreholes should be purged, which means removing
+                                                Footvalve
+                                                                                              3 times the pipe volume of water immediately before sampling
+                                                                                              (USEPA, 2013). Also, any materials that are known to contain lead
+                                                                                              should be recorded, to support interpretation of results.
+Borehole casing
+
+
+
+                                                Suction tube/entry pipe
+
+
+
+                                                Well screen                                Since the primary sources of lead in drinking-water are lead-containing
+                                                                                           materials in water systems, including household plumbing, this
+                                                                                           section focuses on determining these lead sources. See Box 3 for
+    Note: The exact design of components in different hand pumps might differ from this
+    example.                                                                               information on elevated lead levels in source water.
+    Source: Adapted from Water Engineering and Development Centre (WEDC),
+    Loughborough University, United Kingdom.                                               Historical inventories, and visual and
+                                                                                           mechanical identification of leaded parts
+
+    Where elevated lead levels in drinking-water have been confirmed, it                   The primary concern is whether lead leaches into water or not,
+    is essential to undertake further investigations using a combination of                which means that water sampling is the ultimate method for source
+    historical inventories, visual and mechanical methods, and chemical                    identification. However, water sampling is more precise if directed
+    methods. The aim is to understand the source of contamination – for                    by a hypothesis on which parts, materials or water chemistry (i.e.
+    example, the water source, plumbing parts or materials, or hand pump                   corrosiveness) are responsible for lead in drinking-water. Therefore,
+    components – and the factors that influence the release of lead into                   reviewing historical records on the use of leaded materials, undertaking
+    the water. This understanding is needed to inform remedial actions.                    physical inspections and reviewing water chemistry records is
+    Sometimes this investigation can be done in parallel with the exposure                 beneficial before sampling. The following sections describe materials
+    assessment (step 1).                                                                   of interest and water chemistry affecting lead concentrations.
+
+
+
+
+    10            Lead in drinking-water: health risks, monitoring and corrective actions
+Pure lead components                                                                       is affected by the number of particles in the system (Deshommes et
+In piped systems, pure lead components can be lead pipes, goose necks and                  al., 2010; McFadden et al., 2011; Knowles et al., 2015; Locsin et al.,
+lead solder. In hand pumps, lead can be found as plunger weights, valve                    2022). If these substances are not removed sufficiently from the raw
+weights or lead solder in well screens. Elemental lead that has not been                   water, they may affect lead concentrations at the tap. Table 1 provides
+painted can easily be recognized by the grey–blue colour. Since lead is very               guidance on which chemical parameters can usefully be analysed to
+soft, it can easily be scratched with a sharp object, producing a shiny, silver            support identification of the source.
+mark. It also makes a dull sound when knocked. A characteristic feature of
+lead pipes is that they are laid with large bends (Fig. 3).                                Lead components in contact with other metals
+                                                                                           If lead components are in direct contact with copper, brass or
+Lead oxides, lead carbonates or lead phosphates cover all lead surfaces                    stainless steel, galvanic corrosion can occur, resulting in release of
+in aquatic environments. The extent to which lead leaches into water is                    lead into drinking-water. Galvanic corrosion is an electrochemical
+primarily determined by the solubility of these lead compounds, which                      process in which one metal corrodes preferentially when in contact
+may change with the water chemistry. Fig. 4 provides information on water                  with a second metal. Lead that forms a galvanic couple with another
+quality characteristics that affect the release of lead into the water. Studies            metal generates substantially higher lead concentrations in water
+suggest that lead service lines can contribute 50–75% of the total lead at                 than components that are not in contact with these materials (Wang,
+the tap after extended stagnation times (Sandvig et al., 2008).                            2012; St. Clair et al., 2015; Ng, Lin & Lin et al., 2020). Galvanic
+                                                                                           corrosion can result in the release into water of both particulate
+Particulate lead or lead adsorbed to particulate iron, manganese and                       and dissolved lead (Wang et al., 2013). According to some studies,
+aluminium oxyhydroxides can make up a significant share of the total                       the release can last more than 60 years after installation of the
+lead in many systems. This means that the total lead concentration                         components (St Clair et al., 2015; DeSantis et al., 2018).
+
+
+FIG. 4
+Chemical factors affecting release of lead to water from pure lead components
+The arrows show release mechanisms, not adsorptive mechanism
+
+
+                            Lead(0) metal
+
+
+
+                       Occurs spontaneously in aquatic
+                                environments
+
+
+
+
+                           Lead(II) oxide,
+                         Lead(II) carbonate,                                Oxidization by free chlorine                   Lead(IV) oxide
+                         Lead(II) phosphate
+
+                                                                  Low alk. + low pH;                 High flow
+                                                               low-mod. pH + high DIC;                velocity
+                                                                      high DIC                                          Reductive dissolution in the
+                        Association with Fe, Mn, NOM                                                                    presence of NOM, Fe, Mn or
+                         particles, high flow velocity                                                                          chloramine
+
+
+
+
+                           Particulate lead                                                                                Dissolved lead
+                               release                                                                                        release
+
+
+Note: alk: alkalinity; DIC: dissolved inorganic carbon; Fe: iron; Mn: manganese; NOM: natural organic matter.
+
+
+
+
+                                                                                                                                        Technical brief       11
+Brass components                                                          Some poor-quality stainless steel used in riser pipes of hand pumps
+In piped systems, brass is found in fittings, valves, couplings or        may contain traces of lead (levels in the range of parts per million).
+fixtures such as refrigerated water coolers and drinking-water            However, the concentrations are so low that they are not expected to
+fountains. In hand pumps, brass can be found in parts such as well        cause any significant lead concentrations in the water (Danert, 2019).
+screens, cylinders, and plungers and valves (Prasad, 1979; Erpf,
+2007; Akers et al., 2015). Brasses can be yellow to red, depending on     PVC and uPVC
+the content of the principal alloying constituents: copper and zinc.      Both PVC and uPVC can contain lead, which is used as a thermal
+                                                                          stabilizer. Lead can be released from PVC and uPVC pipes in varying
+Lead is added to brass alloys, in amounts depending on the                concentrations and for varying durations (WHO Regional Office for
+application, to improve the machinability of the alloy. Production        Europe, 2002; Whelton & Nguyen, 2013). Water properties such as
+costs of “free-machining brass” (containing up to 3% lead) are            high temperature, low pH and presence of monochloramine seem
+lower than costs of brass containing less lead and much lower than        to favour migration, as does the production of pipes using lower
+stainless steel because the alloy is easier to machine (Callcut, 2005).   extrusion temperatures (Koh et al., 1991; Zhang & Lin, 2014).
+Therefore, the cost of lead-free brass fittings is typically 25–50%
+higher than that of regular brass fittings. Terms such as “lead-free”     Water sampling for investigating the
+and “low lead” are used for products that contain less than 0.25%         source of lead
+of lead by weight.
+                                                                          When it is suspected that lead-containing material is the source
+Brass fittings can leach lead into drinking-water (Elfland, Scardinia     of elevated lead in drinking-water – for example, through visual
+& Edwards, 2010; Harvey, Handley & Taylor, 2016; Fischer et al.,          and mechanical identification – water sampling is the method that
+2021). Internal galvanic corrosion between surface lead atoms and         ultimately determines which parts leach lead.
+the rest of the alloy is believed to be the driving force behind the
+leaching of lead from brass (Korshin, Ferguson & Lancaster, 2000).        A suggested sampling protocol is a sequential sampling protocol.
+Lead-containing brass fixtures and fittings are likely to contribute      This involves sampling a series of defined volumes, revealing
+significantly to the lead concentration in first-draw samples (Gardels    leaching properties through differences in concentration between
+& Sorg, 1989; Kimbrough, 2001; Asami et al., 2021). Like lead             the samples (Lytle & Schock, 2000). Lead concentrations can be
+components, brass components can also release lead more rapidly           connected to specific components depending on where the water
+when coupled with another metal (Gonzalez, Lopez-Roldan &                 stagnates. Sequential sampling can be deployed in both piped and
+Cortina, 2013).                                                           non-piped systems.
+
+Bronze components                                                         Annex 2 contains sampling strategies to investigate the lead
+Bronze is an alloy of copper and tin that can contain up to 8% lead.      leaching source.
+It has similar galvanic corroding properties to brass with regard
+to lead. Bronze is sometimes used in hand pumps and household             Analysis of co-parameters
+fixtures, such as decorative taps. “Oil rubbed bronze” used in taps is    Since leaching of lead into water and the efficacy of different remedial
+essentially brass that has been treated to give an aged impression.       options depend on the overall water chemistry, analysing other
+                                                                          parameters is helpful when investigating the source of lead. Table 1
+Other alloys                                                              contains suggestions of chemical parameters to analyse at the same
+Lead–tin solder can be found on copper piping or on brass well            time as lead. The symbols in the table indicate whether the use is
+screens (Akers et al., 2015). These metals are expected to form a         primarily for centralized/piped supplies or hand pump supplies.
+galvanic couple because they are in direct contact, increasing lead
+corrosion.
+
+Galvanized iron or steel pipes can also be a lead source, as lead
+can be part of the galvanizing process (Clark, Masters & Edwards,
+2015). Once the zinc coating is detached, lead is released. Both
+galvanized and cast iron pipes can also accumulate lead on iron
+oxide scales from upstream sources and later release it, especially
+                                                                                   Centralized/piped                     Hand pump
+during periods of high flow velocity (McFadden et al., 2011; Pieper,                   supplies                           supplies
+Krometis & Edwards, 2016; Li et al., 2020). Discolouration of water
+can indicate iron oxides in water, which can suggest elevated lead
+levels (Health Canada, 2019).
+
+
+12       Lead in drinking-water: health risks, monitoring and corrective actions
+TABLE 1
+Suggested co-parameters to analyse when sampling water to investigate the source of lead in drinking-water
+
+ Parameter                     Rationale                                                                                                           Relevancy
+ Alkalinity, pH and            Combinations of low alkalinity and low pH, or low–moderate pH and high DIC favour the release of
+ dissolved inorganic           lead into water from solids. High pH and low DIC, respectively and in combination, reduce the
+ carbon (DIC)                  release of lead into water from solids.
+ Cadmium, iron, zinc,          Lead, cadmium and iron are correlated with zinc when galvanized iron is the source of lead (Clark,
+ aluminium, copper,            Masters & Edwards, 2015). Aluminium and iron coagulant residuals can mobilise lead from premise
+ nickel                        plumbing (Knowles et al, 2015)
+                               Zinc, and in some cases copper and nickel, is associated with brass corrosion (Korshin, Ferguson &
+                               Lancaster, 2000; Asami et al., 2021). Some studies have shown a gradual decrease in zinc leaching over
+                               time, which affects its value as an indicator of brass corrosion (Langenegger, 1994; Chao et al., 2021).
+ Chlorine and chloramine       Concentration changes of chlorine and chloramine (used as disinfectants) can affect lead
+                               concentrations.
+                               The presence of free chlorine decreases dissolved lead by oxidizing it into a highly insoluble Pb(IV)
+                               oxide (PbO2) (Triantafyllidou et al., 2015).
+                               Monochloramine is not a strong enough oxidant to form PbO2, and thus a switch to this oxidant
+                               destabilizes any PbO2 scales present and results in lead release into drinking-water.
+ Chloride:sulfate ratio        Galvanic corrosion is favoured by a chloride:sulfate ratio higher than 0.58 (Nguyen et al., 2011;
+                               Triantafyllidou & Edwards, 2011).
+                               The chloride and sulfate content in water can change if coagulants are changed from sulfate-based
+                               coagulants to chloride-based coagulants, or vice versa. The chloride concentration might change in
+                               source water, or finished water, from road salt intruding into finished water reservoirs.
+ Iron, manganese and           As a result of adsorption of dissolved lead onto surfaces, iron and manganese are correlated with
+ natural organic matter        particulate lead (Trueman et al., 2019). NOM contains diverse functional groups that can form
+ (NOM)                         strong chelate complexes with lead, which may increase lead leaching. NOM can also affect the
+                               colloidal mobilization of lead (lead-containing particles) (Locsin et al., 2022).
+                               NOM, iron and manganese can act as reductants that can accelerate the dissolution of PbO2 scales in
+                               piped supplies with excess chlorine.
+
+Note: When analysing water for the purpose of corrosion control, additional parameters such as corrosion inhibitors, aluminium, hardness, buffer capacity and redox
+potential might also be useful.
+    STEP 4
+
+
+
+
+             Investigate lead exposure
+             from other sources
+
+
+It is appropriate to broaden the investigation to include cooperation with public health and environmental
+authorities to understand the public health significance of lead in drinking-water.
+
+
+In parallel with the source investigation, a broader investigation                     The broader perspective is useful to consider in implementing
+should be initiated in cooperation with public health and                              a progressive approach to remediating lead in drinking-water.
+environmental authorities. Lead in drinking-water may not be                           Substantial resources are often required to mitigate lead
+the main source of exposure, and all potential sources should                          concentrations in existing systems. Not all water systems can be
+therefore be identified and quantified. This information, along with                   feasibly remediated immediately, especially in light of multiple
+measurements of blood lead levels (WHO, 2020, 2021b) in affected                       sources of lead exposure and other public health and environmental
+areas, can inform assessments of the public health significance of                     issues that require resources and effort.
+possible remedial actions to reduce lead in drinking-water.
+
+
+
+
+                                                                                                                                        Technical brief               13
+     STEP 5     Investigate remedial
+                options
+
+
+An investigation of remedial options should include both immediate interim measures and longer-term
+measures. Shutting down water supplies would generally be considered an inappropriate response.
+
+
+When lead sources have been identified (step 3), and it has been found     Interim solutions
+that drinking-water as a source of lead is of public health significance   Corrosion inhibitors
+(steps 2 and 4), available remedial options need to be investigated.       If elevated lead is attributable to lead in distribution systems and
+However, obtaining a full understanding of these aspects, particularly     the water is corrosive, it is often appropriate to adjust pH, increase
+step 4 (investigating lead exposure from other sources), should not        the alkalinity or hardness, or introduce corrosion inhibitors as part
+significantly delay the investigation and implementation of remedial       of central treatment (USEPA, 2016, WHO, 2022).
+actions (e.g. low-cost measures that can be implemented quickly).
+                                                                           Orthophosphate and sodium silicate are examples of chemicals
+In addition to costs and timescales for implementation, other factors      used as corrosion inhibitors, added at the water treatment plant
+to be considered in selecting remedial actions include expected lead       to reduce formation of lead oxides on lead surfaces (Mishrra et al.,
+reduction and ease of implementation. Both capital investment and          2020). However, the dose of chemicals required can be influenced
+operational and maintenance costs need to be considered.                   by other non-targeted and often ill-defined reactions. Therefore,
+                                                                           the dose and impact on reducing lead in drinking-water should be
+In most cases, the main remedy to reduce lead concentrations in            evaluated through a comprehensive monitoring programme (USEPA,
+drinking-water below the WHO provisional guideline value is to replace     2016; Wasserstrom et al., 2017) as part of water safety planning
+the lead-containing components. However, this can require large            (WHO, 2009).
+amounts of time and money. It often requires longer-term plans for
+progressive replacement.                                                   It should also be noted that studies have observed limited reduction
+                                                                           of lead concentrations by orthophosphate in the event of galvanic
+Therefore, practical measures to reduce total exposure to lead in          corrosion (e.g. Cartier et al., 2013). This underscores the importance
+drinking-water should be implemented in the interim. These can             of implementing a monitoring programme to verify the effectiveness
+include using corrosion inhibitors in public supplies and actions at the   of the application of corrosion inhibitors in reducing lead in drinking-
+household level to reduce exposure, which requires communicating           water. Also, orthophosphate can contribute to eutrophication in
+with the public. New installations should comply with modern               many surface waters if subsequently released from wastewater
+plumbing standards, including low-lead or no-lead components and           treatment plants without phosphorus removal (Conley et al., 2009).
+solders, to prevent future contamination.                                  However, this does not mean that corrosion inhibitors should not be
+                                                                           used to control lead (and other contaminants) in drinking-water.
+Remedial actions are categorized according to their applicability. The
+symbols below indicate whether the use is primarily for centralized        Separating galvanic couples
+and piped supplies or hand pump supplies.                                  Making sure that metals that form a galvanic couple with lead are
+                                                                           disconnected to minimize galvanic corrosion has been shown to
+                                                                           reduce lead concentrations by up to 20 times (Wang et al., 2013).
+                                                                           A non-conducting material should separate metals such as copper,
+                                                                           brass, bronze and galvanized iron to avoid galvanic corrosion.
+                                                                           Depending on the system, this might be a more accessible but still
+                                                                           effective remedial option.
+
+              Centralized/piped                Hand pump
+                  supplies                      supplies
+
+
+
+
+14            Lead in drinking-water: health risks, monitoring and corrective actions
+Flushing                                                                 Longer-term solutions
+For systems where corrosion occurs in brass fittings or lead-soldered    Replacement of lead-containing parts
+joints in the premises plumbing or a hand pump, flushing for 30          Identifying and removing lead-containing materials and materials
+seconds to 2 minutes may often temporarily reduce exposure,              such as cast iron where lead has accumulated over time, and
+although lead levels might be re-established in as little as 30          replacing them with low-lead or lead-free alternatives, is often the
+minutes after flushing (Murphy, 1993; Doré et al., 2018).                most effective and permanent solution. It can, however, be both
+                                                                         costly and time-consuming if the lead-containing components are
+If the lead is in service lines, larger flushing volumes are required    pipes or other inaccessible parts. Lead-free alternatives are also
+(i.e. more than 5 minutes using a high-volume tap) (Pieper et al.,       more expensive than materials with a higher lead content. New
+2019). The size of the plumbing system is one determinant of how         plumbing installations should use suitable materials intended for
+well flushing works, which is why flushing in larger buildings such as   drinking-water use, with as little lead as economically feasible. The
+schools or multi-dwelling residences is sometimes insufficient. As a     use of corrosion-resistant material and low-lead plumbing parts
+reference, flushing of at least three “plumbing volumes” – that is, 3    is crucial in areas where the water has high natural corrosiveness.
+times the volume of the pipes from the connection point to the tap
+– is considered a fully flushed water sample (Hoekstra et al., 2009).
+In contrast, extensive flushing can, counterproductively, mobilize          BOX 4
+leaded sediments and scales, resulting in higher concentrations             Example of a major lead line replacement
+(Pieper et al., 2015).                                                      programme
+                                                                            In 1986, the city of Frankfurt identified that around 8000 properties,
+In summary, flushing can be an inexpensive management strategy              or 10% of the citizens, still had lead drinking-water installations. An
+for residents, although it is not always effective in lowering              ambitious programme was launched in 1997 to make Frankfurt
+concentrations. It might, however, result in increased operating costs      lead-free within 10 years. The goal was reached in 2010. The property
+                                                                            owners covered the costs of pipe replacement. The administrative
+and waste a significant amount of water, which is unsustainable,            cost of running the programme for the city was €400 000 (Hentschel,
+particularly for a limited groundwater source or in other water-            Karius & Heudorf, 1999).
+scarce settings. However, flushed water can be used for non-
+consumptive uses such as washing or bathing, since inorganic lead
+in water is not absorbed through the skin (Health Canada, 2019).         If only parts of the service line are replaced, the remaining lead lines
+Flushing should be considered only as an interim measure, and its        should not be in contact with other metals. If they are, galvanic
+effect must be verified after it is introduced.                          corrosion can cause an increase in overall corrosion (Sandvig et al.,
+                                                                         2008; Wang et al., 2013).
+Temporary alternative source of water
+Infant feeding formula reconstituted with tap water with elevated        For brass, lower-lead alternatives containing lead below 0.25%
+lead concentrations can represent a major source of exposure to lead     by weight are safe even when using corrosive water, with respect
+in infants. Alternative safe sources could therefore be provided if      to avoiding extensive leaching (Triantafyllidou & Edwards, 2010;
+the tap water contains elevated lead. Advice should be provided by       Turkovic, Werner & Klinger, 2014; Pieper, Krometis & Edwards, 2016).
+the competent health authority, considering other sources of lead
+exposure in the household.                                               Establishment of material approval processes
+                                                                         National authorities should establish and enforce approval processes
+Household water treatment                                                to ensure the appropriate use of materials and solder in contact with
+Where the source is local (i.e. plumbing or hand pump components),       drinking-water. Several international and national standardization
+point-of-use (POU) and point-of-entry (POE) treatment devices can        organizations provide standards to assess the compatibility of
+reduce the total lead concentration in drinking-water. The extent        materials in contact with drinking-water, including consideration
+of removal depends on the water chemistry and the state in which         of lead. However, as noted, lead-free and lower-lead materials are
+lead is found (Deshommes et al., 2012; Bosscher et al., 2019; Health     somewhat more costly. In some cases, especially where water is less
+Canada, 2019). Treatment can be applied on a consumer scale for          corrosive, authorities may therefore take a risk–benefit approach,
+both piped systems and hand pumps. If the primary source of lead is      allowing materials with slightly higher lead content.
+household or building plumbing systems, POU systems are preferred.
+However, all devices will need proper maintenance and safe disposal      Trained plumbing personnel
+of waste to avoid secondary pollution. Several systems for approval      Plumbers should be appropriately qualified, and certified or
+and certification exist, such as NSF Standard No. 53 in the United       accredited; these approval processes are usually overseen by national
+States of America.                                                       authorities. Plumbers should have adequate knowledge to ensure
+                                                                         that plumbing installations comply with relevant regulations to
+
+
+                                                                                                                        Technical brief               15
+avoid installations, products and materials that may adversely         WHO publications (WHO, 2006, 2009, 2016b). Remediation of lead-
+affect water safety. They should check that the installed product      contaminated areas is possible but costly and time-consuming, and
+is compatible with the local drinking-water. Further, the design of    needs a thorough investigation before it is undertaken.
+plumbing systems of new buildings should generally be approved
+before construction, and inspected by the appropriate regulatory       In the case of elevated lead levels in the source water of centralized
+authority as part of the commissioning and construction of the         systems, conventional water treatment – including aluminium
+buildings.                                                             sulfate or ferric sulfate coagulation and filtration – is reasonably
+                                                                       effective (Health Canada, 2019).
+Prevention and remediation of source
+contamination                                                          Source substitution
+In cases where the primary source of lead in drinking-water is         In rural settings with no or minimal water treatment, the water
+anthropogenic inputs into the water source itself, mitigating source   source can be changed from one with elevated lead to a less
+contamination is critical. The most effective mitigation strategy      contaminated one. Care would need to be taken to ensure that other
+is enacting and enforcing regulations to control pollutants from       water quality issues, including other high-priority contaminants
+industries or other polluting activities. Guidance on managing risks   (e.g. microbiological contaminants), are not introduced.
+in surface water or groundwater catchment areas can be found in
+
+
+
+
+                Implement and ensure
+     STEP 6
+
+
+
+
+                effectiveness of remedial
+                actions
+
+Remedial actions should be prioritized using an integrated risk–benefit approach to maximize impact,
+considering available resources. The aim is to reduce disparities by progressively addressing elevated lead
+in drinking-water in all settings. Remedial actions should ideally be implemented first in settings with
+the highest lead concentrations in drinking-water, particularly focusing on infants, children and pregnant
+individuals.
+
+
+When remedial options have been mapped and compared (step 5),          Other relevant stakeholders, such as public health authorities,
+and considering information gathered through earlier steps, an         plumbing authorities and consumer groups, should be consulted
+informed decision can be made on which actions to take. As the         in selecting remedial actions to ensure that the options being
+previous section emphasized, remedial actions often require            considered are appropriate and acceptable. These other stakeholders
+simultaneously developing and implementing both immediate              may also play an essential role in communicating information about
+interim and longer-term measures. As knowledge and resources are       remedial measures, including actions to be taken by the public.
+gained, these should inform further management actions.
+                                                                       Ensuring effectiveness
+The costs and public health benefits of reducing lead exposure from
+drinking-water should be considered in the decision (see information   The effectiveness of remedial actions put in place should be assessed
+in step 4). Although reducing any exposure to lead in drinking-water   by monitoring lead concentrations in the drinking-water supply. It
+supports health protection efforts, using a progressive realization    is advised that sampling is conducted at the affected sites using the
+strategy to undertake remedial actions at a feasible pace may          same protocol used to detect the lead initially (step 1), until at least
+need to be considered. When seeking to prevent and manage lead         two monitoring events demonstrate that the actions are effective
+exposure, microbiological and other priority contaminants need to      (Health Canada, 2009).
+be adequately managed. The risk of not having a drinking-water
+supply must also be considered; shutting down water supplies is
+generally considered an inappropriate response.
+
+
+16            Lead in drinking-water: health risks, monitoring and corrective actions
+As part of water safety planning (WHO, 2009), control measures          For new water supplies or when rehabilitating existing systems,
+to manage lead in drinking-water (e.g. remedial actions) should         the focus should be on ensuring appropriate procurement and
+be monitored routinely to confirm that they continue to work as         installation of parts. Regulators should ensure that standards for
+intended and to enable timely corrective action. Lead in drinking-      using and installing appropriate low-lead materials are followed.
+water should also be monitored following requirements in national       Spot checks of supplier records, random testing of parts before and
+standards as a final verification activity. Monitoring should also be   after installation, and training of key personnel can be conducted.
+conducted when circumstances that can affect lead release occur,
+such as when changes are made to the water supply system, when
+there are seasonal changes in the quality of raw water sources or
+when water-use patterns change.
+
+
+
+
+                                                                                                                                       Photo © WHO/Yoshi Shimizu
+
+
+
+
+                                                                                                                 Technical brief            17
+How to take action
+
+The issue of lead in drinking-water requires action from multiple stakeholders. Below are some recommended actions that key stakeholders can
+take to reduce exposure to lead from drinking-water. Depending on the institutional framework, responsibilities might be divided differently
+between stakeholders, and other stakeholders might also need to be involved.
+
+
+
+
+      Regulatory agencies2                                                     Water supplies
+      • Include lead in drinking-water quality standards and expand            • Identify and document where lead-containing materials are used
+        surveillance and investigation of lead-contaminated sources/             in existing water systems as part of water safety planning.
+        water points as resources allow.                                       • Monitor lead in drinking-water, particularly where lead-
+      • Adopt or support the development of standards for lead-free or           containing materials are in use, following national requirements
+        low-lead materials in water systems and ensure enforcement.              and also when circumstances that can affect lead release occur.
+      • When elevated levels of lead in drinking-water have been               • Progressively remove lead-containing components in contact
+        confirmed:                                                               with drinking-water from water supply systems.
+         – inform users about the issue and recommend reducing lead            • For new water systems, use appropriately certified lead-free or
+             exposure (both short- and long-term solutions);                     low-lead parts, following national requirements.
+         – sensitize and engage other authorities (e.g. education, public      • Manage the corrosivity of the water in distribution systems.
+                                                                               • Inform and cooperate with authorities in informing users about
+             health), as appropriate; and
+                                                                                 exposure to lead.
+         – form a task force and develop a communication plan on lead issues
+             in drinking-water.
+      • Establish or facilitate approval processes for certifying or
+        accrediting plumbers.
+
+
+                                                                               Plumbers
+                                                                               • Use certified materials from trusted suppliers, following national
+      Operators and installers of                                                requirements.
+                                                                               • Always separate different metals or alloys from each other to
+      hand pump supplies                                                         avoid galvanic corrosion.
+                                                                               • Be aware of the corrosiveness of the water where new parts are
+      • Monitor lead in the water, particularly where lead-containing
+                                                                                 installed and use higher-quality materials where needed.
+        materials are in use, following national requirements and also
+        when circumstances that can affect lead release occur.
+      • If lead levels are too high, investigate remedial options such
+        as flushing, installing a point-of-use filter or providing an
+        alternative source. Inform water users.
+      • Replace lead-containing parts, if possible, and separate different
+        metals using non-conductive materials.                                 Property owners and consumers
+      • For new water supplies, procure and use appropriately certified
+        lead-free or low-lead parts, following national requirements.          • If lead levels are too high, flush the tap (following
+      • Use borehole drillers with good local knowledge about                    recommendations from authorities), install a validated point-of-
+        groundwater quality to avoid corrosive water.                            use or point-of-entry filter, or use an alternative safe source for
+                                                                                 consumption, depending on the situation.
+                                                                               • If the lead source is your responsibility, have lead-containing
+                                                                                 components replaced or corroding metals separated.
+                                                                               • Always hire properly trained plumbers for installations in the
+                                                                                 drinking-water system.
+
+
+
+
+1
+
+
+2
+    Including agencies for both drinking-water and plumbing.
+
+
+18
+References
+Akers DB, MacCarthy MF, Cunningham JA, Annis J, Mihelcic JR (2015).             Danert K (2019). Concerns about corrosion and the quality of handpump
+Lead (Pb) contamination of self-supply groundwater systems in coastal           components in Burkina Faso and beyond. St Gallen, Switzerland: Skat
+Madagascar and predictions of blood lead levels in exposed children.            Foundation.
+Environ Sci Technol. 49(22):2685–93.
+                                                                                DeSantis MK, Triantafyllidou S, Schock MR, Lytle DA (2018).
+Asami M, Furuhashi Y, Nakamura Y, Sasaki Y, Adachi Y, Maeda N, et               Mineralogical evidence of galvanic corrosion in drinking water lead pipe
+al. (2021). A field survey on elution of lead and nickel from taps              joints. Environ Sci Technol. 52(6):3365–74.
+used in homes and analysis of product test results. Sci Total Environ.
+                                                                                Deshommes E, Laroche L, Nour S, Cartier C (2010). Source and
+771:144979.
+                                                                                occurrence of particulate lead in tap water. Water Res. 44(12):3734–44.
+AWWA (American Water Works Association) (2019). Lead and drinking
+                                                                                Deshommes E, Nour S, Richer B, Cartier C (2012). POU devices in large
+water: talking with your community [website]. Denver, Colorado: AWWA
+                                                                                buildings: lead removal and water quality. J Am Water Works Assoc.
+(https://www.awwa.org/Resources-Tools/Resource-Topics/Inorganic-
+                                                                                104(4):E282–97.
+Contaminants/Lead/Lead-Communications, accessed 21 January 2021).
+                                                                                Deshommes E, Bannier A, Laroche L, Nour S (2016). Monitoring-based
+Bosscher V, Lytle DA, Schock MR, Porter A, Del Toral M (2019). POU water
+                                                                                framework to detect and manage lead water service lines. J Am Water
+filters effectively reduce lead in drinking water: a demonstration field
+                                                                                Works Assoc. 108(11):555–70.
+study in Flint, Michigan. J Environ Sci Health A Tox Hazard Subst Environ
+Eng. 54(5):484–93.                                                              Doré E, Deshommes E, Andrews RC, Nour S, Prévost M (2018). Sampling
+                                                                                in schools and large institutional buildings: implications for regulations,
+Callcut V (2005). The brasses: properties and applications. Hertfordshire,
+                                                                                exposure and management of lead and copper. Water Res. 140(1):110–
+United Kingdom: Copper Development Association (Publication No. 117).
+                                                                                22.
+Cartier C, Laroche L, Deshommes E, Nour S, Richard G, Edwards M, et al.
+                                                                                Doré E, Lytle DA, Wasserstrom L, Swertfeger J, Triantafyllidou S (2020).
+(2011). Investigating dissolved lead at the tap using various sampling
+                                                                                Field analyzers for lead quantification in drinking water samples. Crit
+protocols. J Am Water Works Assoc. 103:55–67.
+                                                                                Rev Environ Sci Technol. 50(24):1–32.
+Cartier C, Doré E, Laroche L, Nour S, Edwards M, Prèvost M (2013).
+                                                                                Elfland C, Scardinia P, Edwards M (2010). Lead-contaminated water
+Impact of treatment on Pb release from full and partially replaced
+                                                                                from brass plumbing devices in new buildings. J Am Water Works Assoc.
+harvested lead service lines (LSLs). Water Res. 47(2):661–71.
+                                                                                102(11):66–76.
+Chan SN, Chang L, Choi KW, Lee JHW, Fawell JK, Kwok KYT (2020).
+                                                                                Erpf K (2007). India Mark Handpump specifications. v.2. St Gallen,
+Unraveling the causes of excess lead in drinking water supply systems of
+                                                                                Switzerland: Rural Water Supply Network, Skat Consulting.
+densely populated high-rise buildings in Hong Kong. Environ Sci Technol.
+54(22):14322–33.                                                                Fisher MB, Guo AZ, Tracy JW, Prasad SK, Cronk RD, Browning EG, et al.
+                                                                                (2021). Occurrence of lead and other toxic metals derived from drinking-
+Chao S-J, Tsai M-H, Yu R-P, Hua L-C, Hu C-C, Huang C (2021).
+                                                                                water systems in three west African countries. Environ Health Perspect.
+Dezincification of brass water meters in a long-term study: effects of
+                                                                                129(4):47012.
+anions, alkalinity, and residual chlorine. Environ Sci (Camb). 7(9):1666–
+76.                                                                             Gardels MC, Sorg TJ (1989). A laboratory study of the leaching of lead
+                                                                                from water faucets. J Am Water Works Assoc. 81(7):101–13.
+Clark BN, Masters SV, Edwards MA (2015). Lead release to drinking water
+from galvanized steel pipe coatings. Environ Engin Sci. 32(8):713–21.           Gonzalez S, Lopez-Roldan R, Cortina JL (2013). Presence of metals in
+                                                                                drinking water distribution networks due to pipe material leaching: a
+Cole JM, Murphy BL (2014). Rural hazard risk communication and public
+                                                                                review. Toxicol Environ Chem. 95(6):870–89.
+education: strategic and tactical best practices. Int J Disaster Risk Reduct.
+10(A):292–304.                                                                  Gora SL, Trueman BF, Anaviapik-Soucie T, Gavin MK, Ontiveros CC,
+                                                                                Campbell J, et al. (2020). Source water characteristics and building-
+Conley DJ, Paerl HW, Howarth RW, Boesch DF, Seitzinger SP, Havens KE,
+                                                                                specific factors influence corrosion and point of use water quality in
+et al. (2009). Controlling eutrophication: nitrogen and phosphorus.
+                                                                                a decentralized Arctic drinking water system. Environ Sci Technol.
+Science. 232: 1014–15.
+                                                                                54(4):2192–201.
+Dahlqqvist P, Ladenberger A, Maxe L, Jönsson C (2016). Kartläggning och
+                                                                                Harvey PJ, Handley HK, Taylor MP (2016). Widespread copper and lead
+tolkning av ursprung till höga halter av kadmium och bly i grundvattnet
+                                                                                contamination of household drinking water, New South Wales, Australia.
+i Maglasäte–Lillasäte, Höörs kommun, Skåne. Uppsala, Sweden:
+                                                                                Environ Res. 151:275–85.
+Swedish Geological Survey.
+                                                                                Health Canada (2009). Guidance on controlling corrosion in drinking
+                                                                                water distribution systems. Ottawa: Health Canada.
+
+
+                                                                                                                                                         19
+Health Canada (2019). Guidelines for Canadian drinking water quality.      Li M, Wang Y, Liu Z, Sha Y, Korshin GV, Chen Y (2020). Metal-release
+Guideline technical document: lead. Ottawa: Health Canada.                 potential from iron corrosion scales under stagnant and active flow, and
+                                                                           varying water quality conditions. Water Res. 175:115675.
+Hentschel W, Karius A, Heudorf U (1999). Das Frankfurter Bleiprojekt –
+Maßnahmen zur Einhaltung des Grenzwertes für Blei im Trinkwasser.          Liao F, Wang G, Shi Z, Huang X, Xu F, Xu Q, et al. (2017). Distributions,
+Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz.             sources, and species of heavy metals/trace elements in shallow
+42:902–10.                                                                 groundwater around the Poyang Lake, east China. Expo Health.
+                                                                           10:211–27.
+Hoekstra EJ, Hayes C, Aertgeerts R, Becker A, Jung M, Postawa A, et
+al. (2009). Guidance on sampling and monitoring for lead in drinking       Locsin JA, Hood KM, Doré E, Trueman BF, Gagnon GA (2022). Colloidal
+water. Luxembourg: Office for Official Publications of the European        lead in drinking water: formation, occurrence, and characterization. Crit
+Communities (EUR 23812 EN).                                                Rev Environ Sci Technol. 52(14):1–27.
+IHME (Institute for Health Metrics and Evaluation) (2020). Global Health   Lytle DA, Schock MR (2000). Impact of stagnation time on metal
+Data Exchange [website]. Seattle: IHME (https://ghdx.healthdata.org/,      dissolution from plumbing materials in drinking water. Aqua (Lond).
+accessed 8 March 2022).                                                    49(5):243–57.
+ISO (International Organization for Standardization) (1986). Standard      McFadden M, Giani R, Kwan P, Reiber SH (2011). Contributions to
+ISO 8288:1986 Water quality — Determination of cobalt, nickel, copper,     drinking water lead from galvanized iron corrosion scales. J Am Water
+zinc, cadmium and lead — Flame atomic absorption spectrometric             Works Assoc. 103(4):76–89.
+methods. Geneva: ISO.
+                                                                           Mishrra A, Wang Z, Sidorkiewicz V, Giammar DE (2020). Effect of
+ISO (International Organization for Standardization) (2003). Standard      sodium silicate on lead release from lead service lines. Water Res.
+ISO 15586:2003 Water quality — Determination of trace elements using       188(2):116485.
+atomic absorption spectrometry with graphite furnace. Geneva: ISO.
+                                                                           Murphy EA (1993). Effectiveness of flushing on reducing lead and copper
+ISO (International Organization for Standardization) (2004). Standard      levels in school drinking water. Environ Health Perspect. 101(3):240–1.
+ISO 17294-1:2004 Water quality — Application of inductively coupled
+                                                                           Ng D-Q, Lin J-K, Lin Y-P (2020). Lead release in drinking water resulting
+plasma mass spectrometry (ICP-MS) — Part 1: General guidelines.
+                                                                           from galvanic corrosion in three metal systems consisting of lead, copper
+Geneva: ISO.
+                                                                           and stainless steel. J Hazard Mater. 398:122936.
+ISO (International Organization for Standardization) (2004) Standard
+                                                                           Nguyen CK, Clark BN, Stone KR, Edwards MA (2011). Role of chloride,
+ISO 17294-2:2004 Water quality — Application of inductively coupled
+                                                                           sulfate, and alkalinity on galvanic lead corrosion. Corrosion.
+plasma mass spectrometry (ICP-MS) — Part 2: Determination of
+                                                                           67(6):065005-1-065005-9.
+selected elements including uranium isotopes. Geneva: ISO.
+                                                                           Pazand K, Khosravi D, Ghaderi MR, Rezvanianzadeh MR (2018).
+ISO (International Organization for Standardization) (2007) Standard
+                                                                           Hydrogeochemistry and lead contamination of groundwater in the north
+ISO 11885:2007 Water quality — Determination of selected elements
+                                                                           part of Esfahan province, Iran. J Water Health. 16(4):622–34.
+by inductively coupled plasma optical emission spectrometry (ICP-OES).
+Geneva: ISO.                                                               Pieper KJ, Krometis LA, Edwards M (2016). Quantifying lead-leaching
+                                                                           potential from plumbing exposed to aggressive waters. J Am Water
+Khaliq M, Sommariva S, Buerck AM, Rakotondrazaka R, Rakotoarisoa L,
+                                                                           Works Assoc. 108(9):E458–66.
+Barrett LJP, et al. (2021). Midstream players determine population-level
+behavior change: social marketing research to increase demand for          Pieper KJ, Krometis LH, Gallagher DL, Benhamn BL, Edwards M (2015).
+lead-free components in pitcher pumps in Madagascar. Int J Environ Res     Incidence of waterborne lead in private drinking water systems in
+Public Health. 18(14):7297.                                                Virginia. J Water Health. 13(3):897–908.
+Kimbrough DE (2001). Brass corrosion and the LCR monitoring program.       Pieper KJ, Katner A, Kriss R, Tang M, Edwards MA (2019). Understanding
+J Am Water Works Assoc. 93(2):81–91.                                       lead in water and avoidance strategies: a United States perspective for
+                                                                           informed decision-making. J Water Health. 17(4):540–55.
+Koh LL, Wong MK, Gan LM, Yap CT (1991). Factors affecting the leaching
+of lead from uPVC pipes. Environ Monit Asess. 19(1–3):203–13.              Postawa A (2015). Problems with meeting new (10 μg/L) standard for
+                                                                           lead in drinking water: Polish perspectives. Aqua (Lond). 64(1):85–94.
+Korshin GV, Ferguson JF, Lancaster AN (2000). Influence of natural
+organic matter on the corrosion of leaded brass in potable water. Corros   Prasad R (1979). Handpumps: problems and the search for remedies.
+Sci. 42(1):53–66.                                                          Proc Indian Acad Sci. C2:473–505.
+Kriss R, Pieper KJ, Parks J, Edwards MA (2021). Challenges of detecting    Riblet C, Deshommes E, Laroche L, Prevost M (2019). True exposure to
+lead in drinking-water using at-home test kits. Environ Science Technol.   lead at the tap: insights from proportional sampling, regulated sampling
+55(3):1964–72.                                                             and water use monitoring. Water Res. 156:327–36.
+Langenegger O (1994). Goundwater quality and handpump corrosion in         Sandvig AM, Kwan P, Kirmeyer G, Maynard B, Mast D, Rhodes Trussell R,
+West Africa. Washington, DC: UNDP–World Bank Water and Sanitation          et al. (2008). Contribution of service line and plumbing fixtures to lead
+Program.                                                                   and copper rule compliance issues. Denver, Colorado: Water Environment
+                                                                           Research Foundation.
+
+
+20       Lead in drinking-water: health risks, monitoring and corrective actions
+SCHER (Scientific Committee on Health and Environmental Risks) (2011).       Wang Y, Mehta V, Welter GJ, Giammar DE (2013). Effect of connection
+Lead standard in drinking water. European Commission.                        methods on lead release from galvanic corrosion. J Am Water Works
+                                                                             Assoc. 105(7):E337–51.
+Schock M, Lemieux FG (2010). Challenges in addressing variability of
+lead in domestic plumbing. Water Sci Technol Water Supply. 10(5):792–        Wasserstrom LW, Miller SA, Triantafyllidou S, DeSantis MK, Schock MR
+8.                                                                           (2017). Scale formation under blended phosphate treatment for a utility
+                                                                             with lead pipes. J Am Water Works Assoc. 109(11):464–78.
+Sopory P, Day A, Novak J, Eckert K, Wilkins L, Padgett D, et al. (2017a).
+Evidence syntheses to support the guideline on emergency risk                Whelton AJ, Nguyen T (2013). Contaminant migration from polymeric
+communication: Q5. Geneva: World Health Organization.                        pipes used in buried potable water distribution systems: a review. Crit
+                                                                             Rev Environ Sci Technol. 43(7):679–751.
+Sopory P, Day A, Novak J, Eckert K, Wilkins L, Padgett D, et al. (2017b).
+Evidence syntheses to support the guideline on emergency risk                WHO (World Health Organization) (2005). Outbreak communication
+communication: Q11. Geneva: World Health Organization.                       guidelines. Geneva: WHO.
+St Clair J, Cartier C, Triantafyllidou S, Clark B, Edwards M (2015). Long-   WHO (World Health Organization) (2006). Protecting groundwater for
+term behavior of simulated partial lead service line replacements.           health: managing the quality of drinking-water sources. Geneva: WHO.
+Environ Eng Sci. 33(1):53–64.
+                                                                             WHO (World Health Organization) (2009). Water safety plan manual:
+Triantafyllidou S, Edwards M (2010). Contribution of galvanic corrosion      step-by-step risk management for drinking-water suppliers. Geneva:
+to lead in water after partial lead service line replacements. Denver,       WHO.
+Colorado: Water Research Foundation.
+                                                                             WHO (World Health Organization) (2016a). Lead in drinking-water:
+Triantafyllidou S, Edwards M (2011). Galvanic corrosion after simulated      background document for development of WHO guidelines for drinking-
+smallscale partial lead service line replacements. J Am Water Works          water quality. Geneva: WHO.
+Assoc. 103(9):85–99.
+                                                                             WHO (World Health Organization) (2016b). Protecting surface water for
+Triantafyllidou S, Schock MR, DeSantis MK, White C (2015). Low               health: identifying, assessing and managing drinking-water quality risks
+contribution of PbO2-coated lead service lines to water lead                 in surface water catchments. Geneva: WHO.
+contamination at the tap. Environ Sci Technol. 49(6):3746–54.
+                                                                             WHO (World Health Organization) (2017). Communicating risk in
+Triantafyllidou S, Burkhardt J, Tully J, Cahalan K, DeSantis M, Lytle D,     public health emergencies: a WHO guideline for emergency risk
+et al. (2021). Variability and sampling of lead (Pb) in drinking water:      communication (ERC) policy and practice. Geneva: WHO.
+assessing potential human exposure depends on the sampling protocol.
+                                                                             WHO (World Health Organization) (2019). The public health impact of
+Environ Int. 146:106259.
+                                                                             chemicals: knowns and unknowns: data addendum for 2019. Geneva:
+Trueman BF, Gregory BS, McCormick NE, Gao Y, Gora S, Anaviapik-Soucie        WHO.
+T, et al. (2019). Manganese increases lead release to drinking water.
+                                                                             WHO (World Health Organization) (2020). Brief guide to analytical
+Environ Sci Technol. 53(9):4803–12.
+                                                                             methods for measuring lead in blood, second edition. Geneva: WHO.
+Turkovic R, Werner W, Klinger J (2014). The performance of nonleaded
+                                                                             WHO (World Health Organization) (2021a). Exposure to lead: a major
+brass materials. Denver, Colorado: Water Research Foundation.
+                                                                             public health concern, second edition. Geneva: WHO.
+UNEP (United Nations Environment Programme) (2021). Leaded petrol
+                                                                             WHO (World Health Organization) (2021b). Guideline for clinical
+phase-out globally [website].
+                                                                             management of exposure to lead. Geneva: WHO.
+(https://www.unenvironment.org/explore-topics/transport/what-we-
+do/partnership-clean-fuels-and-vehicles/lead-campaign, accessed 27           WHO (World Health Organization) (2022). Guidelines for drinking water
+December 2021).                                                              quality, fourth edition incorporating the 1st and 2nd addenda. Geneva:
+                                                                             WHO.
+USEPA (United States Environmental Protection Agency) (1998). Sources
+of lead in soil: a literature review. Washington, DC: USEPA.                 WHO Regional Office for Europe (2002). Water and health in Europe.
+                                                                             Bonn: World Health Organization (WHO Regional Publications European
+USEPA (United States Environmental Protection Agency) (2013). SESD
+                                                                             Series No. 93).
+operating procedure for groundwater sampling. Athens, Georgia: USEPA.
+                                                                             WHO Regional Office for South-East Asia (2019). Risk communication
+USEPA (United States Environmental Protection Agency) (2016). Optimal
+                                                                             strategy for public health emergencies in the WHO South-East Asia
+corrosion control treatment evaluation technical recommendations for
+                                                                             Region: 2019–2023. New Dehli: World Health Organization.
+primacy agencies and public water systems. Washington, DC: USEPA
+(4606M).                                                                     Zhang Y, Lin Y-P (2014). Leaching of lead from new unplasticized
+                                                                             polyvinyl chloride (uPVC) pipes into drinking water. Environ Sci Pollut
+Wang Y (2012). Redox reactions influencing lead concentrations in
+                                                                             Res Int. 22(11):8405–11.
+drinking water: formation and dissolution of lead(IV) oxide and impact
+of galvanic corrosion. Washington University Open Scholarship.
+
+
+
+
+                                                                                                                          Technical brief              21
+Acknowledgements
+
+Development and production of this document were coordinated and managed by Johan Strandberg and Jennifer De France (WHO, Switzerland).
+Bruce Gordon (WHO, Switzerland) provided strategic direction.
+
+WHO wishes to express its appreciation to all whose efforts made the production of this document possible, through the provision of their time,
+expertise and experience. This publication benefited from inputs from participants at a WHO meeting on lead in drinking-water, which included
+David Cunliffe and John Fawell of the WHO Guidelines for Drinking-water Quality expert working group and the WHO International Network of
+Drinking-water and Sanitation Regulators (RegNet), with coordination by Batsi Majuru (WHO, Switzerland).
+
+WHO is grateful for the insights provided through meetings of an informal working group on toxic metals in water, convened by the University of
+North Carolina, United States of America, and the following contributors and reviewers:
+
+J Alvarez-Sala, UNICEF, United States; M Asami, National Institute of Public Health, Japan; J Bartram, University of Leeds, United Kingdom of Great
+Britain and Northern Ireland; V Casey, Water Aid, United Kingdom; K Coleman, WHO, Switzerland; J Cotruvo, independent consultant, United States;
+D Cunliffe, WHO Guidelines for Drinking-water Quality expert working group and Department of Health South Australia, Australia; K Danert, Skat
+Foundation and Ask for Water GmbH, Switzerland; S Diarra, World Vision, Mali; J Fawell, WHO Guidelines for Drinking-water Quality expert working
+group and Cranfield University, United Kingdom; M Fisher, University of North Carolina, United States; S Furey, Skat Foundation and Ask for Water
+GmbH, Switzerland; D Hansen, the International Association of Plumbing and Mechanical Officials (IAPMO), United States; J Kempic, United States
+Environmental Protection Agency, United States; G Korshin, University of Washington, United States; F Lemieux, Health Canada, Canada; C Lindsay,
+IAPMO, United States; B Majuru, WHO, Switzerland; L Maxe, Swedish Geological Survey, Sweden; DJ McAllister, British Geological Survey, United
+Kingdom; R McKeown, WHO, Switzerland; R Norman, World Vision, United States; L Onyon, WHO, Switzerland; C Ramsier, UNICEF, United States; A
+Rinhold, WHO, Switzerland; A Salzberg, University of North Carolina, United States; A Sauer, City of Frankfurt, Germany; M Schock, United States
+Environmental Protection Agency, United States; P Studer, UNICEF, United States.
+
+WHO also gratefully acknowledges the financial support provided by Agence Française de Développement, France; the Australian Government
+Department of Foreign Affairs and Trade, Australia; the Directorate General for International Cooperation, Netherlands; the Foreign, Commonwealth
+and Development Office, United Kingdom; the Ministry of Health, Labour and Welfare, Japan; the Public Health Agency of Canada, Canada; the
+Norwegian Agency for Development Cooperation, Norway; and the Foundation for Strategic Environmental Research, Sweden.
+
+
+
+
+22
+Annex 1
+Analysing water samples for lead
+Since the provisional guideline value for lead of 10 µg/L is not a health-based value, the limit of detection (LOD) or limit of quantification
+(LOQ) should be the lowest achievable. Several laboratory- and field-based methods have detection limits lower than 1 µg/L. Double or
+triplicate samples should always be taken to quantify uncertainty, regardless of the chosen method. However, it should be kept in mind that
+lead distributes unevenly in water, resulting in large differences in concentrations between samples (Deshommes et al., 2010; Chan et al.,
+2020). Since a significant proportion of lead can be adsorbed to colloids, filtration using a 0.45 µm filter to target dissolved lead will not be
+effective because colloids can pass through (Locsin et al., 2022).
+
+In addition to approved methods using laboratory instruments in certified laboratories by skilled technicians, portable field analysers with
+adequately low detection limits are becoming increasingly available commercially (Table 2). Field analysers should be validated against
+reference methods. As well, they only measure dissolved lead; particulate lead is excluded.
+
+
+TABLE 2
+Overview of portable devices for measuring lead in water
+
+ Method                                      LOD              Strengths                                        Limitations
+ Anodic stripping voltammetry                0.2–2 µg/L       Several brands are available, ranging in price   Some electrodes generate mercury waste;
+ (also exists as a laboratory method)                         and quality.                                     require acidification of the sample and
+                                                              Complexity of the procedure and cost per         maintenance of the device.
+                                                              sample depend on the brand.                      Higher upfront cost.
+                                                                                                               Susceptible to interference from copper, silver
+                                                                                                               and gold.
+                                                                                                               Higher degree of operator skill and experience
+                                                                                                               is required.
+ Colourimetry (professional kits)            3–5 µg/L         Cheaper than other field analysers.              Larger sample volumes are required than for
+                                                                                                               other field analysers (50–100 mL).
+ Colourimetry (home kits):                   Typically mg/L   Cheap, easy to use, quick, consumer product.     Visual interpretation of results is needed.
+ • binary colour                                                                                               High LOD for drinking-water testing.
+ • binary strip
+                                                                                                               Inconsistency between commercial brands.
+ • colourimetric vial
+ • colour strip
+ Fluorescence                                2 µg/L           Good ratio between sensitivity and capital       Only a limited number of brands are available.
+                                                              cost.                                            Higher upfront cost.
+
+Sources: Doré et al. (2020); Kriss et al. (2021).
+
+
+
+
+                                                                                                                                                             23
+Analysis in a laboratory (Table 3) generally means less uncertainty than use of field analysers because it is easier to keep surfaces and equipment
+clean in the laboratory, avoiding contamination of samples. The increased precision often comes at a cost because trained laboratory staff
+and costly equipment are required.
+
+
+TABLE 3
+Overview of International Organization for Standardization (ISO) standards for analysis of lead in water
+
+ Method                                  LOQ                  Strengths                                   Limitations
+ Flame atomic absorption                 1 µg/L               Short analysis time (seconds).              Not a state-of-the-art method.
+ spectrometry (FAAS)                                          Relatively easy to use.                     Cannot be left unattended (flammable gas).
+ (ISO 8288:1986)
+                                                              Relatively few interferences.
+                                                              Relatively low capital and running costs.
+ Atomic absorption spectroscopy-         1 µg/L               Small sample size.                          Slower analysis time than ICP.
+ graphite furnace (GF-AAS)                                    Moderate price.                             Chemical interferences.
+ (ISO 15586:2003)
+                                                              Very compact instrument.                    Element limitations: 1–6 elements per
+                                                              Few spectral interferences.                 determination.
+                                                                                                          No screening ability.
+                                                                                                          Limited dynamic range.
+ Inductively coupled plasma              2–5 µg/L             Multi-element.                              Moderate to low detection limits (but often
+ optical emission spectrometry                                Economical for many samples and elements.   much better than FAAS).
+ (ICP-OES)                                                                                                Spectral interferences possible.
+                                                              Few chemical interferences.
+ (ISO 1185:2007)
+                                                              High total dissolved solids.                Some element limitations.
+ Inductively coupled plasma mass         0.1–0.2 µg/L         Can analyse small samples (50–100 μL).      High purchase and running costs.
+ spectrometry (ICP-MS)                                        Swift analysis time (<1 minute).            Requires highly skilled laboratory staff.
+ (ISO 17294-1:2004, ISO 17294-
+                                                              Multi-element capabilities .                Analysis of a large number of samples is
+ 2:2004)
+                                                              Economical if used for large sample runs.   cheaper than electrothermal atomic
+                                                                                                          absorption spectrometry.
+                                                                                                          Limited to <0.2% dissolved solids.
+
+Note: The LOQs shown are for a typical ISO 17025–certified laboratory.
+
+
+
+
+24        Lead in drinking-water: health risks, monitoring and corrective actions
+Annex 2
+Sampling protocols
+
+TABLE 4
+Examples of sampling protocols to assess lead exposure from drinking-water
+
+                            Sample type                        Protocol summary                                Comment
+                            Profile (or sequential) sampling   A defined stagnation time.                     Captures the lead contribution from defined parts in a
+                                                               10–20 sequential samples of a defined volume system.
+                                                               (125 mL, 250 mL, 1 L, etc.).
+                                                               Differentiated volumes can be used to pinpoint
+                                                               the source better.
+  Investigation of source
+
+
+
+
+                            Profile sampling for particle      Traditional profile sampling at an increasing   Captures particle contribution of total lead concentration.
+                            release                            water flow rate (low, medium and high).
+                            Fully flushed sampling             Flush three “plumbing volumes” before           Identifies the source of lead as the lead service line, hand
+                                                               sampling (i.e. 3 times the volume of the        pump component or water source.
+                                                               plumbing system until the connection point).    It gives the “best case” scenario for the lowest lead level
+                                                               For hand pumps, purge the borehole by           achievable in a particular residence, dwelling or hand
+                                                               flushing 3 times the pipe volume.               pump using flushing as a remedial action. If this sample
+                                                                                                               shows high concentrations, alternative water should be
+                                                                                                               provided immediately.
+
+                            Composite proportional             A device collects a fixed share of every draw   Captures actual water use (and variability) at a household
+                                                               from the tap for consumption during, for        level.
+                                                               example, 1 week.
+  Exposure assessment
+
+
+
+
+                                                                                                               The best representativity of exposure, although time-
+                                                               It can be collected manually in the same        consuming on a larger scale.
+                                                               manner, during shorter or longer periods.
+                            Random daytime (RDT) sampling      Random sample collection with or without        Captures variable stagnation in case of no prior flushing,
+                                                               prior flushing.                                 giving the most variable levels. Therefore, more samples
+                                                               Collect 1 L.                                    are needed to determine mean exposure levels.
+                                                                                                               Zonal sampling is done to characterize exposure based on
+                                                                                                               water quality in a given supply zone.
+                            First draw (United States        6+ hr – overnight stagnation.                     Intended use is the assessment of corrosion control
+                            Environmental Protection Agency) Collect 1 L.                                      effectiveness.
+  Regulatory compliance
+
+
+
+
+                                                                                                               Relies on customer cooperation.
+                            RDT sampling (United Kingdom/      Random sample collection without prior          Samples collected in supply zones with similar water
+                            European Union)                    flushing.                                       qualities.
+                                                               Collect 1 L.
+                            30 minutes stagnation (30MS)       2–5 minute flush, 30 minute stagnation.         Of the two samples taken on the same day from the same
+                            (Ontario, Canada)                  Collect the first 2 L (two 1 L samples).        plumbing location, the sample with the highest lead
+                                                                                                               concentration is used. Does not consider particulate lead
+                                                                                                               release generated mostly after longer stagnation.
+
+Sources: Hoekstra et al. (2009); WHO (2016b); Health Canada (2019); Triantafyllidou et al. (2021).
+
+
+
+
+                                                                                                                                                                          25
+Lead in drinking-water: health risks, monitoring and corrective actions. Technical brief
+ISBN 978-92-4-002086-3 (electronic version)
+ISBN 978-92-4-002087-0 (print version)
+
+© World Health Organization 2022
+Some rights reserved. This work is available under the CC BY-NC-SA 3.0 IGO licence.
+

@@ -1,0 +1,209 @@
+Basin
+
+Water Body
+Name
+
+Water
+Body Id
+
+County
+
+Impaired
+Use
+
+Pollutant
+
+Location
+
+Yazoo River
+
+Okachickima
+Creek
+
+916211
+
+Yalobusha
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Hardy from headwaters to Grenada Lake Flood
+Pool
+
+Yazoo River
+
+Okannatie Creek
+
+900911
+
+Union
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Ecru from confluence with Popular Springs Creek
+to MWS 9010 boundary at Highway 15 bridge
+
+Yazoo River
+
+Pecan Bayou
+
+938511
+
+Sunflower,
+Leflore
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Doddsville from headwaters to mouth at Quiver
+River
+
+Yazoo River
+
+Pelucia Creek
+
+919311
+
+Carroll
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to MWS 9192 boundary
+
+Yazoo River
+
+Perry Creek
+
+922912
+
+Yazoo
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Oil City from headwaters to mouth at O'Neal
+Creek
+
+Yazoo River
+
+Piney Creek
+
+922411
+
+Yazoo
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Yazoo City from MWS 9223 boundary to
+confluence with Yazoo River
+
+Yazoo River
+
+Red Banks Creek
+
+910212
+
+Desoto,
+Marshall
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From MWS 9101 boundary to mouth at Pigeon Roost
+Creek
+
+Yazoo River
+
+Savannah Creek
+
+915214
+
+Calhoun
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to mouth at Lucknuck Creek
+
+Yazoo River
+
+Shelton Creek
+
+908411
+
+Tallahatchie,
+Panola
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+Near Crowder from headwaters to Yocona River
+
+Yazoo River
+
+Shutispear Creek
+
+914011
+
+Calhoun,
+Webster
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+From headwaters to MWS 9139 boundary at
+Yalobusha River flood plain
+
+Yazoo River
+
+Skuna River
+
+915413
+
+Calhoun
+
+Aquatic Life
+Use Support
+
+Biological
+Impairment
+
+At Bruce from Persimmon Creek to MWS 9156
+boundary
+
+47
+
+

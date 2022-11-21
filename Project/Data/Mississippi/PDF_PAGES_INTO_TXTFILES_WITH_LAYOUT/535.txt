@@ -1,0 +1,40 @@
+               Water Body       Water                  Impaired
+     Basin                                  County                        Pollutant                       Location
+                 Name          Body Id                   Use
+
+Pascagoula                                            Aquatic Life    Biological      From MWS 4010 boundary to mouth at
+River        Okatibbee Creek   401111    Lauderdale   Use Support     Impairment      Chickasawhay River
+
+Pascagoula                                            Aquatic Life    Biological      Near Savoy from confluence with Sowashee Creek to
+River        Okatibbee Creek   401011    Lauderdale   Use Support     Impairment      MWS 4011 boundary
+
+Pascagoula                                            Aquatic Life    Total           Near Savoy from confluence with Sowashee Creek to
+River        Okatibbee Creek   401011    Lauderdale   Use Support     Nitrogen, pH    MWS 4011 boundary
+
+Pascagoula                                            Aquatic Life    Total           From confluence with Roger Creek to confluence
+River        Okatoma Creek     410511    Covington    Use Support     Nitrogen        with Big Swamp Creek
+
+Pascagoula                                            Aquatic Life    Biological
+River        Penantly Creek    404712    Jasper       Use Support     Impairment      From headwaters to mouth at Souenlovie Creek
+
+Pascagoula                                            Aquatic Life    Biological
+River        Penders Creek     400412    Kemper       Use Support     Impairment      From headwaters to mouth of Chickasawhay Creek
+
+Pascagoula                                            Aquatic Life    Biological      Near Heildelberg from headwaters to mouth at Bogue
+River        Prairie Creek     413911    Jasper       Use Support     Impairment      Homo
+
+Pascagoula                                            Aquatic Life                    From MWS 4206 Boundary at confluence with Bluff
+River        Red Creek         420711    George       Use Support     pH              Creek to MWS 4209 boundary at Red Creek Road
+
+Pascagoula                                            Aquatic Life    Biological
+River        Reese Creek       416212    Forest       Use Support     Impairment      From Temple Rd to mouth at Leaf River
+
+Pascagoula                                            Aquatic Life    Biological
+River        Rocky Creek       403311    Clarke       Use Support     Impairment      From headwaters to mouth at Buckatunna Creek
+
+Pascagoula                                            Aquatic Life    Biological
+River        Rocky Creek       426211    George       Use Support     Impairment      From headwaters to mouth at Escatawpa River
+
+
+                                                                     30
+
