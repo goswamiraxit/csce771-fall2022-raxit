@@ -1,0 +1,969 @@
+The Division of Law Enforcement and Safety	The Division of Law Enforcement	LAW	1	32
+The Division of Law Enforcement and Safety	Division	ORG	11	19
+The Division of Law Enforcement and Safety	The University of South Carolina Division of Law Enforcement and Safety (DLES)	ORG	1	79
+The Division of Law Enforcement and Safety	University	ORG	152	162
+The Division of Law Enforcement and Safety	Columbia Campus	ORG	165	180
+The Division of Law Enforcement and Safety	DLES	ORG	343	347
+The Division of Law Enforcement and Safety	the University of South Carolina	ORG	403	435
+The Division of Law Enforcement and Safety	The University’s Columbia Campus	ORG	1	33
+The Division of Law Enforcement and Safety	more than 400 acres	QUANTITY	41	60
+The Division of Law Enforcement and Safety	USC Columbia	ORG	74	86
+The Division of Law Enforcement and Safety	13th	ORDINAL	122	126
+The Division of Law Enforcement and Safety	DLES	ORG	1	5
+The Division of Law Enforcement and Safety	over 100	CARDINAL	17	25
+The Division of Law Enforcement and Safety	70	CARDINAL	52	54
+The Division of Law Enforcement and Safety	DLES	ORG	78	82
+The Division of Law Enforcement and Safety	three	CARDINAL	99	104
+The Division of Law Enforcement and Safety	Operations, Support Services	ORG	114	142
+The Division of Law Enforcement and Safety	Administration	ORG	148	162
+The Division of Law Enforcement and Safety	The Operations Bureau	ORG	1	22
+The Division of Law Enforcement and Safety	24 hours	TIME	190	198
+The Division of Law Enforcement and Safety	365 days	DATE	206	214
+The Division of Law Enforcement and Safety	Bike Patrol	ORG	253	264
+The Division of Law Enforcement and Safety	Crime Suppression Unit	ORG	274	296
+The Division of Law Enforcement and Safety	The Support Services Bureau	ORG	1	28
+The Division of Law Enforcement and Safety	the Communications,Technical Operations and Physical Security	ORG	38	99
+The Division of Law Enforcement and Safety	TOPS	ORG	101	105
+The Division of Law Enforcement and Safety	Investigations Units	ORG	112	132
+The Division of Law Enforcement and Safety	911	PRODUCT	180	183
+The Division of Law Enforcement and Safety	The TOPS Unit	ORG	255	268
+The Division of Law Enforcement and Safety	300	CARDINAL	295	298
+The Division of Law Enforcement and Safety	USC	ORG	335	338
+The Division of Law Enforcement and Safety	The Administration Bureau	ORG	1	26
+The Division of Law Enforcement and Safety	DLES	ORG	62	66
+The Division of Law Enforcement and Safety	Bureau	ORG	132	138
+The Division of Law Enforcement and Safety	the Emergency Management Unit	ORG	155	184
+The Division of Law Enforcement and Safety	Enforcement Authority	ORG	1	22
+The Division of Law Enforcement and Safety	DLES	ORG	33	37
+The Division of Law Enforcement and Safety	State Constables	ORG	72	88
+The Division of Law Enforcement and Safety	South Carolina	GPE	108	122
+The Division of Law Enforcement and Safety	South Carolina	GPE	141	155
+The Division of Law Enforcement and Safety	South Carolina	GPE	203	217
+The Division of Law Enforcement and Safety	State	ORG	234	239
+The Division of Law Enforcement and Safety	State	ORG	287	292
+The Division of Law Enforcement and Safety	DLES	ORG	294	298
+The Division of Law Enforcement and Safety	twelve weeks	DATE	317	329
+The Division of Law Enforcement and Safety	the South Carolina Criminal Justice Academy	ORG	369	412
+The Division of Law Enforcement and Safety	at least 40 hours	TIME	427	444
+The Division of Law Enforcement and Safety	DLES	ORG	1	5
+The Division of Law Enforcement and Safety	South Carolina	GPE	65	79
+The Division of Law Enforcement and Safety	the Carolina Community	ORG	118	140
+The Division of Law Enforcement and Safety	Columbia	GPE	280	288
+The Division of Law Enforcement and Safety	The University of South Carolina	ORG	310	342
+The Division of Law Enforcement and Safety	Columbia Campus	ORG	345	360
+The Division of Law Enforcement and Safety	the City of Columbia Police Department	ORG	428	466
+The Division of Law Enforcement and Safety	DLES	ORG	1	5
+The Division of Law Enforcement and Safety	the Carolina Community	ORG	187	209
+The Division of Law Enforcement and Safety	DLES	ORG	315	319
+The Division of Law Enforcement and Safety	the South Carolina Law Enforcement Division	ORG	330	373
+The Division of Law Enforcement and Safety	SLED	ORG	375	379
+The Division of Law Enforcement and Safety	DLES	ORG	382	386
+The Division of Law Enforcement and Safety	DLES	ORG	531	535
+The Division of Law Enforcement and Safety	the Office of Student Conduct	ORG	632	661
+The Division of Law Enforcement and Safety	Academic Integrity	ORG	666	684
+The Division of Law Enforcement and Safety	DLES	ORG	1	5
+The Division of Law Enforcement and Safety	Memorandums of Understanding (MOU	LAW	52	85
+The Division of Law Enforcement and Safety	DLES	ORG	205	209
+The Division of Law Enforcement and Safety	the City of Columbia Police Department	ORG	232	270
+The Division of Law Enforcement and Safety	University	ORG	289	299
+The Division of Law Enforcement and Safety	University	ORG	367	377
+Reporting Criminal Incidents and Other Emergencies	the Division of Law Enforcement	ORG	14	45
+Reporting Criminal Incidents and Other Emergencies	DLES	ORG	86	90
+Reporting Criminal Incidents and Other Emergencies	911	CARDINAL	111	114
+Reporting Criminal Incidents and Other Emergencies	803-777-4215	TIME	142	154
+Reporting Criminal Incidents and Other Emergencies	DLES	ORG	27	31
+Reporting Criminal Incidents and Other Emergencies	1415 Henderson Street	FAC	35	56
+Reporting Criminal Incidents and Other Emergencies	Columbia	GPE	58	66
+Reporting Criminal Incidents and Other Emergencies	South Carolina	GPE	68	82
+Reporting Criminal Incidents and Other Emergencies	University	ORG	5	15
+Reporting Criminal Incidents and Other Emergencies	Rave Guardian	ORG	44	57
+Reporting Criminal Incidents and Other Emergencies	Rave Guardian	ORG	120	133
+Reporting Criminal Incidents and Other Emergencies	University Police	ORG	227	244
+Reporting Criminal Incidents and Other Emergencies	Rave Guardian	ORG	82	95
+Reporting Criminal Incidents and Other Emergencies	USC Police	ORG	47	57
+Reporting Criminal Incidents and Other Emergencies	911	CARDINAL	72	75
+Reporting Criminal Incidents and Other Emergencies	USC Police	ORG	102	112
+Reporting Criminal Incidents and Other Emergencies	Rave Guardian	ORG	114	127
+Reporting Criminal Incidents and Other Emergencies	Campus Security Authorities	ORG	1	28
+Reporting Criminal Incidents and Other Emergencies	Campus Security Authorities	ORG	1	28
+Reporting Criminal Incidents and Other Emergencies	CSAs	ORG	30	34
+Reporting Criminal Incidents and Other Emergencies	University	ORG	90	100
+Reporting Criminal Incidents and Other Emergencies	Clery Crimes	WORK_OF_ART	131	143
+Reporting Criminal Incidents and Other Emergencies	DLES	ORG	147	151
+Reporting Criminal Incidents and Other Emergencies	the University Community	ORG	49	73
+Reporting Criminal Incidents and Other Emergencies	CSA	ORG	172	175
+Reporting Criminal Incidents and Other Emergencies	CSA	ORG	271	274
+Reporting Criminal Incidents and Other Emergencies	CSA	ORG	446	449
+Reporting Criminal Incidents and Other Emergencies	DLES	ORG	470	474
+Reporting Criminal Incidents and Other Emergencies	DLES	ORG	11	15
+Reporting Criminal Incidents and Other Emergencies	Campus Security Authorities	ORG	85	112
+Reporting Criminal Incidents and Other Emergencies	Student Affairs	ORG	28	43
+Reporting Criminal Incidents and Other Emergencies	Provost	PERSON	9	16
+Reporting Criminal Incidents and Other Emergencies	CSAs	ORG	33	37
+Reporting Criminal Incidents and Other Emergencies	Student Affairs	ORG	37	52
+Reporting Criminal Incidents and Other Emergencies	CSAs	ORG	72	76
+Reporting Criminal Incidents and Other Emergencies	Student Conduct	ORG	21	36
+Reporting Criminal Incidents and Other Emergencies	Academic Integrity	ORG	41	59
+Reporting Criminal Incidents and Other Emergencies	CSAs	ORG	68	72
+Reporting Criminal Incidents and Other Emergencies	300	CARDINAL	6	9
+Reporting Criminal Incidents and Other Emergencies	the USC Columbia Campus	FAC	64	87
+Reporting Criminal Incidents and Other Emergencies	DLES	ORG	226	230
+Reporting Criminal Incidents and Other Emergencies	DLES	ORG	352	356
+Reporting Criminal Incidents and Other Emergencies	first	ORDINAL	499	504
+Reporting Criminal Incidents and Other Emergencies	DLES	ORG	1	5
+Reporting Criminal Incidents and Other Emergencies	daily	DATE	17	22
+Reporting Criminal Incidents and Other Emergencies	the DLES Records Unit	ORG	116	137
+Reporting Criminal Incidents and Other Emergencies	1415 Henderson Street	FAC	149	170
+Reporting Criminal Incidents and Other Emergencies	Columbia	GPE	172	180
+Reporting Criminal Incidents and Other Emergencies	South Carolina	GPE	182	196
+Reporting Criminal Incidents and Other Emergencies	29208	CARDINAL	197	202
+Reporting Criminal Incidents and Other Emergencies	daily	DATE	207	212
+Reporting Criminal Incidents and Other Emergencies	DLES	ORG	243	247
+Reporting Criminal Incidents and Other Emergencies	“Reports, Logs	WORK_OF_ART	269	283
+Reporting Criminal Incidents and Other Emergencies	Daily Crime Log	WORK_OF_ART	300	315
+Reporting Criminal Incidents and Other Emergencies	daily	DATE	106	111
+Reporting Criminal Incidents and Other Emergencies	daily	DATE	127	132
+Sexual Assault, Domestic Violence, Dating Violence	the University of South Carolina	ORG	75	107
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	149	159
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	230	240
+Sexual Assault, Domestic Violence, Dating Violence	the Carolina Community	ORG	284	306
+Sexual Assault, Domestic Violence, Dating Violence	The University of South Carolina	ORG	1	33
+Sexual Assault, Domestic Violence, Dating Violence	The University of South Carolina	ORG	1	33
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	101	111
+Sexual Assault, Domestic Violence, Dating Violence	1.00	CARDINAL	122	126
+Sexual Assault, Domestic Violence, Dating Violence	one	CARDINAL	26	29
+Sexual Assault, Domestic Violence, Dating Violence	one	CARDINAL	47	50
+Sexual Assault, Domestic Violence, Dating Violence	University Policies on Sexual Assault	LAW	83	120
+Sexual Assault, Domestic Violence, Dating Violence	the South Carolina Code of Laws	LAW	237	268
+Sexual Assault, Domestic Violence, Dating Violence	University Policy	ORG	333	350
+Sexual Assault, Domestic Violence, Dating Violence	the University Community	ORG	587	611
+Sexual Assault, Domestic Violence, Dating Violence	University policy CR 1.00 (Discrimination, Harassment	LAW	36	89
+Sexual Assault, Domestic Violence, Dating Violence	Sexual Misconduct)	LAW	95	113
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	361	371
+Sexual Assault, Domestic Violence, Dating Violence	South Carolina	GPE	33	47
+Sexual Assault, Domestic Violence, Dating Violence	S.C. Code Ann.	LAW	59	73
+Sexual Assault, Domestic Violence, Dating Violence	§ 16-25-20	LAW	74	84
+Sexual Assault, Domestic Violence, Dating Violence	1	CARDINAL	84	85
+Sexual Assault, Domestic Violence, Dating Violence	Complainant	ORG	173	184
+Sexual Assault, Domestic Violence, Dating Violence	2	CARDINAL	190	191
+Sexual Assault, Domestic Violence, Dating Violence	South Carolina	GPE	503	517
+Sexual Assault, Domestic Violence, Dating Violence	Homicide, Manslaughter	LAW	602	624
+Sexual Assault, Domestic Violence, Dating Violence	Assault and Battery	LAW	630	649
+Sexual Assault, Domestic Violence, Dating Violence	two	CARDINAL	272	275
+Sexual Assault, Domestic Violence, Dating Violence	third	ORDINAL	396	401
+Sexual Assault, Domestic Violence, Dating Violence	South Carolina	GPE	806	820
+Sexual Assault, Domestic Violence, Dating Violence	S.C. Code Ann. § 16-3-1700	LAW	826	852
+Sexual Assault, Domestic Violence, Dating Violence	two	CARDINAL	976	979
+Sexual Assault, Domestic Violence, Dating Violence	1	CARDINAL	1254	1255
+Sexual Assault, Domestic Violence, Dating Violence	2	CARDINAL	1305	1306
+Sexual Assault, Domestic Violence, Dating Violence	3	CARDINAL	1360	1361
+Sexual Assault, Domestic Violence, Dating Violence	4	CARDINAL	1419	1420
+Sexual Assault, Domestic Violence, Dating Violence	5	CARDINAL	1488	1489
+Sexual Assault, Domestic Violence, Dating Violence	S.C. Code Ann. §16-3-600	LAW	638	662
+Sexual Assault, Domestic Violence, Dating Violence	655	CARDINAL	680	683
+Sexual Assault, Domestic Violence, Dating Violence	DLES	ORG	140	144
+Sexual Assault, Domestic Violence, Dating Violence	an Emergency Call Box	ORG	165	186
+Sexual Assault, Domestic Violence, Dating Violence	RAVE Guardian	ORG	269	282
+Sexual Assault, Domestic Violence, Dating Violence	24-hour	TIME	319	326
+Sexual Assault, Domestic Violence, Dating Violence	DLES	ORG	27	31
+Sexual Assault, Domestic Violence, Dating Violence	the South Carolina Law Enforcement Division	ORG	285	328
+Sexual Assault, Domestic Violence, Dating Violence	SLED	ORG	330	334
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	165	170
+Sexual Assault, Domestic Violence, Dating Violence	South Carolina	GPE	7	21
+Sexual Assault, Domestic Violence, Dating Violence	DLES	ORG	282	286
+Sexual Assault, Domestic Violence, Dating Violence	the State Office of Victim Assistance (SOVA	ORG	48	91
+Sexual Assault, Domestic Violence, Dating Violence	University Administrative Inquiries	ORG	1	36
+Sexual Assault, Domestic Violence, Dating Violence	the University’s Office of Civil Rights	ORG	245	284
+Sexual Assault, Domestic Violence, Dating Violence	Title IX	LAW	289	297
+Sexual Assault, Domestic Violence, Dating Violence	OCR	ORG	299	302
+Sexual Assault, Domestic Violence, Dating Violence	Office of Student Conduct	ORG	311	336
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	338	341
+Sexual Assault, Domestic Violence, Dating Violence	DLES	ORG	46	50
+Sexual Assault, Domestic Violence, Dating Violence	OCR	ORG	53	56
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	62	65
+Sexual Assault, Domestic Violence, Dating Violence	University Health Services	ORG	141	167
+Sexual Assault, Domestic Violence, Dating Violence	Sexual Assault and Violence Intervention & Prevention Office	ORG	169	229
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	231	236
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	296	301
+Sexual Assault, Domestic Violence, Dating Violence	DLES	ORG	363	367
+Sexual Assault, Domestic Violence, Dating Violence	OCR	ORG	369	372
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	381	384
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	428	433
+Sexual Assault, Domestic Violence, Dating Violence	the Office of Civil Rights	ORG	9	35
+Sexual Assault, Domestic Violence, Dating Violence	Title IX	LAW	40	48
+Sexual Assault, Domestic Violence, Dating Violence	OCR-TIX	ORG	50	57
+Sexual Assault, Domestic Violence, Dating Violence	the University Community	ORG	127	151
+Sexual Assault, Domestic Violence, Dating Violence	OCR-TIX	ORG	1	8
+Sexual Assault, Domestic Violence, Dating Violence	Title IX	LAW	22	30
+Sexual Assault, Domestic Violence, Dating Violence	the United States Department of Education	ORG	53	94
+Sexual Assault, Domestic Violence, Dating Violence	Title IX	LAW	115	123
+Sexual Assault, Domestic Violence, Dating Violence	the University Community	ORG	253	277
+Sexual Assault, Domestic Violence, Dating Violence	Title IX	LAW	315	323
+Sexual Assault, Domestic Violence, Dating Violence	Title IX	LAW	422	430
+Sexual Assault, Domestic Violence, Dating Violence	OCR-TIX	ORG	92	99
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	246	256
+Sexual Assault, Domestic Violence, Dating Violence	OCR-TIX	ORG	374	381
+Sexual Assault, Domestic Violence, Dating Violence	OCR-TIX	ORG	446	453
+Sexual Assault, Domestic Violence, Dating Violence	Report an Incident	WORK_OF_ART	464	482
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	51	61
+Sexual Assault, Domestic Violence, Dating Violence	OCR-TIX	ORG	79	86
+Sexual Assault, Domestic Violence, Dating Violence	Title IX	LAW	471	479
+Sexual Assault, Domestic Violence, Dating Violence	The Office of Student Conduct and Academic Integrity	ORG	1	53
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	55	58
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	65	75
+Sexual Assault, Domestic Violence, Dating Violence	the University’s Code of Conduct	LAW	299	331
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	1	4
+Sexual Assault, Domestic Violence, Dating Violence	the Code of Conduct	LAW	51	70
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	163	173
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	293	303
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	309	319
+Sexual Assault, Domestic Violence, Dating Violence	the Code of Conduct	LAW	364	383
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	474	484
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	1	4
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	81	91
+Sexual Assault, Domestic Violence, Dating Violence	the Code of Conduct	LAW	113	132
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	144	147
+Sexual Assault, Domestic Violence, Dating Violence	DLES	ORG	179	183
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	185	190
+Sexual Assault, Domestic Violence, Dating Violence	OCR-TIX	ORG	192	199
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	298	301
+Sexual Assault, Domestic Violence, Dating Violence	72 hours	TIME	309	317
+Sexual Assault, Domestic Violence, Dating Violence	DLES	ORG	387	391
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	38	41
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	182	185
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	295	298
+Sexual Assault, Domestic Violence, Dating Violence	the Code of Conduct	LAW	311	330
+Sexual Assault, Domestic Violence, Dating Violence	Carolina Judicial Council	ORG	482	507
+Sexual Assault, Domestic Violence, Dating Violence	annual	DATE	49	55
+Sexual Assault, Domestic Violence, Dating Violence	annual	DATE	220	226
+Sexual Assault, Domestic Violence, Dating Violence	the Conduct of Conduct	LAW	32	54
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	69	72
+Sexual Assault, Domestic Violence, Dating Violence	the Code of Conduct	LAW	281	300
+Sexual Assault, Domestic Violence, Dating Violence	Rights of the Accuser	PERSON	1	22
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	86	91
+Sexual Assault, Domestic Violence, Dating Violence	OSCAI	ORG	93	98
+Sexual Assault, Domestic Violence, Dating Violence	DLES	ORG	100	104
+Sexual Assault, Domestic Violence, Dating Violence	the Hearing Officer or Council	ORG	54	84
+Sexual Assault, Domestic Violence, Dating Violence	a University Conduct Hearing	LAW	56	84
+Sexual Assault, Domestic Violence, Dating Violence	three University business days	DATE	80	110
+Sexual Assault, Domestic Violence, Dating Violence	the Student Code of Conduct	LAW	32	59
+Sexual Assault, Domestic Violence, Dating Violence	three University business days	DATE	87	117
+Sexual Assault, Domestic Violence, Dating Violence	one	CARDINAL	41	44
+Sexual Assault, Domestic Violence, Dating Violence	The Hearing Officer/Council	ORG	65	92
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	5	8
+Sexual Assault, Domestic Violence, Dating Violence	the Code of Conduct	LAW	42	61
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	192	202
+Sexual Assault, Domestic Violence, Dating Violence	University Housing	ORG	18	36
+Sexual Assault, Domestic Violence, Dating Violence	A No Contact Letter	ORG	1	20
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	36	46
+Sexual Assault, Domestic Violence, Dating Violence	the Office of Student Conduct and Academic Integrity	ORG	59	111
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	113	116
+Sexual Assault, Domestic Violence, Dating Violence	two	CARDINAL	130	133
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	134	144
+Sexual Assault, Domestic Violence, Dating Violence	the No Contact Letter	LAW	14	35
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	63	66
+Sexual Assault, Domestic Violence, Dating Violence	a No Contact Letter	LAW	160	179
+Sexual Assault, Domestic Violence, Dating Violence	the Student Code of Conduct	LAW	198	225
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	254	257
+Sexual Assault, Domestic Violence, Dating Violence	a Restraining Order	ORG	289	308
+Sexual Assault, Domestic Violence, Dating Violence	USC	ORG	5	8
+Sexual Assault, Domestic Violence, Dating Violence	a No Contact Letter	LAW	29	48
+Sexual Assault, Domestic Violence, Dating Violence	USC	ORG	89	92
+Sexual Assault, Domestic Violence, Dating Violence	the Office of Student Conduct	ORG	179	208
+Sexual Assault, Domestic Violence, Dating Violence	Academic Integrity	ORG	213	231
+Sexual Assault, Domestic Violence, Dating Violence	the No Contact Letter	LAW	301	322
+Sexual Assault, Domestic Violence, Dating Violence	a No Contact Letter	LAW	35	54
+Sexual Assault, Domestic Violence, Dating Violence	the Office of Student Conduct	ORG	67	96
+Sexual Assault, Domestic Violence, Dating Violence	Academic Integrity	ORG	101	119
+Sexual Assault, Domestic Violence, Dating Violence	803-777- 4333	CARDINAL	123	136
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	138	143
+Sexual Assault, Domestic Violence, Dating Violence	DLES	ORG	148	152
+Sexual Assault, Domestic Violence, Dating Violence	a Restraining Order	LAW	50	69
+Sexual Assault, Domestic Violence, Dating Violence	A Restraining Order	LAW	158	177
+Sexual Assault, Domestic Violence, Dating Violence	the Restraining Order	ORG	279	300
+Sexual Assault, Domestic Violence, Dating Violence	A Restraining Order	LAW	324	343
+Sexual Assault, Domestic Violence, Dating Violence	up to one year	DATE	363	377
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	5	15
+Sexual Assault, Domestic Violence, Dating Violence	a Restraining Order	LAW	86	105
+Sexual Assault, Domestic Violence, Dating Violence	a Complaint and Motion for Restraining Order	LAW	135	179
+Sexual Assault, Domestic Violence, Dating Violence	The SAVIP Office	ORG	308	324
+Sexual Assault, Domestic Violence, Dating Violence	DLES	ORG	329	333
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	87	90
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	74	77
+Sexual Assault, Domestic Violence, Dating Violence	one	CARDINAL	90	93
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	146	149
+Sexual Assault, Domestic Violence, Dating Violence	five University business days	DATE	201	230
+Sexual Assault, Domestic Violence, Dating Violence	the five days	DATE	276	289
+Sexual Assault, Domestic Violence, Dating Violence	Student Affairs	ORG	343	358
+Sexual Assault, Domestic Violence, Dating Violence	Academic Support	ORG	363	379
+Sexual Assault, Domestic Violence, Dating Violence	the Office of Student Conduct	ORG	23	52
+Sexual Assault, Domestic Violence, Dating Violence	Academic Integrity	ORG	57	75
+Sexual Assault, Domestic Violence, Dating Violence	the Carolina Judicial Council)	LAW	99	129
+Sexual Assault, Domestic Violence, Dating Violence	five University business days	DATE	208	237
+Sexual Assault, Domestic Violence, Dating Violence	OSC	ORG	289	292
+Sexual Assault, Domestic Violence, Dating Violence	Student Affairs	ORG	361	376
+Sexual Assault, Domestic Violence, Dating Violence	one	CARDINAL	27	30
+Sexual Assault, Domestic Violence, Dating Violence	the Hearing Council	ORG	88	107
+Sexual Assault, Domestic Violence, Dating Violence	five University business days	DATE	31	60
+Sexual Assault, Domestic Violence, Dating Violence	Sexual Assault and Violence Intervention & Prevention Office	ORG	1	61
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	63	68
+Sexual Assault, Domestic Violence, Dating Violence	Sexual Assault and Violence Intervention & Prevention (SAVIP	LAW	1	61
+Sexual Assault, Domestic Violence, Dating Violence	Student Health Services	ORG	76	99
+Sexual Assault, Domestic Violence, Dating Violence	second	ORDINAL	122	128
+Sexual Assault, Domestic Violence, Dating Violence	the Thomson Building	FAC	138	158
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	160	165
+Sexual Assault, Domestic Violence, Dating Violence	24/7	CARDINAL	175	179
+Sexual Assault, Domestic Violence, Dating Violence	UofSC-Columbia	LOC	243	257
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	392	397
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	17	22
+Sexual Assault, Domestic Violence, Dating Violence	24/7	CARDINAL	37	41
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	307	317
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	410	415
+Sexual Assault, Domestic Violence, Dating Violence	University 101	ORG	501	515
+Sexual Assault, Domestic Violence, Dating Violence	first-year	DATE	535	545
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	1	6
+Sexual Assault, Domestic Violence, Dating Violence	Prisma Health Richland	FAC	235	257
+Sexual Assault, Domestic Violence, Dating Violence	5 Medical Park Dr.	ORG	270	288
+Sexual Assault, Domestic Violence, Dating Violence	Columbia	GPE	290	298
+Sexual Assault, Domestic Violence, Dating Violence	SC	GPE	300	302
+Sexual Assault, Domestic Violence, Dating Violence	29203	CARDINAL	303	308
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	381	386
+Sexual Assault, Domestic Violence, Dating Violence	803-777-8248	TIME	390	402
+Sexual Assault, Domestic Violence, Dating Violence	24/7	DATE	446	450
+Sexual Assault, Domestic Violence, Dating Violence	Winter Break	WORK_OF_ART	474	486
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	656	661
+Sexual Assault, Domestic Violence, Dating Violence	the Office of Civil Rights	ORG	735	761
+Sexual Assault, Domestic Violence, Dating Violence	Title IX	LAW	765	773
+Sexual Assault, Domestic Violence, Dating Violence	OCRTIX	ORG	900	906
+Sexual Assault, Domestic Violence, Dating Violence	UofSC	ORG	919	924
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	986	991
+Sexual Assault, Domestic Violence, Dating Violence	Sexual Assault and Violence Intervention & Prevention	ORG	106	159
+Sexual Assault, Domestic Violence, Dating Violence	803-777-8248	TIME	163	175
+Sexual Assault, Domestic Violence, Dating Violence	24/7	CARDINAL	187	191
+Sexual Assault, Domestic Violence, Dating Violence	the Thomson Building	FAC	202	222
+Sexual Assault, Domestic Violence, Dating Violence	8:00 a.m.-5:00 p.m.	TIME	246	265
+Sexual Assault, Domestic Violence, Dating Violence	8:30 a.m.-4:30 p.m.	TIME	298	317
+Sexual Assault, Domestic Violence, Dating Violence	summer	DATE	325	331
+Sexual Assault, Domestic Violence, Dating Violence	one	CARDINAL	352	355
+Sexual Assault, Domestic Violence, Dating Violence	911	CARDINAL	54	57
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	180	185
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	328	333
+Sexual Assault, Domestic Violence, Dating Violence	DLES	ORG	66	70
+Sexual Assault, Domestic Violence, Dating Violence	the Office of Civil Rights	ORG	148	174
+Sexual Assault, Domestic Violence, Dating Violence	Title IX	ORG	179	187
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	207	212
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	280	285
+Sexual Assault, Domestic Violence, Dating Violence	Counseling and Psychiatry	ORG	287	312
+Sexual Assault, Domestic Violence, Dating Violence	The University of South Carolina	ORG	1	33
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	190	200
+Sexual Assault, Domestic Violence, Dating Violence	University	ORG	5	15
+Sexual Assault, Domestic Violence, Dating Violence	One	CARDINAL	1	4
+Sexual Assault, Domestic Violence, Dating Violence	University support	ORG	20	38
+Sexual Assault, Domestic Violence, Dating Violence	Sexual Assault and Violence Intervention & Prevention	LAW	97	150
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	152	157
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	160	165
+Sexual Assault, Domestic Violence, Dating Violence	the Thomson Building	FAC	180	200
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	1	6
+Sexual Assault, Domestic Violence, Dating Violence	the year	DATE	64	72
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	123	128
+Sexual Assault, Domestic Violence, Dating Violence	annual	DATE	146	152
+Sexual Assault, Domestic Violence, Dating Violence	Relationship Violence Awareness	EVENT	270	301
+Sexual Assault, Domestic Violence, Dating Violence	October	DATE	305	312
+Sexual Assault, Domestic Violence, Dating Violence	Stalking Awareness	ORG	314	332
+Sexual Assault, Domestic Violence, Dating Violence	January	DATE	336	343
+Sexual Assault, Domestic Violence, Dating Violence	Sexual Assault Awareness	ORG	349	373
+Sexual Assault, Domestic Violence, Dating Violence	April	DATE	377	382
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	1	6
+Sexual Assault, Domestic Violence, Dating Violence	Relationship Violence Awareness Month	EVENT	18	55
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	1	6
+Sexual Assault, Domestic Violence, Dating Violence	Stalking Awareness Month	ORG	18	42
+Sexual Assault, Domestic Violence, Dating Violence	the University Community	ORG	156	180
+Sexual Assault, Domestic Violence, Dating Violence	Rave Guardian	ORG	242	255
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	1	6
+Sexual Assault, Domestic Violence, Dating Violence	Sexual Assault Awareness Month	LAW	18	48
+Sexual Assault, Domestic Violence, Dating Violence	SAAM	ORG	50	54
+Sexual Assault, Domestic Violence, Dating Violence	SAAM	ORG	188	192
+Sexual Assault, Domestic Violence, Dating Violence	the University Community	ORG	221	245
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	416	421
+Sexual Assault, Domestic Violence, Dating Violence	Carolina	GPE	449	457
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	1	6
+Sexual Assault, Domestic Violence, Dating Violence	Gamecocks Stand Up	ORG	49	67
+Sexual Assault, Domestic Violence, Dating Violence	four	CARDINAL	116	120
+Sexual Assault, Domestic Violence, Dating Violence	Gamecocks Stand Up	ORG	14	32
+Sexual Assault, Domestic Violence, Dating Violence	two	CARDINAL	154	157
+Sexual Assault, Domestic Violence, Dating Violence	USCPD	ORG	560	565
+Sexual Assault, Domestic Violence, Dating Violence	Carolina	GPE	10	18
+Sexual Assault, Domestic Violence, Dating Violence	Carolina Peer Leaders	ORG	10	31
+Sexual Assault, Domestic Violence, Dating Violence	CCPL	ORG	33	37
+Sexual Assault, Domestic Violence, Dating Violence	Carolina Peer Leaders	ORG	10	31
+Sexual Assault, Domestic Violence, Dating Violence	BACCHUS Initiatives of NASPA	ORG	102	130
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	30	35
+Sexual Assault, Domestic Violence, Dating Violence	101	CARDINAL	76	79
+Sexual Assault, Domestic Violence, Dating Violence	SAVIP	ORG	79	84
+Sexual Assault, Domestic Violence, Dating Violence	101	CARDINAL	8	11
+Sexual Assault, Domestic Violence, Dating Violence	three	CARDINAL	18	23
+Sexual Assault, Domestic Violence, Dating Violence	SAPU	ORG	177	181
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	the Counseling and Psychiatry Department	ORG	65	105
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	Student Health Services	ORG	122	145
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	SAVIP	ORG	151	156
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	777-8248	CARDINAL	163	171
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	24/7	CARDINAL	173	177
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	SAVIP	ORG	180	185
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	University	ORG	7	17
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	University	ORG	82	92
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	University	ORG	274	284
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	University	ORG	5	15
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	University	ORG	143	153
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	University	ORG	197	207
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	University	ORG	377	387
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	University	ORG	528	538
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	SAVIP	ORG	1	6
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	SAVIP	ORG	174	179
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	the Office of Civil Rights and Title IX Office of Equal Opportunity Program	ORG	77	152
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	University	ORG	479	489
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	Annual Security and Fire Safety Report	ORG	492	530
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	the Midlands Crimestoppers	ORG	59	85
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	1-888	CARDINAL	97	102
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	RAVE Guardian	ORG	194	207
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	DLES	ORG	310	314
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	CRIMESTOPPERS	ORG	400	413
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	RAVE Guardian	ORG	422	435
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	University	ORG	510	520
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	Annual Security and Fire Safety Report	EVENT	523	561
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	University	ORG	5	15
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	Clery	PERSON	145	150
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	University	ORG	214	224
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	Fire Safety Report	ORG	247	265
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	The Universi- ty	PERSON	267	283
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	The University’s Annual Security and Fire Safety Report	ORG	1	56
+CONFIDENTIAL REPORTING OF CRIME AND OTHER SERIOUS	South Carolina	GPE	141	155
+Crime Prevention	Crime Prevention	ORG	17	33
+Crime Prevention	The Division of Law Enforcement and Safety (DLES)	LAW	1	50
+Crime Prevention	the year	DATE	113	121
+Crime Prevention	DLES	ORG	168	172
+Crime Prevention	the year	DATE	278	286
+Crime Prevention	•   Residential Safety and Security	ORG	1	36
+Crime Prevention	Building Safety and Security	ORG	5	33
+Crime Prevention	Campus Safety	ORG	5	18
+Crime Prevention	DLES	ORG	77	81
+Crime Prevention	The University’s Sexual Assault and Violence Intervention & Prevention	ORG	198	268
+Crime Prevention	SAVIP) Office	ORG	270	283
+Crime Prevention	DLES	ORG	303	307
+Crime Prevention	the DLES Community Relations Unit	ORG	80	113
+Crime Prevention	803-777- 4215	CARDINAL	117	130
+Crime Prevention	The DLES Office of Crime Prevention	ORG	1	36
+Crime Prevention	University 101	ORG	130	144
+Crime Prevention	U101	CARDINAL	146	150
+Crime Prevention	DLES	ORG	1	5
+Crime Prevention	the Community Resource Officer Program	ORG	77	115
+Crime Prevention	Community Resource Officers	ORG	117	144
+Crime Prevention	CROs	ORG	146	150
+Crime Prevention	University Housing	ORG	166	184
+Crime Prevention	theThomas Cooper Library	ORG	433	457
+Crime Prevention	University Housing	ORG	71	89
+Crime Prevention	Housing	ORG	107	114
+Crime Prevention	Crisis Management	ORG	100	117
+Crime Prevention	Emergency Procedures	ORG	122	142
+Crime Prevention	Housing Staff	ORG	5	18
+Crime Prevention	All Housing Staff	ORG	1	18
+Crime Prevention	Incident Command System	PRODUCT	120	143
+Crime Prevention	the Federal Emergency Management Agency	ORG	175	214
+Crime Prevention	FEMA	ORG	216	220
+Crime Prevention	Housing	ORG	82	89
+Crime Prevention	Housing Staff	ORG	1	14
+Crime Prevention	Housing Staff	ORG	1	14
+Crime Prevention	the Visitation Policy	LAW	38	59
+Crime Prevention	the academic year	DATE	316	333
+Crime Prevention	one	CARDINAL	127	130
+Crime Prevention	one	CARDINAL	134	137
+Crime Prevention	Housing Staff	ORG	321	334
+Crime Prevention	Housing Staff	ORG	522	535
+Crime Prevention	monthly	DATE	629	636
+Crime Prevention	the Visitation Policy	LAW	33	54
+Crime Prevention	Housing	ORG	22	29
+Crime Prevention	Housing and University Community	ORG	192	224
+Crime Prevention	The Office of Professional Development	ORG	1	39
+Crime Prevention	the Workplace Workshop	EVENT	68	90
+Crime Prevention	University	ORG	180	190
+Crime Prevention	the Violence Against Women Act	LAW	231	261
+Crime Prevention	GreekVillage	GPE	207	219
+Crime Prevention	DLES	ORG	221	225
+Monitoring and Recording Criminal Activity Includi	one	CARDINAL	185	188
+Monitoring and Recording Criminal Activity Includi	DLES	ORG	230	234
+Monitoring and Recording Criminal Activity Includi	DLES	ORG	315	319
+Monitoring and Recording Criminal Activity Includi	DLES	ORG	501	505
+Monitoring and Recording Criminal Activity Includi	University	ORG	561	571
+Monitoring and Recording Criminal Activity Includi	the University’s Office of Student Conduct	ORG	633	675
+Monitoring and Recording Criminal Activity Includi	Academic Integrity	ORG	680	698
+Monitoring and Recording Criminal Activity Includi	Campus Facilities	ORG	11	28
+Monitoring and Recording Criminal Activity Includi	Housing	ORG	48	55
+Monitoring and Recording Criminal Activity Includi	the Division of Law Enforcement and Safety	LAW	212	254
+Monitoring and Recording Criminal Activity Includi	DLES	ORG	256	260
+Monitoring and Recording Criminal Activity Includi	DeSaussure	GPE	306	316
+Monitoring and Recording Criminal Activity Includi	Thornwell	GPE	318	327
+Monitoring and Recording Criminal Activity Includi	Woodrow	FAC	333	340
+Monitoring and Recording Criminal Activity Includi	Housing	ORG	392	399
+Monitoring and Recording Criminal Activity Includi	DLES	ORG	497	501
+Monitoring and Recording Criminal Activity Includi	The Greek Village	LOC	526	543
+Monitoring and Recording Criminal Activity Includi	night	TIME	701	706
+Monitoring and Recording Criminal Activity Includi	twenty-four hours	TIME	150	167
+Monitoring and Recording Criminal Activity Includi	seven days	DATE	175	185
+Monitoring and Recording Criminal Activity Includi	Public Buildings	ORG	21	37
+Monitoring and Recording Criminal Activity Includi	DLES	ORG	42	46
+Monitoring and Recording Criminal Activity Includi	University	ORG	72	82
+Monitoring and Recording Criminal Activity Includi	Thomas Cooper Library	ORG	220	241
+Monitoring and Recording Criminal Activity Includi	Closed Circuit TV	ORG	247	264
+Monitoring and Recording Criminal Activity Includi	University	ORG	394	404
+Monitoring and Recording Criminal Activity Includi	DLES	ORG	473	477
+Monitoring and Recording Criminal Activity Includi	twenty-four hour	TIME	540	556
+Monitoring and Recording Criminal Activity Includi	Coliseums	NORP	20	29
+Monitoring and Recording Criminal Activity Includi	Arenas	PERSON	35	41
+Monitoring and Recording Criminal Activity Includi	CCTV	ORG	1	5
+Monitoring and Recording Criminal Activity Includi	DLES	ORG	124	128
+Monitoring and Recording Criminal Activity Includi	DLES	ORG	353	357
+Monitoring and Recording Criminal Activity Includi	two	CARDINAL	361	364
+Monitoring and Recording Criminal Activity Includi	Emergency Call Boxes	ORG	64	84
+Monitoring and Recording Criminal Activity Includi	DLES	ORG	212	216
+Monitoring and Recording Criminal Activity Includi	University	ORG	248	258
+Monitoring and Recording Criminal Activity Includi	General Campus	ORG	1	15
+Monitoring and Recording Criminal Activity Includi	the Division of Law Enforcement and Safety	LAW	43	85
+Monitoring and Recording Criminal Activity Includi	certain days of the week and weekends	DATE	87	124
+Monitoring and Recording Criminal Activity Includi	night	TIME	312	317
+Monitoring and Recording Criminal Activity Includi	DLES	ORG	102	106
+Monitoring and Recording Criminal Activity Includi	Facility Services	ORG	178	195
+Monitoring and Recording Criminal Activity Includi	the University Community	ORG	261	285
+Monitoring and Recording Criminal Activity Includi	DLES	ORG	356	360
+Monitoring and Recording Criminal Activity Includi	Housing	ORG	362	369
+Monitoring and Recording Criminal Activity Includi	Facility Services	ORG	374	391
+Missing Resident Students	DLES	ORG	123	127
+Missing Resident Students	803-777-4215	TIME	131	143
+Missing Resident Students	911	CARDINAL	152	155
+Missing Resident Students	DLES	ORG	157	161
+Missing Resident Students	Residence Life	ORG	109	123
+Missing Resident Students	DLES	ORG	152	156
+Missing Resident Students	Residence Life	ORG	176	190
+Missing Resident Students	Student Welfare Inspections	ORG	14	41
+Missing Resident Students	DLES	ORG	201	205
+Timely Warning Notices	Campus Safety Advisories	ORG	39	63
+Timely Warning Notices	the Campus Community	ORG	58	78
+Timely Warning Notices	The University of South Carolina	ORG	1	33
+Timely Warning Notices	the University Community	ORG	59	83
+Timely Warning Notices	the Division of Law Enforcement and Safety	LAW	216	258
+Timely Warning Notices	DLES	ORG	260	264
+Timely Warning Notices	DLES	ORG	12	16
+Timely Warning Notices	the University Community	ORG	154	178
+Timely Warning Notices	the University Community	ORG	82	106
+Timely Warning Notices	University	ORG	176	186
+Timely Warning Notices	Clery Act	LAW	295	304
+Timely Warning Notices	DLES	ORG	316	320
+Timely Warning Notices	University	ORG	423	433
+Timely Warning Notices	University	ORG	50	60
+Timely Warning Notices	University	ORG	5	15
+Timely Warning Notices	Carolina Alert	ORG	5	19
+Timely Warning Notices	Carolina Alert	ORG	5	19
+Timely Warning Notices	DLES	ORG	5	9
+Timely Warning Notices	the University Community	ORG	48	72
+Timely Warning Notices	DLES	ORG	95	99
+Timely Warning Notices	DLES	ORG	5	9
+Timely Warning Notices	University	ORG	153	163
+Emergency Response	the Carolina Community	ORG	130	152
+Emergency Response	University	ORG	163	173
+Emergency Response	the Carolina Alert System	ORG	215	240
+Emergency Response	University	ORG	246	256
+Emergency Response	one	CARDINAL	326	329
+Emergency Response	the Carolina Alert System	ORG	370	395
+Emergency Response	the University of South Carolina Community	ORG	136	178
+Emergency Response	University	ORG	184	194
+Emergency Response	Carolina Alert	ORG	270	284
+Emergency Response	University’s Division of Law Enforcement and Safety	ORG	5	56
+Emergency Response	DLES	ORG	58	62
+Emergency Response	Emergency Management Coordinator	ORG	64	96
+Emergency Response	University’s Executive Policy Group	ORG	18	53
+Emergency Response	DLES	ORG	113	117
+Emergency Response	University	ORG	52	62
+Emergency Response	Facebook	ORG	5	13
+Emergency Response	90.5	CARDINAL	5	9
+Emergency Response	•   Media Advisory	ORG	1	19
+Emergency Response	Alert FM	PRODUCT	216	224
+Emergency Response	Carolina Alert	ORG	220	234
+Emergency Response	the University Emergency Manage- ment Team Executive Policy Group	ORG	105	170
+Emergency Response	the University Public Information Officer	ORG	282	323
+Emergency Response	Columbia	GPE	92	100
+Emergency Response	DLES	ORG	160	164
+Emergency Response	Columbia – Richland 911 Communications Center	ORG	182	227
+Emergency Response	The Carolina Alert System	ORG	1	26
+Emergency Response	Carolina	GPE	126	134
+Emergency Response	at least one	CARDINAL	109	121
+Emergency Response	Carolina Alert	ORG	38	52
+Emergency Response	Carolina Alert	ORG	35	49
+Alcohol And Drug Policies	The University of South Carolina	ORG	1	33
+Alcohol And Drug Policies	The University	ORG	94	108
+Alcohol And Drug Policies	the Drug- Free Schools and Communities Act	LAW	131	173
+Alcohol And Drug Policies	1989	DATE	177	181
+Alcohol And Drug Policies	the Office of Substance Abuse Prevention and Education	LAW	202	256
+Alcohol And Drug Policies	SAPE	ORG	258	262
+Alcohol And Drug Policies	Student Affairs	ORG	310	325
+Alcohol And Drug Policies	Academic Support	ORG	330	346
+Alcohol And Drug Policies	University	ORG	5	15
+Alcohol And Drug Policies	Student Affairs	ORG	224	239
+Alcohol And Drug Policies	Academic Support	ORG	244	260
+Alcohol And Drug Policies	Sub- stancesAbusePreventionandEducation	ORG	276	315
+Alcohol And Drug Policies	(803) 777-3933	CARDINAL	463	477
+Alcohol And Drug Policies	The Division of Law Enforcement and Safety (DLES	LAW	1	49
+Alcohol And Drug Policies	the Office of Student Conduct and Academic Integrity	ORG	70	122
+Alcohol And Drug Policies	OSC	ORG	124	127
+Alcohol And Drug Policies	SAPE	ORG	133	137
+Alcohol And Drug Policies	OSC	ORG	328	331
+Alcohol And Drug Policies	OSC	ORG	507	510
+Alcohol And Drug Policies	first	ORDINAL	657	662
+Alcohol And Drug Policies	Pre-Trial Intervention	ORG	746	768
+Alcohol And Drug Policies	OSC	ORG	876	879
+Alcohol And Drug Policies	under the age of 21	DATE	11	30
+Alcohol And Drug Policies	under 21 years of age	DATE	153	174
+Alcohol And Drug Policies	the University of South Carolina	ORG	187	219
+Alcohol And Drug Policies	Columbia	GPE	222	230
+Alcohol And Drug Policies	21 years of age and older	DATE	26	51
+Alcohol And Drug Policies	the University of South Carolina	ORG	71	103
+Alcohol And Drug Policies	Columbia	GPE	106	114
+Alcohol And Drug Policies	University	ORG	69	79
+Alcohol And Drug Policies	the Office of the Dean of Students	ORG	138	172
+Alcohol And Drug Policies	the Alcohol Event Registration Form	LAW	193	228
+Alcohol And Drug Policies	University	ORG	80	90
+Alcohol And Drug Policies	University	ORG	101	111
+Alcohol And Drug Policies	University	ORG	45	55
+Alcohol And Drug Policies	the Alcohol Event Registration Form	ORG	101	136
+Alcohol And Drug Policies	the Student Code of Conduct	LAW	25	52
+Alcohol And Drug Policies	the General Guidelines for the University Community	LAW	57	108
+Alcohol And Drug Policies	the Family Educational Rights and Privacy Act	LAW	237	282
+Alcohol And Drug Policies	FERPA”)	LAW	285	292
+Alcohol And Drug Policies	University	ORG	298	308
+Alcohol And Drug Policies	under the age of 21	DATE	412	431
+Alcohol And Drug Policies	University	ORG	510	520
+Alcohol And Drug Policies	University	ORG	587	597
+Alcohol And Drug Policies	the age of 21	DATE	654	667
+Alcohol And Drug Policies	University	ORG	850	860
+Alcohol And Drug Policies	University Housing	ORG	895	913
+Alcohol And Drug Policies	University	ORG	999	1009
+Alcohol And Drug Policies	second	ORDINAL	1054	1060
+Alcohol And Drug Policies	University	ORG	1078	1088
+Alcohol And Drug Policies	the University’s Student Care and Outreach Team	ORG	1114	1161
+Alcohol And Drug Policies	under the age of 21	DATE	1208	1227
+Alcohol And Drug Policies	Consent to Release Information	WORK_OF_ART	1341	1371
+Alcohol And Drug Policies	the Office of Student Conduct	ORG	1389	1418
+Alcohol And Drug Policies	The University of South Carolina	ORG	1	33
+Alcohol And Drug Policies	Columbia	GPE	36	44
+Alcohol And Drug Policies	the South Carolina Code of Laws	LAW	197	228
+Alcohol And Drug Policies	Title 44	LAW	230	238
+Alcohol And Drug Policies	Chapter 53	LAW	240	250
+Alcohol And Drug Policies	South Carolina	GPE	326	340
+Alcohol And Drug Policies	the Student Code of Conduct	LAW	41	68
+Alcohol And Drug Policies	University	ORG	182	192
+Alcohol And Drug Policies	the Student Code of Conduct	LAW	307	334
+Alcohol And Drug Policies	University	ORG	409	419
+Alcohol And Drug Policies	the Carolina Community	ORG	476	498
+Alcohol And Drug Policies	University	ORG	531	541
+Alcohol And Drug Policies	The Substance Abuse Prevention and Education Office	ORG	1	52
+Alcohol And Drug Policies	SAPE	ORG	54	58
+Alcohol And Drug Policies	third	ORDINAL	78	83
+Alcohol And Drug Policies	the Strom Thurmond Wellness and Fitness Center	FAC	93	139
+Alcohol And Drug Policies	Monday	DATE	152	158
+Alcohol And Drug Policies	Friday	DATE	167	173
+Alcohol And Drug Policies	regular business hours	TIME	181	203
+Alcohol And Drug Policies	SAPE	ORG	205	209
+Alcohol And Drug Policies	SAPE	ORG	370	374
+Alcohol And Drug Policies	Columbia	GPE	475	483
+Alcohol And Drug Policies	Midlands	GPE	488	496
+Alcohol And Drug Policies	South Carolina	GPE	505	519
+Alcohol And Drug Policies	two	CARDINAL	279	282
+Alcohol And Drug Policies	SAPE	ORG	319	323
+Alcohol And Drug Policies	STIR	ORG	388	392
+Alcohol And Drug Policies	AlcoholEdu: AlcoholEdu	ORG	1	23
+Alcohol And Drug Policies	two	CARDINAL	177	180
+Alcohol And Drug Policies	about two and a half hours	TIME	237	263
+Alcohol And Drug Policies	approximately 15 minutes	TIME	341	365
+Alcohol And Drug Policies	30-45 days	DATE	380	390
+Alcohol And Drug Policies	first	ORDINAL	401	406
+Alcohol And Drug Policies	AlcoholEdu	ORG	484	494
+Alcohol And Drug Policies	AlcoholEdu	GPE	229	239
+Alcohol And Drug Policies	two	CARDINAL	259	262
+Alcohol And Drug Policies	around an hour and a half	TIME	283	308
+Alcohol And Drug Policies	30-45 day	DATE	330	339
+Alcohol And Drug Policies	Part II	EVENT	379	386
+Alcohol And Drug Policies	about 15 minutes	TIME	400	416
+Criminal statistics	the Annual Security and Fire Safety Report	LAW	19	61
+Criminal statistics	University	ORG	123	133
+Criminal statistics	the preceding calendar year	DATE	141	168
+Criminal statistics	the preceding three calendar years	DATE	221	255
+Criminal statistics	DLES	ORG	1	5
+Criminal statistics	annual	DATE	24	30
+Criminal statistics	University Campus Security Authorities	ORG	96	134
+Criminal statistics	DLES	ORG	136	140
+Criminal statistics	Richland County	GPE	157	172
+Criminal statistics	Department	ORG	183	193
+Criminal statistics	the City of Columbia Police Department	ORG	198	236
+Criminal statistics	the Lexis/Nexis Community Crime Map	EVENT	289	324
+Criminal statistics	The Community Crime Map (www.communitycrimemap.com)	ORG	1	52
+Criminal statistics	Community Crime Map	ORG	231	250
+Criminal statistics	DLES	ORG	259	263
+Criminal statistics	Richland County	GPE	269	284
+Criminal statistics	Department	ORG	295	305
+Criminal statistics	City of Columbia Police Department	ORG	311	345
+Criminal statistics	DLES	ORG	435	439
+Criminal statistics	the Annual Security and Fire Safety Report	ORG	456	498
+Criminal statistics	Community Crime Map	ORG	25	44
+Criminal statistics	Columbia	GPE	150	158
+Criminal statistics	South Carolina	GPE	160	174
+Criminal statistics	the South Carolina Law Enforcement Division	ORG	49	92
+Criminal statistics	SLED	ORG	94	98
+Criminal statistics	Campus Student Housing	ORG	56	78
+Criminal statistics	the University of South Carolina	ORG	213	245
+Criminal statistics	The Clery Act	LAW	1	14
+Criminal statistics	University	ORG	28	38
+Criminal statistics	the United States Department of Education	ORG	130	171
+Criminal statistics	Clery Geography	WORK_OF_ART	254	269
+Criminal statistics	On Campus	WORK_OF_ART	287	296
+Criminal statistics	On Campus Residence Halls)	WORK_OF_ART	322	348
+Criminal statistics	Non-Campus	ORG	350	360
+Criminal statistics	Public Property	ORG	366	381
+Criminal statistics	the Clery Act	LAW	17	30
+Criminal statistics	1	CARDINAL	101	102
+Criminal statistics	University	ORG	182	192
+Criminal statistics	University	ORG	233	243
+Criminal statistics	University	ORG	284	294
+Criminal statistics	University	ORG	335	345
+Criminal statistics	University	ORG	51	61
+Criminal statistics	University	ORG	90	100
+Criminal statistics	University	ORG	143	153
+Criminal statistics	2	CARDINAL	1	2
+Criminal statistics	Non-Campus	ORG	4	14
+Criminal statistics	University	ORG	83	93
+Criminal statistics	University	ORG	115	125
+Criminal statistics	University	ORG	381	391
+Criminal statistics	3	CARDINAL	1	2
+Criminal statistics	On-Campus	ORG	15	24
+Criminal statistics	University	ORG	55	65
+Criminal statistics	Non-Campus	ORG	127	137
+Criminal statistics	Williams-Brice Stadium	FAC	152	174
+Criminal statistics	Horseshoe	FAC	245	254
+Criminal statistics	“Clery Crimes	LAW	44	57
+Criminal statistics	The Clery Crimes consist of four categories of offenses: 1) Index Crimes	LAW	60	132
+Criminal statistics	2	CARDINAL	134	135
+Criminal statistics	3	CARDINAL	172	173
+Criminal statistics	4	CARDINAL	192	193
+Criminal statistics	Possession Crimes	WORK_OF_ART	195	212
+Criminal statistics	1	CARDINAL	27	28
+Criminal statistics	Murder/Non-Negligent Manslaughter; 2) Manslaughter by Negligence; 3) Sexual Assault 4) Robbery; 5) Aggravated Assault; 6) Burglary; 7) Motor Vehicle Theft	LAW	30	184
+Criminal statistics	Mopeds	ORG	196	202
+Criminal statistics	8	CARDINAL	209	210
+Criminal statistics	The Violence Against Women Act Crimes	LAW	219	256
+Criminal statistics	1	CARDINAL	266	267
+Criminal statistics	2	CARDINAL	288	289
+Criminal statistics	3	CARDINAL	312	313
+Criminal statistics	University	ORG	198	208
+Criminal statistics	1	CARDINAL	305	306
+Criminal statistics	Larceny-Theft	LAW	308	321
+Criminal statistics	2	CARDINAL	323	324
+Criminal statistics	3	CARDINAL	342	343
+Criminal statistics	4	CARDINAL	362	363
+Criminal statistics	) Destruction/Damage/Vandalism of Property	LAW	363	405
+Criminal statistics	1) Weapons Possession; 2) Drug Offenses	LAW	71	110
+Criminal statistics	3) Alcohol Offenses	LAW	116	135
+Criminal statistics	19    ‘20	CARDINAL	2	11
+Criminal statistics	21         ‘19	CARDINAL	25	39
+Criminal statistics	20         ‘21	CARDINAL	47	61
+Criminal statistics	0	CARDINAL	88	89
+Criminal statistics	0	CARDINAL	96	97
+Criminal statistics	0	CARDINAL	106	107
+Criminal statistics	0	CARDINAL	116	117
+Criminal statistics	0	CARDINAL	127	128
+Criminal statistics	0	CARDINAL	138	139
+Criminal statistics	0	CARDINAL	111	112
+Criminal statistics	0	CARDINAL	133	134
+Criminal statistics	8           2	CARDINAL	60	73
+Criminal statistics	0         0	CARDINAL	112	123
+Criminal statistics	0          0	CARDINAL	132	144
+Criminal statistics	1	CARDINAL	132	133
+Criminal statistics	1	CARDINAL	154	155
+Criminal statistics	0         0	CARDINAL	112	123
+Criminal statistics	0          0	CARDINAL	132	144
+Criminal statistics	0          0	CARDINAL	132	144
+Criminal statistics	0         0	CARDINAL	112	123
+Criminal statistics	1          0	CARDINAL	132	144
+Criminal statistics	2           0	CARDINAL	132	145
+Criminal statistics	0         0	CARDINAL	112	123
+Criminal statistics	0           0	CARDINAL	132	145
+Criminal statistics	14     10	CARDINAL	37	46
+Criminal statistics	1         0	CARDINAL	94	105
+Criminal statistics	0         0	CARDINAL	112	123
+Criminal statistics	0	CARDINAL	144	145
+Criminal statistics	15     12	CARDINAL	37	46
+Criminal statistics	1           2	CARDINAL	132	145
+Criminal statistics	19	CARDINAL	2	4
+Criminal statistics	20         ‘21	CARDINAL	13	27
+Criminal statistics	19         ‘20	CARDINAL	35	49
+Criminal statistics	21    ‘19	CARDINAL	57	66
+Criminal statistics	20       ‘21	CARDINAL	75	87
+Criminal statistics	19	CARDINAL	107	109
+Criminal statistics	0       0	CARDINAL	117	126
+Criminal statistics	0        1	CARDINAL	138	148
+Criminal statistics	4         2	CARDINAL	66	77
+Criminal statistics	0         0	CARDINAL	96	107
+Criminal statistics	2       0	CARDINAL	116	125
+Criminal statistics	0        2	CARDINAL	137	147
+Criminal statistics	12          4	CARDINAL	26	39
+Criminal statistics	11          3	CARDINAL	49	62
+Criminal statistics	0	CARDINAL	111	112
+Criminal statistics	0	CARDINAL	119	120
+Criminal statistics	0	CARDINAL	132	133
+Criminal statistics	0	CARDINAL	141	142
+Criminal statistics	19     ‘20	CARDINAL	2	12
+Criminal statistics	21   ‘19	CARDINAL	19	27
+Criminal statistics	20    ‘21	CARDINAL	31	40
+Criminal statistics	1    0	CARDINAL	76	82
+Criminal statistics	0     0	CARDINAL	87	94
+Criminal statistics	6      5	CARDINAL	99	107
+Criminal statistics	1     85	CARDINAL	87	95
+Criminal statistics	19      27	CARDINAL	100	110
+Criminal statistics	5      2      1	CARDINAL	56	71
+Criminal statistics	1     0	CARDINAL	75	82
+Criminal statistics	19     ‘20	CARDINAL	2	12
+Criminal statistics	21   ‘19	CARDINAL	19	27
+Criminal statistics	20   ‘21	CARDINAL	32	40
+Criminal statistics	1      0	CARDINAL	99	107
+Criminal statistics	17    10	CARDINAL	87	95
+Criminal statistics	17	CARDINAL	108	110
+Criminal statistics	University	ORG	5	15
+Criminal statistics	2019	DATE	82	86
+Criminal statistics	2020	DATE	100	104
+Criminal statistics	University	ORG	120	130
+Criminal statistics	two	CARDINAL	145	148
+Criminal statistics	first	ORDINAL	166	171
+Criminal statistics	On Campus	WORK_OF_ART	215	224
+Criminal statistics	second	ORDINAL	239	245
+Criminal statistics	Aggravated Assault	EVENT	254	272
+Criminal statistics	“On Campus	FAC	295	305
+Criminal statistics	2021	DATE	311	315
+Criminal statistics	1	CARDINAL	327	328
+Criminal statistics	The University’s Division of Law Enforcement and Safety	ORG	1	56
+Criminal statistics	1	CARDINAL	8	9
+Criminal statistics	2	CARDINAL	33	34
+Criminal statistics	0	CARDINAL	59	60
+Annual Fire Safety Report	Housing	ORG	5	12
+Annual Fire Safety Report	the DLES Records Unit	ORG	42	63
+Annual Fire Safety Report	1415 Henderson Street	FAC	75	96
+Annual Fire Safety Report	Columbia	GPE	98	106
+Annual Fire Safety Report	South Carolina	GPE	108	122
+Annual Fire Safety Report	29208	CARDINAL	123	128
+Annual Fire Safety Report	Resident Mentor	PERSON	326	341
+Annual Fire Safety Report	first	ORDINAL	411	416
+Annual Fire Safety Report	weekly	DATE	417	423
+Annual Fire Safety Report	DLES Fire Safety	ORG	1	17
+Annual Fire Safety Report	the semester	DATE	116	128
+Annual Fire Safety Report	DLES	ORG	1	5
+Annual Fire Safety Report	annual	DATE	15	21
+Annual Fire Safety Report	“Fire Safety Awareness Day	EVENT	22	48
+Annual Fire Safety Report	“National Fire Safety Week	EVENT	67	93
+Annual Fire Safety Report	October of each year	DATE	98	118
+Annual Fire Safety Report	The Columbia Fire Department	ORG	301	329
+Annual Fire Safety Report	911	CARDINAL	35	38
+Annual Fire Safety Report	Columbia Fire Department	ORG	73	97
+Annual Fire Safety Report	DLES – Fire Safety Office	ORG	196	221
+Annual Fire Safety Report	the Columbia Fire Department	ORG	300	328
+Annual Fire Safety Report	DLES	ORG	332	336
+Annual Fire Safety Report	one	CARDINAL	363	366
+Annual Fire Safety Report	University	ORG	5	15
+Annual Fire Safety Report	DLES	ORG	109	113
+Annual Fire Safety Report	Underwriters Laboratories	ORG	137	162
+Annual Fire Safety Report	one cubic foot and/or 700 watts	QUANTITY	306	337
+Annual Fire Safety Report	One	CARDINAL	348	351
+Annual Fire Safety Report	University	ORG	466	476
+Annual Fire Safety Report	one	CARDINAL	742	745
+Annual Fire Safety Report	one	CARDINAL	810	813
+Annual Fire Safety Report	University Policy	ORG	21	38
+Annual Fire Safety Report	University	ORG	137	147
+Annual Fire Safety Report	University	ORG	57	67
+Annual Fire Safety Report	University	ORG	85	95
+Annual Fire Safety Report	University	ORG	42	52
+Annual Fire Safety Report	four	CARDINAL	173	177
+Annual Fire Safety Report	University Residential Facilities	ORG	1	34
+Annual Fire Safety Report	four	CARDINAL	451	455
+Annual Fire Safety Report	Harper/Elliott	ORG	5	19
+Annual Fire Safety Report	Alpha Gamma Delta	ORG	80	97
+Annual Fire Safety Report	502	CARDINAL	99	102
+Annual Fire Safety Report	1501	CARDINAL	126	130
+Annual Fire Safety Report	Bates House	FAC	195	206
+Annual Fire Safety Report	1423	CARDINAL	208	212
+Annual Fire Safety Report	Delta Zeta	ORG	229	239
+Annual Fire Safety Report	514	CARDINAL	241	244
+Annual Fire Safety Report	Delta Delta Delta	ORG	304	321
+Annual Fire Safety Report	520	CARDINAL	323	326
+Annual Fire Safety Report	Thornwell	GPE	344	353
+Annual Fire Safety Report	Pendleton St.	GPE	360	373
+Annual Fire Safety Report	Columbia Hall	FAC	419	432
+Annual Fire Safety Report	Patterson	GPE	456	465
+Annual Fire Safety Report	1520	CARDINAL	467	471
+Annual Fire Safety Report	520	CARDINAL	583	586
+Annual Fire Safety Report	Nada Apartments	FAC	673	688
+Annual Fire Safety Report	820	CARDINAL	690	693
+Annual Fire Safety Report	1415	CARDINAL	757	761
+Annual Fire Safety Report	South Tower	FAC	778	789
+Annual Fire Safety Report	Wade Hampton	PERSON	853	865
+Annual Fire Safety Report	1528	CARDINAL	867	871
+Annual Fire Safety Report	527	CARDINAL	903	906
+Annual Fire Safety Report	508	CARDINAL	972	975
+Annual Fire Safety Report	McClintock	GPE	993	1003
+Annual Fire Safety Report	720	CARDINAL	1005	1008
+Annual Fire Safety Report	902	CARDINAL	1085	1088
+Annual Fire Safety Report	South Quad	GPE	1105	1115
+Annual Fire Safety Report	500	CARDINAL	1117	1120
+Annual Fire Safety Report	1215	CARDINAL	1198	1202
+Annual Fire Safety Report	Phi Mu	PERSON	1220	1226
+Annual Fire Safety Report	6	CARDINAL	1228	1229
+Annual Fire Safety Report	Preston College	FAC	1332	1347
+Annual Fire Safety Report	1323	CARDINAL	1349	1353
+Annual Fire Safety Report	East Quad	GPE	1440	1449
+Annual Fire Safety Report	1400	CARDINAL	1451	1455
+Annual Fire Safety Report	Sigma Nu	ORG	1553	1561
+Annual Fire Safety Report	515	CARDINAL	1563	1566
+Annual Fire Safety Report	4	CARDINAL	1642	1643
+Annual Fire Safety Report	Rutledge College	ORG	1667	1683
+Annual Fire Safety Report	902	CARDINAL	1685	1688
+Annual Fire Safety Report	1311	CARDINAL	1753	1757
+Annual Fire Safety Report	1216	CARDINAL	1789	1793
+Annual Fire Safety Report	Sigma Alpha Epsilon	ORG	1882	1901
+Annual Fire Safety Report	509	CARDINAL	1903	1906
+Annual Fire Safety Report	521	CARDINAL	1970	1973
+Annual Fire Safety Report	Maxcy	GPE	1991	1996
+Annual Fire Safety Report	1332	CARDINAL	1998	2002
+Annual Fire Safety Report	1313	CARDINAL	2077	2081
+Annual Fire Safety Report	1216	CARDINAL	2113	2117
+Annual Fire Safety Report	Kappa Sigma	ORG	2174	2185
+Annual Fire Safety Report	808	CARDINAL	2187	2190
+Annual Fire Safety Report	508	CARDINAL	2227	2230
+Annual Fire Safety Report	502	CARDINAL	2305	2308
+Annual Fire Safety Report	Desaussure	GPE	2326	2336
+Annual Fire Safety Report	902	CARDINAL	2338	2341
+Annual Fire Safety Report	611	CARDINAL	2412	2415
+Annual Fire Safety Report	1216	CARDINAL	2446	2450
+Annual Fire Safety Report	814	CARDINAL	2523	2526
+Annual Fire Safety Report	514	CARDINAL	2560	2563
+Annual Fire Safety Report	650	CARDINAL	2622	2625
+Annual Fire Safety Report	650	CARDINAL	2648	2651
+Annual Fire Safety Report	650	CARDINAL	2744	2747
+Annual Fire Safety Report	700	CARDINAL	2768	2771
+Annual Fire Safety Report	Park Place	FAC	2789	2799
+Annual Fire Safety Report	506	CARDINAL	2801	2804
+Annual Fire Safety Report	613	CARDINAL	2875	2878
+Annual Fire Safety Report	YOUnion	GPE	2895	2902
+Annual Fire Safety Report	1000	CARDINAL	2904	2908
+Annual Fire Safety Report	820	CARDINAL	2986	2989
+Annual Fire Safety Report	University Residential Facilities	ORG	10	43
+Annual Fire Safety Report	University	ORG	35	45
+Annual Fire Safety Report	the previous three years	DATE	70	94
+Annual Fire Safety Report	2019	DATE	1	5
+Annual Fire Safety Report	1	CARDINAL	9	10
+Annual Fire Safety Report	Delta Zeta House	ORG	12	28
+Annual Fire Safety Report	514	CARDINAL	30	33
+Annual Fire Safety Report	165	MONEY	190	193
+Annual Fire Safety Report	2	CARDINAL	2	3
+Annual Fire Safety Report	1215	CARDINAL	23	27

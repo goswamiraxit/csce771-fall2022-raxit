@@ -1,0 +1,11203 @@
+[[
+  [
+    {
+      "id": 1,
+      "text": "Emergency",
+      "start_char": 1,
+      "end_char": 10,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Response",
+      "start_char": 11,
+      "end_char": 19,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": ",",
+      "start_char": 19,
+      "end_char": 20,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Notification",
+      "start_char": 21,
+      "end_char": 33,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ",",
+      "start_char": 33,
+      "end_char": 34,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "and",
+      "start_char": 35,
+      "end_char": 38,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Evacuation",
+      "start_char": 39,
+      "end_char": 49,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "When",
+      "start_char": 1,
+      "end_char": 5,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "it",
+      "start_char": 6,
+      "end_char": 8,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "is",
+      "start_char": 9,
+      "end_char": 11,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "determined",
+      "start_char": 12,
+      "end_char": 22,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "that",
+      "start_char": 23,
+      "end_char": 27,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "there",
+      "start_char": 28,
+      "end_char": 33,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "is",
+      "start_char": 34,
+      "end_char": 36,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "an",
+      "start_char": 37,
+      "end_char": 39,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "emergency",
+      "start_char": 40,
+      "end_char": 49,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "or",
+      "start_char": 50,
+      "end_char": 52,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "dangerous",
+      "start_char": 53,
+      "end_char": 62,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "situation",
+      "start_char": 63,
+      "end_char": 72,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "that",
+      "start_char": 73,
+      "end_char": 77,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "poses",
+      "start_char": 78,
+      "end_char": 83,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "an",
+      "start_char": 84,
+      "end_char": 86,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "imminent",
+      "start_char": 87,
+      "end_char": 95,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "threat",
+      "start_char": 96,
+      "end_char": 102,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "to",
+      "start_char": 103,
+      "end_char": 105,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "the",
+      "start_char": 106,
+      "end_char": 109,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "safety",
+      "start_char": 110,
+      "end_char": 116,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "or",
+      "start_char": 117,
+      "end_char": 119,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "health",
+      "start_char": 120,
+      "end_char": 126,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "of",
+      "start_char": 127,
+      "end_char": 129,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "the",
+      "start_char": 130,
+      "end_char": 133,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Carolina",
+      "start_char": 134,
+      "end_char": 142,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Community",
+      "start_char": 143,
+      "end_char": 152,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 27,
+      "text": ",",
+      "start_char": 152,
+      "end_char": 153,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "specific",
+      "start_char": 154,
+      "end_char": 162,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "University",
+      "start_char": 163,
+      "end_char": 173,
+      "ner": "S-ORG",
+      "multi_ner": [
+        "S-ORG"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "personnel",
+      "start_char": 174,
+      "end_char": 183,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 31,
+      "text": "are",
+      "start_char": 184,
+      "end_char": 187,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 32,
+      "text": "responsible",
+      "start_char": 188,
+      "end_char": 199,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "for",
+      "start_char": 200,
+      "end_char": 203,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 34,
+      "text": "activating",
+      "start_char": 204,
+      "end_char": 214,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 35,
+      "text": "the",
+      "start_char": 215,
+      "end_char": 218,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Carolina",
+      "start_char": 219,
+      "end_char": 227,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Alert",
+      "start_char": 228,
+      "end_char": 233,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 38,
+      "text": "System",
+      "start_char": 234,
+      "end_char": 240,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 39,
+      "text": ".",
+      "start_char": 240,
+      "end_char": 241,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "The",
+      "start_char": 242,
+      "end_char": 245,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "University",
+      "start_char": 246,
+      "end_char": 256,
+      "ner": "S-ORG",
+      "multi_ner": [
+        "S-ORG"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "will",
+      "start_char": 257,
+      "end_char": 261,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "immedi-",
+      "start_char": 262,
+      "end_char": 269,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "ately",
+      "start_char": 270,
+      "end_char": 275,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "notify",
+      "start_char": 276,
+      "end_char": 282,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "the",
+      "start_char": 283,
+      "end_char": 286,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "appropriate",
+      "start_char": 287,
+      "end_char": 298,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "segment",
+      "start_char": 299,
+      "end_char": 306,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "(s",
+      "start_char": 306,
+      "end_char": 308,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": ")",
+      "start_char": 308,
+      "end_char": 309,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "of",
+      "start_char": 310,
+      "end_char": 312,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "campus",
+      "start_char": 313,
+      "end_char": 319,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "using",
+      "start_char": 320,
+      "end_char": 325,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "one",
+      "start_char": 326,
+      "end_char": 329,
+      "ner": "S-CARDINAL",
+      "multi_ner": [
+        "S-CARDINAL"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "or",
+      "start_char": 330,
+      "end_char": 332,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "more",
+      "start_char": 333,
+      "end_char": 337,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "of",
+      "start_char": 338,
+      "end_char": 340,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "the",
+      "start_char": 341,
+      "end_char": 344,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "communication",
+      "start_char": 345,
+      "end_char": 358,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "mediums",
+      "start_char": 359,
+      "end_char": 366,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "in",
+      "start_char": 367,
+      "end_char": 369,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "the",
+      "start_char": 370,
+      "end_char": 373,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Carolina",
+      "start_char": 374,
+      "end_char": 382,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Alert",
+      "start_char": 383,
+      "end_char": 388,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "System",
+      "start_char": 389,
+      "end_char": 395,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 27,
+      "text": ".",
+      "start_char": 395,
+      "end_char": 396,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Uponreceivingareportornotificationregardingasignificantemergencyordangeroussituationinvolvinganimmediatethreattothesafety",
+      "start_char": 1,
+      "end_char": 122,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "or",
+      "start_char": 123,
+      "end_char": 125,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "health",
+      "start_char": 126,
+      "end_char": 132,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "of",
+      "start_char": 133,
+      "end_char": 135,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "the",
+      "start_char": 136,
+      "end_char": 139,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "University",
+      "start_char": 140,
+      "end_char": 150,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "of",
+      "start_char": 151,
+      "end_char": 153,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "South",
+      "start_char": 154,
+      "end_char": 159,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Carolina",
+      "start_char": 160,
+      "end_char": 168,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Community",
+      "start_char": 169,
+      "end_char": 178,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 11,
+      "text": ",",
+      "start_char": 178,
+      "end_char": 179,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "the",
+      "start_char": 180,
+      "end_char": 183,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "University",
+      "start_char": 184,
+      "end_char": 194,
+      "ner": "S-ORG",
+      "multi_ner": [
+        "S-ORG"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "will",
+      "start_char": 195,
+      "end_char": 199,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "confirm",
+      "start_char": 200,
+      "end_char": 207,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "the",
+      "start_char": 208,
+      "end_char": 211,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "emergency",
+      "start_char": 212,
+      "end_char": 221,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "or",
+      "start_char": 222,
+      "end_char": 224,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "dangerous",
+      "start_char": 225,
+      "end_char": 234,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "situation",
+      "start_char": 235,
+      "end_char": 244,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "and",
+      "start_char": 245,
+      "end_char": 248,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "determine",
+      "start_char": 249,
+      "end_char": 258,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "the",
+      "start_char": 259,
+      "end_char": 262,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "content",
+      "start_char": 263,
+      "end_char": 270,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "before",
+      "start_char": 271,
+      "end_char": 277,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "initiating",
+      "start_char": 278,
+      "end_char": 288,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "an",
+      "start_char": 289,
+      "end_char": 291,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "emergency",
+      "start_char": 292,
+      "end_char": 301,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "notification",
+      "start_char": 302,
+      "end_char": 314,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 30,
+      "text": ".",
+      "start_char": 314,
+      "end_char": 315,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Notification",
+      "start_char": 316,
+      "end_char": 328,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "may",
+      "start_char": 329,
+      "end_char": 332,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "not",
+      "start_char": 333,
+      "end_char": 336,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "be",
+      "start_char": 337,
+      "end_char": 339,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "made",
+      "start_char": 340,
+      "end_char": 344,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "if",
+      "start_char": 345,
+      "end_char": 347,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "it",
+      "start_char": 348,
+      "end_char": 350,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "would",
+      "start_char": 351,
+      "end_char": 356,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "compromise",
+      "start_char": 357,
+      "end_char": 367,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "or",
+      "start_char": 368,
+      "end_char": 370,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "impede",
+      "start_char": 371,
+      "end_char": 377,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "efforts",
+      "start_char": 378,
+      "end_char": 385,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "to",
+      "start_char": 386,
+      "end_char": 388,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "assist",
+      "start_char": 389,
+      "end_char": 395,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "victim(s",
+      "start_char": 396,
+      "end_char": 404,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": ")",
+      "start_char": 404,
+      "end_char": 405,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": ",",
+      "start_char": 405,
+      "end_char": 406,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "or",
+      "start_char": 407,
+      "end_char": 409,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "contain",
+      "start_char": 410,
+      "end_char": 417,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": ",",
+      "start_char": 417,
+      "end_char": 418,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "respond",
+      "start_char": 419,
+      "end_char": 426,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "to",
+      "start_char": 427,
+      "end_char": 429,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": ",",
+      "start_char": 429,
+      "end_char": 430,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "or",
+      "start_char": 431,
+      "end_char": 433,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "mitigate",
+      "start_char": 434,
+      "end_char": 442,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "the",
+      "start_char": 443,
+      "end_char": 446,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "emergency",
+      "start_char": 447,
+      "end_char": 456,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": ".",
+      "start_char": 456,
+      "end_char": 457,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Activation",
+      "start_char": 1,
+      "end_char": 11,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Authority",
+      "start_char": 12,
+      "end_char": 21,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "It",
+      "start_char": 1,
+      "end_char": 3,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "is",
+      "start_char": 4,
+      "end_char": 6,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "the",
+      "start_char": 7,
+      "end_char": 10,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "responsibility",
+      "start_char": 11,
+      "end_char": 25,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "of",
+      "start_char": 26,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "the",
+      "start_char": 29,
+      "end_char": 32,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "following",
+      "start_char": 33,
+      "end_char": 42,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "authorized",
+      "start_char": 43,
+      "end_char": 53,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "persons",
+      "start_char": 54,
+      "end_char": 61,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "to",
+      "start_char": 62,
+      "end_char": 64,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "confirm",
+      "start_char": 65,
+      "end_char": 72,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "an",
+      "start_char": 73,
+      "end_char": 75,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "emergency",
+      "start_char": 76,
+      "end_char": 85,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": ",",
+      "start_char": 85,
+      "end_char": 86,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "determine",
+      "start_char": 87,
+      "end_char": 96,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "the",
+      "start_char": 97,
+      "end_char": 100,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "appropriate",
+      "start_char": 101,
+      "end_char": 112,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "segment",
+      "start_char": 113,
+      "end_char": 120,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "(s",
+      "start_char": 120,
+      "end_char": 122,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": ")",
+      "start_char": 122,
+      "end_char": 123,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "of",
+      "start_char": 124,
+      "end_char": 126,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "the",
+      "start_char": 127,
+      "end_char": 130,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "campus",
+      "start_char": 131,
+      "end_char": 137,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "community",
+      "start_char": 138,
+      "end_char": 147,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "to",
+      "start_char": 148,
+      "end_char": 150,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "receive",
+      "start_char": 151,
+      "end_char": 158,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "a",
+      "start_char": 159,
+      "end_char": 160,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "notification",
+      "start_char": 161,
+      "end_char": 173,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": ",",
+      "start_char": 173,
+      "end_char": 174,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "determine",
+      "start_char": 175,
+      "end_char": 184,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 31,
+      "text": "the",
+      "start_char": 185,
+      "end_char": 188,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 32,
+      "text": "content",
+      "start_char": 189,
+      "end_char": 196,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "of",
+      "start_char": 197,
+      "end_char": 199,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 34,
+      "text": "the",
+      "start_char": 200,
+      "end_char": 203,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 35,
+      "text": "message",
+      "start_char": 204,
+      "end_char": 211,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 36,
+      "text": ",",
+      "start_char": 211,
+      "end_char": 212,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 37,
+      "text": "and",
+      "start_char": 213,
+      "end_char": 216,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 38,
+      "text": "initiate",
+      "start_char": 217,
+      "end_char": 225,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 39,
+      "text": "the",
+      "start_char": 226,
+      "end_char": 229,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 40,
+      "text": "selected",
+      "start_char": 230,
+      "end_char": 238,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 41,
+      "text": "communication",
+      "start_char": 239,
+      "end_char": 252,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 42,
+      "text": "media",
+      "start_char": 253,
+      "end_char": 258,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 43,
+      "text": "within",
+      "start_char": 259,
+      "end_char": 265,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 44,
+      "text": "the",
+      "start_char": 266,
+      "end_char": 269,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 45,
+      "text": "Carolina",
+      "start_char": 270,
+      "end_char": 278,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 46,
+      "text": "Alert",
+      "start_char": 279,
+      "end_char": 284,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 47,
+      "text": "emergency",
+      "start_char": 285,
+      "end_char": 294,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 48,
+      "text": "notification",
+      "start_char": 295,
+      "end_char": 307,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 49,
+      "text": "system",
+      "start_char": 308,
+      "end_char": 314,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 50,
+      "text": ":",
+      "start_char": 314,
+      "end_char": 315,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "University",
+      "start_char": 5,
+      "end_char": 15,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "’s",
+      "start_char": 15,
+      "end_char": 17,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Division",
+      "start_char": 18,
+      "end_char": 26,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "of",
+      "start_char": 27,
+      "end_char": 29,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Law",
+      "start_char": 30,
+      "end_char": 33,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Enforcement",
+      "start_char": 34,
+      "end_char": 45,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "and",
+      "start_char": 46,
+      "end_char": 49,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Safety",
+      "start_char": 50,
+      "end_char": 56,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "On",
+      "start_char": 57,
+      "end_char": 59,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "-",
+      "start_char": 59,
+      "end_char": 60,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Duty",
+      "start_char": 60,
+      "end_char": 64,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Supervisor",
+      "start_char": 65,
+      "end_char": 75,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": ";",
+      "start_char": 75,
+      "end_char": 76,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "University",
+      "start_char": 5,
+      "end_char": 15,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "’s",
+      "start_char": 15,
+      "end_char": 17,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Division",
+      "start_char": 18,
+      "end_char": 26,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "of",
+      "start_char": 27,
+      "end_char": 29,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Law",
+      "start_char": 30,
+      "end_char": 33,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Enforcement",
+      "start_char": 34,
+      "end_char": 45,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "and",
+      "start_char": 46,
+      "end_char": 49,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Safety",
+      "start_char": 50,
+      "end_char": 56,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "(",
+      "start_char": 57,
+      "end_char": 58,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "DLES",
+      "start_char": 58,
+      "end_char": 62,
+      "ner": "S-ORG",
+      "multi_ner": [
+        "S-ORG"
+      ]
+    },
+    {
+      "id": 12,
+      "text": ")",
+      "start_char": 62,
+      "end_char": 63,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "Emergency",
+      "start_char": 64,
+      "end_char": 73,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Management",
+      "start_char": 74,
+      "end_char": 84,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "Coordinator",
+      "start_char": 85,
+      "end_char": 96,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 16,
+      "text": ";",
+      "start_char": 96,
+      "end_char": 97,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "DLES",
+      "start_char": 5,
+      "end_char": 9,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Officer",
+      "start_char": 10,
+      "end_char": 17,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "with",
+      "start_char": 18,
+      "end_char": 22,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "the",
+      "start_char": 23,
+      "end_char": 26,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "rank",
+      "start_char": 27,
+      "end_char": 31,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "of",
+      "start_char": 32,
+      "end_char": 34,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Lieutenant",
+      "start_char": 35,
+      "end_char": 45,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "or",
+      "start_char": 46,
+      "end_char": 48,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "above",
+      "start_char": 49,
+      "end_char": 54,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": ";",
+      "start_char": 54,
+      "end_char": 55,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "DLES",
+      "start_char": 5,
+      "end_char": 9,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Deputy",
+      "start_char": 10,
+      "end_char": 16,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Chief",
+      "start_char": 17,
+      "end_char": 22,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ";",
+      "start_char": 22,
+      "end_char": 23,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "DLES",
+      "start_char": 5,
+      "end_char": 9,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Associate",
+      "start_char": 10,
+      "end_char": 19,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Vice",
+      "start_char": 20,
+      "end_char": 24,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "President",
+      "start_char": 25,
+      "end_char": 34,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "/",
+      "start_char": 34,
+      "end_char": 35,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Chief",
+      "start_char": 35,
+      "end_char": 40,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "of",
+      "start_char": 41,
+      "end_char": 43,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Police",
+      "start_char": 44,
+      "end_char": 50,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": ";",
+      "start_char": 50,
+      "end_char": 51,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "and",
+      "start_char": 52,
+      "end_char": 55,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Chairperson",
+      "start_char": 5,
+      "end_char": 16,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": ",",
+      "start_char": 16,
+      "end_char": 17,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "University",
+      "start_char": 18,
+      "end_char": 28,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "’s",
+      "start_char": 28,
+      "end_char": 30,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Executive",
+      "start_char": 31,
+      "end_char": 40,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Policy",
+      "start_char": 41,
+      "end_char": 47,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Group",
+      "start_char": 48,
+      "end_char": 53,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 9,
+      "text": ".",
+      "start_char": 53,
+      "end_char": 54,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "When",
+      "start_char": 1,
+      "end_char": 5,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "it",
+      "start_char": 6,
+      "end_char": 8,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "is",
+      "start_char": 9,
+      "end_char": 11,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "appropriate",
+      "start_char": 12,
+      "end_char": 23,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ",",
+      "start_char": 23,
+      "end_char": 24,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "the",
+      "start_char": 25,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "authorized",
+      "start_char": 29,
+      "end_char": 39,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "individuals",
+      "start_char": 40,
+      "end_char": 51,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "(",
+      "start_char": 52,
+      "end_char": 53,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "or",
+      "start_char": 53,
+      "end_char": 55,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "their",
+      "start_char": 56,
+      "end_char": 61,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "designees",
+      "start_char": 62,
+      "end_char": 71,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": ")",
+      "start_char": 71,
+      "end_char": 72,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "will",
+      "start_char": 73,
+      "end_char": 77,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "consult",
+      "start_char": 78,
+      "end_char": 85,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "the",
+      "start_char": 86,
+      "end_char": 89,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "next",
+      "start_char": 90,
+      "end_char": 94,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "person",
+      "start_char": 95,
+      "end_char": 101,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "in",
+      "start_char": 102,
+      "end_char": 104,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "the",
+      "start_char": 105,
+      "end_char": 108,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "chain",
+      "start_char": 109,
+      "end_char": 114,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "of",
+      "start_char": 115,
+      "end_char": 117,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "communication",
+      "start_char": 118,
+      "end_char": 131,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "before",
+      "start_char": 132,
+      "end_char": 138,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "sending",
+      "start_char": 139,
+      "end_char": 146,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "an",
+      "start_char": 147,
+      "end_char": 149,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "emergency",
+      "start_char": 150,
+      "end_char": 159,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "message",
+      "start_char": 160,
+      "end_char": 167,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": ".",
+      "start_char": 167,
+      "end_char": 168,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "However",
+      "start_char": 169,
+      "end_char": 176,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": ",",
+      "start_char": 176,
+      "end_char": 177,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "if",
+      "start_char": 178,
+      "end_char": 180,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "the",
+      "start_char": 181,
+      "end_char": 184,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "next",
+      "start_char": 185,
+      "end_char": 189,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "person",
+      "start_char": 190,
+      "end_char": 196,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "is",
+      "start_char": 197,
+      "end_char": 199,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "unavailable",
+      "start_char": 200,
+      "end_char": 211,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": ",",
+      "start_char": 211,
+      "end_char": 212,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "or",
+      "start_char": 213,
+      "end_char": 215,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "if",
+      "start_char": 216,
+      "end_char": 218,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "time",
+      "start_char": 219,
+      "end_char": 223,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "does",
+      "start_char": 224,
+      "end_char": 228,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "not",
+      "start_char": 229,
+      "end_char": 232,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "allow",
+      "start_char": 233,
+      "end_char": 238,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "for",
+      "start_char": 239,
+      "end_char": 242,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "a",
+      "start_char": 243,
+      "end_char": 244,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "delayed",
+      "start_char": 245,
+      "end_char": 252,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "warning",
+      "start_char": 253,
+      "end_char": 260,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": ",",
+      "start_char": 260,
+      "end_char": 261,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "approval",
+      "start_char": 262,
+      "end_char": 270,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "is",
+      "start_char": 271,
+      "end_char": 273,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "not",
+      "start_char": 274,
+      "end_char": 277,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "necessary",
+      "start_char": 278,
+      "end_char": 287,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": ".",
+      "start_char": 287,
+      "end_char": 288,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Confirmation",
+      "start_char": 1,
+      "end_char": 13,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "of",
+      "start_char": 14,
+      "end_char": 16,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "an",
+      "start_char": 17,
+      "end_char": 19,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Emergency",
+      "start_char": 20,
+      "end_char": 29,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "If",
+      "start_char": 1,
+      "end_char": 3,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "the",
+      "start_char": 4,
+      "end_char": 7,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "person",
+      "start_char": 8,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "(s",
+      "start_char": 14,
+      "end_char": 16,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ")",
+      "start_char": 16,
+      "end_char": 17,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "authorized",
+      "start_char": 18,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "to",
+      "start_char": 29,
+      "end_char": 31,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "send",
+      "start_char": 32,
+      "end_char": 36,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "a",
+      "start_char": 37,
+      "end_char": 38,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "message",
+      "start_char": 39,
+      "end_char": 46,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "has",
+      "start_char": 47,
+      "end_char": 50,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "not",
+      "start_char": 51,
+      "end_char": 54,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "confirmed",
+      "start_char": 55,
+      "end_char": 64,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "the",
+      "start_char": 65,
+      "end_char": 68,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "emergency",
+      "start_char": 69,
+      "end_char": 78,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "first",
+      "start_char": 79,
+      "end_char": 84,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "-",
+      "start_char": 84,
+      "end_char": 85,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "hand",
+      "start_char": 85,
+      "end_char": 89,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": ",",
+      "start_char": 89,
+      "end_char": 90,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "they",
+      "start_char": 91,
+      "end_char": 95,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "will",
+      "start_char": 96,
+      "end_char": 100,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "contact",
+      "start_char": 101,
+      "end_char": 108,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "the",
+      "start_char": 109,
+      "end_char": 112,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "DLES",
+      "start_char": 113,
+      "end_char": 117,
+      "ner": "S-ORG",
+      "multi_ner": [
+        "S-ORG"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "on",
+      "start_char": 118,
+      "end_char": 120,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "-",
+      "start_char": 120,
+      "end_char": 121,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "duty",
+      "start_char": 121,
+      "end_char": 125,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "shift",
+      "start_char": 126,
+      "end_char": 131,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "supervisortoreceiveanupdate",
+      "start_char": 132,
+      "end_char": 159,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 30,
+      "text": ".",
+      "start_char": 159,
+      "end_char": 160,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Theymayalsochoosetocontactsurroundinglawenforcementagenciesandemergencyresponseagencies",
+      "start_char": 160,
+      "end_char": 247,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "for",
+      "start_char": 248,
+      "end_char": 251,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "more",
+      "start_char": 252,
+      "end_char": 256,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "information",
+      "start_char": 257,
+      "end_char": 268,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ".",
+      "start_char": 268,
+      "end_char": 269,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Determining",
+      "start_char": 1,
+      "end_char": 12,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Where",
+      "start_char": 13,
+      "end_char": 18,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "on",
+      "start_char": 19,
+      "end_char": 21,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Campus",
+      "start_char": 22,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "to",
+      "start_char": 29,
+      "end_char": 31,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Send",
+      "start_char": 32,
+      "end_char": 36,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "Notifications",
+      "start_char": 37,
+      "end_char": 50,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Those",
+      "start_char": 1,
+      "end_char": 6,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "authorized",
+      "start_char": 7,
+      "end_char": 17,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "to",
+      "start_char": 18,
+      "end_char": 20,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "send",
+      "start_char": 21,
+      "end_char": 25,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "a",
+      "start_char": 26,
+      "end_char": 27,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "message",
+      "start_char": 28,
+      "end_char": 35,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "will",
+      "start_char": 36,
+      "end_char": 40,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "also",
+      "start_char": 41,
+      "end_char": 45,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "determine",
+      "start_char": 46,
+      "end_char": 55,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "which",
+      "start_char": 56,
+      "end_char": 61,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "segment",
+      "start_char": 62,
+      "end_char": 69,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "(s",
+      "start_char": 69,
+      "end_char": 71,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": ")",
+      "start_char": 71,
+      "end_char": 72,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "of",
+      "start_char": 73,
+      "end_char": 75,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "campus",
+      "start_char": 76,
+      "end_char": 82,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "will",
+      "start_char": 83,
+      "end_char": 87,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "be",
+      "start_char": 88,
+      "end_char": 90,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "notified",
+      "start_char": 91,
+      "end_char": 99,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": ".",
+      "start_char": 99,
+      "end_char": 100,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "The",
+      "start_char": 1,
+      "end_char": 4,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "entire",
+      "start_char": 5,
+      "end_char": 11,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "campus",
+      "start_char": 12,
+      "end_char": 18,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "community",
+      "start_char": 19,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "may",
+      "start_char": 29,
+      "end_char": 32,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "be",
+      "start_char": 33,
+      "end_char": 35,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "notified",
+      "start_char": 36,
+      "end_char": 44,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "if",
+      "start_char": 45,
+      "end_char": 47,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "there",
+      "start_char": 48,
+      "end_char": 53,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "is",
+      "start_char": 54,
+      "end_char": 56,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "the",
+      "start_char": 57,
+      "end_char": 60,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "potential",
+      "start_char": 61,
+      "end_char": 70,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "for",
+      "start_char": 71,
+      "end_char": 74,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "a",
+      "start_char": 75,
+      "end_char": 76,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "very",
+      "start_char": 77,
+      "end_char": 81,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "large",
+      "start_char": 82,
+      "end_char": 87,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "segment",
+      "start_char": 88,
+      "end_char": 95,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "of",
+      "start_char": 96,
+      "end_char": 98,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "the",
+      "start_char": 99,
+      "end_char": 102,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "community",
+      "start_char": 103,
+      "end_char": 112,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "to",
+      "start_char": 113,
+      "end_char": 115,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "be",
+      "start_char": 116,
+      "end_char": 118,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "affected",
+      "start_char": 119,
+      "end_char": 127,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "by",
+      "start_char": 128,
+      "end_char": 130,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "the",
+      "start_char": 131,
+      "end_char": 134,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "situation",
+      "start_char": 135,
+      "end_char": 144,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": ",",
+      "start_char": 144,
+      "end_char": 145,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "or",
+      "start_char": 146,
+      "end_char": 148,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "when",
+      "start_char": 149,
+      "end_char": 153,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "the",
+      "start_char": 154,
+      "end_char": 157,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 31,
+      "text": "situation",
+      "start_char": 158,
+      "end_char": 167,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 32,
+      "text": "threatens",
+      "start_char": 168,
+      "end_char": 177,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "the",
+      "start_char": 178,
+      "end_char": 181,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 34,
+      "text": "operation",
+      "start_char": 182,
+      "end_char": 191,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 35,
+      "text": "of",
+      "start_char": 192,
+      "end_char": 194,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 36,
+      "text": "the",
+      "start_char": 195,
+      "end_char": 198,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 37,
+      "text": "entire",
+      "start_char": 199,
+      "end_char": 205,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 38,
+      "text": "campus",
+      "start_char": 206,
+      "end_char": 212,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 39,
+      "text": ".",
+      "start_char": 212,
+      "end_char": 213,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "If",
+      "start_char": 1,
+      "end_char": 3,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "emergency",
+      "start_char": 4,
+      "end_char": 13,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "conditions",
+      "start_char": 14,
+      "end_char": 24,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "are",
+      "start_char": 25,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "isolated",
+      "start_char": 29,
+      "end_char": 37,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "to",
+      "start_char": 38,
+      "end_char": 40,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "a",
+      "start_char": 41,
+      "end_char": 42,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "specific",
+      "start_char": 43,
+      "end_char": 51,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "part",
+      "start_char": 52,
+      "end_char": 56,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "of",
+      "start_char": 57,
+      "end_char": 59,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "campus",
+      "start_char": 60,
+      "end_char": 66,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": ",",
+      "start_char": 66,
+      "end_char": 67,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "notifications",
+      "start_char": 68,
+      "end_char": 81,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "may",
+      "start_char": 82,
+      "end_char": 85,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "be",
+      "start_char": 86,
+      "end_char": 88,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "made",
+      "start_char": 89,
+      "end_char": 93,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "to",
+      "start_char": 94,
+      "end_char": 96,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "that",
+      "start_char": 97,
+      "end_char": 101,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "specific",
+      "start_char": 102,
+      "end_char": 110,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "area",
+      "start_char": 111,
+      "end_char": 115,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "instead",
+      "start_char": 116,
+      "end_char": 123,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "of",
+      "start_char": 124,
+      "end_char": 126,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "notifying",
+      "start_char": 127,
+      "end_char": 136,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "the",
+      "start_char": 137,
+      "end_char": 140,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "entire",
+      "start_char": 141,
+      "end_char": 147,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "campus",
+      "start_char": 148,
+      "end_char": 154,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": ".",
+      "start_char": 154,
+      "end_char": 155,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "As",
+      "start_char": 156,
+      "end_char": 158,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "the",
+      "start_char": 159,
+      "end_char": 162,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "incident",
+      "start_char": 163,
+      "end_char": 171,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "progresses",
+      "start_char": 172,
+      "end_char": 182,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ",",
+      "start_char": 182,
+      "end_char": 183,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "personnel",
+      "start_char": 184,
+      "end_char": 193,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "will",
+      "start_char": 194,
+      "end_char": 198,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "monitor",
+      "start_char": 199,
+      "end_char": 206,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "the",
+      "start_char": 207,
+      "end_char": 210,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "situation",
+      "start_char": 211,
+      "end_char": 220,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "and",
+      "start_char": 221,
+      "end_char": 224,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "notify",
+      "start_char": 225,
+      "end_char": 231,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "additional",
+      "start_char": 232,
+      "end_char": 242,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "areas",
+      "start_char": 243,
+      "end_char": 248,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "of",
+      "start_char": 249,
+      "end_char": 251,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "the",
+      "start_char": 252,
+      "end_char": 255,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "campus",
+      "start_char": 256,
+      "end_char": 262,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "if",
+      "start_char": 263,
+      "end_char": 265,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "needed",
+      "start_char": 266,
+      "end_char": 272,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": ".",
+      "start_char": 272,
+      "end_char": 273,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Communication",
+      "start_char": 1,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Media",
+      "start_char": 15,
+      "end_char": 20,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "The",
+      "start_char": 1,
+      "end_char": 4,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "following",
+      "start_char": 5,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "is",
+      "start_char": 15,
+      "end_char": 17,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "a",
+      "start_char": 18,
+      "end_char": 19,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "list",
+      "start_char": 20,
+      "end_char": 24,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "of",
+      "start_char": 25,
+      "end_char": 27,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "communication",
+      "start_char": 28,
+      "end_char": 41,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "media",
+      "start_char": 42,
+      "end_char": 47,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "the",
+      "start_char": 48,
+      "end_char": 51,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "University",
+      "start_char": 52,
+      "end_char": 62,
+      "ner": "S-ORG",
+      "multi_ner": [
+        "S-ORG"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "may",
+      "start_char": 63,
+      "end_char": 66,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "use",
+      "start_char": 67,
+      "end_char": 70,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "to",
+      "start_char": 71,
+      "end_char": 73,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "send",
+      "start_char": 74,
+      "end_char": 78,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "an",
+      "start_char": 79,
+      "end_char": 81,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "emergency",
+      "start_char": 82,
+      "end_char": 91,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "notification",
+      "start_char": 92,
+      "end_char": 104,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": ":",
+      "start_char": 104,
+      "end_char": 105,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Carolina",
+      "start_char": 5,
+      "end_char": 13,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Alert",
+      "start_char": 14,
+      "end_char": 19,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Website",
+      "start_char": 20,
+      "end_char": 27,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ":",
+      "start_char": 27,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "visit",
+      "start_char": 29,
+      "end_char": 34,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "www.sc.edu/CarolinaAlert;",
+      "start_char": 35,
+      "end_char": 60,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Facebook",
+      "start_char": 5,
+      "end_char": 13,
+      "ner": "S-ORG",
+      "multi_ner": [
+        "S-ORG"
+      ]
+    },
+    {
+      "id": 3,
+      "text": ";",
+      "start_char": 13,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Twitter",
+      "start_char": 5,
+      "end_char": 12,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": ";",
+      "start_char": 12,
+      "end_char": 13,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "University",
+      "start_char": 5,
+      "end_char": 15,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Website",
+      "start_char": 16,
+      "end_char": 23,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "www.sc.edu;",
+      "start_char": 24,
+      "end_char": 35,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Outdoor",
+      "start_char": 5,
+      "end_char": 12,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Warning",
+      "start_char": 13,
+      "end_char": 20,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Sirens",
+      "start_char": 21,
+      "end_char": 27,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ";",
+      "start_char": 27,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Tone",
+      "start_char": 5,
+      "end_char": 9,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Alert",
+      "start_char": 10,
+      "end_char": 15,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Radios",
+      "start_char": 16,
+      "end_char": 22,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ";",
+      "start_char": 22,
+      "end_char": 23,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Voice",
+      "start_char": 5,
+      "end_char": 10,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Over",
+      "start_char": 11,
+      "end_char": 15,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Fire",
+      "start_char": 16,
+      "end_char": 20,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Alarms",
+      "start_char": 21,
+      "end_char": 27,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": ";",
+      "start_char": 27,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Digital",
+      "start_char": 5,
+      "end_char": 12,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Signage",
+      "start_char": 13,
+      "end_char": 20,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": ";",
+      "start_char": 20,
+      "end_char": 21,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Alert",
+      "start_char": 5,
+      "end_char": 10,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "FM",
+      "start_char": 11,
+      "end_char": 13,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": ";",
+      "start_char": 13,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Text",
+      "start_char": 5,
+      "end_char": 9,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Alerts",
+      "start_char": 10,
+      "end_char": 16,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": ";",
+      "start_char": 16,
+      "end_char": 17,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "E-mail",
+      "start_char": 5,
+      "end_char": 11,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": ";",
+      "start_char": 11,
+      "end_char": 12,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Emergency",
+      "start_char": 5,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Information",
+      "start_char": 15,
+      "end_char": 26,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Line",
+      "start_char": 27,
+      "end_char": 31,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ";",
+      "start_char": 31,
+      "end_char": 32,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "90.5",
+      "start_char": 5,
+      "end_char": 9,
+      "ner": "S-CARDINAL",
+      "multi_ner": [
+        "S-CARDINAL"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "WUSC",
+      "start_char": 10,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Radio",
+      "start_char": 15,
+      "end_char": 20,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ";",
+      "start_char": 20,
+      "end_char": 21,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Blackboard",
+      "start_char": 5,
+      "end_char": 15,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Announcement",
+      "start_char": 16,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": ";",
+      "start_char": 28,
+      "end_char": 29,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Fire",
+      "start_char": 5,
+      "end_char": 9,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Alarm",
+      "start_char": 10,
+      "end_char": 15,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": ";",
+      "start_char": 15,
+      "end_char": 16,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Vehicle",
+      "start_char": 5,
+      "end_char": 12,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Public",
+      "start_char": 13,
+      "end_char": 19,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Address",
+      "start_char": 20,
+      "end_char": 27,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Speakers",
+      "start_char": 28,
+      "end_char": 36,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": ";",
+      "start_char": 36,
+      "end_char": 37,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Bullhorns",
+      "start_char": 5,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": ";",
+      "start_char": 14,
+      "end_char": 15,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "and",
+      "start_char": 16,
+      "end_char": 19,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "/",
+      "start_char": 19,
+      "end_char": 20,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "or",
+      "start_char": 20,
+      "end_char": 22,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "•",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Media",
+      "start_char": 5,
+      "end_char": 10,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Advisory",
+      "start_char": 11,
+      "end_char": 19,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 4,
+      "text": ".",
+      "start_char": 19,
+      "end_char": 20,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Not",
+      "start_char": 1,
+      "end_char": 4,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "all",
+      "start_char": 5,
+      "end_char": 8,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "media",
+      "start_char": 9,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "will",
+      "start_char": 15,
+      "end_char": 19,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "be",
+      "start_char": 20,
+      "end_char": 22,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "used",
+      "start_char": 23,
+      "end_char": 27,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "for",
+      "start_char": 28,
+      "end_char": 31,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "every",
+      "start_char": 32,
+      "end_char": 37,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "notification",
+      "start_char": 38,
+      "end_char": 50,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": ".",
+      "start_char": 50,
+      "end_char": 51,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "Every",
+      "start_char": 52,
+      "end_char": 57,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "incident",
+      "start_char": 58,
+      "end_char": 66,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "is",
+      "start_char": 67,
+      "end_char": 69,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "unique",
+      "start_char": 70,
+      "end_char": 76,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ",",
+      "start_char": 76,
+      "end_char": 77,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "and",
+      "start_char": 78,
+      "end_char": 81,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "authorized",
+      "start_char": 82,
+      "end_char": 92,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "personnel",
+      "start_char": 93,
+      "end_char": 102,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "will",
+      "start_char": 103,
+      "end_char": 107,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "use",
+      "start_char": 108,
+      "end_char": 111,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "communication",
+      "start_char": 112,
+      "end_char": 125,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "methods",
+      "start_char": 126,
+      "end_char": 133,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "based",
+      "start_char": 134,
+      "end_char": 139,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "on",
+      "start_char": 140,
+      "end_char": 142,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "their",
+      "start_char": 143,
+      "end_char": 148,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "reach",
+      "start_char": 149,
+      "end_char": 154,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": ",",
+      "start_char": 154,
+      "end_char": 155,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "effectiveness",
+      "start_char": 156,
+      "end_char": 169,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "and",
+      "start_char": 170,
+      "end_char": 173,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "location",
+      "start_char": 174,
+      "end_char": 182,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": ".",
+      "start_char": 182,
+      "end_char": 183,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "The",
+      "start_char": 1,
+      "end_char": 4,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "following",
+      "start_char": 5,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "guidelines",
+      "start_char": 15,
+      "end_char": 25,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "are",
+      "start_char": 26,
+      "end_char": 29,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "used",
+      "start_char": 30,
+      "end_char": 34,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "to",
+      "start_char": 35,
+      "end_char": 37,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "assist",
+      "start_char": 38,
+      "end_char": 44,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "authorized",
+      "start_char": 45,
+      "end_char": 55,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "personnel",
+      "start_char": 56,
+      "end_char": 65,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "with",
+      "start_char": 66,
+      "end_char": 70,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "selecting",
+      "start_char": 71,
+      "end_char": 80,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "communication",
+      "start_char": 81,
+      "end_char": 94,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "media",
+      "start_char": 95,
+      "end_char": 100,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": ",",
+      "start_char": 100,
+      "end_char": 101,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "and",
+      "start_char": 102,
+      "end_char": 105,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "to",
+      "start_char": 106,
+      "end_char": 108,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "provide",
+      "start_char": 109,
+      "end_char": 116,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "the",
+      "start_char": 117,
+      "end_char": 120,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "community",
+      "start_char": 121,
+      "end_char": 130,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "an",
+      "start_char": 131,
+      "end_char": 133,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "understanding",
+      "start_char": 134,
+      "end_char": 147,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "as",
+      "start_char": 148,
+      "end_char": 150,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "to",
+      "start_char": 151,
+      "end_char": 153,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "which",
+      "start_char": 154,
+      "end_char": 159,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "forms",
+      "start_char": 160,
+      "end_char": 165,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "of",
+      "start_char": 166,
+      "end_char": 168,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "communication",
+      "start_char": 169,
+      "end_char": 182,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "may",
+      "start_char": 183,
+      "end_char": 186,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "be",
+      "start_char": 187,
+      "end_char": 189,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "used",
+      "start_char": 190,
+      "end_char": 194,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 31,
+      "text": "in",
+      "start_char": 195,
+      "end_char": 197,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 32,
+      "text": "different",
+      "start_char": 198,
+      "end_char": 207,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "scenarios",
+      "start_char": 208,
+      "end_char": 217,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 34,
+      "text": ".",
+      "start_char": 217,
+      "end_char": 218,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Requires",
+      "start_char": 1,
+      "end_char": 9,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Action",
+      "start_char": 10,
+      "end_char": 16,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 16,
+      "end_char": 17,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "If",
+      "start_char": 18,
+      "end_char": 20,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "a",
+      "start_char": 21,
+      "end_char": 22,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "situation",
+      "start_char": 23,
+      "end_char": 32,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "exists",
+      "start_char": 33,
+      "end_char": 39,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "that",
+      "start_char": 40,
+      "end_char": 44,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "poses",
+      "start_char": 45,
+      "end_char": 50,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "an",
+      "start_char": 51,
+      "end_char": 53,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "immediate",
+      "start_char": 54,
+      "end_char": 63,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "safety",
+      "start_char": 64,
+      "end_char": 70,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "risk",
+      "start_char": 71,
+      "end_char": 75,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "and",
+      "start_char": 76,
+      "end_char": 79,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "requires",
+      "start_char": 80,
+      "end_char": 88,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "persons",
+      "start_char": 89,
+      "end_char": 96,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "to",
+      "start_char": 97,
+      "end_char": 99,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "change",
+      "start_char": 100,
+      "end_char": 106,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "their",
+      "start_char": 107,
+      "end_char": 112,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "behavior",
+      "start_char": 113,
+      "end_char": 121,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "(",
+      "start_char": 122,
+      "end_char": 123,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "e.g.",
+      "start_char": 123,
+      "end_char": 127,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "seek",
+      "start_char": 128,
+      "end_char": 132,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "shelter",
+      "start_char": 133,
+      "end_char": 140,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": ",",
+      "start_char": 140,
+      "end_char": 141,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "evacuate",
+      "start_char": 142,
+      "end_char": 150,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": ")",
+      "start_char": 150,
+      "end_char": 151,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": ",",
+      "start_char": 151,
+      "end_char": 152,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "information",
+      "start_char": 153,
+      "end_char": 164,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "may",
+      "start_char": 165,
+      "end_char": 168,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "be",
+      "start_char": 169,
+      "end_char": 171,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "pushed",
+      "start_char": 172,
+      "end_char": 178,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "using",
+      "start_char": 179,
+      "end_char": 184,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 31,
+      "text": "disruptive",
+      "start_char": 185,
+      "end_char": 195,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 32,
+      "text": "media",
+      "start_char": 196,
+      "end_char": 201,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "(",
+      "start_char": 202,
+      "end_char": 203,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 34,
+      "text": "e.g.",
+      "start_char": 203,
+      "end_char": 207,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 35,
+      "text": "sirens",
+      "start_char": 208,
+      "end_char": 214,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 36,
+      "text": ",",
+      "start_char": 214,
+      "end_char": 215,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Alert",
+      "start_char": 216,
+      "end_char": 221,
+      "ner": "B-PRODUCT",
+      "multi_ner": [
+        "B-PRODUCT"
+      ]
+    },
+    {
+      "id": 38,
+      "text": "FM",
+      "start_char": 222,
+      "end_char": 224,
+      "ner": "E-PRODUCT",
+      "multi_ner": [
+        "E-PRODUCT"
+      ]
+    },
+    {
+      "id": 39,
+      "text": ",",
+      "start_char": 224,
+      "end_char": 225,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 40,
+      "text": "text",
+      "start_char": 226,
+      "end_char": 230,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 41,
+      "text": "messages",
+      "start_char": 231,
+      "end_char": 239,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 42,
+      "text": ",",
+      "start_char": 239,
+      "end_char": 240,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 43,
+      "text": "TV",
+      "start_char": 241,
+      "end_char": 243,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 44,
+      "text": "message",
+      "start_char": 244,
+      "end_char": 251,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 45,
+      "text": "crawler",
+      "start_char": 252,
+      "end_char": 259,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 46,
+      "text": ")",
+      "start_char": 259,
+      "end_char": 260,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 47,
+      "text": ".",
+      "start_char": 260,
+      "end_char": 261,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Public",
+      "start_char": 1,
+      "end_char": 7,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Notification",
+      "start_char": 8,
+      "end_char": 20,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 20,
+      "end_char": 21,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "If",
+      "start_char": 22,
+      "end_char": 24,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "a",
+      "start_char": 25,
+      "end_char": 26,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "situation",
+      "start_char": 27,
+      "end_char": 36,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "exists",
+      "start_char": 37,
+      "end_char": 43,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "where",
+      "start_char": 44,
+      "end_char": 49,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "persons",
+      "start_char": 50,
+      "end_char": 57,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "should",
+      "start_char": 58,
+      "end_char": 64,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "be",
+      "start_char": 65,
+      "end_char": 67,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "notified",
+      "start_char": 68,
+      "end_char": 76,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "about",
+      "start_char": 77,
+      "end_char": 82,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "an",
+      "start_char": 83,
+      "end_char": 85,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "incident",
+      "start_char": 86,
+      "end_char": 94,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "that",
+      "start_char": 95,
+      "end_char": 99,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "is",
+      "start_char": 100,
+      "end_char": 102,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "not",
+      "start_char": 103,
+      "end_char": 106,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "immediately",
+      "start_char": 107,
+      "end_char": 118,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "life",
+      "start_char": 119,
+      "end_char": 123,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "threatening",
+      "start_char": 124,
+      "end_char": 135,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "(",
+      "start_char": 136,
+      "end_char": 137,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "e.g.",
+      "start_char": 137,
+      "end_char": 141,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "crime",
+      "start_char": 142,
+      "end_char": 147,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "alerts",
+      "start_char": 148,
+      "end_char": 154,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": ",",
+      "start_char": 154,
+      "end_char": 155,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "situations",
+      "start_char": 156,
+      "end_char": 166,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "that",
+      "start_char": 167,
+      "end_char": 171,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "have",
+      "start_char": 172,
+      "end_char": 176,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "already",
+      "start_char": 177,
+      "end_char": 184,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "been",
+      "start_char": 185,
+      "end_char": 189,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "contained",
+      "start_char": 190,
+      "end_char": 199,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 30,
+      "text": ")",
+      "start_char": 199,
+      "end_char": 200,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 31,
+      "text": ",",
+      "start_char": 200,
+      "end_char": 201,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 32,
+      "text": "media",
+      "start_char": 202,
+      "end_char": 207,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "such",
+      "start_char": 208,
+      "end_char": 212,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 34,
+      "text": "as",
+      "start_char": 213,
+      "end_char": 215,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 35,
+      "text": "the",
+      "start_char": 216,
+      "end_char": 219,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Carolina",
+      "start_char": 220,
+      "end_char": 228,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Alert",
+      "start_char": 229,
+      "end_char": 234,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 38,
+      "text": "website",
+      "start_char": 235,
+      "end_char": 242,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 39,
+      "text": ",",
+      "start_char": 242,
+      "end_char": 243,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 40,
+      "text": "social",
+      "start_char": 244,
+      "end_char": 250,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 41,
+      "text": "media",
+      "start_char": 251,
+      "end_char": 256,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 42,
+      "text": ",",
+      "start_char": 256,
+      "end_char": 257,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 43,
+      "text": "or",
+      "start_char": 258,
+      "end_char": 260,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 44,
+      "text": "others",
+      "start_char": 261,
+      "end_char": 267,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 45,
+      "text": "may",
+      "start_char": 268,
+      "end_char": 271,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 46,
+      "text": "be",
+      "start_char": 272,
+      "end_char": 274,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 47,
+      "text": "used",
+      "start_char": 275,
+      "end_char": 279,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 48,
+      "text": "to",
+      "start_char": 280,
+      "end_char": 282,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 49,
+      "text": "communicate",
+      "start_char": 283,
+      "end_char": 294,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 50,
+      "text": "the",
+      "start_char": 295,
+      "end_char": 298,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 51,
+      "text": "information",
+      "start_char": 299,
+      "end_char": 310,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 52,
+      "text": ".",
+      "start_char": 310,
+      "end_char": 311,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Determination",
+      "start_char": 1,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "of",
+      "start_char": 15,
+      "end_char": 17,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Message",
+      "start_char": 18,
+      "end_char": 25,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Content",
+      "start_char": 26,
+      "end_char": 33,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "The",
+      "start_char": 1,
+      "end_char": 4,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "person",
+      "start_char": 5,
+      "end_char": 11,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "(s",
+      "start_char": 11,
+      "end_char": 13,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": ")",
+      "start_char": 13,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "authorized",
+      "start_char": 15,
+      "end_char": 25,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "to",
+      "start_char": 26,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "send",
+      "start_char": 29,
+      "end_char": 33,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "a",
+      "start_char": 34,
+      "end_char": 35,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "message",
+      "start_char": 36,
+      "end_char": 43,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "will",
+      "start_char": 44,
+      "end_char": 48,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "also",
+      "start_char": 49,
+      "end_char": 53,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "determine",
+      "start_char": 54,
+      "end_char": 63,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "the",
+      "start_char": 64,
+      "end_char": 67,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "content",
+      "start_char": 68,
+      "end_char": 75,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "of",
+      "start_char": 76,
+      "end_char": 78,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "the",
+      "start_char": 79,
+      "end_char": 82,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "message",
+      "start_char": 83,
+      "end_char": 90,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": ".",
+      "start_char": 90,
+      "end_char": 91,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "There",
+      "start_char": 92,
+      "end_char": 97,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "are",
+      "start_char": 98,
+      "end_char": 101,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "a",
+      "start_char": 102,
+      "end_char": 103,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "number",
+      "start_char": 104,
+      "end_char": 110,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "of",
+      "start_char": 111,
+      "end_char": 113,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "pre-scripted",
+      "start_char": 114,
+      "end_char": 126,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": ",",
+      "start_char": 126,
+      "end_char": 127,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "pre-ap",
+      "start_char": 128,
+      "end_char": 134,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "-",
+      "start_char": 134,
+      "end_char": 135,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "proved",
+      "start_char": 136,
+      "end_char": 142,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "messages",
+      "start_char": 143,
+      "end_char": 151,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "from",
+      "start_char": 152,
+      "end_char": 156,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "which",
+      "start_char": 157,
+      "end_char": 162,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "authorized",
+      "start_char": 163,
+      "end_char": 173,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "person",
+      "start_char": 174,
+      "end_char": 180,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "(s",
+      "start_char": 180,
+      "end_char": 182,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": ")",
+      "start_char": 182,
+      "end_char": 183,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "may",
+      "start_char": 184,
+      "end_char": 187,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "choose",
+      "start_char": 188,
+      "end_char": 194,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "from",
+      "start_char": 195,
+      "end_char": 199,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": ".",
+      "start_char": 199,
+      "end_char": 200,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Initiating",
+      "start_char": 1,
+      "end_char": 11,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "the",
+      "start_char": 12,
+      "end_char": 15,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Notification",
+      "start_char": 16,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "System",
+      "start_char": 29,
+      "end_char": 35,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Once",
+      "start_char": 1,
+      "end_char": 5,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "the",
+      "start_char": 6,
+      "end_char": 9,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "authorized",
+      "start_char": 10,
+      "end_char": 20,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "person",
+      "start_char": 21,
+      "end_char": 27,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "has",
+      "start_char": 28,
+      "end_char": 31,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "confirmed",
+      "start_char": 32,
+      "end_char": 41,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "the",
+      "start_char": 42,
+      "end_char": 45,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "emergency",
+      "start_char": 46,
+      "end_char": 55,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": ",",
+      "start_char": 55,
+      "end_char": 56,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "selected",
+      "start_char": 57,
+      "end_char": 65,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "the",
+      "start_char": 66,
+      "end_char": 69,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "areas",
+      "start_char": 70,
+      "end_char": 75,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "of",
+      "start_char": 76,
+      "end_char": 78,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "campus",
+      "start_char": 79,
+      "end_char": 85,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "that",
+      "start_char": 86,
+      "end_char": 90,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "need",
+      "start_char": 91,
+      "end_char": 95,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "to",
+      "start_char": 96,
+      "end_char": 98,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "be",
+      "start_char": 99,
+      "end_char": 101,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "notified",
+      "start_char": 102,
+      "end_char": 110,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": ",",
+      "start_char": 110,
+      "end_char": 111,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "chosen",
+      "start_char": 112,
+      "end_char": 118,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "the",
+      "start_char": 119,
+      "end_char": 122,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "appropriate",
+      "start_char": 123,
+      "end_char": 134,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "communicationmediatouse",
+      "start_char": 135,
+      "end_char": 158,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": ",",
+      "start_char": 158,
+      "end_char": 159,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "anddeterminedthecontentofthemessage,he/shewillcallthepersonnelresponsibleforphysicallyactivating",
+      "start_char": 159,
+      "end_char": 255,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "each",
+      "start_char": 256,
+      "end_char": 260,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "individual",
+      "start_char": 261,
+      "end_char": 271,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "communication",
+      "start_char": 272,
+      "end_char": 285,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "method",
+      "start_char": 286,
+      "end_char": 292,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 31,
+      "text": ".",
+      "start_char": 292,
+      "end_char": 293,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Follow",
+      "start_char": 1,
+      "end_char": 7,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "-",
+      "start_char": 7,
+      "end_char": 8,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Up",
+      "start_char": 8,
+      "end_char": 10,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Communication",
+      "start_char": 11,
+      "end_char": 24,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Once",
+      "start_char": 1,
+      "end_char": 5,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "a",
+      "start_char": 6,
+      "end_char": 7,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "mass",
+      "start_char": 8,
+      "end_char": 12,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "notification",
+      "start_char": 13,
+      "end_char": 25,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "is",
+      "start_char": 26,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "issued",
+      "start_char": 29,
+      "end_char": 35,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": ",",
+      "start_char": 35,
+      "end_char": 36,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "the",
+      "start_char": 37,
+      "end_char": 40,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "person",
+      "start_char": 41,
+      "end_char": 47,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "who",
+      "start_char": 48,
+      "end_char": 51,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "authorized",
+      "start_char": 52,
+      "end_char": 62,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "the",
+      "start_char": 63,
+      "end_char": 66,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "notification",
+      "start_char": 67,
+      "end_char": 79,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "will",
+      "start_char": 80,
+      "end_char": 84,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "immediately",
+      "start_char": 85,
+      "end_char": 96,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "contact",
+      "start_char": 97,
+      "end_char": 104,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "the",
+      "start_char": 105,
+      "end_char": 108,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "University",
+      "start_char": 109,
+      "end_char": 119,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Emergency",
+      "start_char": 120,
+      "end_char": 129,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Manage",
+      "start_char": 130,
+      "end_char": 136,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "-",
+      "start_char": 136,
+      "end_char": 137,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "ment",
+      "start_char": 138,
+      "end_char": 142,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Team",
+      "start_char": 143,
+      "end_char": 147,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Executive",
+      "start_char": 148,
+      "end_char": 157,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Policy",
+      "start_char": 158,
+      "end_char": 164,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "Group",
+      "start_char": 165,
+      "end_char": 170,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 27,
+      "text": ".",
+      "start_char": 170,
+      "end_char": 171,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "The",
+      "start_char": 1,
+      "end_char": 4,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "initial",
+      "start_char": 5,
+      "end_char": 12,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "notification",
+      "start_char": 13,
+      "end_char": 25,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "should",
+      "start_char": 26,
+      "end_char": 32,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "be",
+      "start_char": 33,
+      "end_char": 35,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "followed",
+      "start_char": 36,
+      "end_char": 44,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "by",
+      "start_char": 45,
+      "end_char": 47,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "a",
+      "start_char": 48,
+      "end_char": 49,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "subsequent",
+      "start_char": 50,
+      "end_char": 60,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "message",
+      "start_char": 61,
+      "end_char": 68,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "(s",
+      "start_char": 68,
+      "end_char": 70,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": ")",
+      "start_char": 70,
+      "end_char": 71,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "that",
+      "start_char": 72,
+      "end_char": 76,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "provides",
+      "start_char": 77,
+      "end_char": 85,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "greater",
+      "start_char": 86,
+      "end_char": 93,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "detail",
+      "start_char": 94,
+      "end_char": 100,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "of",
+      "start_char": 101,
+      "end_char": 103,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "the",
+      "start_char": 104,
+      "end_char": 107,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "incident",
+      "start_char": 108,
+      "end_char": 116,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "and",
+      "start_char": 117,
+      "end_char": 120,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "/",
+      "start_char": 120,
+      "end_char": 121,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "or",
+      "start_char": 121,
+      "end_char": 123,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "protective",
+      "start_char": 124,
+      "end_char": 134,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "action",
+      "start_char": 135,
+      "end_char": 141,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "recommendations",
+      "start_char": 142,
+      "end_char": 157,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": ".",
+      "start_char": 157,
+      "end_char": 158,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "If",
+      "start_char": 159,
+      "end_char": 161,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "the",
+      "start_char": 162,
+      "end_char": 165,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "incident",
+      "start_char": 166,
+      "end_char": 174,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "requires",
+      "start_char": 175,
+      "end_char": 183,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "an",
+      "start_char": 184,
+      "end_char": 186,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "extended",
+      "start_char": 187,
+      "end_char": 195,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "response",
+      "start_char": 196,
+      "end_char": 204,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "time",
+      "start_char": 205,
+      "end_char": 209,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": ",",
+      "start_char": 209,
+      "end_char": 210,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "subsequent",
+      "start_char": 211,
+      "end_char": 221,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "information",
+      "start_char": 222,
+      "end_char": 233,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "releases",
+      "start_char": 234,
+      "end_char": 242,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "should",
+      "start_char": 243,
+      "end_char": 249,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "be",
+      "start_char": 250,
+      "end_char": 252,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "done",
+      "start_char": 253,
+      "end_char": 257,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "so",
+      "start_char": 258,
+      "end_char": 260,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "at",
+      "start_char": 261,
+      "end_char": 263,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "the",
+      "start_char": 264,
+      "end_char": 267,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "discretion",
+      "start_char": 268,
+      "end_char": 278,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "of",
+      "start_char": 279,
+      "end_char": 281,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "the",
+      "start_char": 282,
+      "end_char": 285,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "University",
+      "start_char": 286,
+      "end_char": 296,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Public",
+      "start_char": 297,
+      "end_char": 303,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Information",
+      "start_char": 304,
+      "end_char": 315,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Officer",
+      "start_char": 316,
+      "end_char": 323,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "or",
+      "start_char": 324,
+      "end_char": 326,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "designee",
+      "start_char": 327,
+      "end_char": 335,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": ".",
+      "start_char": 335,
+      "end_char": 336,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Disseminating",
+      "start_char": 1,
+      "end_char": 14,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Information",
+      "start_char": 15,
+      "end_char": 26,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "to",
+      "start_char": 27,
+      "end_char": 29,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "the",
+      "start_char": 30,
+      "end_char": 33,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Surrounding",
+      "start_char": 34,
+      "end_char": 45,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "Community",
+      "start_char": 46,
+      "end_char": 55,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "If",
+      "start_char": 1,
+      "end_char": 3,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "a",
+      "start_char": 4,
+      "end_char": 5,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "dangerous",
+      "start_char": 6,
+      "end_char": 15,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "situation",
+      "start_char": 16,
+      "end_char": 25,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "exists",
+      "start_char": 26,
+      "end_char": 32,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "on",
+      "start_char": 33,
+      "end_char": 35,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "campus",
+      "start_char": 36,
+      "end_char": 42,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "that",
+      "start_char": 43,
+      "end_char": 47,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "has",
+      "start_char": 48,
+      "end_char": 51,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "the",
+      "start_char": 52,
+      "end_char": 55,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "potential",
+      "start_char": 56,
+      "end_char": 65,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "to",
+      "start_char": 66,
+      "end_char": 68,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "affect",
+      "start_char": 69,
+      "end_char": 75,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "the",
+      "start_char": 76,
+      "end_char": 79,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "surrounding",
+      "start_char": 80,
+      "end_char": 91,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "Columbia",
+      "start_char": 92,
+      "end_char": 100,
+      "ner": "S-GPE",
+      "multi_ner": [
+        "S-GPE"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "community",
+      "start_char": 101,
+      "end_char": 110,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": ",",
+      "start_char": 110,
+      "end_char": 111,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "the",
+      "start_char": 112,
+      "end_char": 115,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "person",
+      "start_char": 116,
+      "end_char": 122,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "who",
+      "start_char": 123,
+      "end_char": 126,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "authorized",
+      "start_char": 127,
+      "end_char": 137,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "the",
+      "start_char": 138,
+      "end_char": 141,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "alert",
+      "start_char": 142,
+      "end_char": 147,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "will",
+      "start_char": 148,
+      "end_char": 152,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "notify",
+      "start_char": 153,
+      "end_char": 159,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "DLES",
+      "start_char": 160,
+      "end_char": 164,
+      "ner": "S-ORG",
+      "multi_ner": [
+        "S-ORG"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "dispatch",
+      "start_char": 165,
+      "end_char": 173,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "to",
+      "start_char": 174,
+      "end_char": 176,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "call",
+      "start_char": 177,
+      "end_char": 181,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Columbia",
+      "start_char": 182,
+      "end_char": 190,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 32,
+      "text": "–",
+      "start_char": 191,
+      "end_char": 192,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Richland",
+      "start_char": 193,
+      "end_char": 201,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 34,
+      "text": "911",
+      "start_char": 202,
+      "end_char": 205,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 35,
+      "text": "Communications",
+      "start_char": 206,
+      "end_char": 220,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 36,
+      "text": "Center",
+      "start_char": 221,
+      "end_char": 227,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 37,
+      "text": ",",
+      "start_char": 227,
+      "end_char": 228,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 38,
+      "text": "or",
+      "start_char": 229,
+      "end_char": 231,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 39,
+      "text": "the",
+      "start_char": 232,
+      "end_char": 235,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 40,
+      "text": "appropriate",
+      "start_char": 236,
+      "end_char": 247,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 41,
+      "text": "authority",
+      "start_char": 248,
+      "end_char": 257,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 42,
+      "text": "dependent",
+      "start_char": 258,
+      "end_char": 267,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 43,
+      "text": "on",
+      "start_char": 268,
+      "end_char": 270,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 44,
+      "text": "the",
+      "start_char": 271,
+      "end_char": 274,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 45,
+      "text": "nature",
+      "start_char": 275,
+      "end_char": 281,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 46,
+      "text": "and",
+      "start_char": 282,
+      "end_char": 285,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 47,
+      "text": "type",
+      "start_char": 286,
+      "end_char": 290,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 48,
+      "text": "of",
+      "start_char": 291,
+      "end_char": 293,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 49,
+      "text": "emergency",
+      "start_char": 294,
+      "end_char": 303,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 50,
+      "text": ",",
+      "start_char": 303,
+      "end_char": 304,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 51,
+      "text": "to",
+      "start_char": 305,
+      "end_char": 307,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 52,
+      "text": "make",
+      "start_char": 308,
+      "end_char": 312,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 53,
+      "text": "the",
+      "start_char": 313,
+      "end_char": 316,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 54,
+      "text": "determination",
+      "start_char": 317,
+      "end_char": 330,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 55,
+      "text": "to",
+      "start_char": 331,
+      "end_char": 333,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 56,
+      "text": "initiate",
+      "start_char": 334,
+      "end_char": 342,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 57,
+      "text": "its",
+      "start_char": 343,
+      "end_char": 346,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 58,
+      "text": "community",
+      "start_char": 347,
+      "end_char": 356,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 59,
+      "text": "notification",
+      "start_char": 357,
+      "end_char": 369,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 60,
+      "text": "process",
+      "start_char": 370,
+      "end_char": 377,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 61,
+      "text": ".",
+      "start_char": 377,
+      "end_char": 378,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Emergency",
+      "start_char": 1,
+      "end_char": 10,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Notification",
+      "start_char": 11,
+      "end_char": 23,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Tests",
+      "start_char": 24,
+      "end_char": 29,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "The",
+      "start_char": 1,
+      "end_char": 4,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Carolina",
+      "start_char": 5,
+      "end_char": 13,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "Alert",
+      "start_char": 14,
+      "end_char": 19,
+      "ner": "I-ORG",
+      "multi_ner": [
+        "I-ORG"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "System",
+      "start_char": 20,
+      "end_char": 26,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "is",
+      "start_char": 27,
+      "end_char": 29,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "tested",
+      "start_char": 30,
+      "end_char": 36,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "at",
+      "start_char": 37,
+      "end_char": 39,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "least",
+      "start_char": 40,
+      "end_char": 45,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "once",
+      "start_char": 46,
+      "end_char": 50,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "a",
+      "start_char": 51,
+      "end_char": 52,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "year",
+      "start_char": 53,
+      "end_char": 57,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "to",
+      "start_char": 58,
+      "end_char": 60,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "ensure",
+      "start_char": 61,
+      "end_char": 67,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "the",
+      "start_char": 68,
+      "end_char": 71,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "system",
+      "start_char": 72,
+      "end_char": 78,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "is",
+      "start_char": 79,
+      "end_char": 81,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "operational",
+      "start_char": 82,
+      "end_char": 93,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "and",
+      "start_char": 94,
+      "end_char": 97,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "to",
+      "start_char": 98,
+      "end_char": 100,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "introduce",
+      "start_char": 101,
+      "end_char": 110,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "members",
+      "start_char": 111,
+      "end_char": 118,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "of",
+      "start_char": 119,
+      "end_char": 121,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "the",
+      "start_char": 122,
+      "end_char": 125,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "Carolina",
+      "start_char": 126,
+      "end_char": 134,
+      "ner": "S-GPE",
+      "multi_ner": [
+        "S-GPE"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "community",
+      "start_char": 135,
+      "end_char": 144,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "to",
+      "start_char": 145,
+      "end_char": 147,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "the",
+      "start_char": 148,
+      "end_char": 151,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "methods",
+      "start_char": 152,
+      "end_char": 159,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": "in",
+      "start_char": 160,
+      "end_char": 162,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 30,
+      "text": "which",
+      "start_char": 163,
+      "end_char": 168,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 31,
+      "text": "they",
+      "start_char": 169,
+      "end_char": 173,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 32,
+      "text": "can",
+      "start_char": 174,
+      "end_char": 177,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "receive",
+      "start_char": 178,
+      "end_char": 185,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 34,
+      "text": "notifications",
+      "start_char": 186,
+      "end_char": 199,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 35,
+      "text": "during",
+      "start_char": 200,
+      "end_char": 206,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 36,
+      "text": "an",
+      "start_char": 207,
+      "end_char": 209,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 37,
+      "text": "emergency",
+      "start_char": 210,
+      "end_char": 219,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 38,
+      "text": ".",
+      "start_char": 219,
+      "end_char": 220,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "The",
+      "start_char": 220,
+      "end_char": 223,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "test",
+      "start_char": 224,
+      "end_char": 228,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "also",
+      "start_char": 229,
+      "end_char": 233,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "provides",
+      "start_char": 234,
+      "end_char": 242,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "information",
+      "start_char": 243,
+      "end_char": 254,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "regarding",
+      "start_char": 255,
+      "end_char": 264,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "what",
+      "start_char": 265,
+      "end_char": 269,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "to",
+      "start_char": 270,
+      "end_char": 272,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "do",
+      "start_char": 273,
+      "end_char": 275,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "in",
+      "start_char": 276,
+      "end_char": 278,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "the",
+      "start_char": 279,
+      "end_char": 282,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "event",
+      "start_char": 283,
+      "end_char": 288,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "of",
+      "start_char": 289,
+      "end_char": 291,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "an",
+      "start_char": 292,
+      "end_char": 294,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "actual",
+      "start_char": 295,
+      "end_char": 301,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "emergency",
+      "start_char": 302,
+      "end_char": 311,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": ".",
+      "start_char": 311,
+      "end_char": 312,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "A",
+      "start_char": 1,
+      "end_char": 2,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "summary",
+      "start_char": 3,
+      "end_char": 10,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "oftheUniversity",
+      "start_char": 11,
+      "end_char": 26,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "’s",
+      "start_char": 26,
+      "end_char": 28,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "emergency",
+      "start_char": 29,
+      "end_char": 38,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "response",
+      "start_char": 39,
+      "end_char": 47,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "and",
+      "start_char": 48,
+      "end_char": 51,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "evacuation",
+      "start_char": 52,
+      "end_char": 62,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "procedures",
+      "start_char": 63,
+      "end_char": 73,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "is",
+      "start_char": 74,
+      "end_char": 76,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "distributed",
+      "start_char": 77,
+      "end_char": 88,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "in",
+      "start_char": 89,
+      "end_char": 91,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "conjunction",
+      "start_char": 92,
+      "end_char": 103,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "with",
+      "start_char": 104,
+      "end_char": 108,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "at",
+      "start_char": 109,
+      "end_char": 111,
+      "ner": "B-CARDINAL",
+      "multi_ner": [
+        "B-CARDINAL"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "least",
+      "start_char": 112,
+      "end_char": 117,
+      "ner": "I-CARDINAL",
+      "multi_ner": [
+        "I-CARDINAL"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "one",
+      "start_char": 118,
+      "end_char": 121,
+      "ner": "E-CARDINAL",
+      "multi_ner": [
+        "E-CARDINAL"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "annualtest",
+      "start_char": 122,
+      "end_char": 132,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "per",
+      "start_char": 133,
+      "end_char": 136,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "year",
+      "start_char": 137,
+      "end_char": 141,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": ".",
+      "start_char": 141,
+      "end_char": 142,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "After",
+      "start_char": 1,
+      "end_char": 6,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "each",
+      "start_char": 7,
+      "end_char": 11,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "test",
+      "start_char": 12,
+      "end_char": 16,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "or",
+      "start_char": 17,
+      "end_char": 19,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "activation",
+      "start_char": 20,
+      "end_char": 30,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "of",
+      "start_char": 31,
+      "end_char": 33,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "the",
+      "start_char": 34,
+      "end_char": 37,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "Carolina",
+      "start_char": 38,
+      "end_char": 46,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Alert",
+      "start_char": 47,
+      "end_char": 52,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "system",
+      "start_char": 53,
+      "end_char": 59,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": ",",
+      "start_char": 59,
+      "end_char": 60,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "a",
+      "start_char": 61,
+      "end_char": 62,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "brief",
+      "start_char": 63,
+      "end_char": 68,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "after",
+      "start_char": 69,
+      "end_char": 74,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "action",
+      "start_char": 75,
+      "end_char": 81,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "report",
+      "start_char": 82,
+      "end_char": 88,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "is",
+      "start_char": 89,
+      "end_char": 91,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "written",
+      "start_char": 92,
+      "end_char": 99,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "to",
+      "start_char": 100,
+      "end_char": 102,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "evaluate",
+      "start_char": 103,
+      "end_char": 111,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "the",
+      "start_char": 112,
+      "end_char": 115,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "event",
+      "start_char": 116,
+      "end_char": 121,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "against",
+      "start_char": 122,
+      "end_char": 129,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "measurable",
+      "start_char": 130,
+      "end_char": 140,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "goals",
+      "start_char": 141,
+      "end_char": 146,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": ".",
+      "start_char": 146,
+      "end_char": 147,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ],
+  [
+    {
+      "id": 1,
+      "text": "This",
+      "start_char": 147,
+      "end_char": 151,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "documentincludes",
+      "start_char": 152,
+      "end_char": 168,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": ":",
+      "start_char": 168,
+      "end_char": 169,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "purpose",
+      "start_char": 170,
+      "end_char": 177,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 5,
+      "text": ",",
+      "start_char": 177,
+      "end_char": 178,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "date",
+      "start_char": 179,
+      "end_char": 183,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "/",
+      "start_char": 184,
+      "end_char": 185,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "time",
+      "start_char": 186,
+      "end_char": 190,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": ",",
+      "start_char": 190,
+      "end_char": 191,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "whether",
+      "start_char": 192,
+      "end_char": 199,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "the",
+      "start_char": 200,
+      "end_char": 203,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "test",
+      "start_char": 204,
+      "end_char": 208,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "was",
+      "start_char": 209,
+      "end_char": 212,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "announced",
+      "start_char": 213,
+      "end_char": 222,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 15,
+      "text": "or",
+      "start_char": 223,
+      "end_char": 225,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 16,
+      "text": "unannounced",
+      "start_char": 226,
+      "end_char": 237,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 17,
+      "text": ",",
+      "start_char": 237,
+      "end_char": 238,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "participants",
+      "start_char": 239,
+      "end_char": 251,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 19,
+      "text": ",",
+      "start_char": 251,
+      "end_char": 252,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "description",
+      "start_char": 253,
+      "end_char": 264,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 21,
+      "text": ",",
+      "start_char": 264,
+      "end_char": 265,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 22,
+      "text": "successes",
+      "start_char": 265,
+      "end_char": 274,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 23,
+      "text": ",",
+      "start_char": 274,
+      "end_char": 275,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 24,
+      "text": "shortcomings",
+      "start_char": 276,
+      "end_char": 288,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "and",
+      "start_char": 289,
+      "end_char": 292,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "corrective",
+      "start_char": 293,
+      "end_char": 303,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 27,
+      "text": "action",
+      "start_char": 304,
+      "end_char": 310,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 28,
+      "text": "recommendations",
+      "start_char": 311,
+      "end_char": 326,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 29,
+      "text": ".",
+      "start_char": 326,
+      "end_char": 327,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+], [
+  [
+    {
+      "id": 1,
+      "text": "Additional",
+      "start_char": 1,
+      "end_char": 11,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "information",
+      "start_char": 12,
+      "end_char": 23,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 3,
+      "text": "concerning",
+      "start_char": 24,
+      "end_char": 34,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Carolina",
+      "start_char": 35,
+      "end_char": 43,
+      "ner": "B-ORG",
+      "multi_ner": [
+        "B-ORG"
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Alert",
+      "start_char": 44,
+      "end_char": 49,
+      "ner": "E-ORG",
+      "multi_ner": [
+        "E-ORG"
+      ]
+    },
+    {
+      "id": 6,
+      "text": "can",
+      "start_char": 50,
+      "end_char": 53,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 7,
+      "text": "be",
+      "start_char": 54,
+      "end_char": 56,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 8,
+      "text": "found",
+      "start_char": 57,
+      "end_char": 62,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "at",
+      "start_char": 63,
+      "end_char": 65,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 10,
+      "text": ":",
+      "start_char": 65,
+      "end_char": 66,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    },
+    {
+      "id": 11,
+      "text": "www.sc.edu/CarolinaAlert.",
+      "start_char": 67,
+      "end_char": 92,
+      "ner": "O",
+      "multi_ner": [
+        "O"
+      ]
+    }
+  ]
+]]
